@@ -32,6 +32,16 @@ h1 b{color:var(--gold)}
 .tag.inj-status{color:var(--amber);border-color:var(--amber)}
 .tag.inj-reason{color:var(--dim);border-color:var(--dim)}
 .tag.milestone{color:var(--blue);border-color:var(--blue)}
+.slate{display:flex;gap:10px;overflow-x:auto;padding-bottom:6px}
+.sg{min-width:230px;background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:10px 12px;flex:0 0 auto}
+.sg .mu{font-family:'Oswald',sans-serif;font-size:15px}
+.sg .mu b{color:var(--gold)}
+.sg .st{color:var(--dim);font-size:11px;margin:2px 0 6px}
+.sg .st.live{color:var(--green)}
+.sg .inj{font-size:10.5px;color:var(--dim);line-height:1.5}
+.sg .inj .o{color:var(--red)} .sg .inj .q{color:var(--amber)}
+.watch{margin-top:8px;border-top:1px solid var(--line);padding-top:7px;font-size:11px;color:var(--dim);line-height:1.6}
+.watch b{color:var(--tx)}
 .ev .tx{flex:1;line-height:1.45}
 .ev .tx b{color:var(--gold)}
 .ev .tm{color:var(--dim);font-size:10px;white-space:nowrap;margin-top:2px}
@@ -58,10 +68,16 @@ h1 b{color:var(--gold)}
   <div class="ctrl">
     <button class="btn" id="updateAll">⟳ Update all</button>
     <button class="btn ghost" id="tokenBtn">token</button>
+    <button class="btn ghost" id="bellBtn">🔔 alerts</button>
     <span id="dispatchMsg" class="dmsg"></span>
   </div>
 
   <div class="grid" id="statusGrid"></div>
+
+  <div id="slateWrap" style="display:none">
+    <div class="feedhd">Tonight's slate</div>
+    <div class="slate" id="slate"></div>
+  </div>
 
   <div class="feedhd">Latest activity</div>
   <div id="feed"><div class="empty">Loading feeds…</div></div>
@@ -71,7 +87,7 @@ h1 b{color:var(--gold)}
 
 <script>
 "use strict";
-const ADMIN_BUILD="admin v3 · playoff milestones source · 2026-06-11";
+const ADMIN_BUILD="admin v4 · slate strip + watch list + quality + alerts · 2026-06-11";
 console.log("[ADMIN]",ADMIN_BUILD);
 
 /* ============================================================
@@ -167,10 +183,23 @@ async function loadBoxscores(src){
     });
     count++;
   }
+  let qrow=["Data quality","—"], qchips=[], qstatus=null;
+  try{
+    const qr=await fetch(raw(src.owner,src.repo,"data/quality_report.json"),{cache:"no-cache"});
+    if(qr.ok){
+      const q=await qr.json();
+      qstatus=q.status;
+      qrow=["Data quality",q.status.toUpperCase()+" · "+ago(q.generated_at_utc)];
+      qchips=(q.checks||[]).filter(c=>c.status==="warn"||c.status==="fail")
+        .map(c=>`${esc(c.label)}: <b>${c.status}</b>`);
+    }
+  }catch(e){}
+  if(qstatus==="fail")notifyOnce("quality-fail","Box scores DB: data quality FAIL");
   state.cards[src.id]={
     rows:[["Season",`${sy-1}-${String(sy).slice(-2)}`],
           ["Processed through",st.last_processed_date||"—"],
-          ["Games in tail",String(count)]],
+          ["Games in tail",String(count)],qrow],
+    chips:qchips,
   };
 }
 
@@ -190,9 +219,16 @@ async function loadInjuries(src){
   const j=await r.json();
   const counts={Out:0,Doubtful:0,Questionable:0,Probable:0,Available:0};
   let nys=0;
+  state.injByTeam={};
   (j.teams||[]).forEach(t=>{
     if(t.not_yet_submitted)nys++;
-    (t.players||[]).forEach(p=>{if(p.status in counts)counts[p.status]++});
+    const e={out:[],q:[]};
+    (t.players||[]).forEach(p=>{
+      if(p.status in counts)counts[p.status]++;
+      if(p.status==="Out")e.out.push(p.name);
+      else if(p.status==="Questionable"||p.status==="Doubtful")e.q.push(p.name);
+    });
+    state.injByTeam[t.team_abbr]=e;
   });
   (j.recent_changes||[]).slice(0,60).forEach(c=>{
     state.events.push({day:c.ts.slice(0,10),ts:c.ts,kind:INJ_TAG[c.type]||"inj-reason",
@@ -203,6 +239,56 @@ async function loadInjuries(src){
           ["Pending teams",String(nys)]],
     chips:Object.entries(counts).filter(([,v])=>v>0).map(([k,v])=>`${k} <b>${v}</b>`),
   };
+}
+
+/* ---------------- failure alerts ---------------- */
+const BELL_KEY="hoopsmatic_admin_alerts";
+const notified=new Set();
+function alertsOn(){return localStorage.getItem(BELL_KEY)==="1"&&("Notification" in window)&&Notification.permission==="granted"}
+async function toggleAlerts(){
+  if(!("Notification" in window))return alert("This browser doesn't support notifications.");
+  if(alertsOn()){localStorage.setItem(BELL_KEY,"0")}
+  else{
+    const p=await Notification.requestPermission();
+    if(p==="granted")localStorage.setItem(BELL_KEY,"1");
+  }
+  renderBell();
+}
+function renderBell(){const b=$("bellBtn");b.classList.toggle("has",alertsOn());b.textContent=alertsOn()?"🔔 alerts ✓":"🔔 alerts"}
+function notifyOnce(key,msg){
+  if(!alertsOn()||notified.has(key))return;
+  notified.add(key);
+  try{new Notification("HoopsMatic Admin",{body:msg})}catch(e){}
+}
+
+/* ---------------- tonight's slate (cdn scoreboard, client-side) ---------------- */
+async function loadSlate(){
+  try{
+    const r=await fetch("https://cdn.nba.com/static/json/liveData/scoreboard/todaysScoreboard_00.json",{cache:"no-cache"});
+    if(!r.ok)throw new Error("HTTP "+r.status);
+    const games=((await r.json()).scoreboard||{}).games||[];
+    if(!games.length){$("slateWrap").style.display="none";return}
+    const inj=t=>{
+      const e=(state.injByTeam||{})[t];if(!e)return "";
+      const o=e.out.slice(0,2).map(n=>`<span class="o">${esc(n)} OUT</span>`);
+      const q=e.q.slice(0,2).map(n=>`<span class="q">${esc(n)} ?</span>`);
+      const more=(e.out.length>2?e.out.length-2:0)+(e.q.length>2?e.q.length-2:0);
+      const bits=[...o,...q];if(more)bits.push(`+${more}`);
+      return bits.length?`<div>${t}: ${bits.join(" · ")}</div>`:"";
+    };
+    $("slate").innerHTML=games.map(g=>{
+      const a=g.awayTeam||{},h=g.homeTeam||{};
+      const live=g.gameStatus===2, fin=g.gameStatus===3;
+      const score=g.gameStatus!==1?` <b>${a.score??""}–${h.score??""}</b>`:"";
+      const st=(g.gameStatusText||"").trim();
+      return `<div class="sg">
+        <div class="mu">${esc(a.teamTricode)} @ ${esc(h.teamTricode)}${score}</div>
+        <div class="st ${live?"live":""}">${live?"🔴 ":""}${esc(st)}${fin?"":""}</div>
+        <div class="inj">${inj(a.teamTricode)}${inj(h.teamTricode)}</div>
+      </div>`;
+    }).join("");
+    $("slateWrap").style.display="";
+  }catch(e){console.warn("slate unavailable:",e);$("slateWrap").style.display="none"}
 }
 
 /* ---------------- playoff milestones source ---------------- */
@@ -217,11 +303,13 @@ async function loadMilestones(src){
   (j.recent_milestones||[]).slice(0,40).forEach(m=>{
     state.events.push({day:m.ts.slice(0,10),ts:m.ts,kind:"milestone",tag:"MILESTONE",html:esc(m.text)});
   });
+  const watch=(j.watch_list||[]).slice(0,5);
   state.cards[src.id]={
     rows:[["Last poll",ago(j.last_polled_utc)],
           ["Live playoff games",String(liveGames.length)],
           ["Playoff PTS leader",leader]],
     chips:movers.map(x=>`${esc(x.name)} <b>+${x.delta}</b>`),
+    extra:watch.length?`<div class="watch"><b>Watch:</b> ${watch.map(w=>esc(w.text)).join("<br>")}</div>`:"",
   };
 }
 
@@ -303,13 +391,14 @@ function renderCards(){
     const dot=h.runOk==="success"?'<span class="ok">●</span>':h.runOk==="failure"?'<span class="bad">●</span>':'<span class="unk">●</span>';
     const rows=(card&&card.rows||[["Status",err?"unavailable":"—"]])
       .map(([k,v])=>`<div class="kv"><span>${esc(k)}</span><b>${esc(v)}</b></div>`).join("");
-    const chips=card&&card.chips?`<div class="statuschips">${card.chips.map(c=>`<span class="chip">${c}</span>`).join("")}</div>`:"";
+    const chips=card&&card.chips&&card.chips.length?`<div class="statuschips">${card.chips.map(c=>`<span class="chip">${c}</span>`).join("")}</div>`:"";
+    const extra=card&&card.extra?card.extra:"";
     return `<div class="card">
       <h2>${esc(s.label)} ${dot}</h2>
       ${rows}
       <div class="kv"><span>Last commit</span><b>${ago(h.commit)}</b></div>
       <div class="kv"><span>Last workflow</span><b>${h.runOk||"—"} · ${ago(h.run)}</b></div>
-      ${chips}
+      ${chips}${extra}
       <div class="links">
         <a href="${s.page(s.owner)}" target="_blank">app</a>
         <a href="https://github.com/${s.owner}/${s.repo}" target="_blank">repo</a>
@@ -342,6 +431,7 @@ function renderTop(ok,total){
 /* ---------------- orchestration ---------------- */
 async function refreshFeeds(){
   state.events=[];
+  loadSlate();
   let ok=0;
   for(const s of SOURCES){
     try{await s.loader(s);ok++}
@@ -350,13 +440,19 @@ async function refreshFeeds(){
   renderCards();renderFeed();renderTop(ok,SOURCES.length);
 }
 async function refreshHealth(){
-  for(const s of SOURCES)await loadHealth(s);
+  for(const s of SOURCES){
+    const prev=(state.health[s.id]||{}).runOk;
+    await loadHealth(s);
+    const cur=(state.health[s.id]||{}).runOk;
+    if(cur==="failure"&&prev!=="failure")notifyOnce("wf-"+s.id+"-"+((state.health[s.id]||{}).run||""),s.label+": workflow FAILED");
+  }
   renderCards();
 }
 (async function init(){
-  renderTokenBtn();
+  renderTokenBtn();renderBell();
   $("updateAll").addEventListener("click",updateAll);
   $("tokenBtn").addEventListener("click",setToken);
+  $("bellBtn").addEventListener("click",toggleAlerts);
   await Promise.all([refreshFeeds(),refreshHealth()]);
   setInterval(refreshFeeds,60000);
   setInterval(refreshHealth,600000);
