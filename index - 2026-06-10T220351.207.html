@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>HoopsMatic Admin — NBA Data HQ</title>
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#0b0b1a;--panel:#14142b;--panel2:#1b1b36;--line:#2a2a4d;--tx:#e8e8f4;--dim:#8a8ab0;--gold:#ffd24d;--acc:#ff5a36;--green:#34d97a;--red:#ff6b6b;--amber:#e0b14f;--blue:#5b9ee0}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:var(--bg);color:var(--tx);font-family:'JetBrains Mono',monospace;font-size:13px;min-height:100vh}
+.wrap{max-width:1080px;margin:0 auto;padding:22px 16px 60px}
+h1{font-family:'Oswald',sans-serif;font-size:24px;letter-spacing:2px;text-transform:uppercase}
+h1 b{color:var(--gold)}
+.sub{color:var(--dim);margin:4px 0 16px;font-size:12px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:12px;margin-bottom:18px}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:14px}
+.card h2{font-family:'Oswald',sans-serif;font-size:14px;letter-spacing:1.5px;text-transform:uppercase;color:var(--gold);margin-bottom:8px;display:flex;justify-content:space-between;align-items:center}
+.card h2 .ok{color:var(--green)} .card h2 .bad{color:var(--red)} .card h2 .unk{color:var(--dim)}
+.kv{display:flex;justify-content:space-between;gap:8px;padding:3px 0;color:var(--dim)}
+.kv b{color:var(--tx);font-weight:600;text-align:right}
+.card a{color:var(--blue);text-decoration:none;font-size:11px;margin-right:10px}
+.card a:hover{color:var(--gold)}
+.links{margin-top:8px;border-top:1px solid var(--line);padding-top:8px}
+.feedhd{font-family:'Oswald',sans-serif;font-size:16px;letter-spacing:1.5px;text-transform:uppercase;margin:18px 0 10px}
+.dayhd{color:var(--dim);font-size:11px;letter-spacing:1.5px;text-transform:uppercase;margin:16px 0 8px;border-bottom:1px solid var(--line);padding-bottom:4px}
+.ev{display:flex;gap:10px;align-items:flex-start;background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:9px 12px;margin-bottom:6px}
+.tag{font-family:'Oswald',sans-serif;font-size:9px;font-weight:700;letter-spacing:1px;border:1px solid;border-radius:4px;padding:2px 7px;white-space:nowrap;margin-top:1px}
+.tag.game{color:var(--gold);border-color:var(--gold)}
+.tag.inj-added{color:var(--red);border-color:var(--red)}
+.tag.inj-cleared{color:var(--green);border-color:var(--green)}
+.tag.inj-status{color:var(--amber);border-color:var(--amber)}
+.tag.inj-reason{color:var(--dim);border-color:var(--dim)}
+.ev .tx{flex:1;line-height:1.45}
+.ev .tx b{color:var(--gold)}
+.ev .tm{color:var(--dim);font-size:10px;white-space:nowrap;margin-top:2px}
+.statuschips{display:flex;gap:6px;flex-wrap:wrap;margin-top:6px}
+.chip{border:1px solid var(--line);background:var(--panel2);border-radius:99px;padding:3px 10px;font-size:11px;color:var(--dim)}
+.chip b{color:var(--tx)}
+.empty{padding:24px;text-align:center;color:var(--dim);background:var(--panel);border:1px solid var(--line);border-radius:10px}
+.note{color:var(--dim);font-size:11px;margin-top:26px}
+.note b{color:var(--gold)}
+@media(max-width:640px){.grid{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>HoopsMatic <b>Admin</b></h1>
+  <div class="sub" id="topline">NBA Data HQ — pipelines, updates and feeds in one place · loading…</div>
+
+  <div class="grid" id="statusGrid"></div>
+
+  <div class="feedhd">Latest activity</div>
+  <div id="feed"><div class="empty">Loading feeds…</div></div>
+
+  <div class="note" id="buildNote"></div>
+</div>
+
+<script>
+"use strict";
+const ADMIN_BUILD="admin v1 · unified feed + pipeline health · 2026-06-10";
+console.log("[ADMIN]",ADMIN_BUILD);
+
+/* ============================================================
+   SOURCES REGISTRY — add future projects here.
+   Each source: repo info (for health), plus an optional loader
+   that contributes events to the unified feed and lines to its
+   status card. Set `owner` per source if repos live on
+   different accounts.
+   ============================================================ */
+const DEFAULT_OWNER="aderoa";
+const SOURCES=[
+  {
+    id:"boxscores", label:"Box Scores DB", owner:DEFAULT_OWNER, repo:"nba-boxscores",
+    workflow:"Daily box score update",
+    page:o=>`https://${o}.github.io/nba-boxscores/`,
+    loader:loadBoxscores,
+  },
+  {
+    id:"injuries", label:"Injury Pulse", owner:DEFAULT_OWNER, repo:"nba-injury-pulse",
+    workflow:"Poll NBA injury report",
+    page:o=>`https://${o}.github.io/nba-injury-pulse/`,
+    loader:loadInjuries,
+  },
+  // future: {id:"draft", label:"Draft Tracker", repo:"nba-draft-tracker", loader:loadDraft, ...}
+];
+
+const state={events:[],cards:{},health:{},teamNames:null};
+const $=s=>document.getElementById(s);
+const esc=x=>{const d=document.createElement("div");d.textContent=String(x==null?"":x);return d.innerHTML};
+const raw=(o,r,p)=>`https://raw.githubusercontent.com/${o}/${r}/main/${p}`;
+function ago(iso){
+  if(!iso)return "—";
+  const s=(Date.now()-new Date(iso).getTime())/1000;
+  if(s<90)return Math.round(s)+"s ago";
+  if(s<5400)return Math.round(s/60)+"m ago";
+  if(s<129600)return Math.round(s/3600)+"h ago";
+  return Math.round(s/86400)+"d ago";
+}
+function currentSy(){const n=new Date();return n.getMonth()>=8?n.getFullYear()+1:n.getFullYear()}
+
+/* ---------------- box scores source ---------------- */
+async function tailNDJSON(url,bytes){
+  try{
+    const r=await fetch(url,{headers:{"Range":`bytes=-${bytes}`},cache:"no-cache"});
+    if(r.status===206){
+      const t=await r.text();
+      const lines=t.split("\n");lines.shift();           // drop partial first line
+      return lines.map(l=>l.trim()).filter(Boolean).map(l=>{try{return JSON.parse(l)}catch(e){return null}}).filter(Boolean);
+    }
+  }catch(e){}
+  const r=await fetch(url,{cache:"no-cache"});           // fallback: full file
+  if(!r.ok)throw new Error("HTTP "+r.status);
+  const t=await r.text();
+  return t.split("\n").map(l=>l.trim()).filter(Boolean).map(l=>{try{return JSON.parse(l)}catch(e){return null}}).filter(Boolean);
+}
+function teamLabel(tri,sy){
+  if(state.teamNames){
+    for(const r of state.teamNames){
+      if(r.nba===tri&&(r.minSy==null||sy>=r.minSy)&&(r.maxSy==null||sy<=r.maxSy))return r.name;
+    }
+  }
+  return tri;
+}
+function gameTypeTag(gid){
+  const c=String(gid||"")[2];
+  return c==="4"?" · Playoffs":c==="5"?" · Play-In":"";
+}
+async function loadBoxscores(src){
+  const sy=currentSy();
+  // team names (once)
+  if(state.teamNames===null){
+    try{const r=await fetch(raw(src.owner,src.repo,"data/team_codes.json"),{cache:"no-cache"});
+        state.teamNames=r.ok?(await r.json()).rules:false;}catch(e){state.teamNames=false}
+  }
+  let st={};
+  try{st=await (await fetch(raw(src.owner,src.repo,"state.json"),{cache:"no-cache"})).json()}catch(e){}
+  const games=await tailNDJSON(raw(src.owner,src.repo,`data/${sy}/games.ndjson`),120000);
+  const recent=games.slice(-40);
+  const days=new Set(recent.map(g=>g.date));
+  const lastDays=[...days].sort().slice(-4);             // last 4 game dates in tail
+  let count=0;
+  for(const g of recent){
+    if(!lastDays.includes(g.date))continue;
+    state.events.push({
+      day:g.date, ts:g.date+"T23:59:59Z", kind:"game",
+      html:`<b>${esc(teamLabel(g.away,sy))} ${g.awayScore??"—"}</b> @ <b>${esc(teamLabel(g.home,sy))} ${g.homeScore??"—"}</b>${gameTypeTag(g.gameId)}`
+    });
+    count++;
+  }
+  state.cards[src.id]={
+    rows:[["Season",`${sy-1}-${String(sy).slice(-2)}`],
+          ["Processed through",st.last_processed_date||"—"],
+          ["Games in tail",String(count)]],
+  };
+}
+
+/* ---------------- injuries source ---------------- */
+const INJ_TAG={added:"inj-added",cleared:"inj-cleared",status_change:"inj-status",reason_change:"inj-reason"};
+const INJ_LABEL={added:"INJ +",cleared:"INJ ✓",status_change:"INJ ~",reason_change:"INJ ·"};
+function injText(c){
+  if(c.type==="added")return `<b>${esc(c.player)}</b> (${esc(c.team_abbr)}) listed <b>${esc(c.status)}</b>${c.reason?` — ${esc(c.reason)}`:""}`;
+  if(c.type==="cleared")return `<b>${esc(c.player)}</b> (${esc(c.team_abbr)}) cleared (was ${esc(c.previous_status||"?")})`;
+  if(c.type==="status_change")return `<b>${esc(c.player)}</b> (${esc(c.team_abbr)}): ${esc(c.from_status)} → <b>${esc(c.to_status)}</b>`;
+  if(c.type==="reason_change")return `<b>${esc(c.player)}</b> (${esc(c.team_abbr)}, ${esc(c.status)}): reason updated`;
+  return esc(JSON.stringify(c));
+}
+async function loadInjuries(src){
+  const r=await fetch(raw(src.owner,src.repo,"data/injury_pulse_live.json"),{cache:"no-cache"});
+  if(!r.ok)throw new Error("HTTP "+r.status);
+  const j=await r.json();
+  const counts={Out:0,Doubtful:0,Questionable:0,Probable:0,Available:0};
+  let nys=0;
+  (j.teams||[]).forEach(t=>{
+    if(t.not_yet_submitted)nys++;
+    (t.players||[]).forEach(p=>{if(p.status in counts)counts[p.status]++});
+  });
+  (j.recent_changes||[]).slice(0,60).forEach(c=>{
+    state.events.push({day:c.ts.slice(0,10),ts:c.ts,kind:INJ_TAG[c.type]||"inj-reason",
+                       tag:INJ_LABEL[c.type]||"INJ",html:injText(c)});
+  });
+  state.cards[src.id]={
+    rows:[["Report",j.report_ts||"—"],["Last poll",ago(j.polled_at_utc)],
+          ["Pending teams",String(nys)]],
+    chips:Object.entries(counts).filter(([,v])=>v>0).map(([k,v])=>`${k} <b>${v}</b>`),
+  };
+}
+
+/* ---------------- pipeline health (GitHub API) ---------------- */
+async function loadHealth(src){
+  const h={commit:null,run:null,runOk:null};
+  try{
+    const c=await (await fetch(`https://api.github.com/repos/${src.owner}/${src.repo}/commits?per_page=1`)).json();
+    if(Array.isArray(c)&&c[0])h.commit=c[0].commit.committer.date;
+  }catch(e){}
+  try{
+    const r=await (await fetch(`https://api.github.com/repos/${src.owner}/${src.repo}/actions/runs?per_page=1`)).json();
+    if(r.workflow_runs&&r.workflow_runs[0]){
+      h.run=r.workflow_runs[0].updated_at;
+      h.runOk=r.workflow_runs[0].conclusion;             // success / failure / null(running)
+    }
+  }catch(e){}
+  state.health[src.id]=h;
+}
+
+/* ---------------- render ---------------- */
+function renderCards(){
+  $("statusGrid").innerHTML=SOURCES.map(s=>{
+    const card=state.cards[s.id], h=state.health[s.id]||{}, err=state.cards[s.id]===undefined;
+    const dot=h.runOk==="success"?'<span class="ok">●</span>':h.runOk==="failure"?'<span class="bad">●</span>':'<span class="unk">●</span>';
+    const rows=(card&&card.rows||[["Status",err?"unavailable":"—"]])
+      .map(([k,v])=>`<div class="kv"><span>${esc(k)}</span><b>${esc(v)}</b></div>`).join("");
+    const chips=card&&card.chips?`<div class="statuschips">${card.chips.map(c=>`<span class="chip">${c}</span>`).join("")}</div>`:"";
+    return `<div class="card">
+      <h2>${esc(s.label)} ${dot}</h2>
+      ${rows}
+      <div class="kv"><span>Last commit</span><b>${ago(h.commit)}</b></div>
+      <div class="kv"><span>Last workflow</span><b>${h.runOk||"—"} · ${ago(h.run)}</b></div>
+      ${chips}
+      <div class="links">
+        <a href="${s.page(s.owner)}" target="_blank">app</a>
+        <a href="https://github.com/${s.owner}/${s.repo}" target="_blank">repo</a>
+        <a href="https://github.com/${s.owner}/${s.repo}/actions" target="_blank">actions</a>
+      </div>
+    </div>`;
+  }).join("");
+}
+function renderFeed(){
+  const evs=state.events.slice().sort((a,b)=>a.ts<b.ts?1:-1).slice(0,120);
+  if(!evs.length){$("feed").innerHTML='<div class="empty">No activity loaded — sources may still be empty or unreachable.</div>';return}
+  const byDay={};
+  evs.forEach(e=>{(byDay[e.day]=byDay[e.day]||[]).push(e)});
+  $("feed").innerHTML=Object.keys(byDay).sort().reverse().map(day=>{
+    const d=new Date(day+"T12:00:00");
+    const lab=d.toLocaleDateString([],{weekday:"short",month:"short",day:"numeric",year:"numeric"});
+    return `<div class="dayhd">${lab}</div>`+byDay[day].map(e=>{
+      const tag=e.kind==="game"?'<span class="tag game">FINAL</span>':`<span class="tag ${e.kind}">${esc(e.tag)}</span>`;
+      const t=e.kind==="game"?"":new Date(e.ts).toLocaleTimeString([],{hour:"numeric",minute:"2-digit"});
+      return `<div class="ev">${tag}<div class="tx">${e.html}</div><div class="tm">${t}</div></div>`;
+    }).join("");
+  }).join("");
+}
+function renderTop(ok,total){
+  $("topline").textContent=`NBA Data HQ — ${ok}/${total} sources live · refreshed ${new Date().toLocaleTimeString([],{hour:"numeric",minute:"2-digit",second:"2-digit"})}`;
+  $("buildNote").innerHTML=`build <b>${esc(ADMIN_BUILD)}</b> · sources refresh: feeds 60s · pipeline health 10min · add new projects in the SOURCES registry at the top of this file`;
+}
+
+/* ---------------- orchestration ---------------- */
+async function refreshFeeds(){
+  state.events=[];
+  let ok=0;
+  for(const s of SOURCES){
+    try{await s.loader(s);ok++}
+    catch(e){console.warn(s.id,"loader failed:",e);state.cards[s.id]=undefined}
+  }
+  renderCards();renderFeed();renderTop(ok,SOURCES.length);
+}
+async function refreshHealth(){
+  for(const s of SOURCES)await loadHealth(s);
+  renderCards();
+}
+(async function init(){
+  await Promise.all([refreshFeeds(),refreshHealth()]);
+  setInterval(refreshFeeds,60000);
+  setInterval(refreshHealth,600000);
+})();
+</script>
+</body>
+</html>
