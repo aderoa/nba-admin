@@ -31,6 +31,7 @@ h1 b{color:var(--gold)}
 .tag.inj-cleared{color:var(--green);border-color:var(--green)}
 .tag.inj-status{color:var(--amber);border-color:var(--amber)}
 .tag.inj-reason{color:var(--dim);border-color:var(--dim)}
+.tag.milestone{color:var(--blue);border-color:var(--blue)}
 .ev .tx{flex:1;line-height:1.45}
 .ev .tx b{color:var(--gold)}
 .ev .tm{color:var(--dim);font-size:10px;white-space:nowrap;margin-top:2px}
@@ -70,7 +71,7 @@ h1 b{color:var(--gold)}
 
 <script>
 "use strict";
-const ADMIN_BUILD="admin v2 · update buttons (workflow dispatch) · 2026-06-10";
+const ADMIN_BUILD="admin v3 · playoff milestones source · 2026-06-11";
 console.log("[ADMIN]",ADMIN_BUILD);
 
 /* ============================================================
@@ -93,6 +94,12 @@ const SOURCES=[
     workflow:"Poll NBA injury report", workflowFile:"poll.yml",
     page:o=>`https://${o}.github.io/nba-injury-pulse/`,
     loader:loadInjuries,
+  },
+  {
+    id:"milestones", label:"Playoff Milestones", owner:DEFAULT_OWNER, repo:"nba-milestones",
+    workflow:"Build playoff leaderboards", workflowFile:"build.yml",
+    page:o=>`https://${o}.github.io/nba-milestones/`,
+    loader:loadMilestones,
   },
   // future: {id:"draft", label:"Draft Tracker", repo:"nba-draft-tracker", loader:loadDraft, ...}
 ];
@@ -195,6 +202,26 @@ async function loadInjuries(src){
     rows:[["Report",j.report_ts||"—"],["Last poll",ago(j.polled_at_utc)],
           ["Pending teams",String(nys)]],
     chips:Object.entries(counts).filter(([,v])=>v>0).map(([k,v])=>`${k} <b>${v}</b>`),
+  };
+}
+
+/* ---------------- playoff milestones source ---------------- */
+async function loadMilestones(src){
+  const r=await fetch(raw(src.owner,src.repo,"data/leaderboards_live.json"),{cache:"no-cache"});
+  if(!r.ok)throw new Error("HTTP "+r.status);
+  const j=await r.json();
+  const liveGames=(j.active_games||[]).filter(g=>g.in_progress);
+  const pts=(j.stats&&j.stats.PTS&&j.stats.PTS.rows)||[];
+  const leader=pts[0]?`${pts[0].name} (${pts[0].total.toLocaleString()})`:"—";
+  const movers=pts.filter(x=>x.live&&x.delta>0).slice(0,4);
+  (j.recent_milestones||[]).slice(0,40).forEach(m=>{
+    state.events.push({day:m.ts.slice(0,10),ts:m.ts,kind:"milestone",tag:"MILESTONE",html:esc(m.text)});
+  });
+  state.cards[src.id]={
+    rows:[["Last poll",ago(j.last_polled_utc)],
+          ["Live playoff games",String(liveGames.length)],
+          ["Playoff PTS leader",leader]],
+    chips:movers.map(x=>`${esc(x.name)} <b>+${x.delta}</b>`),
   };
 }
 
