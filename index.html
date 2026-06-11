@@ -40,6 +40,13 @@ h1 b{color:var(--gold)}
 .empty{padding:24px;text-align:center;color:var(--dim);background:var(--panel);border:1px solid var(--line);border-radius:10px}
 .note{color:var(--dim);font-size:11px;margin-top:26px}
 .note b{color:var(--gold)}
+.ctrl{display:flex;gap:10px;align-items:center;margin:0 0 16px}
+.btn{font-family:'Oswald',sans-serif;font-size:12px;letter-spacing:1.5px;text-transform:uppercase;background:var(--gold);color:#1a1400;border:none;border-radius:8px;padding:8px 16px;font-weight:700;cursor:pointer}
+.btn:disabled{opacity:.45;cursor:default}
+.btn.ghost{background:var(--panel2);color:var(--dim);border:1px solid var(--line)}
+.btn.ghost.has{color:var(--green);border-color:var(--green)}
+.dmsg{color:var(--dim);font-size:11px}
+.card .runlink{color:var(--gold);cursor:pointer}
 @media(max-width:640px){.grid{grid-template-columns:1fr}}
 </style>
 </head>
@@ -47,6 +54,11 @@ h1 b{color:var(--gold)}
 <div class="wrap">
   <h1>HoopsMatic <b>Admin</b></h1>
   <div class="sub" id="topline">NBA Data HQ — pipelines, updates and feeds in one place · loading…</div>
+  <div class="ctrl">
+    <button class="btn" id="updateAll">⟳ Update all</button>
+    <button class="btn ghost" id="tokenBtn">token</button>
+    <span id="dispatchMsg" class="dmsg"></span>
+  </div>
 
   <div class="grid" id="statusGrid"></div>
 
@@ -58,7 +70,7 @@ h1 b{color:var(--gold)}
 
 <script>
 "use strict";
-const ADMIN_BUILD="admin v1 · unified feed + pipeline health · 2026-06-10";
+const ADMIN_BUILD="admin v2 · update buttons (workflow dispatch) · 2026-06-10";
 console.log("[ADMIN]",ADMIN_BUILD);
 
 /* ============================================================
@@ -72,13 +84,13 @@ const DEFAULT_OWNER="aderoa";
 const SOURCES=[
   {
     id:"boxscores", label:"Box Scores DB", owner:DEFAULT_OWNER, repo:"nba-boxscores",
-    workflow:"Daily box score update",
+    workflow:"Daily box score update", workflowFile:"daily.yml",
     page:o=>`https://${o}.github.io/nba-boxscores/`,
     loader:loadBoxscores,
   },
   {
     id:"injuries", label:"Injury Pulse", owner:DEFAULT_OWNER, repo:"nba-injury-pulse",
-    workflow:"Poll NBA injury report",
+    workflow:"Poll NBA injury report", workflowFile:"poll.yml",
     page:o=>`https://${o}.github.io/nba-injury-pulse/`,
     loader:loadInjuries,
   },
@@ -190,17 +202,71 @@ async function loadInjuries(src){
 async function loadHealth(src){
   const h={commit:null,run:null,runOk:null};
   try{
-    const c=await (await fetch(`https://api.github.com/repos/${src.owner}/${src.repo}/commits?per_page=1`)).json();
+    const c=await (await fetch(`https://api.github.com/repos/${src.owner}/${src.repo}/commits?per_page=1`,{headers:apiHeaders()})).json();
     if(Array.isArray(c)&&c[0])h.commit=c[0].commit.committer.date;
   }catch(e){}
   try{
-    const r=await (await fetch(`https://api.github.com/repos/${src.owner}/${src.repo}/actions/runs?per_page=1`)).json();
+    const r=await (await fetch(`https://api.github.com/repos/${src.owner}/${src.repo}/actions/runs?per_page=1`,{headers:apiHeaders()})).json();
     if(r.workflow_runs&&r.workflow_runs[0]){
       h.run=r.workflow_runs[0].updated_at;
       h.runOk=r.workflow_runs[0].conclusion;             // success / failure / null(running)
     }
   }catch(e){}
   state.health[src.id]=h;
+}
+
+/* ---------------- workflow dispatch ---------------- */
+const TOKEN_KEY="hoopsmatic_admin_gh_pat";
+const ghToken=()=>localStorage.getItem(TOKEN_KEY)||"";
+function setToken(){
+  const cur=ghToken();
+  const t=prompt("Fine-grained GitHub PAT (Actions: Read+write on the data repos).\nStored ONLY in this browser's localStorage — never committed anywhere.\nLeave empty to clear.",cur?"(keep current — type to replace)":"");
+  if(t===null)return;
+  if(t===""||t==="(keep current — type to replace)"){ if(t==="")localStorage.removeItem(TOKEN_KEY); }
+  else localStorage.setItem(TOKEN_KEY,t.trim());
+  renderTokenBtn();
+}
+function renderTokenBtn(){
+  const b=$("tokenBtn");
+  b.classList.toggle("has",!!ghToken());
+  b.textContent=ghToken()?"token ✓":"token";
+}
+function apiHeaders(){
+  const h={"Accept":"application/vnd.github+json","X-GitHub-Api-Version":"2022-11-28"};
+  if(ghToken())h["Authorization"]="Bearer "+ghToken();
+  return h;
+}
+async function dispatchSource(src){
+  if(!ghToken()){setToken();if(!ghToken())return false;}
+  const url=`https://api.github.com/repos/${src.owner}/${src.repo}/actions/workflows/${src.workflowFile}/dispatches`;
+  const r=await fetch(url,{method:"POST",headers:apiHeaders(),body:JSON.stringify({ref:"main"})});
+  if(r.status===204)return true;
+  const msg=r.status===401?"token rejected (401)":r.status===403?"token lacks Actions write (403)":
+            r.status===404?"not found (404) — repo/workflow access?":"HTTP "+r.status;
+  throw new Error(`${src.label}: ${msg}`);
+}
+let pendingRefresh=[];
+function scheduleRefreshes(){
+  pendingRefresh.forEach(clearTimeout);
+  pendingRefresh=[30000,90000,180000].map(ms=>setTimeout(()=>{refreshFeeds();refreshHealth()},ms));
+}
+async function updateAll(){
+  const btn=$("updateAll"),msg=$("dispatchMsg");
+  btn.disabled=true;msg.textContent="dispatching…";
+  const ok=[],fail=[];
+  for(const s of SOURCES){
+    if(!s.workflowFile)continue;
+    try{await dispatchSource(s);ok.push(s.label)}catch(e){fail.push(e.message)}
+  }
+  msg.textContent=(ok.length?`started: ${ok.join(", ")} — results in ~1–2 min`:"")+(fail.length?` · failed: ${fail.join(" · ")}`:"");
+  if(ok.length)scheduleRefreshes();
+  btn.disabled=false;
+}
+window.updateOne=async function(id){
+  const src=SOURCES.find(s=>s.id===id),msg=$("dispatchMsg");
+  try{
+    if(await dispatchSource(src)){msg.textContent=`${src.label} run started — results in ~1–2 min`;scheduleRefreshes();}
+  }catch(e){msg.textContent=e.message}
 }
 
 /* ---------------- render ---------------- */
@@ -221,6 +287,7 @@ function renderCards(){
         <a href="${s.page(s.owner)}" target="_blank">app</a>
         <a href="https://github.com/${s.owner}/${s.repo}" target="_blank">repo</a>
         <a href="https://github.com/${s.owner}/${s.repo}/actions" target="_blank">actions</a>
+        ${s.workflowFile?`<a class="runlink" onclick="updateOne('${s.id}')">⟳ update now</a>`:""}
       </div>
     </div>`;
   }).join("");
@@ -260,6 +327,9 @@ async function refreshHealth(){
   renderCards();
 }
 (async function init(){
+  renderTokenBtn();
+  $("updateAll").addEventListener("click",updateAll);
+  $("tokenBtn").addEventListener("click",setToken);
   await Promise.all([refreshFeeds(),refreshHealth()]);
   setInterval(refreshFeeds,60000);
   setInterval(refreshHealth,600000);
