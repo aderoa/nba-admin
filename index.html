@@ -69,10 +69,23 @@ h1 b{color:var(--gold)}
     <button class="btn" id="updateAll">⟳ Update all</button>
     <button class="btn ghost" id="tokenBtn">token</button>
     <button class="btn ghost" id="bellBtn">🔔 alerts</button>
+    <button class="btn ghost" id="logBtn">📋 log</button>
     <span id="dispatchMsg" class="dmsg"></span>
   </div>
 
   <div class="grid" id="statusGrid"></div>
+
+  <div id="logPanel" class="log-panel" style="display:none">
+    <div class="log-head">
+      <span>Event log</span>
+      <span>
+        <button class="log-x" id="logMarkRead">mark read</button>
+        <button class="log-x" id="logClear">clear</button>
+        <button class="log-x" id="logClose">✕</button>
+      </span>
+    </div>
+    <div id="logBody" class="log-body"></div>
+  </div>
 
   <div id="slateWrap" style="display:none">
     <div class="feedhd">Tonight's slate</div>
@@ -87,7 +100,7 @@ h1 b{color:var(--gold)}
 
 <script>
 "use strict";
-const ADMIN_BUILD="admin v4 · slate strip + watch list + quality + alerts · 2026-06-11";
+const ADMIN_BUILD="admin v5 · running event log + per-event notifications · 2026-06-12";
 console.log("[ADMIN]",ADMIN_BUILD);
 
 /* ============================================================
@@ -123,6 +136,11 @@ const SOURCES=[
 const state={events:[],cards:{},health:{},teamNames:null};
 const $=s=>document.getElementById(s);
 const esc=x=>{const d=document.createElement("div");d.textContent=String(x==null?"":x);return d.innerHTML};
+function eid(ev){ // stable id for de-dup across refreshes
+  const base=(ev.kind||"")+"|"+(ev.ts||"")+"|"+(ev.id||ev.html||ev.tag||"");
+  let h=0; for(let i=0;i<base.length;i++){h=((h<<5)-h+base.charCodeAt(i))|0;}
+  return (ev.kind||"e")+"_"+(h>>>0).toString(36);
+}
 const raw=(o,r,p)=>`https://raw.githubusercontent.com/${o}/${r}/main/${p}`;
 function ago(iso){
   if(!iso)return "—";
@@ -243,6 +261,25 @@ async function loadInjuries(src){
 
 /* ---------------- failure alerts ---------------- */
 const BELL_KEY="hoopsmatic_admin_alerts";
+const LOG_KEY="hoopsmatic_admin_eventlog";
+const SEEN_KEY="hoopsmatic_admin_seen";
+const UNREAD_KEY="hoopsmatic_admin_unread";
+let eventLog=[]; let seenIds=new Set(); let firstSync=true;
+function loadLog(){
+  try{ eventLog=JSON.parse(localStorage.getItem(LOG_KEY)||"[]"); }catch(e){ eventLog=[]; }
+  try{ seenIds=new Set(JSON.parse(localStorage.getItem(SEEN_KEY)||"[]")); }catch(e){ seenIds=new Set(); }
+  // if we already have a seen-set from a prior session, this isn't a first sync
+  firstSync = seenIds.size===0;
+}
+function saveLog(){
+  try{
+    localStorage.setItem(LOG_KEY, JSON.stringify(eventLog.slice(0,500)));
+    localStorage.setItem(SEEN_KEY, JSON.stringify([...seenIds].slice(-2000)));
+  }catch(e){}
+}
+function unreadCount(){ return +(localStorage.getItem(UNREAD_KEY)||"0"); }
+function setUnread(n){ localStorage.setItem(UNREAD_KEY, String(Math.max(0,n))); renderBell(); }
+
 const notified=new Set();
 function alertsOn(){return localStorage.getItem(BELL_KEY)==="1"&&("Notification" in window)&&Notification.permission==="granted"}
 async function toggleAlerts(){
@@ -254,7 +291,12 @@ async function toggleAlerts(){
   }
   renderBell();
 }
-function renderBell(){const b=$("bellBtn");b.classList.toggle("has",alertsOn());b.textContent=alertsOn()?"🔔 alerts ✓":"🔔 alerts"}
+function renderBell(){
+  const b=$("bellBtn");
+  const u=unreadCount();
+  b.classList.toggle("has",alertsOn());
+  b.innerHTML=(alertsOn()?"🔔 alerts ✓":"🔔 alerts")+(u>0?' <span class="unread">'+(u>99?"99+":u)+'</span>':"");
+}
 function notifyOnce(key,msg){
   if(!alertsOn()||notified.has(key))return;
   notified.add(key);
@@ -438,6 +480,63 @@ async function refreshFeeds(){
     catch(e){console.warn(s.id,"loader failed:",e);state.cards[s.id]=undefined}
   }
   renderCards();renderFeed();renderTop(ok,SOURCES.length);
+  syncEventLog();
+}
+
+// Record any feed event we haven't seen before into the persistent log, and
+// fire a browser notification for each new one (only while the tab is open).
+// On the very first sync after a fresh start we seed 'seen' WITHOUT notifying,
+// so opening the dashboard doesn't dump a hundred alerts at once.
+function syncEventLog(){
+  const fresh=[];
+  for(const ev of state.events){
+    const id=eid(ev);
+    if(seenIds.has(id))continue;
+    seenIds.add(id);
+    const rec={id, kind:ev.kind, ts:ev.ts||new Date().toISOString(),
+               text:(ev.text||ev.html||"").toString(), tag:ev.tag||labelForKind(ev.kind)};
+    fresh.push(rec);
+  }
+  if(fresh.length){
+    // newest first into the log
+    fresh.sort((a,b)=>a.ts<b.ts?1:-1);
+    eventLog=fresh.concat(eventLog).slice(0,500);
+    if(!firstSync){
+      // notify each new event (cap the burst so a slate doesn't spam 50 popups)
+      const toNotify=fresh.slice(0,8);
+      for(const r of toNotify) notifyEvent(r);
+      if(fresh.length>toNotify.length) notifyOnce("burst-"+Date.now(), (fresh.length-toNotify.length)+" more updates in the log");
+      setUnread(unreadCount()+fresh.length);
+    }
+    saveLog();
+    renderLogPanel();
+  }
+  firstSync=false;
+  saveLog();
+}
+function labelForKind(k){
+  return k==="game"?"FINAL":k==="milestone"?"MILESTONE":
+         k&&k.indexOf("inj")===0?"INJURY":(k||"EVENT").toUpperCase();
+}
+function stripTags(html){const d=document.createElement("div");d.innerHTML=html;return d.textContent||"";}
+function renderLogPanel(){
+  const body=$("logBody"); if(!body)return;
+  if(!eventLog.length){ body.innerHTML='<div class="log-empty">No events logged yet. They\'ll appear here as games finish, injuries update, and milestones drop.</div>'; return; }
+  body.innerHTML=eventLog.slice(0,200).map(r=>{
+    const cls=r.kind==="game"?"game":r.kind==="milestone"?"milestone":(r.kind&&r.kind.indexOf("inj")===0?"injury":"");
+    const when=new Date(r.ts);
+    const w=isNaN(when)?"":when.toLocaleString([], {month:"short",day:"numeric",hour:"numeric",minute:"2-digit"});
+    return '<div class="log-item"><span class="lt '+cls+'">'+esc(r.tag||"EVENT")+'</span>'+
+           '<div class="lx">'+esc(stripTags(r.text))+'<div class="ld">'+esc(w)+'</div></div></div>';
+  }).join("");
+}
+function openLog(){ $("logPanel").style.display="flex"; renderLogPanel(); setUnread(0); }
+function closeLog(){ $("logPanel").style.display="none"; }
+function clearLog(){ eventLog=[]; saveLog(); renderLogPanel(); setUnread(0); }
+function notifyEvent(r){
+  if(!alertsOn())return;
+  const body=stripTags(r.text).slice(0,140);
+  try{ new Notification("HoopsMatic · "+r.tag, {body, tag:r.id}); }catch(e){}
 }
 async function refreshHealth(){
   for(const s of SOURCES){
@@ -449,10 +548,15 @@ async function refreshHealth(){
   renderCards();
 }
 (async function init(){
+  loadLog();
   renderTokenBtn();renderBell();
   $("updateAll").addEventListener("click",updateAll);
   $("tokenBtn").addEventListener("click",setToken);
   $("bellBtn").addEventListener("click",toggleAlerts);
+  $("logBtn").addEventListener("click",openLog);
+  $("logClose").addEventListener("click",closeLog);
+  $("logMarkRead").addEventListener("click",()=>setUnread(0));
+  $("logClear").addEventListener("click",clearLog);
   await Promise.all([refreshFeeds(),refreshHealth()]);
   setInterval(refreshFeeds,60000);
   setInterval(refreshHealth,600000);
