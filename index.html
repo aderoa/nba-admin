@@ -66,6 +66,27 @@ h1 b{color:var(--gold)}
 .dmsg{color:var(--dim);font-size:11px}
 .card .runlink{color:var(--gold);cursor:pointer}
 
+/* ===== COLLAPSE ===== */
+.card h2 .ctog{cursor:pointer;user-select:none}
+.card h2 .ctog:hover{opacity:.75}
+.card .mini{display:none;color:var(--dim);font-size:12px;
+  font-family:'JetBrains Mono',ui-monospace,monospace;
+  white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.card.collapsed .cbody{display:none}
+.card.collapsed .mini{display:block;margin-top:2px}
+
+/* Condensed: all four on one row. auto-fit rather than a fixed count, so it
+   stays right if a fifth source is added or the window is narrow. */
+body.condensed #statusGrid{grid-template-columns:repeat(auto-fit,minmax(190px,1fr));
+  gap:8px}
+body.condensed .card{padding:9px 11px}
+body.condensed .card h2{font-size:12px;margin:0;letter-spacing:.04em}
+body.condensed .card .cbody{display:none}
+body.condensed .card .mini{display:block;margin-top:3px}
+@media(max-width:640px){
+  body.condensed #statusGrid{grid-template-columns:1fr 1fr}
+}
+
 /* ===== EVENT LOG PANEL =====
    These ten classes were referenced by the JS and the markup but never
    existed in the stylesheet, so `display:flex` dropped the panel into the
@@ -126,6 +147,7 @@ h1 b{color:var(--gold)}
     <button class="btn" id="updateAll">⟳ Update all</button>
     <button class="btn ghost" id="tokenBtn">token</button>
     <button class="btn ghost" id="bellBtn">🔔 alerts</button>
+    <button class="btn ghost" id="condenseBtn">▤ condense</button>
     <button class="btn ghost" id="logBtn">📋 log</button>
     <span id="dispatchMsg" class="dmsg"></span>
   </div>
@@ -157,7 +179,7 @@ h1 b{color:var(--gold)}
 
 <script>
 "use strict";
-const ADMIN_BUILD="admin v5.3 · trackers via nba-admin repo · 2026-08-06";
+const ADMIN_BUILD="admin v5.4 · season-aware milestones · collapsible cards · 2026-08-06";
 console.log("[ADMIN]",ADMIN_BUILD);
 
 /* ============================================================
@@ -182,8 +204,13 @@ const SOURCES=[
     loader:loadInjuries,
   },
   {
-    id:"milestones", label:"Playoff Milestones", owner:DEFAULT_OWNER, repo:"nba-milestones",
-    workflow:"Build playoff leaderboards", workflowFile:"build.yml",
+    // Label is deliberately season-neutral. The repo publishes ONE file,
+    // data/leaderboards_live.json, and its contents switch from playoff to
+    // regular season when the season does -- so hardcoding "Playoff" here
+    // means editing this file every October and April. The loader reads the
+    // scope out of the data instead and says which it found.
+    id:"milestones", label:"Milestones", owner:DEFAULT_OWNER, repo:"nba-milestones",
+    workflow:"Build leaderboards", workflowFile:"build.yml",
     page:o=>`https://${o}.github.io/nba-milestones/`,
     loader:loadMilestones,
   },
@@ -401,22 +428,45 @@ async function loadSlate(){
 }
 
 /* ---------------- playoff milestones source ---------------- */
+/* Which season is this file describing?
+
+   There is no season_type field, and only one file -- so it is read out of the
+   milestone text, which says "all-time playoff scoring list" during the
+   postseason and drops the word the rest of the year. Sampling several lines
+   rather than one, because a single milestone could word it either way.
+
+   Returns "" when there is nothing to judge by; the card then just says
+   Milestones and claims nothing it cannot support. */
+function milestoneScope(j){
+  const txt=(j.recent_milestones||[]).slice(0,25).map(m=>String(m.text||"")).join(" ").toLowerCase();
+  if(!txt) return "";
+  const po=(txt.match(/playoff/g)||[]).length;
+  return po>=3?"Playoffs":"Regular season";
+}
+
 async function loadMilestones(src){
   const r=await fetch(raw(src.owner,src.repo,"data/leaderboards_live.json"),{cache:"no-cache"});
   if(!r.ok)throw new Error("HTTP "+r.status);
   const j=await r.json();
+  const scope=milestoneScope(j);
   const liveGames=(j.active_games||[]).filter(g=>g.in_progress);
   const pts=(j.stats&&j.stats.PTS&&j.stats.PTS.rows)||[];
   const leader=pts[0]?`${pts[0].name} (${pts[0].total.toLocaleString()})`:"—";
   const movers=pts.filter(x=>x.live&&x.delta>0).slice(0,4);
   (j.recent_milestones||[]).slice(0,40).forEach(m=>{
-    state.events.push({day:m.ts.slice(0,10),ts:m.ts,kind:"milestone",tag:"MILESTONE",html:esc(m.text)});
+    state.events.push({day:m.ts.slice(0,10),ts:m.ts,kind:"milestone",
+                       tag:scope==="Playoffs"?"PLAYOFF":"MILESTONE",html:esc(m.text)});
   });
   const watch=(j.watch_list||[]).slice(0,5);
   state.cards[src.id]={
-    rows:[["Last poll",ago(j.last_polled_utc)],
-          ["Live playoff games",String(liveGames.length)],
-          ["Playoff PTS leader",leader]],
+    // "Playoffs Milestones" reads wrong; the adjective differs from the noun.
+    label:scope==="Playoffs"?"Playoff Milestones"
+         :scope==="Regular season"?"Regular Season Milestones":"Milestones",
+    rows:[["Scope",scope||"unknown"],
+          ["Last poll",ago(j.last_polled_utc)],
+          ["Live games",String(liveGames.length)],
+          ["PTS leader",leader]],
+    mini:leader,
     chips:movers.map(x=>`${esc(x.name)} <b>+${x.delta}</b>`),
     extra:watch.length?`<div class="watch"><b>Watch:</b> ${watch.map(w=>esc(w.text)).join("<br>")}</div>`:"",
   };
@@ -469,6 +519,7 @@ async function loadTrackers(src){
     // "Newest event" is when something last HAPPENED; "Published" is when the
     // pusher last ran. A quiet league and a dead pusher look identical if you
     // only show one of them.
+    mini:`${(j.total||0).toLocaleString()} events`,
     rows:[["Events logged",String(j.total||0)],
           ["Newest event",newest?ago(newest.replace(" ","T")):"\u2014"],
           ["Published",j.generated_at?ago(j.generated_at):"\u2014"]],
@@ -550,6 +601,42 @@ window.updateOne=async function(id){
 }
 
 /* ---------------- render ---------------- */
+/* COLLAPSE
+   The cards are reference, not reading -- worth a glance, not half a screen.
+   Two levels: a per-card toggle (click its title) and a global Condense that
+   lays all four out on one row as name + dot + a single fact.
+
+   Both persist, because a layout preference that resets on every reload is
+   worse than not having one. */
+const COLL_KEY="hoopsmatic_admin_collapsed";
+let collapsed=new Set();
+try{collapsed=new Set(JSON.parse(localStorage.getItem(COLL_KEY)||"[]"))}catch(e){}
+function saveColl(){try{localStorage.setItem(COLL_KEY,JSON.stringify([...collapsed]))}catch(e){}}
+
+window.toggleCard=function(id){
+  // In condensed mode a click expands that ONE card rather than fighting the
+  // global setting -- otherwise the toggle appears to do nothing.
+  if(document.body.classList.contains("condensed")){
+    document.body.classList.remove("condensed");
+    localStorage.setItem("hoopsmatic_admin_condensed","0");
+    collapsed=new Set(SOURCES.map(x=>x.id)); collapsed.delete(id);
+  } else if(collapsed.has(id)) collapsed.delete(id); else collapsed.add(id);
+  saveColl(); applyColl();
+};
+window.toggleCondense=function(){
+  const on=!document.body.classList.contains("condensed");
+  document.body.classList.toggle("condensed",on);
+  localStorage.setItem("hoopsmatic_admin_condensed",on?"1":"0");
+  const b=$("condenseBtn"); if(b)b.classList.toggle("on",on);
+  if(on){collapsed.clear();saveColl();}
+  applyColl();
+};
+function applyColl(){
+  document.querySelectorAll("#statusGrid .card").forEach(c=>{
+    c.classList.toggle("collapsed",collapsed.has(c.dataset.id));
+  });
+}
+
 function renderCards(){
   $("statusGrid").innerHTML=SOURCES.map(s=>{
     const card=state.cards[s.id], h=state.health[s.id]||{}, err=state.cards[s.id]===undefined;
@@ -569,14 +656,26 @@ function renderCards(){
          <a href="https://github.com/${s.owner}/${s.repo}" target="_blank">repo</a>
          <a href="https://github.com/${s.owner}/${s.repo}/actions" target="_blank">actions</a>
          ${s.workflowFile?`<a class="runlink" onclick="updateOne('${s.id}')">⟳ update now</a>`:""}`;
-    return `<div class="card">
-      <h2>${esc(s.label)} ${dot}</h2>
-      ${rows}
-      ${gh}
-      ${chips}${extra}
-      <div class="links">${links}</div>
+    // The loader may know a better name than the registry does -- the
+    // milestones card reads its season out of the data.
+    const label=(card&&card.label)||s.label;
+    // One-line summary for the condensed view. Falls back to the first row,
+    // which is always the most important thing that loader chose to show.
+    const mini=(card&&card.mini)||(card&&card.rows&&card.rows[0]
+      ?`${card.rows[0][0]}: ${card.rows[0][1]}`:(err?"unavailable":"—"));
+    return `<div class="card" data-id="${s.id}">
+      <h2><span class="ctog" onclick="toggleCard('${s.id}')" title="collapse">${
+        esc(label)} ${dot}</span></h2>
+      <div class="mini">${esc(mini)}</div>
+      <div class="cbody">
+        ${rows}
+        ${gh}
+        ${chips}${extra}
+        <div class="links">${links}</div>
+      </div>
     </div>`;
   }).join("");
+  applyColl();
 }
 function renderFeed(){
   const evs=state.events.slice().sort((a,b)=>a.ts<b.ts?1:-1).slice(0,120);
@@ -691,6 +790,12 @@ async function refreshHealth(){
   $("tokenBtn").addEventListener("click",setToken);
   $("bellBtn").addEventListener("click",toggleAlerts);
   $("logBtn").addEventListener("click",openLog);
+  $("condenseBtn").addEventListener("click",toggleCondense);
+  // A layout preference that forgets itself on reload is worse than none.
+  if(localStorage.getItem("hoopsmatic_admin_condensed")==="1"){
+    document.body.classList.add("condensed");
+    $("condenseBtn").classList.add("on");
+  }
   $("logClose").addEventListener("click",closeLog);
   $("logMarkRead").addEventListener("click",()=>setUnread(0));
   $("logClear").addEventListener("click",clearLog);
