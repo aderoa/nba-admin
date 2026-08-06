@@ -1,18 +1,6 @@
 {
  "events": [
   {
-   "detail": "REMOVED",
-   "detected_at": "2026-08-06 12:34:58",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-06 12:34:58",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
    "detail": "2026-27 Two-Way Signings  - REMOVED Execution Date: 7/2/26",
    "detected_at": "2026-08-06 12:34:58",
    "source": "DOCS",
@@ -22,36 +10,6 @@
    "detail": "2026-27 Two-Way Signings  + ADDED  Execution Date: 8/5/26",
    "detected_at": "2026-08-06 12:34:58",
    "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "REMOVED",
-   "detected_at": "2026-08-06 12:33:55",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-06 12:33:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-06 12:33:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-06 12:33:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-06 12:33:55",
-   "source": "TRANSACTIONS",
    "type": "ADDED"
   },
   {
@@ -85,30 +43,6 @@
    "type": "ADDED"
   },
   {
-   "detail": "REMOVED",
-   "detected_at": "2026-08-06 12:32:55",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "REMOVED",
-   "detected_at": "2026-08-06 12:32:55",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-06 12:32:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-06 12:32:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
    "detail": "2026-27 Veteran Signings  - REMOVED Minimum Salary Exception. Skill; Injury or Illness; Death. Love of the Game. Physical Exam. Alt. 7(b).",
    "detected_at": "2026-08-06 12:32:55",
    "source": "DOCS",
@@ -133,30 +67,6 @@
    "type": "ADDED"
   },
   {
-   "detail": "ADDED",
-   "detected_at": "2026-08-06 12:31:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-06 12:31:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-06 12:31:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-06 12:31:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
    "detail": "2026-27 Veteran Signings  + ADDED  Kentavious Caldwell-Pope Philadelphia 76ers",
    "detected_at": "2026-08-06 12:31:55",
    "source": "DOCS",
@@ -178,18 +88,6 @@
    "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 7/6/26",
    "detected_at": "2026-08-06 12:31:55",
    "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "REMOVED",
-   "detected_at": "2026-08-06 12:30:56",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-06 12:30:56",
-   "source": "TRANSACTIONS",
    "type": "ADDED"
   },
   {
@@ -289,6 +187,12 @@
    "type": "CHANGED"
   },
   {
+   "detail": "2026-08-05  Philadelphia 76ers signed guard Kentavious Caldwell-Pope to a Contract.",
+   "detected_at": "2026-08-06 08:25:50",
+   "source": "TRANSACTIONS",
+   "type": "Signing"
+  },
+  {
    "detail": "+ ADDED   Kentavious Caldwell-Pope (PHI)",
    "detected_at": "2026-08-06 00:18:57",
    "source": "PLAYERS",
@@ -307,10 +211,22 @@
    "type": "CHANGED"
   },
   {
+   "detail": "2026-08-05  Boston Celtics signed forward Dillon Mitchell to a Two-Way Contract.",
+   "detected_at": "2026-08-05 20:46:55",
+   "source": "TRANSACTIONS",
+   "type": "Signing"
+  },
+  {
    "detail": "- REMOVED JD Davison (HOU)",
    "detected_at": "2026-08-05 17:16:55",
    "source": "PLAYERS",
    "type": "REMOVED"
+  },
+  {
+   "detail": "2026-08-05  Houston Rockets waived guard JD Davison.",
+   "detected_at": "2026-08-05 16:14:55",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
   },
   {
    "detail": "HOU  - REMOVED Davison, JD",
@@ -607,156 +523,6 @@
    "type": "CHANGED"
   },
   {
-   "detail": "REMOVED",
-   "detected_at": "2026-08-05 08:09:10",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-05 08:09:10",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-05 08:09:10",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-05 08:09:10",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-05 08:09:10",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-05 08:09:10",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-05 08:09:10",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-05 08:09:10",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-05 08:09:10",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-05 08:09:10",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-05 08:09:10",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-05 08:09:10",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-05 08:09:10",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-05 08:09:10",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "REMOVED",
-   "detected_at": "2026-08-05 08:09:10",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-05 08:09:10",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-05 08:09:10",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-05 08:09:10",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-05 08:09:10",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-05 08:09:10",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-05 08:09:10",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-05 08:09:10",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "REMOVED",
-   "detected_at": "2026-08-05 08:09:10",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "REMOVED",
-   "detected_at": "2026-08-05 08:09:10",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "REMOVED",
-   "detected_at": "2026-08-05 08:09:10",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
    "detail": "2026-27 Veteran Signings  - REMOVED Update 1.3 (7/18/26): K. Bufkin, M. Cisse, I. Crawford, D. Green, H. Ingram, L. James, S. Jones, C. Koloko, N. Marshall, D. Melton, G. Payton, J. Phillips, J. Sochan, J. Tate, M. Thybulle, O. Tshiebwe, M. Wagner, J. Walsh",
    "detected_at": "2026-08-05 08:09:10",
    "source": "DOCS",
@@ -931,6 +697,12 @@
    "type": "CHANGED"
   },
   {
+   "detail": "2026-08-04  Toronto Raptors signed center Trey Jemison III to a Two-Way Contract.",
+   "detected_at": "2026-08-04 16:25:55",
+   "source": "TRANSACTIONS",
+   "type": "Signing"
+  },
+  {
    "detail": "+ ADDED   Caleb Houstan (NOP)",
    "detected_at": "2026-08-04 16:17:55",
    "source": "PLAYERS",
@@ -973,30 +745,6 @@
    "type": "CHANGED"
   },
   {
-   "detail": "REMOVED",
-   "detected_at": "2026-08-04 13:02:56",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "REMOVED",
-   "detected_at": "2026-08-04 13:02:56",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-04 13:02:56",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-04 13:02:56",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
    "detail": "2026-27 Veteran Signings  - REMOVED Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp.",
    "detected_at": "2026-08-04 13:02:56",
    "source": "DOCS",
@@ -1018,42 +766,6 @@
    "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 8/2/26",
    "detected_at": "2026-08-04 13:02:56",
    "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "REMOVED",
-   "detected_at": "2026-08-04 13:01:57",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-04 13:01:57",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-04 13:01:57",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-04 13:01:57",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-04 13:01:57",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-04 13:01:57",
-   "source": "TRANSACTIONS",
    "type": "ADDED"
   },
   {
@@ -1141,36 +853,6 @@
    "type": "CHANGED"
   },
   {
-   "detail": "ADDED",
-   "detected_at": "2026-08-04 12:56:56",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-04 12:56:56",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-04 12:56:56",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-04 12:56:56",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-04 12:56:56",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
    "detail": "2026-27 Veteran Signings  + ADDED  Moritz Wagner Brooklyn Nets",
    "detected_at": "2026-08-04 12:56:56",
    "source": "DOCS",
@@ -1198,18 +880,6 @@
    "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 7/31/26",
    "detected_at": "2026-08-04 12:56:56",
    "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "REMOVED",
-   "detected_at": "2026-08-04 12:55:56",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-04 12:55:56",
-   "source": "TRANSACTIONS",
    "type": "ADDED"
   },
   {
@@ -1261,18 +931,6 @@
    "type": "CHANGED"
   },
   {
-   "detail": "REMOVED",
-   "detected_at": "2026-08-04 12:54:56",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-04 12:54:56",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
    "detail": "2026-27 Veteran Signings  - REMOVED Execution Date: 7/6/26",
    "detected_at": "2026-08-04 12:54:56",
    "source": "DOCS",
@@ -1282,54 +940,6 @@
    "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 8/2/26",
    "detected_at": "2026-08-04 12:54:56",
    "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "REMOVED",
-   "detected_at": "2026-08-04 12:49:56",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "REMOVED",
-   "detected_at": "2026-08-04 12:49:56",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "REMOVED",
-   "detected_at": "2026-08-04 12:49:56",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "REMOVED",
-   "detected_at": "2026-08-04 12:49:56",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-04 12:49:56",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-04 12:49:56",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-04 12:49:56",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-04 12:49:56",
-   "source": "TRANSACTIONS",
    "type": "ADDED"
   },
   {
@@ -1378,54 +988,6 @@
    "detail": "2026-27 Veteran Signings  + ADDED  4 Years for $52,200,000. Veteran Extension. Advance Payment ($7,830,000). Insurance Premium Reimbursement. Skill; Injury or Illness; Mental.",
    "detected_at": "2026-08-04 12:49:56",
    "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "REMOVED",
-   "detected_at": "2026-08-04 12:48:56",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-04 12:48:56",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-04 12:48:56",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-04 12:48:56",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-04 12:48:56",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-04 12:48:56",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-04 12:48:56",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-04 12:48:56",
-   "source": "TRANSACTIONS",
    "type": "ADDED"
   },
   {
@@ -1499,36 +1061,6 @@
    "detected_at": "2026-08-04 12:47:59",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-04 12:45:57",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-04 12:45:57",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-04 12:45:57",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-04 12:45:57",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-04 12:45:57",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
   },
   {
    "detail": "2026-27 Veteran Signings  + ADDED  De’Anthony Melton Golden State Warriors",
@@ -1619,18 +1151,6 @@
    "detected_at": "2026-08-04 12:45:02",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "REMOVED",
-   "detected_at": "2026-08-04 12:44:57",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-04 12:44:57",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
   },
   {
    "detail": "2026-27 Veteran Signings  - REMOVED Update 1.3 (7/18/26): K. Bufkin, M. Cisse, I. Crawford, D. Green, H. Ingram, L. James, S. Jones, C. Koloko, G. Payton, J. Phillips, J. Tate, M. Thybulle, O. Tshiebwe, J. Walsh",
@@ -1729,30 +1249,6 @@
    "type": "CHANGED"
   },
   {
-   "detail": "REMOVED",
-   "detected_at": "2026-08-04 12:42:56",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "REMOVED",
-   "detected_at": "2026-08-04 12:42:56",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-04 12:42:56",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-04 12:42:56",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
    "detail": "2026-27 Veteran Signings  - REMOVED Minimum Salary Exception. Insurance Premium ReimbuSkill; Injury or Illness; Death. Love of the Game. Physical Exam. Alt. 7(b).",
    "detected_at": "2026-08-04 12:42:56",
    "source": "DOCS",
@@ -1841,42 +1337,6 @@
    "detected_at": "2026-08-04 12:42:02",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "REMOVED",
-   "detected_at": "2026-08-04 12:41:58",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-04 12:41:58",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-04 12:41:58",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-04 12:41:58",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-04 12:41:58",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-04 12:41:58",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
   },
   {
    "detail": "2026-27 Veteran Signings  - REMOVED Update 1.3 (7/18/26): K. Bufkin, M. Cisse, I. Crawford, D. Green, H. Ingram, L. James, S. Jones, C. Koloko, J. Phillips, J. Tate, M. Thybulle, O. Tshiebwe, J. Walsh",
@@ -2161,120 +1621,6 @@
    "type": "CHANGED"
   },
   {
-   "detail": "REMOVED",
-   "detected_at": "2026-08-03 09:14:33",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-03 09:14:33",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-03 09:14:33",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-03 09:14:33",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-03 09:14:33",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-03 09:14:33",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-03 09:14:33",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-03 09:14:33",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-03 09:14:33",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-03 09:14:33",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "REMOVED",
-   "detected_at": "2026-08-03 09:14:33",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-03 09:14:33",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-03 09:14:33",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-03 09:14:33",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-03 09:14:33",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-03 09:14:33",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-03 09:14:33",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-03 09:14:33",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-08-03 09:14:33",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
    "detail": "2026-27 Veteran Signings  - REMOVED Update 1.3 (7/18/26): K. Bufkin, M. Cisse, I. Crawford, H. Ingram, L. James, S. Jones, J. Phillips, J. Tate, M. Thybulle, O. Tshiebwe, J. Walsh",
    "detected_at": "2026-08-03 09:14:33",
    "source": "DOCS",
@@ -2395,6 +1741,18 @@
    "type": "CHANGED"
   },
   {
+   "detail": "2026-08-02  Dallas Mavericks re-signed forward Naji Marshall to a Veteran Extension.",
+   "detected_at": "2026-08-02 14:39:55",
+   "source": "TRANSACTIONS",
+   "type": "Signing"
+  },
+  {
+   "detail": "2026-08-01  Golden State Warriors re-signed guard Gary Payton II to a Contract.",
+   "detected_at": "2026-08-02 12:41:55",
+   "source": "TRANSACTIONS",
+   "type": "Signing"
+  },
+  {
    "detail": "~ CHANGED De'Anthony Melton  school: USC -> Southern California",
    "detected_at": "2026-07-31 19:13:54",
    "source": "PLAYERS",
@@ -2431,6 +1789,12 @@
    "type": "CHANGED"
   },
   {
+   "detail": "2026-07-31  Golden State Warriors re-signed guard De'Anthony Melton to a Contract.",
+   "detected_at": "2026-07-31 17:18:55",
+   "source": "TRANSACTIONS",
+   "type": "Signing"
+  },
+  {
    "detail": "~ CHANGED Bogoljub Marković  name: Bogoljub Markovic -> Bogoljub Marković",
    "detected_at": "2026-07-31 10:04:54",
    "source": "PLAYERS",
@@ -2441,6 +1805,24 @@
    "detected_at": "2026-07-31 09:14:54",
    "source": "PLAYERS",
    "type": "CHANGED"
+  },
+  {
+   "detail": "2026-07-31  Denver Nuggets signed forward Spencer Jones to a Contract.",
+   "detected_at": "2026-07-31 08:31:16",
+   "source": "TRANSACTIONS",
+   "type": "Signing"
+  },
+  {
+   "detail": "2026-07-31  Brooklyn Nets signed forward Moritz Wagner to a Contract.",
+   "detected_at": "2026-07-31 08:31:16",
+   "source": "TRANSACTIONS",
+   "type": "Signing"
+  },
+  {
+   "detail": "2026-07-31  Cleveland Cavaliers signed forward Mario Hezonja to a Contract.",
+   "detected_at": "2026-07-31 08:31:16",
+   "source": "TRANSACTIONS",
+   "type": "Signing"
   },
   {
    "detail": "+ ADDED   Mario Hezonja (CLE)",
@@ -2533,6 +1915,24 @@
    "type": "REMOVED"
   },
   {
+   "detail": "2026-07-30  Charlotte Hornets waived forward Mouhamadou Gueye.",
+   "detected_at": "2026-07-30 14:38:55",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-07-29  Memphis Grizzlies signed forward Karim Lopez to a Rookie Scale Contract.",
+   "detected_at": "2026-07-30 08:54:55",
+   "source": "TRANSACTIONS",
+   "type": "Signing"
+  },
+  {
+   "detail": "2026-07-29  Golden State Warriors re-signed forward Draymond Green to a Contract.",
+   "detected_at": "2026-07-29 19:21:55",
+   "source": "TRANSACTIONS",
+   "type": "Signing"
+  },
+  {
    "detail": "~ CHANGED Jordan McLaughlin  school: USC -> Southern California",
    "detected_at": "2026-07-29 14:02:57",
    "source": "PLAYERS",
@@ -2617,24 +2017,6 @@
    "type": "CHANGED"
   },
   {
-   "detail": "ADDED",
-   "detected_at": "2026-07-29 06:15:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-29 06:15:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-29 06:15:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
    "detail": "2026-27 Two-Way Signings  + ADDED  Arthur Kaluma Los Angeles Lakers",
    "detected_at": "2026-07-29 06:15:55",
    "source": "DOCS",
@@ -2650,42 +2032,6 @@
    "detail": "2026-27 Two-Way Signings  + ADDED  Execution Date: 7/21/26",
    "detected_at": "2026-07-29 06:15:55",
    "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-29 06:14:55",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-29 06:14:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-29 06:14:55",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-29 06:14:55",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-29 06:14:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-29 06:14:55",
-   "source": "TRANSACTIONS",
    "type": "ADDED"
   },
   {
@@ -2725,36 +2071,6 @@
    "type": "ADDED"
   },
   {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-29 06:13:55",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-29 06:13:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-29 06:13:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-29 06:13:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-29 06:13:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
    "detail": "2026-27 Two-Way Signings  - REMOVED Update 1.3 (7/18/26): H. Dickinson, V. Goldin, D. Jones Garcia, J. Pierre, J. Slawson, J. Tonje, J. Wilson",
    "detected_at": "2026-07-29 06:13:55",
    "source": "DOCS",
@@ -2785,24 +2101,6 @@
    "type": "ADDED"
   },
   {
-   "detail": "ADDED",
-   "detected_at": "2026-07-29 06:12:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-29 06:12:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-29 06:12:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
    "detail": "2026-27 Two-Way Signings  + ADDED  Jaron Pierre Jr. (2026 NBA DRAFT) New Orleans Pelicans",
    "detected_at": "2026-07-29 06:12:55",
    "source": "DOCS",
@@ -2818,18 +2116,6 @@
    "detail": "2026-27 Two-Way Signings  + ADDED  Execution Date: 7/23/26",
    "detected_at": "2026-07-29 06:12:55",
    "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-29 06:11:55",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-29 06:11:55",
-   "source": "TRANSACTIONS",
    "type": "ADDED"
   },
   {
@@ -2899,18 +2185,6 @@
    "type": "CHANGED"
   },
   {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-29 06:10:55",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-29 06:10:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
    "detail": "2026-27 Veteran Signings  - REMOVED Execution Date: 7/25/26",
    "detected_at": "2026-07-29 06:10:55",
    "source": "DOCS",
@@ -2920,42 +2194,6 @@
    "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 7/23/26",
    "detected_at": "2026-07-29 06:10:55",
    "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-29 06:09:55",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-29 06:09:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-29 06:09:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-29 06:09:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-29 06:09:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-29 06:09:55",
-   "source": "TRANSACTIONS",
    "type": "ADDED"
   },
   {
@@ -2995,18 +2233,6 @@
    "type": "ADDED"
   },
   {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-29 06:08:55",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-29 06:08:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
    "detail": "2026-27 Veteran Signings  - REMOVED Update 1.3 (7/18/26): K. Bufkin, M. Cisse, I. Crawford, H. Ingram, L. James, S. Jones, J. Phillips, J. Tate, M. Thybulle, J. Walsh",
    "detected_at": "2026-07-29 06:08:55",
    "source": "DOCS",
@@ -3016,24 +2242,6 @@
    "detail": "2026-27 Veteran Signings  + ADDED  Update 1.3 (7/18/26): K. Bufkin, M. Cisse, I. Crawford, H. Ingram, L. James, S. Jones, J. Phillips, J. Tate, O. TshiebweM. Thybulle, J. Walsh",
    "detected_at": "2026-07-29 06:08:55",
    "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-29 06:03:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-29 06:03:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-29 06:03:55",
-   "source": "TRANSACTIONS",
    "type": "ADDED"
   },
   {
@@ -3055,18 +2263,6 @@
    "type": "ADDED"
   },
   {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-29 06:02:55",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-29 06:02:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
    "detail": "2026-27 Two-Way Signings  - REMOVED Update 1.3 (7/18/26): V. Goldin, D. Jones Garcia, J. Slawson, J. Tonje, J. Wilson",
    "detected_at": "2026-07-29 06:02:55",
    "source": "DOCS",
@@ -3076,42 +2272,6 @@
    "detail": "2026-27 Two-Way Signings  + ADDED  Update 1.3 (7/18/26): H. Dickinson, V. Goldin, D. Jones Garcia, J. Slawson, J. Tonje, J. Wilson",
    "detected_at": "2026-07-29 06:02:55",
    "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-29 06:00:55",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-29 06:00:55",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-29 06:00:55",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-29 06:00:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-29 06:00:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-29 06:00:55",
-   "source": "TRANSACTIONS",
    "type": "ADDED"
   },
   {
@@ -3148,48 +2308,6 @@
    "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 7/25/26",
    "detected_at": "2026-07-29 06:00:55",
    "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-29 05:59:55",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-29 05:59:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-29 05:59:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-29 05:59:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-29 05:59:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-29 05:59:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-29 05:59:55",
-   "source": "TRANSACTIONS",
    "type": "ADDED"
   },
   {
@@ -3307,30 +2425,6 @@
    "type": "CHANGED"
   },
   {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-29 05:56:55",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-29 05:56:55",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-29 05:56:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-29 05:56:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
    "detail": "2026-27 Veteran Signings  - REMOVED Minimum Salary Exception. Skill; Injury or Illness. Love of the Game. Physical Exam. Alt. 7(b).",
    "detected_at": "2026-07-29 05:56:55",
    "source": "DOCS",
@@ -3352,42 +2446,6 @@
    "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 7/27/26",
    "detected_at": "2026-07-29 05:56:55",
    "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-29 05:55:56",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-29 05:55:56",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-29 05:55:56",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-29 05:55:56",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-29 05:55:56",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-29 05:55:56",
-   "source": "TRANSACTIONS",
    "type": "ADDED"
   },
   {
@@ -3575,6 +2633,18 @@
    "detected_at": "2026-07-28 17:59:54",
    "source": "PLAYERS",
    "type": "CHANGED"
+  },
+  {
+   "detail": "2026-07-28  LA Clippers received forward Johni Broome from Philadelphia 76ers.",
+   "detected_at": "2026-07-28 17:45:55",
+   "source": "TRANSACTIONS",
+   "type": "Trade"
+  },
+  {
+   "detail": "2026-07-28  LA Clippers received draft consideration from Philadelphia 76ers.",
+   "detected_at": "2026-07-28 17:45:55",
+   "source": "TRANSACTIONS",
+   "type": "Trade"
   },
   {
    "detail": "SAN  CHANGED Wembanyama, Victor  -  col4: - -> 25% of Salary Cap, col5: - -> 25% of Salary Cap, col6: - -> 25% of Salary Cap, col7: - -> 25% of Salary Cap, col8: - -> 25% of Salary Cap",
@@ -4363,6 +3433,12 @@
    "type": "CHANGED"
   },
   {
+   "detail": "2026-07-27  Los Angeles Lakers signed guard Matisse Thybulle to a Contract.",
+   "detected_at": "2026-07-28 07:33:55",
+   "source": "TRANSACTIONS",
+   "type": "Signing"
+  },
+  {
    "detail": "+ ADDED   Spencer Jones (DEN)",
    "detected_at": "2026-07-27 17:55:54",
    "source": "PLAYERS",
@@ -4501,6 +3577,12 @@
    "type": "CHANGED"
   },
   {
+   "detail": "2026-07-27  Sacramento Kings waived guard Isaiah Stevens.",
+   "detected_at": "2026-07-27 14:25:55",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
    "detail": "~ CHANGED Harrison Ingram  team: SAS -> UTA",
    "detected_at": "2026-07-27 09:57:54",
    "source": "PLAYERS",
@@ -4519,28 +3601,16 @@
    "type": "CHANGED"
   },
   {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-27 07:40:56",
+   "detail": "2026-07-25  Memphis Grizzlies waived guard Kentavious Caldwell-Pope.",
+   "detected_at": "2026-07-27 09:50:55",
    "source": "TRANSACTIONS",
-   "type": "REMOVED"
+   "type": "Waive"
   },
   {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-27 07:40:56",
+   "detail": "2026-07-25  Philadelphia 76ers waived forward Dalen Terry.",
+   "detected_at": "2026-07-27 09:50:55",
    "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-27 07:40:56",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-27 07:40:56",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
+   "type": "Waive"
   },
   {
    "detail": "2026-27 Veteran Signings  - REMOVED Minimum Salary Exception. Skill; Injury or Illness; Mental; Death. Love of the Game. Physical Exam. Alt. 7(b).",
@@ -4564,42 +3634,6 @@
    "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 7/25/26",
    "detected_at": "2026-07-27 07:40:56",
    "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-27 07:39:55",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-27 07:39:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-27 07:39:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-27 07:39:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-27 07:39:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-27 07:39:55",
-   "source": "TRANSACTIONS",
    "type": "ADDED"
   },
   {
@@ -4717,42 +3751,6 @@
    "type": "CHANGED"
   },
   {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-27 07:33:55",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-27 07:33:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-27 07:33:55",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-27 07:33:55",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-27 07:33:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-27 07:33:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
    "detail": "2026-27 Veteran Signings  - REMOVED Julian Phill New Orleans Pelicans",
    "detected_at": "2026-07-27 07:33:55",
    "source": "DOCS",
@@ -4786,42 +3784,6 @@
    "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 7/24/26",
    "detected_at": "2026-07-27 07:33:55",
    "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-27 07:32:56",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-27 07:32:56",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-27 07:32:56",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-27 07:32:56",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-27 07:32:56",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-27 07:32:56",
-   "source": "TRANSACTIONS",
    "type": "ADDED"
   },
   {
@@ -4861,30 +3823,6 @@
    "type": "ADDED"
   },
   {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-27 07:31:56",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-27 07:31:56",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-27 07:31:56",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-27 07:31:56",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
    "detail": "2026-27 Veteran Signings  - REMOVED Minimum Salary Exception. Team option to extend the contract to include the 2027-28 Season. Player Trade Consent. Skill; Injury or Illness. Compensation protection for 2026-27 Season is none but will increase to full if team has not requested waivers on player on or before 1 day prior to the first day of the 2026-27 Season. Compensation protection for 2027-28 Season is none but will increase to full if team has not requested waivers on player on or before 1 day prior to the first day of the 2027-28 Season. Love of the Game. Physical Exam. Alt. 7(b).",
    "detected_at": "2026-07-27 07:31:56",
    "source": "DOCS",
@@ -4906,42 +3844,6 @@
    "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 7/25/26",
    "detected_at": "2026-07-27 07:31:56",
    "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-27 07:30:55",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-27 07:30:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-27 07:30:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-27 07:30:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-27 07:30:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-27 07:30:55",
-   "source": "TRANSACTIONS",
    "type": "ADDED"
   },
   {
@@ -5017,24 +3919,6 @@
    "type": "CHANGED"
   },
   {
-   "detail": "ADDED",
-   "detected_at": "2026-07-27 07:28:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-27 07:28:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-27 07:28:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
    "detail": "2026-27 Two-Way Signings  + ADDED  John Tonje Portland Trail Blazers",
    "detected_at": "2026-07-27 07:28:55",
    "source": "DOCS",
@@ -5053,18 +3937,6 @@
    "type": "ADDED"
   },
   {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-27 07:27:56",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-27 07:27:56",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
    "detail": "2026-27 Two-Way Signings  - REMOVED Update 1.3 (7/18/26): V. Goldin, D. Jones Garcia, J. Slawson, J. Wilson",
    "detected_at": "2026-07-27 07:27:56",
    "source": "DOCS",
@@ -5074,36 +3946,6 @@
    "detail": "2026-27 Two-Way Signings  + ADDED  Update 1.3 (7/18/26): V. Goldin, D. Jones Garcia, J. Slawson, J. Tonje, J. Wilson",
    "detected_at": "2026-07-27 07:27:56",
    "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-27 07:24:56",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-27 07:24:56",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-27 07:24:56",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-27 07:24:56",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-27 07:24:56",
-   "source": "TRANSACTIONS",
    "type": "ADDED"
   },
   {
@@ -5137,18 +3979,6 @@
    "type": "ADDED"
   },
   {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-27 07:22:56",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-27 07:22:56",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
    "detail": "2026-27 Veteran Signings  - REMOVED 2 Years for $7,946,884. Minimum Salary Exception. Advance Payment ($596,",
    "detected_at": "2026-07-27 07:22:56",
    "source": "DOCS",
@@ -5158,42 +3988,6 @@
    "detail": "2026-27 Veteran Signings  + ADDED  2 Years for $7,946,884. Minimum Salary Exception. Advance Payment ($596,017). Player option to extend the contract to include the 2027-28 Season.",
    "detected_at": "2026-07-27 07:22:56",
    "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-27 07:21:56",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-27 07:21:56",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-27 07:21:56",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-27 07:21:56",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-27 07:21:56",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-27 07:21:56",
-   "source": "TRANSACTIONS",
    "type": "ADDED"
   },
   {
@@ -5291,18 +4085,6 @@
    "detected_at": "2026-07-27 07:18:58",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-27 07:17:55",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-27 07:17:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
   },
   {
    "detail": "2026-27 Veteran Signings  - REMOVED Update 1.3 (7/18/26): M. Cisse, I. Crawford, J. Tate, J. Walsh",
@@ -5437,6 +4219,24 @@
    "type": "CHANGED"
   },
   {
+   "detail": "2026-07-26  Philadelphia 76ers signed forward LeBron James to a Contract.",
+   "detected_at": "2026-07-26 14:14:55",
+   "source": "TRANSACTIONS",
+   "type": "Signing"
+  },
+  {
+   "detail": "2026-07-26  Memphis Grizzlies waived guard Kentavious Caldwell-Pope.",
+   "detected_at": "2026-07-26 14:14:55",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-07-26  Philadelphia 76ers waived forward Dalen Terry.",
+   "detected_at": "2026-07-26 14:14:55",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
    "detail": "+ ADDED   Kobe Bufkin (NOP)",
    "detected_at": "2026-07-25 21:56:54",
    "source": "PLAYERS",
@@ -5459,6 +4259,12 @@
    "detected_at": "2026-07-25 09:57:54",
    "source": "PLAYERS",
    "type": "REMOVED"
+  },
+  {
+   "detail": "2026-07-24  Portland Trail Blazers signed guard John Tonje to a Two-Way Contract.",
+   "detected_at": "2026-07-25 09:12:50",
+   "source": "TRANSACTIONS",
+   "type": "Signing"
   },
   {
    "detail": "~ CHANGED Julian Phillips  team: MIN -> HOU",
@@ -5495,6 +4301,12 @@
    "detected_at": "2026-07-24 08:40:54",
    "source": "PLAYERS",
    "type": "CHANGED"
+  },
+  {
+   "detail": "2026-07-23  New Orleans Pelicans signed guard Jaron Pierre Jr. to a Two-Way Contract.",
+   "detected_at": "2026-07-24 08:36:56",
+   "source": "TRANSACTIONS",
+   "type": "Signing"
   },
   {
    "detail": "~ CHANGED Bryce Hopkins  school: St. John's -> St. John's, N.Y.",
@@ -5591,186 +4403,6 @@
    "detected_at": "2026-07-24 07:49:46",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-24 07:49:33",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-24 07:49:33",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-24 07:49:33",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-24 07:49:33",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-24 07:49:33",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-24 07:49:33",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-24 07:49:33",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-24 07:49:33",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-24 07:49:33",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-24 07:49:33",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-24 07:49:33",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-24 07:49:33",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-24 07:49:33",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-24 07:49:33",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-24 07:49:33",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-24 07:49:33",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-24 07:49:33",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-24 07:49:33",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-24 07:49:33",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-24 07:49:33",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-24 07:49:33",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-24 07:49:33",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-24 07:49:33",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-24 07:49:33",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-24 07:49:33",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-24 07:49:33",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-24 07:49:33",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-24 07:49:33",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-24 07:49:33",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-24 07:49:33",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
   },
   {
    "detail": "2026-27 Veteran Signings  - REMOVED Update 1.3 (7/18/26): M. Cisse",
@@ -5989,6 +4621,12 @@
    "type": "CHANGED"
   },
   {
+   "detail": "2026-07-22  San Antonio Spurs waived forward Emanuel Miller.",
+   "detected_at": "2026-07-23 13:53:55",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
    "detail": "+ ADDED   LeBron James (no team)",
    "detected_at": "2026-07-23 12:44:54",
    "source": "PLAYERS",
@@ -6025,22 +4663,58 @@
    "type": "ADDED"
   },
   {
+   "detail": "2026-07-23  Houston Rockets re-signed forward Jae'Sean Tate to a Contract.",
+   "detected_at": "2026-07-23 11:43:55",
+   "source": "TRANSACTIONS",
+   "type": "Signing"
+  },
+  {
+   "detail": "2026-07-23  Boston Celtics re-signed guard Jordan Walsh to a Veteran Extension.",
+   "detected_at": "2026-07-23 11:34:55",
+   "source": "TRANSACTIONS",
+   "type": "Signing"
+  },
+  {
+   "detail": "2026-07-22  Houston Rockets re-signed forward Isaiah Crawford to a Contract.",
+   "detected_at": "2026-07-22 21:10:55",
+   "source": "TRANSACTIONS",
+   "type": "Signing"
+  },
+  {
+   "detail": "2026-07-22  San Antonio Spurs re-signed guard David Jones Garcia to a Two-Way Contract.",
+   "detected_at": "2026-07-22 14:17:55",
+   "source": "TRANSACTIONS",
+   "type": "Signing"
+  },
+  {
+   "detail": "2026-07-22  Dallas Mavericks signed center Moussa Cisse to a Contract.",
+   "detected_at": "2026-07-22 14:17:55",
+   "source": "TRANSACTIONS",
+   "type": "Signing"
+  },
+  {
    "detail": "~ CHANGED Jalen Wilson  team: BKN -> ATL",
    "detected_at": "2026-07-22 12:03:56",
    "source": "PLAYERS",
    "type": "CHANGED"
   },
   {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-22 09:19:44",
+   "detail": "2026-07-22  Atlanta Hawks signed forward Jalen Wilson to a Two-Way Contract.",
+   "detected_at": "2026-07-22 11:29:55",
    "source": "TRANSACTIONS",
-   "type": "REMOVED"
+   "type": "Signing"
   },
   {
-   "detail": "ADDED",
-   "detected_at": "2026-07-22 09:19:44",
+   "detail": "2026-07-22  Indiana Pacers re-signed forward Jalen Slawson to a Two-Way Contract.",
+   "detected_at": "2026-07-22 11:18:55",
    "source": "TRANSACTIONS",
-   "type": "ADDED"
+   "type": "Signing"
+  },
+  {
+   "detail": "2026-07-21  Los Angeles Lakers signed forward Arthur Kaluma to a Two-Way Contract.",
+   "detected_at": "2026-07-22 11:18:55",
+   "source": "TRANSACTIONS",
+   "type": "Signing"
   },
   {
    "detail": "2026-27 Two-Way Signings  - REMOVED Peter Suder Los Angeles Lakers",
@@ -6053,6 +4727,18 @@
    "detected_at": "2026-07-22 09:19:44",
    "source": "DOCS",
    "type": "ADDED"
+  },
+  {
+   "detail": "2026-07-22  Los Angeles Lakers signed forward Arthur Kaluma to a Two-Way Contract.",
+   "detected_at": "2026-07-22 09:19:42",
+   "source": "TRANSACTIONS",
+   "type": "Signing"
+  },
+  {
+   "detail": "2026-07-21  Los Angeles Lakers waived guard Peter Suder.",
+   "detected_at": "2026-07-22 09:19:42",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
   },
   {
    "detail": "+ ADDED   Arthur Kaluma (LAL)",
@@ -6289,18 +4975,6 @@
    "type": "CHANGED"
   },
   {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-21 07:16:38",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-21 07:16:38",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
    "detail": "2026-27 Veteran Signings  - REMOVED Update 1.3 (7/18/26): M. Cisse,",
    "detected_at": "2026-07-21 07:16:38",
    "source": "DOCS",
@@ -6317,6 +4991,24 @@
    "detected_at": "2026-07-20 20:00:54",
    "source": "PLAYERS",
    "type": "CHANGED"
+  },
+  {
+   "detail": "2026-07-20  Dallas Mavericks signed guard Jett Howard to a Two-Way Contract.",
+   "detected_at": "2026-07-20 19:39:55",
+   "source": "TRANSACTIONS",
+   "type": "Signing"
+  },
+  {
+   "detail": "2026-07-20  Indiana Pacers waived guard Taelon Peter.",
+   "detected_at": "2026-07-20 14:57:33",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-07-20  Dallas Mavericks waived forward Tyler Smith.",
+   "detected_at": "2026-07-20 14:57:33",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
   },
   {
    "detail": "- REMOVED Taelon Peter (IND)",
@@ -6397,24 +5089,6 @@
    "type": "CHANGED"
   },
   {
-   "detail": "ADDED",
-   "detected_at": "2026-07-20 07:36:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-20 07:36:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-20 07:36:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
    "detail": "2026-27 Two-Way Signings  + ADDED  Vladislav Goldin Miami Heat",
    "detected_at": "2026-07-20 07:36:55",
    "source": "DOCS",
@@ -6430,42 +5104,6 @@
    "detail": "2026-27 Two-Way Signings  + ADDED  Execution Date: 6/26/26",
    "detected_at": "2026-07-20 07:36:55",
    "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-20 07:35:55",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-20 07:35:55",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-20 07:35:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-20 07:35:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-20 07:35:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-20 07:35:55",
-   "source": "TRANSACTIONS",
    "type": "ADDED"
   },
   {
@@ -6505,45 +5143,9 @@
    "type": "ADDED"
   },
   {
-   "detail": "ADDED",
-   "detected_at": "2026-07-20 07:34:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
    "detail": "2026-27 Veteran Signings  + ADDED  Update 1.2 (7/7/26 -7/17/26):",
    "detected_at": "2026-07-20 07:34:55",
    "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-20 07:32:55",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-20 07:32:55",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-20 07:32:55",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-20 07:32:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-20 07:32:55",
-   "source": "TRANSACTIONS",
    "type": "ADDED"
   },
   {
@@ -6577,18 +5179,6 @@
    "type": "ADDED"
   },
   {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-20 07:31:55",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-20 07:31:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
    "detail": "2026-27 Veteran Signings  - REMOVED 2 Years for $4,757,011. Minimum Salary Exception. Offer Sheet (New York Knicks - Matched). Skill; Injury or Illness; Death. Compensation protection for 2026-27 Season is none but will increase to $1,092,558 if team has not requested waivers on player on or before 9/1/2026",
    "detected_at": "2026-07-20 07:31:55",
    "source": "DOCS",
@@ -6601,18 +5191,6 @@
    "type": "ADDED"
   },
   {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-20 07:30:57",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-20 07:30:57",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
    "detail": "2026-27 Veteran Signings  - REMOVED 2 Years for $4,757,011. Minimum Salary Exception. Offer Sheet (New York Knicks - Matched). Skill; Injury or Illness; Death. Compensation protection for 2026-27 Season is none but will increase to full if team has not requested waivers on player on or before the date that is two days after the 2027 NBA Draft.",
    "detected_at": "2026-07-20 07:30:57",
    "source": "DOCS",
@@ -6622,30 +5200,6 @@
    "detail": "2026-27 Veteran Signings  + ADDED  2 Years for $4,757,011. Minimum Salary Exception. Offer Sheet (New York Knicks - Matched). Skill; Injury or Illness; Death. Compensation protection for 2026-27 Season is none but will increase to $1,092,558 if team has not requested waivers on player on or before 9/1/2026",
    "detected_at": "2026-07-20 07:30:57",
    "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-20 07:29:55",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-20 07:29:55",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-20 07:29:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-20 07:29:55",
-   "source": "TRANSACTIONS",
    "type": "ADDED"
   },
   {
@@ -6701,30 +5255,6 @@
    "detected_at": "2026-07-20 07:28:57",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-20 07:28:55",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-20 07:28:55",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-20 07:28:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-20 07:28:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
   },
   {
    "detail": "2026-27 Veteran Signings  - REMOVED 2 Years for $. Minimum Salary Exception. Offer Sheet (New York Knicks - Matched).",
@@ -6811,30 +5341,6 @@
    "type": "CHANGED"
   },
   {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-20 07:25:55",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-20 07:25:55",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-20 07:25:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-20 07:25:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
    "detail": "2026-27 Veteran Signings  - REMOVED 26-27 $",
    "detected_at": "2026-07-20 07:25:55",
    "source": "DOCS",
@@ -6856,66 +5362,6 @@
    "detail": "2026-27 Veteran Signings  + ADDED  27-28 $2,571,895",
    "detected_at": "2026-07-20 07:25:55",
    "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-20 07:24:55",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-20 07:24:55",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-20 07:24:55",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-20 07:24:55",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-20 07:24:55",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-20 07:24:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-20 07:24:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-20 07:24:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-20 07:24:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-20 07:24:55",
-   "source": "TRANSACTIONS",
    "type": "ADDED"
   },
   {
@@ -6979,54 +5425,6 @@
    "type": "ADDED"
   },
   {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-20 07:23:55",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-20 07:23:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-20 07:23:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-20 07:23:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-20 07:23:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-20 07:23:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-20 07:23:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-20 07:23:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
    "detail": "2026-27 Veteran Signings  - REMOVED Update 1.2 (7/7/26 - 7/17/26): P. Achiuwa, J. Alvarado, K. Anderson, M. Bagley, M. Bamba, H. Barnes, C. Bassey, B. Bogdanovic, T. Bryant, J. Clark, J. Clarkson, J. Collins, M. Conley, M. Diawara, O. Dieng, A. Dosunmu, A. Drummond, T. Eason, K. Ellis, C. Gillespie, J. Green, Q. Grimes, J. Goodwin, R. Hachimura, T. Hardaway Jr., T. Harris, I. Hartenstein, J. Hayes, K. Huerter, A. Hukporti, T. Jones, D. Jordan, L. Kennard, W. Kessler, J. Landale, K. Looney, T. Lyles, S. Mamukelashvili, J. McLaughlin, K. Middleton, J. Miller, L. Nance, P. Nance, J. Nurkic, N. Powell, J. Okogie, K. Oubre, Q. Post, A. Reaves, M. Robinson, K. Sanders, C. Sexton, L. Shamet, M. Smart, G. Trent, V. Wembanyama, C. White, K. Williams, M. Williams, Z. Williams T. Young",
    "detected_at": "2026-07-20 07:23:55",
    "source": "DOCS",
@@ -7075,18 +5473,6 @@
    "type": "ADDED"
   },
   {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-20 07:21:55",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-20 07:21:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
    "detail": "2026-27 Veteran Signings  - REMOVED Execution Date: 7/6/26",
    "detected_at": "2026-07-20 07:21:55",
    "source": "DOCS",
@@ -7096,42 +5482,6 @@
    "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 7/19/26",
    "detected_at": "2026-07-20 07:21:55",
    "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-20 07:20:56",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-20 07:20:56",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-20 07:20:56",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-20 07:20:56",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-20 07:20:56",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-20 07:20:56",
-   "source": "TRANSACTIONS",
    "type": "ADDED"
   },
   {
@@ -7627,6 +5977,12 @@
    "type": "ADDED"
   },
   {
+   "detail": "2026-07-19  Los Angeles Lakers signed forward Ziaire Williams to a Contract.",
+   "detected_at": "2026-07-19 17:26:56",
+   "source": "TRANSACTIONS",
+   "type": "Signing"
+  },
+  {
    "detail": "~ CHANGED Zaccharie Risacher  team: ATL -> DAL",
    "detected_at": "2026-07-19 14:52:54",
    "source": "PLAYERS",
@@ -7645,46 +6001,46 @@
    "type": "CHANGED"
   },
   {
+   "detail": "2026-07-19  Atlanta Hawks received guard Ryan Nembhard from Dallas Mavericks.",
+   "detected_at": "2026-07-19 14:44:55",
+   "source": "TRANSACTIONS",
+   "type": "Trade"
+  },
+  {
+   "detail": "2026-07-19  Atlanta Hawks received guard Luguentz Dort from Oklahoma City Thunder.",
+   "detected_at": "2026-07-19 14:44:55",
+   "source": "TRANSACTIONS",
+   "type": "Trade"
+  },
+  {
+   "detail": "2026-07-19  Dallas Mavericks received forward Zaccharie Risacher from Atlanta Hawks.",
+   "detected_at": "2026-07-19 14:44:55",
+   "source": "TRANSACTIONS",
+   "type": "Trade"
+  },
+  {
+   "detail": "2026-07-19  Dallas Mavericks received draft consideration from Atlanta Hawks.",
+   "detected_at": "2026-07-19 14:44:55",
+   "source": "TRANSACTIONS",
+   "type": "Trade"
+  },
+  {
+   "detail": "2026-07-19  Oklahoma City Thunder received draft consideration from Atlanta Hawks.",
+   "detected_at": "2026-07-19 14:44:55",
+   "source": "TRANSACTIONS",
+   "type": "Trade"
+  },
+  {
+   "detail": "2026-07-19  Oklahoma City Thunder received draft consideration from Dallas Mavericks.",
+   "detected_at": "2026-07-19 14:44:55",
+   "source": "TRANSACTIONS",
+   "type": "Trade"
+  },
+  {
    "detail": "- REMOVED Moussa Cisse (DAL)",
    "detected_at": "2026-07-18 11:49:54",
    "source": "PLAYERS",
    "type": "REMOVED"
-  },
-  {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-17 11:11:42",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-17 11:11:42",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-17 11:11:42",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-17 11:11:42",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-17 11:11:42",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-17 11:11:42",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
   },
   {
    "detail": "2026-27 Veteran Signings  - REMOVED Update 1.2 (7/7/26): P. Achiuwa, J. Alvarado, K. Anderson, M. Bagley, M. Bamba, H. Barnes, C. Bassey, B. Bogdanovic, T. Bryant, J. Clark, J. Clarkson, J. Collins, M. Conley, M. Diawara, O. Dieng, A. Dosunmu, A. Drummond, T. Eason, K. Ellis, C. Gillespie, J. Green, Q. Grimes, J. Goodwin, R. Hachimura, T. Hardaway Jr., T. Harris, I. Hartenstein, J. Hayes, K. Huerter, A. Hukporti, T. Jones, D. Jordan, L. Kennard, W. Kessler, J. Landale, K. Looney, T. Lyles, S. Mamukelashvili, J. McLaughlin, K. Middleton, J. Miller, L. Nance, P. Nance, J. Nurkic, N. Powell, J. Okogie, K. Oubre, Q. Post, A. Reaves, M. Robinson, K. Sanders, C. Sexton, L. Shamet, M. Smart, G. Trent, V. Wembanyama, C. White, K. Williams, M. Williams, T. Young",
@@ -7771,28 +6127,10 @@
    "type": "REMOVED"
   },
   {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-16 11:36:42",
+   "detail": "2026-07-16  Miami Heat re-signed center Vladislav Goldin to a Two-Way Contract.",
+   "detected_at": "2026-07-16 12:27:42",
    "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-16 11:36:42",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-16 11:36:42",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-16 11:36:42",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
+   "type": "Signing"
   },
   {
    "detail": "2026-27 Veteran Signings  - REMOVED 4 Years for $64,250,000. Bird Exception. Team option to extend the contract to include the 2028-29 Season. Skill; Injury or Illness; Mental. Love of the Game. Physical Exam. Alt. 7(b).",
@@ -7816,36 +6154,6 @@
    "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 7/15/26",
    "detected_at": "2026-07-16 11:36:42",
    "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-16 11:35:55",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-16 11:35:55",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-16 11:35:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-16 11:35:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-16 11:35:55",
-   "source": "TRANSACTIONS",
    "type": "ADDED"
   },
   {
@@ -7876,42 +6184,6 @@
    "detail": "2026-27 Veteran Signings  + ADDED  4 Years for $64,250,000. Bird Exception. Team option to extend the contract to include the 2028-29 Season. Skill; Injury or Illness; Mental. Love of the Game. Physical Exam. Alt. 7(b).",
    "detected_at": "2026-07-16 11:35:55",
    "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-16 11:35:42",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-16 11:35:42",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-16 11:35:42",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-16 11:35:42",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-16 11:35:42",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-16 11:35:42",
-   "source": "TRANSACTIONS",
    "type": "ADDED"
   },
   {
@@ -7948,18 +6220,6 @@
    "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 7/9/26",
    "detected_at": "2026-07-16 11:35:42",
    "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-16 11:34:55",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-16 11:34:55",
-   "source": "TRANSACTIONS",
    "type": "ADDED"
   },
   {
@@ -8039,30 +6299,6 @@
    "detected_at": "2026-07-16 11:32:45",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-16 11:31:56",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-16 11:31:56",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-16 11:31:56",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-16 11:31:56",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
   },
   {
    "detail": "2026-27 Veteran Signings  - REMOVED Minimum Salary Exception. Player Trade Consent. Insurance Premium Reimbursement. Skill; Injury or Illness. Love of the Game. Physical Exam. Alt. 7(b).",
@@ -8153,30 +6389,6 @@
    "detected_at": "2026-07-16 11:31:45",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-16 11:31:42",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-16 11:31:42",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-16 11:31:42",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-16 11:31:42",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
   },
   {
    "detail": "2026-27 Veteran Signings  + ADDED  Marvin Bagley Denver Nuggets",
@@ -8293,18 +6505,6 @@
    "type": "CHANGED"
   },
   {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-16 11:30:43",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-16 11:30:43",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
    "detail": "2026-27 Veteran Signings  - REMOVED Update 1.2 (7/7/26): P. Achiuwa, J. Alvarado, K. Anderson, M. Bamba, H. Barnes, C. Bassey, B. Bogdanovic, T. Bryant, J. Clark, J. Clarkson, J. Collins, M. Conley, M. Diawara, O. Dieng, A. Dosunmu, A. Drummond, T. Eason, K. Ellis, C. Gillespie, J. Green, Q. Grimes, J. Goodwin, R. Hachimura, T. Hardaway Jr., T. Harris, I. Hartenstein, J. Hayes, K. Huerter, A. Hukporti, T. Jones, D. Jordan, L. Kennard, W. Kessler, J. Landale, K. Looney, T. Lyles, S. Mamukelashvili, J. McLaughlin, K. Middleton, J. Miller, L. Nance, P. Nance, J. Nurkic, N. Powell, J. Okogie, K. Oubre, Q. Post, A. Reaves, M. Robinson, K. Sanders, C. Sexton, L. Shamet, M. Smart, V. Wembanyama, C. White, K. Williams, M. Williams, T. Young",
    "detected_at": "2026-07-16 11:30:43",
    "source": "DOCS",
@@ -8315,6 +6515,12 @@
    "detected_at": "2026-07-16 11:30:43",
    "source": "DOCS",
    "type": "ADDED"
+  },
+  {
+   "detail": "2026-07-15  Milwaukee Bucks re-signed guard Gary Trent Jr. to a Contract.",
+   "detected_at": "2026-07-16 09:46:55",
+   "source": "TRANSACTIONS",
+   "type": "Signing"
   },
   {
    "detail": "CHA  CHANGED Finney-Smith, Dorian  -  col3: 13335000.0 -> 14196974.4, col9: 40005000 -> 40866974.4",
@@ -8341,6 +6547,12 @@
    "type": "CHANGED"
   },
   {
+   "detail": "2026-07-13  Denver Nuggets signed  Alpha Diallo to a Contract.",
+   "detected_at": "2026-07-16 07:47:42",
+   "source": "TRANSACTIONS",
+   "type": "Signing"
+  },
+  {
    "detail": "+ ADDED   Alpha Diallo (DEN)",
    "detected_at": "2026-07-15 18:02:55",
    "source": "PLAYERS",
@@ -8353,16 +6565,16 @@
    "type": "CHANGED"
   },
   {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-15 16:04:56",
+   "detail": "2026-07-15  Denver Nuggets signed forward Marvin Bagley III to a Contract.",
+   "detected_at": "2026-07-15 17:30:01",
    "source": "TRANSACTIONS",
-   "type": "REMOVED"
+   "type": "Signing"
   },
   {
-   "detail": "ADDED",
-   "detected_at": "2026-07-15 16:04:56",
+   "detail": "2026-07-15  Denver Nuggets signed  Alpha Diallo to a Contract.",
+   "detected_at": "2026-07-15 17:21:58",
    "source": "TRANSACTIONS",
-   "type": "ADDED"
+   "type": "Signing"
   },
   {
    "detail": "2026-27 Veteran Signings  - REMOVED Quinten Post Los Angeles Clippers",
@@ -8449,42 +6661,6 @@
    "type": "CHANGED"
   },
   {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-15 10:53:55",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-15 10:53:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-15 10:53:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-15 10:53:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-15 10:53:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-15 10:53:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
    "detail": "2026-27 Rookie Signings  - REMOVED Update 1.2 (7/7/26): C. Boozer, N. Ament, J. Jefferson, B. Thornton, I. Evans, T. Brazile, B. Miller, T. Biberovic, N. Battle, A. Diallo, D. Miles",
    "detected_at": "2026-07-15 10:53:55",
    "source": "DOCS",
@@ -8521,18 +6697,6 @@
    "type": "ADDED"
   },
   {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-15 10:49:55",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-15 10:49:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
    "detail": "2026-27 Rookie Signings  - REMOVED Execution Date: 7/7/26",
    "detected_at": "2026-07-15 10:49:55",
    "source": "DOCS",
@@ -8542,30 +6706,6 @@
    "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 7/14/26",
    "detected_at": "2026-07-15 10:49:55",
    "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-15 10:48:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-15 10:48:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-15 10:48:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-15 10:48:55",
-   "source": "TRANSACTIONS",
    "type": "ADDED"
   },
   {
@@ -8629,30 +6769,6 @@
    "type": "CHANGED"
   },
   {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-15 10:44:56",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-15 10:44:56",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-15 10:44:56",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-15 10:44:56",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
    "detail": "2026-27 Rookie Signings  - REMOVED Minimum Salary Exception. Skill; Injury oPhysical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
    "detected_at": "2026-07-15 10:44:56",
    "source": "DOCS",
@@ -8674,42 +6790,6 @@
    "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 7/12/26",
    "detected_at": "2026-07-15 10:44:56",
    "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-15 10:43:56",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-15 10:43:56",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-15 10:43:56",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-15 10:43:56",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-15 10:43:56",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-15 10:43:56",
-   "source": "TRANSACTIONS",
    "type": "ADDED"
   },
   {
@@ -8809,24 +6889,6 @@
    "type": "CHANGED"
   },
   {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-15 09:27:55",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-15 09:27:55",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-15 09:27:55",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
    "detail": "2026-27 Rookie Signings  - REMOVED 120%. Rookie Scale Exception. Advance Payment ($",
    "detected_at": "2026-07-15 09:27:55",
    "source": "DOCS",
@@ -8845,18 +6907,6 @@
    "type": "ADDED"
   },
   {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-15 09:25:57",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-15 09:25:57",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
    "detail": "2026-27 Rookie Signings  - REMOVED Execution Date: 7/1/26",
    "detected_at": "2026-07-15 09:25:57",
    "source": "DOCS",
@@ -8866,66 +6916,6 @@
    "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 7/13/26",
    "detected_at": "2026-07-15 09:25:57",
    "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "REMOVED",
-   "detected_at": "2026-07-15 09:24:57",
-   "source": "TRANSACTIONS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-15 09:24:57",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-15 09:24:57",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-15 09:24:57",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-15 09:24:57",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-15 09:24:57",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-15 09:24:57",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-15 09:24:57",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-15 09:24:57",
-   "source": "TRANSACTIONS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ADDED",
-   "detected_at": "2026-07-15 09:24:57",
-   "source": "TRANSACTIONS",
    "type": "ADDED"
   },
   {
@@ -8999,6 +6989,2016 @@
    "detected_at": "2026-07-15 09:23:59",
    "source": "SHEETS",
    "type": "CHANGED"
+  },
+  {
+   "detail": "MEM  CHANGED Full Season Contracts  -  col3: 143788782.9 -> 155638542.9, col4: 101754422.9 -> 114196262.9, col5: 26475740 -> 39510620, col6: 0 -> 16476088.32",
+   "detected_at": "2026-07-15 09:23:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MEM  CHANGED Draft Picks  -  col3: 15596520 -> 3746760, col4: 16376160 -> 3934320, col5: 17156640 -> 4121760, col6: 23042052 -> 6565963.68",
+   "detected_at": "2026-07-15 09:23:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MEM  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 18 -> 19",
+   "detected_at": "2026-07-15 09:23:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED Marcus Smart Houston Rockets",
+   "detected_at": "2026-07-15 09:23:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Luke Kennard Phoenix Suns",
+   "detected_at": "2026-07-15 09:23:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED 2 Years for $12,431,200. Taxpayer Mid-Level Exception. Player option to extend the contract to include the 2027-28 Season. Skill; Injury or Illness; Mental; Death. Love of the Game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-07-15 09:16:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED Execution Date: 7/10/26",
+   "detected_at": "2026-07-15 09:16:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  2 Years for $12,431,200. Taxpayer Mid-Level Exception. Player option to extend the contract to include the 2027-28 Season. Insurance Premium Reimbursement. Skill; Injury or Illness; Mental. Love of the Game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-07-15 09:16:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 7/14/26",
+   "detected_at": "2026-07-15 09:16:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED 2 Years for $12,431,200. Taxpayer Mid-Level Exception (Partial). Player option to extend the contract to include the 2027-28 Season. Skill; Injury or Illness; Mental; Death. Love of the Game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-07-15 09:16:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  2 Years for $12,431,200. Taxpayer Mid-Level Exception. Player option to extend the contract to include the 2027-28 Season. Skill; Injury or Illness; Mental; Death. Love of the Game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-07-15 09:16:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Marcus Smart Houston Rockets",
+   "detected_at": "2026-07-15 09:15:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  26-27 $6,064,000",
+   "detected_at": "2026-07-15 09:15:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  27-28 $6,367,200 (Player Option)",
+   "detected_at": "2026-07-15 09:15:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  2 Years for $12,431,200. Taxpayer Mid-Level Exception. Player option to extend the contract to include the 2027-28 Season. Skill; Injury or Illness; Mental; Death. Love of the Game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-07-15 09:15:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 7/10/26",
+   "detected_at": "2026-07-15 09:15:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "DEN  CHANGED Jones, Tyus  -  TEAM SALARY CAP REPORT\n       -  DENVER NUGGETS: 4 - CAP HOLD -> 1 - FULL SEASON",
+   "detected_at": "2026-07-15 09:15:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "DEN  CHANGED Players Under Contract  -  col3: 202754486 -> 205203907",
+   "detected_at": "2026-07-15 09:15:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "DEN  CHANGED Full Season Contracts  -  col3: 202754486 -> 205203907",
+   "detected_at": "2026-07-15 09:15:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "DEN  CHANGED Cap Holds  -  col3: 34849911.4 -> 32400490.4",
+   "detected_at": "2026-07-15 09:15:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "DEN  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 9 -> 10",
+   "detected_at": "2026-07-15 09:15:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "DEN  CHANGED Avg, Salary (Mean) (No 10-Day K's)  -  col6: 6 -> 5",
+   "detected_at": "2026-07-15 09:15:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "DEN  CHANGED Avg, Salary (Mean) (No 10-Day K's & ROS)  -  col6: 4 -> 3",
+   "detected_at": "2026-07-15 09:15:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "PHX  + ADDED  Kennard, Luke",
+   "detected_at": "2026-07-15 09:15:00",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "PHX  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 234167232.5 -> 240231232.5, col4: 169805463.1 -> 176172663.1, col9: 668234058.4 -> 680665258.4",
+   "detected_at": "2026-07-15 09:15:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "PHX  CHANGED Players Under Contract  -  col3: 187533192 -> 193597192, col4: 147315310.2 -> 153682510.2",
+   "detected_at": "2026-07-15 09:15:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "PHX  CHANGED Full Season Contracts  -  col3: 187533192 -> 193597192, col4: 147315310.2 -> 153682510.2",
+   "detected_at": "2026-07-15 09:15:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "PHX  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 14 -> 15",
+   "detected_at": "2026-07-15 09:15:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "PHX  CHANGED Avg, Salary (Mean) (No 10-Day K's)  -  col6: 1 -> 0",
+   "detected_at": "2026-07-15 09:15:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col9: 4326486 -> 6775907, col25: 10302242.52 -> 16366242.52",
+   "detected_at": "2026-07-15 09:15:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 1st Incremental Tax Bracket  -  col9: 12979458 -> 17055000",
+   "detected_at": "2026-07-15 09:15:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 2nd Incremental Tax Bracket  -  col9: 0 -> 3545447.75, col25: 15006038.2 -> 18476250",
+   "detected_at": "2026-07-15 09:15:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 3rd Incremental Tax Bracket  -  col25: 0 -> 27479333.88",
+   "detected_at": "2026-07-15 09:15:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col9: 12979458 -> 20600447.75, col25: 32061038.2 -> 63010583.88",
+   "detected_at": "2026-07-15 09:15:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED Update 1.2 (7/7/26): P. Achiuwa, J. Alvarado, K. Anderson, M. Bamba, H. Barnes, C. Bassey, B. Bogdanovic, T. Bryant, J. Clark, J. Clarkson, J. Collins, M. Conley, M. Diawara, O. Dieng, A. Dosunmu, A. Drummond, T. Eason, K. Ellis, C. Gillespie, J. Green, Q. Grimes, J. Goodwin, R. Hachimura, T. Hardaway Jr., T. Harris, I. Hartenstein, J. Hayes, K. Huerter, A. Hukporti, T. Jones, D. Jordan, W. Kessler, J. Landale, K. Looney, T. Lyles, S. Mamukelashvili, J. McLaughlin, K. Middleton, J. Miller, L. Nance, P. Nance, J. Nurkic, N. Powell, J. Okogie, K. Oubre, Q. Post, A. Reaves, M. Robinson, K. Sanders, C. Sexton, L. Shamet, M. Smart, V. Wembanyama, C. White, K. Williams, M. Williams, T. Young",
+   "detected_at": "2026-07-15 09:13:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Update 1.2 (7/7/26): P. Achiuwa, J. Alvarado, K. Anderson, M. Bamba, H. Barnes, C. Bassey, B. Bogdanovic, T. Bryant, J. Clark, J. Clarkson, J. Collins, M. Conley, M. Diawara, O. Dieng, A. Dosunmu, A. Drummond, T. Eason, K. Ellis, C. Gillespie, J. Green, Q. Grimes, J. Goodwin, R. Hachimura, T. Hardaway Jr., T. Harris, I. Hartenstein, J. Hayes, K. Huerter, A. Hukporti, T. Jones, D. Jordan, L. Kennard, W. Kessler, J. Landale, K. Looney, T. Lyles, S. Mamukelashvili, J. McLaughlin, K. Middleton, J. Miller, L. Nance, P. Nance, J. Nurkic, N. Powell, J. Okogie, K. Oubre, Q. Post, A. Reaves, M. Robinson, K. Sanders, C. Sexton, L. Shamet, M. Smart, V. Wembanyama, C. White, K. Williams, M. Williams, T. Young",
+   "detected_at": "2026-07-15 09:13:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED Update 1.2 (7/7/26): P. Achiuwa, J. Alvarado, K. Anderson, M. Bamba, H. Barnes, C. Bassey, B. Bogdanovic, T. Bryant, J. Clark, J. Clarkson, J. Collins, M. Conley, M. Diawara, O. Dieng, A. Dosunmu, A. Drummond, T. Eason, K. Ellis, C. Gillespie, J. Green, Q. Grimes, J. Goodwin, R. Hachimura, T. Hardaway Jr., T. Harris, I. Hartenstein, J. Hayes, K. Huerter, A. Hukporti, D. Jordan, W. Kessler, J. Landale, K. Looney, T. Lyles, S. Mamukelashvili, J. McLaughlin, K. Middleton, J. Miller, L. Nance, P. Nance, J. Nurkic, N. Powell, J. Okogie, K. Oubre, Q. Post, A. Reaves, M. Robinson, K. Sanders, C. Sexton, L. Shamet, M. Smart, V. Wembanyama, C. White, K. Williams, M. Williams, T. Young",
+   "detected_at": "2026-07-15 09:12:57",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Update 1.2 (7/7/26): P. Achiuwa, J. Alvarado, K. Anderson, M. Bamba, H. Barnes, C. Bassey, B. Bogdanovic, T. Bryant, J. Clark, J. Clarkson, J. Collins, M. Conley, M. Diawara, O. Dieng, A. Dosunmu, A. Drummond, T. Eason, K. Ellis, C. Gillespie, J. Green, Q. Grimes, J. Goodwin, R. Hachimura, T. Hardaway Jr., T. Harris, I. Hartenstein, J. Hayes, K. Huerter, A. Hukporti, T. Jones, D. Jordan, W. Kessler, J. Landale, K. Looney, T. Lyles, S. Mamukelashvili, J. McLaughlin, K. Middleton, J. Miller, L. Nance, P. Nance, J. Nurkic, N. Powell, J. Okogie, K. Oubre, Q. Post, A. Reaves, M. Robinson, K. Sanders, C. Sexton, L. Shamet, M. Smart, V. Wembanyama, C. White, K. Williams, M. Williams, T. Young",
+   "detected_at": "2026-07-15 09:12:57",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Tyus Jones Denver Nuggets",
+   "detected_at": "2026-07-15 09:12:57",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  26-27 $3,876,529",
+   "detected_at": "2026-07-15 09:12:57",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Minimum Salary Exception. Player Trade Consent. Skill; Injury or Illness; Mental; Death. Love of the Game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-07-15 09:12:57",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 7/14/26",
+   "detected_at": "2026-07-15 09:12:57",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Jordan McLaughlin San Antonio Spurs",
+   "detected_at": "2026-07-15 09:11:58",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  26-27 $3,286,399",
+   "detected_at": "2026-07-15 09:11:58",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Minimum Salary Exception. Player Trade Consent. Skill; Injury or Illness. Love of the Game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-07-15 09:11:58",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 7/13/26",
+   "detected_at": "2026-07-15 09:11:58",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "SAN  CHANGED McLaughlin, Jordan  -  TEAM SALARY CAP REPORT\n       -  SAN ANTONIO SPURS: 4 - CAP HOLD -> 1 - FULL SEASON",
+   "detected_at": "2026-07-15 09:10:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "SAN  CHANGED Players Under Contract  -  col3: 195830545.7 -> 198279966.7",
+   "detected_at": "2026-07-15 09:10:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "SAN  CHANGED Full Season Contracts  -  col3: 195830545.7 -> 198279966.7",
+   "detected_at": "2026-07-15 09:10:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "SAN  CHANGED Cap Holds  -  col3: 35343415.81 -> 32893994.81",
+   "detected_at": "2026-07-15 09:10:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "SAN  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 13 -> 14",
+   "detected_at": "2026-07-15 09:10:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "SAN  CHANGED Avg, Salary (Mean) (No 10-Day K's)  -  col6: 2 -> 1",
+   "detected_at": "2026-07-15 09:10:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED Update 1.2 (7/7/26): P. Achiuwa, J. Alvarado, K. Anderson, M. Bamba, H. Barnes, C. Bassey, B. Bogdanovic, T. Bryant, J. Clark, J. Clarkson, J. Collins, M. Conley, M. Diawara, O. Dieng, A. Dosunmu, A. Drummond, T. Eason, K. Ellis, C. Gillespie, J. Green, Q. Grimes, J. Goodwin, R. Hachimura, T. Hardaway Jr., T. Harris, I. Hartenstein, J. Hayes, K. Huerter, A. Hukporti, D. Jordan, W. Kessler, J. Landale, K. Looney, T. Lyles, S. Mamukelashvili, K. Middleton, J. Miller, L. Nance, P. Nance, J. Nurkic, N. Powell, J. Okogie, K. Oubre, Q. Post, A. Reaves, M. Robinson, K. Sanders, C. Sexton, L. Shamet, M. Smart, V. Wembanyama, C. White, K. Williams, M. Williams, T. Young",
+   "detected_at": "2026-07-15 09:10:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Update 1.2 (7/7/26): P. Achiuwa, J. Alvarado, K. Anderson, M. Bamba, H. Barnes, C. Bassey, B. Bogdanovic, T. Bryant, J. Clark, J. Clarkson, J. Collins, M. Conley, M. Diawara, O. Dieng, A. Dosunmu, A. Drummond, T. Eason, K. Ellis, C. Gillespie, J. Green, Q. Grimes, J. Goodwin, R. Hachimura, T. Hardaway Jr., T. Harris, I. Hartenstein, J. Hayes, K. Huerter, A. Hukporti, D. Jordan, W. Kessler, J. Landale, K. Looney, T. Lyles, S. Mamukelashvili, J. McLaughlin, K. Middleton, J. Miller, L. Nance, P. Nance, J. Nurkic, N. Powell, J. Okogie, K. Oubre, Q. Post, A. Reaves, M. Robinson, K. Sanders, C. Sexton, L. Shamet, M. Smart, V. Wembanyama, C. White, K. Williams, M. Williams, T. Young",
+   "detected_at": "2026-07-15 09:10:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "+ ADDED   Milos Uzan (BOS)",
+   "detected_at": "2026-07-14 16:49:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "+ ADDED   Tucker DeVries (BOS)",
+   "detected_at": "2026-07-14 16:49:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-07-14  Denver Nuggets re-signed guard Tyus Jones to a Contract.",
+   "detected_at": "2026-07-14 16:26:55",
+   "source": "TRANSACTIONS",
+   "type": "Signing"
+  },
+  {
+   "detail": "+ ADDED   Luke Kennard (PHX)",
+   "detected_at": "2026-07-14 12:50:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-07-14  Phoenix Suns signed guard Luke Kennard to a Contract.",
+   "detected_at": "2026-07-14 12:15:55",
+   "source": "TRANSACTIONS",
+   "type": "Signing"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col2: 2339892 -> 0, col3: 10827406 -> 0, col9: 16859486 -> 4326486, col12: 10204620 -> 0, col13: 18404932.6 -> 5871932.6, col15: 9648780 -> 0, (+13 more)",
+   "detected_at": "2026-07-14 09:58:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 1st Incremental Tax Bracket  -  col2: 2339892 -> 0, col3: 17055000 -> 0, col9: 17055000 -> 12979458, col12: 5685000 -> 0, col15: 17055000 -> 0, col17: 5685000 -> 0, (+7 more)",
+   "detected_at": "2026-07-14 09:58:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 2nd Incremental Tax Bracket  -  col3: 16712819.5 -> 0, col9: 18476250 -> 0, col12: 5649525 -> 0, col13: 7106250 -> 233665.75, col15: 12882285 -> 0, col17: 5699793.75 -> 0, (+7 more)",
+   "detected_at": "2026-07-14 09:58:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 3rd Incremental Tax Bracket  -  col9: 30192173 -> 0, col13: 19897500 -> 0, col19: 13798557.5 -> 0, Luxury Tax Calculator: 19897500 -> 0, col25: 31267500 -> 0",
+   "detected_at": "2026-07-14 09:58:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 4th Incremental Tax Bracket  -  col13: 6412179.85 -> 0, col21: 27003750 -> 4413852, col23: 27003750 -> 1816020.19, Luxury Tax Calculator: 9517771.175 -> 0, col25: 38373750 -> 0",
+   "detected_at": "2026-07-14 09:58:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 5th Incremental Tax Bracket  -  col21: 29846250 -> 0, col23: 29846250 -> 0, col25: 690508.2976 -> 0",
+   "detected_at": "2026-07-14 09:58:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 6th Incremental Tax Bracket  -  col21: 12030334 -> 0, col22: 32688750 -> 18105105.5, col23: 8885590.23 -> 0",
+   "detected_at": "2026-07-14 09:58:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 7th Incremental Tax Bracket  -  col22: 35531250 -> 0",
+   "detected_at": "2026-07-14 09:58:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 8th Incremental Tax Bracket  -  col22: 29104069.5 -> 0",
+   "detected_at": "2026-07-14 09:58:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col2: 2339892 -> 0, col3: 33767819.5 -> 0, col9: 65723423 -> 12979458, col12: 11334525 -> 0, col13: 39100929.85 -> 5918665.75, col15: 29937285 -> 0, (+13 more)",
+   "detected_at": "2026-07-14 09:58:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Jordan McLaughlin  school: USC -> Southern California",
+   "detected_at": "2026-07-13 18:45:55",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Jordan McLaughlin  school: Southern California -> USC",
+   "detected_at": "2026-07-13 18:35:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "2026-07-13  San Antonio Spurs re-signed guard Jordan McLaughlin to a Contract.",
+   "detected_at": "2026-07-13 18:28:55",
+   "source": "TRANSACTIONS",
+   "type": "Signing"
+  },
+  {
+   "detail": "2026-07-13  Memphis Grizzlies signed forward Cameron Boozer to a Rookie Scale Contract.",
+   "detected_at": "2026-07-13 18:20:55",
+   "source": "TRANSACTIONS",
+   "type": "Signing"
+  },
+  {
+   "detail": "MIN  CHANGED Turner, Evan  -  col3: - -> 27909834.0, col9: 0 -> 27909834",
+   "detected_at": "2026-07-13 17:46:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MIN  CHANGED Brooks, Aaron  -  col3: - -> 2449421.0, col9: 0 -> 2449421",
+   "detected_at": "2026-07-13 17:46:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MIN  CHANGED Ingles, Joe  -  col3: - -> 2449421.0, col9: 0 -> 2449421",
+   "detected_at": "2026-07-13 17:46:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MIN  CHANGED Monroe, Greg  -  col3: - -> 2449421.0, col9: 0 -> 2449421",
+   "detected_at": "2026-07-13 17:46:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MIN  CHANGED Phillips, Julian  -  col3: - -> 2449421.0, col9: 0 -> 2449421",
+   "detected_at": "2026-07-13 17:46:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MIN  CHANGED Rivers, Austin  -  col3: - -> 2449421.0, col9: 0 -> 2449421",
+   "detected_at": "2026-07-13 17:46:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MIN  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 203207445 -> 243364384, col9: 621259678.6 -> 661416617.6",
+   "detected_at": "2026-07-13 17:46:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MIN  CHANGED Cap Holds  -  col3: 0 -> 40156939",
+   "detected_at": "2026-07-13 17:46:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MIN  CHANGED Turner, Evan  -  col3: 27909834.0 -> -, col9: 27909834 -> 0",
+   "detected_at": "2026-07-13 17:45:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MIN  CHANGED Brooks, Aaron  -  col3: 2449421.0 -> -, col9: 2449421 -> 0",
+   "detected_at": "2026-07-13 17:45:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MIN  CHANGED Ingles, Joe  -  col3: 2449421.0 -> -, col9: 2449421 -> 0",
+   "detected_at": "2026-07-13 17:45:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MIN  CHANGED Monroe, Greg  -  col3: 2449421.0 -> -, col9: 2449421 -> 0",
+   "detected_at": "2026-07-13 17:45:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MIN  CHANGED Phillips, Julian  -  col3: 2449421.0 -> -, col9: 2449421 -> 0",
+   "detected_at": "2026-07-13 17:45:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MIN  CHANGED Rivers, Austin  -  col3: 2449421.0 -> -, col9: 2449421 -> 0",
+   "detected_at": "2026-07-13 17:45:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MIN  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 243364384 -> 203207445, col9: 661416617.6 -> 621259678.6",
+   "detected_at": "2026-07-13 17:45:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MIN  CHANGED Cap Holds  -  col3: 40156939 -> 0",
+   "detected_at": "2026-07-13 17:45:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "WAS  CHANGED Mahinmi, Ian  -  col3: - -> 23175076.5, col9: 0 -> 23175076.5",
+   "detected_at": "2026-07-13 17:44:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "WAS  CHANGED Nunn, Kendrick  -  col3: - -> 6825000, col9: 0 -> 6825000",
+   "detected_at": "2026-07-13 17:44:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "WAS  CHANGED Gill, Anthony  -  col3: - -> 2449421.0, col9: 0 -> 2449421",
+   "detected_at": "2026-07-13 17:44:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "WAS  CHANGED Lawson, Ty  -  col3: - -> 2449421.0, col9: 0 -> 2449421",
+   "detected_at": "2026-07-13 17:44:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "WAS  CHANGED Napier, Shabazz  -  col3: - -> 2449421.0, col9: 0 -> 2449421",
+   "detected_at": "2026-07-13 17:44:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "WAS  CHANGED Satoransky, Tomas  -  col3: - -> 2449421.0, col9: 0 -> 2449421",
+   "detected_at": "2026-07-13 17:44:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "WAS  CHANGED Sessions, Ramon  -  col3: - -> 2449421.0, col9: 0 -> 2449421",
+   "detected_at": "2026-07-13 17:44:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "WAS  CHANGED Thor, JT  -  col3: - -> 2185116.0, col9: 0 -> 2185116",
+   "detected_at": "2026-07-13 17:44:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "WAS  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 191656519.9 -> 236088817.4, col9: 546823303.9 -> 591255601.4",
+   "detected_at": "2026-07-13 17:44:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "WAS  CHANGED Cap Holds  -  col3: 2185116 -> 46617413.5",
+   "detected_at": "2026-07-13 17:44:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "WAS  CHANGED Mahinmi, Ian  -  col3: 23175076.5 -> -, col9: 23175076.5 -> 0",
+   "detected_at": "2026-07-13 17:43:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "WAS  CHANGED Nunn, Kendrick  -  col3: 6825000 -> -, col9: 6825000 -> 0",
+   "detected_at": "2026-07-13 17:43:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "WAS  CHANGED Gill, Anthony  -  col3: 2449421.0 -> -, col9: 2449421 -> 0",
+   "detected_at": "2026-07-13 17:43:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "WAS  CHANGED Lawson, Ty  -  col3: 2449421.0 -> -, col9: 2449421 -> 0",
+   "detected_at": "2026-07-13 17:43:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "WAS  CHANGED Napier, Shabazz  -  col3: 2449421.0 -> -, col9: 2449421 -> 0",
+   "detected_at": "2026-07-13 17:43:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "WAS  CHANGED Satoransky, Tomas  -  col3: 2449421.0 -> -, col9: 2449421 -> 0",
+   "detected_at": "2026-07-13 17:43:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "WAS  CHANGED Sessions, Ramon  -  col3: 2449421.0 -> -, col9: 2449421 -> 0",
+   "detected_at": "2026-07-13 17:43:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "WAS  CHANGED Thor, JT  -  col3: 2185116.0 -> -, col9: 2185116 -> 0",
+   "detected_at": "2026-07-13 17:43:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "WAS  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 236088817.4 -> 191656519.9, col9: 591255601.4 -> 546823303.9",
+   "detected_at": "2026-07-13 17:43:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "WAS  CHANGED Cap Holds  -  col3: 46617413.5 -> 2185116",
+   "detected_at": "2026-07-13 17:43:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Grayson Allen  team: PHX -> CHA",
+   "detected_at": "2026-07-13 15:42:55",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Royce O'Neale  team: PHX -> CHA",
+   "detected_at": "2026-07-13 15:42:55",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Miles Bridges  team: CHA -> PHX",
+   "detected_at": "2026-07-13 15:42:55",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "2026-07-13  Phoenix Suns received forward Miles Bridges from Charlotte Hornets.",
+   "detected_at": "2026-07-13 14:56:55",
+   "source": "TRANSACTIONS",
+   "type": "Trade"
+  },
+  {
+   "detail": "2026-07-13  Phoenix Suns received draft consideration from Charlotte Hornets.",
+   "detected_at": "2026-07-13 14:56:55",
+   "source": "TRANSACTIONS",
+   "type": "Trade"
+  },
+  {
+   "detail": "2026-07-13  Charlotte Hornets received guard Grayson Allen from Phoenix Suns.",
+   "detected_at": "2026-07-13 14:56:55",
+   "source": "TRANSACTIONS",
+   "type": "Trade"
+  },
+  {
+   "detail": "2026-07-13  Charlotte Hornets received forward Royce O'Neale from Phoenix Suns.",
+   "detected_at": "2026-07-13 14:56:55",
+   "source": "TRANSACTIONS",
+   "type": "Trade"
+  },
+  {
+   "detail": "2026-07-13  Charlotte Hornets received draft consideration from Phoenix Suns.",
+   "detected_at": "2026-07-13 14:56:55",
+   "source": "TRANSACTIONS",
+   "type": "Trade"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED 2 Years for $7,206,979. Minimum Salary Exception. Player Trade Consent. Team option to extend the contract to include the 2027-28 Season. Skill; Injury or Illness; Mental; Death. Compensation protection for 2026-27 Season is none but will increase to $200,000 if team has not requested waivers on player on or before 7/15/2026, and increase to $500,000 if team has not requested waivers on player on or before the first day of the 2026-27 Regular Season. Compensation protection for 2027-28 Season is none but will increase to $211,045 if team has not requested waivers on player on or before 7/15/2027, and increase to $527,000 if team has not requested waivers on player on or before the first day of the 2027-28 Regular Season. Love of the Game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-07-13 13:14:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  2 Years for $7,206,979. Minimum Salary Exception. Player Trade Consent. Team option to extend the contract to include the 2027-28 Season. Skill; Injury or Illness; Mental; Death. Compensation protection for 2026-27 Season is none but will increase to $200,000 if team has not requested waivers on player on or before 7/15/2026, and increase to $500,000 if team has not requested waivers on player on or before the first day of the 2026-27 Regular Season. Compensation protection for 2027-28 Season is none but will increase to $211,045 if team has not requested waivers on player on or before 7/15/2027, and increase to $527,613 if team has not requested waivers on player on or before the first day of the 2027-28 Regular Season. Love of the Game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-07-13 13:14:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED 2 Years for $7,206,979. Minimum Salary Exception. Player Trade Consent. Team option to extend the contract to include the 2027-28 Season. Skill; Injury or Illness; Mental; Death. Compensation protection for 2026-27 Season is none but will increase to $200,000 if team has not requested waivers on player on or before 7/15/2026, and increase to $500,000 if team has not requested waivers on player on or before the first day of the 2026-27 Regular Season. Compensation protection for 2027-28 Season is none but will increase to $200,000 if team has not requested waivers on player on or before 7/15/2027, and increase to $500,000 if team has not requested waivers on player on or before the first day of the 2027-28 Regular Season. Love of the Game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-07-13 13:13:55",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  2 Years for $7,206,979. Minimum Salary Exception. Player Trade Consent. Team option to extend the contract to include the 2027-28 Season. Skill; Injury or Illness; Mental; Death. Compensation protection for 2026-27 Season is none but will increase to $200,000 if team has not requested waivers on player on or before 7/15/2026, and increase to $500,000 if team has not requested waivers on player on or before the first day of the 2026-27 Regular Season. Compensation protection for 2027-28 Season is none but will increase to $211,045 if team has not requested waivers on player on or before 7/15/2027, and increase to $527,000 if team has not requested waivers on player on or before the first day of the 2027-28 Regular Season. Love of the Game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-07-13 13:13:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "POR  + ADDED  Potter, Micah",
+   "detected_at": "2026-07-13 12:50:58",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "POR  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 230455741.3 -> 233257087.3, col9: 526003148.4 -> 528804494.4",
+   "detected_at": "2026-07-13 12:50:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "POR  CHANGED Players Under Contract  -  col3: 194339098.6 -> 197140444.6",
+   "detected_at": "2026-07-13 12:50:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "POR  CHANGED Full Season Contracts  -  col3: 194339098.6 -> 197140444.6",
+   "detected_at": "2026-07-13 12:50:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "POR  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 14 -> 15",
+   "detected_at": "2026-07-13 12:50:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "POR  CHANGED Avg, Salary (Mean) (No 10-Day K's)  -  col6: 1 -> 0",
+   "detected_at": "2026-07-13 12:50:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col26: 6712130.274 -> 9513476.274",
+   "detected_at": "2026-07-13 12:50:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 2nd Incremental Tax Bracket  -  col26: 1283912.843 -> 4785595.343",
+   "detected_at": "2026-07-13 12:50:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col26: 6968912.843 -> 10470595.34",
+   "detected_at": "2026-07-13 12:50:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "PHL  + ADDED  Miles, De'Marquiese",
+   "detected_at": "2026-07-13 12:35:58",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "PHL  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 217314473.3 -> 218672236.3, col9: 652734426.7 -> 654092189.7",
+   "detected_at": "2026-07-13 12:35:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "PHL  CHANGED Players Under Contract  -  col3: 205595978.3 -> 206953741.3",
+   "detected_at": "2026-07-13 12:35:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "PHL  CHANGED Full Season Contracts  -  col3: 205595978.3 -> 206953741.3",
+   "detected_at": "2026-07-13 12:35:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "PHL  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 14 -> 15",
+   "detected_at": "2026-07-13 12:35:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "PHL  CHANGED Avg, Salary (Mean) (No 10-Day K's)  -  col6: 1 -> 0",
+   "detected_at": "2026-07-13 12:35:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  Luxury Tax Calculator: 17700978.3 -> 19058741.3",
+   "detected_at": "2026-07-13 12:35:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 4th Incremental Tax Bracket  -  Luxury Tax Calculator: 3068396.925 -> 9517771.175",
+   "detected_at": "2026-07-13 12:35:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  Luxury Tax Calculator: 35757146.93 -> 42206521.18",
+   "detected_at": "2026-07-13 12:35:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  - REMOVED Minimum Salary Exception. Physical Exam. Alt. 7(b). Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
+   "detected_at": "2026-07-13 12:35:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
+   "detected_at": "2026-07-13 12:35:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  - REMOVED Minimum Salary Exception. Love of the Game. Physical Exam. Alt. 7(b). Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
+   "detected_at": "2026-07-13 12:34:55",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  - REMOVED Execution Date: 7/9/26",
+   "detected_at": "2026-07-13 12:34:55",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Minimum Salary Exception. Physical Exam. Alt. 7(b). Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
+   "detected_at": "2026-07-13 12:34:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 7/7/26",
+   "detected_at": "2026-07-13 12:34:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  - REMOVED 25-26 $1,357,763",
+   "detected_at": "2026-07-13 12:33:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  26-27 $1,357,763",
+   "detected_at": "2026-07-13 12:33:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  De’Marquiese Miles Philadelphia 76ers",
+   "detected_at": "2026-07-13 12:33:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  26-27 $1,357,763",
+   "detected_at": "2026-07-13 12:33:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Minimum Salary Exception. Love of the Game. Physical Exam. Alt. 7(b). Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
+   "detected_at": "2026-07-13 12:33:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 7/9/26",
+   "detected_at": "2026-07-13 12:33:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "TOR  + ADDED  Bittle, Nathan",
+   "detected_at": "2026-07-13 12:32:59",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "TOR  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 215410898.1 -> 211068661.1, col9: 590133506.5 -> 585791269.5",
+   "detected_at": "2026-07-13 12:32:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "TOR  CHANGED Players Under Contract  -  col3: 202362635.1 -> 198020398.1",
+   "detected_at": "2026-07-13 12:32:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "TOR  CHANGED Full Season Contracts  -  col3: 202362635.1 -> 198020398.1",
+   "detected_at": "2026-07-13 12:32:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col29: 14467635.14 -> 10125398.14",
+   "detected_at": "2026-07-13 12:32:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 2nd Incremental Tax Bracket  -  col29: 7106250 -> 5550497.675",
+   "detected_at": "2026-07-13 12:32:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 3rd Incremental Tax Bracket  -  col29: 10841722.99 -> 0",
+   "detected_at": "2026-07-13 12:32:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col29: 23632972.99 -> 11235497.68",
+   "detected_at": "2026-07-13 12:32:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "TOR  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 209710898.1 -> 215410898.1, col9: 584433506.5 -> 590133506.5",
+   "detected_at": "2026-07-13 12:31:57",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "TOR  CHANGED Players Under Contract  -  col3: 196662635.1 -> 202362635.1",
+   "detected_at": "2026-07-13 12:31:57",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "TOR  CHANGED Full Season Contracts  -  col3: 196662635.1 -> 202362635.1",
+   "detected_at": "2026-07-13 12:31:57",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "TOR  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 14 -> 15",
+   "detected_at": "2026-07-13 12:31:57",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "TOR  CHANGED Avg, Salary (Mean) (No 10-Day K's)  -  col6: 1 -> 0",
+   "detected_at": "2026-07-13 12:31:57",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col29: 8767635.14 -> 14467635.14",
+   "detected_at": "2026-07-13 12:31:57",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 2nd Incremental Tax Bracket  -  col29: 3853293.925 -> 7106250",
+   "detected_at": "2026-07-13 12:31:57",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 3rd Incremental Tax Bracket  -  col29: 0 -> 10841722.99",
+   "detected_at": "2026-07-13 12:31:57",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col29: 9538293.925 -> 23632972.99",
+   "detected_at": "2026-07-13 12:31:57",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  - REMOVED Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($10,000).",
+   "detected_at": "2026-07-13 12:31:55",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  - REMOVED Execution Date: 9/23/25",
+   "detected_at": "2026-07-13 12:31:55",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Minimum Salary Exception. Love of the Game. Physical Exam. Alt. 7(b). Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
+   "detected_at": "2026-07-13 12:31:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 7/9/26",
+   "detected_at": "2026-07-13 12:31:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Nathan Bittle Toronto Raptors",
+   "detected_at": "2026-07-13 12:30:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  25-26 $1,357,763",
+   "detected_at": "2026-07-13 12:30:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($10,000).",
+   "detected_at": "2026-07-13 12:30:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 9/23/25",
+   "detected_at": "2026-07-13 12:30:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "TOR  - REMOVED Mamukelashvili, Sandro",
+   "detected_at": "2026-07-13 12:29:57",
+   "source": "SHEETS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "TOR  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 212160319.1 -> 209710898.1, col9: 586882927.5 -> 584433506.5",
+   "detected_at": "2026-07-13 12:29:57",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "TOR  CHANGED Cap Holds  -  col3: 15497684 -> 13048263",
+   "detected_at": "2026-07-13 12:29:57",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  - REMOVED Update 1.2 (7/7/26): N. Ament, J. Jefferson, B. Thornton, I. Evans, T. Brazile, B. Miller, T. Biberovic",
+   "detected_at": "2026-07-13 12:29:55",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Update 1.2 (7/7/26): N. Ament, J. Jefferson, B. Thornton, I. Evans, T. Brazile, B. Miller, T. Biberovic, N. Bittle",
+   "detected_at": "2026-07-13 12:29:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  - REMOVED 2 Years for $6,000,000. Non-Taxpayer Mid-Level Exception. Team option to extend the contract to include the 2029-30 Season. Insurance Premium Reimbursement. Skill; Injury or Illness. Compensation protection for 2028-29 Season is none but will increase to full if team has not requested waivers on player on or before 7/10/2028. Compensation protection for 2029-30 Season is none. Love of the Game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-07-13 12:28:04",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  - REMOVED Execution Date: 7/1/26",
+   "detected_at": "2026-07-13 12:28:04",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  2 Years for $6,000,000. Non-Taxpayer Mid-Level Exception (Partial). Advance Payment ($450,000). Team option to extend the contract to include the 2027-28 Season. Skill; Injury or Illness; Mental; Death. Love of the Game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-07-13 12:28:04",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 7/10/26",
+   "detected_at": "2026-07-13 12:28:04",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  - REMOVED Update 1.2 (7/7/26): N. Ament, J. Jefferson, B. Thornton, I. Evans, T. Brazile, B. Miller",
+   "detected_at": "2026-07-13 12:27:04",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Update 1.2 (7/7/26): N. Ament, J. Jefferson, B. Thornton, I. Evans, T. Brazile, B. Miller, T. Biberovic",
+   "detected_at": "2026-07-13 12:27:04",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  - REMOVED #56 Tarik Biberovic Dallas Mavericks",
+   "detected_at": "2026-07-13 12:27:04",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  - REMOVED 26-27 $1,357,763",
+   "detected_at": "2026-07-13 12:27:04",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  - REMOVED 27-28 $2,294,370 (Team Option)",
+   "detected_at": "2026-07-13 12:27:04",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  - REMOVED 4 Years for $9,264,648. Second Round Pick Exception. Team option to extend the contract to include the 2029-30 Season. Insurance Premium Reimbursement. Skill; Injury or Illness. Compensation protection for 2028-29 Season is none but will increase to full if team has not requested waivers on player on or before 7/10/2028. Compensation protection for 2029-30 Season is none. Love of the Game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-07-13 12:27:04",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  #56 Tarik Biberovic (2023 NBA DRAFT) Dallas Mavericks",
+   "detected_at": "2026-07-13 12:27:04",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  26-27 $3,000,000",
+   "detected_at": "2026-07-13 12:27:04",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  27-28 $3,000,000 (Team Option)",
+   "detected_at": "2026-07-13 12:27:04",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  2 Years for $6,000,000. Non-Taxpayer Mid-Level Exception. Team option to extend the contract to include the 2029-30 Season. Insurance Premium Reimbursement. Skill; Injury or Illness. Compensation protection for 2028-29 Season is none but will increase to full if team has not requested waivers on player on or before 7/10/2028. Compensation protection for 2029-30 Season is none. Love of the Game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-07-13 12:27:04",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "DAL  + ADDED  Biberovic, Tarik",
+   "detected_at": "2026-07-13 12:25:57",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "DAL  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 207311827.8 -> 210311827.8, col4: 146031206.2 -> 149031206.2, col9: 465765669.2 -> 471765669.2",
+   "detected_at": "2026-07-13 12:25:57",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "DAL  CHANGED Players Under Contract  -  col3: 177794638.8 -> 180794638.8, col4: 142819990 -> 145819990",
+   "detected_at": "2026-07-13 12:25:57",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "DAL  CHANGED Full Season Contracts  -  col3: 177794638.8 -> 180794638.8, col4: 142819990 -> 145819990",
+   "detected_at": "2026-07-13 12:25:57",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "DAL  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 14 -> 15",
+   "detected_at": "2026-07-13 12:25:57",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "DAL  CHANGED Avg, Salary (Mean) (No 10-Day K's)  -  col6: 1 -> 0",
+   "detected_at": "2026-07-13 12:25:57",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  #56 Tarik Biberovic Dallas Mavericks",
+   "detected_at": "2026-07-13 12:25:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  26-27 $1,357,763",
+   "detected_at": "2026-07-13 12:25:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  27-28 $2,294,370 (Team Option)",
+   "detected_at": "2026-07-13 12:25:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  4 Years for $9,264,648. Second Round Pick Exception. Team option to extend the contract to include the 2029-30 Season. Insurance Premium Reimbursement. Skill; Injury or Illness. Compensation protection for 2028-29 Season is none but will increase to full if team has not requested waivers on player on or before 7/10/2028. Compensation protection for 2029-30 Season is none. Love of the Game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-07-13 12:25:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 7/1/26",
+   "detected_at": "2026-07-13 12:25:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED 2 Years for $7,206,979. Minimum Salary Exception. Player Trade Consent. Team option to extend the contract to include the 2027-28 Season. Skill; Injury or Illness; Mental; Death. Compensation protection for 2026-27 Season is none but will increase to $200,000 if team has not requested waivers on player on or before 7/15/2026, and increase to $500,000 if team has not requested waivers on player on or before the first dat of the 2026-27",
+   "detected_at": "2026-07-13 12:23:55",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED Love of the Game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-07-13 12:23:55",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  2 Years for $7,206,979. Minimum Salary Exception. Player Trade Consent. Team option to extend the contract to include the 2027-28 Season. Skill; Injury or Illness; Mental; Death. Compensation protection for 2026-27 Season is none but will increase to $200,000 if team has not requested waivers on player on or before 7/15/2026, and increase to $500,000 if team has not requested waivers on player on or before the first day of the 2026-27 Regular Season. Compensation protection for 2027-28 Season is none but will increase to $200,000 if team has not requested waivers on player on or before 7/15/2027, and increase to $500,000 if team has not requested waivers on player on or before the first day of the 2027-28 Regular Season. Love of the Game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-07-13 12:23:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED 2 Years for $7,206,979. Minimum Salary Exception. Player Trade Consent. Team option to extend the contract to include the 2027-28 Season. Skill; Injury or Illness; Mental; Death. Compensation protection for 2026-27 Season is none but will increase to $200,000 if team has not requested waivers on player on or before 7/15/2026, and increase to $500,000 if team has not requested waivers on player on or before",
+   "detected_at": "2026-07-13 12:22:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  2 Years for $7,206,979. Minimum Salary Exception. Player Trade Consent. Team option to extend the contract to include the 2027-28 Season. Skill; Injury or Illness; Mental; Death. Compensation protection for 2026-27 Season is none but will increase to $200,000 if team has not requested waivers on player on or before 7/15/2026, and increase to $500,000 if team has not requested waivers on player on or before the first dat of the 2026-27",
+   "detected_at": "2026-07-13 12:22:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED 2 Years for $7,206,979. Minimum Salary Exception. Player Trade Consent. Team option to extend the contract to include the 2027-28 Season. Skill; Injury or Illness; Mental; Death. Compensation protection for 2026-27 Season is none but will increase to $200,000 if team has not requested waivers on player on or before 7/15/2026",
+   "detected_at": "2026-07-13 12:17:55",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  2 Years for $7,206,979. Minimum Salary Exception. Player Trade Consent. Team option to extend the contract to include the 2027-28 Season. Skill; Injury or Illness; Mental; Death. Compensation protection for 2026-27 Season is none but will increase to $200,000 if team has not requested waivers on player on or before 7/15/2026, and increase to $500,000 if team has not requested waivers on player on or before",
+   "detected_at": "2026-07-13 12:17:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED 27-28 $3,700,320 (Team",
+   "detected_at": "2026-07-13 12:16:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED 2 Years for $7,206,979. Minimum Salary Exception. Player Trade Consent. Skill; Injury or Illness. Love of the Game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-07-13 12:16:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  27-28 $3,700,320 (Team Option)",
+   "detected_at": "2026-07-13 12:16:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  2 Years for $7,206,979. Minimum Salary Exception. Player Trade Consent. Team option to extend the contract to include the 2027-28 Season. Skill; Injury or Illness; Mental; Death. Compensation protection for 2026-27 Season is none but will increase to $200,000 if team has not requested waivers on player on or before 7/15/2026",
+   "detected_at": "2026-07-13 12:16:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Love of the Game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-07-13 12:16:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Mohamed Bamba Utah jazz",
+   "detected_at": "2026-07-13 12:15:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  26-27 $3,506,659",
+   "detected_at": "2026-07-13 12:15:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  27-28 $3,700,320 (Team",
+   "detected_at": "2026-07-13 12:15:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  2 Years for $7,206,979. Minimum Salary Exception. Player Trade Consent. Skill; Injury or Illness. Love of the Game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-07-13 12:15:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 7/10/26",
+   "detected_at": "2026-07-13 12:15:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED Update 1.2 (7/7/26): P. Achiuwa, J. Alvarado, K. Anderson, H. Barnes, C. Bassey, B. Bogdanovic, T. Bryant, J. Clark, J. Clarkson, J. Collins, M. Conley, M. Diawara, O. Dieng, A. Dosunmu, A. Drummond, T. Eason, K. Ellis, C. Gillespie, J. Green, Q. Grimes, J. Goodwin, R. Hachimura, T. Hardaway Jr., T. Harris, I. Hartenstein, J. Hayes, K. Huerter, A. Hukporti, D. Jordan, W. Kessler, J. Landale, K. Looney, T. Lyles, S. Mamukelashvili, K. Middleton, J. Miller, L. Nance, P. Nance, J. Nurkic, N. Powell, J. Okogie, K. Oubre, Q. Post, A. Reaves, M. Robinson, K. Sanders, C. Sexton, L. Shamet, M. Smart, V. Wembanyama, C. White, K. Williams, M. Williams, T. Young",
+   "detected_at": "2026-07-13 12:14:57",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Update 1.2 (7/7/26): P. Achiuwa, J. Alvarado, K. Anderson, M. Bamba, H. Barnes, C. Bassey, B. Bogdanovic, T. Bryant, J. Clark, J. Clarkson, J. Collins, M. Conley, M. Diawara, O. Dieng, A. Dosunmu, A. Drummond, T. Eason, K. Ellis, C. Gillespie, J. Green, Q. Grimes, J. Goodwin, R. Hachimura, T. Hardaway Jr., T. Harris, I. Hartenstein, J. Hayes, K. Huerter, A. Hukporti, D. Jordan, W. Kessler, J. Landale, K. Looney, T. Lyles, S. Mamukelashvili, K. Middleton, J. Miller, L. Nance, P. Nance, J. Nurkic, N. Powell, J. Okogie, K. Oubre, Q. Post, A. Reaves, M. Robinson, K. Sanders, C. Sexton, L. Shamet, M. Smart, V. Wembanyama, C. White, K. Williams, M. Williams, T. Young",
+   "detected_at": "2026-07-13 12:14:57",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "UTH  + ADDED  Bamba, Mo",
+   "detected_at": "2026-07-13 12:13:58",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "UTH  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 186765840.4 -> 190272499.4, col4: 166382065.8 -> 170082385.8, col9: 557658071.1 -> 564865050.1",
+   "detected_at": "2026-07-13 12:13:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "UTH  CHANGED Players Under Contract  -  col3: 174510608.4 -> 178017267.4, col4: 166382065.8 -> 170082385.8",
+   "detected_at": "2026-07-13 12:13:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "UTH  CHANGED Full Season Contracts  -  col3: 174510608.4 -> 178017267.4, col4: 166382065.8 -> 170082385.8",
+   "detected_at": "2026-07-13 12:13:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "UTH  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 14 -> 15",
+   "detected_at": "2026-07-13 12:13:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "UTH  CHANGED Avg, Salary (Mean) (No 10-Day K's)  -  col6: 1 -> 0",
+   "detected_at": "2026-07-13 12:13:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED 5 Years for MAXIMUM SALARY (TBD). Rookie Scale Extension. Max Contract. Advance Payment (50% of Base Compensation in Y1, 25% of Base Compensation in Y2-5). Player option to extend the contract to include the 2031-32 Season. Insurance Premium Reimbursement. Skill; Injury or Illness; Mental; Death.",
+   "detected_at": "2026-07-13 12:10:55",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED Execution Date: 7/7/25",
+   "detected_at": "2026-07-13 12:10:55",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  5 Years for MAXIMUM SALARY (TBD). Rookie Scale Extension. Max Contract. Advance Payment (50% of Base Compensation in Y1, 25% of Base Compensation in Y2-5). Player option to extend the contract to include the 2031-32 Season. Insurance Premium Reimbursement. Skill; Injury or Illness; Mental; Death. Trade Kicker (15%).",
+   "detected_at": "2026-07-13 12:10:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 7/10/26",
+   "detected_at": "2026-07-13 12:10:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED Victor Wembanyama Orlando Magic",
+   "detected_at": "2026-07-13 12:09:55",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED 26-27 MAXIMUM SALARY (25% or 30%)",
+   "detected_at": "2026-07-13 12:09:55",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED 27-28 MAXIMUM SALARY",
+   "detected_at": "2026-07-13 12:09:55",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Victor Wembanyama San Antonio Spurs",
+   "detected_at": "2026-07-13 12:09:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  27-28 MAXIMUM SALARY (25%)",
+   "detected_at": "2026-07-13 12:09:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED 30-31 MAXIMUM SALARY (Player Option)",
+   "detected_at": "2026-07-13 12:09:55",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED 5 Years for MAXIMUM SALARY (TBD). Rookie Scale Extension. Max Contract. Advance Payment (50% of Base Compensation in Y1, 20% of Base Compensation in Y2-5). Player option to extend the contract to include the 2030-31 Season. Insurance Premium Reimbursement. Skill; Injury or Illness; Mental; Death. Love of the Game.",
+   "detected_at": "2026-07-13 12:09:55",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  30-31 MAXIMUM SALARY",
+   "detected_at": "2026-07-13 12:09:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  31-32 MAXIMUM SALARY (Player Option)",
+   "detected_at": "2026-07-13 12:09:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  5 Years for MAXIMUM SALARY (TBD). Rookie Scale Extension. Max Contract. Advance Payment (50% of Base Compensation in Y1, 25% of Base Compensation in Y2-5). Player option to extend the contract to include the 2031-32 Season. Insurance Premium Reimbursement. Skill; Injury or Illness; Mental; Death.",
+   "detected_at": "2026-07-13 12:09:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Victor Wembanyama Orlando Magic",
+   "detected_at": "2026-07-13 12:08:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  26-27 MAXIMUM SALARY (25% or 30%)",
+   "detected_at": "2026-07-13 12:08:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  27-28 MAXIMUM SALARY",
+   "detected_at": "2026-07-13 12:08:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  28-29 MAXIMUM SALARY",
+   "detected_at": "2026-07-13 12:08:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  29-30 MAXIMUM SALARY",
+   "detected_at": "2026-07-13 12:08:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  30-31 MAXIMUM SALARY (Player Option)",
+   "detected_at": "2026-07-13 12:08:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  5 Years for MAXIMUM SALARY (TBD). Rookie Scale Extension. Max Contract. Advance Payment (50% of Base Compensation in Y1, 20% of Base Compensation in Y2-5). Player option to extend the contract to include the 2030-31 Season. Insurance Premium Reimbursement. Skill; Injury or Illness; Mental; Death. Love of the Game.",
+   "detected_at": "2026-07-13 12:08:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 7/7/25",
+   "detected_at": "2026-07-13 12:08:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED Update 1.2 (7/7/26): P. Achiuwa, J. Alvarado, K. Anderson, H. Barnes, C. Bassey, B. Bogdanovic, T. Bryant, J. Clark, J. Clarkson, J. Collins, M. Conley, M. Diawara, O. Dieng, A. Dosunmu, A. Drummond, T. Eason, K. Ellis, C. Gillespie, J. Green, Q. Grimes, J. Goodwin, R. Hachimura, T. Hardaway Jr., T. Harris, I. Hartenstein, J. Hayes, K. Huerter, A. Hukporti, D. Jordan, W. Kessler, J. Landale, K. Looney, T. Lyles, S. Mamukelashvili, K. Middleton, J. Miller, L. Nance, P. Nance, J. Nurkic, N. Powell, J. Okogie, K. Oubre, Q. Post, A. Reaves, M. Robinson, K. Sanders, C. Sexton, L. Shamet, M. Smart, C. White, K. Williams, M. Williams, T. Young",
+   "detected_at": "2026-07-13 12:07:55",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Update 1.2 (7/7/26): P. Achiuwa, J. Alvarado, K. Anderson, H. Barnes, C. Bassey, B. Bogdanovic, T. Bryant, J. Clark, J. Clarkson, J. Collins, M. Conley, M. Diawara, O. Dieng, A. Dosunmu, A. Drummond, T. Eason, K. Ellis, C. Gillespie, J. Green, Q. Grimes, J. Goodwin, R. Hachimura, T. Hardaway Jr., T. Harris, I. Hartenstein, J. Hayes, K. Huerter, A. Hukporti, D. Jordan, W. Kessler, J. Landale, K. Looney, T. Lyles, S. Mamukelashvili, K. Middleton, J. Miller, L. Nance, P. Nance, J. Nurkic, N. Powell, J. Okogie, K. Oubre, Q. Post, A. Reaves, M. Robinson, K. Sanders, C. Sexton, L. Shamet, M. Smart, V. Wembanyama, C. White, K. Williams, M. Williams, T. Young",
+   "detected_at": "2026-07-13 12:07:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED 26-27 $5,300,00",
+   "detected_at": "2026-07-13 12:07:05",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  26-27 $5,300,000",
+   "detected_at": "2026-07-13 12:07:05",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED 3 Years for $15,300,000. Bird Exception. Advance Payment ($300,000). Team option to extend the contract to include the 2028-29 Season. Insurance Premium Reimbursement. Skill; Injury or Illness; Mental. Compensation protection for 202",
+   "detected_at": "2026-07-13 12:04:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED Love of the Game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-07-13 12:04:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED Execution Date: 7/10/26",
+   "detected_at": "2026-07-13 12:04:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  3 Years for $15,300,000. Bird Exception. Advance Payment ($300,000). Team option to extend the contract to include the 2028-29 Season. Insurance Premium Reimbursement. Skill; Injury or Illness; Mental. Compensation protection for 2027-28 Season is none but will increase to full if team has not requested waivers on player on or before 7/15/2027. Compensation protection for 2028-29 Season is none but will increase to full if team has not requested waivers on player on or before 7/15/2028. Trade Kicker (3%). Love of the Game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-07-13 12:04:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 7/9/26",
+   "detected_at": "2026-07-13 12:04:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED 27-28 $5",
+   "detected_at": "2026-07-13 12:03:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED 28-29 $3,580,246",
+   "detected_at": "2026-07-13 12:03:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED 3 Years for $10,000,000. Bird Exception. Insurance Premium Reimbursement. Skill; Injury or Illness; Mental. Love of the Game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-07-13 12:03:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  27-28 $5,000,000",
+   "detected_at": "2026-07-13 12:03:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  28-29 $5,000,000 (Team Option)",
+   "detected_at": "2026-07-13 12:03:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  3 Years for $15,300,000. Bird Exception. Advance Payment ($300,000). Team option to extend the contract to include the 2028-29 Season. Insurance Premium Reimbursement. Skill; Injury or Illness; Mental. Compensation protection for 202",
+   "detected_at": "2026-07-13 12:03:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Love of the Game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-07-13 12:03:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Jordan Miller Los Angeles Clippers",
+   "detected_at": "2026-07-13 12:02:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  26-27 $5,300,00",
+   "detected_at": "2026-07-13 12:02:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  27-28 $5",
+   "detected_at": "2026-07-13 12:02:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  28-29 $3,580,246",
+   "detected_at": "2026-07-13 12:02:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  3 Years for $10,000,000. Bird Exception. Insurance Premium Reimbursement. Skill; Injury or Illness; Mental. Love of the Game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-07-13 12:02:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 7/10/26",
+   "detected_at": "2026-07-13 12:02:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED Update 1.2 (7/7/26): P. Achiuwa, J. Alvarado, K. Anderson, H. Barnes, C. Bassey, B. Bogdanovic, T. Bryant, J. Clark, J. Clarkson, J. Collins, M. Conley, M. Diawara, O. Dieng, A. Dosunmu, A. Drummond, T. Eason, K. Ellis, C. Gillespie, J. Green, Q. Grimes, J. Goodwin, R. Hachimura, T. Hardaway Jr., T. Harris, I. Hartenstein, J. Hayes, K. Huerter, A. Hukporti, D. Jordan, W. Kessler, J. Landale, K. Looney, T. Lyles, S. Mamukelashvili, K. Middleton, L. Nance, P. Nance, J. Nurkic, N. Powell, J. Okogie, K. Oubre, Q. Post, A. Reaves, M. Robinson, K. Sanders, C. Sexton, L. Shamet, M. Smart, C. White, K. Williams, M. Williams, T. Young",
+   "detected_at": "2026-07-13 12:00:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Update 1.2 (7/7/26): P. Achiuwa, J. Alvarado, K. Anderson, H. Barnes, C. Bassey, B. Bogdanovic, T. Bryant, J. Clark, J. Clarkson, J. Collins, M. Conley, M. Diawara, O. Dieng, A. Dosunmu, A. Drummond, T. Eason, K. Ellis, C. Gillespie, J. Green, Q. Grimes, J. Goodwin, R. Hachimura, T. Hardaway Jr., T. Harris, I. Hartenstein, J. Hayes, K. Huerter, A. Hukporti, D. Jordan, W. Kessler, J. Landale, K. Looney, T. Lyles, S. Mamukelashvili, K. Middleton, J. Miller, L. Nance, P. Nance, J. Nurkic, N. Powell, J. Okogie, K. Oubre, Q. Post, A. Reaves, M. Robinson, K. Sanders, C. Sexton, L. Shamet, M. Smart, C. White, K. Williams, M. Williams, T. Young",
+   "detected_at": "2026-07-13 12:00:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "LAC  CHANGED Miller, Jordan  -  TEAM SALARY CAP REPORT\n       -  LOS ANGELES CLIPPERS: 5 - QUAL OFFER -> 1 - FULL SEASON, col3: 2738125.860831442 -> 5300000.0, col4: - -> 5000000.0, col5: - -> 5000000.0, col9: 2738125.861 -> 15300000",
+   "detected_at": "2026-07-13 11:59:57",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "LAC  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 211535863.7 -> 214097737.9, col4: 85998261 -> 90998261, col5: 21669032 -> 26669032, col9: 338624146.1 -> 351186020.2",
+   "detected_at": "2026-07-13 11:59:57",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "LAC  CHANGED Players Under Contract  -  col3: 157994760 -> 163294760, col4: 85998261 -> 90998261, col5: 21669032 -> 26669032",
+   "detected_at": "2026-07-13 11:59:57",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "LAC  CHANGED Full Season Contracts  -  col3: 157994760 -> 163294760, col4: 85998261 -> 90998261, col5: 21669032 -> 26669032",
+   "detected_at": "2026-07-13 11:59:57",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "LAC  CHANGED Qualifying Offers  -  col3: 2738125.861 -> 0",
+   "detected_at": "2026-07-13 11:59:57",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "LAC  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 12 -> 13",
+   "detected_at": "2026-07-13 11:59:57",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "LAC  CHANGED Avg, Salary (Mean) (No 10-Day K's)  -  col6: 3 -> 2",
+   "detected_at": "2026-07-13 11:59:57",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "LAC  CHANGED Avg, Salary (Mean) (No 10-Day K's & ROS)  -  col6: 1 -> 0",
+   "detected_at": "2026-07-13 11:59:57",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  - REMOVED #35 Trevon Brazile Denver Nuggets",
+   "detected_at": "2026-07-13 11:55:55",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  - REMOVED 26-27 $1,357,763",
+   "detected_at": "2026-07-13 11:55:55",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  #36 Baba Miller Los Angeles Clippers",
+   "detected_at": "2026-07-13 11:55:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  26-27 $1,705,630",
+   "detected_at": "2026-07-13 11:55:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  - REMOVED 4 Years for $9,264,648. Second Round Pick Exception. Advance Payment ($101,832). Team option to extend the contract to include the 2029-30 Season. Skill; Injury or Illness; Mental; Death. Compensation protection for 2028-29 Season is none but will increase to full if team has not requested waivers on player on or before 7/7/2028. Compensation protection for 2029-30 Season is none but will increase to full if team has not requested waivers on player on or before 7/7/2029. Love of the Game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-07-13 11:55:55",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  - REMOVED Execution Date: 7/10/26",
+   "detected_at": "2026-07-13 11:55:55",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  4 Years for $9,612,515. Second Round Pick Exception. Advance Payment ($100,000). Team option to extend the contract to include the 2029-30 Season. Skill; Injury or Illness; Mental. Compensation protection for 2028-29 Season is none but will increase to full if team has not requested waivers on player on or before 6/30/2028. Compensation protection for 2029-30 Season is none but will increase to full if team has not requested waivers on player on or before 6/30/2029. Love of the Game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-07-13 11:55:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 7/9/26",
+   "detected_at": "2026-07-13 11:55:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  - REMOVED Update 1.2 (7/7/26): N. Ament, J. Jefferson, B. Thornton, I. Evans, T. Brazile",
+   "detected_at": "2026-07-13 11:54:57",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Update 1.2 (7/7/26): N. Ament, J. Jefferson, B. Thornton, I. Evans, T. Brazile, B. Miller",
+   "detected_at": "2026-07-13 11:54:57",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  #35 Trevon Brazile Denver Nuggets",
+   "detected_at": "2026-07-13 11:54:57",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  26-27 $1,357,763",
+   "detected_at": "2026-07-13 11:54:57",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  27-28 $2,294,370",
+   "detected_at": "2026-07-13 11:54:57",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  28-29 $2,694,363",
+   "detected_at": "2026-07-13 11:54:57",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  29-30 $2,918,152 (Team Option)",
+   "detected_at": "2026-07-13 11:54:57",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  4 Years for $9,264,648. Second Round Pick Exception. Advance Payment ($101,832). Team option to extend the contract to include the 2029-30 Season. Skill; Injury or Illness; Mental; Death. Compensation protection for 2028-29 Season is none but will increase to full if team has not requested waivers on player on or before 7/7/2028. Compensation protection for 2029-30 Season is none but will increase to full if team has not requested waivers on player on or before 7/7/2029. Love of the Game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-07-13 11:54:57",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 7/10/26",
+   "detected_at": "2026-07-13 11:54:57",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "LAC  + ADDED  Miller, Baba",
+   "detected_at": "2026-07-13 11:53:58",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "LAC  CHANGED Players Under Contract  -  col3: 156289130 -> 157994760, col4: 83703891 -> 85998261, col5: 18974669 -> 21669032, col6: 16502837.32 -> 19420989.32",
+   "detected_at": "2026-07-13 11:53:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "LAC  CHANGED Full Season Contracts  -  col3: 156289130 -> 157994760, col4: 83703891 -> 85998261, col5: 18974669 -> 21669032, col6: 16502837.32 -> 19420989.32",
+   "detected_at": "2026-07-13 11:53:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "LAC  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 11 -> 12",
+   "detected_at": "2026-07-13 11:53:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "LAC  CHANGED Avg, Salary (Mean) (No 10-Day K's)  -  col6: 4 -> 3",
+   "detected_at": "2026-07-13 11:53:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "LAC  CHANGED Avg, Salary (Mean) (No 10-Day K's & ROS)  -  col6: 2 -> 1",
+   "detected_at": "2026-07-13 11:53:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "LAC  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 209830233.7 -> 211535863.7, col4: 83703891 -> 85998261, col5: 18974669 -> 21669032, col6: 16502837.32 -> 19420989.32, col9: 329011631.1 -> 338624146.1",
+   "detected_at": "2026-07-13 11:52:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED 4 Years for $180,000,000. Room. Advance Payment ($45,000,000). Player option to extend the contract to include the 2029-30 Season. Insurance Premium Reimbursement. Skill; Injury or Illness; Mental; Death. Love of the Game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-07-13 11:52:02",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  4 Years for $180,000,000. Bird Exception. Advance Payment ($45,000,000). Player option to extend the contract to include the 2029-30 Season. Insurance Premium Reimbursement. Skill; Injury or Illness; Mental; Death. Love of the Game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-07-13 11:52:02",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED 2 Years for $19,200,300. Room. Advance Payment ($45,000,000). Player option to extend the contract to include the 2029-30 Season. Insurance Premium Reimbursement. Skill; Injury or Illness; Mental; Death. Love of the Game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-07-13 11:52:02",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED Execution Date: 7/12/26",
+   "detected_at": "2026-07-13 11:52:02",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  2 Years for $19,200,300. Room Exception. Advance Payment ($2,000,000). Player option to extend the contract to include the 2027-28 Season. Skill; Injury or Illness; Mental; Death. Love of the Game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-07-13 11:52:02",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 7/11/26",
+   "detected_at": "2026-07-13 11:52:02",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED Update 1.2 (7/7/26): P. Achiuwa, J. Alvarado, K. Anderson, H. Barnes, C. Bassey, B. Bogdanovic, T. Bryant, J. Clark, J. Clarkson, J. Collins, M. Conley, M. Diawara, O. Dieng, A. Dosunmu, A. Drummond, T. Eason, K. Ellis, C. Gillespie, J. Green, Q. Grimes, J. Goodwin, R. Hachimura, T. Hardaway Jr., T. Harris, I. Hartenstein, J. Hayes, K. Huerter, A. Hukporti, D. Jordan, W. Kessler, J. Landale, K. Looney, T. Lyles, S. Mamukelashvili, K. Middleton, L. Nance, P. Nance, J. Nurkic, N. Powell, J. Okogie, K. Oubre, Q. Post, A. Reaves, M. Robinson, K. Sanders, L. Shamet, M. Smart, C. White, K. Williams, M. Williams, T. Young",
+   "detected_at": "2026-07-13 11:50:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Update 1.2 (7/7/26): P. Achiuwa, J. Alvarado, K. Anderson, H. Barnes, C. Bassey, B. Bogdanovic, T. Bryant, J. Clark, J. Clarkson, J. Collins, M. Conley, M. Diawara, O. Dieng, A. Dosunmu, A. Drummond, T. Eason, K. Ellis, C. Gillespie, J. Green, Q. Grimes, J. Goodwin, R. Hachimura, T. Hardaway Jr., T. Harris, I. Hartenstein, J. Hayes, K. Huerter, A. Hukporti, D. Jordan, W. Kessler, J. Landale, K. Looney, T. Lyles, S. Mamukelashvili, K. Middleton, L. Nance, P. Nance, J. Nurkic, N. Powell, J. Okogie, K. Oubre, Q. Post, A. Reaves, M. Robinson, K. Sanders, C. Sexton, L. Shamet, M. Smart, C. White, K. Williams, M. Williams, T. Young",
+   "detected_at": "2026-07-13 11:50:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Collin Sexton Los Angeles Lakers",
+   "detected_at": "2026-07-13 11:50:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  26-27 $9,366,000",
+   "detected_at": "2026-07-13 11:50:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  27-28 $9,834,000 (Player Option)",
+   "detected_at": "2026-07-13 11:50:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  2 Years for $19,200,300. Room. Advance Payment ($45,000,000). Player option to extend the contract to include the 2029-30 Season. Insurance Premium Reimbursement. Skill; Injury or Illness; Mental; Death. Love of the Game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-07-13 11:50:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 7/12/26",
+   "detected_at": "2026-07-13 11:50:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "LAL  CHANGED Sexton, Collin  -  col4: - -> 9834300.0, col9: 9366000 -> 19200300",
+   "detected_at": "2026-07-13 11:49:57",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "LAL  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col4: 190918292.3 -> 200752592.3, col9: 679282016.5 -> 689116316.5",
+   "detected_at": "2026-07-13 11:49:57",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "LAL  CHANGED Players Under Contract  -  col4: 190918292.3 -> 200752592.3",
+   "detected_at": "2026-07-13 11:49:57",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "LAL  CHANGED Full Season Contracts  -  col4: 190918292.3 -> 200752592.3",
+   "detected_at": "2026-07-13 11:49:57",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "LAL  + ADDED  Sexton, Collin",
+   "detected_at": "2026-07-13 11:48:57",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "LAL  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 188177780 -> 197543780, col9: 669916016.5 -> 679282016.5",
+   "detected_at": "2026-07-13 11:48:57",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "LAL  CHANGED Players Under Contract  -  col3: 188177780 -> 197543780",
+   "detected_at": "2026-07-13 11:48:57",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "LAL  CHANGED Full Season Contracts  -  col3: 188177780 -> 197543780",
+   "detected_at": "2026-07-13 11:48:57",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "LAL  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 13 -> 14",
+   "detected_at": "2026-07-13 11:48:57",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "LAL  CHANGED Avg, Salary (Mean) (No 10-Day K's)  -  col6: 2 -> 1",
+   "detected_at": "2026-07-13 11:48:57",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col15: 282780 -> 9648780",
+   "detected_at": "2026-07-13 11:48:57",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 1st Incremental Tax Bracket  -  col15: 848340 -> 17055000",
+   "detected_at": "2026-07-13 11:48:57",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 2nd Incremental Tax Bracket  -  col15: 0 -> 12882285",
+   "detected_at": "2026-07-13 11:48:57",
+   "source": "SHEETS",
+   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -9015,10 +9015,10 @@
    "last": "2026-08-06 12:29:58"
   },
   "TRANSACTIONS": {
-   "count": 1983,
-   "last": "2026-08-06 12:34:58"
+   "count": 264,
+   "last": "2026-08-06 08:25:50"
   }
  },
- "generated_at": "2026-08-06T21:11:18",
- "total": 7900
+ "generated_at": "2026-08-06T14:20:30",
+ "total": 6181
 }
