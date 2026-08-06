@@ -1,0 +1,113 @@
+name: Run trackers
+
+# Runs the whole tracker suite on GitHub instead of on a PC, and commits both
+# the snapshots and data/events.json back to this repo. The admin dashboard
+# then reads data/events.json from raw -- same as it would if a local machine
+# had pushed it.
+#
+# WHY THE SNAPSHOTS MUST BE COMMITTED
+#   Every tracker is a DIFF against its previous snapshot, and an Actions
+#   runner is destroyed after each job. Without the snapshot folders in the
+#   repo each run would look like a first run, re-baseline silently, and detect
+#   nothing -- forever, with no error anywhere. Committing them IS the state.
+#
+# ON THE SCHEDULE
+#   cron's floor here is 5 minutes, and GitHub delays scheduled runs under load
+#   (routinely by 5-15 minutes, occasionally skipping one). This is set to 10.
+#   If you need per-minute detection, Task Scheduler on a PC is genuinely
+#   better and nothing stops both running -- the diffs are idempotent, so
+#   whichever sees a change first logs it and the other finds nothing.
+#
+#   Minutes: free and unmetered on a PUBLIC repo. On a private one, every 10
+#   minutes is ~4,300 runs a month and will exhaust the 2,000-minute
+#   allowance. Check which this repo is before trusting the schedule.
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch:          # run it now, and the way to test it first
+
+permissions:
+  contents: write
+
+concurrency:
+  # Two overlapping runs would both diff against the same snapshot and race to
+  # commit it. Queue instead of cancelling: a cancelled run loses the changes
+  # it had already detected.
+  group: run-trackers
+  cancel-in-progress: false
+
+jobs:
+  track:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install openpyxl
+        # Only the sheets tracker needs it, and it says so loudly rather than
+        # crashing -- but then the sheet feed silently never reports.
+        run: pip install --quiet openpyxl
+
+      - name: Which trackers are present
+        run: |
+          for f in nba_auto_tracker nba_transactions_tracker nba_gleague_tracker \
+                   nba_docs_tracker nba_sheets_tracker nba_changelog nba_tracker_all \
+                   nba_push_github; do
+            if [ -f "$f.py" ]; then echo "  $f.py"; else echo "  $f.py  MISSING"; fi
+          done
+          # nba_tracker_all imports each one in a try/except and carries on, so a
+          # missing tracker is invisible in its output. Say it here instead.
+
+      - name: Run the trackers
+        # Never fails the job. A feed being unreachable is normal weather, and
+        # a red run every time nba.com rate-limits an Azure IP would make the
+        # signal worthless.
+        run: python nba_tracker_all.py || echo "::warning::tracker run reported errors"
+
+      - name: Build data/events.json
+        run: python nba_push_github.py --out data/events.json
+
+      - name: Commit snapshots and events
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # One path at a time, and only if it exists. `git add -A a b c` is
+          # ATOMIC: a pathspec that matches nothing makes the whole command
+          # fatal and stages NOTHING, so a missing snapshot folder silently
+          # committed nothing at all -- every run reporting "nothing changed"
+          # while the trackers were working fine.
+          for p in data nba_auto_snapshots nba_tx_snapshots nba_doc_snapshots \
+                   nba_sheet_snapshots nba_gleague_snapshots \
+                   nba_changelog.csv nba_changelog.txt nba_changelog.html; do
+            [ -e "$p" ] && git add -A "$p"
+          done
+          # staging before comparing is what makes untracked files count as
+          # changes: `git diff` alone reports a new file as no change
+          if git diff --cached --quiet; then
+            echo "nothing changed"
+            exit 0
+          fi
+          git commit -m "trackers: $(date -u '+%Y-%m-%d %H:%M') UTC"
+          # A concurrent push (a manual dispatch, or you editing the repo) would
+          # reject this. Rebase and retry once rather than dropping the run's
+          # findings on the floor.
+          git push || (git pull --rebase --autostash && git push)
+
+      - name: Summary
+        if: always()
+        run: |
+          if [ -f data/events.json ]; then
+            python - <<'PY'
+          import json
+          j = json.load(open("data/events.json", encoding="utf-8"))
+          print(f"### {j['total']} events logged")
+          for k, v in sorted(j.get("feeds", {}).items()):
+              print(f"- **{k}** — {v['count']}, newest {v['last']}")
+          PY
+          else
+            echo "### data/events.json was not produced"
+          fi >> "$GITHUB_STEP_SUMMARY"
