@@ -11,21 +11,26 @@ name: Run trackers
 #   repo each run would look like a first run, re-baseline silently, and detect
 #   nothing -- forever, with no error anywhere. Committing them IS the state.
 #
-# ON THE SCHEDULE
-#   cron's floor here is 5 minutes, and GitHub delays scheduled runs under load
-#   (routinely by 5-15 minutes, occasionally skipping one). This is set to 10.
-#   If you need per-minute detection, Task Scheduler on a PC is genuinely
-#   better and nothing stops both running -- the diffs are idempotent, so
-#   whichever sees a change first logs it and the other finds nothing.
+# THE SCHEDULE IS OFF ON PURPOSE
+#   Task Scheduler on the PC polls every minute and pushes with
+#   nba_push_github.py; this runs the same trackers 10-40 minutes late once
+#   cron drift and runner queueing are counted. Running both is worse than
+#   running either: the scheduled run rebuilds data/events.json from the
+#   snapshot CSVs IN THIS REPO, which the local push does not update -- so it
+#   would overwrite the fresher local file with a staler one every 10 minutes
+#   and the dashboard would flap between two values.
 #
-#   Minutes: free and unmetered on a PUBLIC repo. On a private one, every 10
-#   minutes is ~4,300 runs a month and will exhaust the 2,000-minute
-#   allowance. Check which this repo is before trusting the schedule.
+#   Left as workflow_dispatch only, so it stays available as a manual backup
+#   for when that PC is off. To go back to scheduled runs, uncomment the two
+#   lines below AND remove the push action from Task Scheduler.
+#
+#   If you do: minutes are free on a PUBLIC repo; on a private one every 10
+#   minutes is ~4,300 runs a month and exhausts the 2,000-minute allowance.
 
 on:
-  schedule:
-    - cron: "*/10 * * * *"
-  workflow_dispatch:          # run it now, and the way to test it first
+  # schedule:
+  #   - cron: "*/10 * * * *"
+  workflow_dispatch:          # manual only -- see above
 
 permissions:
   contents: write
