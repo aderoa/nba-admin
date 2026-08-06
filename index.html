@@ -32,6 +32,13 @@ h1 b{color:var(--gold)}
 .tag.inj-status{color:var(--amber);border-color:var(--amber)}
 .tag.inj-reason{color:var(--dim);border-color:var(--dim)}
 .tag.milestone{color:var(--blue);border-color:var(--blue)}
+/* NOT .tag.tx -- ".tx" is already the feed's detail container (.ev .tx has
+   flex:1), so a tag with that class stretched across the whole row. */
+.tag.trx{color:var(--green);border-color:var(--green)}
+.tag.roster{color:var(--tx);border-color:var(--dim)}
+.tag.doc{color:#b98aff;border-color:#b98aff}
+.tag.sheet{color:#3ad6c6;border-color:#3ad6c6}
+.tag.gleague{color:#ff8a5c;border-color:#ff8a5c}
 .slate{display:flex;gap:10px;overflow-x:auto;padding-bottom:6px}
 .sg{min-width:230px;background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:10px 12px;flex:0 0 auto}
 .sg .mu{font-family:'Oswald',sans-serif;font-size:15px}
@@ -90,6 +97,11 @@ h1 b{color:var(--gold)}
 .lt.game{color:var(--gold);border-color:var(--gold)}
 .lt.milestone{color:var(--blue);border-color:var(--blue)}
 .lt.injury{color:var(--red);border-color:var(--red)}
+.lt.trx{color:var(--green);border-color:var(--green)}
+.lt.roster{color:var(--tx);border-color:var(--dim)}
+.lt.doc{color:#b98aff;border-color:#b98aff}
+.lt.sheet{color:#3ad6c6;border-color:#3ad6c6}
+.lt.gleague{color:#ff8a5c;border-color:#ff8a5c}
 .lx{flex:1;line-height:1.45;font-size:12px;word-break:break-word}
 .ld{color:var(--dim);font-size:10px;margin-top:3px}
 .log-empty{padding:26px 18px;text-align:center;color:var(--dim);
@@ -145,7 +157,7 @@ h1 b{color:var(--gold)}
 
 <script>
 "use strict";
-const ADMIN_BUILD="admin v5.1 · log panel styled · slate injuries on first load · 2026-08-06";
+const ADMIN_BUILD="admin v5.3 · trackers via nba-admin repo · 2026-08-06";
 console.log("[ADMIN]",ADMIN_BUILD);
 
 /* ============================================================
@@ -174,6 +186,16 @@ const SOURCES=[
     workflow:"Build playoff leaderboards", workflowFile:"build.yml",
     page:o=>`https://${o}.github.io/nba-milestones/`,
     loader:loadMilestones,
+  },
+  {
+    // The tracker suite (players table, NBA + G League transactions, Google
+    // Docs, Google Sheets). It runs locally on Task Scheduler, but publishes
+    // to GitHub via nba_push_github.py -- so this reads it exactly like every
+    // other source and works from any machine. No workflowFile: the runs
+    // happen on that PC, so there is nothing here to dispatch.
+    id:"trackers", label:"Change Trackers", owner:DEFAULT_OWNER, repo:"nba-admin",
+    page:o=>`https://github.com/${o}/nba-admin/blob/main/data/events.json`,
+    loader:loadTrackers,
   },
   // future: {id:"draft", label:"Draft Tracker", repo:"nba-draft-tracker", loader:loadDraft, ...}
 ];
@@ -400,6 +422,62 @@ async function loadMilestones(src){
   };
 }
 
+/* ---------------- change trackers ----------------
+   data/events.json in the nba-admin repo, written by nba_push_github.py on the
+   machine that runs the trackers. Reading it from `raw` rather than from
+   http://localhost:8765 is what makes this work anywhere -- an https dashboard
+   cannot fetch a localhost URL at all, browsers block it as mixed content.
+
+   The trade is latency: raw.githubusercontent sits behind a CDN with roughly a
+   five-minute cache, so a change can take that long to appear here even though
+   the push happened immediately. The card shows both the push time and the
+   build time so the two are never confused with each other. */
+const TRK_KIND={PLAYERS:"roster",TRANSACTIONS:"trx",DOCS:"doc",
+                SHEETS:"sheet",GLEAGUE:"gleague"};
+const TRK_TAG={PLAYERS:"ROSTER",TRANSACTIONS:"TRANSACTION",DOCS:"DOC",
+               SHEETS:"SHEET",GLEAGUE:"G LEAGUE"};
+
+async function loadTrackers(src){
+  const r=await fetch(raw(src.owner,src.repo,"data/events.json"),{cache:"no-cache"});
+  if(!r.ok){
+    // 404 means the pusher has never run. That is a different problem from a
+    // broken feed and the card should say which.
+    if(r.status===404){
+      state.cards[src.id]={rows:[["Status","never published"],
+        ["Fix","run nba_push_github.py on the tracker machine"]],chips:[]};
+      return;
+    }
+    throw new Error("HTTP "+r.status);
+  }
+  const j=await r.json();
+  (j.events||[]).forEach(e=>{
+    const kind=TRK_KIND[e.source]||"trx";
+    state.events.push({
+      day:(e.detected_at||"").slice(0,10), ts:e.detected_at, kind,
+      tag:TRK_TAG[e.source]||e.source, html:esc(e.detail),
+      id:e.source+"|"+e.detected_at+"|"+e.detail,   // stable across refreshes
+    });
+  });
+  const feeds=j.feeds||{};
+  // A feed with no events at all is a different problem from a quiet one, and
+  // only the newest timestamp distinguishes them.
+  const chips=Object.keys(TRK_TAG).filter(k=>feeds[k]).map(k=>
+    `${esc(TRK_TAG[k])} <b>${feeds[k].count}</b>`);
+  const silent=Object.keys(TRK_TAG).filter(k=>!feeds[k]);
+  const newest=Object.values(feeds).map(f=>f.last).sort().pop()||"";
+  state.cards[src.id]={
+    // "Newest event" is when something last HAPPENED; "Published" is when the
+    // pusher last ran. A quiet league and a dead pusher look identical if you
+    // only show one of them.
+    rows:[["Events logged",String(j.total||0)],
+          ["Newest event",newest?ago(newest.replace(" ","T")):"\u2014"],
+          ["Published",j.generated_at?ago(j.generated_at):"\u2014"]],
+    chips,
+    extra:silent.length?`<div class="watch"><b>No events yet:</b> ${
+      silent.map(k=>esc(TRK_TAG[k])).join(", ")}</div>`:"",
+  };
+}
+
 /* ---------------- pipeline health (GitHub API) ---------------- */
 async function loadHealth(src){
   const h={commit:null,run:null,runOk:null};
@@ -475,23 +553,28 @@ window.updateOne=async function(id){
 function renderCards(){
   $("statusGrid").innerHTML=SOURCES.map(s=>{
     const card=state.cards[s.id], h=state.health[s.id]||{}, err=state.cards[s.id]===undefined;
-    const dot=h.runOk==="success"?'<span class="ok">●</span>':h.runOk==="failure"?'<span class="bad">●</span>':'<span class="unk">●</span>';
+    const dot=h.runOk==="success"?'<span class="ok">●</span>'
+      : h.runOk==="failure"?'<span class="bad">●</span>'
+      : '<span class="unk">●</span>';
     const rows=(card&&card.rows||[["Status",err?"unavailable":"—"]])
       .map(([k,v])=>`<div class="kv"><span>${esc(k)}</span><b>${esc(v)}</b></div>`).join("");
     const chips=card&&card.chips&&card.chips.length?`<div class="statuschips">${card.chips.map(c=>`<span class="chip">${c}</span>`).join("")}</div>`:"";
     const extra=card&&card.extra?card.extra:"";
+    // Last commit is a real freshness signal for every source here: for the
+    // trackers it is literally when the pusher last committed. The workflow row
+    // only means something where a workflow exists.
+    const gh=`<div class="kv"><span>Last commit</span><b>${ago(h.commit)}</b></div>`
+      +(s.workflowFile?`<div class="kv"><span>Last workflow</span><b>${h.runOk||"—"} · ${ago(h.run)}</b></div>`:"");
+    const links=`<a href="${s.page(s.owner)}" target="_blank">${s.workflowFile?"app":"data"}</a>
+         <a href="https://github.com/${s.owner}/${s.repo}" target="_blank">repo</a>
+         <a href="https://github.com/${s.owner}/${s.repo}/actions" target="_blank">actions</a>
+         ${s.workflowFile?`<a class="runlink" onclick="updateOne('${s.id}')">⟳ update now</a>`:""}`;
     return `<div class="card">
       <h2>${esc(s.label)} ${dot}</h2>
       ${rows}
-      <div class="kv"><span>Last commit</span><b>${ago(h.commit)}</b></div>
-      <div class="kv"><span>Last workflow</span><b>${h.runOk||"—"} · ${ago(h.run)}</b></div>
+      ${gh}
       ${chips}${extra}
-      <div class="links">
-        <a href="${s.page(s.owner)}" target="_blank">app</a>
-        <a href="https://github.com/${s.owner}/${s.repo}" target="_blank">repo</a>
-        <a href="https://github.com/${s.owner}/${s.repo}/actions" target="_blank">actions</a>
-        ${s.workflowFile?`<a class="runlink" onclick="updateOne('${s.id}')">⟳ update now</a>`:""}
-      </div>
+      <div class="links">${links}</div>
     </div>`;
   }).join("");
 }
@@ -566,6 +649,8 @@ function syncEventLog(){
 }
 function labelForKind(k){
   return k==="game"?"FINAL":k==="milestone"?"MILESTONE":
+         k==="trx"?"TRANSACTION":k==="roster"?"ROSTER":
+         k==="doc"?"DOC":k==="sheet"?"SHEET":k==="gleague"?"G LEAGUE":
          k&&k.indexOf("inj")===0?"INJURY":(k||"EVENT").toUpperCase();
 }
 function stripTags(html){const d=document.createElement("div");d.innerHTML=html;return d.textContent||"";}
@@ -573,7 +658,9 @@ function renderLogPanel(){
   const body=$("logBody"); if(!body)return;
   if(!eventLog.length){ body.innerHTML='<div class="log-empty">No events logged yet. They\'ll appear here as games finish, injuries update, and milestones drop.</div>'; return; }
   body.innerHTML=eventLog.slice(0,200).map(r=>{
-    const cls=r.kind==="game"?"game":r.kind==="milestone"?"milestone":(r.kind&&r.kind.indexOf("inj")===0?"injury":"");
+    const cls=r.kind==="game"?"game":r.kind==="milestone"?"milestone":
+              (r.kind&&r.kind.indexOf("inj")===0)?"injury":
+              ["trx","roster","doc","sheet","gleague"].indexOf(r.kind)>=0?r.kind:"";
     const when=new Date(r.ts);
     const w=isNaN(when)?"":when.toLocaleString([], {month:"short",day:"numeric",hour:"numeric",minute:"2-digit"});
     return '<div class="log-item"><span class="lt '+cls+'">'+esc(r.tag||"EVENT")+'</span>'+
