@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "HOU  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col4: 164973736.3 -> 329934736.3, col9: 600999298.3 -> 765960298.3",
+   "detected_at": "2026-08-07 12:23:57",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "+ ADDED   Taelon Peter (SAS)",
    "detected_at": "2026-08-07 11:16:54",
    "source": "PLAYERS",
@@ -8993,12 +8999,6 @@
    "detected_at": "2026-07-13 12:14:57",
    "source": "DOCS",
    "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Update 1.2 (7/7/26): P. Achiuwa, J. Alvarado, K. Anderson, M. Bamba, H. Barnes, C. Bassey, B. Bogdanovic, T. Bryant, J. Clark, J. Clarkson, J. Collins, M. Conley, M. Diawara, O. Dieng, A. Dosunmu, A. Drummond, T. Eason, K. Ellis, C. Gillespie, J. Green, Q. Grimes, J. Goodwin, R. Hachimura, T. Hardaway Jr., T. Harris, I. Hartenstein, J. Hayes, K. Huerter, A. Hukporti, D. Jordan, W. Kessler, J. Landale, K. Looney, T. Lyles, S. Mamukelashvili, K. Middleton, J. Miller, L. Nance, P. Nance, J. Nurkic, N. Powell, J. Okogie, K. Oubre, Q. Post, A. Reaves, M. Robinson, K. Sanders, C. Sexton, L. Shamet, M. Smart, V. Wembanyama, C. White, K. Williams, M. Williams, T. Young",
-   "detected_at": "2026-07-13 12:14:57",
-   "source": "DOCS",
-   "type": "ADDED"
   }
  ],
  "feeds": {
@@ -9011,8 +9011,8 @@
    "last": "2026-08-07 11:16:54"
   },
   "SHEETS": {
-   "count": 3327,
-   "last": "2026-08-06 12:29:58"
+   "count": 3328,
+   "last": "2026-08-07 12:23:57"
   },
   "TRANSACTIONS": {
    "count": 266,
@@ -9023,6 +9023,6 @@
    "last": "2026-08-07 08:42:56"
   }
  },
- "generated_at": "2026-08-07T11:24:45",
- "total": 6291
+ "generated_at": "2026-08-07T12:31:37",
+ "total": 6292
 }
