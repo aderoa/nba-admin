@@ -1,6 +1,30 @@
 {
  "events": [
   {
+   "detail": "D. J. Carton  ~ team: Birmingham Squadron -> Laketown Squadron",
+   "detected_at": "2026-08-06 21:48:58",
+   "source": "WIKI",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "D. J. Carton  ~ CAREER  + 2025–present Birmingham/Laketown Squadron",
+   "detected_at": "2026-08-06 21:48:58",
+   "source": "WIKI",
+   "type": "CAREER"
+  },
+  {
+   "detail": "Keenan Evans  ~ CAREER  + 2026–present Žalgiris Kaunas",
+   "detected_at": "2026-08-06 21:48:58",
+   "source": "WIKI",
+   "type": "CAREER"
+  },
+  {
+   "detail": "Keenan Evans  ~ CAREER  + 2026-present London Lions",
+   "detected_at": "2026-08-06 21:48:58",
+   "source": "WIKI",
+   "type": "CAREER"
+  },
+  {
    "detail": "Torin Francis  ~ nationality: American -> -",
    "detected_at": "2026-08-06 19:53:58",
    "source": "WIKI",
@@ -8975,30 +8999,6 @@
    "detected_at": "2026-07-13 11:49:57",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "LAL  CHANGED Players Under Contract  -  col4: 190918292.3 -> 200752592.3",
-   "detected_at": "2026-07-13 11:49:57",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "LAL  CHANGED Full Season Contracts  -  col4: 190918292.3 -> 200752592.3",
-   "detected_at": "2026-07-13 11:49:57",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "LAL  + ADDED  Sexton, Collin",
-   "detected_at": "2026-07-13 11:48:57",
-   "source": "SHEETS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "LAL  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 188177780 -> 197543780, col9: 669916016.5 -> 679282016.5",
-   "detected_at": "2026-07-13 11:48:57",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -9019,10 +9019,10 @@
    "last": "2026-08-06 18:39:56"
   },
   "WIKI": {
-   "count": 5,
-   "last": "2026-08-06 19:53:58"
+   "count": 9,
+   "last": "2026-08-06 21:48:58"
   }
  },
- "generated_at": "2026-08-06T19:53:58",
- "total": 6188
+ "generated_at": "2026-08-06T21:48:59",
+ "total": 6192
 }
