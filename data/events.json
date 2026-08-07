@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "- REMOVED Sean Pedulla (LAC)",
+   "detected_at": "2026-08-07 08:20:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
    "detail": "Milton Doyle  ~ number: - -> 35",
    "detected_at": "2026-08-07 08:19:54",
    "source": "WIKI",
@@ -8993,12 +8999,6 @@
    "detected_at": "2026-07-13 12:10:55",
    "source": "DOCS",
    "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Execution Date: 7/7/25",
-   "detected_at": "2026-07-13 12:10:55",
-   "source": "DOCS",
-   "type": "REMOVED"
   }
  ],
  "feeds": {
@@ -9007,8 +9007,8 @@
    "last": "2026-08-06 12:34:58"
   },
   "PLAYERS": {
-   "count": 608,
-   "last": "2026-08-06 19:18:54"
+   "count": 609,
+   "last": "2026-08-07 08:20:54"
   },
   "SHEETS": {
    "count": 3327,
@@ -9023,6 +9023,6 @@
    "last": "2026-08-07 08:19:54"
   }
  },
- "generated_at": "2026-08-07T08:19:55",
- "total": 6283
+ "generated_at": "2026-08-07T08:21:01",
+ "total": 6284
 }
