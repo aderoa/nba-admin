@@ -39,6 +39,7 @@ h1 b{color:var(--gold)}
 .tag.doc{color:#b98aff;border-color:#b98aff}
 .tag.sheet{color:#3ad6c6;border-color:#3ad6c6}
 .tag.gleague{color:#ff8a5c;border-color:#ff8a5c}
+.tag.wiki{color:#7fd3ff;border-color:#7fd3ff}
 .slate{display:flex;gap:10px;overflow-x:auto;padding-bottom:6px}
 .sg{min-width:230px;background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:10px 12px;flex:0 0 auto}
 .sg .mu{font-family:'Oswald',sans-serif;font-size:15px}
@@ -123,6 +124,7 @@ body.condensed .card .mini{display:block;margin-top:3px}
 .lt.doc{color:#b98aff;border-color:#b98aff}
 .lt.sheet{color:#3ad6c6;border-color:#3ad6c6}
 .lt.gleague{color:#ff8a5c;border-color:#ff8a5c}
+.lt.wiki{color:#7fd3ff;border-color:#7fd3ff}
 .lx{flex:1;line-height:1.45;font-size:12px;word-break:break-word}
 .ld{color:var(--dim);font-size:10px;margin-top:3px}
 .log-empty{padding:26px 18px;text-align:center;color:var(--dim);
@@ -179,7 +181,7 @@ body.condensed .card .mini{display:block;margin-top:3px}
 
 <script>
 "use strict";
-const ADMIN_BUILD="admin v5.4 · season-aware milestones · collapsible cards · 2026-08-06";
+const ADMIN_BUILD="admin v5.5 · Wikipedia card · 2026-08-06";
 console.log("[ADMIN]",ADMIN_BUILD);
 
 /* ============================================================
@@ -223,6 +225,15 @@ const SOURCES=[
     id:"trackers", label:"Change Trackers", owner:DEFAULT_OWNER, repo:"nba-admin",
     page:o=>`https://github.com/${o}/nba-admin/blob/main/data/events.json`,
     loader:loadTrackers,
+  },
+  {
+    // Wikipedia gets its own card because it answers a different question
+    // from the other five: those watch NBA sources for roster moves, this
+    // watches the whole basketball world for a player's club changing --
+    // including leagues nothing else here covers. Same JSON, different slice.
+    id:"wiki", label:"Wikipedia", owner:DEFAULT_OWNER, repo:"nba-admin",
+    page:o=>`https://github.com/${o}/nba-admin/blob/main/nba_wiki_snapshots/wiki_log.csv`,
+    loader:loadWiki,
   },
   // future: {id:"draft", label:"Draft Tracker", repo:"nba-draft-tracker", loader:loadDraft, ...}
 ];
@@ -483,9 +494,9 @@ async function loadMilestones(src){
    the push happened immediately. The card shows both the push time and the
    build time so the two are never confused with each other. */
 const TRK_KIND={PLAYERS:"roster",TRANSACTIONS:"trx",DOCS:"doc",
-                SHEETS:"sheet",GLEAGUE:"gleague"};
+                SHEETS:"sheet",GLEAGUE:"gleague",WIKI:"wiki"};
 const TRK_TAG={PLAYERS:"ROSTER",TRANSACTIONS:"TRANSACTION",DOCS:"DOC",
-               SHEETS:"SHEET",GLEAGUE:"G LEAGUE"};
+               SHEETS:"SHEET",GLEAGUE:"G LEAGUE",WIKI:"WIKIPEDIA"};
 
 async function loadTrackers(src){
   const r=await fetch(raw(src.owner,src.repo,"data/events.json"),{cache:"no-cache"});
@@ -508,24 +519,71 @@ async function loadTrackers(src){
       id:e.source+"|"+e.detected_at+"|"+e.detail,   // stable across refreshes
     });
   });
-  const feeds=j.feeds||{};
+  // WIKI has its own card; leave it out of this one's chips so the two do
+  // not report the same number twice.
+  const feeds={};
+  Object.keys(j.feeds||{}).forEach(k=>{ if(k!=="WIKI") feeds[k]=j.feeds[k]; });
   // A feed with no events at all is a different problem from a quiet one, and
   // only the newest timestamp distinguishes them.
   const chips=Object.keys(TRK_TAG).filter(k=>feeds[k]).map(k=>
     `${esc(TRK_TAG[k])} <b>${feeds[k].count}</b>`);
-  const silent=Object.keys(TRK_TAG).filter(k=>!feeds[k]);
+  const local=Object.values(feeds).reduce((a,f)=>a+(f.count||0),0);
+  const silent=Object.keys(TRK_TAG).filter(k=>k!=="WIKI"&&!feeds[k]);
   const newest=Object.values(feeds).map(f=>f.last).sort().pop()||"";
   state.cards[src.id]={
     // "Newest event" is when something last HAPPENED; "Published" is when the
     // pusher last ran. A quiet league and a dead pusher look identical if you
     // only show one of them.
-    mini:`${(j.total||0).toLocaleString()} events`,
-    rows:[["Events logged",String(j.total||0)],
+    mini:`${(local).toLocaleString()} events`,
+    rows:[["Events logged",String(local)],
           ["Newest event",newest?ago(newest.replace(" ","T")):"\u2014"],
           ["Published",j.generated_at?ago(j.generated_at):"\u2014"]],
     chips,
     extra:silent.length?`<div class="watch"><b>No events yet:</b> ${
       silent.map(k=>esc(TRK_TAG[k])).join(", ")}</div>`:"",
+  };
+}
+
+/* ---------------- wikipedia ----------------
+   Reads the SAME data/events.json as the trackers card and takes only the
+   WIKI slice. No second fetch is worth it for one field, and the browser
+   serves the second request from cache anyway.
+
+   The events themselves are pushed to the feed by loadTrackers, not here --
+   doing it in both would show every Wikipedia change twice. */
+async function loadWiki(src){
+  const r=await fetch(raw(src.owner,src.repo,"data/events.json"),{cache:"no-cache"});
+  if(!r.ok){
+    if(r.status===404){
+      state.cards[src.id]={rows:[["Status","never published"],
+        ["Fix","run nba_push_github.py on the tracker machine"]],chips:[]};
+      return;
+    }
+    throw new Error("HTTP "+r.status);
+  }
+  const j=await r.json();
+  const f=(j.feeds||{}).WIKI;
+  if(!f){
+    // Configured but silent is a real state, and worth saying plainly rather
+    // than showing a zero that looks like a broken card.
+    state.cards[src.id]={mini:"no events yet",
+      rows:[["Status","no events yet"],
+            ["Watching","infobox team / league / career"]],chips:[]};
+    return;
+  }
+  // Break the events down by kind. A club change is the thing worth seeing;
+  // CAREER lines are the supporting detail and NEW is a fresh article.
+  const ev=(j.events||[]).filter(e=>e.source==="WIKI");
+  const n={CHANGED:0,CAREER:0,NEW:0};
+  ev.forEach(e=>{ if(n[e.type]!==undefined)n[e.type]++; });
+  const last=ev[0]?esc(ev[0].detail).slice(0,90):"";
+  state.cards[src.id]={
+    mini:`${f.count.toLocaleString()} changes`,
+    rows:[["Infobox changes",String(f.count)],
+          ["Newest",f.last?ago(f.last.replace(" ","T")):"\u2014"]],
+    chips:[`CHANGED <b>${n.CHANGED}</b>`,`CAREER <b>${n.CAREER}</b>`,
+           `NEW <b>${n.NEW}</b>`].filter((_,i)=>[n.CHANGED,n.CAREER,n.NEW][i]>0),
+    extra:last?`<div class="watch"><b>Latest:</b> ${last}</div>`:"",
   };
 }
 
@@ -750,6 +808,7 @@ function labelForKind(k){
   return k==="game"?"FINAL":k==="milestone"?"MILESTONE":
          k==="trx"?"TRANSACTION":k==="roster"?"ROSTER":
          k==="doc"?"DOC":k==="sheet"?"SHEET":k==="gleague"?"G LEAGUE":
+         k==="wiki"?"WIKIPEDIA":
          k&&k.indexOf("inj")===0?"INJURY":(k||"EVENT").toUpperCase();
 }
 function stripTags(html){const d=document.createElement("div");d.innerHTML=html;return d.textContent||"";}
@@ -759,7 +818,7 @@ function renderLogPanel(){
   body.innerHTML=eventLog.slice(0,200).map(r=>{
     const cls=r.kind==="game"?"game":r.kind==="milestone"?"milestone":
               (r.kind&&r.kind.indexOf("inj")===0)?"injury":
-              ["trx","roster","doc","sheet","gleague"].indexOf(r.kind)>=0?r.kind:"";
+              ["trx","roster","doc","sheet","gleague","wiki"].indexOf(r.kind)>=0?r.kind:"";
     const when=new Date(r.ts);
     const w=isNaN(when)?"":when.toLocaleString([], {month:"short",day:"numeric",hour:"numeric",minute:"2-digit"});
     return '<div class="log-item"><span class="lt '+cls+'">'+esc(r.tag||"EVENT")+'</span>'+
