@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "Torin Francis  ~ nationality: American -> -",
+   "detected_at": "2026-08-06 19:53:58",
+   "source": "WIKI",
+   "type": "CHANGED"
+  },
+  {
    "detail": "+ ADDED   Jamarion Sharp (LAC)",
    "detected_at": "2026-08-06 19:18:54",
    "source": "PLAYERS",
@@ -8993,12 +8999,6 @@
    "detected_at": "2026-07-13 11:48:57",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "LAL  CHANGED Players Under Contract  -  col3: 188177780 -> 197543780",
-   "detected_at": "2026-07-13 11:48:57",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -9019,10 +9019,10 @@
    "last": "2026-08-06 18:39:56"
   },
   "WIKI": {
-   "count": 4,
-   "last": "2026-08-06 19:07:57"
+   "count": 5,
+   "last": "2026-08-06 19:53:58"
   }
  },
- "generated_at": "2026-08-06T19:19:04",
- "total": 6187
+ "generated_at": "2026-08-06T19:53:58",
+ "total": 6188
 }
