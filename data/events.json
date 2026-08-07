@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "+ ADDED   Jamarion Sharp (LAC)",
+   "detected_at": "2026-08-06 19:18:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
    "detail": "Armoni Brooks  ~ CAREER  + 2026–present ASVEL",
    "detected_at": "2026-08-06 19:07:57",
    "source": "WIKI",
@@ -8993,12 +8999,6 @@
    "detected_at": "2026-07-13 11:48:57",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "LAL  CHANGED Full Season Contracts  -  col3: 188177780 -> 197543780",
-   "detected_at": "2026-07-13 11:48:57",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -9007,8 +9007,8 @@
    "last": "2026-08-06 12:34:58"
   },
   "PLAYERS": {
-   "count": 607,
-   "last": "2026-08-06 00:18:57"
+   "count": 608,
+   "last": "2026-08-06 19:18:54"
   },
   "SHEETS": {
    "count": 3327,
@@ -9023,6 +9023,6 @@
    "last": "2026-08-06 19:07:57"
   }
  },
- "generated_at": "2026-08-06T19:12:01",
- "total": 6186
+ "generated_at": "2026-08-06T19:19:04",
+ "total": 6187
 }
