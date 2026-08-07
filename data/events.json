@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "Brandon Knight (basketball)  ~ team: - -> Free agent",
+   "detected_at": "2026-08-06 23:46:57",
+   "source": "WIKI",
+   "type": "CHANGED"
+  },
+  {
    "detail": "Jaylon Brown  ~ team: Petkim Spor -> Cairns Taipans",
    "detected_at": "2026-08-06 23:23:02",
    "source": "WIKI",
@@ -8993,12 +8999,6 @@
    "detected_at": "2026-07-13 11:52:02",
    "source": "DOCS",
    "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Execution Date: 7/12/26",
-   "detected_at": "2026-07-13 11:52:02",
-   "source": "DOCS",
-   "type": "REMOVED"
   }
  ],
  "feeds": {
@@ -9019,10 +9019,10 @@
    "last": "2026-08-06 18:39:56"
   },
   "WIKI": {
-   "count": 20,
-   "last": "2026-08-06 23:23:02"
+   "count": 21,
+   "last": "2026-08-06 23:46:57"
   }
  },
- "generated_at": "2026-08-06T23:23:12",
- "total": 6203
+ "generated_at": "2026-08-06T23:46:58",
+ "total": 6204
 }
