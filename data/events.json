@@ -1,6 +1,60 @@
 {
  "events": [
   {
+   "detail": "Jared Cunningham  ~ team: - -> Free agent",
+   "detected_at": "2026-08-07 00:32:58",
+   "source": "WIKI",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "JaVale McGee  ~ team: - -> Free agent",
+   "detected_at": "2026-08-07 00:32:58",
+   "source": "WIKI",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "JaVale McGee  ~ number: 0 -> -",
+   "detected_at": "2026-08-07 00:32:58",
+   "source": "WIKI",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Terrance Ferguson  ~ team: - -> Free agent",
+   "detected_at": "2026-08-07 00:32:58",
+   "source": "WIKI",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Terrance Ferguson  ~ CAREER  + 2023–2024 Cape Town Tigers",
+   "detected_at": "2026-08-07 00:32:58",
+   "source": "WIKI",
+   "type": "CAREER"
+  },
+  {
+   "detail": "Terrance Ferguson  ~ CAREER  + 2024 Bashkimi",
+   "detected_at": "2026-08-07 00:32:58",
+   "source": "WIKI",
+   "type": "CAREER"
+  },
+  {
+   "detail": "Terrance Ferguson  ~ CAREER  + 2025 Venados de Mazatlán",
+   "detected_at": "2026-08-07 00:32:58",
+   "source": "WIKI",
+   "type": "CAREER"
+  },
+  {
+   "detail": "Terrance Ferguson  ~ CAREER  + 2025 Santos del Potosí",
+   "detected_at": "2026-08-07 00:32:58",
+   "source": "WIKI",
+   "type": "CAREER"
+  },
+  {
+   "detail": "Terrance Ferguson  ~ CAREER  + 2026 Club Atlético Welcome",
+   "detected_at": "2026-08-07 00:32:58",
+   "source": "WIKI",
+   "type": "CAREER"
+  },
+  {
    "detail": "Brandon Knight (basketball)  ~ team: - -> Free agent",
    "detected_at": "2026-08-06 23:46:57",
    "source": "WIKI",
@@ -8945,60 +8999,6 @@
    "detected_at": "2026-07-13 11:53:58",
    "source": "SHEETS",
    "type": "ADDED"
-  },
-  {
-   "detail": "LAC  CHANGED Players Under Contract  -  col3: 156289130 -> 157994760, col4: 83703891 -> 85998261, col5: 18974669 -> 21669032, col6: 16502837.32 -> 19420989.32",
-   "detected_at": "2026-07-13 11:53:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "LAC  CHANGED Full Season Contracts  -  col3: 156289130 -> 157994760, col4: 83703891 -> 85998261, col5: 18974669 -> 21669032, col6: 16502837.32 -> 19420989.32",
-   "detected_at": "2026-07-13 11:53:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "LAC  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 11 -> 12",
-   "detected_at": "2026-07-13 11:53:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "LAC  CHANGED Avg, Salary (Mean) (No 10-Day K's)  -  col6: 4 -> 3",
-   "detected_at": "2026-07-13 11:53:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "LAC  CHANGED Avg, Salary (Mean) (No 10-Day K's & ROS)  -  col6: 2 -> 1",
-   "detected_at": "2026-07-13 11:53:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "LAC  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 209830233.7 -> 211535863.7, col4: 83703891 -> 85998261, col5: 18974669 -> 21669032, col6: 16502837.32 -> 19420989.32, col9: 329011631.1 -> 338624146.1",
-   "detected_at": "2026-07-13 11:52:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED 4 Years for $180,000,000. Room. Advance Payment ($45,000,000). Player option to extend the contract to include the 2029-30 Season. Insurance Premium Reimbursement. Skill; Injury or Illness; Mental; Death. Love of the Game. Physical Exam. Alt. 7(b).",
-   "detected_at": "2026-07-13 11:52:02",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  4 Years for $180,000,000. Bird Exception. Advance Payment ($45,000,000). Player option to extend the contract to include the 2029-30 Season. Insurance Premium Reimbursement. Skill; Injury or Illness; Mental; Death. Love of the Game. Physical Exam. Alt. 7(b).",
-   "detected_at": "2026-07-13 11:52:02",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED 2 Years for $19,200,300. Room. Advance Payment ($45,000,000). Player option to extend the contract to include the 2029-30 Season. Insurance Premium Reimbursement. Skill; Injury or Illness; Mental; Death. Love of the Game. Physical Exam. Alt. 7(b).",
-   "detected_at": "2026-07-13 11:52:02",
-   "source": "DOCS",
-   "type": "REMOVED"
   }
  ],
  "feeds": {
@@ -9019,10 +9019,10 @@
    "last": "2026-08-06 18:39:56"
   },
   "WIKI": {
-   "count": 21,
-   "last": "2026-08-06 23:46:57"
+   "count": 30,
+   "last": "2026-08-07 00:32:58"
   }
  },
- "generated_at": "2026-08-06T23:46:58",
- "total": 6204
+ "generated_at": "2026-08-07T00:32:58",
+ "total": 6213
 }
