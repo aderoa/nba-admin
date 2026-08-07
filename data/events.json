@@ -1,6 +1,30 @@
 {
  "events": [
   {
+   "detail": "Milton Doyle  ~ number: - -> 35",
+   "detected_at": "2026-08-07 08:19:54",
+   "source": "WIKI",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Colby Jones  ~ team: Bàsquet Manresa -> Free agent",
+   "detected_at": "2026-08-07 08:19:54",
+   "source": "WIKI",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Colby Jones  ~ league: Liga ACB EuroCup -> -",
+   "detected_at": "2026-08-07 08:19:54",
+   "source": "WIKI",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Colby Jones  ~ number: 3 -> -",
+   "detected_at": "2026-08-07 08:19:54",
+   "source": "WIKI",
+   "type": "CHANGED"
+  },
+  {
    "detail": "Trent Forrest  ~ number: - -> 11",
    "detected_at": "2026-08-07 07:56:34",
    "source": "WIKI",
@@ -8975,30 +8999,6 @@
    "detected_at": "2026-07-13 12:10:55",
    "source": "DOCS",
    "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  5 Years for MAXIMUM SALARY (TBD). Rookie Scale Extension. Max Contract. Advance Payment (50% of Base Compensation in Y1, 25% of Base Compensation in Y2-5). Player option to extend the contract to include the 2031-32 Season. Insurance Premium Reimbursement. Skill; Injury or Illness; Mental; Death. Trade Kicker (15%).",
-   "detected_at": "2026-07-13 12:10:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 7/10/26",
-   "detected_at": "2026-07-13 12:10:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Victor Wembanyama Orlando Magic",
-   "detected_at": "2026-07-13 12:09:55",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED 26-27 MAXIMUM SALARY (25% or 30%)",
-   "detected_at": "2026-07-13 12:09:55",
-   "source": "DOCS",
-   "type": "REMOVED"
   }
  ],
  "feeds": {
@@ -9019,10 +9019,10 @@
    "last": "2026-08-07 07:50:50"
   },
   "WIKI": {
-   "count": 95,
-   "last": "2026-08-07 07:56:34"
+   "count": 99,
+   "last": "2026-08-07 08:19:54"
   }
  },
- "generated_at": "2026-08-07T07:56:35",
- "total": 6279
+ "generated_at": "2026-08-07T08:19:55",
+ "total": 6283
 }
