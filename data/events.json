@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "+ ADDED   Taelon Peter (SAS)",
+   "detected_at": "2026-08-07 11:16:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
    "detail": "Garrison Mathews  ~ team: Free agent -> Olimpia Milano",
    "detected_at": "2026-08-07 08:42:56",
    "source": "WIKI",
@@ -8993,12 +8999,6 @@
    "detected_at": "2026-07-13 12:14:57",
    "source": "DOCS",
    "type": "ADDED"
-  },
-  {
-   "detail": "UTH  + ADDED  Bamba, Mo",
-   "detected_at": "2026-07-13 12:13:58",
-   "source": "SHEETS",
-   "type": "ADDED"
   }
  ],
  "feeds": {
@@ -9007,8 +9007,8 @@
    "last": "2026-08-06 12:34:58"
   },
   "PLAYERS": {
-   "count": 609,
-   "last": "2026-08-07 08:20:54"
+   "count": 610,
+   "last": "2026-08-07 11:16:54"
   },
   "SHEETS": {
    "count": 3327,
@@ -9023,6 +9023,6 @@
    "last": "2026-08-07 08:42:56"
   }
  },
- "generated_at": "2026-08-07T08:42:57",
- "total": 6290
+ "generated_at": "2026-08-07T11:24:45",
+ "total": 6291
 }
