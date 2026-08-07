@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "2026-08-06  LA Clippers signed center Jamarion Sharp to a Two-Way Contract.",
+   "detected_at": "2026-08-06 18:39:56",
+   "source": "TRANSACTIONS",
+   "type": "Signing"
+  },
+  {
    "detail": "2026-27 Two-Way Signings  - REMOVED Execution Date: 7/2/26",
    "detected_at": "2026-08-06 12:34:58",
    "source": "DOCS",
@@ -8993,12 +8999,6 @@
    "detected_at": "2026-07-13 11:48:57",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED 2nd Incremental Tax Bracket  -  col15: 0 -> 12882285",
-   "detected_at": "2026-07-13 11:48:57",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -9015,10 +9015,10 @@
    "last": "2026-08-06 12:29:58"
   },
   "TRANSACTIONS": {
-   "count": 264,
-   "last": "2026-08-06 08:25:50"
+   "count": 265,
+   "last": "2026-08-06 18:39:56"
   }
  },
- "generated_at": "2026-08-06T14:20:30",
- "total": 6181
+ "generated_at": "2026-08-06T18:40:02",
+ "total": 6182
 }
