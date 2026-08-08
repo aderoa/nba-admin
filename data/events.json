@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Torrey Craig  ~ team: Free agent -> Sydney Kings",
+   "detected_at": "2026-08-07 23:21:57",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Torrey_Craig"
+  },
+  {
+   "detail": "Torrey Craig  ~ league: - -> NBL",
+   "detected_at": "2026-08-07 23:21:57",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Torrey_Craig"
+  },
+  {
+   "detail": "Torrey Craig  ~ CAREER  + 2026–present Sydney Kings",
+   "detected_at": "2026-08-07 23:21:57",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Torrey_Craig"
+  },
+  {
    "detail": "WNBA New York Liberty 113, Los Angeles Sparks 109",
    "detected_at": "2026-08-07 23:03:38",
    "source": "SCORES",
@@ -9244,24 +9265,6 @@
    "detected_at": "2026-07-14 09:58:59",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED 3rd Incremental Tax Bracket  -  col9: 30192173 -> 0, col13: 19897500 -> 0, col19: 13798557.5 -> 0, Luxury Tax Calculator: 19897500 -> 0, col25: 31267500 -> 0",
-   "detected_at": "2026-07-14 09:58:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED 4th Incremental Tax Bracket  -  col13: 6412179.85 -> 0, col21: 27003750 -> 4413852, col23: 27003750 -> 1816020.19, Luxury Tax Calculator: 9517771.175 -> 0, col25: 38373750 -> 0",
-   "detected_at": "2026-07-14 09:58:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED 5th Incremental Tax Bracket  -  col21: 29846250 -> 0, col23: 29846250 -> 0, col25: 690508.2976 -> 0",
-   "detected_at": "2026-07-14 09:58:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -9290,10 +9293,10 @@
    "last": "2026-08-07 07:50:50"
   },
   "WIKI": {
-   "count": 127,
-   "last": "2026-08-07 21:25:59"
+   "count": 130,
+   "last": "2026-08-07 23:21:57"
   }
  },
- "generated_at": "2026-08-07T23:04:02",
- "total": 6451
+ "generated_at": "2026-08-07T23:21:59",
+ "total": 6454
 }
