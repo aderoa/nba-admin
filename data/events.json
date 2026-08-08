@@ -1,6 +1,30 @@
 {
  "events": [
   {
+   "detail": "Abdel Nader  ~ career_end: - -> 2024",
+   "detected_at": "2026-08-07 17:51:01",
+   "source": "WIKI",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Taelon Peter  ~ team: Free agent -> San Antonio Spurs",
+   "detected_at": "2026-08-07 17:51:01",
+   "source": "WIKI",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Taelon Peter  ~ league: - -> NBA",
+   "detected_at": "2026-08-07 17:51:01",
+   "source": "WIKI",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Taelon Peter  ~ CAREER  + –present San Antonio Spurs",
+   "detected_at": "2026-08-07 17:51:01",
+   "source": "WIKI",
+   "type": "CAREER"
+  },
+  {
    "detail": "Alize Johnson  ~ number: - -> 24",
    "detected_at": "2026-08-07 15:32:58",
    "source": "WIKI",
@@ -8975,30 +8999,6 @@
    "detected_at": "2026-07-13 12:23:55",
    "source": "DOCS",
    "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Love of the Game. Physical Exam. Alt. 7(b).",
-   "detected_at": "2026-07-13 12:23:55",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  2 Years for $7,206,979. Minimum Salary Exception. Player Trade Consent. Team option to extend the contract to include the 2027-28 Season. Skill; Injury or Illness; Mental; Death. Compensation protection for 2026-27 Season is none but will increase to $200,000 if team has not requested waivers on player on or before 7/15/2026, and increase to $500,000 if team has not requested waivers on player on or before the first day of the 2026-27 Regular Season. Compensation protection for 2027-28 Season is none but will increase to $200,000 if team has not requested waivers on player on or before 7/15/2027, and increase to $500,000 if team has not requested waivers on player on or before the first day of the 2027-28 Regular Season. Love of the Game. Physical Exam. Alt. 7(b).",
-   "detected_at": "2026-07-13 12:23:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED 2 Years for $7,206,979. Minimum Salary Exception. Player Trade Consent. Team option to extend the contract to include the 2027-28 Season. Skill; Injury or Illness; Mental; Death. Compensation protection for 2026-27 Season is none but will increase to $200,000 if team has not requested waivers on player on or before 7/15/2026, and increase to $500,000 if team has not requested waivers on player on or before",
-   "detected_at": "2026-07-13 12:22:56",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  2 Years for $7,206,979. Minimum Salary Exception. Player Trade Consent. Team option to extend the contract to include the 2027-28 Season. Skill; Injury or Illness; Mental; Death. Compensation protection for 2026-27 Season is none but will increase to $200,000 if team has not requested waivers on player on or before 7/15/2026, and increase to $500,000 if team has not requested waivers on player on or before the first dat of the 2026-27",
-   "detected_at": "2026-07-13 12:22:56",
-   "source": "DOCS",
-   "type": "ADDED"
   }
  ],
  "feeds": {
@@ -9019,10 +9019,10 @@
    "last": "2026-08-07 07:50:50"
   },
   "WIKI": {
-   "count": 117,
-   "last": "2026-08-07 15:32:58"
+   "count": 121,
+   "last": "2026-08-07 17:51:01"
   }
  },
- "generated_at": "2026-08-07T15:33:01",
- "total": 6305
+ "generated_at": "2026-08-07T17:51:04",
+ "total": 6309
 }
