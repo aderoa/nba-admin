@@ -1,6 +1,30 @@
 {
  "events": [
   {
+   "detail": "Andre Jackson Jr.  ~ league: - -> NBA",
+   "detected_at": "2026-08-07 19:04:59",
+   "source": "WIKI",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Andre Jackson Jr.  ~ CAREER  + –present Toronto Raptors",
+   "detected_at": "2026-08-07 19:04:59",
+   "source": "WIKI",
+   "type": "CAREER"
+  },
+  {
+   "detail": "WNBA ~ MOVED Aneesah Morrow → Connecticut Sun (from Toronto Tempo)",
+   "detected_at": "2026-08-07 19:04:32",
+   "source": "REALGM",
+   "type": "MOVED"
+  },
+  {
+   "detail": "WNBA ~ MOVED Monique Akoa-Makani → Phoenix Mercury (from Los Angeles Sparks)",
+   "detected_at": "2026-08-07 19:04:18",
+   "source": "REALGM",
+   "type": "MOVED"
+  },
+  {
    "detail": "Abdel Nader  ~ career_end: - -> 2024",
    "detected_at": "2026-08-07 17:51:01",
    "source": "WIKI",
@@ -8975,30 +8999,6 @@
    "detected_at": "2026-07-13 12:25:55",
    "source": "DOCS",
    "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  27-28 $2,294,370 (Team Option)",
-   "detected_at": "2026-07-13 12:25:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  4 Years for $9,264,648. Second Round Pick Exception. Team option to extend the contract to include the 2029-30 Season. Insurance Premium Reimbursement. Skill; Injury or Illness. Compensation protection for 2028-29 Season is none but will increase to full if team has not requested waivers on player on or before 7/10/2028. Compensation protection for 2029-30 Season is none. Love of the Game. Physical Exam. Alt. 7(b).",
-   "detected_at": "2026-07-13 12:25:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 7/1/26",
-   "detected_at": "2026-07-13 12:25:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED 2 Years for $7,206,979. Minimum Salary Exception. Player Trade Consent. Team option to extend the contract to include the 2027-28 Season. Skill; Injury or Illness; Mental; Death. Compensation protection for 2026-27 Season is none but will increase to $200,000 if team has not requested waivers on player on or before 7/15/2026, and increase to $500,000 if team has not requested waivers on player on or before the first dat of the 2026-27",
-   "detected_at": "2026-07-13 12:23:55",
-   "source": "DOCS",
-   "type": "REMOVED"
   }
  ],
  "feeds": {
@@ -9010,6 +9010,10 @@
    "count": 610,
    "last": "2026-08-07 11:16:54"
   },
+  "REALGM": {
+   "count": 2,
+   "last": "2026-08-07 19:04:32"
+  },
   "SHEETS": {
    "count": 3329,
    "last": "2026-08-07 12:31:58"
@@ -9019,10 +9023,10 @@
    "last": "2026-08-07 07:50:50"
   },
   "WIKI": {
-   "count": 121,
-   "last": "2026-08-07 17:51:01"
+   "count": 123,
+   "last": "2026-08-07 19:04:59"
   }
  },
- "generated_at": "2026-08-07T17:51:04",
- "total": 6309
+ "generated_at": "2026-08-07T19:05:06",
+ "total": 6313
 }
