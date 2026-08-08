@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "Charles García  ~ team: - -> Free agent",
+   "detected_at": "2026-08-07 19:50:59",
+   "source": "WIKI",
+   "type": "CHANGED"
+  },
+  {
    "detail": "Andre Jackson Jr.  ~ league: - -> NBA",
    "detected_at": "2026-08-07 19:04:59",
    "source": "WIKI",
@@ -8993,12 +8999,6 @@
    "detected_at": "2026-07-13 12:25:55",
    "source": "DOCS",
    "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  26-27 $1,357,763",
-   "detected_at": "2026-07-13 12:25:55",
-   "source": "DOCS",
-   "type": "ADDED"
   }
  ],
  "feeds": {
@@ -9023,10 +9023,10 @@
    "last": "2026-08-07 07:50:50"
   },
   "WIKI": {
-   "count": 123,
-   "last": "2026-08-07 19:04:59"
+   "count": 124,
+   "last": "2026-08-07 19:50:59"
   }
  },
- "generated_at": "2026-08-07T19:05:06",
- "total": 6313
+ "generated_at": "2026-08-07T19:51:00",
+ "total": 6314
 }
