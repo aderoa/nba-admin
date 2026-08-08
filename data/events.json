@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Phil Booth (basketball)  ~ position: Point guard / shooting guard / Basketball operations associate -> Basketball operations associate",
+   "detected_at": "2026-08-08 13:35:57",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Phil_Booth_(basketball)"
+  },
+  {
+   "detail": "Phil Booth (basketball)  ~ career_end: - -> 2025",
+   "detected_at": "2026-08-08 13:35:57",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Phil_Booth_(basketball)"
+  },
+  {
    "detail": "Michael Qualls  ~ team: - -> Free agent",
    "detected_at": "2026-08-08 13:12:58",
    "source": "WIKI",
@@ -9305,18 +9319,6 @@
    "detected_at": "2026-07-15 09:16:56",
    "source": "DOCS",
    "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 7/14/26",
-   "detected_at": "2026-07-15 09:16:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED 2 Years for $12,431,200. Taxpayer Mid-Level Exception (Partial). Player option to extend the contract to include the 2027-28 Season. Skill; Injury or Illness; Mental; Death. Love of the Game. Physical Exam. Alt. 7(b).",
-   "detected_at": "2026-07-15 09:16:56",
-   "source": "DOCS",
-   "type": "REMOVED"
   }
  ],
  "feeds": {
@@ -9345,10 +9347,10 @@
    "last": "2026-08-07 07:50:50"
   },
   "WIKI": {
-   "count": 182,
-   "last": "2026-08-08 13:12:58"
+   "count": 184,
+   "last": "2026-08-08 13:35:57"
   }
  },
- "generated_at": "2026-08-08T13:12:59",
- "total": 6506
+ "generated_at": "2026-08-08T13:36:01",
+ "total": 6508
 }
