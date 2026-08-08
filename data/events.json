@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Dairis Bertāns  ~ team: - -> Free agent",
+   "detected_at": "2026-08-08 14:21:52",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Dairis_Bert%C4%81ns"
+  },
+  {
+   "detail": "Dairis Bertāns  ~ number: 9, 45 -> -",
+   "detected_at": "2026-08-08 14:21:52",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Dairis_Bert%C4%81ns"
+  },
+  {
    "detail": "Phil Booth (basketball)  ~ position: Point guard / shooting guard / Basketball operations associate -> Basketball operations associate",
    "detected_at": "2026-08-08 13:35:57",
    "source": "WIKI",
@@ -9307,18 +9321,6 @@
    "detected_at": "2026-07-15 09:16:56",
    "source": "DOCS",
    "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Execution Date: 7/10/26",
-   "detected_at": "2026-07-15 09:16:56",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  2 Years for $12,431,200. Taxpayer Mid-Level Exception. Player option to extend the contract to include the 2027-28 Season. Insurance Premium Reimbursement. Skill; Injury or Illness; Mental. Love of the Game. Physical Exam. Alt. 7(b).",
-   "detected_at": "2026-07-15 09:16:56",
-   "source": "DOCS",
-   "type": "ADDED"
   }
  ],
  "feeds": {
@@ -9347,10 +9349,10 @@
    "last": "2026-08-07 07:50:50"
   },
   "WIKI": {
-   "count": 184,
-   "last": "2026-08-08 13:35:57"
+   "count": 186,
+   "last": "2026-08-08 14:21:52"
   }
  },
- "generated_at": "2026-08-08T13:36:01",
- "total": 6508
+ "generated_at": "2026-08-08T14:21:57",
+ "total": 6510
 }
