@@ -1,6 +1,36 @@
 {
  "events": [
   {
+   "detail": "WNBA ~ RETURN Aneesah Morrow → Toronto Tempo (from Connecticut Sun)",
+   "detected_at": "2026-08-07 22:15:14",
+   "source": "REALGM",
+   "type": "RETURN"
+  },
+  {
+   "detail": "WNBA Portland Fire 97, Toronto Tempo 83",
+   "detected_at": "2026-08-07 22:15:14",
+   "source": "SCORES",
+   "type": "FINAL"
+  },
+  {
+   "detail": "WNBA ~ RETURN Monique Akoa-Makani → Los Angeles Sparks (from Phoenix Mercury)",
+   "detected_at": "2026-08-07 22:15:11",
+   "source": "REALGM",
+   "type": "RETURN"
+  },
+  {
+   "detail": "WNBA Los Angeles Sparks 89, Minnesota Lynx 82",
+   "detected_at": "2026-08-07 22:15:11",
+   "source": "SCORES",
+   "type": "FINAL"
+  },
+  {
+   "detail": "WNBA Las Vegas Aces 86, Indiana Fever 84",
+   "detected_at": "2026-08-07 22:15:09",
+   "source": "SCORES",
+   "type": "FINAL"
+  },
+  {
    "detail": "Troy Williams  ~ team: - -> Free agent",
    "detected_at": "2026-08-07 21:25:59",
    "source": "WIKI",
@@ -8969,36 +8999,6 @@
    "detected_at": "2026-07-13 12:29:57",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  - REMOVED Update 1.2 (7/7/26): N. Ament, J. Jefferson, B. Thornton, I. Evans, T. Brazile, B. Miller, T. Biberovic",
-   "detected_at": "2026-07-13 12:29:55",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Update 1.2 (7/7/26): N. Ament, J. Jefferson, B. Thornton, I. Evans, T. Brazile, B. Miller, T. Biberovic, N. Bittle",
-   "detected_at": "2026-07-13 12:29:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  - REMOVED 2 Years for $6,000,000. Non-Taxpayer Mid-Level Exception. Team option to extend the contract to include the 2029-30 Season. Insurance Premium Reimbursement. Skill; Injury or Illness. Compensation protection for 2028-29 Season is none but will increase to full if team has not requested waivers on player on or before 7/10/2028. Compensation protection for 2029-30 Season is none. Love of the Game. Physical Exam. Alt. 7(b).",
-   "detected_at": "2026-07-13 12:28:04",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  - REMOVED Execution Date: 7/1/26",
-   "detected_at": "2026-07-13 12:28:04",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  2 Years for $6,000,000. Non-Taxpayer Mid-Level Exception (Partial). Advance Payment ($450,000). Team option to extend the contract to include the 2027-28 Season. Skill; Injury or Illness; Mental; Death. Love of the Game. Physical Exam. Alt. 7(b).",
-   "detected_at": "2026-07-13 12:28:04",
-   "source": "DOCS",
-   "type": "ADDED"
   }
  ],
  "feeds": {
@@ -9011,12 +9011,12 @@
    "last": "2026-08-07 11:16:54"
   },
   "REALGM": {
-   "count": 2,
-   "last": "2026-08-07 19:04:32"
+   "count": 4,
+   "last": "2026-08-07 22:15:14"
   },
   "SCORES": {
-   "count": 15,
-   "last": "2026-08-07 21:14:17"
+   "count": 18,
+   "last": "2026-08-07 22:15:14"
   },
   "SHEETS": {
    "count": 3329,
@@ -9031,6 +9031,6 @@
    "last": "2026-08-07 21:25:59"
   }
  },
- "generated_at": "2026-08-07T21:26:00",
- "total": 6332
+ "generated_at": "2026-08-07T22:15:16",
+ "total": 6337
 }
