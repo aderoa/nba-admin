@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "Troy Williams  ~ team: - -> Free agent",
+   "detected_at": "2026-08-07 21:25:59",
+   "source": "WIKI",
+   "type": "CHANGED"
+  },
+  {
    "detail": "WNBA Washington Mystics 79, Atlanta Dream 74",
    "detected_at": "2026-08-07 21:14:17",
    "source": "SCORES",
@@ -8993,12 +8999,6 @@
    "detected_at": "2026-07-13 12:28:04",
    "source": "DOCS",
    "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 7/10/26",
-   "detected_at": "2026-07-13 12:28:04",
-   "source": "DOCS",
-   "type": "ADDED"
   }
  ],
  "feeds": {
@@ -9027,10 +9027,10 @@
    "last": "2026-08-07 07:50:50"
   },
   "WIKI": {
-   "count": 126,
-   "last": "2026-08-07 21:02:59"
+   "count": 127,
+   "last": "2026-08-07 21:25:59"
   }
  },
- "generated_at": "2026-08-07T21:14:20",
- "total": 6331
+ "generated_at": "2026-08-07T21:26:00",
+ "total": 6332
 }
