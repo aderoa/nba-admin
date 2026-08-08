@@ -1,6 +1,24 @@
 {
  "events": [
   {
+   "detail": "POR  - REMOVED Thybulle, Matisse",
+   "detected_at": "2026-08-08 15:41:57",
+   "source": "SHEETS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "POR  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 235706508.3 -> 213761508.3, col9: 531253915.4 -> 509308915.4",
+   "detected_at": "2026-08-08 15:41:57",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "POR  CHANGED Cap Holds  -  col3: 35848611 -> 13903611",
+   "detected_at": "2026-08-08 15:41:57",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "Mohammad Amini  ~ weight_lb: 212 -> -",
    "detected_at": "2026-08-08 15:08:47",
    "source": "WIKI",
@@ -9305,24 +9323,6 @@
    "detected_at": "2026-07-15 09:23:59",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "MEM  CHANGED Draft Picks  -  col3: 15596520 -> 3746760, col4: 16376160 -> 3934320, col5: 17156640 -> 4121760, col6: 23042052 -> 6565963.68",
-   "detected_at": "2026-07-15 09:23:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "MEM  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 18 -> 19",
-   "detected_at": "2026-07-15 09:23:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Marcus Smart Houston Rockets",
-   "detected_at": "2026-07-15 09:23:56",
-   "source": "DOCS",
-   "type": "REMOVED"
   }
  ],
  "feeds": {
@@ -9343,8 +9343,8 @@
    "last": "2026-08-07 23:03:38"
   },
   "SHEETS": {
-   "count": 3329,
-   "last": "2026-08-07 12:31:58"
+   "count": 3332,
+   "last": "2026-08-08 15:41:57"
   },
   "TRANSACTIONS": {
    "count": 266,
@@ -9355,6 +9355,6 @@
    "last": "2026-08-08 15:08:47"
   }
  },
- "generated_at": "2026-08-08T15:08:48",
- "total": 6512
+ "generated_at": "2026-08-08T15:42:00",
+ "total": 6515
 }
