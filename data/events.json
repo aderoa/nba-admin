@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Mohammad Amini  ~ weight_lb: 212 -> -",
+   "detected_at": "2026-08-08 15:08:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Mohammad_Amini"
+  },
+  {
+   "detail": "Mohammad Amini  ~ career_start: 2020 -> 2022",
+   "detected_at": "2026-08-08 15:08:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Mohammad_Amini"
+  },
+  {
    "detail": "Dairis Bertāns  ~ team: - -> Free agent",
    "detected_at": "2026-08-08 14:21:52",
    "source": "WIKI",
@@ -9309,18 +9323,6 @@
    "detected_at": "2026-07-15 09:23:56",
    "source": "DOCS",
    "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Luke Kennard Phoenix Suns",
-   "detected_at": "2026-07-15 09:23:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED 2 Years for $12,431,200. Taxpayer Mid-Level Exception. Player option to extend the contract to include the 2027-28 Season. Skill; Injury or Illness; Mental; Death. Love of the Game. Physical Exam. Alt. 7(b).",
-   "detected_at": "2026-07-15 09:16:56",
-   "source": "DOCS",
-   "type": "REMOVED"
   }
  ],
  "feeds": {
@@ -9349,10 +9351,10 @@
    "last": "2026-08-07 07:50:50"
   },
   "WIKI": {
-   "count": 186,
-   "last": "2026-08-08 14:21:52"
+   "count": 188,
+   "last": "2026-08-08 15:08:47"
   }
  },
- "generated_at": "2026-08-08T14:21:57",
- "total": 6510
+ "generated_at": "2026-08-08T15:08:48",
+ "total": 6512
 }
