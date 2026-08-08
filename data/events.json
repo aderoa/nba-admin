@@ -1,6 +1,54 @@
 {
  "events": [
   {
+   "detail": "Mexican LNBP Soles 80, Lobos Plateados 73",
+   "detected_at": "2026-08-07 21:03:17",
+   "source": "SCORES",
+   "type": "FINAL"
+  },
+  {
+   "detail": "Mexican LNBP Santos de San Luis Potosi 82, El Calor de Cancun 75",
+   "detected_at": "2026-08-07 21:03:15",
+   "source": "SCORES",
+   "type": "FINAL"
+  },
+  {
+   "detail": "Mexican LNBP Mineros de Zacatecas 98, Correcaminos 76",
+   "detected_at": "2026-08-07 21:03:13",
+   "source": "SCORES",
+   "type": "FINAL"
+  },
+  {
+   "detail": "Mexican LNBP Freseros Irapuato 86, Diablos Rojos 82",
+   "detected_at": "2026-08-07 21:03:10",
+   "source": "SCORES",
+   "type": "FINAL"
+  },
+  {
+   "detail": "Mexican LNBP Dorados de Chihuahua 92, Fuerza Regia 86",
+   "detected_at": "2026-08-07 21:03:08",
+   "source": "SCORES",
+   "type": "FINAL"
+  },
+  {
+   "detail": "Canadian Elite Basketball League Brampton Honey Badgers 95, Ottawa Blackjacks 91",
+   "detected_at": "2026-08-07 21:03:05",
+   "source": "SCORES",
+   "type": "FINAL"
+  },
+  {
+   "detail": "Canadian Elite Basketball League Niagara River Lions 86, Scarborough Shooting Stars 84",
+   "detected_at": "2026-08-07 21:03:03",
+   "source": "SCORES",
+   "type": "FINAL"
+  },
+  {
+   "detail": "Canadian Elite Basketball League Winnipeg Sea Bears 99, Saskatoon Mamba 88",
+   "detected_at": "2026-08-07 21:03:01",
+   "source": "SCORES",
+   "type": "FINAL"
+  },
+  {
    "detail": "Demetri McCamey  ~ team: Free agent -> -",
    "detected_at": "2026-08-07 21:02:59",
    "source": "WIKI",
@@ -8951,54 +8999,6 @@
    "detected_at": "2026-07-13 12:27:04",
    "source": "DOCS",
    "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  #56 Tarik Biberovic (2023 NBA DRAFT) Dallas Mavericks",
-   "detected_at": "2026-07-13 12:27:04",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  26-27 $3,000,000",
-   "detected_at": "2026-07-13 12:27:04",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  27-28 $3,000,000 (Team Option)",
-   "detected_at": "2026-07-13 12:27:04",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  2 Years for $6,000,000. Non-Taxpayer Mid-Level Exception. Team option to extend the contract to include the 2029-30 Season. Insurance Premium Reimbursement. Skill; Injury or Illness. Compensation protection for 2028-29 Season is none but will increase to full if team has not requested waivers on player on or before 7/10/2028. Compensation protection for 2029-30 Season is none. Love of the Game. Physical Exam. Alt. 7(b).",
-   "detected_at": "2026-07-13 12:27:04",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "DAL  + ADDED  Biberovic, Tarik",
-   "detected_at": "2026-07-13 12:25:57",
-   "source": "SHEETS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "DAL  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 207311827.8 -> 210311827.8, col4: 146031206.2 -> 149031206.2, col9: 465765669.2 -> 471765669.2",
-   "detected_at": "2026-07-13 12:25:57",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "DAL  CHANGED Players Under Contract  -  col3: 177794638.8 -> 180794638.8, col4: 142819990 -> 145819990",
-   "detected_at": "2026-07-13 12:25:57",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "DAL  CHANGED Full Season Contracts  -  col3: 177794638.8 -> 180794638.8, col4: 142819990 -> 145819990",
-   "detected_at": "2026-07-13 12:25:57",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -9015,8 +9015,8 @@
    "last": "2026-08-07 19:04:32"
   },
   "SCORES": {
-   "count": 1,
-   "last": "2026-08-07 21:02:58"
+   "count": 9,
+   "last": "2026-08-07 21:03:17"
   },
   "SHEETS": {
    "count": 3329,
@@ -9031,6 +9031,6 @@
    "last": "2026-08-07 21:02:59"
   }
  },
- "generated_at": "2026-08-07T21:03:00",
- "total": 6317
+ "generated_at": "2026-08-07T21:04:02",
+ "total": 6325
 }
