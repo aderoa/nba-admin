@@ -1,6 +1,42 @@
 {
  "events": [
   {
+   "detail": "WNBA Washington Mystics 79, Atlanta Dream 74",
+   "detected_at": "2026-08-07 21:14:17",
+   "source": "SCORES",
+   "type": "FINAL"
+  },
+  {
+   "detail": "WNBA Connecticut Sun 75, Phoenix Mercury 72",
+   "detected_at": "2026-08-07 21:14:15",
+   "source": "SCORES",
+   "type": "FINAL"
+  },
+  {
+   "detail": "Canadian Elite Basketball League Vancouver Bandits 92, Edmonton Stingers 83",
+   "detected_at": "2026-08-07 21:14:11",
+   "source": "SCORES",
+   "type": "FINAL"
+  },
+  {
+   "detail": "Mexican LNBP Panteras de Aguascalientes 88, Gambusinos 69",
+   "detected_at": "2026-08-07 21:14:09",
+   "source": "SCORES",
+   "type": "FINAL"
+  },
+  {
+   "detail": "PBA Governors Cup Magnolia Hotshots 105, Meralco Bolts 88",
+   "detected_at": "2026-08-07 21:14:06",
+   "source": "SCORES",
+   "type": "FINAL"
+  },
+  {
+   "detail": "PBA Governors Cup Terrafirma DYIP 114, NLEX Road Warriors 109",
+   "detected_at": "2026-08-07 21:14:04",
+   "source": "SCORES",
+   "type": "FINAL"
+  },
+  {
    "detail": "Mexican LNBP Soles 80, Lobos Plateados 73",
    "detected_at": "2026-08-07 21:03:17",
    "source": "SCORES",
@@ -8963,42 +8999,6 @@
    "detected_at": "2026-07-13 12:28:04",
    "source": "DOCS",
    "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  - REMOVED Update 1.2 (7/7/26): N. Ament, J. Jefferson, B. Thornton, I. Evans, T. Brazile, B. Miller",
-   "detected_at": "2026-07-13 12:27:04",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Update 1.2 (7/7/26): N. Ament, J. Jefferson, B. Thornton, I. Evans, T. Brazile, B. Miller, T. Biberovic",
-   "detected_at": "2026-07-13 12:27:04",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  - REMOVED #56 Tarik Biberovic Dallas Mavericks",
-   "detected_at": "2026-07-13 12:27:04",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  - REMOVED 26-27 $1,357,763",
-   "detected_at": "2026-07-13 12:27:04",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  - REMOVED 27-28 $2,294,370 (Team Option)",
-   "detected_at": "2026-07-13 12:27:04",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  - REMOVED 4 Years for $9,264,648. Second Round Pick Exception. Team option to extend the contract to include the 2029-30 Season. Insurance Premium Reimbursement. Skill; Injury or Illness. Compensation protection for 2028-29 Season is none but will increase to full if team has not requested waivers on player on or before 7/10/2028. Compensation protection for 2029-30 Season is none. Love of the Game. Physical Exam. Alt. 7(b).",
-   "detected_at": "2026-07-13 12:27:04",
-   "source": "DOCS",
-   "type": "REMOVED"
   }
  ],
  "feeds": {
@@ -9015,8 +9015,8 @@
    "last": "2026-08-07 19:04:32"
   },
   "SCORES": {
-   "count": 9,
-   "last": "2026-08-07 21:03:17"
+   "count": 15,
+   "last": "2026-08-07 21:14:17"
   },
   "SHEETS": {
    "count": 3329,
@@ -9031,6 +9031,6 @@
    "last": "2026-08-07 21:02:59"
   }
  },
- "generated_at": "2026-08-07T21:04:02",
- "total": 6325
+ "generated_at": "2026-08-07T21:14:20",
+ "total": 6331
 }
