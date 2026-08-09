@@ -1,6 +1,62 @@
 {
  "events": [
   {
+   "detail": "Cassius Winston  ~ team: Hapoel Jerusalem -> Rytas Vilnius",
+   "detected_at": "2026-08-09 00:22:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Cassius_Winston"
+  },
+  {
+   "detail": "Cassius Winston  ~ league: Israeli Premier League EuroCup -> LKL BCL",
+   "detected_at": "2026-08-09 00:22:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Cassius_Winston"
+  },
+  {
+   "detail": "Cassius Winston  ~ number: 8 -> -",
+   "detected_at": "2026-08-09 00:22:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Cassius_Winston"
+  },
+  {
+   "detail": "Cassius Winston  ~ CAREER  + 2025–2026 Hapoel Jerusalem",
+   "detected_at": "2026-08-09 00:22:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Cassius_Winston"
+  },
+  {
+   "detail": "Cassius Winston  ~ CAREER  + 2026–present Rytas Vilnius",
+   "detected_at": "2026-08-09 00:22:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Cassius_Winston"
+  },
+  {
+   "detail": "Louis Labeyrie  ~ team: Free Agent -> Limoges",
+   "detected_at": "2026-08-09 00:22:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Louis_Labeyrie"
+  },
+  {
+   "detail": "Louis Labeyrie  ~ league: - -> LNB Élite",
+   "detected_at": "2026-08-09 00:22:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Louis_Labeyrie"
+  },
+  {
+   "detail": "Louis Labeyrie  ~ CAREER  + 2026–present Limoges",
+   "detected_at": "2026-08-09 00:22:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Louis_Labeyrie"
+  },
+  {
    "detail": "National Teams ★ 1. Raigardas Ciunys 33.5 — 22p 3r 4a 33.3m (Lithuania)",
    "detected_at": "2026-08-08 23:59:59",
    "source": "RATINGS",
@@ -10113,60 +10169,6 @@
    "detected_at": "2026-07-30 15:05:55",
    "source": "PLAYERS",
    "type": "REMOVED"
-  },
-  {
-   "detail": "2026-07-30  Charlotte Hornets waived forward Mouhamadou Gueye.",
-   "detected_at": "2026-07-30 14:38:55",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
-  },
-  {
-   "detail": "2026-07-29  Memphis Grizzlies signed forward Karim Lopez to a Rookie Scale Contract.",
-   "detected_at": "2026-07-30 08:54:55",
-   "source": "TRANSACTIONS",
-   "type": "Signing"
-  },
-  {
-   "detail": "WNBA ★ 1. Angel Reese 30.2 — 22p 12r 4a 33.6m (Atlanta Dream)",
-   "detected_at": "2026-07-29 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP1",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-07-29/Atlanta-at-Dallas/158545"
-  },
-  {
-   "detail": "WNBA 2. Allisha Gray 28.3 — 25p 0r 2a 34.4m (Atlanta Dream)",
-   "detected_at": "2026-07-29 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP2",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-07-29/Atlanta-at-Dallas/158545"
-  },
-  {
-   "detail": "WNBA 3. Arike Ogunbowale 20.6 — 24p 6r 5a 38.1m (Dallas Wings, lost)",
-   "detected_at": "2026-07-29 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP3",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-07-29/Atlanta-at-Dallas/158545"
-  },
-  {
-   "detail": "WNBA 4. Azzi Fudd 16.1 — 20p 3r 2a 37.1m (Dallas Wings, lost)",
-   "detected_at": "2026-07-29 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP4",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-07-29/Atlanta-at-Dallas/158545"
-  },
-  {
-   "detail": "WNBA 5. Brionna Jones 12.9 — 11p 7r 1a 21.1m (Atlanta Dream)",
-   "detected_at": "2026-07-29 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP5",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-07-29/Atlanta-at-Dallas/158545"
-  },
-  {
-   "detail": "WNBA ★ 1. Alyssa Thomas 37.3 — 25p 9r 8a 38.0m (Phoenix Mercury)",
-   "detected_at": "2026-07-29 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP1",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-07-29/Golden-State-at-Phoenix/158546"
   }
  ],
  "feeds": {
@@ -10199,10 +10201,10 @@
    "last": "2026-08-08 17:40:55"
   },
   "WIKI": {
-   "count": 206,
-   "last": "2026-08-08 23:59:48"
+   "count": 214,
+   "last": "2026-08-09 00:22:47"
   }
  },
- "generated_at": "2026-08-09T00:00:01",
- "total": 7499
+ "generated_at": "2026-08-09T00:22:48",
+ "total": 7507
 }
