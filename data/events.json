@@ -1,6 +1,188 @@
 {
  "events": [
   {
+   "detail": "WNBA Phoenix Mercury 91, Golden State Valkyries 89",
+   "detected_at": "2026-08-08 17:35:03",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-07-29/Golden-State-at-Phoenix/158546"
+  },
+  {
+   "detail": "WNBA Atlanta Dream 82, Dallas Wings 81",
+   "detected_at": "2026-08-08 17:35:01",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-07-29/Atlanta-at-Dallas/158545"
+  },
+  {
+   "detail": "WNBA Las Vegas Aces 104, New York Liberty 99",
+   "detected_at": "2026-08-08 17:34:58",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-07-30/New-York-at-Las-Vegas/158548"
+  },
+  {
+   "detail": "WNBA Chicago Sky 94, Connecticut Sun 88",
+   "detected_at": "2026-08-08 17:34:56",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-07-30/Connecticut-at-Chicago/158547"
+  },
+  {
+   "detail": "WNBA Minnesota Lynx 104, Toronto Tempo 72",
+   "detected_at": "2026-08-08 17:34:53",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-07-30/Minnesota-at-Toronto/158678"
+  },
+  {
+   "detail": "WNBA Indiana Fever 112, Portland Fire 98",
+   "detected_at": "2026-08-08 17:34:50",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-07-31/Indiana-at-Portland/158551"
+  },
+  {
+   "detail": "WNBA Washington Mystics 81, Dallas Wings 75",
+   "detected_at": "2026-08-08 17:34:48",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-07-31/Dallas-at-Washington/158550"
+  },
+  {
+   "detail": "WNBA Atlanta Dream 98, Seattle Storm 89",
+   "detected_at": "2026-08-08 17:34:46",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-07-31/Seattle-at-Atlanta/158549"
+  },
+  {
+   "detail": "WNBA New York Liberty 94, Phoenix Mercury 92",
+   "detected_at": "2026-08-08 17:34:43",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-01/New-York-at-Phoenix/158553"
+  },
+  {
+   "detail": "WNBA Chicago Sky 84, Las Vegas Aces 83",
+   "detected_at": "2026-08-08 17:34:41",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-01/Las-Vegas-at-Chicago/158552"
+  },
+  {
+   "detail": "WNBA Golden State Valkyries 96, Toronto Tempo 79",
+   "detected_at": "2026-08-08 17:34:38",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-02/Toronto-at-Golden-State/158679"
+  },
+  {
+   "detail": "WNBA Dallas Wings 83, Connecticut Sun 63",
+   "detected_at": "2026-08-08 17:34:36",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-02/Connecticut-at-Dallas/158556"
+  },
+  {
+   "detail": "WNBA Los Angeles Sparks 106, Portland Fire 101",
+   "detected_at": "2026-08-08 17:34:33",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-02/LA-Sparks-at-Portland/158555"
+  },
+  {
+   "detail": "WNBA Minnesota Lynx 108, Indiana Fever 100",
+   "detected_at": "2026-08-08 17:34:31",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-02/Indiana-at-Minnesota/158554"
+  },
+  {
+   "detail": "WNBA Phoenix Mercury 106, Chicago Sky 101",
+   "detected_at": "2026-08-08 17:34:28",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-03/Phoenix-at-Chicago/158559"
+  },
+  {
+   "detail": "WNBA Las Vegas Aces 109, Atlanta Dream 87",
+   "detected_at": "2026-08-08 17:34:26",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-03/Las-Vegas-at-Atlanta/158557"
+  },
+  {
+   "detail": "WNBA New York Liberty 95, Seattle Storm 83",
+   "detected_at": "2026-08-08 17:34:24",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-03/Seattle-at-New-York/158558"
+  },
+  {
+   "detail": "WNBA Golden State Valkyries 92, Toronto Tempo 81",
+   "detected_at": "2026-08-08 17:34:21",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-04/Toronto-at-Golden-State/158680"
+  },
+  {
+   "detail": "WNBA Chicago Sky 95, Los Angeles Sparks 88",
+   "detected_at": "2026-08-08 17:34:18",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-05/LA-Sparks-at-Chicago/158563"
+  },
+  {
+   "detail": "WNBA Washington Mystics 96, Dallas Wings 92",
+   "detected_at": "2026-08-08 17:34:16",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-05/Dallas-at-Washington/158562"
+  },
+  {
+   "detail": "WNBA New York Liberty 92, Seattle Storm 86",
+   "detected_at": "2026-08-08 17:34:14",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-05/Seattle-at-New-York/158561"
+  },
+  {
+   "detail": "WNBA Atlanta Dream 96, Phoenix Mercury 82",
+   "detected_at": "2026-08-08 17:34:11",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-05/Phoenix-at-Atlanta/158560"
+  },
+  {
+   "detail": "WNBA Portland Fire 97, Toronto Tempo 83",
+   "detected_at": "2026-08-08 17:34:08",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-06/Toronto-at-Portland/158681"
+  },
+  {
+   "detail": "WNBA Los Angeles Sparks 89, Minnesota Lynx 82",
+   "detected_at": "2026-08-08 17:34:06",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-06/LA-Sparks-at-Minnesota/158565"
+  },
+  {
+   "detail": "WNBA Las Vegas Aces 86, Indiana Fever 84",
+   "detected_at": "2026-08-08 17:34:04",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-06/Las-Vegas-at-Indiana/158564"
+  },
+  {
+   "detail": "WNBA Golden State Valkyries 94, Dallas Wings 76",
+   "detected_at": "2026-08-08 17:34:01",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-07/Golden-State-at-Dallas/158568"
+  },
+  {
    "detail": "WNBA Washington Mystics 79, Atlanta Dream 74",
    "detected_at": "2026-08-08 17:33:59",
    "source": "SCORES",
@@ -9129,162 +9311,6 @@
    "detected_at": "2026-07-15 09:15:56",
    "source": "DOCS",
    "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  27-28 $6,367,200 (Player Option)",
-   "detected_at": "2026-07-15 09:15:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  2 Years for $12,431,200. Taxpayer Mid-Level Exception. Player option to extend the contract to include the 2027-28 Season. Skill; Injury or Illness; Mental; Death. Love of the Game. Physical Exam. Alt. 7(b).",
-   "detected_at": "2026-07-15 09:15:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 7/10/26",
-   "detected_at": "2026-07-15 09:15:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "DEN  CHANGED Jones, Tyus  -  TEAM SALARY CAP REPORT\n       -  DENVER NUGGETS: 4 - CAP HOLD -> 1 - FULL SEASON",
-   "detected_at": "2026-07-15 09:15:00",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "DEN  CHANGED Players Under Contract  -  col3: 202754486 -> 205203907",
-   "detected_at": "2026-07-15 09:15:00",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "DEN  CHANGED Full Season Contracts  -  col3: 202754486 -> 205203907",
-   "detected_at": "2026-07-15 09:15:00",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "DEN  CHANGED Cap Holds  -  col3: 34849911.4 -> 32400490.4",
-   "detected_at": "2026-07-15 09:15:00",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "DEN  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 9 -> 10",
-   "detected_at": "2026-07-15 09:15:00",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "DEN  CHANGED Avg, Salary (Mean) (No 10-Day K's)  -  col6: 6 -> 5",
-   "detected_at": "2026-07-15 09:15:00",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "DEN  CHANGED Avg, Salary (Mean) (No 10-Day K's & ROS)  -  col6: 4 -> 3",
-   "detected_at": "2026-07-15 09:15:00",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "PHX  + ADDED  Kennard, Luke",
-   "detected_at": "2026-07-15 09:15:00",
-   "source": "SHEETS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "PHX  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 234167232.5 -> 240231232.5, col4: 169805463.1 -> 176172663.1, col9: 668234058.4 -> 680665258.4",
-   "detected_at": "2026-07-15 09:15:00",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "PHX  CHANGED Players Under Contract  -  col3: 187533192 -> 193597192, col4: 147315310.2 -> 153682510.2",
-   "detected_at": "2026-07-15 09:15:00",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "PHX  CHANGED Full Season Contracts  -  col3: 187533192 -> 193597192, col4: 147315310.2 -> 153682510.2",
-   "detected_at": "2026-07-15 09:15:00",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "PHX  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 14 -> 15",
-   "detected_at": "2026-07-15 09:15:00",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "PHX  CHANGED Avg, Salary (Mean) (No 10-Day K's)  -  col6: 1 -> 0",
-   "detected_at": "2026-07-15 09:15:00",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col9: 4326486 -> 6775907, col25: 10302242.52 -> 16366242.52",
-   "detected_at": "2026-07-15 09:15:00",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED 1st Incremental Tax Bracket  -  col9: 12979458 -> 17055000",
-   "detected_at": "2026-07-15 09:15:00",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED 2nd Incremental Tax Bracket  -  col9: 0 -> 3545447.75, col25: 15006038.2 -> 18476250",
-   "detected_at": "2026-07-15 09:15:00",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED 3rd Incremental Tax Bracket  -  col25: 0 -> 27479333.88",
-   "detected_at": "2026-07-15 09:15:00",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col9: 12979458 -> 20600447.75, col25: 32061038.2 -> 63010583.88",
-   "detected_at": "2026-07-15 09:15:00",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Update 1.2 (7/7/26): P. Achiuwa, J. Alvarado, K. Anderson, M. Bamba, H. Barnes, C. Bassey, B. Bogdanovic, T. Bryant, J. Clark, J. Clarkson, J. Collins, M. Conley, M. Diawara, O. Dieng, A. Dosunmu, A. Drummond, T. Eason, K. Ellis, C. Gillespie, J. Green, Q. Grimes, J. Goodwin, R. Hachimura, T. Hardaway Jr., T. Harris, I. Hartenstein, J. Hayes, K. Huerter, A. Hukporti, T. Jones, D. Jordan, W. Kessler, J. Landale, K. Looney, T. Lyles, S. Mamukelashvili, J. McLaughlin, K. Middleton, J. Miller, L. Nance, P. Nance, J. Nurkic, N. Powell, J. Okogie, K. Oubre, Q. Post, A. Reaves, M. Robinson, K. Sanders, C. Sexton, L. Shamet, M. Smart, V. Wembanyama, C. White, K. Williams, M. Williams, T. Young",
-   "detected_at": "2026-07-15 09:13:56",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Update 1.2 (7/7/26): P. Achiuwa, J. Alvarado, K. Anderson, M. Bamba, H. Barnes, C. Bassey, B. Bogdanovic, T. Bryant, J. Clark, J. Clarkson, J. Collins, M. Conley, M. Diawara, O. Dieng, A. Dosunmu, A. Drummond, T. Eason, K. Ellis, C. Gillespie, J. Green, Q. Grimes, J. Goodwin, R. Hachimura, T. Hardaway Jr., T. Harris, I. Hartenstein, J. Hayes, K. Huerter, A. Hukporti, T. Jones, D. Jordan, L. Kennard, W. Kessler, J. Landale, K. Looney, T. Lyles, S. Mamukelashvili, J. McLaughlin, K. Middleton, J. Miller, L. Nance, P. Nance, J. Nurkic, N. Powell, J. Okogie, K. Oubre, Q. Post, A. Reaves, M. Robinson, K. Sanders, C. Sexton, L. Shamet, M. Smart, V. Wembanyama, C. White, K. Williams, M. Williams, T. Young",
-   "detected_at": "2026-07-15 09:13:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Update 1.2 (7/7/26): P. Achiuwa, J. Alvarado, K. Anderson, M. Bamba, H. Barnes, C. Bassey, B. Bogdanovic, T. Bryant, J. Clark, J. Clarkson, J. Collins, M. Conley, M. Diawara, O. Dieng, A. Dosunmu, A. Drummond, T. Eason, K. Ellis, C. Gillespie, J. Green, Q. Grimes, J. Goodwin, R. Hachimura, T. Hardaway Jr., T. Harris, I. Hartenstein, J. Hayes, K. Huerter, A. Hukporti, D. Jordan, W. Kessler, J. Landale, K. Looney, T. Lyles, S. Mamukelashvili, J. McLaughlin, K. Middleton, J. Miller, L. Nance, P. Nance, J. Nurkic, N. Powell, J. Okogie, K. Oubre, Q. Post, A. Reaves, M. Robinson, K. Sanders, C. Sexton, L. Shamet, M. Smart, V. Wembanyama, C. White, K. Williams, M. Williams, T. Young",
-   "detected_at": "2026-07-15 09:12:57",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Update 1.2 (7/7/26): P. Achiuwa, J. Alvarado, K. Anderson, M. Bamba, H. Barnes, C. Bassey, B. Bogdanovic, T. Bryant, J. Clark, J. Clarkson, J. Collins, M. Conley, M. Diawara, O. Dieng, A. Dosunmu, A. Drummond, T. Eason, K. Ellis, C. Gillespie, J. Green, Q. Grimes, J. Goodwin, R. Hachimura, T. Hardaway Jr., T. Harris, I. Hartenstein, J. Hayes, K. Huerter, A. Hukporti, T. Jones, D. Jordan, W. Kessler, J. Landale, K. Looney, T. Lyles, S. Mamukelashvili, J. McLaughlin, K. Middleton, J. Miller, L. Nance, P. Nance, J. Nurkic, N. Powell, J. Okogie, K. Oubre, Q. Post, A. Reaves, M. Robinson, K. Sanders, C. Sexton, L. Shamet, M. Smart, V. Wembanyama, C. White, K. Williams, M. Williams, T. Young",
-   "detected_at": "2026-07-15 09:12:57",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Tyus Jones Denver Nuggets",
-   "detected_at": "2026-07-15 09:12:57",
-   "source": "DOCS",
-   "type": "ADDED"
   }
  ],
  "feeds": {
@@ -9301,8 +9327,8 @@
    "last": "2026-08-08 17:31:42"
   },
   "SCORES": {
-   "count": 89,
-   "last": "2026-08-08 17:33:59"
+   "count": 115,
+   "last": "2026-08-08 17:35:03"
   },
   "SHEETS": {
    "count": 3332,
@@ -9317,6 +9343,6 @@
    "last": "2026-08-08 15:08:47"
   }
  },
- "generated_at": "2026-08-08T17:34:00",
- "total": 6477
+ "generated_at": "2026-08-08T17:35:04",
+ "total": 6503
 }
