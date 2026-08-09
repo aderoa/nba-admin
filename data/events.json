@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Corey Walden  ~ team: - -> Free agent",
+   "detected_at": "2026-08-08 21:16:49",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Corey_Walden"
+  },
+  {
+   "detail": "Corey Walden  ~ league: Liga ACB -> -",
+   "detected_at": "2026-08-08 21:16:49",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Corey_Walden"
+  },
+  {
    "detail": "Canadian Elite Basketball League Winnipeg Sea Bears 107, Vancouver Bandits 96",
    "detected_at": "2026-08-08 20:45:10",
    "source": "SCORES",
@@ -10153,20 +10167,6 @@
    "source": "RATINGS",
    "type": "TOP5",
    "url": "https://basketball.realgm.com/international/boxscore/2026-07-29/Macau-Black-Knights-at-Terrafirma-DYIP/526209"
-  },
-  {
-   "detail": "PBA Governors Cup ★ 1. George King 40.9 — 35p 8r 8a 32.0m (San Miguel Beermen)",
-   "detected_at": "2026-07-29 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP1",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-07-29/Titan-Ultra-Giant-at-San-Miguel-Beermen/526210"
-  },
-  {
-   "detail": "PBA Governors Cup 2. Jerrick Ahanmisi 25.3 — 26p 0r 3a 23.6m (San Miguel Beermen)",
-   "detected_at": "2026-07-29 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP2",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-07-29/Titan-Ultra-Giant-at-San-Miguel-Beermen/526210"
   }
  ],
  "feeds": {
@@ -10199,10 +10199,10 @@
    "last": "2026-08-08 17:40:55"
   },
   "WIKI": {
-   "count": 194,
-   "last": "2026-08-08 20:30:48"
+   "count": 196,
+   "last": "2026-08-08 21:16:49"
   }
  },
- "generated_at": "2026-08-08T20:45:13",
- "total": 7483
+ "generated_at": "2026-08-08T21:16:49",
+ "total": 7485
 }
