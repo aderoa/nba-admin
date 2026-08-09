@@ -153,6 +153,8 @@ SECTIONS = {
         # ("Spain-at-France"), which every section provides. A better regex only
         # improves the label.
         "team_re": re.compile(r"/national/(?:team|nation|teams)/([^/]+)/(\d+)", re.I),
+        # Read from the page, not fixed. The fallback below only applies when a
+        # box score has no competition line at all.
         "league": "National Teams",
         # MOVEMENT IS OFF FOR NATIONAL GAMES, and this is the whole reason the
         # flag exists. A player turning out for Spain has not left his club: fed
@@ -409,12 +411,56 @@ PHASES = [
     ("Playoffs", "playoffs"), ("Playoff", "playoffs"),
     ("Postseason", "playoffs"), ("Post-Season", "playoffs"),
     ("Finals", "playoffs"), ("Grand Final", "playoffs"),
+    # "Final" as well as "Finals": the optional plural is appended to the label,
+    # so "Finals" + "s?" cannot match the singular. An Olympic final says Final.
+    # Safe this late in the list -- Quarterfinals and Semifinals matched already.
+    ("Final", "playoffs"),
     ("Play-In", "playin"), ("Play In", "playin"),
     ("Preseason", "preseason"), ("Pre-Season", "preseason"),
     ("Exhibition", "exhibition"), ("Friendly", "exhibition"),
     ("Qualifier", "qualifier"), ("Group Stage", "group"),
     ("Regular Season", "regular"),
 ]
+
+
+# The competition line sits between the date and "Attendance:" on a box score:
+#
+#   Ireland 54, Switzerland 85
+#   February 20, 2025
+#   European World Cup Pre-Qualifier - Pool Play    Attendance: N/A
+#
+# National games need this because their team links carry no league, and one
+# label of "National Teams" for a EuroBasket, an AmeriCup and a World Cup
+# pre-qualifier is no label at all.
+COMP_RE = re.compile(
+    r"(?:January|February|March|April|May|June|July|August|September|October"
+    r"|November|December)\s+\d{1,2},\s+\d{4}\s+(.{3,90}?)\s+Attendance",
+    re.I | re.S)
+
+
+def competition(html):
+    """
+    -> (competition, stage). Either may be "".
+
+    "European World Cup Pre-Qualifier - Pool Play" splits into the competition
+    and the stage: the first is what groups a table, the second is a phase. They
+    are separated because grouping by the full string would give a different
+    "league" for pool play and for the knockout rounds of the same tournament.
+    """
+    if not html:
+        return "", ""
+    cut = html.lower().find("<table")
+    head = html[:cut] if cut > 0 else html[:20000]
+    txt = " ".join(re.sub(r"<[^>]+>", " ", head).split())
+    m = COMP_RE.search(txt)
+    if not m:
+        return "", ""
+    full = " ".join(m.group(1).split())
+    # An en dash or a hyphen, either spaced or not.
+    parts = re.split(r"\s+[-\u2013\u2014]\s+", full, maxsplit=1)
+    comp = parts[0].strip(" -\u2013\u2014")
+    stage = parts[1].strip() if len(parts) > 1 else ""
+    return comp, stage
 
 
 def game_phase(html):
@@ -441,6 +487,16 @@ def game_phase(html):
     # a postseason one.
     head = html[:cut] if cut > 0 else html[:20000]
     txt = " ".join(re.sub(r"<[^>]+>", " ", head).split())
+    # The stage half of the competition line is the most specific thing on the
+    # page -- "Pool Play", "Quarterfinals" -- so it is tested before the rest of
+    # the header, where a tournament's name can look like a stage.
+    _c, stage = competition(html)
+    if stage:
+        for label, key in PHASES:
+            if re.search(r"\b" + re.escape(label) + r"s?\b", stage, re.I):
+                return key
+        if re.search(r"\bpool\b|\bround robin\b", stage, re.I):
+            return "group"
     for label, key in PHASES:
         # An optional plural, because pages say "Qualifiers" and the list says
         # "Qualifier" -- and \b after the singular is blocked by the trailing s,
@@ -489,6 +545,12 @@ def parse_box(html, slug, section="international"):
 
     league_id = ""
     league_name = cfg["league"] or ""
+    # A competition named on the page always beats the section's default:
+    # "FIBA World Cup Qualifiers" rather than "National Teams" for every game
+    # ever played by a country.
+    comp, _stage = competition(html)
+    if comp and cfg.get("league"):
+        league_name = comp
     by_slug = {}
     for a in s.find_all("a", href=True):
         m = cfg["team_re"].search(a["href"])
