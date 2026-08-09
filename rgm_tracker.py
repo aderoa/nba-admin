@@ -329,6 +329,17 @@ def write_gr_lines(section, date, gid, slug, league, phase, teams, url):
                          "url": url})
     if not rows:
         return 0
+    # If the file's header predates a column being added, appending would write
+    # values in the CURRENT order under the OLD header and shift every field --
+    # which is how a player url ended up in the minutes column. Refuse rather
+    # than corrupt; rgm_gr.py --realign repairs it.
+    if os.path.exists(path):
+        with open(path, encoding="utf-8") as f:
+            first = f.readline().rstrip("\r\n")
+        if first and first.split(",") != GR_COLS:
+            print(f"  !! {os.path.basename(path)} has an older column layout;"
+                  f" not appending. Run: python rgm_gr.py --realign")
+            return 0
     new = not os.path.exists(path)
     with open(path, "a", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=GR_COLS, extrasaction="ignore")
