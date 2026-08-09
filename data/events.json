@@ -1,6 +1,909 @@
 {
  "events": [
   {
+   "detail": "National Teams North Macedonia 82, Cyprus 63",
+   "detected_at": "2026-08-08 18:11:03",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-06/North-Macedonia-at-Cyprus/526329"
+  },
+  {
+   "detail": "WNBA Golden State Valkyries 96, Toronto Tempo 79",
+   "detected_at": "2026-08-08 18:10:59",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-02/Toronto-at-Golden-State/158679"
+  },
+  {
+   "detail": "WNBA Dallas Wings 83, Connecticut Sun 63",
+   "detected_at": "2026-08-08 18:10:57",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-02/Connecticut-at-Dallas/158556"
+  },
+  {
+   "detail": "WNBA Los Angeles Sparks 106, Portland Fire 101",
+   "detected_at": "2026-08-08 18:10:55",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-02/LA-Sparks-at-Portland/158555"
+  },
+  {
+   "detail": "WNBA Minnesota Lynx 108, Indiana Fever 100",
+   "detected_at": "2026-08-08 18:10:52",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-02/Indiana-at-Minnesota/158554"
+  },
+  {
+   "detail": "WNBA Phoenix Mercury 106, Chicago Sky 101",
+   "detected_at": "2026-08-08 18:10:50",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-03/Phoenix-at-Chicago/158559"
+  },
+  {
+   "detail": "WNBA Las Vegas Aces 109, Atlanta Dream 87",
+   "detected_at": "2026-08-08 18:10:48",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-03/Las-Vegas-at-Atlanta/158557"
+  },
+  {
+   "detail": "WNBA New York Liberty 95, Seattle Storm 83",
+   "detected_at": "2026-08-08 18:10:45",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-03/Seattle-at-New-York/158558"
+  },
+  {
+   "detail": "WNBA Golden State Valkyries 92, Toronto Tempo 81",
+   "detected_at": "2026-08-08 18:10:43",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-04/Toronto-at-Golden-State/158680"
+  },
+  {
+   "detail": "WNBA Chicago Sky 95, Los Angeles Sparks 88",
+   "detected_at": "2026-08-08 18:10:40",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-05/LA-Sparks-at-Chicago/158563"
+  },
+  {
+   "detail": "WNBA Washington Mystics 96, Dallas Wings 92",
+   "detected_at": "2026-08-08 18:10:38",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-05/Dallas-at-Washington/158562"
+  },
+  {
+   "detail": "WNBA New York Liberty 92, Seattle Storm 86",
+   "detected_at": "2026-08-08 18:10:36",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-05/Seattle-at-New-York/158561"
+  },
+  {
+   "detail": "WNBA Atlanta Dream 96, Phoenix Mercury 82",
+   "detected_at": "2026-08-08 18:10:33",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-05/Phoenix-at-Atlanta/158560"
+  },
+  {
+   "detail": "WNBA ~ RETURN Aneesah Morrow → Toronto Tempo (from Connecticut Sun)",
+   "detected_at": "2026-08-08 18:10:31",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "WNBA Portland Fire 97, Toronto Tempo 83",
+   "detected_at": "2026-08-08 18:10:31",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-06/Toronto-at-Portland/158681"
+  },
+  {
+   "detail": "WNBA ~ RETURN Monique Akoa-Makani → Los Angeles Sparks (from Phoenix Mercury)",
+   "detected_at": "2026-08-08 18:10:28",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "WNBA Los Angeles Sparks 89, Minnesota Lynx 82",
+   "detected_at": "2026-08-08 18:10:28",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-06/LA-Sparks-at-Minnesota/158565"
+  },
+  {
+   "detail": "WNBA Las Vegas Aces 86, Indiana Fever 84",
+   "detected_at": "2026-08-08 18:10:26",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-06/Las-Vegas-at-Indiana/158564"
+  },
+  {
+   "detail": "WNBA Golden State Valkyries 94, Dallas Wings 76",
+   "detected_at": "2026-08-08 18:10:23",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-07/Golden-State-at-Dallas/158568"
+  },
+  {
+   "detail": "WNBA Washington Mystics 79, Atlanta Dream 74",
+   "detected_at": "2026-08-08 18:10:21",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-07/Atlanta-at-Washington/158567"
+  },
+  {
+   "detail": "WNBA Connecticut Sun 75, Phoenix Mercury 72",
+   "detected_at": "2026-08-08 18:10:18",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-07/Phoenix-at-Connecticut/158566"
+  },
+  {
+   "detail": "Puerto Rican BSN Leones de Ponce 106, Santeros de Aguada 105",
+   "detected_at": "2026-08-08 18:10:15",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-02/Santeros-de-Aguada-at-Leones-de-Ponce/526706"
+  },
+  {
+   "detail": "Canadian Elite Basketball League Ottawa Blackjacks 96, Edmonton Stingers 89",
+   "detected_at": "2026-08-08 18:10:13",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-02/Ottawa-Blackjacks-at-Edmonton-Stingers/520482"
+  },
+  {
+   "detail": "Canadian Elite Basketball League ~ RETURN Emmanuel Akot → Winnipeg Sea Bears (from El Calor de Cancun)",
+   "detected_at": "2026-08-08 18:10:11",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "Canadian Elite Basketball League Vancouver Bandits 114, Winnipeg Sea Bears 90",
+   "detected_at": "2026-08-08 18:10:11",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-02/Winnipeg-Sea-Bears-at-Vancouver-Bandits/520481"
+  },
+  {
+   "detail": "New Zealand NBL Zerofees Southland Sharks 84, Canterbury Rams 74",
+   "detected_at": "2026-08-08 18:10:08",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-02/Zerofees-Southland-Sharks-at-Canterbury-Rams/526703"
+  },
+  {
+   "detail": "PBA Governors Cup Magnolia Hotshots 88, Barangay Ginebra Kings 73",
+   "detected_at": "2026-08-08 18:10:06",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-02/Magnolia-Hotshots-at-Barangay-Ginebra-Kings/526216"
+  },
+  {
+   "detail": "PBA Governors Cup Rain or Shine Elasto Painters 85, Meralco Bolts 83",
+   "detected_at": "2026-08-08 18:10:03",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-02/Meralco-Bolts-at-Rain-or-Shine-Elasto-Painters/526215"
+  },
+  {
+   "detail": "Canadian Elite Basketball League Saskatoon Mamba 96, Calgary Surge 80",
+   "detected_at": "2026-08-08 18:09:58",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-03/Calgary-Surge-at-Saskatoon-Mamba/520484"
+  },
+  {
+   "detail": "Canadian Elite Basketball League Scarborough Shooting Stars 91, Brampton Honey Badgers 77",
+   "detected_at": "2026-08-08 18:09:56",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-03/Brampton-Honey-Badgers-at-Scarborough-Shooting-Stars/520483"
+  },
+  {
+   "detail": "Lebanese Division A Sporting Al Riyadi Beirut 100, Sagesse Al Hekmeh Beirut 79",
+   "detected_at": "2026-08-08 18:09:53",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-03/Sagesse-Al-Hekmeh-Beirut-at-Sporting-Al-Riyadi-Beirut/527587"
+  },
+  {
+   "detail": "Puerto Rican BSN Santeros de Aguada 95, Leones de Ponce 89",
+   "detected_at": "2026-08-08 18:09:51",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-04/Leones-de-Ponce-at-Santeros-de-Aguada/528065"
+  },
+  {
+   "detail": "PBA Governors Cup NLEX Road Warriors 88, Talk N Text Tropang Texters 83",
+   "detected_at": "2026-08-08 18:09:48",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-04/Talk-N-Text-Tropang-Texters-at-NLEX-Road-Warriors/526218"
+  },
+  {
+   "detail": "PBA Governors Cup Titan Ultra Giant 132, Macau Black Knights 128",
+   "detected_at": "2026-08-08 18:09:46",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-04/Macau-Black-Knights-at-Titan-Ultra-Giant/526217"
+  },
+  {
+   "detail": "Mexican LNBP Dorados de Chihuahua 96, Fuerza Regia 67",
+   "detected_at": "2026-08-08 18:09:43",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-05/Dorados-de-Chihuahua-at-Fuerza-Regia/526070"
+  },
+  {
+   "detail": "Mexican LNBP Diablos Rojos 99, Freseros Irapuato 73",
+   "detected_at": "2026-08-08 18:09:41",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-05/Freseros-Irapuato-at-Diablos-Rojos/526069"
+  },
+  {
+   "detail": "Mexican LNBP Mineros de Zacatecas 95, Correcaminos 76",
+   "detected_at": "2026-08-08 18:09:38",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-05/Correcaminos-at-Mineros-de-Zacatecas/526068"
+  },
+  {
+   "detail": "Mexican LNBP El Calor de Cancun 89, Santos de San Luis Potosi 84",
+   "detected_at": "2026-08-08 18:09:36",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-05/El-Calor-de-Cancun-at-Santos-de-San-Luis-Potosi/526067"
+  },
+  {
+   "detail": "Mexican LNBP Soles 86, Lobos Plateados 64",
+   "detected_at": "2026-08-08 18:09:33",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-05/Soles-at-Lobos-Plateados/526066"
+  },
+  {
+   "detail": "Mexican LNBP Gambusinos 84, Panteras de Aguascalientes 74",
+   "detected_at": "2026-08-08 18:09:31",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-05/Panteras-de-Aguascalientes-at-Gambusinos/526065"
+  },
+  {
+   "detail": "Mexican LNBP Astros de Jalisco 103, Abejas 90",
+   "detected_at": "2026-08-08 18:09:28",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-05/Astros-de-Jalisco-at-Abejas/526064"
+  },
+  {
+   "detail": "PBA Governors Cup San Miguel Beermen 126, Converge Fiber Xers 114",
+   "detected_at": "2026-08-08 18:09:26",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-05/Converge-Fiber-Xers-at-San-Miguel-Beermen/526220"
+  },
+  {
+   "detail": "PBA Governors Cup Blackwater Bossings 106, Phoenix Fuel Masters 100",
+   "detected_at": "2026-08-08 18:09:23",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-05/Phoenix-Fuel-Masters-at-Blackwater-Bossings/526219"
+  },
+  {
+   "detail": "Canadian Elite Basketball League Vancouver Bandits 92, Edmonton Stingers 83",
+   "detected_at": "2026-08-08 18:09:21",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-06/Edmonton-Stingers-at-Vancouver-Bandits/528064"
+  },
+  {
+   "detail": "Mexican LNBP Panteras de Aguascalientes 88, Gambusinos 69",
+   "detected_at": "2026-08-08 18:09:18",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-06/Panteras-de-Aguascalientes-at-Gambusinos/526072"
+  },
+  {
+   "detail": "Mexican LNBP Soles 80, Lobos Plateados 73",
+   "detected_at": "2026-08-08 18:09:16",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-06/Soles-at-Lobos-Plateados/526073"
+  },
+  {
+   "detail": "Mexican LNBP ~ RETURN Emmanuel Akot → El Calor de Cancun (from Winnipeg Sea Bears)",
+   "detected_at": "2026-08-08 18:09:13",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "Mexican LNBP Santos de San Luis Potosi 82, El Calor de Cancun 75",
+   "detected_at": "2026-08-08 18:09:13",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-06/El-Calor-de-Cancun-at-Santos-de-San-Luis-Potosi/526074"
+  },
+  {
+   "detail": "Mexican LNBP Mineros de Zacatecas 98, Correcaminos 76",
+   "detected_at": "2026-08-08 18:09:11",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-06/Correcaminos-at-Mineros-de-Zacatecas/526075"
+  },
+  {
+   "detail": "Mexican LNBP Freseros Irapuato 86, Diablos Rojos 82",
+   "detected_at": "2026-08-08 18:09:09",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-06/Freseros-Irapuato-at-Diablos-Rojos/526076"
+  },
+  {
+   "detail": "Mexican LNBP Dorados de Chihuahua 92, Fuerza Regia 86",
+   "detected_at": "2026-08-08 18:09:07",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-06/Dorados-de-Chihuahua-at-Fuerza-Regia/526077"
+  },
+  {
+   "detail": "Canadian Elite Basketball League Brampton Honey Badgers 95, Ottawa Blackjacks 91",
+   "detected_at": "2026-08-08 18:09:04",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-06/Ottawa-Blackjacks-at-Brampton-Honey-Badgers/528061"
+  },
+  {
+   "detail": "Canadian Elite Basketball League Niagara River Lions 86, Scarborough Shooting Stars 84",
+   "detected_at": "2026-08-08 18:09:02",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-06/Niagara-River-Lions-at-Scarborough-Shooting-Stars/528062"
+  },
+  {
+   "detail": "Canadian Elite Basketball League Winnipeg Sea Bears 99, Saskatoon Mamba 88",
+   "detected_at": "2026-08-08 18:09:00",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-06/Saskatoon-Mamba-at-Winnipeg-Sea-Bears/528063"
+  },
+  {
+   "detail": "Mexican LNBP Astros de Jalisco 95, Abejas 83",
+   "detected_at": "2026-08-08 18:08:57",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-06/Astros-de-Jalisco-at-Abejas/526071"
+  },
+  {
+   "detail": "PBA Governors Cup Magnolia Hotshots 105, Meralco Bolts 88",
+   "detected_at": "2026-08-08 18:08:54",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-07/Meralco-Bolts-at-Magnolia-Hotshots/526222"
+  },
+  {
+   "detail": "PBA Governors Cup Terrafirma DYIP 114, NLEX Road Warriors 109",
+   "detected_at": "2026-08-08 18:08:52",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-07/NLEX-Road-Warriors-at-Terrafirma-DYIP/526221"
+  },
+  {
+   "detail": "National Teams Netherlands 71, Poland 57",
+   "detected_at": "2026-08-08 18:08:47",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/Netherlands-at-Poland/526454"
+  },
+  {
+   "detail": "National Teams Slovenia 88, Italy 71",
+   "detected_at": "2026-08-08 18:08:45",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/Italy-at-Slovenia/526386"
+  },
+  {
+   "detail": "National Teams Belgium 81, Czech Republic 64",
+   "detected_at": "2026-08-08 18:08:42",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/Czech-Republic-at-Belgium/526455"
+  },
+  {
+   "detail": "National Teams Montenegro 82, Switzerland 75",
+   "detected_at": "2026-08-08 18:08:40",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/Switzerland-at-Montenegro/526466"
+  },
+  {
+   "detail": "National Teams France 74, Spain 69",
+   "detected_at": "2026-08-08 18:08:38",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/France-at-Spain/526387"
+  },
+  {
+   "detail": "National Teams Serbia 77, Estonia 67",
+   "detected_at": "2026-08-08 18:08:35",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/Estonia-at-Serbia/526398"
+  },
+  {
+   "detail": "National Teams Ukraine 69, Cyprus 59",
+   "detected_at": "2026-08-08 18:08:33",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/Cyprus-at-Ukraine/526474"
+  },
+  {
+   "detail": "National Teams Finland 82, Bosnia and Herzegovina 66",
+   "detected_at": "2026-08-08 18:08:31",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/Finland-at-Bosnia-and-Herzegovina/526467"
+  },
+  {
+   "detail": "National Teams Germany 99, Greece 69",
+   "detected_at": "2026-08-08 18:08:28",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/Germany-at-Greece/526390"
+  },
+  {
+   "detail": "National Teams Lithuania 91, Denmark 83",
+   "detected_at": "2026-08-08 18:08:26",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/Lithuania-at-Denmark/526399"
+  },
+  {
+   "detail": "National Teams Georgia 83, Croatia 81",
+   "detected_at": "2026-08-08 18:08:24",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/Georgia-at-Croatia/526459"
+  },
+  {
+   "detail": "National Teams Hungary 67, Romania 63",
+   "detected_at": "2026-08-08 18:08:21",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/Romania-at-Hungary/526458"
+  },
+  {
+   "detail": "National Teams Austria 73, Latvia 71",
+   "detected_at": "2026-08-08 18:08:19",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/Austria-at-Latvia/526402"
+  },
+  {
+   "detail": "National Teams Slovakia 74, Bulgaria 72",
+   "detected_at": "2026-08-08 18:08:17",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/Slovakia-at-Bulgaria/526403"
+  },
+  {
+   "detail": "National Teams Iceland 91, Azerbaijan 73",
+   "detected_at": "2026-08-08 18:08:14",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/Iceland-at-Azerbaijan/526471"
+  },
+  {
+   "detail": "National Teams Great Britain 83, North Macedonia 73",
+   "detected_at": "2026-08-08 18:08:12",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/North-Macedonia-at-Great-Britain/526470"
+  },
+  {
+   "detail": "National Teams Sweden 87, Norway 64",
+   "detected_at": "2026-08-08 18:08:09",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/Sweden-at-Norway/526473"
+  },
+  {
+   "detail": "National Teams Ireland 82, Portugal 60",
+   "detected_at": "2026-08-08 18:08:07",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/Ireland-at-Portugal/526472"
+  },
+  {
+   "detail": "National Teams Israel 85, Turkey 79",
+   "detected_at": "2026-08-08 18:08:05",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/Turkey-at-Israel/526391"
+  },
+  {
+   "detail": "National Teams Mali 66, Morocco 45",
+   "detected_at": "2026-08-08 18:08:01",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-05/Mali-at-Morocco/527563"
+  },
+  {
+   "detail": "National Teams Madagascar 68, Gabon 65",
+   "detected_at": "2026-08-08 18:07:59",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-05/Gabon-at-Madagascar/527562"
+  },
+  {
+   "detail": "National Teams Ivory Coast 104, Chad 51",
+   "detected_at": "2026-08-08 18:07:57",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-05/Chad-at-Ivory-Coast/527557"
+  },
+  {
+   "detail": "National Teams Egypt 95, Nigeria 68",
+   "detected_at": "2026-08-08 18:07:54",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-05/Nigeria-at-Egypt/527556"
+  },
+  {
+   "detail": "National Teams Netherlands 62, Ireland 55",
+   "detected_at": "2026-08-08 18:07:52",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-06/Netherlands-at-Ireland/526318"
+  },
+  {
+   "detail": "National Teams Montenegro 95, Portugal 66",
+   "detected_at": "2026-08-08 18:07:49",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-06/Portugal-at-Montenegro/526319"
+  },
+  {
+   "detail": "National Teams Croatia 101, Switzerland 47",
+   "detected_at": "2026-08-08 18:07:47",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-06/Croatia-at-Switzerland/526328"
+  },
+  {
+   "detail": "National Teams Iceland 88, Ukraine 77",
+   "detected_at": "2026-08-08 18:07:42",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-06/Ukraine-at-Iceland/526330"
+  },
+  {
+   "detail": "National Teams Bosnia and Herzegovina 83, Norway 66",
+   "detected_at": "2026-08-08 18:07:39",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-06/Norway-at-Bosnia-and-Herzegovina/526343"
+  },
+  {
+   "detail": "National Teams Bulgaria 75, Finland 67",
+   "detected_at": "2026-08-08 18:07:37",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-06/Finland-at-Bulgaria/526344"
+  },
+  {
+   "detail": "National Teams Sweden 88, Luxembourg 75",
+   "detected_at": "2026-08-08 18:07:35",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-06/Sweden-at-Luxembourg/526353"
+  },
+  {
+   "detail": "National Teams Great Britain 80, Austria 57",
+   "detected_at": "2026-08-08 18:07:32",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-06/Great-Britain-at-Austria/526358"
+  },
+  {
+   "detail": "National Teams Estonia 74, Hungary 65",
+   "detected_at": "2026-08-08 18:07:30",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-06/Hungary-at-Estonia/526359"
+  },
+  {
+   "detail": "National Teams Cameroon 53, Tunisia 41",
+   "detected_at": "2026-08-08 18:07:28",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-06/Tunisia-at-Cameroon/527568"
+  },
+  {
+   "detail": "National Teams Senegal 78, Rwanda 38",
+   "detected_at": "2026-08-08 18:07:25",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-06/Senegal-at-Rwanda/527569"
+  },
+  {
+   "detail": "National Teams Poland 105, Romania 62",
+   "detected_at": "2026-08-08 18:07:23",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-07/Romania-at-Poland/526267"
+  },
+  {
+   "detail": "National Teams France 93, Slovenia 68",
+   "detected_at": "2026-08-08 18:07:20",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-07/Slovenia-at-France/526286"
+  },
+  {
+   "detail": "National Teams Germany 82, Belgium 60",
+   "detected_at": "2026-08-08 18:07:18",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-07/Belgium-at-Germany/526285"
+  },
+  {
+   "detail": "National Teams Spain 96, Greece 86",
+   "detected_at": "2026-08-08 18:07:16",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-07/Greece-at-Spain/526280"
+  },
+  {
+   "detail": "National Teams Israel 97, Georgia 75",
+   "detected_at": "2026-08-08 18:07:13",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-07/Georgia-at-Israel/526279"
+  },
+  {
+   "detail": "National Teams Latvia 82, Italy 70",
+   "detected_at": "2026-08-08 18:07:11",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-07/Latvia-at-Italy/526274"
+  },
+  {
+   "detail": "National Teams Turkey 102, Czech Republic 74",
+   "detected_at": "2026-08-08 18:07:08",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-07/Czech-Republic-at-Turkey/526273"
+  },
+  {
+   "detail": "National Teams Lithuania 95, Serbia 79",
+   "detected_at": "2026-08-08 18:07:06",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-07/Lithuania-at-Serbia/526268"
+  },
+  {
+   "detail": "National Teams Slovakia 88, Montenegro 77",
+   "detected_at": "2026-08-08 18:07:04",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-07/Montenegro-at-Slovakia/526320"
+  },
+  {
+   "detail": "National Teams Ireland 68, Portugal 61",
+   "detected_at": "2026-08-08 18:07:01",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-07/Ireland-at-Portugal/526321"
+  },
+  {
+   "detail": "National Teams Croatia 107, Cyprus 33",
+   "detected_at": "2026-08-08 18:06:59",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-07/Cyprus-at-Croatia/526331"
+  },
+  {
+   "detail": "National Teams Ukraine 72, Switzerland 51",
+   "detected_at": "2026-08-08 18:06:57",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-07/Switzerland-at-Ukraine/526332"
+  },
+  {
+   "detail": "National Teams Hungary 75, Austria 63",
+   "detected_at": "2026-08-08 18:06:54",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-07/Austria-at-Hungary/526361"
+  },
+  {
+   "detail": "National Teams Estonia 89, Denmark 82",
+   "detected_at": "2026-08-08 18:06:52",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-07/Estonia-at-Denmark/526360"
+  },
+  {
+   "detail": "National Teams Bulgaria 80, Norway 65",
+   "detected_at": "2026-08-08 18:06:50",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-07/Bulgaria-at-Norway/526348"
+  },
+  {
+   "detail": "National Teams Sweden 88, Bosnia and Herzegovina 75",
+   "detected_at": "2026-08-08 18:06:47",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-07/Bosnia-and-Herzegovina-at-Sweden/526347"
+  },
+  {
+   "detail": "National Teams Finland 85, Luxembourg 45",
+   "detected_at": "2026-08-08 18:06:45",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-07/Luxembourg-at-Finland/526346"
+  },
+  {
+   "detail": "National Teams Iceland 87, North Macedonia 75",
+   "detected_at": "2026-08-08 18:06:42",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-07/Iceland-at-North-Macedonia/526333"
+  },
+  {
+   "detail": "National Teams Chad 59, Nigeria 50",
+   "detected_at": "2026-08-08 18:06:40",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-07/Nigeria-at-Chad/527558"
+  },
+  {
+   "detail": "National Teams Ivory Coast 89, Egypt 62",
+   "detected_at": "2026-08-08 18:06:38",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-07/Egypt-at-Ivory-Coast/527559"
+  },
+  {
+   "detail": "National Teams Mali 113, Gabon 37",
+   "detected_at": "2026-08-08 18:06:35",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-07/Gabon-at-Mali/527564"
+  },
+  {
+   "detail": "National Teams Madagascar 59, Morocco 48",
+   "detected_at": "2026-08-08 18:06:33",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-07/Morocco-at-Madagascar/527565"
+  },
+  {
+   "detail": "National Teams Lithuania 83, Poland 66",
+   "detected_at": "2026-08-08 18:06:30",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-08/Poland-at-Lithuania/526269"
+  },
+  {
+   "detail": "National Teams France 85, Belgium 61",
+   "detected_at": "2026-08-08 18:06:27",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-08/France-at-Belgium/526287"
+  },
+  {
+   "detail": "National Teams Israel 89, Greece 84",
+   "detected_at": "2026-08-08 18:06:25",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-08/Israel-at-Greece/526281"
+  },
+  {
+   "detail": "National Teams Latvia 88, Turkey 63",
+   "detected_at": "2026-08-08 18:06:23",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-08/Turkey-at-Latvia/526276"
+  },
+  {
+   "detail": "National Teams Czech Republic 110, Italy 77",
+   "detected_at": "2026-08-08 18:06:20",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-08/Italy-at-Czech-Republic/526275"
+  },
+  {
+   "detail": "National Teams Romania 75, Serbia 73",
+   "detected_at": "2026-08-08 18:06:18",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-08/Serbia-at-Romania/526270"
+  },
+  {
+   "detail": "National Teams Ireland 96, Slovakia 67",
+   "detected_at": "2026-08-08 18:06:16",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-08/Slovakia-at-Ireland/526322"
+  },
+  {
+   "detail": "National Teams Netherlands 66, Portugal 48",
+   "detected_at": "2026-08-08 18:06:13",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-08/Portugal-at-Netherlands/526323"
+  },
+  {
+   "detail": "National Teams Iceland 96, Switzerland 52",
+   "detected_at": "2026-08-08 18:06:11",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-08/Iceland-at-Switzerland/526334"
+  },
+  {
+   "detail": "National Teams Austria 79, Denmark 62",
+   "detected_at": "2026-08-08 18:06:08",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-08/Denmark-at-Austria/526363"
+  },
+  {
+   "detail": "National Teams Great Britain 71, Hungary 66",
+   "detected_at": "2026-08-08 18:06:06",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-08/Hungary-at-Great-Britain/526362"
+  },
+  {
+   "detail": "National Teams Finland 98, Sweden 79",
+   "detected_at": "2026-08-08 18:06:04",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-08/Sweden-at-Finland/526350"
+  },
+  {
+   "detail": "National Teams Norway 88, Luxembourg 54",
+   "detected_at": "2026-08-08 18:06:01",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-08/Norway-at-Luxembourg/526349"
+  },
+  {
+   "detail": "National Teams Croatia 112, North Macedonia 57",
+   "detected_at": "2026-08-08 18:05:59",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-08/North-Macedonia-at-Croatia/526335"
+  },
+  {
+   "detail": "National Teams Cameroon 76, Rwanda 58",
+   "detected_at": "2026-08-08 18:05:57",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-08/Rwanda-at-Cameroon/527570"
+  },
+  {
+   "detail": "National Teams Senegal 55, Tunisia 34",
+   "detected_at": "2026-08-08 18:05:54",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-08/Senegal-at-Tunisia/527571"
+  },
+  {
    "detail": "Matt Mooney  ~ team: Leones de Ponce -> Free agent",
    "detected_at": "2026-08-08 17:49:54",
    "source": "WIKI",
@@ -8977,825 +9880,6 @@
    "detected_at": "2026-07-27 07:39:55",
    "source": "DOCS",
    "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Harrison Ingram Utah Jazz",
-   "detected_at": "2026-07-27 07:39:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  26-27 $2,449,421",
-   "detected_at": "2026-07-27 07:39:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Minimum Salary Exception. Skill; Injury or Illness; Mental; Death. Love of the Game. Physical Exam. Alt. 7(b).",
-   "detected_at": "2026-07-27 07:39:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 7/1/26",
-   "detected_at": "2026-07-27 07:39:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "UTH  + ADDED  Ingram, Harrison",
-   "detected_at": "2026-07-27 07:36:01",
-   "source": "SHEETS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "UTH  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 190272499.4 -> 192721920.4, col9: 564865050.1 -> 567314471.1",
-   "detected_at": "2026-07-27 07:36:01",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "UTH  CHANGED Players Under Contract  -  col3: 178017267.4 -> 180466688.4",
-   "detected_at": "2026-07-27 07:36:01",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "UTH  CHANGED Full Season Contracts  -  col3: 178017267.4 -> 180466688.4",
-   "detected_at": "2026-07-27 07:36:01",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "UTH  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 15 -> 16",
-   "detected_at": "2026-07-27 07:36:01",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "HOU  + ADDED  Phillips, Julian",
-   "detected_at": "2026-07-27 07:34:58",
-   "source": "SHEETS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "HOU  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 214981262 -> 217430683, col9: 598684995.3 -> 601134416.3",
-   "detected_at": "2026-07-27 07:34:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "HOU  CHANGED Players Under Contract  -  col3: 202998462 -> 205447883",
-   "detected_at": "2026-07-27 07:34:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "HOU  CHANGED Full Season Contracts  -  col3: 202998462 -> 205447883",
-   "detected_at": "2026-07-27 07:34:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "HOU  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 15 -> 16",
-   "detected_at": "2026-07-27 07:34:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col12: 2570462 -> 5019883",
-   "detected_at": "2026-07-27 07:34:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED 1st Incremental Tax Bracket  -  col12: 2570462 -> 5019883",
-   "detected_at": "2026-07-27 07:34:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col12: 2570462 -> 5019883",
-   "detected_at": "2026-07-27 07:34:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Julian Phill New Orleans Pelicans",
-   "detected_at": "2026-07-27 07:33:55",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Julian Phillips Houston Rockets",
-   "detected_at": "2026-07-27 07:33:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp.",
-   "detected_at": "2026-07-27 07:33:55",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Execution Date: 7/25/26",
-   "detected_at": "2026-07-27 07:33:55",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
-   "detected_at": "2026-07-27 07:33:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 7/24/26",
-   "detected_at": "2026-07-27 07:33:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Update 1.3 (7/18/26): K. Bufkin, M. Cisse, I. Crawford, L. James, J. Tate, J. Walsh",
-   "detected_at": "2026-07-27 07:32:56",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Update 1.3 (7/18/26): K. Bufkin, M. Cisse, I. Crawford, L. James, J. Phillips, J. Tate, J. Walsh",
-   "detected_at": "2026-07-27 07:32:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Julian Phill New Orleans Pelicans",
-   "detected_at": "2026-07-27 07:32:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  26-27 $2,537,526",
-   "detected_at": "2026-07-27 07:32:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp.",
-   "detected_at": "2026-07-27 07:32:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 7/25/26",
-   "detected_at": "2026-07-27 07:32:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Minimum Salary Exception. Team option to extend the contract to include the 2027-28 Season. Player Trade Consent. Skill; Injury or Illness. Compensation protection for 2026-27 Season is none but will increase to full if team has not requested waivers on player on or before 1 day prior to the first day of the 2026-27 Season. Compensation protection for 2027-28 Season is none but will increase to full if team has not requested waivers on player on or before 1 day prior to the first day of the 2027-28 Season. Love of the Game. Physical Exam. Alt. 7(b).",
-   "detected_at": "2026-07-27 07:31:56",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Execution Date: 7/8/26",
-   "detected_at": "2026-07-27 07:31:56",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp.",
-   "detected_at": "2026-07-27 07:31:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 7/25/26",
-   "detected_at": "2026-07-27 07:31:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Update 1.3 (7/18/26): M. Cisse, I. Crawford, L. James, J. Tate, J. Walsh",
-   "detected_at": "2026-07-27 07:30:55",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Update 1.3 (7/18/26): K. Bufkin, M. Cisse, I. Crawford, L. James, J. Tate, J. Walsh",
-   "detected_at": "2026-07-27 07:30:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Kobe Bufkin New Orleans Pelicans",
-   "detected_at": "2026-07-27 07:30:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  26-27 $2,537,526",
-   "detected_at": "2026-07-27 07:30:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Minimum Salary Exception. Team option to extend the contract to include the 2027-28 Season. Player Trade Consent. Skill; Injury or Illness. Compensation protection for 2026-27 Season is none but will increase to full if team has not requested waivers on player on or before 1 day prior to the first day of the 2026-27 Season. Compensation protection for 2027-28 Season is none but will increase to full if team has not requested waivers on player on or before 1 day prior to the first day of the 2027-28 Season. Love of the Game. Physical Exam. Alt. 7(b).",
-   "detected_at": "2026-07-27 07:30:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 7/8/26",
-   "detected_at": "2026-07-27 07:30:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "NOL  + ADDED  Bufkin, Kobe",
-   "detected_at": "2026-07-27 07:29:57",
-   "source": "SHEETS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "NOL  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 212938850.8 -> 215388271.8, col9: 466579805.5 -> 469029226.5",
-   "detected_at": "2026-07-27 07:29:57",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "NOL  CHANGED Players Under Contract  -  col3: 192207319.9 -> 194656740.9",
-   "detected_at": "2026-07-27 07:29:57",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "NOL  CHANGED Full Season Contracts  -  col3: 192207319.9 -> 194656740.9",
-   "detected_at": "2026-07-27 07:29:57",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "NOL  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 14 -> 15",
-   "detected_at": "2026-07-27 07:29:57",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "NOL  CHANGED Avg, Salary (Mean) (No 10-Day K's)  -  col6: 1 -> 0",
-   "detected_at": "2026-07-27 07:29:57",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "2026-27 Two-Way Signings  + ADDED  John Tonje Portland Trail Blazers",
-   "detected_at": "2026-07-27 07:28:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Two-Way Signings  + ADDED  2 Years. Skill; Injury or Illness; Mental. Compensation protection for 2026-27 Season is for $91,000. Compensation protection for 2027-28 Season is none. Love of the Game. Physical Exam. Alt. 7(b).",
-   "detected_at": "2026-07-27 07:28:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Two-Way Signings  + ADDED  Execution Date: 7/24/26",
-   "detected_at": "2026-07-27 07:28:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Two-Way Signings  - REMOVED Update 1.3 (7/18/26): V. Goldin, D. Jones Garcia, J. Slawson, J. Wilson",
-   "detected_at": "2026-07-27 07:27:56",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Two-Way Signings  + ADDED  Update 1.3 (7/18/26): V. Goldin, D. Jones Garcia, J. Slawson, J. Tonje, J. Wilson",
-   "detected_at": "2026-07-27 07:27:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED 2 Years for $7,946,884. Minimum Salary Exception. Advance Payment ($596,017). Player option to extend the contract to include the 2027-28 Season.",
-   "detected_at": "2026-07-27 07:24:56",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Skill; Injury or Illness. Love of the Game. Physical Exam. Alt. 7(b).",
-   "detected_at": "2026-07-27 07:24:56",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Execution Date: 7/10/26",
-   "detected_at": "2026-07-27 07:24:56",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  2 Years for $7,946,884. Minimum Salary Exception. Advance Payment ($596,017). Player option to extend the contract to include the 2027-28 Season. Skill; Injury or Illness; Mental; Death. Trade Kicker (15%). Love of the Game. Physical Exam. Alt. 7(b).",
-   "detected_at": "2026-07-27 07:24:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 7/26/26",
-   "detected_at": "2026-07-27 07:24:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED 2 Years for $7,946,884. Minimum Salary Exception. Advance Payment ($596,",
-   "detected_at": "2026-07-27 07:22:56",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  2 Years for $7,946,884. Minimum Salary Exception. Advance Payment ($596,017). Player option to extend the contract to include the 2027-28 Season.",
-   "detected_at": "2026-07-27 07:22:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  LeBron James Philadelphia 76ers",
-   "detected_at": "2026-07-27 07:21:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  26-27 $3,876,529",
-   "detected_at": "2026-07-27 07:21:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  27-28 $4,070,355 (Player Option)",
-   "detected_at": "2026-07-27 07:21:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  2 Years for $7,946,884. Minimum Salary Exception. Advance Payment ($596,",
-   "detected_at": "2026-07-27 07:21:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Skill; Injury or Illness. Love of the Game. Physical Exam. Alt. 7(b).",
-   "detected_at": "2026-07-27 07:21:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 7/10/26",
-   "detected_at": "2026-07-27 07:21:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "PHL  + ADDED  James, LeBron",
-   "detected_at": "2026-07-27 07:18:58",
-   "source": "SHEETS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "PHL  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 216087697.3 -> 219964226.3, col4: 207255956.5 -> 211326311.5, col9: 651507650.7 -> 659454534.7",
-   "detected_at": "2026-07-27 07:18:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "PHL  CHANGED Players Under Contract  -  col3: 204369202.3 -> 208245731.3, col4: 207255956.5 -> 211326311.5",
-   "detected_at": "2026-07-27 07:18:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "PHL  CHANGED Full Season Contracts  -  col3: 204369202.3 -> 208245731.3, col4: 207255956.5 -> 211326311.5",
-   "detected_at": "2026-07-27 07:18:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "PHL  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 14 -> 15",
-   "detected_at": "2026-07-27 07:18:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "PHL  CHANGED Avg, Salary (Mean) (No 10-Day K's)  -  col6: 1 -> 0",
-   "detected_at": "2026-07-27 07:18:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  Luxury Tax Calculator: 3941202.3 -> 7817731.3",
-   "detected_at": "2026-07-27 07:18:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED 1st Incremental Tax Bracket  -  Luxury Tax Calculator: 3941202.3 -> 5685000",
-   "detected_at": "2026-07-27 07:18:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED 2nd Incremental Tax Bracket  -  Luxury Tax Calculator: 0 -> 2665914.125",
-   "detected_at": "2026-07-27 07:18:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  Luxury Tax Calculator: 3941202.3 -> 8350914.125",
-   "detected_at": "2026-07-27 07:18:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Update 1.3 (7/18/26): M. Cisse, I. Crawford, J. Tate, J. Walsh",
-   "detected_at": "2026-07-27 07:17:55",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Update 1.3 (7/18/26): M. Cisse, I. Crawford, L. James, J. Tate, J. Walsh",
-   "detected_at": "2026-07-27 07:17:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "MEM  CHANGED Caldwell-Pope, Kentavious  -  TEAM SALARY CAP REPORT\n       -  MEMPHIS GRIZZLIES: 1 - FULL SEASON -> 7 - WAIVED, col3: 21621500.0 -> 17744971.0, col9: 21621500 -> 17744971",
-   "detected_at": "2026-07-27 07:09:00",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "MEM  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 163549352.9 -> 159672823.9, col9: 352054367.8 -> 348177838.8",
-   "detected_at": "2026-07-27 07:09:00",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "MEM  CHANGED Players Under Contract  -  col3: 155638542.9 -> 134017042.9",
-   "detected_at": "2026-07-27 07:09:00",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "MEM  CHANGED Full Season Contracts  -  col3: 155638542.9 -> 134017042.9",
-   "detected_at": "2026-07-27 07:09:00",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "MEM  CHANGED Waived Contracts  -  col3: 4164050 -> 21909021",
-   "detected_at": "2026-07-27 07:09:00",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "MEM  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 19 -> 18",
-   "detected_at": "2026-07-27 07:09:00",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "New Zealand NBL ★ 1. Sean Bairstow 31.0 — 27p 8r 4a 23.5m (Aukland Tuatara)",
-   "detected_at": "2026-07-26 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP1",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-07-26/Taranaki-Mountain-Airs-at-Aukland-Tuatara/518405"
-  },
-  {
-   "detail": "New Zealand NBL 2. Dylan Wilkie 22.4 — 16p 5r 0a 15.9m (Aukland Tuatara)",
-   "detected_at": "2026-07-26 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP2",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-07-26/Taranaki-Mountain-Airs-at-Aukland-Tuatara/518405"
-  },
-  {
-   "detail": "New Zealand NBL 3. Robert Loe 21.5 — 10p 9r 9a 31.4m (Aukland Tuatara)",
-   "detected_at": "2026-07-26 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP3",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-07-26/Taranaki-Mountain-Airs-at-Aukland-Tuatara/518405"
-  },
-  {
-   "detail": "New Zealand NBL 4. Taane Samuel 19.1 — 26p 6r 3a 33.4m (Taranaki Mountain Airs, lost)",
-   "detected_at": "2026-07-26 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP4",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-07-26/Taranaki-Mountain-Airs-at-Aukland-Tuatara/518405"
-  },
-  {
-   "detail": "New Zealand NBL 5. Zach Riley 14.0 — 9p 5r 2a 24.2m (Aukland Tuatara)",
-   "detected_at": "2026-07-26 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP5",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-07-26/Taranaki-Mountain-Airs-at-Aukland-Tuatara/518405"
-  },
-  {
-   "detail": "New Zealand NBL ★ 1. Jack Andrew 36.2 — 23p 3r 2a 26.8m (Canterbury Rams)",
-   "detected_at": "2026-07-26 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP1",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-07-26/Franklin-Bulls-at-Canterbury-Rams/518406"
-  },
-  {
-   "detail": "New Zealand NBL 2. Walter Brown 32.6 — 18p 5r 5a 26.9m (Canterbury Rams)",
-   "detected_at": "2026-07-26 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP2",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-07-26/Franklin-Bulls-at-Canterbury-Rams/518406"
-  },
-  {
-   "detail": "New Zealand NBL 3. Ihaka Cate 21.3 — 9p 3r 6a 26.9m (Canterbury Rams)",
-   "detected_at": "2026-07-26 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP3",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-07-26/Franklin-Bulls-at-Canterbury-Rams/518406"
-  },
-  {
-   "detail": "New Zealand NBL 4. Milan Newton 17.0 — 11p 2r 4a 22.4m (Canterbury Rams)",
-   "detected_at": "2026-07-26 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP4",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-07-26/Franklin-Bulls-at-Canterbury-Rams/518406"
-  },
-  {
-   "detail": "New Zealand NBL 5. Jake Holmes 16.4 — 10p 5r 3a 28.2m (Canterbury Rams)",
-   "detected_at": "2026-07-26 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP5",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-07-26/Franklin-Bulls-at-Canterbury-Rams/518406"
-  },
-  {
-   "detail": "Canadian Elite Basketball League ★ 1. Khalil Ahmad 48.5 — 31p 6r 6a 35.3m (Niagara River Lions)",
-   "detected_at": "2026-07-26 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP1",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-07-26/Ottawa-Blackjacks-at-Niagara-River-Lions/520471"
-  },
-  {
-   "detail": "Canadian Elite Basketball League 2. Javonte Smart 25.7 — 30p 5r 8a 27.9m (Ottawa Blackjacks, lost)",
-   "detected_at": "2026-07-26 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP2",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-07-26/Ottawa-Blackjacks-at-Niagara-River-Lions/520471"
-  },
-  {
-   "detail": "Canadian Elite Basketball League 3. Keonte Kennedy 18.9 — 14p 5r 5a 32.2m (Niagara River Lions)",
-   "detected_at": "2026-07-26 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP3",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-07-26/Ottawa-Blackjacks-at-Niagara-River-Lions/520471"
-  },
-  {
-   "detail": "Canadian Elite Basketball League 4. Munis Tutu 18.9 — 10p 7r 4a 23.1m (Niagara River Lions)",
-   "detected_at": "2026-07-26 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP4",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-07-26/Ottawa-Blackjacks-at-Niagara-River-Lions/520471"
-  },
-  {
-   "detail": "Canadian Elite Basketball League 5. Nathan Cayo 16.6 — 16p 8r 2a 34.0m (Niagara River Lions)",
-   "detected_at": "2026-07-26 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP5",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-07-26/Ottawa-Blackjacks-at-Niagara-River-Lions/520471"
-  },
-  {
-   "detail": "Canadian Elite Basketball League ★ 1. Quincy Guerrier 23.1 — 32p 12r 0a 32.1m (Montreal Alliance, lost)",
-   "detected_at": "2026-07-26 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP1",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-07-26/Montreal-Alliance-at-Scarborough-Shooting-Stars/520472"
-  },
-  {
-   "detail": "Canadian Elite Basketball League 2. Javan Johnson 19.4 — 18p 3r 1a 28.4m (Scarborough Shooting Stars)",
-   "detected_at": "2026-07-26 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP2",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-07-26/Montreal-Alliance-at-Scarborough-Shooting-Stars/520472"
-  },
-  {
-   "detail": "Canadian Elite Basketball League 3. Jack Hemphill 18.2 — 20p 11r 3a 25.7m (Montreal Alliance, lost)",
-   "detected_at": "2026-07-26 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP3",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-07-26/Montreal-Alliance-at-Scarborough-Shooting-Stars/520472"
-  },
-  {
-   "detail": "Canadian Elite Basketball League 4. Kellen Tynes 17.4 — 11p 2r 2a 18.2m (Scarborough Shooting Stars)",
-   "detected_at": "2026-07-26 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP4",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-07-26/Montreal-Alliance-at-Scarborough-Shooting-Stars/520472"
-  },
-  {
-   "detail": "Canadian Elite Basketball League 5. Myles Powell 15.1 — 20p 4r 6a 30.9m (Scarborough Shooting Stars)",
-   "detected_at": "2026-07-26 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP5",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-07-26/Montreal-Alliance-at-Scarborough-Shooting-Stars/520472"
-  },
-  {
-   "detail": "Mexican LNBP ★ 1. Alphonso Anderson 31.5 — 27p 7r 1a 29.1m (Fuerza Regia)",
-   "detected_at": "2026-07-26 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP1",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-07-26/Soles-at-Fuerza-Regia/525496"
-  },
-  {
-   "detail": "Mexican LNBP 2. Avry Holmes 15.5 — 9p 8r 9a 34.2m (Fuerza Regia)",
-   "detected_at": "2026-07-26 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP2",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-07-26/Soles-at-Fuerza-Regia/525496"
-  },
-  {
-   "detail": "Mexican LNBP 3. Daniel Bejerano 14.9 — 6p 9r 2a 30.7m (Fuerza Regia)",
-   "detected_at": "2026-07-26 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP3",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-07-26/Soles-at-Fuerza-Regia/525496"
-  },
-  {
-   "detail": "Mexican LNBP 4. Fabian Jaimes 14.2 — 8p 5r 0a 15.8m (Fuerza Regia)",
-   "detected_at": "2026-07-26 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP4",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-07-26/Soles-at-Fuerza-Regia/525496"
-  },
-  {
-   "detail": "Mexican LNBP 5. Wayne Langston 13.9 — 15p 3r 2a 31.2m (Fuerza Regia)",
-   "detected_at": "2026-07-26 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP5",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-07-26/Soles-at-Fuerza-Regia/525496"
-  },
-  {
-   "detail": "PBA Governors Cup ★ 1. DeQuan Jones 26.1 — 27p 10r 1a 31.3m (NLEX Road Warriors)",
-   "detected_at": "2026-07-26 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP1",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-07-26/San-Miguel-Beermen-at-NLEX-Road-Warriors/526205"
-  },
-  {
-   "detail": "PBA Governors Cup 2. Deschon Winston 25.4 — 24p 4r 4a 34.8m (NLEX Road Warriors)",
-   "detected_at": "2026-07-26 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP2",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-07-26/San-Miguel-Beermen-at-NLEX-Road-Warriors/526205"
-  },
-  {
-   "detail": "PBA Governors Cup 3. Robert Bolick 20.4 — 14p 9r 12a 38.0m (NLEX Road Warriors)",
-   "detected_at": "2026-07-26 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP3",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-07-26/San-Miguel-Beermen-at-NLEX-Road-Warriors/526205"
-  },
-  {
-   "detail": "PBA Governors Cup 4. Robbie Herndon 16.2 — 13p 5r 0a 22.2m (NLEX Road Warriors)",
-   "detected_at": "2026-07-26 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP4",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-07-26/San-Miguel-Beermen-at-NLEX-Road-Warriors/526205"
-  },
-  {
-   "detail": "PBA Governors Cup 5. Anthony Semerad 15.7 — 15p 3r 0a 35.2m (NLEX Road Warriors)",
-   "detected_at": "2026-07-26 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP5",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-07-26/San-Miguel-Beermen-at-NLEX-Road-Warriors/526205"
-  },
-  {
-   "detail": "PBA Governors Cup ★ 1. Aaron Fuller 45.4 — 37p 12r 5a 38.7m (Rain or Shine Elasto Painters)",
-   "detected_at": "2026-07-26 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP1",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-07-26/Rain-or-Shine-Elasto-Painters-at-Barangay-Ginebra-Kings/526206"
-  },
-  {
-   "detail": "PBA Governors Cup 2. Caelan Tiongson 23.8 — 21p 5r 1a 31.0m (Rain or Shine Elasto Painters)",
-   "detected_at": "2026-07-26 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP2",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-07-26/Rain-or-Shine-Elasto-Painters-at-Barangay-Ginebra-Kings/526206"
-  },
-  {
-   "detail": "PBA Governors Cup 3. Riley Grigsby 17.3 — 25p 9r 5a 46.2m (Barangay Ginebra Kings, lost)",
-   "detected_at": "2026-07-26 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP3",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-07-26/Rain-or-Shine-Elasto-Painters-at-Barangay-Ginebra-Kings/526206"
-  },
-  {
-   "detail": "PBA Governors Cup 4. Jhonard Clarito 16.5 — 13p 7r 2a 27.3m (Rain or Shine Elasto Painters)",
-   "detected_at": "2026-07-26 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP4",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-07-26/Rain-or-Shine-Elasto-Painters-at-Barangay-Ginebra-Kings/526206"
-  },
-  {
-   "detail": "PBA Governors Cup 5. Adrian Nocum 9.9 — 13p 3r 10a 33.7m (Rain or Shine Elasto Painters)",
-   "detected_at": "2026-07-26 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP5",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-07-26/Rain-or-Shine-Elasto-Painters-at-Barangay-Ginebra-Kings/526206"
-  },
-  {
-   "detail": "Puerto Rican BSN ★ 1. Travis Trice 34.0 — 26p 4r 7a 33.0m (Criollos de Caguas)",
-   "detected_at": "2026-07-26 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP1",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-07-26/Criollos-de-Caguas-at-Vaqueros-de-Bayamon/526587"
-  },
-  {
-   "detail": "Puerto Rican BSN 2. Louis King 30.2 — 24p 9r 4a 34.7m (Criollos de Caguas)",
-   "detected_at": "2026-07-26 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP2",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-07-26/Criollos-de-Caguas-at-Vaqueros-de-Bayamon/526587"
-  },
-  {
-   "detail": "Puerto Rican BSN 3. Moses Brown 17.9 — 9p 5r 2a 24.4m (Criollos de Caguas)",
-   "detected_at": "2026-07-26 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP3",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-07-26/Criollos-de-Caguas-at-Vaqueros-de-Bayamon/526587"
-  },
-  {
-   "detail": "Puerto Rican BSN 4. Jassel Perez 16.8 — 15p 5r 6a 31.4m (Vaqueros de Bayamon, lost)",
-   "detected_at": "2026-07-26 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP4",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-07-26/Criollos-de-Caguas-at-Vaqueros-de-Bayamon/526587"
-  },
-  {
-   "detail": "Puerto Rican BSN 5. Hiram Huertas 14.8 — 9p 3r 0a 19.3m (Criollos de Caguas)",
-   "detected_at": "2026-07-26 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP5",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-07-26/Criollos-de-Caguas-at-Vaqueros-de-Bayamon/526587"
-  },
-  {
-   "detail": "Lebanese Division A ★ 1. Amir Saoud 23.2 — 21p 5r 4a 26.6m (Sporting Al Riyadi Beirut)",
-   "detected_at": "2026-07-26 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP1",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-07-26/Sagesse-Al-Hekmeh-Beirut-at-Sporting-Al-Riyadi-Beirut/526595"
-  },
-  {
-   "detail": "Lebanese Division A 2. Ronald March, Jr. 17.4 — 22p 3r 2a 34.2m (Sporting Al Riyadi Beirut)",
-   "detected_at": "2026-07-26 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP2",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-07-26/Sagesse-Al-Hekmeh-Beirut-at-Sporting-Al-Riyadi-Beirut/526595"
-  },
-  {
-   "detail": "Lebanese Division A 3. Hayk Gyokchyan 17.2 — 12p 5r 4a 27.4m (Sporting Al Riyadi Beirut)",
-   "detected_at": "2026-07-26 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP3",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-07-26/Sagesse-Al-Hekmeh-Beirut-at-Sporting-Al-Riyadi-Beirut/526595"
-  },
-  {
-   "detail": "Lebanese Division A 4. Dusan Miletic 13.8 — 9p 12r 0a 30.8m (Sporting Al Riyadi Beirut)",
-   "detected_at": "2026-07-26 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP4",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-07-26/Sagesse-Al-Hekmeh-Beirut-at-Sporting-Al-Riyadi-Beirut/526595"
-  },
-  {
-   "detail": "Lebanese Division A 5. Sekou Doumbouya 13.2 — 25p 5r 3a 37.8m (Sagesse Al Hekmeh Beirut, lost)",
-   "detected_at": "2026-07-26 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP5",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-07-26/Sagesse-Al-Hekmeh-Beirut-at-Sporting-Al-Riyadi-Beirut/526595"
-  },
-  {
-   "detail": "PHL  - REMOVED Terry, Dalen",
-   "detected_at": "2026-07-26 16:16:57",
-   "source": "SHEETS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "PHL  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 218672236.3 -> 216087697.3, col9: 654092189.7 -> 651507650.7",
-   "detected_at": "2026-07-26 16:16:57",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "PHL  CHANGED Players Under Contract  -  col3: 206953741.3 -> 204369202.3",
-   "detected_at": "2026-07-26 16:16:57",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -9812,8 +9896,12 @@
    "last": "2026-08-07 23:59:59"
   },
   "REALGM": {
-   "count": 13,
-   "last": "2026-08-08 17:34:56"
+   "count": 17,
+   "last": "2026-08-08 18:10:31"
+  },
+  "SCORES": {
+   "count": 125,
+   "last": "2026-08-08 18:11:03"
   },
   "SHEETS": {
    "count": 3332,
@@ -9828,6 +9916,6 @@
    "last": "2026-08-08 17:49:54"
   }
  },
- "generated_at": "2026-08-08T17:49:55",
- "total": 6989
+ "generated_at": "2026-08-08T18:12:48",
+ "total": 7118
 }
