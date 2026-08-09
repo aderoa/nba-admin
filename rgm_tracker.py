@@ -96,6 +96,25 @@ os.makedirs(SNAP, exist_ok=True)
 STATE = os.path.join(SNAP, "rgm_state.json")
 LOG = os.path.join(SNAP, "rgm_log.csv")
 
+# Box-score lines, written for whatever rates them later.
+#
+# This tracker already fetches every box score and parses every line, then keeps
+# only the movement. Writing the lines out as well costs one file append and
+# saves a second pass over the same pages -- and it means a league that appears
+# for the first time is picked up automatically, because the tracker reads the
+# whole day rather than filtering to leagues it already knows.
+#
+# RAW FIGURES ONLY. No rating is computed here and none may be: this file lives
+# in a public repo, and the formula must not be importable from it.
+GR_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "nba_rgm_gr")
+GR_COLS = ["game_id", "date", "section", "league", "phase", "team", "opp", "won",
+           "player", "player_id", "min", "pts", "reb", "ast", "stl", "blk",
+           "tov", "pf", "fgm", "fga", "ftm", "fta", "oreb", "poss", "url"]
+# Shared with rgm_gr.py: one record of what entered the rating cache, whichever
+# side put it there. The viewer reads it to say which games are new.
+ADDED_COLS = ["added_at", "source", "section", "league", "phase", "date",
+              "game_id", "teams", "score", "lines"]
+
 # Site-wide and identical in every section, which is what makes one tracker
 # possible: DeWanna Bonner is 3000014 and A.J. Slaughter is 10169, in the same
 # id space, so a player is the same person wherever he or she turns up.
@@ -115,6 +134,7 @@ PLAYER_RE = re.compile(r"/player/([^/]+)/Summary/(\d+)", re.I)
 SECTIONS = {
     "international": {
         "index_suffix": "/All",
+        "movement": True,
         "team_re": re.compile(
             r"/international/league/(\d+)/([^/]+)/team/(\d+)/([^/?#]+)", re.I),
         "league": None,          # taken from the href
@@ -123,6 +143,23 @@ SECTIONS = {
         "index_suffix": "",
         "team_re": re.compile(r"/wnba/teams/([^/]+)/(\d+)/", re.I),
         "league": "WNBA",
+        "movement": True,
+    },
+    "national": {
+        "index_suffix": "",
+        # The href shape here is unconfirmed, and it does not have to be: when
+        # no team link matches, the team name is taken from the url slug
+        # ("Spain-at-France"), which every section provides. A better regex only
+        # improves the label.
+        "team_re": re.compile(r"/national/(?:team|nation|teams)/([^/]+)/(\d+)", re.I),
+        "league": "National Teams",
+        # MOVEMENT IS OFF FOR NATIONAL GAMES, and this is the whole reason the
+        # flag exists. A player turning out for Spain has not left his club: fed
+        # to the movement logic, every EuroBasket squad would log as a transfer
+        # to "Spain" and then a transfer back a fortnight later. Scores and
+        # ratings are unaffected -- those are properties of the game, not of who
+        # employs anyone.
+        "movement": False,
     },
 }
 
@@ -205,6 +242,111 @@ def now():
     return datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
 
+def _n(v, d=0):
+    try:
+        return int(float(str(v).strip()))
+    except (TypeError, ValueError):
+        return d
+
+
+def write_gr_lines(section, date, gid, slug, league, phase, teams, url):
+    """
+    Append this game's lines to the rating cache.
+
+    Possessions are computed here because they come from the box score and
+    nothing else -- FGA, FTA, TOV and OREB, preferring the totals row so team
+    rebounds and team turnovers are not lost. That is arithmetic on published
+    figures, not a rating, and the distinction is the whole reason this can live
+    in a public file.
+    """
+    if len(teams) != 2:
+        return 0
+    try:
+        os.makedirs(GR_DIR, exist_ok=True)
+    except OSError:
+        return 0
+
+    def totals(t):
+        tot = t.get("totals") or {}
+        def pair(v):
+            m = re.match(r"^\s*(-?\d+)\s*-\s*(-?\d+)\s*$", str(v or ""))
+            return (int(m.group(1)), int(m.group(2))) if m else (0, 0)
+        _, fga = pair(tot.get("fgm-a"))
+        _, fta = pair(tot.get("ftm-a"))
+        d = {"fga": fga, "fta": fta, "tov": _n(tot.get("to")),
+             "oreb": _n(tot.get("off")), "pts": _n(tot.get("pts"))}
+        if not d["fga"]:
+            for p in t.get("players", []):
+                d["fga"] += _n(p.get("fga")); d["fta"] += _n(p.get("fta"))
+                d["tov"] += _n(p.get("tov")); d["oreb"] += _n(p.get("oreb"))
+                d["pts"] += _n(p.get("pts"))
+        return d
+
+    a, b = totals(teams[0]), totals(teams[1])
+    poss = ((a["fga"] + b["fga"]) - (a["oreb"] + b["oreb"])
+            + (a["tov"] + b["tov"]) + 0.44 * (a["fta"] + b["fta"])) / 2.0
+    if poss <= 0:
+        return 0
+    sc = [teams[0].get("score"), teams[1].get("score")]
+    if None in sc:
+        sc = [a["pts"], b["pts"]]
+
+    path = os.path.join(GR_DIR, f"lines_{section}_{date[:4]}.csv")
+    # Never write a game twice: the historical backfill writes to this same
+    # file, and the two must not double-count a day they both saw.
+    if os.path.exists(path):
+        try:
+            with open(path, encoding="utf-8") as f:
+                if any(r.get("game_id") == str(gid) for r in csv.DictReader(f)):
+                    return 0
+        except OSError:
+            pass
+    rows = []
+    for i, t in enumerate(teams):
+        won = (sc[0] > sc[1]) if i == 0 else (sc[1] > sc[0])
+        for p in t.get("players", []):
+            mins = p.get("min", "0")
+            m = re.match(r"^(\d+):(\d+)$", str(mins).strip())
+            mv = (int(m.group(1)) + int(m.group(2)) / 60.0) if m else _n(mins)
+            if mv <= 0:
+                continue
+            rows.append({"game_id": gid, "date": date, "section": section,
+                         "league": league, "phase": phase, "team": t["team"],
+                         "opp": teams[1 - i]["team"], "won": int(won),
+                         "player": p.get("name", ""), "player_id": p.get("id", ""),
+                         "min": round(mv, 2), "pts": _n(p.get("pts")),
+                         "reb": _n(p.get("reb")), "ast": _n(p.get("ast")),
+                         "stl": _n(p.get("stl")), "blk": _n(p.get("blk")),
+                         "tov": _n(p.get("tov")), "pf": _n(p.get("pf")),
+                         "fgm": _n(p.get("fgm")), "fga": _n(p.get("fga")),
+                         "ftm": _n(p.get("ftm")), "fta": _n(p.get("fta")),
+                         "oreb": _n(p.get("oreb")), "poss": round(poss, 3),
+                         "url": url})
+    if not rows:
+        return 0
+    new = not os.path.exists(path)
+    with open(path, "a", newline="", encoding="utf-8") as f:
+        w = csv.DictWriter(f, fieldnames=GR_COLS, extrasaction="ignore")
+        if new:
+            w.writeheader()
+        w.writerows(rows)
+    try:
+        ap = os.path.join(GR_DIR, "added.csv")
+        anew = not os.path.exists(ap)
+        with open(ap, "a", newline="", encoding="utf-8") as f:
+            w = csv.DictWriter(f, fieldnames=ADDED_COLS, extrasaction="ignore")
+            if anew:
+                w.writeheader()
+            w.writerow({"added_at": now(), "source": "tracker",
+                        "section": section, "league": league, "phase": phase,
+                        "date": date, "game_id": gid,
+                        "teams": f"{teams[0]['team']} v {teams[1]['team']}",
+                        "score": f"{sc[0]}-{sc[1]}", "lines": len(rows)})
+    except OSError:
+        pass
+    return len(rows)
+
+
 def append_log(rows):
     new = not os.path.exists(LOG)
     with open(LOG, "a", newline="", encoding="utf-8") as f:
@@ -245,6 +387,73 @@ def day_games(date, section="international"):
 
 # ---------------------------------------------------------------- box score
 
+PHASES = [
+    # POSTSEASON FIRST, then preseason, and only then regular season.
+    #
+    # Order is the whole trick. Almost every page mentions "Regular Season"
+    # somewhere -- a standings link, a nav item -- so testing for it first
+    # labelled the Puerto Rican and Lebanese finals as regular-season games.
+    # A page that says "Finals" or "Semifinals" is a postseason game whatever
+    # else it also says, so those are checked before the general case.
+    ("Championship Series", "playoffs"), ("Championship", "playoffs"),
+    ("Quarterfinals", "playoffs"), ("Quarter-Finals", "playoffs"),
+    ("Semifinals", "playoffs"), ("Semi-Finals", "playoffs"),
+    ("Playoffs", "playoffs"), ("Playoff", "playoffs"),
+    ("Postseason", "playoffs"), ("Post-Season", "playoffs"),
+    ("Finals", "playoffs"), ("Grand Final", "playoffs"),
+    ("Play-In", "playin"), ("Play In", "playin"),
+    ("Preseason", "preseason"), ("Pre-Season", "preseason"),
+    ("Exhibition", "exhibition"), ("Friendly", "exhibition"),
+    ("Qualifier", "qualifier"), ("Group Stage", "group"),
+    ("Regular Season", "regular"),
+]
+
+
+def game_phase(html):
+    """
+    Regular season, preseason, playoffs -- as RealGM labels it on the page.
+
+    Needed because a date range cannot tell them apart: the 2026 WNBA regular
+    season began on 8 May, and the games before it are preseason sitting in the
+    same index. Rating those alongside the real thing quietly pads everyone's
+    season. The label is in a table header on the box score, so it is read
+    rather than inferred from the calendar.
+    """
+    if not html:
+        return ""
+    # Only the game's own header area, not the whole page. Site navigation
+    # mentions every phase there is, so scanning further finds words that have
+    # nothing to do with this fixture. The header sits above the box score
+    # tables, so everything before the first <table> is the honest window.
+    cut = html.lower().find("<table")
+    # Always stop at the first table when there is one, however early it comes.
+    # A "cut > 400" guard meant a short header fell back to scanning the whole
+    # document, which reintroduced the very problem the cut exists to prevent:
+    # finding "Playoffs" in a standings table and calling a regular-season game
+    # a postseason one.
+    head = html[:cut] if cut > 0 else html[:20000]
+    txt = " ".join(re.sub(r"<[^>]+>", " ", head).split())
+    for label, key in PHASES:
+        if re.search(r"\b" + re.escape(label) + r"\b", txt, re.I):
+            return key
+    return ""
+
+
+def phase_words(html):
+    """Every phase-ish phrase on a page, for working out how a league labels
+    its postseason when game_phase comes back empty."""
+    if not html:
+        return []
+    txt = " ".join(re.sub(r"<[^>]+>", " ", html).split())
+    out = []
+    for label, _k in PHASES:
+        n = len(re.findall(r"\b" + re.escape(label) + r"\b", txt, re.I))
+        if n:
+            i = txt.lower().find(label.lower())
+            out.append((label, n, txt[max(0, i - 50):i + 50]))
+    return out
+
+
 def parse_box(html, slug, section="international"):
     """
     -> (league_id, league_name, [ {team, team_id, score, periods, players} ... ])
@@ -259,6 +468,10 @@ def parse_box(html, slug, section="international"):
     s = soup_of(html)
     parts = re.split(r"-at-", slug, maxsplit=1)
     want = [p.lower() for p in parts] if len(parts) == 2 else []
+    # The slug carries the proper case -- "Spain-at-France" -- and it is the only
+    # source of a team name when a section has no team links. Lowercasing for
+    # matching is fine; lowercasing the LABEL gave a board reading "spain".
+    want_raw = [p.replace("-", " ") for p in parts] if len(parts) == 2 else []
 
     def fold(x):
         return re.sub(r"[^a-z0-9]", "", (x or "").lower())
@@ -341,7 +554,8 @@ def parse_box(html, slug, section="international"):
         # slug is what names the team
         tslug = want[i] if i < len(want) else ""
         info = by_slug.get(re.sub(r"[^a-z0-9]", "", tslug))
-        team_name = info[3] if info else (tslug.replace("-", " ") or f"team{i+1}")
+        team_name = info[3] if info else (
+            (want_raw[i] if i < len(want_raw) else "") or f"team{i+1}")
         team_id = info[2] if info else ""
         idx = {h.lower(): j for j, h in enumerate(heads)}
         players = []
@@ -438,7 +652,10 @@ def ingest(dates, only_leagues=None, baseline=False, section="international"):
     state = load_state()
     players, games, done_dates = state["players"], state["games"], state["dates"]
     rows, n_new, n_games, n_base = [], 0, 0, 0
-    if not players and not baseline:
+    n_lines = 0
+    # A section that does not track movement cannot flood anything, so the
+    # warning would just be noise.
+    if not players and not baseline and SECTIONS[section].get("movement", True):
         print("\n  !! state is empty, so EVERY player will log as SIGNED -- the")
         print("     rosters of whole leagues, not signings. Stop, run with")
         print("     --baseline first, then drop the flag.\n")
@@ -446,7 +663,9 @@ def ingest(dates, only_leagues=None, baseline=False, section="international"):
     for date in dates:
         played, sched = day_games(date, section)
         print(f"\n{date} [{section}]: {len(played)} played, "
-              f"{len(sched)} scheduled")
+              f"{len(sched)} scheduled"
+              + ("" if SECTIONS[section].get("movement", True)
+                 else "   (movement off: national teams)"))
         if not played and not sched:
             print("  nothing listed")
             continue
@@ -466,11 +685,14 @@ def ingest(dates, only_leagues=None, baseline=False, section="international"):
                 games[gid] = {"date": date, "league": lname, "slug": slug, "section": section, "empty": 1}
                 continue
             n_games += 1
+            track_movement = SECTIONS[section].get("movement", True)
             tn = " / ".join(t["team"] for t in teams)
             sc = [t.get("score") for t in teams]
             res = f"  {sc[0]}-{sc[1]}" if len(sc) == 2 and None not in sc else ""
             print(f"  {gid}  {lname or '?'}: {tn}{res}")
             for t in teams:
+                if not track_movement:
+                    continue          # see SECTIONS[...]["movement"]
                 for p in t["players"]:
                     key = p["id"]
                     prev = players.get(key)
@@ -504,6 +726,8 @@ def ingest(dates, only_leagues=None, baseline=False, section="international"):
             # slug and section are stored so the box score url can be rebuilt
             # later without re-deriving it -- rgm_rating.py needs to revisit
             # these pages, and guessing the section would fetch the wrong one.
+            n_lines += write_gr_lines(section, date, gid, slug, lname,
+                                      game_phase(html), teams, box_url)
             games[gid] = {"date": date, "league": lname, "teams": tn,
                           "slug": slug, "section": section,
                           "score": [t.get("score") for t in teams],
@@ -521,6 +745,8 @@ def ingest(dates, only_leagues=None, baseline=False, section="international"):
 
     if rows:
         append_log(rows)
+    if n_lines:
+        print(f"  {n_lines} box-score line(s) cached for rating")
     print(f"\n{n_games} new game(s), {n_new} movement event(s)"
           + (f", {n_base} player(s) baselined (not logged)" if baseline else ""))
     for r in rows[:25]:
