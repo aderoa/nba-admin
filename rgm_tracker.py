@@ -399,7 +399,11 @@ PHASES = [
     # labelled the Puerto Rican and Lebanese finals as regular-season games.
     # A page that says "Finals" or "Semifinals" is a postseason game whatever
     # else it also says, so those are checked before the general case.
-    ("Championship Series", "playoffs"), ("Championship", "playoffs"),
+    ("Championship Series", "playoffs"),
+    # NOT bare "Championship": it is in the NAME of half the competitions in
+    # world basketball -- AmeriCup Championship, Asian Championship -- and
+    # matching it labelled a batch of February 2025 World Cup qualifiers as
+    # playoff games. A phase word has to describe a stage, not a tournament.
     ("Quarterfinals", "playoffs"), ("Quarter-Finals", "playoffs"),
     ("Semifinals", "playoffs"), ("Semi-Finals", "playoffs"),
     ("Playoffs", "playoffs"), ("Playoff", "playoffs"),
@@ -438,7 +442,10 @@ def game_phase(html):
     head = html[:cut] if cut > 0 else html[:20000]
     txt = " ".join(re.sub(r"<[^>]+>", " ", head).split())
     for label, key in PHASES:
-        if re.search(r"\b" + re.escape(label) + r"\b", txt, re.I):
+        # An optional plural, because pages say "Qualifiers" and the list says
+        # "Qualifier" -- and \b after the singular is blocked by the trailing s,
+        # so a whole tournament's worth of qualifying games came back unlabelled.
+        if re.search(r"\b" + re.escape(label) + r"s?\b", txt, re.I):
             return key
     return ""
 
@@ -451,7 +458,7 @@ def phase_words(html):
     txt = " ".join(re.sub(r"<[^>]+>", " ", html).split())
     out = []
     for label, _k in PHASES:
-        n = len(re.findall(r"\b" + re.escape(label) + r"\b", txt, re.I))
+        n = len(re.findall(r"\b" + re.escape(label) + r"s?\b", txt, re.I))
         if n:
             i = txt.lower().find(label.lower())
             out.append((label, n, txt[max(0, i - 50):i + 50]))
