@@ -1,6 +1,41 @@
 {
  "events": [
   {
+   "detail": "Canadian Elite Basketball League Winnipeg Sea Bears 107, Vancouver Bandits 96",
+   "detected_at": "2026-08-08 20:45:10",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-08/Winnipeg-Sea-Bears-at-Vancouver-Bandits/528541"
+  },
+  {
+   "detail": "Canadian Elite Basketball League Brampton Honey Badgers 91, Niagara River Lions 81",
+   "detected_at": "2026-08-08 20:45:08",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-08/Niagara-River-Lions-at-Brampton-Honey-Badgers/528540"
+  },
+  {
+   "detail": "PBA Governors Cup + Zhaojing Zhu → Macau Black Knights",
+   "detected_at": "2026-08-08 20:45:05",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "PBA Governors Cup San Miguel Beermen 131, Macau Black Knights 79",
+   "detected_at": "2026-08-08 20:45:05",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-08/San-Miguel-Beermen-at-Macau-Black-Knights/526224"
+  },
+  {
+   "detail": "PBA Governors Cup Talk N Text Tropang Texters 114, Titan Ultra Giant 80",
+   "detected_at": "2026-08-08 20:45:03",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-08/Titan-Ultra-Giant-at-Talk-N-Text-Tropang-Texters/526223"
+  },
+  {
    "detail": "Devin Williams (basketball)  ~ team: - -> Free agent",
    "detected_at": "2026-08-08 20:30:48",
    "source": "WIKI",
@@ -10132,41 +10167,6 @@
    "source": "RATINGS",
    "type": "TOP2",
    "url": "https://basketball.realgm.com/international/boxscore/2026-07-29/Titan-Ultra-Giant-at-San-Miguel-Beermen/526210"
-  },
-  {
-   "detail": "PBA Governors Cup 3. Celedonio Trollano 20.1 — 22p 5r 2a 25.4m (San Miguel Beermen)",
-   "detected_at": "2026-07-29 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP3",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-07-29/Titan-Ultra-Giant-at-San-Miguel-Beermen/526210"
-  },
-  {
-   "detail": "PBA Governors Cup 4. Joshua Munzon 14.2 — 25p 6r 5a 31.3m (Titan Ultra Giant, lost)",
-   "detected_at": "2026-07-29 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP4",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-07-29/Titan-Ultra-Giant-at-San-Miguel-Beermen/526210"
-  },
-  {
-   "detail": "PBA Governors Cup 5. Marcio Lassiter 12.9 — 13p 3r 3a 24.0m (San Miguel Beermen)",
-   "detected_at": "2026-07-29 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP5",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-07-29/Titan-Ultra-Giant-at-San-Miguel-Beermen/526210"
-  },
-  {
-   "detail": "Puerto Rican BSN ★ 1. Joel Soriano 44.6 — 32p 5r 2a 36.4m (Santeros de Aguada)",
-   "detected_at": "2026-07-29 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP1",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-07-29/Santeros-de-Aguada-at-Leones-de-Ponce/526590"
-  },
-  {
-   "detail": "Puerto Rican BSN 2. Rigoberto Mendoza 27.2 — 18p 10r 6a 32.3m (Santeros de Aguada)",
-   "detected_at": "2026-07-29 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP2",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-07-29/Santeros-de-Aguada-at-Leones-de-Ponce/526590"
   }
  ],
  "feeds": {
@@ -10183,12 +10183,12 @@
    "last": "2026-08-08 00:00:01"
   },
   "REALGM": {
-   "count": 17,
-   "last": "2026-08-08 18:10:31"
+   "count": 18,
+   "last": "2026-08-08 20:45:05"
   },
   "SCORES": {
-   "count": 125,
-   "last": "2026-08-08 18:11:03"
+   "count": 129,
+   "last": "2026-08-08 20:45:10"
   },
   "SHEETS": {
    "count": 3332,
@@ -10203,6 +10203,6 @@
    "last": "2026-08-08 20:30:48"
   }
  },
- "generated_at": "2026-08-08T20:30:49",
- "total": 7478
+ "generated_at": "2026-08-08T20:45:13",
+ "total": 7483
 }
