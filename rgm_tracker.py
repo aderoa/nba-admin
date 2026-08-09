@@ -108,8 +108,9 @@ LOG = os.path.join(SNAP, "rgm_log.csv")
 # in a public repo, and the formula must not be importable from it.
 GR_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "nba_rgm_gr")
 GR_COLS = ["game_id", "date", "section", "league", "phase", "team", "opp", "won",
-           "player", "player_id", "min", "pts", "reb", "ast", "stl", "blk",
-           "tov", "pf", "fgm", "fga", "ftm", "fta", "oreb", "poss", "url"]
+           "player", "player_id", "player_url", "min", "pts", "reb", "ast",
+           "stl", "blk", "tov", "pf", "fgm", "fga", "ftm", "fta", "oreb",
+           "poss", "url"]
 # Shared with rgm_gr.py: one record of what entered the rating cache, whichever
 # side put it there. The viewer reads it to say which games are new.
 ADDED_COLS = ["added_at", "source", "section", "league", "phase", "date",
@@ -314,6 +315,8 @@ def write_gr_lines(section, date, gid, slug, league, phase, teams, url):
                          "league": league, "phase": phase, "team": t["team"],
                          "opp": teams[1 - i]["team"], "won": int(won),
                          "player": p.get("name", ""), "player_id": p.get("id", ""),
+                         "player_url": (f"{BASE}/player/{p['slug']}/Summary/{p['id']}"
+                                        if p.get("slug") and p.get("id") else ""),
                          "min": round(mv, 2), "pts": _n(p.get("pts")),
                          "reb": _n(p.get("reb")), "ast": _n(p.get("ast")),
                          "stl": _n(p.get("stl")), "blk": _n(p.get("blk")),
@@ -574,7 +577,12 @@ def parse_box(html, slug, section="international"):
                 # header slice of 16 was enough to make PTS look like TO.
                 j = idx.get(name)
                 return cells[j] if j is not None and j < len(cells) else default
-            pid = PLAYER_RE.search(a["href"]).group(2)
+            _pm = PLAYER_RE.search(a["href"])
+            pid = _pm.group(2)
+            # The slug as well as the id, because RealGM's player page needs
+            # both: /player/Xavier-Moon/Summary/89303. The id alone identifies
+            # him; the pair is what links to him.
+            pslug = _pm.group(1)
             # The full line, not just minutes and points. These are RealGM's
             # own box-score figures and nothing derived -- no rating is computed
             # here, deliberately: this file lives in a PUBLIC repo and the
@@ -589,7 +597,7 @@ def parse_box(html, slug, section="international"):
             tpm, tpa = pair("3pm-a")
             ftm, fta = pair("ftm-a")
             players.append({
-                "id": pid,
+                "id": pid, "slug": pslug,
                 "name": a.get_text(strip=True),
                 "status": cell("status"),
                 "pos": cell("pos"),
