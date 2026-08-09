@@ -348,6 +348,15 @@ def write_gr_lines(section, date, gid, slug, league, phase, teams, url):
         w.writerows(rows)
     try:
         ap = os.path.join(GR_DIR, "added.csv")
+        # Refuse rather than write eleven values under a ten-name header, which
+        # silently drops the last column. rgm_gr.py --realign repairs it.
+        if os.path.exists(ap):
+            with open(ap, encoding="utf-8") as f:
+                h = f.readline().rstrip("\r\n")
+            if h and h.split(",") != ADDED_COLS:
+                print("  !! added.csv has an older column layout; not logging."
+                      " Run: python rgm_gr.py --realign")
+                return len(rows)
         anew = not os.path.exists(ap)
         with open(ap, "a", newline="", encoding="utf-8") as f:
             w = csv.DictWriter(f, fieldnames=ADDED_COLS, extrasaction="ignore")
