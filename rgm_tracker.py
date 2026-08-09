@@ -449,9 +449,12 @@ def competition(html):
     """
     if not html:
         return "", ""
-    cut = html.lower().find("<table")
-    head = html[:cut] if cut > 0 else html[:20000]
-    txt = " ".join(re.sub(r"<[^>]+>", " ", head).split())
+    # The WHOLE page, not the header. On a national box score the competition
+    # line sits BELOW the line-score table -- cutting at the first <table> was
+    # excluding the one thing this function exists to find, and every game came
+    # back labelled with the section default. The pattern is anchored on a date
+    # followed by "Attendance", which is specific enough not to need a window.
+    txt = " ".join(re.sub(r"<[^>]+>", " ", html[:60000]).split())
     m = COMP_RE.search(txt)
     if not m:
         return "", ""
@@ -495,8 +498,19 @@ def game_phase(html):
         for label, key in PHASES:
             if re.search(r"\b" + re.escape(label) + r"s?\b", stage, re.I):
                 return key
-        if re.search(r"\bpool\b|\bround robin\b", stage, re.I):
+        # "Group C" and "Pool B" are group stages as much as "Group Stage" is --
+        # matching only the literal phrase left every group game unlabelled.
+        if re.search(r"\bgroups?\b|\bpool\b|\bround robin\b", stage, re.I):
             return "group"
+    # Then the competition NAME. "FIBA World Cup Qualifiers - Second Round" has
+    # a stage that says nothing, and "Friendly" has no stage at all -- in both
+    # the name is the answer. It is checked after the stage because a stage is
+    # the more specific of the two: an AmeriCup quarterfinal is a playoff game,
+    # not a qualifier, even though the tournament is a qualifying event.
+    if _c:
+        for label, key in PHASES:
+            if re.search(r"\b" + re.escape(label) + r"s?\b", _c, re.I):
+                return key
     for label, key in PHASES:
         # An optional plural, because pages say "Qualifiers" and the list says
         # "Qualifier" -- and \b after the singular is blocked by the trailing s,
