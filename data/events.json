@@ -1,6 +1,41 @@
 {
  "events": [
   {
+   "detail": "WNBA New York Liberty 113, Los Angeles Sparks 109",
+   "detected_at": "2026-08-08 17:35:16",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-07-28/New-York-at-LA-Sparks/158544"
+  },
+  {
+   "detail": "WNBA Las Vegas Aces 98, Portland Fire 83",
+   "detected_at": "2026-08-08 17:35:13",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-07-28/Portland-at-Las-Vegas/158543"
+  },
+  {
+   "detail": "WNBA Indiana Fever 105, Seattle Storm 95",
+   "detected_at": "2026-08-08 17:35:11",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-07-28/Indiana-at-Seattle/158542"
+  },
+  {
+   "detail": "WNBA Minnesota Lynx 100, Toronto Tempo 93",
+   "detected_at": "2026-08-08 17:35:08",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-07-28/Toronto-at-Minnesota/158677"
+  },
+  {
+   "detail": "WNBA Washington Mystics 92, Connecticut Sun 84",
+   "detected_at": "2026-08-08 17:35:06",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-07-28/Connecticut-at-Washington/158541"
+  },
+  {
    "detail": "WNBA Phoenix Mercury 91, Golden State Valkyries 89",
    "detected_at": "2026-08-08 17:35:03",
    "source": "SCORES",
@@ -20,6 +55,13 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/wnba/boxscore/2026-07-30/New-York-at-Las-Vegas/158548"
+  },
+  {
+   "detail": "WNBA ~ RETURN Aneesah Morrow → Connecticut Sun (from Toronto Tempo)",
+   "detected_at": "2026-08-08 17:34:56",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
   },
   {
    "detail": "WNBA Chicago Sky 94, Connecticut Sun 88",
@@ -55,6 +97,13 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/wnba/boxscore/2026-07-31/Seattle-at-Atlanta/158549"
+  },
+  {
+   "detail": "WNBA ~ RETURN Monique Akoa-Makani → Phoenix Mercury (from Los Angeles Sparks)",
+   "detected_at": "2026-08-08 17:34:43",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
   },
   {
    "detail": "WNBA New York Liberty 94, Phoenix Mercury 92",
@@ -155,11 +204,25 @@
    "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-05/Phoenix-at-Atlanta/158560"
   },
   {
+   "detail": "WNBA ~ RETURN Aneesah Morrow → Toronto Tempo (from Connecticut Sun)",
+   "detected_at": "2026-08-08 17:34:08",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
    "detail": "WNBA Portland Fire 97, Toronto Tempo 83",
    "detected_at": "2026-08-08 17:34:08",
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-06/Toronto-at-Portland/158681"
+  },
+  {
+   "detail": "WNBA ~ RETURN Monique Akoa-Makani → Los Angeles Sparks (from Phoenix Mercury)",
+   "detected_at": "2026-08-08 17:34:06",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
   },
   {
    "detail": "WNBA Los Angeles Sparks 89, Minnesota Lynx 82",
@@ -9257,60 +9320,6 @@
    "detected_at": "2026-07-15 09:23:56",
    "source": "DOCS",
    "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Luke Kennard Phoenix Suns",
-   "detected_at": "2026-07-15 09:23:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED 2 Years for $12,431,200. Taxpayer Mid-Level Exception. Player option to extend the contract to include the 2027-28 Season. Skill; Injury or Illness; Mental; Death. Love of the Game. Physical Exam. Alt. 7(b).",
-   "detected_at": "2026-07-15 09:16:56",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Execution Date: 7/10/26",
-   "detected_at": "2026-07-15 09:16:56",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  2 Years for $12,431,200. Taxpayer Mid-Level Exception. Player option to extend the contract to include the 2027-28 Season. Insurance Premium Reimbursement. Skill; Injury or Illness; Mental. Love of the Game. Physical Exam. Alt. 7(b).",
-   "detected_at": "2026-07-15 09:16:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 7/14/26",
-   "detected_at": "2026-07-15 09:16:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED 2 Years for $12,431,200. Taxpayer Mid-Level Exception (Partial). Player option to extend the contract to include the 2027-28 Season. Skill; Injury or Illness; Mental; Death. Love of the Game. Physical Exam. Alt. 7(b).",
-   "detected_at": "2026-07-15 09:16:56",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  2 Years for $12,431,200. Taxpayer Mid-Level Exception. Player option to extend the contract to include the 2027-28 Season. Skill; Injury or Illness; Mental; Death. Love of the Game. Physical Exam. Alt. 7(b).",
-   "detected_at": "2026-07-15 09:16:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Marcus Smart Houston Rockets",
-   "detected_at": "2026-07-15 09:15:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  26-27 $6,064,000",
-   "detected_at": "2026-07-15 09:15:56",
-   "source": "DOCS",
-   "type": "ADDED"
   }
  ],
  "feeds": {
@@ -9323,12 +9332,12 @@
    "last": "2026-08-07 11:16:54"
   },
   "REALGM": {
-   "count": 9,
-   "last": "2026-08-08 17:31:42"
+   "count": 13,
+   "last": "2026-08-08 17:34:56"
   },
   "SCORES": {
-   "count": 115,
-   "last": "2026-08-08 17:35:03"
+   "count": 120,
+   "last": "2026-08-08 17:35:16"
   },
   "SHEETS": {
    "count": 3332,
@@ -9343,6 +9352,6 @@
    "last": "2026-08-08 15:08:47"
   }
  },
- "generated_at": "2026-08-08T17:35:04",
- "total": 6503
+ "generated_at": "2026-08-08T17:36:00",
+ "total": 6512
 }
