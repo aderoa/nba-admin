@@ -1,6 +1,34 @@
 {
  "events": [
   {
+   "detail": "WNBA Portland Fire 100, Seattle Storm 93",
+   "detected_at": "2026-08-08 21:46:16",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-08/Seattle-at-Portland/158571"
+  },
+  {
+   "detail": "WNBA + Azura Stevens → Chicago Sky",
+   "detected_at": "2026-08-08 21:46:13",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "WNBA Indiana Fever 90, Chicago Sky 86",
+   "detected_at": "2026-08-08 21:46:13",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-08/Indiana-at-Chicago/158570"
+  },
+  {
+   "detail": "WNBA Minnesota Lynx 98, Las Vegas Aces 87",
+   "detected_at": "2026-08-08 21:46:11",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-08/Las-Vegas-at-Minnesota/158569"
+  },
+  {
    "detail": "Corey Walden  ~ team: - -> Free agent",
    "detected_at": "2026-08-08 21:16:49",
    "source": "WIKI",
@@ -10139,34 +10167,6 @@
    "source": "RATINGS",
    "type": "TOP1",
    "url": "https://basketball.realgm.com/international/boxscore/2026-07-29/Macau-Black-Knights-at-Terrafirma-DYIP/526209"
-  },
-  {
-   "detail": "PBA Governors Cup 2. Damian Chong Qui 28.8 — 29p 1r 3a 38.8m (Macau Black Knights)",
-   "detected_at": "2026-07-29 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP2",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-07-29/Macau-Black-Knights-at-Terrafirma-DYIP/526209"
-  },
-  {
-   "detail": "PBA Governors Cup 3. Justin Strings 20.5 — 34p 8r 3a 45.4m (Terrafirma DYIP, lost)",
-   "detected_at": "2026-07-29 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP3",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-07-29/Macau-Black-Knights-at-Terrafirma-DYIP/526209"
-  },
-  {
-   "detail": "PBA Governors Cup 4. Maverick Ahanmisi 18.0 — 20p 9r 8a 40.1m (Terrafirma DYIP, lost)",
-   "detected_at": "2026-07-29 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP4",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-07-29/Macau-Black-Knights-at-Terrafirma-DYIP/526209"
-  },
-  {
-   "detail": "PBA Governors Cup 5. Kobey Lam 13.6 — 12p 3r 1a 34.1m (Macau Black Knights)",
-   "detected_at": "2026-07-29 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP5",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-07-29/Macau-Black-Knights-at-Terrafirma-DYIP/526209"
   }
  ],
  "feeds": {
@@ -10183,12 +10183,12 @@
    "last": "2026-08-08 00:00:01"
   },
   "REALGM": {
-   "count": 18,
-   "last": "2026-08-08 20:45:05"
+   "count": 19,
+   "last": "2026-08-08 21:46:13"
   },
   "SCORES": {
-   "count": 129,
-   "last": "2026-08-08 20:45:10"
+   "count": 132,
+   "last": "2026-08-08 21:46:16"
   },
   "SHEETS": {
    "count": 3332,
@@ -10203,6 +10203,6 @@
    "last": "2026-08-08 21:16:49"
   }
  },
- "generated_at": "2026-08-08T21:16:49",
- "total": 7485
+ "generated_at": "2026-08-08T21:46:19",
+ "total": 7489
 }
