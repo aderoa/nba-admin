@@ -113,7 +113,7 @@ GR_COLS = ["game_id", "date", "section", "league", "phase", "team", "opp", "won"
 # Shared with rgm_gr.py: one record of what entered the rating cache, whichever
 # side put it there. The viewer reads it to say which games are new.
 ADDED_COLS = ["added_at", "source", "section", "league", "phase", "date",
-              "game_id", "teams", "score", "lines"]
+              "game_id", "teams", "score", "lines", "url"]
 
 # Site-wide and identical in every section, which is what makes one tracker
 # possible: DeWanna Bonner is 3000014 and A.J. Slaughter is 10169, in the same
@@ -341,7 +341,8 @@ def write_gr_lines(section, date, gid, slug, league, phase, teams, url):
                         "section": section, "league": league, "phase": phase,
                         "date": date, "game_id": gid,
                         "teams": f"{teams[0]['team']} v {teams[1]['team']}",
-                        "score": f"{sc[0]}-{sc[1]}", "lines": len(rows)})
+                        "score": f"{sc[0]}-{sc[1]}", "lines": len(rows),
+                        "url": url})
     except OSError:
         pass
     return len(rows)
