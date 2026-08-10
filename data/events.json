@@ -1,6 +1,55 @@
 {
  "events": [
   {
+   "detail": "Yuki Kawamura  ~ team: Indiana Pacers -> Los Angeles Clippers",
+   "detected_at": "2026-08-09 18:24:00",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Yuki_Kawamura"
+  },
+  {
+   "detail": "Yuki Kawamura  ~ league: - -> NBA",
+   "detected_at": "2026-08-09 18:24:00",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Yuki_Kawamura"
+  },
+  {
+   "detail": "Yuki Kawamura  ~ CAREER  + 2026 Los Angeles Clippers",
+   "detected_at": "2026-08-09 18:24:00",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Yuki_Kawamura"
+  },
+  {
+   "detail": "Nate Williams (basketball, born 1999)  ~ team: Free agent -> Chiba Jets Funabashi",
+   "detected_at": "2026-08-09 18:24:00",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Nate_Williams_(basketball,_born_1999)"
+  },
+  {
+   "detail": "Nate Williams (basketball, born 1999)  ~ league: - -> B. League",
+   "detected_at": "2026-08-09 18:24:00",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Nate_Williams_(basketball,_born_1999)"
+  },
+  {
+   "detail": "Nate Williams (basketball, born 1999)  ~ number: - -> 19",
+   "detected_at": "2026-08-09 18:24:00",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Nate_Williams_(basketball,_born_1999)"
+  },
+  {
+   "detail": "Nate Williams (basketball, born 1999)  ~ CAREER  + 2026–present Chiba Jets Funabashi",
+   "detected_at": "2026-08-09 18:24:00",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Nate_Williams_(basketball,_born_1999)"
+  },
+  {
    "detail": "David Roddy  ~ position: Power forward -> small forward",
    "detected_at": "2026-08-09 14:03:46",
    "source": "WIKI",
@@ -10137,49 +10186,6 @@
    "detected_at": "2026-07-31 08:31:16",
    "source": "TRANSACTIONS",
    "type": "Signing"
-  },
-  {
-   "detail": "2026-07-31  Brooklyn Nets signed forward Moritz Wagner to a Contract.",
-   "detected_at": "2026-07-31 08:31:16",
-   "source": "TRANSACTIONS",
-   "type": "Signing"
-  },
-  {
-   "detail": "2026-07-31  Cleveland Cavaliers signed forward Mario Hezonja to a Contract.",
-   "detected_at": "2026-07-31 08:31:16",
-   "source": "TRANSACTIONS",
-   "type": "Signing"
-  },
-  {
-   "detail": "+ ADDED   Mario Hezonja (CLE)",
-   "detected_at": "2026-07-31 01:59:06",
-   "source": "PLAYERS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "- REMOVED Tyson Etienne (BKN)",
-   "detected_at": "2026-07-31 01:59:06",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED E.J. Liddell (BKN)",
-   "detected_at": "2026-07-31 01:59:06",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "~ CHANGED Moritz Wagner  team: ORL -> BKN",
-   "detected_at": "2026-07-31 01:59:06",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "WNBA ★ 1. Kamilla Cardoso 33.2 — 26p 6r 1a 20.9m (Chicago Sky)",
-   "detected_at": "2026-07-30 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP1",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-07-30/Connecticut-at-Chicago/158547"
   }
  ],
  "feeds": {
@@ -10212,10 +10218,10 @@
    "last": "2026-08-08 17:40:55"
   },
   "WIKI": {
-   "count": 273,
-   "last": "2026-08-09 14:03:46"
+   "count": 280,
+   "last": "2026-08-09 18:24:00"
   }
  },
- "generated_at": "2026-08-09T14:03:47",
- "total": 7572
+ "generated_at": "2026-08-09T18:24:06",
+ "total": 7579
 }
