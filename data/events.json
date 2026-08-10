@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Trendon Watford  ~ team: Free agent -> Olympiacos",
+   "detected_at": "2026-08-10 13:28:53",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Trendon_Watford"
+  },
+  {
    "detail": "~ CHANGED Tobias Harris  number: 12 -> 23",
    "detected_at": "2026-08-10 12:20:55",
    "source": "PLAYERS",
@@ -10132,13 +10139,6 @@
    "source": "RATINGS",
    "type": "TOP5",
    "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/Sweden-at-Norway/526473"
-  },
-  {
-   "detail": "National Teams ★ 1. Yehor Koshelev 17.9 — 12p 14r 0a 24.1m (Ukraine)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP1",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/Cyprus-at-Ukraine/526474"
   }
  ],
  "feeds": {
@@ -10171,10 +10171,10 @@
    "last": "2026-08-08 17:40:55"
   },
   "WIKI": {
-   "count": 340,
-   "last": "2026-08-10 12:19:36"
+   "count": 341,
+   "last": "2026-08-10 13:28:53"
   }
  },
- "generated_at": "2026-08-10T12:21:07",
- "total": 7726
+ "generated_at": "2026-08-10T13:29:06",
+ "total": 7727
 }
