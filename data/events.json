@@ -1,6 +1,42 @@
 {
  "events": [
   {
+   "detail": "MIL  - REMOVED Jackson Jr., Andre",
+   "detected_at": "2026-08-10 12:20:08",
+   "source": "SHEETS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "MIL  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 196402707.2 -> 193953286.2, col9: 492144728.6 -> 489695307.6",
+   "detected_at": "2026-08-10 12:20:08",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MIL  CHANGED Cap Holds  -  col3: 4898842 -> 2449421",
+   "detected_at": "2026-08-10 12:20:08",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "PHL  - REMOVED Walker, Lonnie",
+   "detected_at": "2026-08-10 12:20:08",
+   "source": "SHEETS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "PHL  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 220262730.3 -> 217813309.3, col9: 654491439.7 -> 652042018.7",
+   "detected_at": "2026-08-10 12:20:08",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "PHL  CHANGED Cap Holds  -  col3: 11718495 -> 9269074",
+   "detected_at": "2026-08-10 12:20:08",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "Yakuba Ouattara  ~ team: Monaco -> Free agent",
    "detected_at": "2026-08-10 12:19:36",
    "source": "WIKI",
@@ -10104,45 +10140,6 @@
    "source": "RATINGS",
    "type": "TOP2",
    "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/Cyprus-at-Ukraine/526474"
-  },
-  {
-   "detail": "National Teams 3. Bohdan Babych 13.2 — 8p 1r 0a 11.0m (Ukraine)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP3",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/Cyprus-at-Ukraine/526474"
-  },
-  {
-   "detail": "National Teams 4. Kyriacos Constantinou 13.0 — 16p 7r 1a 34.1m (Cyprus, lost)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP4",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/Cyprus-at-Ukraine/526474"
-  },
-  {
-   "detail": "National Teams 5. Robert Kliavin 11.7 — 2p 5r 6a 24.8m (Ukraine)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP5",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/Cyprus-at-Ukraine/526474"
-  },
-  {
-   "detail": "~ CHANGED Jeremy Sochan  team: NYK -> POR",
-   "detected_at": "2026-08-02 17:09:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "2026-08-02  Dallas Mavericks re-signed forward Naji Marshall to a Veteran Extension.",
-   "detected_at": "2026-08-02 14:39:55",
-   "source": "TRANSACTIONS",
-   "type": "Signing"
-  },
-  {
-   "detail": "2026-08-01  Golden State Warriors re-signed guard Gary Payton II to a Contract.",
-   "detected_at": "2026-08-02 12:41:55",
-   "source": "TRANSACTIONS",
-   "type": "Signing"
   }
  ],
  "feeds": {
@@ -10167,8 +10164,8 @@
    "last": "2026-08-10 11:24:10"
   },
   "SHEETS": {
-   "count": 3355,
-   "last": "2026-08-10 08:51:21"
+   "count": 3361,
+   "last": "2026-08-10 12:20:08"
   },
   "TRANSACTIONS": {
    "count": 267,
@@ -10179,6 +10176,6 @@
    "last": "2026-08-10 12:19:36"
   }
  },
- "generated_at": "2026-08-10T12:19:45",
- "total": 7719
+ "generated_at": "2026-08-10T12:20:19",
+ "total": 7725
 }
