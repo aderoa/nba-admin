@@ -1,6 +1,42 @@
 {
  "events": [
   {
+   "detail": "PHX  CHANGED Brooks, Dillon  -  col4: - -> 22530864.0, col5: - -> 24333333.0, col6: - -> 26135802.0, col9: 20992727 -> 93992726",
+   "detected_at": "2026-08-10 08:39:21",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "PHX  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col4: 176172663.1 -> 198703527.1, col5: 141760852.9 -> 166094185.9, col6: 119393367.1 -> 145529169.1, col9: 680665258.4 -> 753665257.4",
+   "detected_at": "2026-08-10 08:39:21",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "PHX  CHANGED Players Under Contract  -  col4: 153682510.2 -> 176213374.2, col5: 119270700 -> 143604033, col6: 96903214.2 -> 123039016.2",
+   "detected_at": "2026-08-10 08:39:21",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "PHX  CHANGED Full Season Contracts  -  col4: 153682510.2 -> 176213374.2, col5: 119270700 -> 143604033, col6: 96903214.2 -> 123039016.2",
+   "detected_at": "2026-08-10 08:39:21",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED Update 1.3 (7/18/26): K. Bufkin, K. Caldwell-Pope, M. Cisse, I. Crawford, D. Green, M. Hezonja, C. Houstan, H. Ingram, A. Jackson, L. James, S. Jones, C. Koloko, N. Marshall, D. Melton, G. Payton, J. Phillips, J. Sochan, J. Tate, M. Thybulle, O. Tshiebwe, M. Wagner, J. Walsh",
+   "detected_at": "2026-08-10 08:39:05",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Update 1.3 (7/18/26): D. Brooks, K. Bufkin, K. Caldwell-Pope, M. Cisse, I. Crawford, D. Green, M. Hezonja, C. Houstan, H. Ingram, A. Jackson, L. James, S. Jones, C. Koloko, N. Marshall, D. Melton, G. Payton, J. Phillips, J. Sochan, J. Tate, M. Thybulle, O. Tshiebwe, M. Wagner, J. Walsh",
+   "detected_at": "2026-08-10 08:39:05",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "U16 Euro Championship B Iceland 61, Cyprus 58",
    "detected_at": "2026-08-10 08:15:16",
    "source": "SCORES",
@@ -10154,54 +10190,12 @@
    "source": "RATINGS",
    "type": "TOP5",
    "url": "https://basketball.realgm.com/international/boxscore/2026-07-31/Ottawa-Blackjacks-at-Winnipeg-Sea-Bears/520477"
-  },
-  {
-   "detail": "Canadian Elite Basketball League ★ 1. Jamir Chaplin 31.4 — 20p 7r 0a 25.6m (Saskatoon Mamba)",
-   "detected_at": "2026-07-31 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP1",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-07-31/Saskatoon-Mamba-at-Edmonton-Stingers/520478"
-  },
-  {
-   "detail": "Canadian Elite Basketball League 2. Tavian Dunn-Martin 29.9 — 30p 0r 4a 32.7m (Saskatoon Mamba)",
-   "detected_at": "2026-07-31 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP2",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-07-31/Saskatoon-Mamba-at-Edmonton-Stingers/520478"
-  },
-  {
-   "detail": "Canadian Elite Basketball League 3. Devonte Bandoo 23.7 — 12p 7r 7a 32.3m (Saskatoon Mamba)",
-   "detected_at": "2026-07-31 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP3",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-07-31/Saskatoon-Mamba-at-Edmonton-Stingers/520478"
-  },
-  {
-   "detail": "Canadian Elite Basketball League 4. Trey Townsend 22.8 — 14p 6r 6a 34.2m (Saskatoon Mamba)",
-   "detected_at": "2026-07-31 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP4",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-07-31/Saskatoon-Mamba-at-Edmonton-Stingers/520478"
-  },
-  {
-   "detail": "Canadian Elite Basketball League 5. Kendrick Ray 15.4 — 20p 2r 1a 20.9m (Edmonton Stingers, lost)",
-   "detected_at": "2026-07-31 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP5",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-07-31/Saskatoon-Mamba-at-Edmonton-Stingers/520478"
-  },
-  {
-   "detail": "Canadian Elite Basketball League ★ 1. Armani Chaney 26.0 — 16p 4r 6a 29.7m (Calgary Surge)",
-   "detected_at": "2026-07-31 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP1",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-07-31/Niagara-River-Lions-at-Calgary-Surge/520479"
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 1983,
-   "last": "2026-08-06 12:34:58"
+   "count": 1985,
+   "last": "2026-08-10 08:39:05"
   },
   "PLAYERS": {
    "count": 610,
@@ -10220,8 +10214,8 @@
    "last": "2026-08-10 08:15:16"
   },
   "SHEETS": {
-   "count": 3332,
-   "last": "2026-08-08 15:41:57"
+   "count": 3336,
+   "last": "2026-08-10 08:39:21"
   },
   "TRANSACTIONS": {
    "count": 267,
@@ -10232,6 +10226,6 @@
    "last": "2026-08-10 07:36:49"
   }
  },
- "generated_at": "2026-08-10T08:15:22",
- "total": 7643
+ "generated_at": "2026-08-10T08:46:14",
+ "total": 7649
 }
