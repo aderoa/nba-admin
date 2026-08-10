@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "New Zealand NBL Zerofees Southland Sharks 104, Wellington Saints 101",
+   "detected_at": "2026-08-09 22:05:11",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-09/Wellington-Saints-at-Zerofees-Southland-Sharks/527588"
+  },
+  {
    "detail": "Brock Motum  ~ team: Free Agent -> Taoyuan Taiwan Beer Leopards",
    "detected_at": "2026-08-09 21:50:49",
    "source": "WIKI",
@@ -10189,13 +10196,6 @@
    "source": "RATINGS",
    "type": "TOP2",
    "url": "https://basketball.realgm.com/international/boxscore/2026-07-31/Leones-de-Ponce-at-Santeros-de-Aguada/526592"
-  },
-  {
-   "detail": "Puerto Rican BSN 3. Rigoberto Mendoza 27.7 — 20p 4r 7a 40.0m (Santeros de Aguada)",
-   "detected_at": "2026-07-31 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP3",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-07-31/Leones-de-Ponce-at-Santeros-de-Aguada/526592"
   }
  ],
  "feeds": {
@@ -10216,8 +10216,8 @@
    "last": "2026-08-09 20:02:11"
   },
   "SCORES": {
-   "count": 144,
-   "last": "2026-08-09 21:04:43"
+   "count": 145,
+   "last": "2026-08-09 22:05:11"
   },
   "SHEETS": {
    "count": 3332,
@@ -10232,6 +10232,6 @@
    "last": "2026-08-09 21:50:49"
   }
  },
- "generated_at": "2026-08-09T21:50:52",
- "total": 7601
+ "generated_at": "2026-08-09T22:05:15",
+ "total": 7602
 }
