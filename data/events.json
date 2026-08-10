@@ -1,6 +1,72 @@
 {
  "events": [
   {
+   "detail": "SAN  + ADDED  Peter, Taelon",
+   "detected_at": "2026-08-10 08:49:18",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "SAN  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 231173961.5 -> 233359077.5, col9: 605250809.7 -> 607435925.7",
+   "detected_at": "2026-08-10 08:49:18",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "SAN  CHANGED Players Under Contract  -  col3: 198279966.7 -> 200465082.7",
+   "detected_at": "2026-08-10 08:49:18",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "SAN  CHANGED Full Season Contracts  -  col3: 198279966.7 -> 200465082.7",
+   "detected_at": "2026-08-10 08:49:18",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "SAN  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 14 -> 15",
+   "detected_at": "2026-08-10 08:49:18",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "SAN  CHANGED Avg, Salary (Mean) (No 10-Day K's)  -  col6: 1 -> 0",
+   "detected_at": "2026-08-10 08:49:18",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col28: 0 -> 37082.68",
+   "detected_at": "2026-08-10 08:49:18",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 1st Incremental Tax Bracket  -  col28: 0 -> 37082.68",
+   "detected_at": "2026-08-10 08:49:18",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col28: 0 -> 37082.68",
+   "detected_at": "2026-08-10 08:49:18",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
+   "detected_at": "2026-08-10 08:49:09",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Minimum Salary Exception. Physical Exam. Alt. 7(b). Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
+   "detected_at": "2026-08-10 08:49:09",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "2026-27 Veteran Signings  - REMOVED Update 1.3 (7/18/26): D. Brooks, K. Bufkin, K. Caldwell-Pope, M. Cisse, I. Crawford, D. Green, M. Hezonja, C. Houstan, H. Ingram, A. Jackson, L. James, S. Jones, C. Koloko, N. Marshall, D. Melton, G. Payton, J. Phillips, J. Sochan, J. Tate, M. Thybulle, O. Tshiebwe, M. Wagner, J. Walsh",
    "detected_at": "2026-08-10 08:48:04",
    "source": "DOCS",
@@ -10094,89 +10160,12 @@
    "source": "RATINGS",
    "type": "TOP5",
    "url": "https://basketball.realgm.com/international/boxscore/2026-08-01/Wellington-Saints-at-Aukland-Tuatara/526702"
-  },
-  {
-   "detail": "Lebanese Division A ★ 1. Deshawndre Washington 28.1 — 17p 11r 6a 31.4m (Sagesse Al Hekmeh Beirut)",
-   "detected_at": "2026-08-01 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP1",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-01/Sporting-Al-Riyadi-Beirut-at-Sagesse-Al-Hekmeh-Beirut/526704"
-  },
-  {
-   "detail": "Lebanese Division A 2. Yousef Khayat 19.7 — 15p 7r 2a 33.6m (Sagesse Al Hekmeh Beirut)",
-   "detected_at": "2026-08-01 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP2",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-01/Sporting-Al-Riyadi-Beirut-at-Sagesse-Al-Hekmeh-Beirut/526704"
-  },
-  {
-   "detail": "Lebanese Division A 3. Gerard Hadidian 19.0 — 14p 4r 1a 23.8m (Sagesse Al Hekmeh Beirut)",
-   "detected_at": "2026-08-01 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP3",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-01/Sporting-Al-Riyadi-Beirut-at-Sagesse-Al-Hekmeh-Beirut/526704"
-  },
-  {
-   "detail": "Lebanese Division A 4. Sekou Doumbouya 15.5 — 14p 7r 1a 26.3m (Sagesse Al Hekmeh Beirut)",
-   "detected_at": "2026-08-01 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP4",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-01/Sporting-Al-Riyadi-Beirut-at-Sagesse-Al-Hekmeh-Beirut/526704"
-  },
-  {
-   "detail": "Lebanese Division A 5. Dusan Miletic 15.4 — 17p 8r 0a 26.5m (Sporting Al Riyadi Beirut, lost)",
-   "detected_at": "2026-08-01 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP5",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-01/Sporting-Al-Riyadi-Beirut-at-Sagesse-Al-Hekmeh-Beirut/526704"
-  },
-  {
-   "detail": "Mexican LNBP ★ 1. Juan Reyna III 38.6 — 27p 5r 3a 27.4m (Correcaminos)",
-   "detected_at": "2026-08-01 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP1",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-01/Santos-de-San-Luis-Potosi-at-Correcaminos/527197"
-  },
-  {
-   "detail": "Mexican LNBP 2. Damien Daniels 34.4 — 22p 6r 3a 33.6m (Correcaminos)",
-   "detected_at": "2026-08-01 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP2",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-01/Santos-de-San-Luis-Potosi-at-Correcaminos/527197"
-  },
-  {
-   "detail": "Mexican LNBP 3. Chance Hunter 25.7 — 21p 4r 2a 36.9m (Correcaminos)",
-   "detected_at": "2026-08-01 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP3",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-01/Santos-de-San-Luis-Potosi-at-Correcaminos/527197"
-  },
-  {
-   "detail": "Mexican LNBP 4. Donoven Carlisle 15.5 — 10p 5r 0a 19.0m (Correcaminos)",
-   "detected_at": "2026-08-01 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP4",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-01/Santos-de-San-Luis-Potosi-at-Correcaminos/527197"
-  },
-  {
-   "detail": "Mexican LNBP 5. Shane Stevensen 9.9 — 10p 8r 1a 22.8m (Correcaminos)",
-   "detected_at": "2026-08-01 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP5",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-01/Santos-de-San-Luis-Potosi-at-Correcaminos/527197"
-  },
-  {
-   "detail": "WNBA ★ 1. Angel Reese 25.8 — 21p 13r 2a 37.6m (Atlanta Dream)",
-   "detected_at": "2026-07-31 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP1",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-07-31/Seattle-at-Atlanta/158549"
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 2004,
-   "last": "2026-08-10 08:48:04"
+   "count": 2006,
+   "last": "2026-08-10 08:49:09"
   },
   "PLAYERS": {
    "count": 610,
@@ -10195,8 +10184,8 @@
    "last": "2026-08-10 08:15:16"
   },
   "SHEETS": {
-   "count": 3336,
-   "last": "2026-08-10 08:39:21"
+   "count": 3345,
+   "last": "2026-08-10 08:49:18"
   },
   "TRANSACTIONS": {
    "count": 267,
@@ -10207,6 +10196,6 @@
    "last": "2026-08-10 07:36:49"
   }
  },
- "generated_at": "2026-08-10T08:48:39",
- "total": 7668
+ "generated_at": "2026-08-10T08:49:38",
+ "total": 7679
 }
