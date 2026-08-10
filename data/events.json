@@ -1,6 +1,48 @@
 {
  "events": [
   {
+   "detail": "LAC  + ADDED  Christie, Cameron #2",
+   "detected_at": "2026-08-10 08:50:09",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "LAC  CHANGED Christie, Cameron  -  col3: 2296271.0 -> 2449421.0, col4: 2486995.0 -> -, col9: 4783266 -> 2449421",
+   "detected_at": "2026-08-10 08:50:09",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "LAC  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 216248654.9 -> 218698075.9, col9: 358598536.2 -> 361047957.2",
+   "detected_at": "2026-08-10 08:50:09",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "LAC  CHANGED Players Under Contract  -  col3: 165445677 -> 167895098",
+   "detected_at": "2026-08-10 08:50:09",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "LAC  CHANGED Full Season Contracts  -  col3: 165445677 -> 167895098",
+   "detected_at": "2026-08-10 08:50:09",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "LAC  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 14 -> 15",
+   "detected_at": "2026-08-10 08:50:09",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "LAC  CHANGED Avg, Salary (Mean) (No 10-Day K's)  -  col6: 1 -> 0",
+   "detected_at": "2026-08-10 08:50:09",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "SAN  + ADDED  Peter, Taelon",
    "detected_at": "2026-08-10 08:49:18",
    "source": "SHEETS",
@@ -10111,55 +10153,6 @@
    "source": "RATINGS",
    "type": "TOP3",
    "url": "https://basketball.realgm.com/international/boxscore/2026-08-01/San-Miguel-Beermen-at-Talk-N-Text-Tropang-Texters/526214"
-  },
-  {
-   "detail": "PBA Governors Cup 4. Rey Nambatac 14.2 — 21p 9r 2a 38.6m (Talk N Text Tropang Texters)",
-   "detected_at": "2026-08-01 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP4",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-01/San-Miguel-Beermen-at-Talk-N-Text-Tropang-Texters/526214"
-  },
-  {
-   "detail": "PBA Governors Cup 5. June Mar Fajardo 11.8 — 14p 12r 2a 41.4m (San Miguel Beermen, lost)",
-   "detected_at": "2026-08-01 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP5",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-01/San-Miguel-Beermen-at-Talk-N-Text-Tropang-Texters/526214"
-  },
-  {
-   "detail": "New Zealand NBL ★ 1. Elijah Pepper 34.1 — 32p 7r 3a 30.9m (Wellington Saints)",
-   "detected_at": "2026-08-01 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP1",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-01/Wellington-Saints-at-Aukland-Tuatara/526702"
-  },
-  {
-   "detail": "New Zealand NBL 2. Donte Ingram 30.1 — 20p 9r 2a 32.5m (Wellington Saints)",
-   "detected_at": "2026-08-01 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP2",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-01/Wellington-Saints-at-Aukland-Tuatara/526702"
-  },
-  {
-   "detail": "New Zealand NBL 3. Carlin Davison 22.3 — 16p 4r 6a 28.1m (Wellington Saints)",
-   "detected_at": "2026-08-01 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP3",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-01/Wellington-Saints-at-Aukland-Tuatara/526702"
-  },
-  {
-   "detail": "New Zealand NBL 4. Akech Aliir 19.6 — 12p 6r 4a 22.4m (Wellington Saints)",
-   "detected_at": "2026-08-01 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP4",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-01/Wellington-Saints-at-Aukland-Tuatara/526702"
-  },
-  {
-   "detail": "New Zealand NBL 5. Jordan Hunt 19.1 — 15p 9r 0a 24.8m (Wellington Saints)",
-   "detected_at": "2026-08-01 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP5",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-01/Wellington-Saints-at-Aukland-Tuatara/526702"
   }
  ],
  "feeds": {
@@ -10184,8 +10177,8 @@
    "last": "2026-08-10 08:15:16"
   },
   "SHEETS": {
-   "count": 3345,
-   "last": "2026-08-10 08:49:18"
+   "count": 3352,
+   "last": "2026-08-10 08:50:09"
   },
   "TRANSACTIONS": {
    "count": 267,
@@ -10196,6 +10189,6 @@
    "last": "2026-08-10 07:36:49"
   }
  },
- "generated_at": "2026-08-10T08:49:38",
- "total": 7679
+ "generated_at": "2026-08-10T08:50:26",
+ "total": 7686
 }
