@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "~ CHANGED Nique Clifford  number: 00 -> 10",
+   "detected_at": "2026-08-11 13:34:55",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "A. J. Slaughter  ~ CAREER  + 2025–2026 Anwil Włocławek",
    "detected_at": "2026-08-11 13:10:52",
    "source": "WIKI",
@@ -10129,13 +10135,6 @@
    "source": "RATINGS",
    "type": "TOP4",
    "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/Lithuania-at-Denmark/526399"
-  },
-  {
-   "detail": "National Teams 5. Gustav Drejer 11.7 — 23p 8r 1a 32.0m (Denmark, lost)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP5",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/Lithuania-at-Denmark/526399"
   }
  ],
  "feeds": {
@@ -10144,8 +10143,8 @@
    "last": "2026-08-10 08:53:00"
   },
   "PLAYERS": {
-   "count": 615,
-   "last": "2026-08-11 00:30:42"
+   "count": 616,
+   "last": "2026-08-11 13:34:55"
   },
   "RATINGS": {
    "count": 950,
@@ -10172,6 +10171,6 @@
    "last": "2026-08-11 13:10:52"
   }
  },
- "generated_at": "2026-08-11T13:10:57",
- "total": 7787
+ "generated_at": "2026-08-11T13:35:08",
+ "total": 7788
 }
