@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "U16 Euro Championship A Lithuania 80, Italy 72",
+   "detected_at": "2026-08-11 10:31:16",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-11/Italy-at-Lithuania/526239"
+  },
+  {
    "detail": "Josh Okogie  ~ weight_lb: - -> 213",
    "detected_at": "2026-08-11 09:40:49",
    "source": "WIKI",
@@ -10129,13 +10136,6 @@
    "source": "RATINGS",
    "type": "TOP5",
    "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/Netherlands-at-Poland/526454"
-  },
-  {
-   "detail": "National Teams ★ 1. Ilias Van Hecke 31.5 — 21p 6r 3a 32.7m (Belgium)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP1",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/Czech-Republic-at-Belgium/526455"
   }
  ],
  "feeds": {
@@ -10156,8 +10156,8 @@
    "last": "2026-08-10 22:43:20"
   },
   "SCORES": {
-   "count": 177,
-   "last": "2026-08-11 09:30:39"
+   "count": 178,
+   "last": "2026-08-11 10:31:16"
   },
   "SHEETS": {
    "count": 3361,
@@ -10172,6 +10172,6 @@
    "last": "2026-08-11 09:40:49"
   }
  },
- "generated_at": "2026-08-11T09:40:53",
- "total": 7771
+ "generated_at": "2026-08-11T10:31:18",
+ "total": 7772
 }
