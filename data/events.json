@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "WNBA Atlanta Dream 107, Toronto Tempo 95",
+   "detected_at": "2026-08-10 21:38:12",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-10/Toronto-at-Atlanta/158682"
+  },
+  {
    "detail": "Lonnie Walker IV  ~ team: Denver Nuggets -> Free agent",
    "detected_at": "2026-08-10 14:14:51",
    "source": "WIKI",
@@ -10132,13 +10139,6 @@
    "source": "RATINGS",
    "type": "TOP1",
    "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/Sweden-at-Norway/526473"
-  },
-  {
-   "detail": "National Teams 2. Noah Kartal 26.3 — 16p 7r 0a 25.3m (Sweden)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP2",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/Sweden-at-Norway/526473"
   }
  ],
  "feeds": {
@@ -10159,8 +10159,8 @@
    "last": "2026-08-09 20:02:11"
   },
   "SCORES": {
-   "count": 162,
-   "last": "2026-08-10 11:24:10"
+   "count": 163,
+   "last": "2026-08-10 21:38:12"
   },
   "SHEETS": {
    "count": 3361,
@@ -10175,6 +10175,6 @@
    "last": "2026-08-10 14:14:51"
   }
  },
- "generated_at": "2026-08-10T14:14:53",
- "total": 7730
+ "generated_at": "2026-08-10T21:38:16",
+ "total": 7731
 }
