@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "WNBA Seattle Storm 97, Chicago Sky 88",
+   "detected_at": "2026-08-10 22:43:21",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-10/Chicago-at-Seattle/158576"
+  },
+  {
+   "detail": "WNBA + Taylor Thierry → Seattle Storm",
+   "detected_at": "2026-08-10 22:43:20",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Mexican LNBP Fuerza Regia 95, Diablos Rojos 94",
+   "detected_at": "2026-08-10 22:43:14",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-10/Fuerza-Regia-at-Diablos-Rojos/526088"
+  },
+  {
    "detail": "WNBA Atlanta Dream 107, Toronto Tempo 95",
    "detected_at": "2026-08-10 21:38:12",
    "source": "SCORES",
@@ -10118,27 +10139,6 @@
    "source": "RATINGS",
    "type": "TOP3",
    "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/Ireland-at-Portugal/526472"
-  },
-  {
-   "detail": "National Teams 4. Nathan Gbinigie 10.1 — 8p 3r 1a 24.4m (Ireland)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP4",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/Ireland-at-Portugal/526472"
-  },
-  {
-   "detail": "National Teams 5. Miguel Sousa 9.8 — 15p 13r 0a 25.6m (Portugal, lost)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP5",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/Ireland-at-Portugal/526472"
-  },
-  {
-   "detail": "National Teams ★ 1. Simon Massamba 28.9 — 20p 3r 7a 26.7m (Sweden)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP1",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/Sweden-at-Norway/526473"
   }
  ],
  "feeds": {
@@ -10155,12 +10155,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 22,
-   "last": "2026-08-09 20:02:11"
+   "count": 23,
+   "last": "2026-08-10 22:43:20"
   },
   "SCORES": {
-   "count": 163,
-   "last": "2026-08-10 21:38:12"
+   "count": 165,
+   "last": "2026-08-10 22:43:21"
   },
   "SHEETS": {
    "count": 3361,
@@ -10175,6 +10175,6 @@
    "last": "2026-08-10 14:14:51"
   }
  },
- "generated_at": "2026-08-10T21:38:16",
- "total": 7731
+ "generated_at": "2026-08-10T22:43:27",
+ "total": 7734
 }
