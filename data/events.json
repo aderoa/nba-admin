@@ -1,6 +1,41 @@
 {
  "events": [
   {
+   "detail": "Yakuba Ouattara  ~ number: 24 -> -",
+   "detected_at": "2026-08-12 10:56:25",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Yakuba_Ouattara"
+  },
+  {
+   "detail": "Bryant Dunston  ~ team: Olimpia Milano -> Free agent",
+   "detected_at": "2026-08-12 10:56:25",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Bryant_Dunston"
+  },
+  {
+   "detail": "Bryant Dunston  ~ league: LBA EuroLeague -> -",
+   "detected_at": "2026-08-12 10:56:25",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Bryant_Dunston"
+  },
+  {
+   "detail": "Bryant Dunston  ~ number: 42 -> -",
+   "detected_at": "2026-08-12 10:56:25",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Bryant_Dunston"
+  },
+  {
+   "detail": "Bryant Dunston  ~ CAREER  + 2025–2026 Olimpia Milano",
+   "detected_at": "2026-08-12 10:56:25",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Bryant_Dunston"
+  },
+  {
    "detail": "U16 Euro Championship A Germany 78, Israel 75",
    "detected_at": "2026-08-12 10:11:03",
    "source": "SCORES",
@@ -10120,36 +10155,6 @@
    "detected_at": "2026-08-03 09:14:39",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col11: 0 -> 21322796.81",
-   "detected_at": "2026-08-03 09:14:39",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Update 1.3 (7/18/26): K. Bufkin, M. Cisse, I. Crawford, H. Ingram, L. James, S. Jones, J. Phillips, J. Tate, M. Thybulle, O. Tshiebwe, J. Walsh",
-   "detected_at": "2026-08-03 09:14:33",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Update 1.3 (7/18/26): K. Bufkin, M. Cisse, I. Crawford, D. Green, H. Ingram, L. James, S. Jones, C. Koloko, J. Phillips, J. Tate, M. Thybulle, O. Tshiebwe, J. Walsh",
-   "detected_at": "2026-08-03 09:14:33",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Draymond Green Golden State Warriors",
-   "detected_at": "2026-08-03 09:14:33",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  26-27 $27,678,571",
-   "detected_at": "2026-08-03 09:14:33",
-   "source": "DOCS",
-   "type": "ADDED"
   }
  ],
  "feeds": {
@@ -10182,10 +10187,10 @@
    "last": "2026-08-08 17:40:55"
   },
   "WIKI": {
-   "count": 447,
-   "last": "2026-08-12 10:10:13"
+   "count": 452,
+   "last": "2026-08-12 10:56:25"
   }
  },
- "generated_at": "2026-08-12T10:11:05",
- "total": 7882
+ "generated_at": "2026-08-12T10:57:32",
+ "total": 7887
 }
