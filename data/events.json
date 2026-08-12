@@ -1,6 +1,629 @@
 {
  "events": [
   {
+   "detail": "U16 Euro Championship A Germany 78, Israel 75",
+   "detected_at": "2026-08-12 10:11:03",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-11/Germany-at-Israel/526241"
+  },
+  {
+   "detail": "U16 Euro Championship A France 89, Georgia 54",
+   "detected_at": "2026-08-12 10:11:00",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-11/Georgia-at-France/526242"
+  },
+  {
+   "detail": "U16 Euro Championship B Montenegro 77, Netherlands 53",
+   "detected_at": "2026-08-12 10:10:57",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-11/Montenegro-at-Netherlands/526327"
+  },
+  {
+   "detail": "U16 Euro Championship B Hungary 95, Denmark 68",
+   "detected_at": "2026-08-12 10:10:54",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-11/Denmark-at-Hungary/526367"
+  },
+  {
+   "detail": "U16 Euro Championship A Latvia 92, Greece 80",
+   "detected_at": "2026-08-12 10:10:51",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-12/Greece-at-Latvia/526244"
+  },
+  {
+   "detail": "U16 Euro Championship A Serbia 95, Slovenia 91",
+   "detected_at": "2026-08-12 10:10:48",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-12/Slovenia-at-Serbia/526256"
+  },
+  {
+   "detail": "U16 Euro Championship A Czech Republic 93, Belgium 88",
+   "detected_at": "2026-08-12 10:10:45",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-12/Belgium-at-Czech-Republic/526255"
+  },
+  {
+   "detail": "U16 Euro Championship A Spain 86, Poland 74",
+   "detected_at": "2026-08-12 10:10:42",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-12/Spain-at-Poland/526243"
+  },
+  {
+   "detail": "WNBA + Tonie Morgan → Los Angeles Sparks",
+   "detected_at": "2026-08-12 10:10:37",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "WNBA Phoenix Mercury 94, Los Angeles Sparks 87",
+   "detected_at": "2026-08-12 10:10:37",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-11/Phoenix-at-LA-Sparks/158579"
+  },
+  {
+   "detail": "WNBA Las Vegas Aces 86, Washington Mystics 76",
+   "detected_at": "2026-08-12 10:10:35",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-11/Washington-at-Las-Vegas/158578"
+  },
+  {
+   "detail": "WNBA + Betnijah Laney-Hamilton → Washington Mystics",
+   "detected_at": "2026-08-12 10:10:34",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "WNBA Indiana Fever 106, New York Liberty 92",
+   "detected_at": "2026-08-12 10:10:32",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-11/New-York-at-Indiana/158577"
+  },
+  {
+   "detail": "WNBA + Mercedes Russell → Indiana Fever",
+   "detected_at": "2026-08-12 10:10:31",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Mexican LNBP ~ RETURN Emmanuel Akot → El Calor de Cancun (from Winnipeg Sea Bears)",
+   "detected_at": "2026-08-12 10:10:28",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "Mexican LNBP + Edgaras Zelionis → El Calor de Cancun",
+   "detected_at": "2026-08-12 10:10:28",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Mexican LNBP Mineros de Zacatecas 78, El Calor de Cancun 67",
+   "detected_at": "2026-08-12 10:10:28",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-11/Mineros-de-Zacatecas-at-El-Calor-de-Cancun/526087"
+  },
+  {
+   "detail": "Mexican LNBP + Charly Zesati → Gambusinos",
+   "detected_at": "2026-08-12 10:10:25",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Mexican LNBP + Ivan Bernal → Dorados de Chihuahua",
+   "detected_at": "2026-08-12 10:10:25",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Mexican LNBP + Mikh McKinney → Dorados de Chihuahua",
+   "detected_at": "2026-08-12 10:10:25",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Mexican LNBP Dorados de Chihuahua 91, Gambusinos 77",
+   "detected_at": "2026-08-12 10:10:25",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-11/Gambusinos-at-Dorados-de-Chihuahua/526086"
+  },
+  {
+   "detail": "Mexican LNBP Correcaminos 86, Freseros Irapuato 83",
+   "detected_at": "2026-08-12 10:10:23",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-11/Correcaminos-at-Freseros-Irapuato/526085"
+  },
+  {
+   "detail": "Mexican LNBP + Christian Coleman → Correcaminos",
+   "detected_at": "2026-08-12 10:10:22",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Patty Mills  ~ team: ASVEL -> LDLC ASVEL",
+   "detected_at": "2026-08-12 10:10:13",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Patty_Mills"
+  },
+  {
+   "detail": "Isaiah Taylor  ~ CAREER  + 2025-2026 Maree Basketball Galway",
+   "detected_at": "2026-08-12 10:10:13",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Isaiah_Taylor"
+  },
+  {
+   "detail": "David Roddy  ~ position: small forward -> Power forward / small forward",
+   "detected_at": "2026-08-12 10:10:13",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/David_Roddy"
+  },
+  {
+   "detail": "Spencer Dinwiddie  ~ CAREER  + 2025 Bayern Munich",
+   "detected_at": "2026-08-12 10:10:13",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Spencer_Dinwiddie"
+  },
+  {
+   "detail": "Frank Ntilikina  ~ team: Free agent -> Paris Basketball",
+   "detected_at": "2026-08-12 10:10:13",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Frank_Ntilikina"
+  },
+  {
+   "detail": "Frank Ntilikina  ~ league: - -> LNB Élite EuroLeague",
+   "detected_at": "2026-08-12 10:10:13",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Frank_Ntilikina"
+  },
+  {
+   "detail": "Frank Ntilikina  ~ nationality: French / Rwandan -> -",
+   "detected_at": "2026-08-12 10:10:13",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Frank_Ntilikina"
+  },
+  {
+   "detail": "Frank Ntilikina  ~ CAREER  + 2026–present Paris Basketball",
+   "detected_at": "2026-08-12 10:10:13",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Frank_Ntilikina"
+  },
+  {
+   "detail": "Deividas Sirvydis  ~ CAREER  + 2023–2024 Lietkabelis Panevėžys",
+   "detected_at": "2026-08-12 10:10:13",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Deividas_Sirvydis"
+  },
+  {
+   "detail": "Nico Mannion  ~ team: BC Roma SPQR -> Roma SPQR",
+   "detected_at": "2026-08-12 10:10:13",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Nico_Mannion"
+  },
+  {
+   "detail": "Cameron Reynolds  ~ league: Lithuanian Basketball League -> LKL",
+   "detected_at": "2026-08-12 10:10:13",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Cameron_Reynolds"
+  },
+  {
+   "detail": "Cameron Reynolds  ~ CAREER  + 2026–present Juventus Utena",
+   "detected_at": "2026-08-12 10:10:13",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Cameron_Reynolds"
+  },
+  {
+   "detail": "MarJon Beauchamp  ~ team: Free agent -> FC Bayern Munich",
+   "detected_at": "2026-08-12 10:10:13",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/MarJon_Beauchamp"
+  },
+  {
+   "detail": "MarJon Beauchamp  ~ league: - -> BBL EuroLeague",
+   "detected_at": "2026-08-12 10:10:13",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/MarJon_Beauchamp"
+  },
+  {
+   "detail": "MarJon Beauchamp  ~ CAREER  + 2026–present Bayern Munich",
+   "detected_at": "2026-08-12 10:10:13",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/MarJon_Beauchamp"
+  },
+  {
+   "detail": "Joel Bolomboy  ~ team: ASVEL -> LDLC ASVEL",
+   "detected_at": "2026-08-12 10:10:13",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Joel_Bolomboy"
+  },
+  {
+   "detail": "Joel Bolomboy  ~ league: LNB Élite / EuroLeague -> LNB Élite EuroLeague",
+   "detected_at": "2026-08-12 10:10:13",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Joel_Bolomboy"
+  },
+  {
+   "detail": "Jesse Edwards (basketball)  ~ team: BC Roma SPQR -> Roma SPQR",
+   "detected_at": "2026-08-12 10:10:13",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jesse_Edwards_(basketball)"
+  },
+  {
+   "detail": "Stefan Momirov  ~ team: Spartak Subotica -> Free agent",
+   "detected_at": "2026-08-12 10:10:13",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Stefan_Momirov"
+  },
+  {
+   "detail": "Stefan Momirov  ~ league: Serbian League ABA League -> -",
+   "detected_at": "2026-08-12 10:10:13",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Stefan_Momirov"
+  },
+  {
+   "detail": "Stefan Momirov  ~ number: 8 -> -",
+   "detected_at": "2026-08-12 10:10:13",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Stefan_Momirov"
+  },
+  {
+   "detail": "Stefan Momirov  ~ CAREER  + 2018 →Vršac",
+   "detected_at": "2026-08-12 10:10:13",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Stefan_Momirov"
+  },
+  {
+   "detail": "Stefan Momirov  ~ CAREER  + 2022–2024 Breogán",
+   "detected_at": "2026-08-12 10:10:13",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Stefan_Momirov"
+  },
+  {
+   "detail": "Stefan Momirov  ~ CAREER  + 2024–2026 Spartak Subotica",
+   "detected_at": "2026-08-12 10:10:13",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Stefan_Momirov"
+  },
+  {
+   "detail": "Nikola Rebić  ~ team: Spartak Subotica -> Free agent",
+   "detected_at": "2026-08-12 10:10:13",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Nikola_Rebi%C4%87"
+  },
+  {
+   "detail": "Nikola Rebić  ~ league: Serbian League ABA League -> -",
+   "detected_at": "2026-08-12 10:10:13",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Nikola_Rebi%C4%87"
+  },
+  {
+   "detail": "Nikola Rebić  ~ number: 44 -> -",
+   "detected_at": "2026-08-12 10:10:13",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Nikola_Rebi%C4%87"
+  },
+  {
+   "detail": "Nikola Rebić  ~ nationality: Serbian -> -",
+   "detected_at": "2026-08-12 10:10:13",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Nikola_Rebi%C4%87"
+  },
+  {
+   "detail": "Nikola Rebić  ~ CAREER  + 2025–2026 Spartak Subotica",
+   "detected_at": "2026-08-12 10:10:13",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Nikola_Rebi%C4%87"
+  },
+  {
+   "detail": "Laurynas Beliauskas  ~ team: Dinamo Sassari -> Juventus Utena",
+   "detected_at": "2026-08-12 10:10:13",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Laurynas_Beliauskas"
+  },
+  {
+   "detail": "Laurynas Beliauskas  ~ league: LBA -> LKL",
+   "detected_at": "2026-08-12 10:10:13",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Laurynas_Beliauskas"
+  },
+  {
+   "detail": "Laurynas Beliauskas  ~ number: 9 -> -",
+   "detected_at": "2026-08-12 10:10:13",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Laurynas_Beliauskas"
+  },
+  {
+   "detail": "Laurynas Beliauskas  ~ CAREER  + 2025–2026 Dinamo Sassari",
+   "detected_at": "2026-08-12 10:10:13",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Laurynas_Beliauskas"
+  },
+  {
+   "detail": "Laurynas Beliauskas  ~ CAREER  + 2026–present Juventus Utena",
+   "detected_at": "2026-08-12 10:10:13",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Laurynas_Beliauskas"
+  },
+  {
+   "detail": "Shevon Thompson  ~ team: Spartak Subotica -> Free agent",
+   "detected_at": "2026-08-12 10:10:13",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Shevon_Thompson"
+  },
+  {
+   "detail": "Shevon Thompson  ~ league: Serbian League ABA League -> -",
+   "detected_at": "2026-08-12 10:10:13",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Shevon_Thompson"
+  },
+  {
+   "detail": "Shevon Thompson  ~ number: 21 -> -",
+   "detected_at": "2026-08-12 10:10:13",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Shevon_Thompson"
+  },
+  {
+   "detail": "Shevon Thompson  ~ CAREER  + 2025–2026 Spartak Subotica",
+   "detected_at": "2026-08-12 10:10:13",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Shevon_Thompson"
+  },
+  {
+   "detail": "Egor Koulechov  ~ team: Hapoel Tel Aviv -> Free agent",
+   "detected_at": "2026-08-12 10:10:13",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Egor_Koulechov"
+  },
+  {
+   "detail": "Egor Koulechov  ~ league: Israeli Premier League EuroLeague -> -",
+   "detected_at": "2026-08-12 10:10:13",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Egor_Koulechov"
+  },
+  {
+   "detail": "Egor Koulechov  ~ number: 77 -> -",
+   "detected_at": "2026-08-12 10:10:13",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Egor_Koulechov"
+  },
+  {
+   "detail": "Egor Koulechov  ~ CAREER  + 2026 Hapoel Tel Aviv",
+   "detected_at": "2026-08-12 10:10:13",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Egor_Koulechov"
+  },
+  {
+   "detail": "Olivier Hanlan  ~ team: Spartak Subotica -> Free agent",
+   "detected_at": "2026-08-12 10:10:13",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Olivier_Hanlan"
+  },
+  {
+   "detail": "Olivier Hanlan  ~ league: Serbian League ABA League -> -",
+   "detected_at": "2026-08-12 10:10:13",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Olivier_Hanlan"
+  },
+  {
+   "detail": "Olivier Hanlan  ~ number: 7 -> -",
+   "detected_at": "2026-08-12 10:10:13",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Olivier_Hanlan"
+  },
+  {
+   "detail": "Olivier Hanlan  ~ CAREER  + 2025–2026 Spartak Subotica",
+   "detected_at": "2026-08-12 10:10:13",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Olivier_Hanlan"
+  },
+  {
+   "detail": "Nate Sestina  ~ team: Free agent -> LDLC ASVEL",
+   "detected_at": "2026-08-12 10:10:13",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Nate_Sestina"
+  },
+  {
+   "detail": "Nate Sestina  ~ league: - -> LNB Élite EuroLeague",
+   "detected_at": "2026-08-12 10:10:13",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Nate_Sestina"
+  },
+  {
+   "detail": "Nate Sestina  ~ number: - -> 77",
+   "detected_at": "2026-08-12 10:10:13",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Nate_Sestina"
+  },
+  {
+   "detail": "Nate Sestina  ~ CAREER  + 2026–present ASVEL",
+   "detected_at": "2026-08-12 10:10:13",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Nate_Sestina"
+  },
+  {
+   "detail": "Krišs Helmanis  ~ team: Diablos Rojos del México -> Boca Juniors",
+   "detected_at": "2026-08-12 10:10:13",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kri%C5%A1s_Helmanis"
+  },
+  {
+   "detail": "Krišs Helmanis  ~ league: Liga Nacional de Baloncesto Profesional -> Liga Nacional de Básquetbol",
+   "detected_at": "2026-08-12 10:10:13",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kri%C5%A1s_Helmanis"
+  },
+  {
+   "detail": "Krišs Helmanis  ~ number: 9 -> 7",
+   "detected_at": "2026-08-12 10:10:13",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kri%C5%A1s_Helmanis"
+  },
+  {
+   "detail": "Krišs Helmanis  ~ CAREER  + 2025–2026 Diablos Rojos del México",
+   "detected_at": "2026-08-12 10:10:13",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Kri%C5%A1s_Helmanis"
+  },
+  {
+   "detail": "Krišs Helmanis  ~ CAREER  + 2026–present Boca Juniors",
+   "detected_at": "2026-08-12 10:10:13",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Kri%C5%A1s_Helmanis"
+  },
+  {
+   "detail": "José Vildoza  ~ team: Bàsquet Girona -> Boca Juniors",
+   "detected_at": "2026-08-12 10:10:13",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Vildoza"
+  },
+  {
+   "detail": "José Vildoza  ~ number: 10 -> 11",
+   "detected_at": "2026-08-12 10:10:13",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Vildoza"
+  },
+  {
+   "detail": "José Vildoza  ~ CAREER  + 2025–2026 Bàsquet Girona",
+   "detected_at": "2026-08-12 10:10:13",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Vildoza"
+  },
+  {
+   "detail": "José Vildoza  ~ CAREER  + 2026–present Boca Juniors",
+   "detected_at": "2026-08-12 10:10:13",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Vildoza"
+  },
+  {
+   "detail": "Javontae Hawkins  ~ team: Spartak Subotica -> Free agent",
+   "detected_at": "2026-08-12 10:10:13",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Javontae_Hawkins"
+  },
+  {
+   "detail": "Javontae Hawkins  ~ league: Serbian League ABA League -> -",
+   "detected_at": "2026-08-12 10:10:13",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Javontae_Hawkins"
+  },
+  {
+   "detail": "Javontae Hawkins  ~ number: 23 -> -",
+   "detected_at": "2026-08-12 10:10:13",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Javontae_Hawkins"
+  },
+  {
+   "detail": "Javontae Hawkins  ~ CAREER  + 2025–2026 Spartak Subotica",
+   "detected_at": "2026-08-12 10:10:13",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Javontae_Hawkins"
+  },
+  {
+   "detail": "Saliou Niang  ~ team: LSU Tigers -> Virtus Bologna",
+   "detected_at": "2026-08-12 10:10:13",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Saliou_Niang"
+  },
+  {
+   "detail": "Marcus Denmon  ~ team: Free Agent -> -",
+   "detected_at": "2026-08-12 10:10:13",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Marcus_Denmon"
+  },
+  {
+   "detail": "Marcus Denmon  ~ career_end: - -> 2024",
+   "detected_at": "2026-08-12 10:10:13",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Marcus_Denmon"
+  },
+  {
    "detail": "PBA Governors Cup + Xyrus Torres → NLEX Road Warriors",
    "detected_at": "2026-08-12 00:09:53",
    "source": "REALGM",
@@ -9527,614 +10150,6 @@
    "detected_at": "2026-08-03 09:14:33",
    "source": "DOCS",
    "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Bird Exception. Advance Payment ($13,839,286). Player Trade Consent. Skill; Injury or Illness; Mental; Death. Trade Kicker (15%). Love of the Game. Alt. 7(b).",
-   "detected_at": "2026-08-03 09:14:33",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 7/29/26",
-   "detected_at": "2026-08-03 09:14:33",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Christian Koloko New Orleans Pelicans",
-   "detected_at": "2026-08-03 09:14:33",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  26-27 $2,625,627",
-   "detected_at": "2026-08-03 09:14:33",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp.",
-   "detected_at": "2026-08-03 09:14:33",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 7/28/26",
-   "detected_at": "2026-08-03 09:14:33",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  - REMOVED Update 1.3 (7/18/26):",
-   "detected_at": "2026-08-03 09:14:33",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Update 1.3 (7/18/26): K. Lopez",
-   "detected_at": "2026-08-03 09:14:33",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  #21 Kareem Lopez Memphis Grizzlies",
-   "detected_at": "2026-08-03 09:14:33",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  26-27 $3,746,760",
-   "detected_at": "2026-08-03 09:14:33",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  27-28 $3,834,320 ($3,934,320)",
-   "detected_at": "2026-08-03 09:14:33",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  28-29 $4,121,760 (Team Option)",
-   "detected_at": "2026-08-03 09:14:33",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  29-30 $6,565,964 (Team Option)",
-   "detected_at": "2026-08-03 09:14:33",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  120% (with likely to be earned bonuses - Summer League and Summer Conditioning). Rookie Scale Exception. Advance Payment ($400,000). Insurance Premium Reimbursement. Skill; Injury or Illness; Mental. Love of the Game. Physical Exam. Alt. 7(b).",
-   "detected_at": "2026-08-03 09:14:33",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 7/29/26",
-   "detected_at": "2026-08-03 09:14:33",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "WNBA ★ 1. Olivia Miles 37.1 — 28p 4r 6a 31.5m (Minnesota Lynx)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP1",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-02/Indiana-at-Minnesota/158554"
-  },
-  {
-   "detail": "WNBA 2. Courtney Williams 34.1 — 27p 4r 5a 34.0m (Minnesota Lynx)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP2",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-02/Indiana-at-Minnesota/158554"
-  },
-  {
-   "detail": "WNBA 3. Napheesa Collier 31.1 — 18p 8r 7a 31.4m (Minnesota Lynx)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP3",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-02/Indiana-at-Minnesota/158554"
-  },
-  {
-   "detail": "WNBA 4. Kelsey Mitchell 29.6 — 37p 1r 3a 35.2m (Indiana Fever, lost)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP4",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-02/Indiana-at-Minnesota/158554"
-  },
-  {
-   "detail": "WNBA 5. Natasha Howard 22.0 — 13p 4r 5a 22.7m (Minnesota Lynx)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP5",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-02/Indiana-at-Minnesota/158554"
-  },
-  {
-   "detail": "WNBA ★ 1. Dearica Hamby 32.5 — 23p 10r 4a 29.2m (Los Angeles Sparks)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP1",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-02/LA-Sparks-at-Portland/158555"
-  },
-  {
-   "detail": "WNBA 2. Nneka Ogwumike 23.1 — 22p 10r 2a 30.2m (Los Angeles Sparks)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP2",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-02/LA-Sparks-at-Portland/158555"
-  },
-  {
-   "detail": "WNBA 3. Erica Wheeler 20.8 — 12p 0r 8a 27.6m (Los Angeles Sparks)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP3",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-02/LA-Sparks-at-Portland/158555"
-  },
-  {
-   "detail": "WNBA 4. Bridget Carleton 19.1 — 24p 11r 1a 30.4m (Portland Fire, lost)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP4",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-02/LA-Sparks-at-Portland/158555"
-  },
-  {
-   "detail": "WNBA 5. Ariel Atkins 18.8 — 12p 3r 6a 30.6m (Los Angeles Sparks)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP5",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-02/LA-Sparks-at-Portland/158555"
-  },
-  {
-   "detail": "WNBA ★ 1. Arike Ogunbowale 25.8 — 15p 5r 5a 22.7m (Dallas Wings)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP1",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-02/Connecticut-at-Dallas/158556"
-  },
-  {
-   "detail": "WNBA 2. Jessica Shepard 20.2 — 15p 9r 2a 22.7m (Dallas Wings)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP2",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-02/Connecticut-at-Dallas/158556"
-  },
-  {
-   "detail": "WNBA 3. Azzi Fudd 18.6 — 12p 2r 1a 24.4m (Dallas Wings)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP3",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-02/Connecticut-at-Dallas/158556"
-  },
-  {
-   "detail": "WNBA 4. Diamond Miller 15.0 — 22p 4r 1a 29.8m (Connecticut Sun, lost)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP4",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-02/Connecticut-at-Dallas/158556"
-  },
-  {
-   "detail": "WNBA 5. Odyssey Sims 13.9 — 9p 2r 2a 20.4m (Dallas Wings)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP5",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-02/Connecticut-at-Dallas/158556"
-  },
-  {
-   "detail": "WNBA ★ 1. Janelle Salaun 28.7 — 24p 3r 2a 29.5m (Golden State Valkyries)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP1",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-02/Toronto-at-Golden-State/158679"
-  },
-  {
-   "detail": "WNBA 2. Veronica Burton 27.4 — 17p 2r 6a 28.8m (Golden State Valkyries)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP2",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-02/Toronto-at-Golden-State/158679"
-  },
-  {
-   "detail": "WNBA 3. Tiffany Hayes 22.1 — 15p 3r 4a 20.5m (Golden State Valkyries)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP3",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-02/Toronto-at-Golden-State/158679"
-  },
-  {
-   "detail": "WNBA 4. Kiah Stokes 20.9 — 8p 11r 1a 32.3m (Golden State Valkyries)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP4",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-02/Toronto-at-Golden-State/158679"
-  },
-  {
-   "detail": "WNBA 5. Gabby Williams 16.4 — 15p 2r 1a 19.3m (Golden State Valkyries)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP5",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-02/Toronto-at-Golden-State/158679"
-  },
-  {
-   "detail": "Canadian Elite Basketball League ★ 1. Mitchell Creek 36.6 — 28p 6r 6a 34.2m (Vancouver Bandits)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP1",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-02/Winnipeg-Sea-Bears-at-Vancouver-Bandits/520481"
-  },
-  {
-   "detail": "Canadian Elite Basketball League 2. Mychal Mulder 36.4 — 29p 5r 1a 27.3m (Vancouver Bandits)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP2",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-02/Winnipeg-Sea-Bears-at-Vancouver-Bandits/520481"
-  },
-  {
-   "detail": "Canadian Elite Basketball League 3. Shamar Givance 31.0 — 16p 2r 18a 31.9m (Vancouver Bandits)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP3",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-02/Winnipeg-Sea-Bears-at-Vancouver-Bandits/520481"
-  },
-  {
-   "detail": "Canadian Elite Basketball League 4. Emmanuel Akot 18.2 — 20p 5r 2a 27.1m (Winnipeg Sea Bears, lost)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP4",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-02/Winnipeg-Sea-Bears-at-Vancouver-Bandits/520481"
-  },
-  {
-   "detail": "Canadian Elite Basketball League 5. John Knight III 15.3 — 12p 3r 2a 22.2m (Vancouver Bandits)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP5",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-02/Winnipeg-Sea-Bears-at-Vancouver-Bandits/520481"
-  },
-  {
-   "detail": "Canadian Elite Basketball League ★ 1. Javonte Smart 24.1 — 22p 2r 10a 34.5m (Ottawa Blackjacks)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP1",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-02/Ottawa-Blackjacks-at-Edmonton-Stingers/520482"
-  },
-  {
-   "detail": "Canadian Elite Basketball League 2. Stanley Davis 18.5 — 25p 6r 5a 23.0m (Edmonton Stingers, lost)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP2",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-02/Ottawa-Blackjacks-at-Edmonton-Stingers/520482"
-  },
-  {
-   "detail": "Canadian Elite Basketball League 3. Tyrrel Tate 18.3 — 12p 5r 0a 28.8m (Ottawa Blackjacks)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP3",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-02/Ottawa-Blackjacks-at-Edmonton-Stingers/520482"
-  },
-  {
-   "detail": "Canadian Elite Basketball League 4. Isaih Moore 17.9 — 16p 13r 1a 28.5m (Ottawa Blackjacks)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP4",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-02/Ottawa-Blackjacks-at-Edmonton-Stingers/520482"
-  },
-  {
-   "detail": "Canadian Elite Basketball League 5. Matthew Cleveland 17.8 — 14p 4r 3a 18.8m (Ottawa Blackjacks)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP5",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-02/Ottawa-Blackjacks-at-Edmonton-Stingers/520482"
-  },
-  {
-   "detail": "PBA Governors Cup ★ 1. Javee Mocon 14.8 — 14p 10r 0a 22.9m (Meralco Bolts, lost)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP1",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-02/Meralco-Bolts-at-Rain-or-Shine-Elasto-Painters/526215"
-  },
-  {
-   "detail": "PBA Governors Cup 2. Caelan Tiongson 14.3 — 11p 2r 2a 29.1m (Rain or Shine Elasto Painters)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP2",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-02/Meralco-Bolts-at-Rain-or-Shine-Elasto-Painters/526215"
-  },
-  {
-   "detail": "PBA Governors Cup 3. Jhonard Clarito 14.2 — 11p 3r 4a 40.2m (Rain or Shine Elasto Painters)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP3",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-02/Meralco-Bolts-at-Rain-or-Shine-Elasto-Painters/526215"
-  },
-  {
-   "detail": "PBA Governors Cup 4. Deo Cuajao 13.4 — 12p 4r 2a 26.1m (Rain or Shine Elasto Painters)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP4",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-02/Meralco-Bolts-at-Rain-or-Shine-Elasto-Painters/526215"
-  },
-  {
-   "detail": "PBA Governors Cup 5. Aaron Fuller 12.4 — 25p 13r 1a 42.0m (Rain or Shine Elasto Painters)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP5",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-02/Meralco-Bolts-at-Rain-or-Shine-Elasto-Painters/526215"
-  },
-  {
-   "detail": "PBA Governors Cup ★ 1. Zavier Lucero 33.3 — 24p 10r 2a 42.3m (Magnolia Hotshots)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP1",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-02/Magnolia-Hotshots-at-Barangay-Ginebra-Kings/526216"
-  },
-  {
-   "detail": "PBA Governors Cup 2. K.J. Buffen 26.1 — 23p 11r 2a 38.1m (Magnolia Hotshots)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP2",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-02/Magnolia-Hotshots-at-Barangay-Ginebra-Kings/526216"
-  },
-  {
-   "detail": "PBA Governors Cup 3. Ian Paul Sangalang 17.0 — 16p 7r 2a 27.3m (Magnolia Hotshots)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP3",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-02/Magnolia-Hotshots-at-Barangay-Ginebra-Kings/526216"
-  },
-  {
-   "detail": "PBA Governors Cup 4. Stephen Holt 16.7 — 17p 5r 1a 33.7m (Barangay Ginebra Kings, lost)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP4",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-02/Magnolia-Hotshots-at-Barangay-Ginebra-Kings/526216"
-  },
-  {
-   "detail": "PBA Governors Cup 5. Jeth Troy Rosario 9.6 — 9p 4r 1a 32.2m (Barangay Ginebra Kings, lost)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP5",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-02/Magnolia-Hotshots-at-Barangay-Ginebra-Kings/526216"
-  },
-  {
-   "detail": "New Zealand NBL ★ 1. Caleb Asberry 27.2 — 26p 6r 3a 33.5m (Zerofees Southland Sharks)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP1",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-02/Zerofees-Southland-Sharks-at-Canterbury-Rams/526703"
-  },
-  {
-   "detail": "New Zealand NBL 2. Brayden Inger 15.7 — 9p 7r 0a 26.2m (Zerofees Southland Sharks)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP2",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-02/Zerofees-Southland-Sharks-at-Canterbury-Rams/526703"
-  },
-  {
-   "detail": "New Zealand NBL 3. Rene Rougeau 15.1 — 17p 7r 5a 31.3m (Canterbury Rams, lost)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP3",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-02/Zerofees-Southland-Sharks-at-Canterbury-Rams/526703"
-  },
-  {
-   "detail": "New Zealand NBL 4. Rylan Jones 14.1 — 14p 6r 5a 36.1m (Zerofees Southland Sharks)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP4",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-02/Zerofees-Southland-Sharks-at-Canterbury-Rams/526703"
-  },
-  {
-   "detail": "New Zealand NBL 5. Walter Brown 13.3 — 23p 5r 4a 33.6m (Canterbury Rams, lost)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP5",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-02/Zerofees-Southland-Sharks-at-Canterbury-Rams/526703"
-  },
-  {
-   "detail": "Puerto Rican BSN ★ 1. Joel Soriano 24.7 — 32p 16r 2a 43.8m (Santeros de Aguada, lost)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP1",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-02/Santeros-de-Aguada-at-Leones-de-Ponce/526706"
-  },
-  {
-   "detail": "Puerto Rican BSN 2. Thomas Robinson 24.2 — 22p 9r 2a 33.7m (Leones de Ponce)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP2",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-02/Santeros-de-Aguada-at-Leones-de-Ponce/526706"
-  },
-  {
-   "detail": "Puerto Rican BSN 3. Jalen Crutcher 18.3 — 16p 6r 13a 50.0m (Leones de Ponce)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP3",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-02/Santeros-de-Aguada-at-Leones-de-Ponce/526706"
-  },
-  {
-   "detail": "Puerto Rican BSN 4. Alejandro Vasquez 17.7 — 15p 7r 0a 19.2m (Leones de Ponce)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP4",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-02/Santeros-de-Aguada-at-Leones-de-Ponce/526706"
-  },
-  {
-   "detail": "Puerto Rican BSN 5. Jezreel De Jesus 17.2 — 25p 0r 1a 40.1m (Leones de Ponce)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP5",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-02/Santeros-de-Aguada-at-Leones-de-Ponce/526706"
-  },
-  {
-   "detail": "National Teams ★ 1. Stefan Joksimovic 28.7 — 24p 8r 5a 33.4m (Slovenia)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP1",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/Italy-at-Slovenia/526386"
-  },
-  {
-   "detail": "National Teams 2. Lukas Bojovic 23.6 — 21p 0r 0a 29.8m (Slovenia)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP2",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/Italy-at-Slovenia/526386"
-  },
-  {
-   "detail": "National Teams 3. Maks Ciperle 18.8 — 9p 9r 6a 27.6m (Slovenia)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP3",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/Italy-at-Slovenia/526386"
-  },
-  {
-   "detail": "National Teams 4. Jusuf Karisik 18.4 — 10p 10r 1a 21.7m (Slovenia)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP4",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/Italy-at-Slovenia/526386"
-  },
-  {
-   "detail": "National Teams 5. Cheickh Niang 15.0 — 27p 2r 4a 27.8m (Italy, lost)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP5",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/Italy-at-Slovenia/526386"
-  },
-  {
-   "detail": "National Teams ★ 1. Hugo Alonso 17.7 — 11p 5r 6a 28.5m (Spain, lost)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP1",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/France-at-Spain/526387"
-  },
-  {
-   "detail": "National Teams 2. Louka Letailleur 14.9 — 12p 9r 2a 27.8m (France)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP2",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/France-at-Spain/526387"
-  },
-  {
-   "detail": "National Teams 3. Jordan Monroc-Omiscar 14.2 — 8p 4r 3a 21.8m (France)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP3",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/France-at-Spain/526387"
-  },
-  {
-   "detail": "National Teams 4. Luca Rapini 12.5 — 6p 8r 0a 13.4m (France)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP4",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/France-at-Spain/526387"
-  },
-  {
-   "detail": "National Teams 5. Hugo Yimga Moukouri 9.8 — 16p 3r 0a 28.1m (France)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP5",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/France-at-Spain/526387"
-  },
-  {
-   "detail": "National Teams ★ 1. Dusan Ilic 28.2 — 16p 3r 11a 20.9m (Germany)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP1",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/Germany-at-Greece/526390"
-  },
-  {
-   "detail": "National Teams 2. Leonard Kroger 19.2 — 11p 11r 1a 19.2m (Germany)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP2",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/Germany-at-Greece/526390"
-  },
-  {
-   "detail": "National Teams 3. Anton Kemmer 19.0 — 13p 7r 0a 14.3m (Germany)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP3",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/Germany-at-Greece/526390"
-  },
-  {
-   "detail": "National Teams 4. Caspar Vossenberg 17.7 — 13p 1r 3a 20.5m (Germany)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP4",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/Germany-at-Greece/526390"
-  },
-  {
-   "detail": "National Teams 5. Chrysostomos Chatzilamprou 16.4 — 18p 14r 5a 34.1m (Greece, lost)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP5",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/Germany-at-Greece/526390"
-  },
-  {
-   "detail": "National Teams ★ 1. Omri Orland 31.2 — 20p 3r 10a 33.0m (Israel)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP1",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/Turkey-at-Israel/526391"
-  },
-  {
-   "detail": "National Teams 2. David Musis 25.3 — 26p 9r 0a 27.5m (Israel)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP2",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/Turkey-at-Israel/526391"
-  },
-  {
-   "detail": "National Teams 3. Rom Stoller 25.0 — 17p 3r 1a 26.7m (Israel)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP3",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/Turkey-at-Israel/526391"
-  },
-  {
-   "detail": "National Teams 4. Lior Hershko 19.7 — 13p 8r 1a 31.5m (Israel)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP4",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/Turkey-at-Israel/526391"
-  },
-  {
-   "detail": "National Teams 5. Anil Alyanak 14.2 — 12p 9r 3a 25.7m (Turkey, lost)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP5",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/Turkey-at-Israel/526391"
-  },
-  {
-   "detail": "National Teams ★ 1. Dorde Lilic 24.8 — 13p 9r 1a 23.9m (Serbia)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP1",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/Estonia-at-Serbia/526398"
-  },
-  {
-   "detail": "National Teams 2. Andrej Bjelic 20.1 — 19p 4r 1a 32.7m (Serbia)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP2",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/Estonia-at-Serbia/526398"
-  },
-  {
-   "detail": "National Teams 3. Luka Roganovic 16.0 — 14p 4r 1a 23.1m (Serbia)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP3",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/Estonia-at-Serbia/526398"
-  },
-  {
-   "detail": "National Teams 4. Roman Avdejev 12.0 — 14p 9r 0a 27.6m (Estonia, lost)",
-   "detected_at": "2026-08-02 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP4",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/Estonia-at-Serbia/526398"
   }
  ],
  "feeds": {
@@ -10151,12 +10166,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 24,
-   "last": "2026-08-12 00:09:53"
+   "count": 33,
+   "last": "2026-08-12 10:10:37"
   },
   "SCORES": {
-   "count": 182,
-   "last": "2026-08-12 00:09:53"
+   "count": 196,
+   "last": "2026-08-12 10:11:03"
   },
   "SHEETS": {
    "count": 3361,
@@ -10167,10 +10182,10 @@
    "last": "2026-08-08 17:40:55"
   },
   "WIKI": {
-   "count": 381,
-   "last": "2026-08-11 21:06:49"
+   "count": 447,
+   "last": "2026-08-12 10:10:13"
   }
  },
- "generated_at": "2026-08-12T00:11:07",
- "total": 7793
+ "generated_at": "2026-08-12T10:11:05",
+ "total": 7882
 }
