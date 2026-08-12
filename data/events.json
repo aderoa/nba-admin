@@ -1,6 +1,41 @@
 {
  "events": [
   {
+   "detail": "Elias Valtonen  ~ team: Covirán Granada -> Valencia Basket",
+   "detected_at": "2026-08-12 14:44:42",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Elias_Valtonen"
+  },
+  {
+   "detail": "Elias Valtonen  ~ league: Liga ACB -> Liga ACB EuroLeague",
+   "detected_at": "2026-08-12 14:44:42",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Elias_Valtonen"
+  },
+  {
+   "detail": "Elias Valtonen  ~ number: 11 -> -",
+   "detected_at": "2026-08-12 14:44:42",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Elias_Valtonen"
+  },
+  {
+   "detail": "Elias Valtonen  ~ CAREER  + 2024–2026 Granada",
+   "detected_at": "2026-08-12 14:44:42",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Elias_Valtonen"
+  },
+  {
+   "detail": "Elias Valtonen  ~ CAREER  + 2026-present Valencia",
+   "detected_at": "2026-08-12 14:44:42",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Elias_Valtonen"
+  },
+  {
    "detail": "- REMOVED Kelly Olynyk (SAS)",
    "detected_at": "2026-08-12 14:26:55",
    "source": "PLAYERS",
@@ -10133,36 +10168,6 @@
    "detected_at": "2026-08-03 09:14:39",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "GOS  CHANGED Avg, Salary (Mean) (No 10-Day K's & ROS)  -  col6: 3 -> 2",
-   "detected_at": "2026-08-03 09:14:39",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "MEM  CHANGED Lopez, Karim  -  TEAM SALARY CAP REPORT\n       -  MEMPHIS GRIZZLIES: 6 - DRAFT PICK -> 1 - FULL SEASON",
-   "detected_at": "2026-08-03 09:14:39",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "MEM  CHANGED Players Under Contract  -  col3: 134017042.9 -> 137763802.9, col4: 114196262.9 -> 118130582.9, col5: 39510620 -> 43632380, col6: 16476088.32 -> 23042052",
-   "detected_at": "2026-08-03 09:14:39",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "MEM  CHANGED Full Season Contracts  -  col3: 134017042.9 -> 137763802.9, col4: 114196262.9 -> 118130582.9, col5: 39510620 -> 43632380, col6: 16476088.32 -> 23042052",
-   "detected_at": "2026-08-03 09:14:39",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "MEM  CHANGED Draft Picks  -  col3: 3746760 -> 0, col4: 3934320 -> 0, col5: 4121760 -> 0, col6: 6565963.68 -> 0",
-   "detected_at": "2026-08-03 09:14:39",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10195,10 +10200,10 @@
    "last": "2026-08-08 17:40:55"
   },
   "WIKI": {
-   "count": 458,
-   "last": "2026-08-12 12:26:52"
+   "count": 463,
+   "last": "2026-08-12 14:44:42"
   }
  },
- "generated_at": "2026-08-12T14:27:27",
- "total": 7896
+ "generated_at": "2026-08-12T14:44:45",
+ "total": 7901
 }
