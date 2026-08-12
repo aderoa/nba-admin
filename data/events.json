@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Russell Westbrook  ~ team: Free agent -> -",
+   "detected_at": "2026-08-12 12:05:02",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Russell_Westbrook"
+  },
+  {
+   "detail": "Russell Westbrook  ~ position: Point guard -> -",
+   "detected_at": "2026-08-12 12:05:02",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Russell_Westbrook"
+  },
+  {
+   "detail": "Russell Westbrook  ~ career_end: - -> 2026",
+   "detected_at": "2026-08-12 12:05:02",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Russell_Westbrook"
+  },
+  {
    "detail": "U16 Euro Championship A Turkey 79, Georgia 71",
    "detected_at": "2026-08-12 11:20:10",
    "source": "SCORES",
@@ -10141,24 +10162,6 @@
    "detected_at": "2026-08-03 09:14:39",
    "source": "SHEETS",
    "type": "ADDED"
-  },
-  {
-   "detail": "NOL  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 215388271.8 -> 217837692.8, col9: 469029226.5 -> 471478647.5",
-   "detected_at": "2026-08-03 09:14:39",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "NOL  CHANGED Players Under Contract  -  col3: 194656740.9 -> 197106161.9",
-   "detected_at": "2026-08-03 09:14:39",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "NOL  CHANGED Full Season Contracts  -  col3: 194656740.9 -> 197106161.9",
-   "detected_at": "2026-08-03 09:14:39",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10191,10 +10194,10 @@
    "last": "2026-08-08 17:40:55"
   },
   "WIKI": {
-   "count": 454,
-   "last": "2026-08-12 11:19:28"
+   "count": 457,
+   "last": "2026-08-12 12:05:02"
   }
  },
- "generated_at": "2026-08-12T11:20:13",
- "total": 7891
+ "generated_at": "2026-08-12T12:05:15",
+ "total": 7894
 }
