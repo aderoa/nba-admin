@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Augusto Lima  ~ nationality: Brazilian / Spanish -> Brazilian",
+   "detected_at": "2026-08-12 12:26:52",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Augusto_Lima"
+  },
+  {
    "detail": "Russell Westbrook  ~ team: Free agent -> -",
    "detected_at": "2026-08-12 12:05:02",
    "source": "WIKI",
@@ -10156,12 +10163,6 @@
    "detected_at": "2026-08-03 09:14:39",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "NOL  + ADDED  Koloko,Christian",
-   "detected_at": "2026-08-03 09:14:39",
-   "source": "SHEETS",
-   "type": "ADDED"
   }
  ],
  "feeds": {
@@ -10194,10 +10195,10 @@
    "last": "2026-08-08 17:40:55"
   },
   "WIKI": {
-   "count": 457,
-   "last": "2026-08-12 12:05:02"
+   "count": 458,
+   "last": "2026-08-12 12:26:52"
   }
  },
- "generated_at": "2026-08-12T12:05:15",
- "total": 7894
+ "generated_at": "2026-08-12T12:27:55",
+ "total": 7895
 }
