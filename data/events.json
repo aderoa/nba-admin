@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "- REMOVED Kelly Olynyk (SAS)",
+   "detected_at": "2026-08-12 14:26:55",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
    "detail": "Augusto Lima  ~ nationality: Brazilian / Spanish -> Brazilian",
    "detected_at": "2026-08-12 12:26:52",
    "source": "WIKI",
@@ -10157,12 +10163,6 @@
    "detected_at": "2026-08-03 09:14:39",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "MEM  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 18 -> 19",
-   "detected_at": "2026-08-03 09:14:39",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10171,8 +10171,8 @@
    "last": "2026-08-10 08:53:00"
   },
   "PLAYERS": {
-   "count": 616,
-   "last": "2026-08-11 13:34:55"
+   "count": 617,
+   "last": "2026-08-12 14:26:55"
   },
   "RATINGS": {
    "count": 950,
@@ -10199,6 +10199,6 @@
    "last": "2026-08-12 12:26:52"
   }
  },
- "generated_at": "2026-08-12T12:27:55",
- "total": 7895
+ "generated_at": "2026-08-12T14:27:27",
+ "total": 7896
 }
