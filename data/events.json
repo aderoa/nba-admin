@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Ivan Kharchenkov  ~ weight_lb: 220 -> 230",
+   "detected_at": "2026-08-13 05:26:44",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Ivan_Kharchenkov"
+  },
+  {
    "detail": "Jeff Adrien  ~ team: Piratas de Quebradillas -> Free agent",
    "detected_at": "2026-08-13 04:32:42",
    "source": "WIKI",
@@ -10214,12 +10221,6 @@
    "detected_at": "2026-08-04 12:45:02",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col11: 21575589.25 -> 15511589.25",
-   "detected_at": "2026-08-04 12:45:02",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10252,10 +10253,10 @@
    "last": "2026-08-12 17:21:56"
   },
   "WIKI": {
-   "count": 528,
-   "last": "2026-08-13 04:32:42"
+   "count": 529,
+   "last": "2026-08-13 05:26:44"
   }
  },
- "generated_at": "2026-08-13T04:32:46",
- "total": 8002
+ "generated_at": "2026-08-13T05:26:51",
+ "total": 8003
 }
