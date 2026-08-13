@@ -1,6 +1,46 @@
 {
  "events": [
   {
+   "detail": "U18 AfroBasket Rwanda 88, Gabon 83",
+   "detected_at": "2026-08-12 17:42:46",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-12/Rwanda-at-Gabon/528934"
+  },
+  {
+   "detail": "U18 AfroBasket Nigeria 84, Morocco 76",
+   "detected_at": "2026-08-12 17:42:42",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-12/Nigeria-at-Morocco/528933"
+  },
+  {
+   "detail": "U16 Euro Championship A Italy 86, Israel 75",
+   "detected_at": "2026-08-12 17:42:38",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-12/Israel-at-Italy/526258"
+  },
+  {
+   "detail": "U16 Euro Championship A Lithuania 82, Germany 75",
+   "detected_at": "2026-08-12 17:42:32",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-12/Germany-at-Lithuania/526246"
+  },
+  {
+   "detail": "- REMOVED Haywood Highsmith (PHX)",
+   "detected_at": "2026-08-12 17:41:55",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "~ CHANGED Jalen Pickett  team: DEN -> LAC",
+   "detected_at": "2026-08-12 17:41:55",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "PHX  - REMOVED Highsmith, Haywood",
    "detected_at": "2026-08-12 17:27:06",
    "source": "SHEETS",
@@ -10125,48 +10165,6 @@
    "source": "RATINGS",
    "type": "TOP4",
    "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-03/Phoenix-at-Chicago/158559"
-  },
-  {
-   "detail": "WNBA 5. Valeriane Ayayi 16.1 — 11p 2r 1a 22.4m (Phoenix Mercury)",
-   "detected_at": "2026-08-03 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP5",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-03/Phoenix-at-Chicago/158559"
-  },
-  {
-   "detail": "Canadian Elite Basketball League ★ 1. Anthony Walker III 17.4 — 16p 7r 2a 23.1m (Scarborough Shooting Stars)",
-   "detected_at": "2026-08-03 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP1",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-03/Brampton-Honey-Badgers-at-Scarborough-Shooting-Stars/520483"
-  },
-  {
-   "detail": "Canadian Elite Basketball League 2. Myles Powell 15.8 — 19p 3r 1a 15.6m (Scarborough Shooting Stars)",
-   "detected_at": "2026-08-03 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP2",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-03/Brampton-Honey-Badgers-at-Scarborough-Shooting-Stars/520483"
-  },
-  {
-   "detail": "Canadian Elite Basketball League 3. Kellen Tynes 12.6 — 9p 7r 5a 28.0m (Scarborough Shooting Stars)",
-   "detected_at": "2026-08-03 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP3",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-03/Brampton-Honey-Badgers-at-Scarborough-Shooting-Stars/520483"
-  },
-  {
-   "detail": "Canadian Elite Basketball League 4. Terquavion Smith 11.3 — 8p 2r 4a 12.3m (Scarborough Shooting Stars)",
-   "detected_at": "2026-08-03 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP4",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-03/Brampton-Honey-Badgers-at-Scarborough-Shooting-Stars/520483"
-  },
-  {
-   "detail": "Canadian Elite Basketball League 5. Javan Johnson 9.3 — 14p 5r 3a 31.6m (Scarborough Shooting Stars)",
-   "detected_at": "2026-08-03 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP5",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-03/Brampton-Honey-Badgers-at-Scarborough-Shooting-Stars/520483"
   }
  ],
  "feeds": {
@@ -10175,8 +10173,8 @@
    "last": "2026-08-10 08:53:00"
   },
   "PLAYERS": {
-   "count": 618,
-   "last": "2026-08-12 17:21:55"
+   "count": 620,
+   "last": "2026-08-12 17:41:55"
   },
   "RATINGS": {
    "count": 950,
@@ -10187,8 +10185,8 @@
    "last": "2026-08-12 10:10:37"
   },
   "SCORES": {
-   "count": 198,
-   "last": "2026-08-12 11:20:10"
+   "count": 202,
+   "last": "2026-08-12 17:42:46"
   },
   "SHEETS": {
    "count": 3370,
@@ -10203,6 +10201,6 @@
    "last": "2026-08-12 15:53:47"
   }
  },
- "generated_at": "2026-08-12T17:34:36",
- "total": 7927
+ "generated_at": "2026-08-12T17:42:50",
+ "total": 7933
 }
