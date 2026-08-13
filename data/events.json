@@ -1,6 +1,34 @@
 {
  "events": [
   {
+   "detail": "WNBA Minnesota Lynx 85, Portland Fire 81",
+   "detected_at": "2026-08-13 01:25:25",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-12/Minnesota-at-Portland/158581"
+  },
+  {
+   "detail": "Mexican LNBP Soles 87, Abejas 80",
+   "detected_at": "2026-08-13 01:25:21",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-12/Abejas-at-Soles/526091"
+  },
+  {
+   "detail": "Mexican LNBP + Tommy Nuno → Abejas",
+   "detected_at": "2026-08-13 01:25:18",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Mexican LNBP + Dragan Apic → Soles",
+   "detected_at": "2026-08-13 01:25:18",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
    "detail": "Yannis Morin  ~ team: Free agent -> South East Melbourne Phoenix",
    "detected_at": "2026-08-13 00:49:38",
    "source": "WIKI",
@@ -10162,30 +10190,6 @@
    "detected_at": "2026-08-04 12:42:02",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col11: 11897010.25 -> 9447589.25",
-   "detected_at": "2026-08-04 12:42:02",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED 2nd Incremental Tax Bracket  -  col11: 18476250 -> 12228415.06",
-   "detected_at": "2026-08-04 12:42:02",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED 3rd Incremental Tax Bracket  -  col11: 2898556.375 -> 0",
-   "detected_at": "2026-08-04 12:42:02",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col11: 38429806.38 -> 29283415.06",
-   "detected_at": "2026-08-04 12:42:02",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10202,12 +10206,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 40,
-   "last": "2026-08-12 23:15:13"
+   "count": 42,
+   "last": "2026-08-13 01:25:18"
   },
   "SCORES": {
-   "count": 209,
-   "last": "2026-08-12 23:15:13"
+   "count": 211,
+   "last": "2026-08-13 01:25:25"
   },
   "SHEETS": {
    "count": 3370,
@@ -10222,6 +10226,6 @@
    "last": "2026-08-13 00:49:38"
   }
  },
- "generated_at": "2026-08-13T00:49:40",
- "total": 7968
+ "generated_at": "2026-08-13T01:25:32",
+ "total": 7972
 }
