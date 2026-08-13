@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Tyrus McGee  ~ height_ft: 6 -> -",
+   "detected_at": "2026-08-12 23:56:40",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Tyrus_McGee"
+  },
+  {
+   "detail": "Tyrus McGee  ~ height_in: 2 -> -",
+   "detected_at": "2026-08-12 23:56:40",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Tyrus_McGee"
+  },
+  {
    "detail": "Tyrus McGee  ~ team: Rytas Vilnius -> Free Agent",
    "detected_at": "2026-08-12 23:29:42",
    "source": "WIKI",
@@ -10168,18 +10182,6 @@
    "detected_at": "2026-08-04 12:41:58",
    "source": "DOCS",
    "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Minimum Salary Exception. Insurance Premium ReimbuSkill; Injury or Illness; Death. Love of the Game. Physical Exam. Alt. 7(b).",
-   "detected_at": "2026-08-04 12:41:58",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 7/6/26",
-   "detected_at": "2026-08-04 12:41:58",
-   "source": "DOCS",
-   "type": "ADDED"
   }
  ],
  "feeds": {
@@ -10212,10 +10214,10 @@
    "last": "2026-08-12 17:21:56"
   },
   "WIKI": {
-   "count": 492,
-   "last": "2026-08-12 23:29:42"
+   "count": 494,
+   "last": "2026-08-12 23:56:40"
   }
  },
- "generated_at": "2026-08-12T23:29:44",
- "total": 7962
+ "generated_at": "2026-08-12T23:56:42",
+ "total": 7964
 }
