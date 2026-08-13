@@ -1,6 +1,41 @@
 {
  "events": [
   {
+   "detail": "Daeqwon Plowden  ~ height_in: 4 -> 6",
+   "detected_at": "2026-08-12 23:01:40",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Daeqwon_Plowden"
+  },
+  {
+   "detail": "Haywood Highsmith  ~ team: Phoenix Suns -> Free agent",
+   "detected_at": "2026-08-12 23:01:40",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Haywood_Highsmith"
+  },
+  {
+   "detail": "Haywood Highsmith  ~ league: NBA -> -",
+   "detected_at": "2026-08-12 23:01:40",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Haywood_Highsmith"
+  },
+  {
+   "detail": "Haywood Highsmith  ~ number: 19 -> -",
+   "detected_at": "2026-08-12 23:01:40",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Haywood_Highsmith"
+  },
+  {
+   "detail": "Haywood Highsmith  ~ CAREER  + Phoenix Suns",
+   "detected_at": "2026-08-12 23:01:40",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Haywood_Highsmith"
+  },
+  {
    "detail": "WNBA + Ornella Bankole → Toronto Tempo",
    "detected_at": "2026-08-12 22:13:09",
    "source": "REALGM",
@@ -10137,36 +10172,6 @@
    "detected_at": "2026-08-04 12:41:04",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "GOS  CHANGED Avg, Salary (Mean) (No 10-Day K's & ROS)  -  col6: 2 -> 0",
-   "detected_at": "2026-08-04 12:41:04",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col11: 6998168.25 -> 11897010.25",
-   "detected_at": "2026-08-04 12:41:04",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED 2nd Incremental Tax Bracket  -  col11: 4267796.813 -> 18476250",
-   "detected_at": "2026-08-04 12:41:04",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED 3rd Incremental Tax Bracket  -  col11: 0 -> 2898556.375",
-   "detected_at": "2026-08-04 12:41:04",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col11: 21322796.81 -> 38429806.38",
-   "detected_at": "2026-08-04 12:41:04",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10199,10 +10204,10 @@
    "last": "2026-08-12 17:21:56"
   },
   "WIKI": {
-   "count": 483,
-   "last": "2026-08-12 21:21:41"
+   "count": 488,
+   "last": "2026-08-12 23:01:40"
   }
  },
- "generated_at": "2026-08-12T22:13:11",
- "total": 7949
+ "generated_at": "2026-08-12T23:01:43",
+ "total": 7954
 }
