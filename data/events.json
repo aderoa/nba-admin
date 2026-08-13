@@ -1,6 +1,34 @@
 {
  "events": [
   {
+   "detail": "U18 Asia Cup A Bahrain 74, Lebanon 68",
+   "detected_at": "2026-08-13 10:04:34",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-13/Bahrain-at-Lebanon/528518"
+  },
+  {
+   "detail": "U16 Euro Championship B Bosnia and Herzegovina 83, Great Britain 73",
+   "detected_at": "2026-08-13 10:04:29",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-13/Bosnia-and-Herzegovina-at-Great-Britain/526292"
+  },
+  {
+   "detail": "U16 Euro Championship B Austria 74, Bulgaria 71",
+   "detected_at": "2026-08-13 10:04:25",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-13/Austria-at-Bulgaria/526304"
+  },
+  {
+   "detail": "U18 AfroBasket Mali 66, Tunisia 55",
+   "detected_at": "2026-08-13 10:04:20",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-13/Tunisia-at-Mali/528921"
+  },
+  {
    "detail": "RayJ Dennis  ~ number: 00 -> 10",
    "detected_at": "2026-08-13 09:03:39",
    "source": "WIKI",
@@ -10224,30 +10252,6 @@
    "detected_at": "2026-08-04 12:54:56",
    "source": "DOCS",
    "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED 27-28 $12,500,000",
-   "detected_at": "2026-08-04 12:49:56",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED 28-29 $13,500,000",
-   "detected_at": "2026-08-04 12:49:56",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED 29-30 $14,500,000",
-   "detected_at": "2026-08-04 12:49:56",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED 4 Years for $56,000,000. Veteran Extension. Insurance Premium Reimbursement. Skill; Injury or Illness; Mental.",
-   "detected_at": "2026-08-04 12:49:56",
-   "source": "DOCS",
-   "type": "REMOVED"
   }
  ],
  "feeds": {
@@ -10268,8 +10272,8 @@
    "last": "2026-08-13 01:25:18"
   },
   "SCORES": {
-   "count": 216,
-   "last": "2026-08-13 06:57:20"
+   "count": 220,
+   "last": "2026-08-13 10:04:34"
   },
   "SHEETS": {
    "count": 3370,
@@ -10284,6 +10288,6 @@
    "last": "2026-08-13 09:03:39"
   }
  },
- "generated_at": "2026-08-13T09:03:52",
- "total": 8030
+ "generated_at": "2026-08-13T10:04:36",
+ "total": 8034
 }
