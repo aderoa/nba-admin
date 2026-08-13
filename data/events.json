@@ -1,6 +1,41 @@
 {
  "events": [
   {
+   "detail": "Ethan Thompson  ~ team: Partizan Belgrade -> Indiana Pacers",
+   "detected_at": "2026-08-13 06:45:16",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Ethan_Thompson"
+  },
+  {
+   "detail": "Ethan Thompson  ~ league: Serbian SuperLeague ABA League EuroLeague -> NBA",
+   "detected_at": "2026-08-13 06:45:16",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Ethan_Thompson"
+  },
+  {
+   "detail": "Ethan Thompson  ~ number: - -> 55",
+   "detected_at": "2026-08-13 06:45:16",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Ethan_Thompson"
+  },
+  {
+   "detail": "Ethan Thompson  ~ CAREER  + –present Indiana Pacers",
+   "detected_at": "2026-08-13 06:45:16",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Ethan_Thompson"
+  },
+  {
+   "detail": "Ethan Thompson  ~ CAREER  + 2025–present →Noblesville Boom",
+   "detected_at": "2026-08-13 06:45:16",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Ethan_Thompson"
+  },
+  {
    "detail": "Ethan Thompson  ~ team: Indiana Pacers -> Partizan Belgrade",
    "detected_at": "2026-08-13 06:19:48",
    "source": "WIKI",
@@ -10203,36 +10238,6 @@
    "detected_at": "2026-08-04 12:48:56",
    "source": "DOCS",
    "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  4 Years for $56,000,000. Veteran Extension. Insurance Premium Reimbursement. Skill; Injury or Illness; Mental.",
-   "detected_at": "2026-08-04 12:48:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 7/6/26",
-   "detected_at": "2026-08-04 12:48:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "DAL  CHANGED Marshall, Naji  -  col4: - -> 18195600.0, col5: - -> 17323584.0, col6: - -> 16680816.0, col9: 9428571 -> 61628571",
-   "detected_at": "2026-08-04 12:47:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "DAL  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col4: 169037737.6 -> 187233337.6, col5: 72082739 -> 89406323, col6: 40339896.24 -> 57020712.24, col9: 505632439.7 -> 557832439.7",
-   "detected_at": "2026-08-04 12:47:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "DAL  CHANGED Players Under Contract  -  col4: 165826521.4 -> 184022121.4, col5: 72082739 -> 89406323, col6: 40339896.24 -> 57020712.24",
-   "detected_at": "2026-08-04 12:47:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10265,10 +10270,10 @@
    "last": "2026-08-12 17:21:56"
   },
   "WIKI": {
-   "count": 541,
-   "last": "2026-08-13 06:19:48"
+   "count": 546,
+   "last": "2026-08-13 06:45:16"
   }
  },
- "generated_at": "2026-08-13T06:19:53",
- "total": 8015
+ "generated_at": "2026-08-13T06:45:17",
+ "total": 8020
 }
