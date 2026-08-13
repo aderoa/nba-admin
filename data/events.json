@@ -1,6 +1,41 @@
 {
  "events": [
   {
+   "detail": "U16 Euro Championship B Ireland 83, North Macedonia 58",
+   "detected_at": "2026-08-13 12:07:43",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-13/North-Macedonia-at-Ireland/526305"
+  },
+  {
+   "detail": "U16 Euro Championship B Portugal 90, Switzerland 59",
+   "detected_at": "2026-08-13 12:07:34",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-13/Portugal-at-Switzerland/526368"
+  },
+  {
+   "detail": "U16 Euro Championship B Croatia 80, Netherlands 51",
+   "detected_at": "2026-08-13 12:07:19",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-13/Netherlands-at-Croatia/526293"
+  },
+  {
+   "detail": "U18 AfroBasket Senegal 54, Madagascar 40",
+   "detected_at": "2026-08-13 12:07:07",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-13/Madagascar-at-Senegal/528922"
+  },
+  {
+   "detail": "U18 AfroBasket Morocco 94, Gabon 67",
+   "detected_at": "2026-08-13 12:07:01",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-13/Morocco-at-Gabon/528936"
+  },
+  {
    "detail": "LAC  CHANGED Beal, Bradley  -  col4: - -> 6746040, col9: 6424800 -> 13170840",
    "detected_at": "2026-08-13 10:27:45",
    "source": "SHEETS",
@@ -10222,36 +10257,6 @@
    "detected_at": "2026-08-04 12:55:56",
    "source": "DOCS",
    "type": "ADDED"
-  },
-  {
-   "detail": "BKN  + ADDED  Wagner, Moritz",
-   "detected_at": "2026-08-04 12:54:59",
-   "source": "SHEETS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "BKN  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 153505778.5 -> 162505778.5, col4: 109382828 -> 118832828, col9: 327453740.9 -> 345903740.9",
-   "detected_at": "2026-08-04 12:54:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "BKN  CHANGED Players Under Contract  -  col3: 151056357.5 -> 160056357.5, col4: 109382828 -> 118832828",
-   "detected_at": "2026-08-04 12:54:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "BKN  CHANGED Full Season Contracts  -  col3: 151056357.5 -> 160056357.5, col4: 109382828 -> 118832828",
-   "detected_at": "2026-08-04 12:54:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "BKN  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 14 -> 15",
-   "detected_at": "2026-08-04 12:54:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10272,8 +10277,8 @@
    "last": "2026-08-13 01:25:18"
   },
   "SCORES": {
-   "count": 220,
-   "last": "2026-08-13 10:04:34"
+   "count": 225,
+   "last": "2026-08-13 12:07:43"
   },
   "SHEETS": {
    "count": 3373,
@@ -10288,6 +10293,6 @@
    "last": "2026-08-13 09:03:39"
   }
  },
- "generated_at": "2026-08-13T10:28:14",
- "total": 8037
+ "generated_at": "2026-08-13T12:07:52",
+ "total": 8042
 }
