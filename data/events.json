@@ -1,6 +1,60 @@
 {
  "events": [
   {
+   "detail": "PHX  - REMOVED Highsmith, Haywood",
+   "detected_at": "2026-08-12 17:27:06",
+   "source": "SHEETS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "PHX  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 240231232.5 -> 237213074.5, col9: 753665257.4 -> 750647099.4",
+   "detected_at": "2026-08-12 17:27:06",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "PHX  CHANGED Players Under Contract  -  col3: 193597192 -> 190579034",
+   "detected_at": "2026-08-12 17:27:06",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "PHX  CHANGED Full Season Contracts  -  col3: 193597192 -> 190579034",
+   "detected_at": "2026-08-12 17:27:06",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "PHX  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 15 -> 14",
+   "detected_at": "2026-08-12 17:27:06",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "PHX  CHANGED Avg, Salary (Mean) (No 10-Day K's)  -  col6: 0 -> 1",
+   "detected_at": "2026-08-12 17:27:06",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col25: 16366242.52 -> 13348084.52",
+   "detected_at": "2026-08-12 17:27:06",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 3rd Incremental Tax Bracket  -  col25: 27479333.88 -> 10879464.88",
+   "detected_at": "2026-08-12 17:27:06",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col25: 63010583.88 -> 46410714.88",
+   "detected_at": "2026-08-12 17:27:06",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "2026-08-12  LA Clippers signed guard Jalen Pickett to a Two-Way Contract.",
    "detected_at": "2026-08-12 17:21:56",
    "source": "TRANSACTIONS",
@@ -10113,69 +10167,6 @@
    "source": "RATINGS",
    "type": "TOP5",
    "url": "https://basketball.realgm.com/international/boxscore/2026-08-03/Brampton-Honey-Badgers-at-Scarborough-Shooting-Stars/520483"
-  },
-  {
-   "detail": "Canadian Elite Basketball League ★ 1. Damari Monsanto 30.3 — 24p 7r 3a 20.6m (Saskatoon Mamba)",
-   "detected_at": "2026-08-03 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP1",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-03/Calgary-Surge-at-Saskatoon-Mamba/520484"
-  },
-  {
-   "detail": "Canadian Elite Basketball League 2. Jaden Clayton 21.2 — 10p 1r 13a 26.7m (Saskatoon Mamba)",
-   "detected_at": "2026-08-03 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP2",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-03/Calgary-Surge-at-Saskatoon-Mamba/520484"
-  },
-  {
-   "detail": "Canadian Elite Basketball League 3. Sincere Carry 18.2 — 17p 8r 6a 31.1m (Calgary Surge, lost)",
-   "detected_at": "2026-08-03 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP3",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-03/Calgary-Surge-at-Saskatoon-Mamba/520484"
-  },
-  {
-   "detail": "Canadian Elite Basketball League 4. D'Andre Bernard 15.8 — 10p 4r 0a 15.8m (Saskatoon Mamba)",
-   "detected_at": "2026-08-03 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP4",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-03/Calgary-Surge-at-Saskatoon-Mamba/520484"
-  },
-  {
-   "detail": "Canadian Elite Basketball League 5. Jaden Bediako 15.3 — 8p 7r 0a 13.2m (Saskatoon Mamba)",
-   "detected_at": "2026-08-03 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP5",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-03/Calgary-Surge-at-Saskatoon-Mamba/520484"
-  },
-  {
-   "detail": "Puerto Rican BSN ★ 1. Jassel Perez 27.2 — 23p 6r 2a 31.8m (Vaqueros de Bayamon)",
-   "detected_at": "2026-08-03 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP1",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-03/Criollos-de-Caguas-at-Vaqueros-de-Bayamon/526705"
-  },
-  {
-   "detail": "Puerto Rican BSN 2. Damian Jones 26.1 — 19p 2r 2a 17.0m (Vaqueros de Bayamon)",
-   "detected_at": "2026-08-03 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP2",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-03/Criollos-de-Caguas-at-Vaqueros-de-Bayamon/526705"
-  },
-  {
-   "detail": "Puerto Rican BSN 3. Renaldo Balkman 19.6 — 8p 8r 4a 22.7m (Vaqueros de Bayamon)",
-   "detected_at": "2026-08-03 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP3",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-03/Criollos-de-Caguas-at-Vaqueros-de-Bayamon/526705"
-  },
-  {
-   "detail": "Puerto Rican BSN 4. Chris McCullough 17.4 — 15p 2r 2a 24.4m (Vaqueros de Bayamon)",
-   "detected_at": "2026-08-03 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP4",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-03/Criollos-de-Caguas-at-Vaqueros-de-Bayamon/526705"
   }
  ],
  "feeds": {
@@ -10200,8 +10191,8 @@
    "last": "2026-08-12 11:20:10"
   },
   "SHEETS": {
-   "count": 3361,
-   "last": "2026-08-10 12:20:08"
+   "count": 3370,
+   "last": "2026-08-12 17:27:06"
   },
   "TRANSACTIONS": {
    "count": 269,
@@ -10212,6 +10203,6 @@
    "last": "2026-08-12 15:53:47"
   }
  },
- "generated_at": "2026-08-12T17:22:17",
- "total": 7918
+ "generated_at": "2026-08-12T17:34:36",
+ "total": 7927
 }
