@@ -1,6 +1,34 @@
 {
  "events": [
   {
+   "detail": "Trayvon Palmer  ~ team: Free Agent -> -",
+   "detected_at": "2026-08-13 03:15:42",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Trayvon_Palmer"
+  },
+  {
+   "detail": "Trayvon Palmer  ~ career_end: - -> 2024",
+   "detected_at": "2026-08-13 03:15:42",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Trayvon_Palmer"
+  },
+  {
+   "detail": "Miikka Muurinen  ~ league: Southeastern Conference -> SEC",
+   "detected_at": "2026-08-13 03:15:42",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Miikka_Muurinen"
+  },
+  {
+   "detail": "Miikka Muurinen  ~ position: Power forward / center -> Power forward",
+   "detected_at": "2026-08-13 03:15:42",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Miikka_Muurinen"
+  },
+  {
    "detail": "Johnny Davis (basketball, born 2002)  ~ team: Glint Manisa Basket -> Glint Körfez Basket",
    "detected_at": "2026-08-13 02:50:14",
    "source": "WIKI",
@@ -10183,30 +10211,6 @@
    "detected_at": "2026-08-04 12:43:59",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "GOS  CHANGED Full Season Contracts  -  col3: 209875589.3 -> 222003589.3, col4: 54516206 -> 67250606",
-   "detected_at": "2026-08-04 12:43:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "GOS  CHANGED Cap Holds  -  col3: 33498979 -> 31049558",
-   "detected_at": "2026-08-04 12:43:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "GOS  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 12 -> 14",
-   "detected_at": "2026-08-04 12:43:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "GOS  CHANGED Avg, Salary (Mean) (No 10-Day K's)  -  col6: 3 -> 1",
-   "detected_at": "2026-08-04 12:43:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10239,10 +10243,10 @@
    "last": "2026-08-12 17:21:56"
   },
   "WIKI": {
-   "count": 515,
-   "last": "2026-08-13 02:50:14"
+   "count": 519,
+   "last": "2026-08-13 03:15:42"
   }
  },
- "generated_at": "2026-08-13T02:50:19",
- "total": 7989
+ "generated_at": "2026-08-13T03:15:45",
+ "total": 7993
 }
