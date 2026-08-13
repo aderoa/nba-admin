@@ -1,6 +1,34 @@
 {
  "events": [
   {
+   "detail": "Jeff Adrien  ~ team: Piratas de Quebradillas -> Free agent",
+   "detected_at": "2026-08-13 04:32:42",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jeff_Adrien"
+  },
+  {
+   "detail": "Jeff Adrien  ~ league: BSN -> -",
+   "detected_at": "2026-08-13 04:32:42",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jeff_Adrien"
+  },
+  {
+   "detail": "Jeff Adrien  ~ number: 40 -> -",
+   "detected_at": "2026-08-13 04:32:42",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jeff_Adrien"
+  },
+  {
+   "detail": "Elias Valtonen  ~ CAREER  + 2026–present Valencia",
+   "detected_at": "2026-08-13 04:32:42",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Elias_Valtonen"
+  },
+  {
    "detail": "Sterling Brown (basketball)  ~ number: 7 -> 0",
    "detected_at": "2026-08-13 04:05:47",
    "source": "WIKI",
@@ -10192,30 +10220,6 @@
    "detected_at": "2026-08-04 12:45:02",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED 3rd Incremental Tax Bracket  -  col11: 31267500 -> 22778740.88",
-   "detected_at": "2026-08-04 12:45:02",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED 4th Incremental Tax Bracket  -  col11: 30513977.44 -> 0",
-   "detected_at": "2026-08-04 12:45:02",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col11: 97312727.44 -> 58309990.88",
-   "detected_at": "2026-08-04 12:45:02",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Update 1.3 (7/18/26): K. Bufkin, M. Cisse, I. Crawford, D. Green, H. Ingram, L. James, S. Jones, C. Koloko, G. Payton, J. Phillips, J. Tate, M. Thybulle, O. Tshiebwe, J. Walsh",
-   "detected_at": "2026-08-04 12:44:57",
-   "source": "DOCS",
-   "type": "REMOVED"
   }
  ],
  "feeds": {
@@ -10248,10 +10252,10 @@
    "last": "2026-08-12 17:21:56"
   },
   "WIKI": {
-   "count": 524,
-   "last": "2026-08-13 04:05:47"
+   "count": 528,
+   "last": "2026-08-13 04:32:42"
   }
  },
- "generated_at": "2026-08-13T04:05:51",
- "total": 7998
+ "generated_at": "2026-08-13T04:32:46",
+ "total": 8002
 }
