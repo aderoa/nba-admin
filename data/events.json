@@ -1,6 +1,24 @@
 {
  "events": [
   {
+   "detail": "LAC  CHANGED Beal, Bradley  -  col4: - -> 6746040, col9: 6424800 -> 13170840",
+   "detected_at": "2026-08-13 10:27:45",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "LAC  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col4: 93524162 -> 100270202, col9: 361047957.2 -> 367793997.2",
+   "detected_at": "2026-08-13 10:27:45",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "LAC  CHANGED Cap Holds  -  col4: 0 -> 6746040",
+   "detected_at": "2026-08-13 10:27:45",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "U18 Asia Cup A Bahrain 74, Lebanon 68",
    "detected_at": "2026-08-13 10:04:34",
    "source": "SCORES",
@@ -10234,24 +10252,6 @@
    "detected_at": "2026-08-04 12:54:59",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "BKN  CHANGED Avg, Salary (Mean) (No 10-Day K's)  -  col6: 1 -> 0",
-   "detected_at": "2026-08-04 12:54:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Execution Date: 7/6/26",
-   "detected_at": "2026-08-04 12:54:56",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 8/2/26",
-   "detected_at": "2026-08-04 12:54:56",
-   "source": "DOCS",
-   "type": "ADDED"
   }
  ],
  "feeds": {
@@ -10276,8 +10276,8 @@
    "last": "2026-08-13 10:04:34"
   },
   "SHEETS": {
-   "count": 3370,
-   "last": "2026-08-12 17:27:06"
+   "count": 3373,
+   "last": "2026-08-13 10:27:45"
   },
   "TRANSACTIONS": {
    "count": 269,
@@ -10288,6 +10288,6 @@
    "last": "2026-08-13 09:03:39"
   }
  },
- "generated_at": "2026-08-13T10:04:36",
- "total": 8034
+ "generated_at": "2026-08-13T10:28:14",
+ "total": 8037
 }
