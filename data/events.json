@@ -1,6 +1,24 @@
 {
  "events": [
   {
+   "detail": "2026-08-12  LA Clippers signed guard Jalen Pickett to a Two-Way Contract.",
+   "detected_at": "2026-08-12 17:21:56",
+   "source": "TRANSACTIONS",
+   "type": "Signing"
+  },
+  {
+   "detail": "2026-08-12  Phoenix Suns waived forward Haywood Highsmith.",
+   "detected_at": "2026-08-12 17:21:56",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "~ CHANGED Haywood Highsmith  school: Wheeling Jesuit -> Wheeling Jesuit ",
+   "detected_at": "2026-08-12 17:21:55",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "Mike Tobey  ~ team: Free agent -> Scaligera Basket Verona",
    "detected_at": "2026-08-12 15:53:47",
    "source": "WIKI",
@@ -10158,27 +10176,6 @@
    "source": "RATINGS",
    "type": "TOP4",
    "url": "https://basketball.realgm.com/international/boxscore/2026-08-03/Criollos-de-Caguas-at-Vaqueros-de-Bayamon/526705"
-  },
-  {
-   "detail": "Puerto Rican BSN 5. Moses Brown 17.0 — 19p 12r 0a 36.0m (Criollos de Caguas, lost)",
-   "detected_at": "2026-08-03 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP5",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-03/Criollos-de-Caguas-at-Vaqueros-de-Bayamon/526705"
-  },
-  {
-   "detail": "Lebanese Division A ★ 1. Karim Zeinoun 45.0 — 32p 1r 3a 32.7m (Sporting Al Riyadi Beirut)",
-   "detected_at": "2026-08-03 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP1",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-03/Sagesse-Al-Hekmeh-Beirut-at-Sporting-Al-Riyadi-Beirut/527587"
-  },
-  {
-   "detail": "Lebanese Division A 2. Dusan Miletic 41.5 — 24p 12r 3a 33.1m (Sporting Al Riyadi Beirut)",
-   "detected_at": "2026-08-03 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP2",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-03/Sagesse-Al-Hekmeh-Beirut-at-Sporting-Al-Riyadi-Beirut/527587"
   }
  ],
  "feeds": {
@@ -10187,8 +10184,8 @@
    "last": "2026-08-10 08:53:00"
   },
   "PLAYERS": {
-   "count": 617,
-   "last": "2026-08-12 14:26:55"
+   "count": 618,
+   "last": "2026-08-12 17:21:55"
   },
   "RATINGS": {
    "count": 950,
@@ -10207,14 +10204,14 @@
    "last": "2026-08-10 12:20:08"
   },
   "TRANSACTIONS": {
-   "count": 267,
-   "last": "2026-08-08 17:40:55"
+   "count": 269,
+   "last": "2026-08-12 17:21:56"
   },
   "WIKI": {
    "count": 477,
    "last": "2026-08-12 15:53:47"
   }
  },
- "generated_at": "2026-08-12T15:53:49",
- "total": 7915
+ "generated_at": "2026-08-12T17:22:17",
+ "total": 7918
 }
