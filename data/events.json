@@ -1,6 +1,76 @@
 {
  "events": [
   {
+   "detail": "WNBA + Ornella Bankole → Toronto Tempo",
+   "detected_at": "2026-08-12 22:13:09",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "WNBA Dallas Wings 94, Toronto Tempo 88",
+   "detected_at": "2026-08-12 22:13:09",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-12/Toronto-at-Dallas/158683"
+  },
+  {
+   "detail": "PBA Governors Cup San Miguel Beermen 144, Titan Ultra Giant 113",
+   "detected_at": "2026-08-12 22:13:05",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-12/San-Miguel-Beermen-at-Titan-Ultra-Giant/526231"
+  },
+  {
+   "detail": "Puerto Rican BSN Vaqueros de Bayamon 87, Santeros de Aguada 86",
+   "detected_at": "2026-08-12 22:13:02",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-12/Santeros-de-Aguada-at-Vaqueros-de-Bayamon/528492"
+  },
+  {
+   "detail": "Mexican LNBP Panteras de Aguascalientes 73, Lobos Plateados 69",
+   "detected_at": "2026-08-12 22:12:58",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-12/Lobos-Plateados-at-Panteras-de-Aguascalientes/526090"
+  },
+  {
+   "detail": "Mexican LNBP + Karim Rodriguez → Lobos Plateados",
+   "detected_at": "2026-08-12 22:12:57",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Mexican LNBP Astros de Jalisco 82, Santos de San Luis Potosi 57",
+   "detected_at": "2026-08-12 22:12:54",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-12/Santos-de-San-Luis-Potosi-at-Astros-de-Jalisco/526089"
+  },
+  {
+   "detail": "Mexican LNBP + Jasper Floyd → Astros de Jalisco",
+   "detected_at": "2026-08-12 22:12:53",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "PBA Governors Cup Magnolia Hotshots 115, Phoenix Fuel Masters 101",
+   "detected_at": "2026-08-12 22:12:50",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-12/Phoenix-Fuel-Masters-at-Magnolia-Hotshots/526232"
+  },
+  {
+   "detail": "PBA Governors Cup + Rafi Reavis → Phoenix Fuel Masters",
+   "detected_at": "2026-08-12 22:12:48",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
    "detail": "Vladimír Brodziansky  ~ team: Fujian Sturgeons -> New Taipei CTBC DEA",
    "detected_at": "2026-08-12 21:21:41",
    "source": "WIKI",
@@ -10097,74 +10167,6 @@
    "detected_at": "2026-08-04 12:41:04",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Mario Hezonja  number: 44 -> 10",
-   "detected_at": "2026-08-04 10:14:55",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "- REMOVED Josh Oduro (NOP)",
-   "detected_at": "2026-08-04 09:17:54",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "WNBA ★ 1. Jackie Young 38.4 — 28p 11r 10a 34.4m (Las Vegas Aces)",
-   "detected_at": "2026-08-03 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP1",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-03/Las-Vegas-at-Atlanta/158557"
-  },
-  {
-   "detail": "WNBA 2. A'ja Wilson 35.2 — 23p 6r 4a 30.1m (Las Vegas Aces)",
-   "detected_at": "2026-08-03 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP2",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-03/Las-Vegas-at-Atlanta/158557"
-  },
-  {
-   "detail": "WNBA 3. Chelsea Gray 27.3 — 17p 3r 6a 30.0m (Las Vegas Aces)",
-   "detected_at": "2026-08-03 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP3",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-03/Las-Vegas-at-Atlanta/158557"
-  },
-  {
-   "detail": "WNBA 4. Angel Reese 19.8 — 23p 16r 2a 26.6m (Atlanta Dream, lost)",
-   "detected_at": "2026-08-03 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP4",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-03/Las-Vegas-at-Atlanta/158557"
-  },
-  {
-   "detail": "WNBA 5. NaLyssa Smith 19.5 — 18p 4r 0a 30.6m (Las Vegas Aces)",
-   "detected_at": "2026-08-03 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP5",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-03/Las-Vegas-at-Atlanta/158557"
-  },
-  {
-   "detail": "WNBA ★ 1. Breanna Stewart 35.9 — 24p 8r 6a 31.2m (New York Liberty)",
-   "detected_at": "2026-08-03 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP1",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-03/Seattle-at-New-York/158558"
-  },
-  {
-   "detail": "WNBA 2. Jonquel Jones 21.8 — 20p 7r 2a 30.5m (New York Liberty)",
-   "detected_at": "2026-08-03 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP2",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-03/Seattle-at-New-York/158558"
-  },
-  {
-   "detail": "WNBA 3. Flau'jae Johnson 21.4 — 25p 3r 3a 30.1m (Seattle Storm, lost)",
-   "detected_at": "2026-08-03 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP3",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-03/Seattle-at-New-York/158558"
   }
  ],
  "feeds": {
@@ -10181,12 +10183,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 33,
-   "last": "2026-08-12 10:10:37"
+   "count": 37,
+   "last": "2026-08-12 22:13:09"
   },
   "SCORES": {
-   "count": 202,
-   "last": "2026-08-12 17:42:46"
+   "count": 208,
+   "last": "2026-08-12 22:13:09"
   },
   "SHEETS": {
    "count": 3370,
@@ -10201,6 +10203,6 @@
    "last": "2026-08-12 21:21:41"
   }
  },
- "generated_at": "2026-08-12T21:21:45",
- "total": 7939
+ "generated_at": "2026-08-12T22:13:11",
+ "total": 7949
 }
