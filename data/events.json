@@ -1,6 +1,41 @@
 {
  "events": [
   {
+   "detail": "Sterling Brown (basketball)  ~ number: 7 -> 0",
+   "detected_at": "2026-08-13 04:05:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Sterling_Brown_(basketball)"
+  },
+  {
+   "detail": "Jonas Valančiūnas  ~ team: Žalgiris -> Žalgiris Kaunas",
+   "detected_at": "2026-08-13 04:05:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jonas_Valan%C4%8Di%C5%ABnas"
+  },
+  {
+   "detail": "Jonas Valančiūnas  ~ CAREER  + 2026–present Žalgiris Kaunas",
+   "detected_at": "2026-08-13 04:05:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Jonas_Valan%C4%8Di%C5%ABnas"
+  },
+  {
+   "detail": "Saben Lee  ~ number: 5 -> 7",
+   "detected_at": "2026-08-13 04:05:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Saben_Lee"
+  },
+  {
+   "detail": "Kaodirichi Akobundu-Ehiogu  ~ number: 0 -> 2",
+   "detected_at": "2026-08-13 04:05:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kaodirichi_Akobundu-Ehiogu"
+  },
+  {
    "detail": "Trayvon Palmer  ~ team: Free Agent -> -",
    "detected_at": "2026-08-13 03:15:42",
    "source": "WIKI",
@@ -10181,36 +10216,6 @@
    "detected_at": "2026-08-04 12:44:57",
    "source": "DOCS",
    "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Update 1.3 (7/18/26): K. Bufkin, M. Cisse, I. Crawford, D. Green, H. Ingram, L. James, S. Jones, C. Koloko, D. Melton, G. Payton, J. Phillips, J. Tate, M. Thybulle, O. Tshiebwe, J. Walsh",
-   "detected_at": "2026-08-04 12:44:57",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "GOS  + ADDED  Melton, De'Anthony #2",
-   "detected_at": "2026-08-04 12:43:59",
-   "source": "SHEETS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "GOS  CHANGED Melton, De'Anthony  -  TEAM SALARY CAP REPORT\n       -  GOLDEN STATE WARRIORS: 4 - CAP HOLD -> 1 - FULL SEASON, col3: 2449421.0 -> 6064000.0, col4: - -> 6367200.0, col9: 2449421 -> 12431200",
-   "detected_at": "2026-08-04 12:43:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "GOS  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 243374568.3 -> 253053147.3, col4: 54516206 -> 67250606, col9: 321602169.7 -> 344015148.7",
-   "detected_at": "2026-08-04 12:43:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "GOS  CHANGED Players Under Contract  -  col3: 209875589.3 -> 222003589.3, col4: 54516206 -> 67250606",
-   "detected_at": "2026-08-04 12:43:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10243,10 +10248,10 @@
    "last": "2026-08-12 17:21:56"
   },
   "WIKI": {
-   "count": 519,
-   "last": "2026-08-13 03:15:42"
+   "count": 524,
+   "last": "2026-08-13 04:05:47"
   }
  },
- "generated_at": "2026-08-13T03:15:45",
- "total": 7993
+ "generated_at": "2026-08-13T04:05:51",
+ "total": 7998
 }
