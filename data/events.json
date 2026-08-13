@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "RayJ Dennis  ~ number: 00 -> 10",
+   "detected_at": "2026-08-13 09:03:39",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/RayJ_Dennis"
+  },
+  {
+   "detail": "Jalen Wilson  ~ number: - -> 12",
+   "detected_at": "2026-08-13 09:03:39",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jalen_Wilson"
+  },
+  {
    "detail": "Aaron Wiggins  ~ number: - -> 2",
    "detected_at": "2026-08-13 08:40:38",
    "source": "WIKI",
@@ -10234,18 +10248,6 @@
    "detected_at": "2026-08-04 12:49:56",
    "source": "DOCS",
    "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  27-28 $18,195,600",
-   "detected_at": "2026-08-04 12:49:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  28-29 $17,323,584",
-   "detected_at": "2026-08-04 12:49:56",
-   "source": "DOCS",
-   "type": "ADDED"
   }
  ],
  "feeds": {
@@ -10278,10 +10280,10 @@
    "last": "2026-08-12 17:21:56"
   },
   "WIKI": {
-   "count": 549,
-   "last": "2026-08-13 08:40:38"
+   "count": 551,
+   "last": "2026-08-13 09:03:39"
   }
  },
- "generated_at": "2026-08-13T08:40:41",
- "total": 8028
+ "generated_at": "2026-08-13T09:03:52",
+ "total": 8030
 }
