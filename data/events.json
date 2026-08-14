@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Andrew Wiggins  ~ position: Small forward / Shooting guard -> Small forward / shooting guard",
+   "detected_at": "2026-08-13 20:41:50",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Andrew_Wiggins"
+  },
+  {
    "detail": "U18 AfroBasket Cameroon 77, Chad 49",
    "detected_at": "2026-08-13 18:21:29",
    "source": "SCORES",
@@ -10279,12 +10286,6 @@
    "detected_at": "2026-08-04 16:25:55",
    "source": "TRANSACTIONS",
    "type": "Signing"
-  },
-  {
-   "detail": "+ ADDED   Caleb Houstan (NOP)",
-   "detected_at": "2026-08-04 16:17:55",
-   "source": "PLAYERS",
-   "type": "ADDED"
   }
  ],
  "feeds": {
@@ -10317,10 +10318,10 @@
    "last": "2026-08-13 17:46:56"
   },
   "WIKI": {
-   "count": 573,
-   "last": "2026-08-13 18:06:54"
+   "count": 574,
+   "last": "2026-08-13 20:41:50"
   }
  },
- "generated_at": "2026-08-13T18:21:33",
- "total": 8073
+ "generated_at": "2026-08-13T20:41:53",
+ "total": 8074
 }
