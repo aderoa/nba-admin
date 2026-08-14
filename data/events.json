@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Aleksa Radanov  ~ team: Free agent -> Cedevita Olimpija",
+   "detected_at": "2026-08-14 11:34:43",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Aleksa_Radanov"
+  },
+  {
+   "detail": "Aleksa Radanov  ~ league: - -> ABA EuroCup",
+   "detected_at": "2026-08-14 11:34:43",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Aleksa_Radanov"
+  },
+  {
+   "detail": "Aleksa Radanov  ~ CAREER  + 2026-present Cedevita Olimpija",
+   "detected_at": "2026-08-14 11:34:43",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Aleksa_Radanov"
+  },
+  {
    "detail": "Ethan Thompson  ~ team: Free agent -> Partizan Belgrade",
    "detected_at": "2026-08-14 11:11:45",
    "source": "WIKI",
@@ -10308,24 +10329,6 @@
    "detected_at": "2026-08-05 11:45:58",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "GOS  CHANGED Mannion, Nico  -  col3: 2185116.0 -> -, col9: 2185116 -> 0",
-   "detected_at": "2026-08-05 11:45:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "GOS  CHANGED Robinson, Jerome  -  col3: 2185116.0 -> -, col9: 2185116 -> 0",
-   "detected_at": "2026-08-05 11:45:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "GOS  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 246989147.3 -> 215939589.3, col9: 331583948.7 -> 300534390.7",
-   "detected_at": "2026-08-05 11:45:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10358,10 +10361,10 @@
    "last": "2026-08-13 17:46:56"
   },
   "WIKI": {
-   "count": 626,
-   "last": "2026-08-14 11:11:45"
+   "count": 629,
+   "last": "2026-08-14 11:34:43"
   }
  },
- "generated_at": "2026-08-14T11:11:46",
- "total": 8134
+ "generated_at": "2026-08-14T11:34:44",
+ "total": 8137
 }
