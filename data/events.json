@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Ethan Thompson  ~ team: Indiana Pacers -> Free agent",
+   "detected_at": "2026-08-13 18:06:54",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Ethan_Thompson"
+  },
+  {
+   "detail": "Ethan Thompson  ~ league: NBA -> -",
+   "detected_at": "2026-08-13 18:06:54",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Ethan_Thompson"
+  },
+  {
    "detail": "2026-08-13  LA Clippers re-signed guard Bradley Beal to a Contract.",
    "detected_at": "2026-08-13 17:46:56",
    "source": "TRANSACTIONS",
@@ -10265,18 +10279,6 @@
    "detected_at": "2026-08-04 13:03:59",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp.",
-   "detected_at": "2026-08-04 13:02:56",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Execution Date: 7/28/26",
-   "detected_at": "2026-08-04 13:02:56",
-   "source": "DOCS",
-   "type": "REMOVED"
   }
  ],
  "feeds": {
@@ -10309,10 +10311,10 @@
    "last": "2026-08-13 17:46:56"
   },
   "WIKI": {
-   "count": 571,
-   "last": "2026-08-13 16:33:53"
+   "count": 573,
+   "last": "2026-08-13 18:06:54"
   }
  },
- "generated_at": "2026-08-13T17:47:17",
- "total": 8065
+ "generated_at": "2026-08-13T18:07:00",
+ "total": 8067
 }
