@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "WNBA Las Vegas Aces 83, Washington Mystics 76",
+   "detected_at": "2026-08-13 23:44:18",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-13/Washington-at-Las-Vegas/158584"
+  },
+  {
+   "detail": "WNBA New York Liberty 85, Los Angeles Sparks 81",
+   "detected_at": "2026-08-13 23:44:15",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-13/LA-Sparks-at-New-York/158583"
+  },
+  {
+   "detail": "WNBA Atlanta Dream 104, Connecticut Sun 69",
+   "detected_at": "2026-08-13 23:44:12",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-13/Atlanta-at-Connecticut/158582"
+  },
+  {
    "detail": "James Blackmon Jr.  ~ team: Free Agent -> BC Tauragė",
    "detected_at": "2026-08-13 23:32:48",
    "source": "WIKI",
@@ -10268,27 +10289,6 @@
    "source": "RATINGS",
    "type": "TOP4",
    "url": "https://basketball.realgm.com/international/boxscore/2026-08-04/Talk-N-Text-Tropang-Texters-at-NLEX-Road-Warriors/526218"
-  },
-  {
-   "detail": "PBA Governors Cup 5. Robert Bolick 10.9 — 10p 5r 5a 30.5m (NLEX Road Warriors)",
-   "detected_at": "2026-08-04 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP5",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-04/Talk-N-Text-Tropang-Texters-at-NLEX-Road-Warriors/526218"
-  },
-  {
-   "detail": "Puerto Rican BSN ★ 1. Rigoberto Mendoza 51.9 — 28p 6r 10a 40.0m (Santeros de Aguada)",
-   "detected_at": "2026-08-04 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP1",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-04/Leones-de-Ponce-at-Santeros-de-Aguada/528065"
-  },
-  {
-   "detail": "Puerto Rican BSN 2. Jake Wiley 34.3 — 22p 4r 2a 38.5m (Santeros de Aguada)",
-   "detected_at": "2026-08-04 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP2",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-04/Leones-de-Ponce-at-Santeros-de-Aguada/528065"
   }
  ],
  "feeds": {
@@ -10309,8 +10309,8 @@
    "last": "2026-08-13 01:25:18"
   },
   "SCORES": {
-   "count": 231,
-   "last": "2026-08-13 18:21:29"
+   "count": 234,
+   "last": "2026-08-13 23:44:18"
   },
   "SHEETS": {
    "count": 3373,
@@ -10325,6 +10325,6 @@
    "last": "2026-08-13 23:32:48"
   }
  },
- "generated_at": "2026-08-13T23:32:49",
- "total": 8080
+ "generated_at": "2026-08-13T23:44:21",
+ "total": 8083
 }
