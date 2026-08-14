@@ -1,6 +1,48 @@
 {
  "events": [
   {
+   "detail": "U18 AfroBasket Cameroon 77, Chad 49",
+   "detected_at": "2026-08-13 18:21:29",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-13/Chad-at-Cameroon/528924"
+  },
+  {
+   "detail": "U16 Euro Championship B Estonia 86, Sweden 70",
+   "detected_at": "2026-08-13 18:21:26",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-13/Estonia-at-Sweden/526294"
+  },
+  {
+   "detail": "U16 Euro Championship B Finland 87, Hungary 79",
+   "detected_at": "2026-08-13 18:21:23",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-13/Finland-at-Hungary/526306"
+  },
+  {
+   "detail": "U16 Euro Championship B Denmark 84, Luxembourg 49",
+   "detected_at": "2026-08-13 18:21:19",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-13/Denmark-at-Luxembourg/526370"
+  },
+  {
+   "detail": "U18 AfroBasket Ivory Coast 67, Egypt 57",
+   "detected_at": "2026-08-13 18:21:16",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-13/Egypt-at-Ivory-Coast/528923"
+  },
+  {
+   "detail": "U18 AfroBasket Nigeria 75, Rwanda 48",
+   "detected_at": "2026-08-13 18:21:13",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-13/Nigeria-at-Rwanda/528935"
+  },
+  {
    "detail": "Ethan Thompson  ~ team: Indiana Pacers -> Free agent",
    "detected_at": "2026-08-13 18:06:54",
    "source": "WIKI",
@@ -10243,42 +10285,6 @@
    "detected_at": "2026-08-04 16:17:55",
    "source": "PLAYERS",
    "type": "ADDED"
-  },
-  {
-   "detail": "- REMOVED Caleb Houstan (NOP)",
-   "detected_at": "2026-08-04 16:16:54",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "+ ADDED   Caleb Houstan (NOP)",
-   "detected_at": "2026-08-04 16:13:55",
-   "source": "PLAYERS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "CLE  + ADDED  Hezonja, Mario",
-   "detected_at": "2026-08-04 13:03:59",
-   "source": "SHEETS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "CLE  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 12 -> 13",
-   "detected_at": "2026-08-04 13:03:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "CLE  CHANGED Avg, Salary (Mean) (No 10-Day K's)  -  col6: 3 -> 2",
-   "detected_at": "2026-08-04 13:03:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "CLE  CHANGED Avg, Salary (Mean) (No 10-Day K's & ROS)  -  col6: 1 -> 0",
-   "detected_at": "2026-08-04 13:03:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10299,8 +10305,8 @@
    "last": "2026-08-13 01:25:18"
   },
   "SCORES": {
-   "count": 225,
-   "last": "2026-08-13 12:07:43"
+   "count": 231,
+   "last": "2026-08-13 18:21:29"
   },
   "SHEETS": {
    "count": 3373,
@@ -10315,6 +10321,6 @@
    "last": "2026-08-13 18:06:54"
   }
  },
- "generated_at": "2026-08-13T18:07:00",
- "total": 8067
+ "generated_at": "2026-08-13T18:21:33",
+ "total": 8073
 }
