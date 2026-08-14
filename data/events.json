@@ -1,6 +1,66 @@
 {
  "events": [
   {
+   "detail": "CHA  + ADDED  Schroder, Dennis",
+   "detected_at": "2026-08-14 15:47:58",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "CHA  - REMOVED Mann, Tre",
+   "detected_at": "2026-08-14 15:47:58",
+   "source": "SHEETS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "CHA  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 175344929 -> 182154129, col4: 141515540.8 -> 149029940.8, col9: 458937916.4 -> 473261516.4",
+   "detected_at": "2026-08-14 15:47:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "CHA  CHANGED Players Under Contract  -  col3: 172895508 -> 179704708, col4: 141515540.8 -> 149029940.8",
+   "detected_at": "2026-08-14 15:47:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "CHA  CHANGED Full Season Contracts  -  col3: 172895508 -> 179704708, col4: 141515540.8 -> 149029940.8",
+   "detected_at": "2026-08-14 15:47:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "CLE  + ADDED  Mann, Tre",
+   "detected_at": "2026-08-14 15:47:58",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "CLE  - REMOVED Schroder, Dennis",
+   "detected_at": "2026-08-14 15:47:58",
+   "source": "SHEETS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "CLE  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 247865813.3 -> 241056613.3, col4: 173689767.5 -> 166175367.5, col9: 591670545.8 -> 577346945.8",
+   "detected_at": "2026-08-14 15:47:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "CLE  CHANGED Players Under Contract  -  col3: 185725384 -> 178916184, col4: 173689767.5 -> 166175367.5",
+   "detected_at": "2026-08-14 15:47:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "CLE  CHANGED Full Season Contracts  -  col3: 185725384 -> 178916184, col4: 173689767.5 -> 166175367.5",
+   "detected_at": "2026-08-14 15:47:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "Dennis Schröder  ~ CAREER  + Brooklyn Nets",
    "detected_at": "2026-08-14 15:47:43",
    "source": "WIKI",
@@ -10293,66 +10353,6 @@
    "detected_at": "2026-08-05 14:02:59",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "HOU  CHANGED Players Under Contract  -  col3: 207897304 -> 205312765",
-   "detected_at": "2026-08-05 14:02:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "HOU  CHANGED Full Season Contracts  -  col3: 207897304 -> 205312765",
-   "detected_at": "2026-08-05 14:02:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "HOU  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 17 -> 16",
-   "detected_at": "2026-08-05 14:02:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col12: 7469304 -> 4884765",
-   "detected_at": "2026-08-05 14:02:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED 1st Incremental Tax Bracket  -  col12: 5685000 -> 4884765",
-   "detected_at": "2026-08-05 14:02:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED 2nd Incremental Tax Bracket  -  col12: 2230380 -> 0",
-   "detected_at": "2026-08-05 14:02:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col12: 7915380 -> 4884765",
-   "detected_at": "2026-08-05 14:02:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Sergio de Larrea  name: Sergio De Larrea -> Sergio de Larrea",
-   "detected_at": "2026-08-05 12:16:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "GOS  CHANGED Barnes, Matt  -  col3: - -> 2449421.0, col9: 0 -> 2449421",
-   "detected_at": "2026-08-05 11:46:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "GOS  CHANGED Bjelica, Nemanja  -  col3: - -> 2449421.0, col9: 0 -> 2449421",
-   "detected_at": "2026-08-05 11:46:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10377,8 +10377,8 @@
    "last": "2026-08-14 12:50:41"
   },
   "SHEETS": {
-   "count": 3373,
-   "last": "2026-08-13 10:27:45"
+   "count": 3383,
+   "last": "2026-08-14 15:47:58"
   },
   "TRANSACTIONS": {
    "count": 271,
@@ -10389,6 +10389,6 @@
    "last": "2026-08-14 15:47:43"
   }
  },
- "generated_at": "2026-08-14T15:47:44",
- "total": 8161
+ "generated_at": "2026-08-14T15:48:01",
+ "total": 8171
 }
