@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Ethan Thompson  ~ team: Free agent -> Partizan Belgrade",
+   "detected_at": "2026-08-14 11:11:45",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Ethan_Thompson"
+  },
+  {
+   "detail": "Ethan Thompson  ~ league: - -> ABA EuroLeague",
+   "detected_at": "2026-08-14 11:11:45",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Ethan_Thompson"
+  },
+  {
+   "detail": "Ethan Thompson  ~ CAREER  + 2026-present Partizan Belgrade",
+   "detected_at": "2026-08-14 11:11:45",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Ethan_Thompson"
+  },
+  {
    "detail": "U16 Euro Championship B Montenegro 83, Great Britain 71",
    "detected_at": "2026-08-14 10:48:57",
    "source": "SCORES",
@@ -10305,24 +10326,6 @@
    "detected_at": "2026-08-05 11:45:58",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "GOS  CHANGED Cap Holds  -  col3: 31049558 -> 0",
-   "detected_at": "2026-08-05 11:45:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "CLE  CHANGED Hezonja, Mario  -  col3: - -> 2449421.0, col9: 0 -> 2449421",
-   "detected_at": "2026-08-05 08:09:34",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "CLE  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 245416392.3 -> 247865813.3, col9: 589221124.8 -> 591670545.8",
-   "detected_at": "2026-08-05 08:09:34",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10355,10 +10358,10 @@
    "last": "2026-08-13 17:46:56"
   },
   "WIKI": {
-   "count": 623,
-   "last": "2026-08-14 10:48:43"
+   "count": 626,
+   "last": "2026-08-14 11:11:45"
   }
  },
- "generated_at": "2026-08-14T10:49:00",
- "total": 8131
+ "generated_at": "2026-08-14T11:11:46",
+ "total": 8134
 }
