@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Tre Mann  ~ team: Charlotte Hornets -> Cleveland Cavaliers",
+   "detected_at": "2026-08-14 16:10:42",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Tre_Mann"
+  },
+  {
+   "detail": "Tre Mann  ~ number: 23 -> 2",
+   "detected_at": "2026-08-14 16:10:42",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Tre_Mann"
+  },
+  {
    "detail": "CHA  + ADDED  Schroder, Dennis",
    "detected_at": "2026-08-14 15:47:58",
    "source": "SHEETS",
@@ -10341,18 +10355,6 @@
    "detected_at": "2026-08-05 16:14:55",
    "source": "TRANSACTIONS",
    "type": "Waive"
-  },
-  {
-   "detail": "HOU  - REMOVED Davison, JD",
-   "detected_at": "2026-08-05 14:02:59",
-   "source": "SHEETS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "HOU  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 219880104 -> 217295565, col9: 603583837.3 -> 600999298.3",
-   "detected_at": "2026-08-05 14:02:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10385,10 +10387,10 @@
    "last": "2026-08-13 17:46:56"
   },
   "WIKI": {
-   "count": 639,
-   "last": "2026-08-14 15:47:43"
+   "count": 641,
+   "last": "2026-08-14 16:10:42"
   }
  },
- "generated_at": "2026-08-14T15:48:01",
- "total": 8171
+ "generated_at": "2026-08-14T16:10:42",
+ "total": 8173
 }
