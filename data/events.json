@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Dennis Schröder  ~ team: Charlotte Hornets -> Cleveland Cavaliers",
+   "detected_at": "2026-08-14 14:38:43",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Dennis_Schr%C3%B6der"
+  },
+  {
+   "detail": "Dennis Schröder  ~ CAREER  + –present Cleveland Cavaliers",
+   "detected_at": "2026-08-14 14:38:43",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Dennis_Schr%C3%B6der"
+  },
+  {
    "detail": "Ethan Thompson  ~ league: ABA EuroLeague -> ABA League EuroLeague",
    "detected_at": "2026-08-14 14:15:44",
    "source": "WIKI",
@@ -10337,18 +10351,6 @@
    "detected_at": "2026-08-05 11:46:59",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "GOS  CHANGED Garuba, Usman  -  col3: - -> 2449421.0, col9: 0 -> 2449421",
-   "detected_at": "2026-08-05 11:46:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "GOS  CHANGED Green, JaMychal  -  col3: - -> 2449421.0, col9: 0 -> 2449421",
-   "detected_at": "2026-08-05 11:46:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10381,10 +10383,10 @@
    "last": "2026-08-13 17:46:56"
   },
   "WIKI": {
-   "count": 635,
-   "last": "2026-08-14 14:15:44"
+   "count": 637,
+   "last": "2026-08-14 14:38:43"
   }
  },
- "generated_at": "2026-08-14T14:15:44",
- "total": 8157
+ "generated_at": "2026-08-14T14:38:44",
+ "total": 8159
 }
