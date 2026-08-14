@@ -1,6 +1,90 @@
 {
  "events": [
   {
+   "detail": "U16 Euro Championship B Montenegro 83, Great Britain 71",
+   "detected_at": "2026-08-14 10:48:57",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-14/Great-Britain-at-Montenegro/526299"
+  },
+  {
+   "detail": "U16 Euro Championship B Bulgaria 78, Ukraine 73",
+   "detected_at": "2026-08-14 10:48:54",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-14/Bulgaria-at-Ukraine/526311"
+  },
+  {
+   "detail": "U18 Asia Cup A South Korea 95, Kazakhstan 68",
+   "detected_at": "2026-08-14 10:48:51",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-14/Kazakhstan-at-South-Korea/528529"
+  },
+  {
+   "detail": "Kessler Edwards  ~ number: - -> 9",
+   "detected_at": "2026-08-14 10:48:43",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kessler_Edwards"
+  },
+  {
+   "detail": "Wendell Moore Jr.  ~ number: - -> 8",
+   "detected_at": "2026-08-14 10:48:43",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Wendell_Moore_Jr."
+  },
+  {
+   "detail": "Derrick Williams (basketball)  ~ team: AEK -> Suwon KT Sonicboom",
+   "detected_at": "2026-08-14 10:48:43",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Derrick_Williams_(basketball)"
+  },
+  {
+   "detail": "Bobi Klintman  ~ number: - -> 34",
+   "detected_at": "2026-08-14 10:48:43",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Bobi_Klintman"
+  },
+  {
+   "detail": "Rodney McGruder  ~ team: Reyer Venezia -> Free agent",
+   "detected_at": "2026-08-14 10:48:43",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Rodney_McGruder"
+  },
+  {
+   "detail": "Rodney McGruder  ~ league: LBA -> -",
+   "detected_at": "2026-08-14 10:48:43",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Rodney_McGruder"
+  },
+  {
+   "detail": "Rodney McGruder  ~ number: 2 -> -",
+   "detected_at": "2026-08-14 10:48:43",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Rodney_McGruder"
+  },
+  {
+   "detail": "Rodney McGruder  ~ CAREER  + 2024–2025 Reyer Venezia",
+   "detected_at": "2026-08-14 10:48:43",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Rodney_McGruder"
+  },
+  {
+   "detail": "Tommaso Baldasso  ~ number: 13 -> 11",
+   "detected_at": "2026-08-14 10:48:43",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Tommaso_Baldasso"
+  },
+  {
    "detail": "Max Shulga  ~ number: - -> 2",
    "detected_at": "2026-08-14 08:15:56",
    "source": "WIKI",
@@ -10239,78 +10323,6 @@
    "detected_at": "2026-08-05 08:09:34",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "CLE  CHANGED Players Under Contract  -  col3: 183275963 -> 185725384",
-   "detected_at": "2026-08-05 08:09:34",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "CLE  CHANGED Full Season Contracts  -  col3: 183275963 -> 185725384",
-   "detected_at": "2026-08-05 08:09:34",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "NOL  + ADDED  Houstan, Caleb",
-   "detected_at": "2026-08-05 08:09:34",
-   "source": "SHEETS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "NOL  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 217837692.8 -> 220287113.8, col9: 471478647.5 -> 473928068.5",
-   "detected_at": "2026-08-05 08:09:34",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "NOL  CHANGED Players Under Contract  -  col3: 197106161.9 -> 199555582.9",
-   "detected_at": "2026-08-05 08:09:34",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "NOL  CHANGED Full Season Contracts  -  col3: 197106161.9 -> 199555582.9",
-   "detected_at": "2026-08-05 08:09:34",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "NOL  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 16 -> 17",
-   "detected_at": "2026-08-05 08:09:34",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Update 1.3 (7/18/26): K. Bufkin, M. Cisse, I. Crawford, D. Green, H. Ingram, L. James, S. Jones, C. Koloko, N. Marshall, D. Melton, G. Payton, J. Phillips, J. Sochan, J. Tate, M. Thybulle, O. Tshiebwe, M. Wagner, J. Walsh",
-   "detected_at": "2026-08-05 08:09:10",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Update 1.3 (7/18/26): K. Bufkin, M. Cisse, I. Crawford, D. Green, M. Hezonja, C. Houstan, H. Ingram, A. Jackson, L. James, S. Jones, C. Koloko, N. Marshall, D. Melton, G. Payton, J. Phillips, J. Sochan, J. Tate, M. Thybulle, O. Tshiebwe, M. Wagner, J. Walsh",
-   "detected_at": "2026-08-05 08:09:10",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Mario Hezonja Cleveland Cavaliers",
-   "detected_at": "2026-08-05 08:09:10",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  26-27 $2,845,883",
-   "detected_at": "2026-08-05 08:09:10",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Minimum Salary Exception. Skill; Injury or Illness; Mental; Death. Compensation protection for 2026-27 Season is none but will increase to full if team has not requested waivers on player on or before 11/15/2026. Love of the Game. Physical Exam. Alt. 7(b).",
-   "detected_at": "2026-08-05 08:09:10",
-   "source": "DOCS",
-   "type": "ADDED"
   }
  ],
  "feeds": {
@@ -10331,8 +10343,8 @@
    "last": "2026-08-13 01:25:18"
   },
   "SCORES": {
-   "count": 236,
-   "last": "2026-08-14 04:19:12"
+   "count": 239,
+   "last": "2026-08-14 10:48:57"
   },
   "SHEETS": {
    "count": 3373,
@@ -10343,10 +10355,10 @@
    "last": "2026-08-13 17:46:56"
   },
   "WIKI": {
-   "count": 614,
-   "last": "2026-08-14 08:15:56"
+   "count": 623,
+   "last": "2026-08-14 10:48:43"
   }
  },
- "generated_at": "2026-08-14T08:16:03",
- "total": 8119
+ "generated_at": "2026-08-14T10:49:00",
+ "total": 8131
 }
