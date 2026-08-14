@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Linton Johnson  ~ team: Free agent -> -",
+   "detected_at": "2026-08-13 22:39:54",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Linton_Johnson"
+  },
+  {
+   "detail": "Linton Johnson  ~ position: Power forward -> -",
+   "detected_at": "2026-08-13 22:39:54",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Linton_Johnson"
+  },
+  {
+   "detail": "Linton Johnson  ~ career_end: - -> 2017",
+   "detected_at": "2026-08-13 22:39:54",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Linton_Johnson"
+  },
+  {
    "detail": "Andrew Wiggins  ~ position: Small forward / Shooting guard -> Small forward / shooting guard",
    "detected_at": "2026-08-13 20:41:50",
    "source": "WIKI",
@@ -10268,24 +10289,6 @@
    "source": "RATINGS",
    "type": "TOP5",
    "url": "https://basketball.realgm.com/international/boxscore/2026-08-04/Leones-de-Ponce-at-Santeros-de-Aguada/528065"
-  },
-  {
-   "detail": "~ CHANGED Trey Jemison III  team: NYK -> TOR",
-   "detected_at": "2026-08-04 17:19:55",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Andre Jackson Jr.  team: MIL -> TOR",
-   "detected_at": "2026-08-04 17:19:55",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "2026-08-04  Toronto Raptors signed center Trey Jemison III to a Two-Way Contract.",
-   "detected_at": "2026-08-04 16:25:55",
-   "source": "TRANSACTIONS",
-   "type": "Signing"
   }
  ],
  "feeds": {
@@ -10318,10 +10321,10 @@
    "last": "2026-08-13 17:46:56"
   },
   "WIKI": {
-   "count": 574,
-   "last": "2026-08-13 20:41:50"
+   "count": 577,
+   "last": "2026-08-13 22:39:54"
   }
  },
- "generated_at": "2026-08-13T20:41:53",
- "total": 8074
+ "generated_at": "2026-08-13T22:40:12",
+ "total": 8077
 }
