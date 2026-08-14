@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Ethan Thompson  ~ league: ABA EuroLeague -> ABA League EuroLeague",
+   "detected_at": "2026-08-14 14:15:44",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Ethan_Thompson"
+  },
+  {
+   "detail": "Ethan Thompson  ~ nationality: Puerto Rican -> -",
+   "detected_at": "2026-08-14 14:15:44",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Ethan_Thompson"
+  },
+  {
    "detail": "Dennis Schröder  ~ team: Cleveland Cavaliers -> Charlotte Hornets",
    "detected_at": "2026-08-14 13:06:42",
    "source": "WIKI",
@@ -10335,18 +10349,6 @@
    "detected_at": "2026-08-05 11:46:59",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "GOS  CHANGED Iguodala, Andre  -  col3: - -> 2449421.0, col9: 0 -> 2449421",
-   "detected_at": "2026-08-05 11:46:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "GOS  CHANGED Jerebko, Jonas  -  col3: - -> 2449421.0, col9: 0 -> 2449421",
-   "detected_at": "2026-08-05 11:46:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10379,10 +10381,10 @@
    "last": "2026-08-13 17:46:56"
   },
   "WIKI": {
-   "count": 633,
-   "last": "2026-08-14 13:06:42"
+   "count": 635,
+   "last": "2026-08-14 14:15:44"
   }
  },
- "generated_at": "2026-08-14T13:06:43",
- "total": 8155
+ "generated_at": "2026-08-14T14:15:44",
+ "total": 8157
 }
