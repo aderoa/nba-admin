@@ -1,6 +1,34 @@
 {
  "events": [
   {
+   "detail": "Dennis Schröder  ~ team: Cleveland Cavaliers -> Charlotte Hornets",
+   "detected_at": "2026-08-14 13:06:42",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Dennis_Schr%C3%B6der"
+  },
+  {
+   "detail": "Dennis Schröder  ~ CAREER  + Cleveland Cavaliers",
+   "detected_at": "2026-08-14 13:06:42",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Dennis_Schr%C3%B6der"
+  },
+  {
+   "detail": "Dennis Schröder  ~ CAREER  + –present Charlotte Hornets",
+   "detected_at": "2026-08-14 13:06:42",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Dennis_Schr%C3%B6der"
+  },
+  {
+   "detail": "Jeremiah Robinson-Earl  ~ position: Power forward -> Power forward / center",
+   "detected_at": "2026-08-14 13:06:42",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jeremiah_Robinson-Earl"
+  },
+  {
    "detail": "U16 Euro Championship A Latvia 92, Spain 87",
    "detected_at": "2026-08-14 12:50:41",
    "source": "SCORES",
@@ -10319,30 +10347,6 @@
    "detected_at": "2026-08-05 11:46:59",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "GOS  CHANGED Lamb, Anthony  -  col3: - -> 2449421.0, col9: 0 -> 2449421",
-   "detected_at": "2026-08-05 11:46:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "GOS  CHANGED West, David  -  col3: - -> 2449421.0, col9: 0 -> 2449421",
-   "detected_at": "2026-08-05 11:46:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "GOS  CHANGED Armstrong, Taran  -  col3: - -> 2185116.0, col9: 0 -> 2185116",
-   "detected_at": "2026-08-05 11:46:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "GOS  CHANGED Mannion, Nico  -  col3: - -> 2185116.0, col9: 0 -> 2185116",
-   "detected_at": "2026-08-05 11:46:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10375,10 +10379,10 @@
    "last": "2026-08-13 17:46:56"
   },
   "WIKI": {
-   "count": 629,
-   "last": "2026-08-14 11:34:43"
+   "count": 633,
+   "last": "2026-08-14 13:06:42"
   }
  },
- "generated_at": "2026-08-14T12:50:42",
- "total": 8151
+ "generated_at": "2026-08-14T13:06:43",
+ "total": 8155
 }
