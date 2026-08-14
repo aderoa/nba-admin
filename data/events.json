@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Deonte Burton (basketball, born 1994)  ~ team: Free agent -> NLEX Road Warriors",
+   "detected_at": "2026-08-14 16:56:42",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Deonte_Burton_(basketball,_born_1994)"
+  },
+  {
+   "detail": "Deonte Burton (basketball, born 1994)  ~ league: - -> PBA",
+   "detected_at": "2026-08-14 16:56:42",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Deonte_Burton_(basketball,_born_1994)"
+  },
+  {
+   "detail": "Deonte Burton (basketball, born 1994)  ~ CAREER  + 2026–present NLEX Road Warriors",
+   "detected_at": "2026-08-14 16:56:42",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Deonte_Burton_(basketball,_born_1994)"
+  },
+  {
    "detail": "Tre Mann  ~ team: Charlotte Hornets -> Cleveland Cavaliers",
    "detected_at": "2026-08-14 16:10:42",
    "source": "WIKI",
@@ -10337,24 +10358,6 @@
    "detected_at": "2026-08-05 21:02:54",
    "source": "PLAYERS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "2026-08-05  Boston Celtics signed forward Dillon Mitchell to a Two-Way Contract.",
-   "detected_at": "2026-08-05 20:46:55",
-   "source": "TRANSACTIONS",
-   "type": "Signing"
-  },
-  {
-   "detail": "- REMOVED JD Davison (HOU)",
-   "detected_at": "2026-08-05 17:16:55",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-08-05  Houston Rockets waived guard JD Davison.",
-   "detected_at": "2026-08-05 16:14:55",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
   }
  ],
  "feeds": {
@@ -10387,10 +10390,10 @@
    "last": "2026-08-13 17:46:56"
   },
   "WIKI": {
-   "count": 641,
-   "last": "2026-08-14 16:10:42"
+   "count": 644,
+   "last": "2026-08-14 16:56:42"
   }
  },
- "generated_at": "2026-08-14T16:10:42",
- "total": 8173
+ "generated_at": "2026-08-14T16:56:46",
+ "total": 8176
 }
