@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "U16 Euro Championship B Finland 88, Slovakia 83",
+   "detected_at": "2026-08-15 12:42:47",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-15/Slovakia-at-Finland/526309"
+  },
+  {
+   "detail": "U16 Euro Championship B Estonia 83, Bosnia and Herzegovina 67",
+   "detected_at": "2026-08-15 12:42:44",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-15/Estonia-at-Bosnia-and-Herzegovina/526298"
+  },
+  {
    "detail": "U16 Euro Championship A Poland 88, Romania 62",
    "detected_at": "2026-08-15 11:34:16",
    "source": "SCORES",
@@ -10346,20 +10360,6 @@
    "source": "RATINGS",
    "type": "TOP4",
    "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-05/Seattle-at-New-York/158561"
-  },
-  {
-   "detail": "WNBA 5. Pauline Astier 19.1 — 11p 3r 5a 28.2m (New York Liberty)",
-   "detected_at": "2026-08-05 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP5",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-05/Seattle-at-New-York/158561"
-  },
-  {
-   "detail": "WNBA ★ 1. Shakira Austin 37.0 — 27p 13r 2a 36.1m (Washington Mystics)",
-   "detected_at": "2026-08-05 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP1",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-05/Dallas-at-Washington/158562"
   }
  ],
  "feeds": {
@@ -10380,8 +10380,8 @@
    "last": "2026-08-14 19:59:40"
   },
   "SCORES": {
-   "count": 284,
-   "last": "2026-08-15 11:34:16"
+   "count": 286,
+   "last": "2026-08-15 12:42:47"
   },
   "SHEETS": {
    "count": 3383,
@@ -10396,6 +10396,6 @@
    "last": "2026-08-15 11:33:45"
   }
  },
- "generated_at": "2026-08-15T11:34:17",
- "total": 8247
+ "generated_at": "2026-08-15T12:42:48",
+ "total": 8249
 }
