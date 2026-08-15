@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Dennis Schröder  ~ CAREER  + 2024 Brooklyn Nets",
+   "detected_at": "2026-08-14 18:51:41",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Dennis_Schr%C3%B6der"
+  },
+  {
+   "detail": "Tre Mann  ~ team: Cleveland Cavaliers -> Charlotte Hornets",
+   "detected_at": "2026-08-14 18:51:41",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Tre_Mann"
+  },
+  {
+   "detail": "Tre Mann  ~ number: 2 -> 23",
+   "detected_at": "2026-08-14 18:51:41",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Tre_Mann"
+  },
+  {
    "detail": "Deonte Burton (basketball, born 1994)  ~ team: Free agent -> NLEX Road Warriors",
    "detected_at": "2026-08-14 16:56:42",
    "source": "WIKI",
@@ -10339,25 +10360,6 @@
    "source": "RATINGS",
    "type": "TOP4",
    "url": "https://basketball.realgm.com/national/boxscore/2026-08-05/Gabon-at-Madagascar/527562"
-  },
-  {
-   "detail": "National Teams 5. Junior Nangha-Ngoualh 6.0 — 11p 11r 2a 35.2m (Gabon, lost)",
-   "detected_at": "2026-08-05 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP5",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-05/Gabon-at-Madagascar/527562"
-  },
-  {
-   "detail": "~ CHANGED Dillon Mitchell  school: St. John's, N.Y. -> St. John's",
-   "detected_at": "2026-08-05 21:16:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Dillon Mitchell  school: St. John's -> St. John's, N.Y.",
-   "detected_at": "2026-08-05 21:02:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10390,10 +10392,10 @@
    "last": "2026-08-13 17:46:56"
   },
   "WIKI": {
-   "count": 644,
-   "last": "2026-08-14 16:56:42"
+   "count": 647,
+   "last": "2026-08-14 18:51:41"
   }
  },
- "generated_at": "2026-08-14T16:56:46",
- "total": 8176
+ "generated_at": "2026-08-14T18:51:42",
+ "total": 8179
 }
