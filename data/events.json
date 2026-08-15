@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Kevin Pangos  ~ team: Free Agent -> Free agent",
+   "detected_at": "2026-08-15 14:38:45",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kevin_Pangos"
+  },
+  {
+   "detail": "Kevin Pangos  ~ CAREER  + Cleveland Cavaliers",
+   "detected_at": "2026-08-15 14:38:45",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Kevin_Pangos"
+  },
+  {
    "detail": "Jahlil Okafor  ~ nationality: Nigerian / American -> -",
    "detected_at": "2026-08-15 14:15:46",
    "source": "WIKI",
@@ -10348,18 +10362,6 @@
    "detected_at": "2026-08-06 08:45:57",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "2026-08-05  Philadelphia 76ers signed guard Kentavious Caldwell-Pope to a Contract.",
-   "detected_at": "2026-08-06 08:25:50",
-   "source": "TRANSACTIONS",
-   "type": "Signing"
-  },
-  {
-   "detail": "+ ADDED   Kentavious Caldwell-Pope (PHI)",
-   "detected_at": "2026-08-06 00:18:57",
-   "source": "PLAYERS",
-   "type": "ADDED"
   }
  ],
  "feeds": {
@@ -10392,10 +10394,10 @@
    "last": "2026-08-13 17:46:56"
   },
   "WIKI": {
-   "count": 687,
-   "last": "2026-08-15 14:15:46"
+   "count": 689,
+   "last": "2026-08-15 14:38:45"
   }
  },
- "generated_at": "2026-08-15T14:15:46",
- "total": 8258
+ "generated_at": "2026-08-15T14:38:46",
+ "total": 8260
 }
