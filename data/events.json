@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "WNBA Indiana Fever 98, Dallas Wings 87",
+   "detected_at": "2026-08-14 21:00:03",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-14/Dallas-at-Indiana/158585"
+  },
+  {
    "detail": "PBA Governors Cup Meralco Bolts 97, Barangay Ginebra Kings 88",
    "detected_at": "2026-08-14 19:59:42",
    "source": "SCORES",
@@ -10353,13 +10360,6 @@
    "source": "RATINGS",
    "type": "TOP5",
    "url": "https://basketball.realgm.com/national/boxscore/2026-08-05/Nigeria-at-Egypt/527556"
-  },
-  {
-   "detail": "National Teams ★ 1. Karl Kouame-Zeze 27.1 — 19p 5r 1a 22.3m (Ivory Coast)",
-   "detected_at": "2026-08-05 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP1",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-05/Chad-at-Ivory-Coast/527557"
   }
  ],
  "feeds": {
@@ -10380,8 +10380,8 @@
    "last": "2026-08-14 19:59:40"
   },
   "SCORES": {
-   "count": 255,
-   "last": "2026-08-14 19:59:42"
+   "count": 256,
+   "last": "2026-08-14 21:00:03"
   },
   "SHEETS": {
    "count": 3383,
@@ -10396,6 +10396,6 @@
    "last": "2026-08-14 18:51:41"
   }
  },
- "generated_at": "2026-08-14T19:59:44",
- "total": 8187
+ "generated_at": "2026-08-14T21:00:05",
+ "total": 8188
 }
