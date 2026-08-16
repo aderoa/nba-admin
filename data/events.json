@@ -1,6 +1,41 @@
 {
  "events": [
   {
+   "detail": "WNBA Minnesota Lynx 92, Las Vegas Aces 87",
+   "detected_at": "2026-08-15 21:07:12",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-15/Minnesota-at-Las-Vegas/158589"
+  },
+  {
+   "detail": "WNBA + Alissa Pili → Los Angeles Sparks",
+   "detected_at": "2026-08-15 21:07:09",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "WNBA Washington Mystics 80, Los Angeles Sparks 70",
+   "detected_at": "2026-08-15 21:07:09",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-15/LA-Sparks-at-Washington/158588"
+  },
+  {
+   "detail": "WNBA + Anneli Maley → New York Liberty",
+   "detected_at": "2026-08-15 21:07:07",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "WNBA New York Liberty 82, Connecticut Sun 75",
+   "detected_at": "2026-08-15 21:07:07",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-15/New-York-at-Connecticut/158587"
+  },
+  {
    "detail": "Canadian Elite Basketball League Winnipeg Sea Bears 98, Brampton Honey Badgers 84",
    "detected_at": "2026-08-15 19:05:47",
    "source": "SCORES",
@@ -10335,36 +10370,6 @@
    "detected_at": "2026-08-06 12:29:58",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  Luxury Tax Calculator: 5666814.3 -> 8116235.3",
-   "detected_at": "2026-08-06 12:29:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED 1st Incremental Tax Bracket  -  Luxury Tax Calculator: 5666814.3 -> 5685000",
-   "detected_at": "2026-08-06 12:29:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED 2nd Incremental Tax Bracket  -  Luxury Tax Calculator: 0 -> 3039044.125",
-   "detected_at": "2026-08-06 12:29:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  Luxury Tax Calculator: 5666814.3 -> 8724044.125",
-   "detected_at": "2026-08-06 12:29:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "ORL  - REMOVED Wagner, Moritz",
-   "detected_at": "2026-08-06 08:45:57",
-   "source": "SHEETS",
-   "type": "REMOVED"
   }
  ],
  "feeds": {
@@ -10381,12 +10386,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 48,
-   "last": "2026-08-14 19:59:40"
+   "count": 50,
+   "last": "2026-08-15 21:07:09"
   },
   "SCORES": {
-   "count": 288,
-   "last": "2026-08-15 19:05:47"
+   "count": 291,
+   "last": "2026-08-15 21:07:12"
   },
   "SHEETS": {
    "count": 3383,
@@ -10401,6 +10406,6 @@
    "last": "2026-08-15 15:01:46"
   }
  },
- "generated_at": "2026-08-15T19:05:50",
- "total": 8263
+ "generated_at": "2026-08-15T21:07:14",
+ "total": 8268
 }
