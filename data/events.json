@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Canadian Elite Basketball League Winnipeg Sea Bears 98, Brampton Honey Badgers 84",
+   "detected_at": "2026-08-15 19:05:47",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-15/Brampton-Honey-Badgers-at-Winnipeg-Sea-Bears/528917"
+  },
+  {
+   "detail": "Mexican LNBP Lobos Plateados 74, Dorados de Chihuahua 71",
+   "detected_at": "2026-08-15 19:05:43",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-15/Dorados-de-Chihuahua-at-Lobos-Plateados/526148"
+  },
+  {
    "detail": "Vsevolod Ishchenko  ~ CAREER  + 2024–present Lokomotiv Kuban",
    "detected_at": "2026-08-15 15:01:46",
    "source": "WIKI",
@@ -10351,18 +10365,6 @@
    "detected_at": "2026-08-06 08:45:57",
    "source": "SHEETS",
    "type": "REMOVED"
-  },
-  {
-   "detail": "ORL  - REMOVED Howard, Jett",
-   "detected_at": "2026-08-06 08:45:57",
-   "source": "SHEETS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "ORL  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 239337795 -> 222499857, col9: 812407571.6 -> 795569633.6",
-   "detected_at": "2026-08-06 08:45:57",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10383,8 +10385,8 @@
    "last": "2026-08-14 19:59:40"
   },
   "SCORES": {
-   "count": 286,
-   "last": "2026-08-15 12:42:47"
+   "count": 288,
+   "last": "2026-08-15 19:05:47"
   },
   "SHEETS": {
    "count": 3383,
@@ -10399,6 +10401,6 @@
    "last": "2026-08-15 15:01:46"
   }
  },
- "generated_at": "2026-08-15T15:01:47",
- "total": 8261
+ "generated_at": "2026-08-15T19:05:50",
+ "total": 8263
 }
