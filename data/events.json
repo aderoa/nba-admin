@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Luca Illeș  ~ number: 25 -> 24",
+   "detected_at": "2026-08-16 04:00:03",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Luca_Ille%C8%99"
+  },
+  {
    "detail": "Chris Jones (basketball, born 1991)  ~ team: - -> Santos del Potosí",
    "detected_at": "2026-08-16 00:51:48",
    "source": "WIKI",
@@ -10370,12 +10377,6 @@
    "detected_at": "2026-08-06 12:30:56",
    "source": "DOCS",
    "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Update 1.3 (7/18/26): K. Bufkin, K. Caldwell-Pope, M. Cisse, I. Crawford, D. Green, M. Hezonja, C. Houstan, H. Ingram, A. Jackson, L. James, S. Jones, C. Koloko, N. Marshall, D. Melton, G. Payton, J. Phillips, J. Sochan, J. Tate, M. Thybulle, O. Tshiebwe, M. Wagner, J. Walsh",
-   "detected_at": "2026-08-06 12:30:56",
-   "source": "DOCS",
-   "type": "ADDED"
   }
  ],
  "feeds": {
@@ -10408,10 +10409,10 @@
    "last": "2026-08-13 17:46:56"
   },
   "WIKI": {
-   "count": 696,
-   "last": "2026-08-16 00:51:48"
+   "count": 697,
+   "last": "2026-08-16 04:00:03"
   }
  },
- "generated_at": "2026-08-16T00:51:50",
- "total": 8274
+ "generated_at": "2026-08-16T04:00:11",
+ "total": 8275
 }
