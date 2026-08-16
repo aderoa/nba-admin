@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Jerry Smith (basketball, born 1987)  ~ team: Free agent -> -",
+   "detected_at": "2026-08-15 23:42:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jerry_Smith_(basketball,_born_1987)"
+  },
+  {
+   "detail": "Jerry Smith (basketball, born 1987)  ~ career_end: - -> 2023",
+   "detected_at": "2026-08-15 23:42:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jerry_Smith_(basketball,_born_1987)"
+  },
+  {
    "detail": "WNBA Minnesota Lynx 92, Las Vegas Aces 87",
    "detected_at": "2026-08-15 21:07:12",
    "source": "SCORES",
@@ -10358,18 +10372,6 @@
    "detected_at": "2026-08-06 12:29:58",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "PHL  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 14 -> 15",
-   "detected_at": "2026-08-06 12:29:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "PHL  CHANGED Avg, Salary (Mean) (No 10-Day K's)  -  col6: 1 -> 0",
-   "detected_at": "2026-08-06 12:29:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10402,10 +10404,10 @@
    "last": "2026-08-13 17:46:56"
   },
   "WIKI": {
-   "count": 690,
-   "last": "2026-08-15 15:01:46"
+   "count": 692,
+   "last": "2026-08-15 23:42:47"
   }
  },
- "generated_at": "2026-08-15T21:07:14",
- "total": 8268
+ "generated_at": "2026-08-15T23:42:48",
+ "total": 8270
 }
