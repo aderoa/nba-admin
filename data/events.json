@@ -1,6 +1,230 @@
 {
  "events": [
   {
+   "detail": "U16 Euro Championship B Croatia 69, Iceland 67",
+   "detected_at": "2026-08-16 09:39:42",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-15/Croatia-at-Iceland/526297"
+  },
+  {
+   "detail": "U16 Euro Championship A Latvia 75, France 69",
+   "detected_at": "2026-08-16 09:39:39",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-15/Latvia-at-France/526249"
+  },
+  {
+   "detail": "Carlik Jones  ~ team: Partizan -> Partizan Belgrade",
+   "detected_at": "2026-08-16 09:39:30",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Carlik_Jones"
+  },
+  {
+   "detail": "Carlik Jones  ~ league: KLS ABA League EuroLeague -> Serbian SuperLeague ABA League EuroLeague",
+   "detected_at": "2026-08-16 09:39:30",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Carlik_Jones"
+  },
+  {
+   "detail": "Carlik Jones  ~ number: 2 -> 1",
+   "detected_at": "2026-08-16 09:39:30",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Carlik_Jones"
+  },
+  {
+   "detail": "Cameron Reynolds  ~ league: LKL -> LKL BCL",
+   "detected_at": "2026-08-16 09:39:30",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Cameron_Reynolds"
+  },
+  {
+   "detail": "Ethan Thompson  ~ league: ABA League EuroLeague -> Serbian SuperLeague ABA League EuroLeague",
+   "detected_at": "2026-08-16 09:39:30",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Ethan_Thompson"
+  },
+  {
+   "detail": "Cassius Winston  ~ number: - -> 5",
+   "detected_at": "2026-08-16 09:39:30",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Cassius_Winston"
+  },
+  {
+   "detail": "Gytis Masiulis  ~ league: LKL -> LKL BCL",
+   "detected_at": "2026-08-16 09:39:30",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Gytis_Masiulis"
+  },
+  {
+   "detail": "Laurynas Beliauskas  ~ league: LKL -> LKL BCL",
+   "detected_at": "2026-08-16 09:39:30",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Laurynas_Beliauskas"
+  },
+  {
+   "detail": "Matas Jogėla  ~ number: - -> 23",
+   "detected_at": "2026-08-16 09:39:30",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Matas_Jog%C4%97la"
+  },
+  {
+   "detail": "Martynas Echodas  ~ league: LKL -> LKL EuroCup",
+   "detected_at": "2026-08-16 09:39:30",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Martynas_Echodas"
+  },
+  {
+   "detail": "Einaras Tubutis  ~ league: LKL -> LKL EuroCup",
+   "detected_at": "2026-08-16 09:39:30",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Einaras_Tubutis"
+  },
+  {
+   "detail": "Elvar Már Friðriksson  ~ league: LKL -> LKL EuroCup",
+   "detected_at": "2026-08-16 09:39:30",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Elvar_M%C3%A1r_Fri%C3%B0riksson"
+  },
+  {
+   "detail": "Martynas Paliukėnas  ~ league: LKL -> LKL BCL",
+   "detected_at": "2026-08-16 09:39:30",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Martynas_Paliuk%C4%97nas"
+  },
+  {
+   "detail": "Augustas Marčiulionis  ~ league: LKL -> LKL BCL",
+   "detected_at": "2026-08-16 09:39:30",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Augustas_Mar%C4%8Diulionis"
+  },
+  {
+   "detail": "Artūras Gudaitis  ~ league: LKL -> LKL BCL",
+   "detected_at": "2026-08-16 09:39:30",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Art%C5%ABras_Gudaitis"
+  },
+  {
+   "detail": "Kristupas Žemaitis  ~ league: LKL -> LKL EuroCup",
+   "detected_at": "2026-08-16 09:39:30",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kristupas_%C5%BDemaitis"
+  },
+  {
+   "detail": "Karolis Lukošiūnas  ~ team: BC Šiauliai -> Šiauliai",
+   "detected_at": "2026-08-16 09:39:30",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Karolis_Luko%C5%A1i%C5%ABnas"
+  },
+  {
+   "detail": "Karolis Lukošiūnas  ~ league: LKL -> LKL EuroCup",
+   "detected_at": "2026-08-16 09:39:30",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Karolis_Luko%C5%A1i%C5%ABnas"
+  },
+  {
+   "detail": "Tauras Jogėla  ~ league: LKL -> LKL EuroCup",
+   "detected_at": "2026-08-16 09:39:30",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Tauras_Jog%C4%97la"
+  },
+  {
+   "detail": "Erikas Venskus  ~ team: BC Šiauliai -> Šiauliai",
+   "detected_at": "2026-08-16 09:39:30",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Erikas_Venskus"
+  },
+  {
+   "detail": "Erikas Venskus  ~ league: LKL -> LKL EuroCup",
+   "detected_at": "2026-08-16 09:39:30",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Erikas_Venskus"
+  },
+  {
+   "detail": "Erikas Venskus  ~ CAREER  + 2026–present Šiauliai",
+   "detected_at": "2026-08-16 09:39:30",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Erikas_Venskus"
+  },
+  {
+   "detail": "Mitar Bošnjaković  ~ team: Partizan Belgrade -> Free agent",
+   "detected_at": "2026-08-16 09:39:30",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Mitar_Bo%C5%A1njakovi%C4%87"
+  },
+  {
+   "detail": "Mitar Bošnjaković  ~ league: KLS ABA League EuroLeague -> -",
+   "detected_at": "2026-08-16 09:39:30",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Mitar_Bo%C5%A1njakovi%C4%87"
+  },
+  {
+   "detail": "Mitar Bošnjaković  ~ number: 8 -> -",
+   "detected_at": "2026-08-16 09:39:30",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Mitar_Bo%C5%A1njakovi%C4%87"
+  },
+  {
+   "detail": "Mitar Bošnjaković  ~ CAREER  + 2024–2026 Partizan",
+   "detected_at": "2026-08-16 09:39:30",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Mitar_Bo%C5%A1njakovi%C4%87"
+  },
+  {
+   "detail": "Luca Illeș  ~ team: Partizan Belgrade -> U-BT Cluj-Napoca",
+   "detected_at": "2026-08-16 09:39:30",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Luca_Ille%C8%99"
+  },
+  {
+   "detail": "Luca Illeș  ~ league: KLS ABA League EuroLeague -> Liga Națională ABA League EuroCup",
+   "detected_at": "2026-08-16 09:39:30",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Luca_Ille%C8%99"
+  },
+  {
+   "detail": "Luca Illeș  ~ number: 24 -> -",
+   "detected_at": "2026-08-16 09:39:30",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Luca_Ille%C8%99"
+  },
+  {
+   "detail": "Luca Illeș  ~ CAREER  + 2026–present →U-BT Cluj-Napoca",
+   "detected_at": "2026-08-16 09:39:30",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Luca_Ille%C8%99"
+  },
+  {
    "detail": "Luca Illeș  ~ number: 25 -> 24",
    "detected_at": "2026-08-16 04:00:03",
    "source": "WIKI",
@@ -10171,212 +10395,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Fatts_Russell"
-  },
-  {
-   "detail": "Fatts Russell  ~ league: bcl, lkl -> Liga Națională ABA League EuroCup",
-   "detected_at": "2026-08-06 23:23:02",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Fatts_Russell"
-  },
-  {
-   "detail": "Fatts Russell  ~ league: Liga Națională ABA League EuroCup -> bcl, lkl",
-   "detected_at": "2026-08-06 22:58:09",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Fatts_Russell"
-  },
-  {
-   "detail": "Fatts Russell  ~ team: Rytas Vilnius -> \"Rytas\" Vilnius",
-   "detected_at": "2026-08-06 22:34:57",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Fatts_Russell"
-  },
-  {
-   "detail": "Fatts Russell  ~ league: LKL BCL -> Liga Națională ABA League EuroCup",
-   "detected_at": "2026-08-06 22:34:57",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Fatts_Russell"
-  },
-  {
-   "detail": "Fatts Russell  ~ CAREER  + 2025–present U-BT Cluj-Napoca",
-   "detected_at": "2026-08-06 22:34:57",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Fatts_Russell"
-  },
-  {
-   "detail": "D. J. Carton  ~ team: Birmingham Squadron -> Laketown Squadron",
-   "detected_at": "2026-08-06 21:48:58",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/D._J._Carton"
-  },
-  {
-   "detail": "D. J. Carton  ~ CAREER  + 2025–present Birmingham/Laketown Squadron",
-   "detected_at": "2026-08-06 21:48:58",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/D._J._Carton"
-  },
-  {
-   "detail": "Keenan Evans  ~ CAREER  + 2026–present Žalgiris Kaunas",
-   "detected_at": "2026-08-06 21:48:58",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Keenan_Evans"
-  },
-  {
-   "detail": "Keenan Evans  ~ CAREER  + 2026-present London Lions",
-   "detected_at": "2026-08-06 21:48:58",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Keenan_Evans"
-  },
-  {
-   "detail": "Torin Francis  ~ nationality: American -> -",
-   "detected_at": "2026-08-06 19:53:58",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Torin_Francis"
-  },
-  {
-   "detail": "+ ADDED   Jamarion Sharp (LAC)",
-   "detected_at": "2026-08-06 19:18:54",
-   "source": "PLAYERS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "Armoni Brooks  ~ CAREER  + 2026–present ASVEL",
-   "detected_at": "2026-08-06 19:07:57",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Armoni_Brooks"
-  },
-  {
-   "detail": "Armoni Brooks  ~ CAREER  + 2026–present →Valencia",
-   "detected_at": "2026-08-06 19:07:57",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Armoni_Brooks"
-  },
-  {
-   "detail": "Armoni Brooks  ~ CAREER  + 2026–present ASVEL",
-   "detected_at": "2026-08-06 19:01:36",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Armoni_Brooks"
-  },
-  {
-   "detail": "Armoni Brooks  ~ CAREER  + 2026–present →Valencia",
-   "detected_at": "2026-08-06 19:01:36",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Armoni_Brooks"
-  },
-  {
-   "detail": "2026-08-06  LA Clippers signed center Jamarion Sharp to a Two-Way Contract.",
-   "detected_at": "2026-08-06 18:39:56",
-   "source": "TRANSACTIONS",
-   "type": "Signing"
-  },
-  {
-   "detail": "2026-27 Two-Way Signings  - REMOVED Execution Date: 7/2/26",
-   "detected_at": "2026-08-06 12:34:58",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Two-Way Signings  + ADDED  Execution Date: 8/5/26",
-   "detected_at": "2026-08-06 12:34:58",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Two-Way Signings  - REMOVED Update 1.3 (7/18/26): H. Dickinson, V. Goldin, J. Howard, T. Jemison, D. Jones Garcia, A. Kaluma, J. Pierre, J. Slawson, J. Tonje, J. Wilson",
-   "detected_at": "2026-08-06 12:33:55",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Two-Way Signings  + ADDED  Update 1.3 (7/18/26): H. Dickinson, V. Goldin, J. Howard, T. Jemison, D. Jones Garcia, A. Kaluma, D. Mitchell, J. Pierre, J. Slawson, J. Tonje, J. Wilson",
-   "detected_at": "2026-08-06 12:33:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Two-Way Signings  + ADDED  Dillon Mitchell (2026 NBA DRAFT) Boston Celtics",
-   "detected_at": "2026-08-06 12:33:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Two-Way Signings  + ADDED  1 Year. Skill; Injury or Illness; Mental. Compensation protection for 2026-27 Season is for $91,000 but will increase to 50% if team has not requested waivers on player on or before the first day of the 2026-27 Regular Season. Love of the Game. Physical Exam. Alt. 7(b).",
-   "detected_at": "2026-08-06 12:33:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Two-Way Signings  + ADDED  Execution Date: 7/2/26",
-   "detected_at": "2026-08-06 12:33:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Minimum Salary Exception. Skill; Injury or Illness; Death. Love of the Game. Physical Exam. Alt. 7(b).",
-   "detected_at": "2026-08-06 12:32:55",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Execution Date: 7/6/26",
-   "detected_at": "2026-08-06 12:32:55",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Minimum Salary Exception. Advance Payment ($290,740). Insurance Premium Reimbursement. Skill; Injury or Illness; Mental. Love of the Game. Physical Exam. Alt. 7(b).",
-   "detected_at": "2026-08-06 12:32:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 8/5/26",
-   "detected_at": "2026-08-06 12:32:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Kentavious Caldwell-Pope Philadelphia 76ers",
-   "detected_at": "2026-08-06 12:31:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  26-27 $3,876,529",
-   "detected_at": "2026-08-06 12:31:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Minimum Salary Exception. Skill; Injury or Illness; Death. Love of the Game. Physical Exam. Alt. 7(b).",
-   "detected_at": "2026-08-06 12:31:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 7/6/26",
-   "detected_at": "2026-08-06 12:31:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Update 1.3 (7/18/26): K. Bufkin, M. Cisse, I. Crawford, D. Green, M. Hezonja, C. Houstan, H. Ingram, A. Jackson, L. James, S. Jones, C. Koloko, N. Marshall, D. Melton, G. Payton, J. Phillips, J. Sochan, J. Tate, M. Thybulle, O. Tshiebwe, M. Wagner, J. Walsh",
-   "detected_at": "2026-08-06 12:30:56",
-   "source": "DOCS",
-   "type": "REMOVED"
   }
  ],
  "feeds": {
@@ -10397,8 +10415,8 @@
    "last": "2026-08-15 21:07:09"
   },
   "SCORES": {
-   "count": 291,
-   "last": "2026-08-15 21:07:12"
+   "count": 293,
+   "last": "2026-08-16 09:39:42"
   },
   "SHEETS": {
    "count": 3383,
@@ -10409,10 +10427,10 @@
    "last": "2026-08-13 17:46:56"
   },
   "WIKI": {
-   "count": 697,
-   "last": "2026-08-16 04:00:03"
+   "count": 727,
+   "last": "2026-08-16 09:39:30"
   }
  },
- "generated_at": "2026-08-16T04:00:11",
- "total": 8275
+ "generated_at": "2026-08-16T09:39:42",
+ "total": 8307
 }
