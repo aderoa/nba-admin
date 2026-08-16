@@ -1,6 +1,34 @@
 {
  "events": [
   {
+   "detail": "Chris Jones (basketball, born 1991)  ~ team: - -> Santos del Potosí",
+   "detected_at": "2026-08-16 00:51:48",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Chris_Jones_(basketball,_born_1991)"
+  },
+  {
+   "detail": "Chris Jones (basketball, born 1991)  ~ league: - -> Liga Nacional de Baloncesto Profesional",
+   "detected_at": "2026-08-16 00:51:48",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Chris_Jones_(basketball,_born_1991)"
+  },
+  {
+   "detail": "Chris Jones (basketball, born 1991)  ~ number: - -> 3",
+   "detected_at": "2026-08-16 00:51:48",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Chris_Jones_(basketball,_born_1991)"
+  },
+  {
+   "detail": "Chris Jones (basketball, born 1991)  ~ CAREER  + 2026-present Santos del Potosí",
+   "detected_at": "2026-08-16 00:51:48",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Chris_Jones_(basketball,_born_1991)"
+  },
+  {
    "detail": "Jerry Smith (basketball, born 1987)  ~ team: Free agent -> -",
    "detected_at": "2026-08-15 23:42:47",
    "source": "WIKI",
@@ -10348,30 +10376,6 @@
    "detected_at": "2026-08-06 12:30:56",
    "source": "DOCS",
    "type": "ADDED"
-  },
-  {
-   "detail": "PHL  + ADDED  Caldwell-Pope, Kentavious",
-   "detected_at": "2026-08-06 12:29:58",
-   "source": "SHEETS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "PHL  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 217813309.3 -> 220262730.3, col9: 652042018.7 -> 654491439.7",
-   "detected_at": "2026-08-06 12:29:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "PHL  CHANGED Players Under Contract  -  col3: 206094814.3 -> 208544235.3",
-   "detected_at": "2026-08-06 12:29:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "PHL  CHANGED Full Season Contracts  -  col3: 206094814.3 -> 208544235.3",
-   "detected_at": "2026-08-06 12:29:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10404,10 +10408,10 @@
    "last": "2026-08-13 17:46:56"
   },
   "WIKI": {
-   "count": 692,
-   "last": "2026-08-15 23:42:47"
+   "count": 696,
+   "last": "2026-08-16 00:51:48"
   }
  },
- "generated_at": "2026-08-15T23:42:48",
- "total": 8270
+ "generated_at": "2026-08-16T00:51:50",
+ "total": 8274
 }
