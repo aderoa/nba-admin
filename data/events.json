@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "+ ADDED   Malachi Smith (TOR)",
+   "detected_at": "2026-08-17 09:33:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
    "detail": "Haywood Highsmith  ~ team: Free agent -> Phoenix Suns",
    "detected_at": "2026-08-17 09:09:46",
    "source": "WIKI",
@@ -10384,13 +10390,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Josh_Selby"
-  },
-  {
-   "detail": "Markelle Fultz  ~ team: Raptors 905 -> Free agent",
-   "detected_at": "2026-08-07 07:56:34",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Markelle_Fultz"
   }
  ],
  "feeds": {
@@ -10399,8 +10398,8 @@
    "last": "2026-08-10 08:53:00"
   },
   "PLAYERS": {
-   "count": 621,
-   "last": "2026-08-13 14:38:54"
+   "count": 622,
+   "last": "2026-08-17 09:33:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10427,6 +10426,6 @@
    "last": "2026-08-17 09:09:46"
   }
  },
- "generated_at": "2026-08-17T09:09:47",
- "total": 8480
+ "generated_at": "2026-08-17T09:34:01",
+ "total": 8481
 }
