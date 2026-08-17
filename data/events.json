@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "WNBA Portland Fire 88, Phoenix Mercury 85",
+   "detected_at": "2026-08-16 20:12:49",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-16/Portland-at-Phoenix/158591"
+  },
+  {
+   "detail": "Mexican LNBP Abejas 92, Panteras de Aguascalientes 83",
+   "detected_at": "2026-08-16 20:12:46",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-15/Panteras-de-Aguascalientes-at-Abejas/526152"
+  },
+  {
+   "detail": "Mexican LNBP + Joe French → Abejas",
+   "detected_at": "2026-08-16 20:12:44",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
    "detail": "Marquinhos Vieira  ~ team: Vasco da Gama -> -",
    "detected_at": "2026-08-16 19:26:48",
    "source": "WIKI",
@@ -10369,27 +10390,6 @@
    "source": "RATINGS",
    "type": "TOP2",
    "url": "https://basketball.realgm.com/international/boxscore/2026-08-06/Niagara-River-Lions-at-Scarborough-Shooting-Stars/528062"
-  },
-  {
-   "detail": "Canadian Elite Basketball League 3. Nathan Cayo 16.0 — 16p 7r 1a 29.3m (Niagara River Lions)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP3",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-06/Niagara-River-Lions-at-Scarborough-Shooting-Stars/528062"
-  },
-  {
-   "detail": "Canadian Elite Basketball League 4. Munis Tutu 14.1 — 10p 2r 3a 23.6m (Niagara River Lions)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP4",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-06/Niagara-River-Lions-at-Scarborough-Shooting-Stars/528062"
-  },
-  {
-   "detail": "Canadian Elite Basketball League 5. Kyle Vinales 11.2 — 13p 1r 4a 22.6m (Niagara River Lions)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP5",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-06/Niagara-River-Lions-at-Scarborough-Shooting-Stars/528062"
   }
  ],
  "feeds": {
@@ -10406,12 +10406,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 58,
-   "last": "2026-08-16 19:04:17"
+   "count": 59,
+   "last": "2026-08-16 20:12:44"
   },
   "SCORES": {
-   "count": 302,
-   "last": "2026-08-16 19:04:18"
+   "count": 304,
+   "last": "2026-08-16 20:12:49"
   },
   "SHEETS": {
    "count": 3388,
@@ -10426,6 +10426,6 @@
    "last": "2026-08-16 19:26:48"
   }
  },
- "generated_at": "2026-08-16T19:26:48",
- "total": 8379
+ "generated_at": "2026-08-16T20:12:50",
+ "total": 8382
 }
