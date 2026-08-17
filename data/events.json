@@ -1,6 +1,18 @@
 {
  "events": [
   {
+   "detail": "+ ADDED   Sean Pedulla (HOU)",
+   "detected_at": "2026-08-17 15:45:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "~ CHANGED Trendon Watford  team: PHI -> NOP",
+   "detected_at": "2026-08-17 15:45:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "Miles Norris  ~ number: - -> 0",
    "detected_at": "2026-08-17 15:44:45",
    "source": "WIKI",
@@ -10366,20 +10378,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Colby_Jones"
-  },
-  {
-   "detail": "Colby Jones  ~ number: 3 -> -",
-   "detected_at": "2026-08-07 08:19:54",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Colby_Jones"
-  },
-  {
-   "detail": "Trent Forrest  ~ number: - -> 11",
-   "detected_at": "2026-08-07 07:56:34",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Trent_Forrest"
   }
  ],
  "feeds": {
@@ -10388,8 +10386,8 @@
    "last": "2026-08-10 08:53:00"
   },
   "PLAYERS": {
-   "count": 628,
-   "last": "2026-08-17 13:35:54"
+   "count": 630,
+   "last": "2026-08-17 15:45:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10416,6 +10414,6 @@
    "last": "2026-08-17 15:44:45"
   }
  },
- "generated_at": "2026-08-17T15:44:48",
- "total": 8513
+ "generated_at": "2026-08-17T15:46:08",
+ "total": 8515
 }
