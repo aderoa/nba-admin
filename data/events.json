@@ -1,6 +1,42 @@
 {
  "events": [
   {
+   "detail": "+ ADDED   Haywood Highsmith (PHX)",
+   "detected_at": "2026-08-17 13:35:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "- REMOVED Killian Hayes (SAC)",
+   "detected_at": "2026-08-17 13:35:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Doug McDermott (SAC)",
+   "detected_at": "2026-08-17 13:35:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Russell Westbrook (SAC)",
+   "detected_at": "2026-08-17 13:35:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Patrick Baldwin Jr. (SAC)",
+   "detected_at": "2026-08-17 13:35:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Drew Eubanks (SAC)",
+   "detected_at": "2026-08-17 13:35:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
    "detail": "Sean Pedulla  ~ team: Free agent -> Houston Rockets",
    "detected_at": "2026-08-17 13:26:46",
    "source": "WIKI",
@@ -10346,48 +10382,6 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Damian_Jones_(basketball)"
-  },
-  {
-   "detail": "Kelan Martin  ~ team: UCAM Murcia -> Illawarra Hawks",
-   "detected_at": "2026-08-07 07:56:34",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Kelan_Martin"
-  },
-  {
-   "detail": "Kelan Martin  ~ league: Liga ACB -> NBL",
-   "detected_at": "2026-08-07 07:56:34",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Kelan_Martin"
-  },
-  {
-   "detail": "Kelan Martin  ~ number: 30 -> -",
-   "detected_at": "2026-08-07 07:56:34",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Kelan_Martin"
-  },
-  {
-   "detail": "Kelan Martin  ~ CAREER  + 2026 UCAM Murcia",
-   "detected_at": "2026-08-07 07:56:34",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Kelan_Martin"
-  },
-  {
-   "detail": "Kelan Martin  ~ CAREER  + 2026–present Illawarra Hawks",
-   "detected_at": "2026-08-07 07:56:34",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Kelan_Martin"
-  },
-  {
-   "detail": "Frank Ntilikina  ~ team: AS Monaco -> Free agent",
-   "detected_at": "2026-08-07 07:56:34",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Frank_Ntilikina"
   }
  ],
  "feeds": {
@@ -10396,8 +10390,8 @@
    "last": "2026-08-10 08:53:00"
   },
   "PLAYERS": {
-   "count": 622,
-   "last": "2026-08-17 09:33:54"
+   "count": 628,
+   "last": "2026-08-17 13:35:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10424,6 +10418,6 @@
    "last": "2026-08-17 13:26:46"
   }
  },
- "generated_at": "2026-08-17T13:26:46",
- "total": 8500
+ "generated_at": "2026-08-17T13:36:01",
+ "total": 8506
 }
