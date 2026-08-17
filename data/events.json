@@ -1,6 +1,36 @@
 {
  "events": [
   {
+   "detail": "POR  - REMOVED Murray, Kris",
+   "detected_at": "2026-08-16 18:40:58",
+   "source": "SHEETS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "POR  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 213761508.3 -> 208446504.3, col9: 509308915.4 -> 503993911.4",
+   "detected_at": "2026-08-16 18:40:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "POR  CHANGED Players Under Contract  -  col3: 199589865.6 -> 194274861.6",
+   "detected_at": "2026-08-16 18:40:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "POR  CHANGED Full Season Contracts  -  col3: 199589865.6 -> 194274861.6",
+   "detected_at": "2026-08-16 18:40:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "POR  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 16 -> 15",
+   "detected_at": "2026-08-16 18:40:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "Stefan Lazarević (basketball)  ~ team: Bilbao Basket -> Spartak Subotica",
    "detected_at": "2026-08-16 16:38:49",
    "source": "WIKI",
@@ -10360,41 +10390,6 @@
    "source": "RATINGS",
    "type": "TOP5",
    "url": "https://basketball.realgm.com/national/boxscore/2026-08-06/Croatia-at-Switzerland/526328"
-  },
-  {
-   "detail": "National Teams ★ 1. Dion Shabani 45.0 — 37p 10r 1a 27.7m (North Macedonia)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP1",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-06/North-Macedonia-at-Cyprus/526329"
-  },
-  {
-   "detail": "National Teams 2. Aleksandar Zunzurovski 24.2 — 23p 4r 2a 34.2m (North Macedonia)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP2",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-06/North-Macedonia-at-Cyprus/526329"
-  },
-  {
-   "detail": "National Teams 3. Rafael Arbuthnot Kashiouris 16.5 — 21p 3r 3a 24.5m (Cyprus, lost)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP3",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-06/North-Macedonia-at-Cyprus/526329"
-  },
-  {
-   "detail": "National Teams 4. Mihail Angjelovski 14.0 — 8p 7r 11a 31.2m (North Macedonia)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP4",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-06/North-Macedonia-at-Cyprus/526329"
-  },
-  {
-   "detail": "National Teams 5. Aleksandar Kotevski 9.4 — 5p 4r 2a 19.6m (North Macedonia)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP5",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-06/North-Macedonia-at-Cyprus/526329"
   }
  ],
  "feeds": {
@@ -10419,8 +10414,8 @@
    "last": "2026-08-16 09:39:42"
   },
   "SHEETS": {
-   "count": 3383,
-   "last": "2026-08-14 15:47:58"
+   "count": 3388,
+   "last": "2026-08-16 18:40:58"
   },
   "TRANSACTIONS": {
    "count": 271,
@@ -10431,6 +10426,6 @@
    "last": "2026-08-16 16:38:49"
   }
  },
- "generated_at": "2026-08-16T16:38:54",
- "total": 8354
+ "generated_at": "2026-08-16T18:41:01",
+ "total": 8359
 }
