@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Sean Pedulla  ~ team: Free agent -> Houston Rockets",
+   "detected_at": "2026-08-17 13:26:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Sean_Pedulla"
+  },
+  {
+   "detail": "Sean Pedulla  ~ league: - -> NBA",
+   "detected_at": "2026-08-17 13:26:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Sean_Pedulla"
+  },
+  {
+   "detail": "Sean Pedulla  ~ CAREER  + –present Houston Rockets",
+   "detected_at": "2026-08-17 13:26:46",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Sean_Pedulla"
+  },
+  {
    "detail": "2026-08-17  Phoenix Suns signed forward Haywood Highsmith to a Contract.",
    "detected_at": "2026-08-17 13:03:55",
    "source": "TRANSACTIONS",
@@ -10367,27 +10388,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Frank_Ntilikina"
-  },
-  {
-   "detail": "Frank Ntilikina  ~ league: LNB EuroCup -> -",
-   "detected_at": "2026-08-07 07:56:34",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Frank_Ntilikina"
-  },
-  {
-   "detail": "Aleksej Pokuševski  ~ CAREER  + 2026–present Lokomotiv Kuban",
-   "detected_at": "2026-08-07 07:56:34",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Aleksej_Poku%C5%A1evski"
-  },
-  {
-   "detail": "Mac McClung  ~ number: - -> 0",
-   "detected_at": "2026-08-07 07:56:34",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Mac_McClung"
   }
  ],
  "feeds": {
@@ -10420,10 +10420,10 @@
    "last": "2026-08-17 13:03:55"
   },
   "WIKI": {
-   "count": 879,
-   "last": "2026-08-17 10:41:47"
+   "count": 882,
+   "last": "2026-08-17 13:26:46"
   }
  },
- "generated_at": "2026-08-17T13:04:01",
- "total": 8497
+ "generated_at": "2026-08-17T13:26:46",
+ "total": 8500
 }
