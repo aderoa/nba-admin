@@ -1,6 +1,524 @@
 {
  "events": [
   {
+   "detail": "U18 AfroBasket Ivory Coast 73, Senegal 51",
+   "detected_at": "2026-08-17 07:32:59",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-16/Ivory-Coast-at-Senegal/528927"
+  },
+  {
+   "detail": "U18 AfroBasket Cameroon 73, Mali 69",
+   "detected_at": "2026-08-17 07:32:56",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-16/Cameroon-at-Mali/528928"
+  },
+  {
+   "detail": "U18 Asia Cup A Korea 90, India 61",
+   "detected_at": "2026-08-17 07:32:53",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-16/Korea-at-India/528532"
+  },
+  {
+   "detail": "Chaundee Brown Jr.  ~ team: London Lions -> Fukui Blowinds",
+   "detected_at": "2026-08-17 07:32:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Chaundee_Brown_Jr."
+  },
+  {
+   "detail": "Chaundee Brown Jr.  ~ league: Super League Basketball -> B.League",
+   "detected_at": "2026-08-17 07:32:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Chaundee_Brown_Jr."
+  },
+  {
+   "detail": "Chaundee Brown Jr.  ~ CAREER  + 2026 London Lions",
+   "detected_at": "2026-08-17 07:32:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Chaundee_Brown_Jr."
+  },
+  {
+   "detail": "Chaundee Brown Jr.  ~ CAREER  + 2026–present Fukui Blowinds",
+   "detected_at": "2026-08-17 07:32:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Chaundee_Brown_Jr."
+  },
+  {
+   "detail": "Derrick Williams (basketball)  ~ team: Suwon KT Sonicboom -> AEK Athens",
+   "detected_at": "2026-08-17 07:32:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Derrick_Williams_(basketball)"
+  },
+  {
+   "detail": "Derrick Williams (basketball)  ~ league: Korean Basketball League -> Greek Basketball League Basketball Champions League",
+   "detected_at": "2026-08-17 07:32:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Derrick_Williams_(basketball)"
+  },
+  {
+   "detail": "Derrick Williams (basketball)  ~ number: 24 -> -",
+   "detected_at": "2026-08-17 07:32:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Derrick_Williams_(basketball)"
+  },
+  {
+   "detail": "Derrick Williams (basketball)  ~ CAREER  + 2025–2026 Suwon KT Sonicboom",
+   "detected_at": "2026-08-17 07:32:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Derrick_Williams_(basketball)"
+  },
+  {
+   "detail": "Derrick Williams (basketball)  ~ CAREER  + 2026–present AEK Athens",
+   "detected_at": "2026-08-17 07:32:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Derrick_Williams_(basketball)"
+  },
+  {
+   "detail": "Daryl Macon  ~ team: Dinamo Sassari -> Fujian Sturgeons",
+   "detected_at": "2026-08-17 07:32:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Daryl_Macon"
+  },
+  {
+   "detail": "Daryl Macon  ~ league: Lega Basket Serie A -> CBA",
+   "detected_at": "2026-08-17 07:32:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Daryl_Macon"
+  },
+  {
+   "detail": "Daryl Macon  ~ number: 5 -> -",
+   "detected_at": "2026-08-17 07:32:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Daryl_Macon"
+  },
+  {
+   "detail": "Daryl Macon  ~ CAREER  + 2026 Dinamo Sassari",
+   "detected_at": "2026-08-17 07:32:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Daryl_Macon"
+  },
+  {
+   "detail": "Daryl Macon  ~ CAREER  + 2026–present Fujian Sturgeons",
+   "detected_at": "2026-08-17 07:32:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Daryl_Macon"
+  },
+  {
+   "detail": "Lindell Wigginton  ~ team: Guangzhou Loong Lions -> Shanxi Loongs",
+   "detected_at": "2026-08-17 07:32:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Lindell_Wigginton"
+  },
+  {
+   "detail": "Lindell Wigginton  ~ CAREER  + 2025–2026 Guangzhou Loong Lions",
+   "detected_at": "2026-08-17 07:32:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Lindell_Wigginton"
+  },
+  {
+   "detail": "Lindell Wigginton  ~ CAREER  + 2026–present Shanxi Loongs",
+   "detected_at": "2026-08-17 07:32:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Lindell_Wigginton"
+  },
+  {
+   "detail": "DeQuan Jones  ~ team: NLEX Road Warriors -> Free agent",
+   "detected_at": "2026-08-17 07:32:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/DeQuan_Jones"
+  },
+  {
+   "detail": "DeQuan Jones  ~ league: PBA -> -",
+   "detected_at": "2026-08-17 07:32:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/DeQuan_Jones"
+  },
+  {
+   "detail": "DeQuan Jones  ~ number: 54 -> -",
+   "detected_at": "2026-08-17 07:32:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/DeQuan_Jones"
+  },
+  {
+   "detail": "DeQuan Jones  ~ CAREER  + 2026 NLEX Road Warriors",
+   "detected_at": "2026-08-17 07:32:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/DeQuan_Jones"
+  },
+  {
+   "detail": "Michele Vitali  ~ team: Pallacanestro Reggiana -> Dinamo Sassari",
+   "detected_at": "2026-08-17 07:32:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Michele_Vitali"
+  },
+  {
+   "detail": "Michele Vitali  ~ CAREER  + 2022–2026 Reggiana",
+   "detected_at": "2026-08-17 07:32:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Michele_Vitali"
+  },
+  {
+   "detail": "Michele Vitali  ~ CAREER  + 2026–present Dinamo Sassari",
+   "detected_at": "2026-08-17 07:32:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Michele_Vitali"
+  },
+  {
+   "detail": "Laurynas Beliauskas  ~ league: LKL BCL -> LKL & BCL",
+   "detected_at": "2026-08-17 07:32:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Laurynas_Beliauskas"
+  },
+  {
+   "detail": "Laurynas Beliauskas  ~ position: Shooting guard / Point guard -> Shooting guard / point guard",
+   "detected_at": "2026-08-17 07:32:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Laurynas_Beliauskas"
+  },
+  {
+   "detail": "Eli Ndiaye  ~ team: Free agent -> Real Madrid",
+   "detected_at": "2026-08-17 07:32:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Eli_Ndiaye"
+  },
+  {
+   "detail": "Eli Ndiaye  ~ league: - -> Liga ACB EuroLeague",
+   "detected_at": "2026-08-17 07:32:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Eli_Ndiaye"
+  },
+  {
+   "detail": "Eli Ndiaye  ~ number: - -> 44",
+   "detected_at": "2026-08-17 07:32:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Eli_Ndiaye"
+  },
+  {
+   "detail": "Eli Ndiaye  ~ CAREER  + 2026-present Real Madrid",
+   "detected_at": "2026-08-17 07:32:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Eli_Ndiaye"
+  },
+  {
+   "detail": "Luca Vitali  ~ team: Free Agent -> Dinamo Sassari",
+   "detected_at": "2026-08-17 07:32:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Luca_Vitali"
+  },
+  {
+   "detail": "Luca Vitali  ~ league: - -> LBA",
+   "detected_at": "2026-08-17 07:32:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Luca_Vitali"
+  },
+  {
+   "detail": "Luca Vitali  ~ position: Guard -> Head coach",
+   "detected_at": "2026-08-17 07:32:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Luca_Vitali"
+  },
+  {
+   "detail": "Luca Vitali  ~ career_end: - -> 2025",
+   "detected_at": "2026-08-17 07:32:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Luca_Vitali"
+  },
+  {
+   "detail": "Luca Vitali  ~ CAREER  + 2015 Gran Canaria",
+   "detected_at": "2026-08-17 07:32:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Luca_Vitali"
+  },
+  {
+   "detail": "Luca Vitali  ~ CAREER  + 2022 Napoli",
+   "detected_at": "2026-08-17 07:32:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Luca_Vitali"
+  },
+  {
+   "detail": "Nobel Boungou Colo  ~ league: LNB Pro B -> LNB Élite",
+   "detected_at": "2026-08-17 07:32:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Nobel_Boungou_Colo"
+  },
+  {
+   "detail": "Nobel Boungou Colo  ~ CAREER  + 2026–present Paris Basketball",
+   "detected_at": "2026-08-17 07:32:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Nobel_Boungou_Colo"
+  },
+  {
+   "detail": "Jeff Brooks  ~ team: Pallacanestro Trieste -> Dinamo Sassari",
+   "detected_at": "2026-08-17 07:32:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jeff_Brooks"
+  },
+  {
+   "detail": "Jeff Brooks  ~ CAREER  + 2024–2026 Trieste",
+   "detected_at": "2026-08-17 07:32:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Jeff_Brooks"
+  },
+  {
+   "detail": "Jeff Brooks  ~ CAREER  + 2026–present Dinamo Sassari",
+   "detected_at": "2026-08-17 07:32:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Jeff_Brooks"
+  },
+  {
+   "detail": "Victor Rudd  ~ team: Al-Arabi -> Free agent",
+   "detected_at": "2026-08-17 07:32:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Victor_Rudd"
+  },
+  {
+   "detail": "Victor Rudd  ~ league: Qatari Basketball League -> -",
+   "detected_at": "2026-08-17 07:32:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Victor_Rudd"
+  },
+  {
+   "detail": "Victor Rudd  ~ number: 1 -> -",
+   "detected_at": "2026-08-17 07:32:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Victor_Rudd"
+  },
+  {
+   "detail": "Victor Rudd  ~ CAREER  + 2024–2025 Al-Arabi",
+   "detected_at": "2026-08-17 07:32:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Victor_Rudd"
+  },
+  {
+   "detail": "Victor Rudd  ~ CAREER  + 2025 Peñarol",
+   "detected_at": "2026-08-17 07:32:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Victor_Rudd"
+  },
+  {
+   "detail": "Victor Rudd  ~ CAREER  + 2025–2026 Sulaibikhat SC",
+   "detected_at": "2026-08-17 07:32:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Victor_Rudd"
+  },
+  {
+   "detail": "Victor Rudd  ~ CAREER  + 2026 Defensor Sporting",
+   "detected_at": "2026-08-17 07:32:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Victor_Rudd"
+  },
+  {
+   "detail": "Boris Savović  ~ team: Free agent -> -",
+   "detected_at": "2026-08-17 07:32:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Boris_Savovi%C4%87"
+  },
+  {
+   "detail": "Boris Savović  ~ career_end: - -> 2026",
+   "detected_at": "2026-08-17 07:32:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Boris_Savovi%C4%87"
+  },
+  {
+   "detail": "Darko Balaban  ~ career_end: - -> 2026",
+   "detected_at": "2026-08-17 07:32:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Darko_Balaban"
+  },
+  {
+   "detail": "Darko Balaban  ~ CAREER  + 2021–2022 Kouchin Amol",
+   "detected_at": "2026-08-17 07:32:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Darko_Balaban"
+  },
+  {
+   "detail": "Darko Balaban  ~ CAREER  + 2022 APR",
+   "detected_at": "2026-08-17 07:32:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Darko_Balaban"
+  },
+  {
+   "detail": "Rashawn Thomas  ~ team: Dinamo Sassari -> Anyang Jung Kwan Jang Red Boosters",
+   "detected_at": "2026-08-17 07:32:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Rashawn_Thomas"
+  },
+  {
+   "detail": "Rashawn Thomas  ~ league: LBA -> KBL",
+   "detected_at": "2026-08-17 07:32:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Rashawn_Thomas"
+  },
+  {
+   "detail": "Rashawn Thomas  ~ number: 25 -> -",
+   "detected_at": "2026-08-17 07:32:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Rashawn_Thomas"
+  },
+  {
+   "detail": "Rashawn Thomas  ~ CAREER  + 2025–2026 Dinamo Sassari",
+   "detected_at": "2026-08-17 07:32:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Rashawn_Thomas"
+  },
+  {
+   "detail": "Rashawn Thomas  ~ CAREER  + 2026–present Anyang Jung Kwan Jang Red Boosters",
+   "detected_at": "2026-08-17 07:32:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Rashawn_Thomas"
+  },
+  {
+   "detail": "Diego Monaldi  ~ team: Free Agent -> Dinamo Sassari",
+   "detected_at": "2026-08-17 07:32:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Diego_Monaldi"
+  },
+  {
+   "detail": "Diego Monaldi  ~ league: - -> LBA",
+   "detected_at": "2026-08-17 07:32:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Diego_Monaldi"
+  },
+  {
+   "detail": "Diego Monaldi  ~ number: - -> 32",
+   "detected_at": "2026-08-17 07:32:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Diego_Monaldi"
+  },
+  {
+   "detail": "Diego Monaldi  ~ CAREER  + 2017–2019 Pesaro Pallacanestro",
+   "detected_at": "2026-08-17 07:32:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Diego_Monaldi"
+  },
+  {
+   "detail": "Diego Monaldi  ~ CAREER  + 2019–2021 Napoli",
+   "detected_at": "2026-08-17 07:32:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Diego_Monaldi"
+  },
+  {
+   "detail": "Diego Monaldi  ~ CAREER  + 2021–2024 Scafati Basket",
+   "detected_at": "2026-08-17 07:32:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Diego_Monaldi"
+  },
+  {
+   "detail": "Diego Monaldi  ~ CAREER  + 2024–2026 Scaligera Verona",
+   "detected_at": "2026-08-17 07:32:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Diego_Monaldi"
+  },
+  {
+   "detail": "Diego Monaldi  ~ CAREER  + 2026–present Dinamo Sassari",
+   "detected_at": "2026-08-17 07:32:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Diego_Monaldi"
+  },
+  {
+   "detail": "Abdul Gaddy  ~ team: Oradea -> -",
+   "detected_at": "2026-08-17 07:32:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Abdul_Gaddy"
+  },
+  {
+   "detail": "Abdul Gaddy  ~ league: LNBM -> -",
+   "detected_at": "2026-08-17 07:32:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Abdul_Gaddy"
+  },
+  {
+   "detail": "Abdul Gaddy  ~ number: 3 -> -",
+   "detected_at": "2026-08-17 07:32:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Abdul_Gaddy"
+  },
+  {
+   "detail": "Abdul Gaddy  ~ career_end: - -> 2024",
+   "detected_at": "2026-08-17 07:32:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Abdul_Gaddy"
+  },
+  {
+   "detail": "Abdul Gaddy  ~ CAREER  + 2024 Oradea",
+   "detected_at": "2026-08-17 07:32:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Abdul_Gaddy"
+  },
+  {
    "detail": "Mexican LNBP Soles 105, Santos de San Luis Potosi 74",
    "detected_at": "2026-08-16 22:16:56",
    "source": "SCORES",
@@ -9873,523 +10391,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Juhann_Begarin"
-  },
-  {
-   "detail": "Juhann Begarin  ~ number: 23 -> -",
-   "detected_at": "2026-08-07 07:56:34",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Juhann_Begarin"
-  },
-  {
-   "detail": "Juhann Begarin  ~ CAREER  + 2024–2026 AS Monaco",
-   "detected_at": "2026-08-07 07:56:34",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Juhann_Begarin"
-  },
-  {
-   "detail": "Miro Bilan  ~ league: LBA -> LBA EuroCup",
-   "detected_at": "2026-08-07 07:56:34",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Miro_Bilan"
-  },
-  {
-   "detail": "Miro Bilan  ~ number: 2 -> -",
-   "detected_at": "2026-08-07 07:56:34",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Miro_Bilan"
-  },
-  {
-   "detail": "Jack Kayil  ~ team: New York Knicks -> Alba Berlin",
-   "detected_at": "2026-08-07 07:56:34",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jack_Kayil"
-  },
-  {
-   "detail": "Jack Kayil  ~ league: NBA -> BBL",
-   "detected_at": "2026-08-07 07:56:34",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jack_Kayil"
-  },
-  {
-   "detail": "Jack Kayil  ~ number: 77 -> -",
-   "detected_at": "2026-08-07 07:56:34",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jack_Kayil"
-  },
-  {
-   "detail": "Jack Kayil  ~ CAREER  + 2026–present Alba Berlin",
-   "detected_at": "2026-08-07 07:56:34",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Jack_Kayil"
-  },
-  {
-   "detail": "Nick Weiler-Babb  ~ team: Free agent -> LDLC ASVEL",
-   "detected_at": "2026-08-07 07:56:34",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Nick_Weiler-Babb"
-  },
-  {
-   "detail": "Nick Weiler-Babb  ~ league: - -> LNB Élite EuroLeague",
-   "detected_at": "2026-08-07 07:56:34",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Nick_Weiler-Babb"
-  },
-  {
-   "detail": "Nick Weiler-Babb  ~ number: - -> 1",
-   "detected_at": "2026-08-07 07:56:34",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Nick_Weiler-Babb"
-  },
-  {
-   "detail": "Nick Weiler-Babb  ~ CAREER  + 2026–present ASVEL",
-   "detected_at": "2026-08-07 07:56:34",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Nick_Weiler-Babb"
-  },
-  {
-   "detail": "Will Clyburn  ~ number: - -> 12",
-   "detected_at": "2026-08-07 07:56:34",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Will_Clyburn"
-  },
-  {
-   "detail": "Keenan Evans  ~ CAREER  + 2026–present →London Lions",
-   "detected_at": "2026-08-07 07:56:34",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Keenan_Evans"
-  },
-  {
-   "detail": "Miikka Muurinen  ~ team: Arkansas Razorbacks -> Free agent",
-   "detected_at": "2026-08-07 07:56:34",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Miikka_Muurinen"
-  },
-  {
-   "detail": "Miikka Muurinen  ~ league: Southeastern Conference -> -",
-   "detected_at": "2026-08-07 07:56:34",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Miikka_Muurinen"
-  },
-  {
-   "detail": "Miikka Muurinen  ~ number: 3 -> -",
-   "detected_at": "2026-08-07 07:56:34",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Miikka_Muurinen"
-  },
-  {
-   "detail": "Vassilis Charalampopoulos (basketball)  ~ league: Greek Basketball League -> Greek Basketball League EuroCup",
-   "detected_at": "2026-08-07 07:56:34",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Vassilis_Charalampopoulos_(basketball)"
-  },
-  {
-   "detail": "Vassilis Charalampopoulos (basketball)  ~ CAREER  + 2017–2018 →PAOK Thessaloniki",
-   "detected_at": "2026-08-07 07:56:34",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Vassilis_Charalampopoulos_(basketball)"
-  },
-  {
-   "detail": "2026-08-06  LA Clippers waived guard Sean Pedulla.",
-   "detected_at": "2026-08-07 07:50:50",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
-  },
-  {
-   "detail": "Jared Cunningham  ~ team: - -> Free agent",
-   "detected_at": "2026-08-07 00:32:58",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jared_Cunningham"
-  },
-  {
-   "detail": "JaVale McGee  ~ team: - -> Free agent",
-   "detected_at": "2026-08-07 00:32:58",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/JaVale_McGee"
-  },
-  {
-   "detail": "JaVale McGee  ~ number: 0 -> -",
-   "detected_at": "2026-08-07 00:32:58",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/JaVale_McGee"
-  },
-  {
-   "detail": "Terrance Ferguson  ~ team: - -> Free agent",
-   "detected_at": "2026-08-07 00:32:58",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Terrance_Ferguson"
-  },
-  {
-   "detail": "Terrance Ferguson  ~ CAREER  + 2023–2024 Cape Town Tigers",
-   "detected_at": "2026-08-07 00:32:58",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Terrance_Ferguson"
-  },
-  {
-   "detail": "Terrance Ferguson  ~ CAREER  + 2024 Bashkimi",
-   "detected_at": "2026-08-07 00:32:58",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Terrance_Ferguson"
-  },
-  {
-   "detail": "Terrance Ferguson  ~ CAREER  + 2025 Venados de Mazatlán",
-   "detected_at": "2026-08-07 00:32:58",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Terrance_Ferguson"
-  },
-  {
-   "detail": "Terrance Ferguson  ~ CAREER  + 2025 Santos del Potosí",
-   "detected_at": "2026-08-07 00:32:58",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Terrance_Ferguson"
-  },
-  {
-   "detail": "Terrance Ferguson  ~ CAREER  + 2026 Club Atlético Welcome",
-   "detected_at": "2026-08-07 00:32:58",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Terrance_Ferguson"
-  },
-  {
-   "detail": "WNBA ★ 1. A'ja Wilson 22.6 — 26p 13r 3a 37.5m (Las Vegas Aces)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP1",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-06/Las-Vegas-at-Indiana/158564"
-  },
-  {
-   "detail": "WNBA 2. Jackie Young 18.7 — 22p 4r 9a 35.0m (Las Vegas Aces)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP2",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-06/Las-Vegas-at-Indiana/158564"
-  },
-  {
-   "detail": "WNBA 3. Kelsey Mitchell 17.3 — 28p 0r 4a 39.1m (Indiana Fever, lost)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP3",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-06/Las-Vegas-at-Indiana/158564"
-  },
-  {
-   "detail": "WNBA 4. Aliyah Boston 15.2 — 21p 12r 2a 37.6m (Indiana Fever, lost)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP4",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-06/Las-Vegas-at-Indiana/158564"
-  },
-  {
-   "detail": "WNBA 5. NaLyssa Smith 13.5 — 14p 9r 1a 37.3m (Las Vegas Aces)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP5",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-06/Las-Vegas-at-Indiana/158564"
-  },
-  {
-   "detail": "WNBA ★ 1. Dearica Hamby 24.4 — 16p 9r 2a 24.7m (Los Angeles Sparks)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP1",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-06/LA-Sparks-at-Minnesota/158565"
-  },
-  {
-   "detail": "WNBA 2. Cameron Brink 22.3 — 12p 8r 5a 25.1m (Los Angeles Sparks)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP2",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-06/LA-Sparks-at-Minnesota/158565"
-  },
-  {
-   "detail": "WNBA 3. Rae Burrell 19.7 — 17p 2r 2a 27.6m (Los Angeles Sparks)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP3",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-06/LA-Sparks-at-Minnesota/158565"
-  },
-  {
-   "detail": "WNBA 4. Erica Wheeler 18.6 — 12p 4r 9a 29.6m (Los Angeles Sparks)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP4",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-06/LA-Sparks-at-Minnesota/158565"
-  },
-  {
-   "detail": "WNBA 5. Olivia Miles 17.6 — 23p 8r 5a 33.7m (Minnesota Lynx, lost)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP5",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-06/LA-Sparks-at-Minnesota/158565"
-  },
-  {
-   "detail": "WNBA ★ 1. Carla Leite 34.5 — 27p 4r 11a 29.8m (Portland Fire)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP1",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-06/Toronto-at-Portland/158681"
-  },
-  {
-   "detail": "WNBA 2. Megan DiLeo 18.4 — 17p 3r 2a 27.7m (Portland Fire)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP2",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-06/Toronto-at-Portland/158681"
-  },
-  {
-   "detail": "WNBA 3. Julie Allemand 16.2 — 11p 5r 12a 31.8m (Toronto Tempo, lost)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP3",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-06/Toronto-at-Portland/158681"
-  },
-  {
-   "detail": "WNBA 4. Bridget Carleton 14.4 — 10p 11r 0a 29.6m (Portland Fire)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP4",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-06/Toronto-at-Portland/158681"
-  },
-  {
-   "detail": "WNBA 5. Nyara Sabally 14.2 — 17p 5r 1a 23.9m (Toronto Tempo, lost)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP5",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-06/Toronto-at-Portland/158681"
-  },
-  {
-   "detail": "Mexican LNBP ★ 1. Pako Cruz 25.7 — 14p 4r 9a 28.4m (Astros de Jalisco)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP1",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-06/Astros-de-Jalisco-at-Abejas/526071"
-  },
-  {
-   "detail": "Mexican LNBP 2. Jose Ascanio 23.8 — 16p 7r 1a 24.6m (Astros de Jalisco)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP2",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-06/Astros-de-Jalisco-at-Abejas/526071"
-  },
-  {
-   "detail": "Mexican LNBP 3. Moises Andriassi 18.7 — 13p 2r 6a 24.3m (Astros de Jalisco)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP3",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-06/Astros-de-Jalisco-at-Abejas/526071"
-  },
-  {
-   "detail": "Mexican LNBP 4. Gage Davis 18.7 — 13p 9r 2a 28.7m (Astros de Jalisco)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP4",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-06/Astros-de-Jalisco-at-Abejas/526071"
-  },
-  {
-   "detail": "Mexican LNBP 5. Pedro Bombino Parada 16.5 — 11p 10r 3a 19.0m (Astros de Jalisco)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP5",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-06/Astros-de-Jalisco-at-Abejas/526071"
-  },
-  {
-   "detail": "Mexican LNBP ★ 1. Daivien Williamson 35.8 — 25p 2r 3a 21.4m (Panteras de Aguascalientes)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP1",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-06/Panteras-de-Aguascalientes-at-Gambusinos/526072"
-  },
-  {
-   "detail": "Mexican LNBP 2. Jonatan Machado 21.1 — 12p 5r 4a 25.1m (Panteras de Aguascalientes)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP2",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-06/Panteras-de-Aguascalientes-at-Gambusinos/526072"
-  },
-  {
-   "detail": "Mexican LNBP 3. Tyler Cheese 16.6 — 10p 3r 6a 18.9m (Panteras de Aguascalientes)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP3",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-06/Panteras-de-Aguascalientes-at-Gambusinos/526072"
-  },
-  {
-   "detail": "Mexican LNBP 4. Jorge de la Serna 16.4 — 7p 6r 0a 18.6m (Panteras de Aguascalientes)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP4",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-06/Panteras-de-Aguascalientes-at-Gambusinos/526072"
-  },
-  {
-   "detail": "Mexican LNBP 5. Augusto Lima 13.4 — 4p 7r 2a 19.8m (Panteras de Aguascalientes)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP5",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-06/Panteras-de-Aguascalientes-at-Gambusinos/526072"
-  },
-  {
-   "detail": "Mexican LNBP ★ 1. Connor Zinaich 22.9 — 19p 5r 0a 23.7m (Soles)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP1",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-06/Soles-at-Lobos-Plateados/526073"
-  },
-  {
-   "detail": "Mexican LNBP 2. Jordan Sakho 22.7 — 10p 7r 4a 29.9m (Soles)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP2",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-06/Soles-at-Lobos-Plateados/526073"
-  },
-  {
-   "detail": "Mexican LNBP 3. Elias King 18.7 — 23p 2r 2a 33.4m (Lobos Plateados, lost)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP3",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-06/Soles-at-Lobos-Plateados/526073"
-  },
-  {
-   "detail": "Mexican LNBP 4. Philip Scrubb 11.9 — 12p 4r 3a 28.6m (Soles)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP4",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-06/Soles-at-Lobos-Plateados/526073"
-  },
-  {
-   "detail": "Mexican LNBP 5. Kaleb Hunter 10.9 — 11p 0r 1a 12.8m (Soles)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP5",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-06/Soles-at-Lobos-Plateados/526073"
-  },
-  {
-   "detail": "Mexican LNBP ★ 1. Makhel Mitchell 28.5 — 12p 14r 4a 29.2m (Santos de San Luis Potosi)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP1",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-06/El-Calor-de-Cancun-at-Santos-de-San-Luis-Potosi/526074"
-  },
-  {
-   "detail": "Mexican LNBP 2. Jared Wilson-Frame 21.3 — 26p 3r 1a 37.5m (Santos de San Luis Potosi)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP2",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-06/El-Calor-de-Cancun-at-Santos-de-San-Luis-Potosi/526074"
-  },
-  {
-   "detail": "Mexican LNBP 3. Jacob Calloway 20.1 — 10p 7r 6a 37.5m (Santos de San Luis Potosi)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP3",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-06/El-Calor-de-Cancun-at-Santos-de-San-Luis-Potosi/526074"
-  },
-  {
-   "detail": "Mexican LNBP 4. D.J. Mitchell 13.2 — 14p 4r 3a 26.4m (El Calor de Cancun, lost)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP4",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-06/El-Calor-de-Cancun-at-Santos-de-San-Luis-Potosi/526074"
-  },
-  {
-   "detail": "Mexican LNBP 5. Chris Jones 10.6 — 13p 3r 6a 34.3m (Santos de San Luis Potosi)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP5",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-06/El-Calor-de-Cancun-at-Santos-de-San-Luis-Potosi/526074"
-  },
-  {
-   "detail": "Mexican LNBP ★ 1. Kayo Goncalves 36.5 — 26p 6r 3a 22.1m (Mineros de Zacatecas)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP1",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-06/Correcaminos-at-Mineros-de-Zacatecas/526075"
-  },
-  {
-   "detail": "Mexican LNBP 2. Romeao Ferguson 26.9 — 15p 6r 10a 26.2m (Mineros de Zacatecas)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP2",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-06/Correcaminos-at-Mineros-de-Zacatecas/526075"
-  },
-  {
-   "detail": "Mexican LNBP 3. Wesley Saunders 21.9 — 11p 4r 3a 25.3m (Mineros de Zacatecas)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP3",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-06/Correcaminos-at-Mineros-de-Zacatecas/526075"
-  },
-  {
-   "detail": "Mexican LNBP 4. Anyelo Cisneros Sierra 18.4 — 12p 4r 1a 14.7m (Mineros de Zacatecas)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP4",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-06/Correcaminos-at-Mineros-de-Zacatecas/526075"
-  },
-  {
-   "detail": "Mexican LNBP 5. Lucas Robinson 17.1 — 8p 5r 3a 18.4m (Mineros de Zacatecas)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP5",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-06/Correcaminos-at-Mineros-de-Zacatecas/526075"
-  },
-  {
-   "detail": "Mexican LNBP ★ 1. Franger Pirela 20.3 — 26p 3r 5a 35.3m (Freseros Irapuato)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP1",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-06/Freseros-Irapuato-at-Diablos-Rojos/526076"
-  },
-  {
-   "detail": "Mexican LNBP 2. Zachary Brown 19.7 — 17p 9r 1a 34.2m (Freseros Irapuato)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP2",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-06/Freseros-Irapuato-at-Diablos-Rojos/526076"
-  },
-  {
-   "detail": "Mexican LNBP 3. Billy Garrett 13.9 — 14p 2r 2a 27.4m (Freseros Irapuato)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP3",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-06/Freseros-Irapuato-at-Diablos-Rojos/526076"
-  },
-  {
-   "detail": "Mexican LNBP 4. Trey Drechsel 13.0 — 16p 7r 2a 28.6m (Diablos Rojos, lost)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP4",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-06/Freseros-Irapuato-at-Diablos-Rojos/526076"
-  },
-  {
-   "detail": "Mexican LNBP 5. Santiago Scala 11.1 — 23p 3r 2a 31.0m (Diablos Rojos, lost)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP5",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-06/Freseros-Irapuato-at-Diablos-Rojos/526076"
   }
  ],
  "feeds": {
@@ -10410,8 +10411,8 @@
    "last": "2026-08-16 21:13:08"
   },
   "SCORES": {
-   "count": 310,
-   "last": "2026-08-16 22:16:56"
+   "count": 313,
+   "last": "2026-08-17 07:32:59"
   },
   "SHEETS": {
    "count": 3388,
@@ -10422,10 +10423,10 @@
    "last": "2026-08-13 17:46:56"
   },
   "WIKI": {
-   "count": 782,
-   "last": "2026-08-16 21:53:48"
+   "count": 853,
+   "last": "2026-08-17 07:32:47"
   }
  },
- "generated_at": "2026-08-16T22:16:58",
- "total": 8394
+ "generated_at": "2026-08-17T07:32:59",
+ "total": 8468
 }
