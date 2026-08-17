@@ -1,6 +1,125 @@
 {
  "events": [
   {
+   "detail": "WNBA Indiana Fever 95, Atlanta Dream 91",
+   "detected_at": "2026-08-16 19:04:18",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-16/Indiana-at-Atlanta/158592"
+  },
+  {
+   "detail": "WNBA + Te-Hina Paopao → Atlanta Dream",
+   "detected_at": "2026-08-16 19:04:17",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "WNBA Chicago Sky 82, Seattle Storm 80",
+   "detected_at": "2026-08-16 19:04:15",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-16/Chicago-at-Seattle/158590"
+  },
+  {
+   "detail": "Mexican LNBP Gambusinos 83, Diablos Rojos 80",
+   "detected_at": "2026-08-16 19:04:12",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-15/Diablos-Rojos-at-Gambusinos/526153"
+  },
+  {
+   "detail": "Mexican LNBP + Luciano Gonzalez → Gambusinos",
+   "detected_at": "2026-08-16 19:04:10",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Mexican LNBP El Calor de Cancun 90, Correcaminos 83",
+   "detected_at": "2026-08-16 19:04:08",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-15/El-Calor-de-Cancun-at-Correcaminos/526151"
+  },
+  {
+   "detail": "Mexican LNBP + Paul Stoll → El Calor de Cancun",
+   "detected_at": "2026-08-16 19:04:06",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Mexican LNBP + Djery Baptiste → Correcaminos",
+   "detected_at": "2026-08-16 19:04:06",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Mexican LNBP + Jamir Simpson → Correcaminos",
+   "detected_at": "2026-08-16 19:04:06",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Mexican LNBP Mineros de Zacatecas 94, Astros de Jalisco 88",
+   "detected_at": "2026-08-16 19:04:04",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-15/Astros-de-Jalisco-at-Mineros-de-Zacatecas/526150"
+  },
+  {
+   "detail": "Mexican LNBP Soles 84, Santos de San Luis Potosi 75",
+   "detected_at": "2026-08-16 19:03:59",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-15/Soles-at-Santos-de-San-Luis-Potosi/526149"
+  },
+  {
+   "detail": "Mexican LNBP + Eric Griffin → Santos de San Luis Potosi",
+   "detected_at": "2026-08-16 19:03:57",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Mexican LNBP + Astudillo Diego → Santos de San Luis Potosi",
+   "detected_at": "2026-08-16 19:03:57",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Mexican LNBP Fuerza Regia 105, Freseros Irapuato 94",
+   "detected_at": "2026-08-16 19:03:55",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-15/Freseros-Irapuato-at-Fuerza-Regia/526147"
+  },
+  {
+   "detail": "Mexican LNBP + Kevin Acosta → Fuerza Regia",
+   "detected_at": "2026-08-16 19:03:53",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Mexican LNBP Lobos Plateados 104, Dorados de Chihuahua 77",
+   "detected_at": "2026-08-16 19:03:50",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-16/Dorados-de-Chihuahua-at-Lobos-Plateados/526155"
+  },
+  {
+   "detail": "Mexican LNBP Fuerza Regia 101, Freseros Irapuato 100",
+   "detected_at": "2026-08-16 19:03:45",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-16/Freseros-Irapuato-at-Fuerza-Regia/526154"
+  },
+  {
    "detail": "POR  - REMOVED Murray, Kris",
    "detected_at": "2026-08-16 18:40:58",
    "source": "SHEETS",
@@ -10271,125 +10390,6 @@
    "source": "RATINGS",
    "type": "TOP3",
    "url": "https://basketball.realgm.com/international/boxscore/2026-08-06/Saskatoon-Mamba-at-Winnipeg-Sea-Bears/528063"
-  },
-  {
-   "detail": "Canadian Elite Basketball League 4. Trey McGowens 19.1 — 14p 4r 2a 15.5m (Winnipeg Sea Bears)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP4",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-06/Saskatoon-Mamba-at-Winnipeg-Sea-Bears/528063"
-  },
-  {
-   "detail": "Canadian Elite Basketball League 5. Jamir Chaplin 17.9 — 22p 3r 1a 29.8m (Saskatoon Mamba, lost)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP5",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-06/Saskatoon-Mamba-at-Winnipeg-Sea-Bears/528063"
-  },
-  {
-   "detail": "Canadian Elite Basketball League ★ 1. Shamar Givance 28.4 — 20p 4r 7a 33.8m (Vancouver Bandits)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP1",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-06/Edmonton-Stingers-at-Vancouver-Bandits/528064"
-  },
-  {
-   "detail": "Canadian Elite Basketball League 2. Tevin Brown 23.7 — 19p 4r 3a 33.4m (Vancouver Bandits)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP2",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-06/Edmonton-Stingers-at-Vancouver-Bandits/528064"
-  },
-  {
-   "detail": "Canadian Elite Basketball League 3. Mychal Mulder 21.9 — 15p 3r 2a 23.5m (Vancouver Bandits)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP3",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-06/Edmonton-Stingers-at-Vancouver-Bandits/528064"
-  },
-  {
-   "detail": "Canadian Elite Basketball League 4. Mitchell Creek 14.1 — 16p 10r 3a 29.9m (Vancouver Bandits)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP4",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-06/Edmonton-Stingers-at-Vancouver-Bandits/528064"
-  },
-  {
-   "detail": "Canadian Elite Basketball League 5. Nick Hornsby 13.8 — 22p 7r 5a 33.2m (Edmonton Stingers, lost)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP5",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-06/Edmonton-Stingers-at-Vancouver-Bandits/528064"
-  },
-  {
-   "detail": "National Teams ★ 1. Ilija Radovic 34.6 — 23p 5r 1a 19.9m (Montenegro)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP1",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-06/Portugal-at-Montenegro/526319"
-  },
-  {
-   "detail": "National Teams 2. Martin Kastratovic 15.0 — 10p 5r 5a 18.8m (Montenegro)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP2",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-06/Portugal-at-Montenegro/526319"
-  },
-  {
-   "detail": "National Teams 3. Nikola Zec 15.0 — 11p 1r 2a 17.4m (Montenegro)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP3",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-06/Portugal-at-Montenegro/526319"
-  },
-  {
-   "detail": "National Teams 4. Andrija Mrkaic 14.0 — 8p 6r 0a 17.8m (Montenegro)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP4",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-06/Portugal-at-Montenegro/526319"
-  },
-  {
-   "detail": "National Teams 5. Damjan Spaic 12.1 — 13p 2r 0a 18.4m (Montenegro)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP5",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-06/Portugal-at-Montenegro/526319"
-  },
-  {
-   "detail": "National Teams ★ 1. Sime Vlaic 26.4 — 17p 1r 6a 15.7m (Croatia)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP1",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-06/Croatia-at-Switzerland/526328"
-  },
-  {
-   "detail": "National Teams 2. Niksa Zlopasa 25.0 — 15p 5r 3a 18.7m (Croatia)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP2",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-06/Croatia-at-Switzerland/526328"
-  },
-  {
-   "detail": "National Teams 3. Luka Leni Ukic 22.8 — 21p 5r 7a 25.2m (Croatia)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP3",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-06/Croatia-at-Switzerland/526328"
-  },
-  {
-   "detail": "National Teams 4. Fran Strahija 18.2 — 15p 8r 2a 16.2m (Croatia)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP4",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-06/Croatia-at-Switzerland/526328"
-  },
-  {
-   "detail": "National Teams 5. Sven Stosic 13.3 — 10p 2r 2a 17.6m (Croatia)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP5",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-06/Croatia-at-Switzerland/526328"
   }
  ],
  "feeds": {
@@ -10406,12 +10406,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 50,
-   "last": "2026-08-15 21:07:09"
+   "count": 58,
+   "last": "2026-08-16 19:04:17"
   },
   "SCORES": {
-   "count": 293,
-   "last": "2026-08-16 09:39:42"
+   "count": 302,
+   "last": "2026-08-16 19:04:18"
   },
   "SHEETS": {
    "count": 3388,
@@ -10426,6 +10426,6 @@
    "last": "2026-08-16 16:38:49"
   }
  },
- "generated_at": "2026-08-16T18:41:01",
- "total": 8359
+ "generated_at": "2026-08-16T19:04:19",
+ "total": 8376
 }
