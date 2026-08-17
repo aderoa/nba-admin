@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Johannes Thiemann  ~ number: - -> 32",
+   "detected_at": "2026-08-17 15:21:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Johannes_Thiemann"
+  },
+  {
    "detail": "2026-08-17  New Orleans Pelicans signed guard Trendon Watford to a Contract.",
    "detected_at": "2026-08-17 14:50:55",
    "source": "TRANSACTIONS",
@@ -10373,13 +10380,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Jabari_Parker"
-  },
-  {
-   "detail": "Jabari Parker  ~ number: 22 -> -",
-   "detected_at": "2026-08-07 07:56:34",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jabari_Parker"
   }
  ],
  "feeds": {
@@ -10412,10 +10412,10 @@
    "last": "2026-08-17 14:50:55"
   },
   "WIKI": {
-   "count": 884,
-   "last": "2026-08-17 14:12:46"
+   "count": 885,
+   "last": "2026-08-17 15:21:46"
   }
  },
- "generated_at": "2026-08-17T14:58:47",
- "total": 8510
+ "generated_at": "2026-08-17T15:21:47",
+ "total": 8511
 }
