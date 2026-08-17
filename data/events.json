@@ -1,6 +1,69 @@
 {
  "events": [
   {
+   "detail": "James Nunnally  ~ team: AEK Athens -> -",
+   "detected_at": "2026-08-17 09:55:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/James_Nunnally"
+  },
+  {
+   "detail": "James Nunnally  ~ league: GBL -> -",
+   "detected_at": "2026-08-17 09:55:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/James_Nunnally"
+  },
+  {
+   "detail": "James Nunnally  ~ number: 21 -> -",
+   "detected_at": "2026-08-17 09:55:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/James_Nunnally"
+  },
+  {
+   "detail": "James Nunnally  ~ CAREER  + 2026 AEK Athens",
+   "detected_at": "2026-08-17 09:55:46",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/James_Nunnally"
+  },
+  {
+   "detail": "Mindaugas Kuzminskas  ~ team: AEK Athens -> -",
+   "detected_at": "2026-08-17 09:55:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Mindaugas_Kuzminskas"
+  },
+  {
+   "detail": "Mindaugas Kuzminskas  ~ league: Greek Basketball League -> -",
+   "detected_at": "2026-08-17 09:55:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Mindaugas_Kuzminskas"
+  },
+  {
+   "detail": "Mindaugas Kuzminskas  ~ number: 19 -> -",
+   "detected_at": "2026-08-17 09:55:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Mindaugas_Kuzminskas"
+  },
+  {
+   "detail": "Mindaugas Kuzminskas  ~ CAREER  + 2023–2026 AEK Athens",
+   "detected_at": "2026-08-17 09:55:46",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Mindaugas_Kuzminskas"
+  },
+  {
+   "detail": "Keenan Evans  ~ number: - -> 12",
+   "detected_at": "2026-08-17 09:55:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Keenan_Evans"
+  },
+  {
    "detail": "+ ADDED   Malachi Smith (TOR)",
    "detected_at": "2026-08-17 09:33:54",
    "source": "PLAYERS",
@@ -10327,69 +10390,6 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Adam_Mokoka"
-  },
-  {
-   "detail": "Adam Mokoka  ~ CAREER  + 2023 Reyer Venezia",
-   "detected_at": "2026-08-07 07:56:34",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Adam_Mokoka"
-  },
-  {
-   "detail": "Adam Mokoka  ~ CAREER  + 2025–2026 JL Bourg",
-   "detected_at": "2026-08-07 07:56:34",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Adam_Mokoka"
-  },
-  {
-   "detail": "Adam Mokoka  ~ CAREER  + 2026–present Aris Thessaloniki",
-   "detected_at": "2026-08-07 07:56:34",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Adam_Mokoka"
-  },
-  {
-   "detail": "Davon Reed  ~ team: - -> Free agent",
-   "detected_at": "2026-08-07 07:56:34",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Davon_Reed"
-  },
-  {
-   "detail": "Jacob Evans  ~ team: - -> Free agent",
-   "detected_at": "2026-08-07 07:56:34",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jacob_Evans"
-  },
-  {
-   "detail": "Vincent Edwards (basketball)  ~ team: - -> Free agent",
-   "detected_at": "2026-08-07 07:56:34",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Vincent_Edwards_(basketball)"
-  },
-  {
-   "detail": "Xavier Moon  ~ number: 17 -> -",
-   "detected_at": "2026-08-07 07:56:34",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Xavier_Moon"
-  },
-  {
-   "detail": "Josh Selby  ~ team: Free agent -> -",
-   "detected_at": "2026-08-07 07:56:34",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Josh_Selby"
-  },
-  {
-   "detail": "Josh Selby  ~ career_end: - -> 2022",
-   "detected_at": "2026-08-07 07:56:34",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Josh_Selby"
   }
  ],
  "feeds": {
@@ -10422,10 +10422,10 @@
    "last": "2026-08-13 17:46:56"
   },
   "WIKI": {
-   "count": 865,
-   "last": "2026-08-17 09:09:46"
+   "count": 874,
+   "last": "2026-08-17 09:55:46"
   }
  },
- "generated_at": "2026-08-17T09:34:01",
- "total": 8481
+ "generated_at": "2026-08-17T09:55:47",
+ "total": 8490
 }
