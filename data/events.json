@@ -1,6 +1,34 @@
 {
  "events": [
   {
+   "detail": "Puerto Rican BSN Santeros de Aguada 67, Vaqueros de Bayamon 64",
+   "detected_at": "2026-08-16 21:13:15",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-16/Santeros-de-Aguada-at-Vaqueros-de-Bayamon/528494"
+  },
+  {
+   "detail": "Mexican LNBP Diablos Rojos 71, Gambusinos 66",
+   "detected_at": "2026-08-16 21:13:10",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-16/Diablos-Rojos-at-Gambusinos/526157"
+  },
+  {
+   "detail": "Mexican LNBP ~ MOVED Jezreel De Jesus → Gambusinos (from Leones de Ponce)",
+   "detected_at": "2026-08-16 21:13:08",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Mexican LNBP Panteras de Aguascalientes 102, Abejas 87",
+   "detected_at": "2026-08-16 21:13:05",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-16/Panteras-de-Aguascalientes-at-Abejas/526156"
+  },
+  {
    "detail": "WNBA Portland Fire 88, Phoenix Mercury 85",
    "detected_at": "2026-08-16 20:12:49",
    "source": "SCORES",
@@ -10362,34 +10390,6 @@
    "source": "RATINGS",
    "type": "TOP3",
    "url": "https://basketball.realgm.com/international/boxscore/2026-08-06/Ottawa-Blackjacks-at-Brampton-Honey-Badgers/528061"
-  },
-  {
-   "detail": "Canadian Elite Basketball League 4. Keon Ambrose-Hylton 18.6 — 11p 7r 1a 31.6m (Brampton Honey Badgers)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP4",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-06/Ottawa-Blackjacks-at-Brampton-Honey-Badgers/528061"
-  },
-  {
-   "detail": "Canadian Elite Basketball League 5. Justin Ndjock-Tadjore 15.3 — 17p 8r 1a 22.8m (Ottawa Blackjacks, lost)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP5",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-06/Ottawa-Blackjacks-at-Brampton-Honey-Badgers/528061"
-  },
-  {
-   "detail": "Canadian Elite Basketball League ★ 1. Anthony Walker III 19.9 — 24p 5r 1a 29.1m (Scarborough Shooting Stars, lost)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP1",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-06/Niagara-River-Lions-at-Scarborough-Shooting-Stars/528062"
-  },
-  {
-   "detail": "Canadian Elite Basketball League 2. Khalil Ahmad 16.3 — 17p 5r 1a 32.8m (Niagara River Lions)",
-   "detected_at": "2026-08-06 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP2",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-06/Niagara-River-Lions-at-Scarborough-Shooting-Stars/528062"
   }
  ],
  "feeds": {
@@ -10406,12 +10406,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 59,
-   "last": "2026-08-16 20:12:44"
+   "count": 60,
+   "last": "2026-08-16 21:13:08"
   },
   "SCORES": {
-   "count": 304,
-   "last": "2026-08-16 20:12:49"
+   "count": 307,
+   "last": "2026-08-16 21:13:15"
   },
   "SHEETS": {
    "count": 3388,
@@ -10426,6 +10426,6 @@
    "last": "2026-08-16 19:26:48"
   }
  },
- "generated_at": "2026-08-16T20:12:50",
- "total": 8382
+ "generated_at": "2026-08-16T21:13:18",
+ "total": 8386
 }
