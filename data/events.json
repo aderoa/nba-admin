@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Sean Pedulla  ~ CAREER  + 2026–present →Rio Grande Valley Vipers",
+   "detected_at": "2026-08-17 18:48:48",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Sean_Pedulla"
+  },
+  {
+   "detail": "Haywood Highsmith  ~ number: - -> 19",
+   "detected_at": "2026-08-17 18:48:48",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Haywood_Highsmith"
+  },
+  {
    "detail": "+ ADDED   Sean Pedulla (HOU)",
    "detected_at": "2026-08-17 15:45:54",
    "source": "PLAYERS",
@@ -10364,20 +10378,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Milton_Doyle"
-  },
-  {
-   "detail": "Colby Jones  ~ team: Bàsquet Manresa -> Free agent",
-   "detected_at": "2026-08-07 08:19:54",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Colby_Jones"
-  },
-  {
-   "detail": "Colby Jones  ~ league: Liga ACB EuroCup -> -",
-   "detected_at": "2026-08-07 08:19:54",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Colby_Jones"
   }
  ],
  "feeds": {
@@ -10410,10 +10410,10 @@
    "last": "2026-08-17 14:50:55"
   },
   "WIKI": {
-   "count": 887,
-   "last": "2026-08-17 15:44:45"
+   "count": 889,
+   "last": "2026-08-17 18:48:48"
   }
  },
- "generated_at": "2026-08-17T15:46:08",
- "total": 8515
+ "generated_at": "2026-08-17T18:48:49",
+ "total": 8517
 }
