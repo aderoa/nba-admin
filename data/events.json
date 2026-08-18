@@ -1,6 +1,34 @@
 {
  "events": [
   {
+   "detail": "Thomas Walkup  ~ team: Olympiacos -> Free Agent",
+   "detected_at": "2026-08-18 15:02:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Thomas_Walkup"
+  },
+  {
+   "detail": "Thomas Walkup  ~ league: GBL EuroLeague -> -",
+   "detected_at": "2026-08-18 15:02:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Thomas_Walkup"
+  },
+  {
+   "detail": "Thomas Walkup  ~ number: 0 -> -",
+   "detected_at": "2026-08-18 15:02:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Thomas_Walkup"
+  },
+  {
+   "detail": "Thomas Walkup  ~ CAREER  + 2021–2026 Olympiacos",
+   "detected_at": "2026-08-18 15:02:46",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Thomas_Walkup"
+  },
+  {
    "detail": "- REMOVED Hunter Dickinson (NOP)",
    "detected_at": "2026-08-18 14:39:54",
    "source": "PLAYERS",
@@ -10240,34 +10268,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Siim-Sander_Vene"
-  },
-  {
-   "detail": "Siim-Sander Vene  ~ CAREER  + 2025–2026 Šiauliai",
-   "detected_at": "2026-08-08 07:44:57",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Siim-Sander_Vene"
-  },
-  {
-   "detail": "Karolis Lukošiūnas  ~ CAREER  + 2026– Šiauliai",
-   "detected_at": "2026-08-08 07:44:57",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Karolis_Luko%C5%A1i%C5%ABnas"
-  },
-  {
-   "detail": "Jabari Parker  ~ team: Free agent -> Partizan Belgrade",
-   "detected_at": "2026-08-08 07:21:48",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jabari_Parker"
-  },
-  {
-   "detail": "Jabari Parker  ~ league: - -> KLS ABA League EuroLeague",
-   "detected_at": "2026-08-08 07:21:48",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jabari_Parker"
   }
  ],
  "feeds": {
@@ -10300,10 +10300,10 @@
    "last": "2026-08-18 14:16:55"
   },
   "WIKI": {
-   "count": 961,
-   "last": "2026-08-18 14:16:44"
+   "count": 965,
+   "last": "2026-08-18 15:02:46"
   }
  },
- "generated_at": "2026-08-18T14:40:00",
- "total": 8712
+ "generated_at": "2026-08-18T15:02:47",
+ "total": 8716
 }
