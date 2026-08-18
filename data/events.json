@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "D. J. Funderburk  ~ team: Mykonos BC -> Mykonos",
+   "detected_at": "2026-08-17 23:31:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/D._J._Funderburk"
+  },
+  {
+   "detail": "D. J. Funderburk  ~ CAREER  + 2026–present Mykonos",
+   "detected_at": "2026-08-17 23:31:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/D._J._Funderburk"
+  },
+  {
    "detail": "Tyrus McGee  ~ team: Free Agent -> Taipei Taishin Mars",
    "detected_at": "2026-08-17 22:45:46",
    "source": "WIKI",
@@ -10368,20 +10382,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/M%C3%A3ozinha_Pereira"
-  },
-  {
-   "detail": "Terry Tarpey  ~ number: - -> 25",
-   "detected_at": "2026-08-07 15:32:58",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Terry_Tarpey"
-  },
-  {
-   "detail": "Vsevolod Ishchenko  ~ team: Dallas Mavericks -> PBC Lokomotiv Kuban",
-   "detected_at": "2026-08-07 13:39:58",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Vsevolod_Ishchenko"
   }
  ],
  "feeds": {
@@ -10414,10 +10414,10 @@
    "last": "2026-08-17 14:50:55"
   },
   "WIKI": {
-   "count": 907,
-   "last": "2026-08-17 22:45:46"
+   "count": 909,
+   "last": "2026-08-17 23:31:47"
   }
  },
- "generated_at": "2026-08-17T22:45:47",
- "total": 8535
+ "generated_at": "2026-08-17T23:31:48",
+ "total": 8537
 }
