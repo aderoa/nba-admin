@@ -1,6 +1,18 @@
 {
  "events": [
   {
+   "detail": "2026-08-18  New Orleans Pelicans signed  Malik Dia to a Two-Way Contract.",
+   "detected_at": "2026-08-18 12:44:55",
+   "source": "TRANSACTIONS",
+   "type": "Signing"
+  },
+  {
+   "detail": "+ ADDED   Malik Dia (NOP)",
+   "detected_at": "2026-08-18 12:44:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
    "detail": "U18 Asia Cup A India 82, Kazakhstan 61",
    "detected_at": "2026-08-18 12:36:06",
    "source": "SCORES",
@@ -10258,20 +10270,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Ashton_Hagans"
-  },
-  {
-   "detail": "Ashton Hagans  ~ league: NBA G League -> -",
-   "detected_at": "2026-08-08 07:21:48",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Ashton_Hagans"
-  },
-  {
-   "detail": "Ashton Hagans  ~ number: 19 -> -",
-   "detected_at": "2026-08-08 07:21:48",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Ashton_Hagans"
   }
  ],
  "feeds": {
@@ -10280,8 +10278,8 @@
    "last": "2026-08-18 09:30:55"
   },
   "PLAYERS": {
-   "count": 630,
-   "last": "2026-08-17 15:45:54"
+   "count": 631,
+   "last": "2026-08-18 12:44:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10300,14 +10298,14 @@
    "last": "2026-08-18 09:32:57"
   },
   "TRANSACTIONS": {
-   "count": 275,
-   "last": "2026-08-17 14:50:55"
+   "count": 276,
+   "last": "2026-08-18 12:44:55"
   },
   "WIKI": {
    "count": 956,
    "last": "2026-08-18 11:35:45"
   }
  },
- "generated_at": "2026-08-18T12:36:08",
- "total": 8703
+ "generated_at": "2026-08-18T12:45:08",
+ "total": 8705
 }
