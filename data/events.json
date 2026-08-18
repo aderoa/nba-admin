@@ -1,6 +1,72 @@
 {
  "events": [
   {
+   "detail": "PHX  + ADDED  Highsmith, Haywood",
+   "detected_at": "2026-08-18 08:41:57",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "PHX  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 237213074.5 -> 239662495.5, col9: 750647099.4 -> 753096520.4",
+   "detected_at": "2026-08-18 08:41:57",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "PHX  CHANGED Players Under Contract  -  col3: 190579034 -> 193028455",
+   "detected_at": "2026-08-18 08:41:57",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "PHX  CHANGED Full Season Contracts  -  col3: 190579034 -> 193028455",
+   "detected_at": "2026-08-18 08:41:57",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "PHX  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 14 -> 15",
+   "detected_at": "2026-08-18 08:41:57",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "PHX  CHANGED Avg, Salary (Mean) (No 10-Day K's)  -  col6: 1 -> 0",
+   "detected_at": "2026-08-18 08:41:57",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col25: 13348084.52 -> 15797505.52",
+   "detected_at": "2026-08-18 08:41:57",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 3rd Incremental Tax Bracket  -  col25: 10879464.88 -> 24351280.38",
+   "detected_at": "2026-08-18 08:41:57",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col25: 46410714.88 -> 59882530.38",
+   "detected_at": "2026-08-18 08:41:57",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED Update 1.3 (7/18/26): B. Beal, D. Brooks, K. Bufkin, K. Caldwell-Pope, M. Cisse, I. Crawford, D. Green, M. Hezonja, C. Houstan, H. Ingram, A. Jackson, L. James, S. Jones, Y. Kawamura, C. Koloko, N. Marshall, D. Melton, G. Payton, T. Peter, J. Phillips, J. Sochan, J. Tate, M. Thybulle, O. Tshiebwe, M. Wagner, J. Walsh",
+   "detected_at": "2026-08-18 08:41:55",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Update 1.3 (7/18/26): B. Beal, D. Brooks, K. Bufkin, K. Caldwell-Pope, M. Cisse, I. Crawford, D. Green, M. Hezonja, H. Highsmith, C. Houstan, H. Ingram, A. Jackson, L. James, S. Jones, Y. Kawamura, C. Koloko, N. Marshall, D. Melton, G. Payton, T. Peter, J. Phillips, J. Sochan, J. Tate, M. Thybulle, O. Tshiebwe, M. Wagner, J. Walsh",
+   "detected_at": "2026-08-18 08:41:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "2026-27 Veteran Signings  - REMOVED 2 Years for $13,170,840. Non-Qualifying Veteran Free Agent Exception. Advance Payment ($5,268,336). Player option to extend the contract to include the 2027-28 Season. Insurance Premium Reimbursement. Skill; Injury or Illness; Mental. Compensation protection for 2026-27 Season is for $3,212,400 but will increase to full if team has not requested waivers on player on or before 8/18/2026. Compensation protection for 2027-28 Season is for $3,373,020 but will increase to full if team has not requested waivers on player on or before 8/18/2027. Trade Kicker (15%",
    "detected_at": "2026-08-18 08:40:55",
    "source": "DOCS",
@@ -10273,89 +10339,12 @@
    "source": "RATINGS",
    "type": "TOP4",
    "url": "https://basketball.realgm.com/national/boxscore/2026-08-07/Cyprus-at-Croatia/526331"
-  },
-  {
-   "detail": "National Teams 5. Sime Vlaic 17.7 — 10p 3r 5a 17.4m (Croatia)",
-   "detected_at": "2026-08-07 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP5",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-07/Cyprus-at-Croatia/526331"
-  },
-  {
-   "detail": "National Teams ★ 1. Maksym Shulha 24.6 — 18p 15r 1a 31.2m (Ukraine)",
-   "detected_at": "2026-08-07 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP1",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-07/Switzerland-at-Ukraine/526332"
-  },
-  {
-   "detail": "National Teams 2. Artem Dordiai 22.0 — 22p 10r 3a 35.1m (Ukraine)",
-   "detected_at": "2026-08-07 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP2",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-07/Switzerland-at-Ukraine/526332"
-  },
-  {
-   "detail": "National Teams 3. Nathan Mettler 18.0 — 23p 4r 1a 25.3m (Switzerland, lost)",
-   "detected_at": "2026-08-07 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP3",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-07/Switzerland-at-Ukraine/526332"
-  },
-  {
-   "detail": "National Teams 4. Aiden Bezzola 8.6 — 9p 3r 3a 19.2m (Switzerland, lost)",
-   "detected_at": "2026-08-07 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP4",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-07/Switzerland-at-Ukraine/526332"
-  },
-  {
-   "detail": "National Teams 5. Artem Bieliavskyi 7.1 — 6p 3r 6a 21.2m (Ukraine)",
-   "detected_at": "2026-08-07 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP5",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-07/Switzerland-at-Ukraine/526332"
-  },
-  {
-   "detail": "National Teams ★ 1. Atli Haraldsson Katrinarson 21.9 — 10p 9r 4a 23.5m (Iceland)",
-   "detected_at": "2026-08-07 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP1",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-07/Iceland-at-North-Macedonia/526333"
-  },
-  {
-   "detail": "National Teams 2. Kormakur Noi Jack 16.6 — 16p 12r 1a 25.1m (Iceland)",
-   "detected_at": "2026-08-07 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP2",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-07/Iceland-at-North-Macedonia/526333"
-  },
-  {
-   "detail": "National Teams 3. Hlynur Finnsson 15.9 — 17p 5r 5a 34.1m (Iceland)",
-   "detected_at": "2026-08-07 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP3",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-07/Iceland-at-North-Macedonia/526333"
-  },
-  {
-   "detail": "National Teams 4. Dion Shabani 14.1 — 26p 11r 3a 38.7m (North Macedonia, lost)",
-   "detected_at": "2026-08-07 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP4",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-07/Iceland-at-North-Macedonia/526333"
-  },
-  {
-   "detail": "National Teams 5. Jon Sigurdarson 13.9 — 8p 7r 2a 21.5m (Iceland)",
-   "detected_at": "2026-08-07 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP5",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-07/Iceland-at-North-Macedonia/526333"
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 2039,
-   "last": "2026-08-18 08:40:55"
+   "count": 2041,
+   "last": "2026-08-18 08:41:55"
   },
   "PLAYERS": {
    "count": 630,
@@ -10374,8 +10363,8 @@
    "last": "2026-08-18 07:23:19"
   },
   "SHEETS": {
-   "count": 3393,
-   "last": "2026-08-18 08:35:58"
+   "count": 3402,
+   "last": "2026-08-18 08:41:57"
   },
   "TRANSACTIONS": {
    "count": 275,
@@ -10386,6 +10375,6 @@
    "last": "2026-08-18 08:31:45"
   }
  },
- "generated_at": "2026-08-18T08:41:00",
- "total": 8605
+ "generated_at": "2026-08-18T08:42:02",
+ "total": 8616
 }
