@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Tre Mann  ~ number: 23 -> 22",
+   "detected_at": "2026-08-18 13:07:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Tre_Mann"
+  },
+  {
    "detail": "2026-08-18  New Orleans Pelicans signed  Malik Dia to a Two-Way Contract.",
    "detected_at": "2026-08-18 12:44:55",
    "source": "TRANSACTIONS",
@@ -10263,13 +10270,6 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Julian_Phillips_(basketball)"
-  },
-  {
-   "detail": "Ashton Hagans  ~ team: Rip City Remix -> Free agent",
-   "detected_at": "2026-08-08 07:21:48",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Ashton_Hagans"
   }
  ],
  "feeds": {
@@ -10302,10 +10302,10 @@
    "last": "2026-08-18 12:44:55"
   },
   "WIKI": {
-   "count": 956,
-   "last": "2026-08-18 11:35:45"
+   "count": 957,
+   "last": "2026-08-18 13:07:46"
   }
  },
- "generated_at": "2026-08-18T12:45:08",
- "total": 8705
+ "generated_at": "2026-08-18T13:07:48",
+ "total": 8706
 }
