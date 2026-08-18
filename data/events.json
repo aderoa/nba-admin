@@ -1,6 +1,18 @@
 {
  "events": [
   {
+   "detail": "2026-27 Veteran Signings  - REMOVED Execution Date: 7/23/26",
+   "detected_at": "2026-08-18 08:43:55",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 8/17/26",
+   "detected_at": "2026-08-18 08:43:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "2026-27 Veteran Signings  + ADDED  Haywood Highsmith Phoenix Suns",
    "detected_at": "2026-08-18 08:42:55",
    "source": "DOCS",
@@ -10321,26 +10333,12 @@
    "source": "RATINGS",
    "type": "TOP3",
    "url": "https://basketball.realgm.com/national/boxscore/2026-08-07/Ireland-at-Portugal/526321"
-  },
-  {
-   "detail": "National Teams 4. Goncalo Manaia 9.0 — 7p 3r 3a 19.4m (Portugal, lost)",
-   "detected_at": "2026-08-07 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP4",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-07/Ireland-at-Portugal/526321"
-  },
-  {
-   "detail": "National Teams 5. Tiago Pereira 8.1 — 11p 3r 2a 17.9m (Portugal, lost)",
-   "detected_at": "2026-08-07 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP5",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-07/Ireland-at-Portugal/526321"
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 2045,
-   "last": "2026-08-18 08:42:55"
+   "count": 2047,
+   "last": "2026-08-18 08:43:55"
   },
   "PLAYERS": {
    "count": 630,
@@ -10371,6 +10369,6 @@
    "last": "2026-08-18 08:31:45"
   }
  },
- "generated_at": "2026-08-18T08:43:00",
- "total": 8620
+ "generated_at": "2026-08-18T08:44:01",
+ "total": 8622
 }
