@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "U18 Asia Cup A India 82, Kazakhstan 61",
+   "detected_at": "2026-08-18 12:36:06",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-18/Kazakhstan-at-India/528534"
+  },
+  {
    "detail": "Pavlin Ivanov  ~ team: Spartak Pleven -> Balkan",
    "detected_at": "2026-08-18 11:35:45",
    "source": "WIKI",
@@ -10265,13 +10272,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Ashton_Hagans"
-  },
-  {
-   "detail": "Ashton Hagans  ~ CAREER  + 2025–2026 Rip City Remix",
-   "detected_at": "2026-08-08 07:21:48",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Ashton_Hagans"
   }
  ],
  "feeds": {
@@ -10292,8 +10292,8 @@
    "last": "2026-08-16 21:13:08"
   },
   "SCORES": {
-   "count": 321,
-   "last": "2026-08-18 07:23:19"
+   "count": 322,
+   "last": "2026-08-18 12:36:06"
   },
   "SHEETS": {
    "count": 3428,
@@ -10308,6 +10308,6 @@
    "last": "2026-08-18 11:35:45"
   }
  },
- "generated_at": "2026-08-18T11:35:51",
- "total": 8702
+ "generated_at": "2026-08-18T12:36:08",
+ "total": 8703
 }
