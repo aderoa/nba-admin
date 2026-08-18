@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Trendon Watford  ~ team: Free agent -> New Orleans Pelicans",
+   "detected_at": "2026-08-17 19:57:45",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Trendon_Watford"
+  },
+  {
+   "detail": "Trendon Watford  ~ league: - -> NBA",
+   "detected_at": "2026-08-17 19:57:45",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Trendon_Watford"
+  },
+  {
+   "detail": "Trendon Watford  ~ CAREER  + –present New Orleans Pelicans",
+   "detected_at": "2026-08-17 19:57:45",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Trendon_Watford"
+  },
+  {
    "detail": "Sean Pedulla  ~ CAREER  + 2026–present →Rio Grande Valley Vipers",
    "detected_at": "2026-08-17 18:48:48",
    "source": "WIKI",
@@ -10358,26 +10379,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Boogie_Ellis"
-  },
-  {
-   "detail": "Boogie Ellis  ~ CAREER  + 2026–present Joventut",
-   "detected_at": "2026-08-07 08:42:56",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Boogie_Ellis"
-  },
-  {
-   "detail": "- REMOVED Sean Pedulla (LAC)",
-   "detected_at": "2026-08-07 08:20:54",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "Milton Doyle  ~ number: - -> 35",
-   "detected_at": "2026-08-07 08:19:54",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Milton_Doyle"
   }
  ],
  "feeds": {
@@ -10410,10 +10411,10 @@
    "last": "2026-08-17 14:50:55"
   },
   "WIKI": {
-   "count": 889,
-   "last": "2026-08-17 18:48:48"
+   "count": 892,
+   "last": "2026-08-17 19:57:45"
   }
  },
- "generated_at": "2026-08-17T18:48:49",
- "total": 8517
+ "generated_at": "2026-08-17T19:57:48",
+ "total": 8520
 }
