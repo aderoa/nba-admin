@@ -1,6 +1,34 @@
 {
  "events": [
   {
+   "detail": "Alexandros Nikolaidis (basketball)  ~ team: Panionios -> Peristeri",
+   "detected_at": "2026-08-17 21:59:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Alexandros_Nikolaidis_(basketball)"
+  },
+  {
+   "detail": "Alexandros Nikolaidis (basketball)  ~ number: 55 -> -",
+   "detected_at": "2026-08-17 21:59:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Alexandros_Nikolaidis_(basketball)"
+  },
+  {
+   "detail": "Alexandros Nikolaidis (basketball)  ~ CAREER  + 2025–2026 Panionios",
+   "detected_at": "2026-08-17 21:59:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Alexandros_Nikolaidis_(basketball)"
+  },
+  {
+   "detail": "Alexandros Nikolaidis (basketball)  ~ CAREER  + 2026–present Peristeri",
+   "detected_at": "2026-08-17 21:59:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Alexandros_Nikolaidis_(basketball)"
+  },
+  {
    "detail": "Stanton Kidd  ~ team: Changsha Yongsheng -> Formosa Dreamers",
    "detected_at": "2026-08-17 21:36:48",
    "source": "WIKI",
@@ -10354,31 +10382,6 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Oumar_Ballo_(basketball)"
-  },
-  {
-   "detail": "Oumar Ballo (basketball)  ~ CAREER  + 2026–present Galatasaray",
-   "detected_at": "2026-08-07 13:16:56",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Oumar_Ballo_(basketball)"
-  },
-  {
-   "detail": "HOU  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col4: 329934736.3 -> 164973736.3, col9: 765960298.3 -> 600999298.3",
-   "detected_at": "2026-08-07 12:31:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "HOU  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col4: 164973736.3 -> 329934736.3, col9: 600999298.3 -> 765960298.3",
-   "detected_at": "2026-08-07 12:23:57",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "+ ADDED   Taelon Peter (SAS)",
-   "detected_at": "2026-08-07 11:16:54",
-   "source": "PLAYERS",
-   "type": "ADDED"
   }
  ],
  "feeds": {
@@ -10411,10 +10414,10 @@
    "last": "2026-08-17 14:50:55"
   },
   "WIKI": {
-   "count": 897,
-   "last": "2026-08-17 21:36:48"
+   "count": 901,
+   "last": "2026-08-17 21:59:47"
   }
  },
- "generated_at": "2026-08-17T21:36:49",
- "total": 8525
+ "generated_at": "2026-08-17T21:59:50",
+ "total": 8529
 }
