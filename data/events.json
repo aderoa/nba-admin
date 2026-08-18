@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Johni Broome  ~ number: - -> 40",
+   "detected_at": "2026-08-18 14:16:44",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Johni_Broome"
+  },
+  {
    "detail": "Isaiah Canaan  ~ team: Free agent -> Trabzonspor",
    "detected_at": "2026-08-18 13:30:44",
    "source": "WIKI",
@@ -10263,13 +10270,6 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Jabari_Parker"
-  },
-  {
-   "detail": "Torrey Craig  ~ team: Sydney Kings -> Free agent",
-   "detected_at": "2026-08-08 07:21:48",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Torrey_Craig"
   }
  ],
  "feeds": {
@@ -10302,10 +10302,10 @@
    "last": "2026-08-18 12:44:55"
   },
   "WIKI": {
-   "count": 960,
-   "last": "2026-08-18 13:30:44"
+   "count": 961,
+   "last": "2026-08-18 14:16:44"
   }
  },
- "generated_at": "2026-08-18T13:30:45",
- "total": 8709
+ "generated_at": "2026-08-18T14:16:45",
+ "total": 8710
 }
