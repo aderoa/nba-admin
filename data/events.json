@@ -1,6 +1,54 @@
 {
  "events": [
   {
+   "detail": "NOL  - REMOVED Matkovic, Karlo #2",
+   "detected_at": "2026-08-18 09:32:57",
+   "source": "SHEETS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "NOL  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 225032805.8 -> 222736534.8, col9: 478673760.5 -> 476377489.5",
+   "detected_at": "2026-08-18 09:32:57",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "NOL  CHANGED Players Under Contract  -  col3: 204301274.9 -> 202005003.9",
+   "detected_at": "2026-08-18 09:32:57",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "NOL  CHANGED Full Season Contracts  -  col3: 204301274.9 -> 202005003.9",
+   "detected_at": "2026-08-18 09:32:57",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "NOL  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 19 -> 18",
+   "detected_at": "2026-08-18 09:32:57",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col20: 3873274.92 -> 1577003.92",
+   "detected_at": "2026-08-18 09:32:57",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 1st Incremental Tax Bracket  -  col20: 3873274.92 -> 1577003.92",
+   "detected_at": "2026-08-18 09:32:57",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col20: 3873274.92 -> 1577003.92",
+   "detected_at": "2026-08-18 09:32:57",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "NOL  + ADDED  Matkovic, Karlo #2",
    "detected_at": "2026-08-18 09:31:57",
    "source": "SHEETS",
@@ -10224,62 +10272,6 @@
    "source": "RATINGS",
    "type": "TOP4",
    "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-07/Atlanta-at-Washington/158567"
-  },
-  {
-   "detail": "WNBA 5. Sonia Citron 12.4 — 14p 3r 3a 32.5m (Washington Mystics)",
-   "detected_at": "2026-08-07 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP5",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-07/Atlanta-at-Washington/158567"
-  },
-  {
-   "detail": "WNBA ★ 1. Veronica Burton 36.5 — 22p 4r 7a 30.1m (Golden State Valkyries)",
-   "detected_at": "2026-08-07 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP1",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-07/Golden-State-at-Dallas/158568"
-  },
-  {
-   "detail": "WNBA 2. Gabby Williams 22.9 — 19p 1r 4a 21.9m (Golden State Valkyries)",
-   "detected_at": "2026-08-07 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP2",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-07/Golden-State-at-Dallas/158568"
-  },
-  {
-   "detail": "WNBA 3. Kayla Thornton 17.6 — 11p 10r 3a 27.4m (Golden State Valkyries)",
-   "detected_at": "2026-08-07 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP3",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-07/Golden-State-at-Dallas/158568"
-  },
-  {
-   "detail": "WNBA 4. Kiah Stokes 15.0 — 7p 7r 3a 26.0m (Golden State Valkyries)",
-   "detected_at": "2026-08-07 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP4",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-07/Golden-State-at-Dallas/158568"
-  },
-  {
-   "detail": "WNBA 5. Kaila Charles 15.0 — 9p 4r 0a 27.2m (Golden State Valkyries)",
-   "detected_at": "2026-08-07 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP5",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-07/Golden-State-at-Dallas/158568"
-  },
-  {
-   "detail": "PBA Governors Cup ★ 1. Justin Strings 28.4 — 28p 11r 6a 46.2m (Terrafirma DYIP)",
-   "detected_at": "2026-08-07 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP1",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-07/NLEX-Road-Warriors-at-Terrafirma-DYIP/526221"
-  },
-  {
-   "detail": "PBA Governors Cup 2. Maverick Ahanmisi 23.7 — 16p 3r 10a 33.4m (Terrafirma DYIP)",
-   "detected_at": "2026-08-07 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP2",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-07/NLEX-Road-Warriors-at-Terrafirma-DYIP/526221"
   }
  ],
  "feeds": {
@@ -10304,8 +10296,8 @@
    "last": "2026-08-18 07:23:19"
   },
   "SHEETS": {
-   "count": 3420,
-   "last": "2026-08-18 09:31:57"
+   "count": 3428,
+   "last": "2026-08-18 09:32:57"
   },
   "TRANSACTIONS": {
    "count": 275,
@@ -10316,6 +10308,6 @@
    "last": "2026-08-18 09:17:44"
   }
  },
- "generated_at": "2026-08-18T09:32:08",
- "total": 8678
+ "generated_at": "2026-08-18T09:40:46",
+ "total": 8686
 }
