@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "- REMOVED Hunter Dickinson (NOP)",
+   "detected_at": "2026-08-18 14:39:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
    "detail": "2026-08-18  New Orleans Pelicans waived center Hunter Dickinson.",
    "detected_at": "2026-08-18 14:16:55",
    "source": "TRANSACTIONS",
@@ -10262,13 +10268,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Jabari_Parker"
-  },
-  {
-   "detail": "Jabari Parker  ~ number: - -> 22",
-   "detected_at": "2026-08-08 07:21:48",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jabari_Parker"
   }
  ],
  "feeds": {
@@ -10277,8 +10276,8 @@
    "last": "2026-08-18 09:30:55"
   },
   "PLAYERS": {
-   "count": 631,
-   "last": "2026-08-18 12:44:54"
+   "count": 632,
+   "last": "2026-08-18 14:39:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10305,6 +10304,6 @@
    "last": "2026-08-18 14:16:44"
   }
  },
- "generated_at": "2026-08-18T14:17:01",
- "total": 8711
+ "generated_at": "2026-08-18T14:40:00",
+ "total": 8712
 }
