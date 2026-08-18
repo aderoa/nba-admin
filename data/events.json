@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Zach Graham  ~ team: Free agent -> -",
+   "detected_at": "2026-08-17 22:22:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Zach_Graham"
+  },
+  {
+   "detail": "Zach Graham  ~ career_end: - -> 2023",
+   "detected_at": "2026-08-17 22:22:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Zach_Graham"
+  },
+  {
    "detail": "Alexandros Nikolaidis (basketball)  ~ team: Panionios -> Peristeri",
    "detected_at": "2026-08-17 21:59:47",
    "source": "WIKI",
@@ -10368,20 +10382,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Oumar_Ballo_(basketball)"
-  },
-  {
-   "detail": "Oumar Ballo (basketball)  ~ league: BAL -> Basketbol Süper Ligi Basketball Champions League",
-   "detected_at": "2026-08-07 13:16:56",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Oumar_Ballo_(basketball)"
-  },
-  {
-   "detail": "Oumar Ballo (basketball)  ~ CAREER  + 2026 RSSB Tigers",
-   "detected_at": "2026-08-07 13:16:56",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Oumar_Ballo_(basketball)"
   }
  ],
  "feeds": {
@@ -10414,10 +10414,10 @@
    "last": "2026-08-17 14:50:55"
   },
   "WIKI": {
-   "count": 901,
-   "last": "2026-08-17 21:59:47"
+   "count": 903,
+   "last": "2026-08-17 22:22:46"
   }
  },
- "generated_at": "2026-08-17T21:59:50",
- "total": 8529
+ "generated_at": "2026-08-17T22:22:47",
+ "total": 8531
 }
