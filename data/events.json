@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "2026-08-18  New Orleans Pelicans waived center Hunter Dickinson.",
+   "detected_at": "2026-08-18 14:16:55",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
    "detail": "Johni Broome  ~ number: - -> 40",
    "detected_at": "2026-08-18 14:16:44",
    "source": "WIKI",
@@ -10263,13 +10269,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Jabari_Parker"
-  },
-  {
-   "detail": "Jabari Parker  ~ CAREER  + 2025–present Partizan",
-   "detected_at": "2026-08-08 07:21:48",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Jabari_Parker"
   }
  ],
  "feeds": {
@@ -10298,14 +10297,14 @@
    "last": "2026-08-18 09:32:57"
   },
   "TRANSACTIONS": {
-   "count": 276,
-   "last": "2026-08-18 12:44:55"
+   "count": 277,
+   "last": "2026-08-18 14:16:55"
   },
   "WIKI": {
    "count": 961,
    "last": "2026-08-18 14:16:44"
   }
  },
- "generated_at": "2026-08-18T14:16:45",
- "total": 8710
+ "generated_at": "2026-08-18T14:17:01",
+ "total": 8711
 }
