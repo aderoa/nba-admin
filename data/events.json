@@ -1,6 +1,18 @@
 {
  "events": [
   {
+   "detail": "2026-27 Veteran Signings  - REMOVED 2 Years for $13,170,840. Non-Qualifying Veteran Free Agent Exception. Advance Payment ($5,268,336). Player option to extend the contract to include the 2027-28 Season. Insurance Premium Reimbursement. Skill; Injury or Illness; Mental. Compensation protection for 2026-27 Season is for $3,212,400 but will increase to fu",
+   "detected_at": "2026-08-18 08:39:55",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  2 Years for $13,170,840. Non-Qualifying Veteran Free Agent Exception. Advance Payment ($5,268,336). Player option to extend the contract to include the 2027-28 Season. Insurance Premium Reimbursement. Skill; Injury or Illness; Mental. Compensation protection for 2026-27 Season is for $3,212,400 but will increase to full if team has not requested waivers on player on or before 8/18/2026. Compensation protection for 2027-28 Season is for $3,373,020 but will increase to full if team has not requested waivers on player on or before 8/18/2027. Trade Kicker (15%",
+   "detected_at": "2026-08-18 08:39:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "2026-27 Veteran Signings  - REMOVED 2 Years for $13,170,840. Non-Qualifying Veteran Free Agent Exception. Advance Payment ($",
    "detected_at": "2026-08-18 08:38:55",
    "source": "DOCS",
@@ -10343,26 +10355,12 @@
    "source": "RATINGS",
    "type": "TOP5",
    "url": "https://basketball.realgm.com/national/boxscore/2026-08-07/Luxembourg-at-Finland/526346"
-  },
-  {
-   "detail": "National Teams ★ 1. Alfons Throfast 23.3 — 15p 10r 1a 20.2m (Sweden)",
-   "detected_at": "2026-08-07 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP1",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-07/Bosnia-and-Herzegovina-at-Sweden/526347"
-  },
-  {
-   "detail": "National Teams 2. Lars Lind 18.4 — 11p 8r 7a 28.8m (Sweden)",
-   "detected_at": "2026-08-07 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP2",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-07/Bosnia-and-Herzegovina-at-Sweden/526347"
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 2032,
-   "last": "2026-08-18 08:38:55"
+   "count": 2034,
+   "last": "2026-08-18 08:39:55"
   },
   "PLAYERS": {
    "count": 630,
@@ -10393,6 +10391,6 @@
    "last": "2026-08-18 08:31:45"
   }
  },
- "generated_at": "2026-08-18T08:39:00",
- "total": 8598
+ "generated_at": "2026-08-18T08:40:01",
+ "total": 8600
 }
