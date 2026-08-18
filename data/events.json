@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Garrison Mathews  ~ number: - -> 24",
+   "detected_at": "2026-08-18 10:26:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Garrison_Mathews"
+  },
+  {
+   "detail": "Eli Ndiaye  ~ CAREER  + 2026–present Real Madrid",
+   "detected_at": "2026-08-18 10:26:46",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Eli_Ndiaye"
+  },
+  {
+   "detail": "Luca Illeș  ~ number: - -> 41",
+   "detected_at": "2026-08-18 10:26:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Luca_Ille%C8%99"
+  },
+  {
    "detail": "Alex Ducas  ~ team: Free agent -> Balkan Botevgrad",
    "detected_at": "2026-08-18 10:03:45",
    "source": "WIKI",
@@ -10251,27 +10272,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Donatas_Sabeckis"
-  },
-  {
-   "detail": "Donatas Sabeckis  ~ league: Kosovo Basketball Superleague -> LKL",
-   "detected_at": "2026-08-08 07:21:48",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Donatas_Sabeckis"
-  },
-  {
-   "detail": "Donatas Sabeckis  ~ CAREER  + 2026 Golden Eagle Ylli",
-   "detected_at": "2026-08-08 07:21:48",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Donatas_Sabeckis"
-  },
-  {
-   "detail": "Donatas Sabeckis  ~ CAREER  + 2026–present Jonava Hipocredit",
-   "detected_at": "2026-08-08 07:21:48",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Donatas_Sabeckis"
   }
  ],
  "feeds": {
@@ -10304,10 +10304,10 @@
    "last": "2026-08-17 14:50:55"
   },
   "WIKI": {
-   "count": 950,
-   "last": "2026-08-18 10:03:45"
+   "count": 953,
+   "last": "2026-08-18 10:26:46"
   }
  },
- "generated_at": "2026-08-18T10:03:45",
- "total": 8696
+ "generated_at": "2026-08-18T10:26:47",
+ "total": 8699
 }
