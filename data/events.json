@@ -1,6 +1,36 @@
 {
  "events": [
   {
+   "detail": "LAC  CHANGED Beal, Bradley  -  TEAM SALARY CAP REPORT\n       -  LOS ANGELES CLIPPERS: 4 - CAP HOLD -> 1 - FULL SEASON",
+   "detected_at": "2026-08-18 08:35:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "LAC  CHANGED Players Under Contract  -  col3: 167895098 -> 174319898, col4: 93524162 -> 100270202",
+   "detected_at": "2026-08-18 08:35:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "LAC  CHANGED Full Season Contracts  -  col3: 167895098 -> 174319898, col4: 93524162 -> 100270202",
+   "detected_at": "2026-08-18 08:35:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "LAC  CHANGED Cap Holds  -  col3: 50802977.88 -> 44378177.88, col4: 6746040 -> 0",
+   "detected_at": "2026-08-18 08:35:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "LAC  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 15 -> 16",
+   "detected_at": "2026-08-18 08:35:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "Elias Harris  ~ league: BBL EuroLeague -> -",
    "detected_at": "2026-08-18 08:31:45",
    "source": "WIKI",
@@ -10347,41 +10377,6 @@
    "source": "RATINGS",
    "type": "TOP2",
    "url": "https://basketball.realgm.com/national/boxscore/2026-08-07/Nigeria-at-Chad/527558"
-  },
-  {
-   "detail": "National Teams 3. Victor Endurance Sunday 9.2 — 22p 10r 3a 37.6m (Nigeria, lost)",
-   "detected_at": "2026-08-07 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP3",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-07/Nigeria-at-Chad/527558"
-  },
-  {
-   "detail": "National Teams 4. Nanemadji Allasra Axauce 9.0 — 9p 8r 1a 14.1m (Chad)",
-   "detected_at": "2026-08-07 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP4",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-07/Nigeria-at-Chad/527558"
-  },
-  {
-   "detail": "National Teams 5. Junior Djibrine 8.6 — 17p 2r 2a 22.5m (Chad)",
-   "detected_at": "2026-08-07 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP5",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-07/Nigeria-at-Chad/527558"
-  },
-  {
-   "detail": "National Teams ★ 1. Chris Junoir Echui 20.6 — 9p 11r 1a 18.8m (Ivory Coast)",
-   "detected_at": "2026-08-07 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP1",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-07/Egypt-at-Ivory-Coast/527559"
-  },
-  {
-   "detail": "National Teams 2. Karl Kouame-Zeze 20.0 — 18p 2r 3a 25.2m (Ivory Coast)",
-   "detected_at": "2026-08-07 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP2",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-07/Egypt-at-Ivory-Coast/527559"
   }
  ],
  "feeds": {
@@ -10406,8 +10401,8 @@
    "last": "2026-08-18 07:23:19"
   },
   "SHEETS": {
-   "count": 3388,
-   "last": "2026-08-16 18:40:58"
+   "count": 3393,
+   "last": "2026-08-18 08:35:58"
   },
   "TRANSACTIONS": {
    "count": 275,
@@ -10418,6 +10413,6 @@
    "last": "2026-08-18 08:31:45"
   }
  },
- "generated_at": "2026-08-18T08:31:48",
- "total": 8573
+ "generated_at": "2026-08-18T08:36:01",
+ "total": 8578
 }
