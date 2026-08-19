@@ -1,6 +1,55 @@
 {
  "events": [
   {
+   "detail": "WNBA + Cheyenne Parker-Tyus → Las Vegas Aces",
+   "detected_at": "2026-08-18 22:54:13",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "WNBA Atlanta Dream 97, Las Vegas Aces 82",
+   "detected_at": "2026-08-18 22:54:13",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-18/Atlanta-at-Las-Vegas/158596"
+  },
+  {
+   "detail": "WNBA Chicago Sky 93, New York Liberty 86",
+   "detected_at": "2026-08-18 22:54:11",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-18/New-York-at-Chicago/158595"
+  },
+  {
+   "detail": "WNBA + Brittney Sykes → Toronto Tempo",
+   "detected_at": "2026-08-18 22:54:08",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "WNBA Indiana Fever 101, Toronto Tempo 95",
+   "detected_at": "2026-08-18 22:54:08",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-18/Indiana-at-Toronto/158684"
+  },
+  {
+   "detail": "WNBA Connecticut Sun 85, Los Angeles Sparks 77",
+   "detected_at": "2026-08-18 22:54:06",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-18/LA-Sparks-at-Connecticut/158594"
+  },
+  {
+   "detail": "WNBA + Kate Martin → Los Angeles Sparks",
+   "detected_at": "2026-08-18 22:54:05",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
    "detail": "Stephon Castle  ~ height_in: 6 -> 8",
    "detected_at": "2026-08-18 22:02:49",
    "source": "WIKI",
@@ -10219,55 +10268,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Talib_Zanna"
-  },
-  {
-   "detail": "Damian Jones (basketball)  ~ team: Real Madrid Baloncesto -> Free agent",
-   "detected_at": "2026-08-08 10:49:28",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Damian_Jones_(basketball)"
-  },
-  {
-   "detail": "Damian Jones (basketball)  ~ league: ACB EuroLeague -> -",
-   "detected_at": "2026-08-08 10:49:28",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Damian_Jones_(basketball)"
-  },
-  {
-   "detail": "Alondes Williams  ~ team: - -> Free agent",
-   "detected_at": "2026-08-08 08:30:57",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Alondes_Williams"
-  },
-  {
-   "detail": "Taelon Peter  ~ team: San Antonio Spurs -> Free agent",
-   "detected_at": "2026-08-08 08:30:57",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Taelon_Peter"
-  },
-  {
-   "detail": "Taelon Peter  ~ league: NBA -> -",
-   "detected_at": "2026-08-08 08:30:57",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Taelon_Peter"
-  },
-  {
-   "detail": "Alondes Williams  ~ team: Washington Wizards -> -",
-   "detected_at": "2026-08-08 08:07:58",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Alondes_Williams"
-  },
-  {
-   "detail": "Alondes Williams  ~ league: NBA -> -",
-   "detected_at": "2026-08-08 08:07:58",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Alondes_Williams"
   }
  ],
  "feeds": {
@@ -10284,12 +10284,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 60,
-   "last": "2026-08-16 21:13:08"
+   "count": 63,
+   "last": "2026-08-18 22:54:13"
   },
   "SCORES": {
-   "count": 322,
-   "last": "2026-08-18 12:36:06"
+   "count": 326,
+   "last": "2026-08-18 22:54:13"
   },
   "SHEETS": {
    "count": 3428,
@@ -10304,6 +10304,6 @@
    "last": "2026-08-18 22:02:49"
   }
  },
- "generated_at": "2026-08-18T22:02:50",
- "total": 8738
+ "generated_at": "2026-08-18T22:54:15",
+ "total": 8745
 }
