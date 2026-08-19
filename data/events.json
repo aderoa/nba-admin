@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Brandon Ingram  ~ CAREER  + –present Toronto Raptors",
+   "detected_at": "2026-08-18 18:58:44",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Brandon_Ingram"
+  },
+  {
    "detail": "Malachi Smith (basketball)  ~ number: - -> 18",
    "detected_at": "2026-08-18 18:35:43",
    "source": "WIKI",
@@ -10261,13 +10268,6 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Nikola_Radi%C4%8Devi%C4%87"
-  },
-  {
-   "detail": "Vytenis Lipkevičius  ~ league: National Basketball League -> NKL",
-   "detected_at": "2026-08-08 08:07:58",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Vytenis_Lipkevi%C4%8Dius"
   }
  ],
  "feeds": {
@@ -10300,10 +10300,10 @@
    "last": "2026-08-18 14:16:55"
   },
   "WIKI": {
-   "count": 981,
-   "last": "2026-08-18 18:35:43"
+   "count": 982,
+   "last": "2026-08-18 18:58:44"
   }
  },
- "generated_at": "2026-08-18T18:35:45",
- "total": 8732
+ "generated_at": "2026-08-18T18:58:44",
+ "total": 8733
 }
