@@ -1,6 +1,55 @@
 {
  "events": [
   {
+   "detail": "Malachi Smith (basketball)  ~ number: - -> 18",
+   "detected_at": "2026-08-18 18:35:43",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Malachi_Smith_(basketball)"
+  },
+  {
+   "detail": "Malachi Smith (basketball)  ~ CAREER  + –present Toronto Raptors",
+   "detected_at": "2026-08-18 18:35:43",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Malachi_Smith_(basketball)"
+  },
+  {
+   "detail": "Hunter Dickinson  ~ team: New Orleans Pelicans -> Free agent",
+   "detected_at": "2026-08-18 18:35:43",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Hunter_Dickinson"
+  },
+  {
+   "detail": "Hunter Dickinson  ~ league: NBA -> -",
+   "detected_at": "2026-08-18 18:35:43",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Hunter_Dickinson"
+  },
+  {
+   "detail": "Hunter Dickinson  ~ number: 4 -> -",
+   "detected_at": "2026-08-18 18:35:43",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Hunter_Dickinson"
+  },
+  {
+   "detail": "Hunter Dickinson  ~ CAREER  + New Orleans Pelicans",
+   "detected_at": "2026-08-18 18:35:43",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Hunter_Dickinson"
+  },
+  {
+   "detail": "Hunter Dickinson  ~ CAREER  + 2025–2026 →Birmingham Squadron",
+   "detected_at": "2026-08-18 18:35:43",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Hunter_Dickinson"
+  },
+  {
    "detail": "Scott Bamforth  ~ team: Golden Eagle Ylli -> Fuerza Regia de Monterrey",
    "detected_at": "2026-08-18 15:48:44",
    "source": "WIKI",
@@ -10219,55 +10268,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Vytenis_Lipkevi%C4%8Dius"
-  },
-  {
-   "detail": "Vytenis Lipkevičius  ~ CAREER  + 2026–present Jurbarkas-Karys",
-   "detected_at": "2026-08-08 08:07:58",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Vytenis_Lipkevi%C4%8Dius"
-  },
-  {
-   "detail": "Miikka Muurinen  ~ team: Free agent -> Arkansas Razorbacks",
-   "detected_at": "2026-08-08 08:07:58",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Miikka_Muurinen"
-  },
-  {
-   "detail": "Miikka Muurinen  ~ league: - -> Southeastern Conference",
-   "detected_at": "2026-08-08 08:07:58",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Miikka_Muurinen"
-  },
-  {
-   "detail": "Miikka Muurinen  ~ number: - -> 3",
-   "detected_at": "2026-08-08 08:07:58",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Miikka_Muurinen"
-  },
-  {
-   "detail": "Alondes Williams  ~ team: Capital City Go-Go -> Washington Wizards",
-   "detected_at": "2026-08-08 07:44:57",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Alondes_Williams"
-  },
-  {
-   "detail": "Alondes Williams  ~ league: NBA G League -> NBA",
-   "detected_at": "2026-08-08 07:44:57",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Alondes_Williams"
-  },
-  {
-   "detail": "Alondes Williams  ~ number: 31 -> -",
-   "detected_at": "2026-08-08 07:44:57",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Alondes_Williams"
   }
  ],
  "feeds": {
@@ -10300,10 +10300,10 @@
    "last": "2026-08-18 14:16:55"
   },
   "WIKI": {
-   "count": 974,
-   "last": "2026-08-18 15:48:44"
+   "count": 981,
+   "last": "2026-08-18 18:35:43"
   }
  },
- "generated_at": "2026-08-18T15:48:44",
- "total": 8725
+ "generated_at": "2026-08-18T18:35:45",
+ "total": 8732
 }
