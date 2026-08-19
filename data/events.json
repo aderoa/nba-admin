@@ -1,6 +1,18 @@
 {
  "events": [
   {
+   "detail": "2026-27 Two-Way Signings  - REMOVED Hunter Dickinson New Orleans Pelicans",
+   "detected_at": "2026-08-19 09:08:55",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Two-Way Signings  + ADDED  Hunter Dickinson (WAIVED) New Orleans Pelicans",
+   "detected_at": "2026-08-19 09:08:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "Mindaugas Kuzminskas  ~ team: - -> Free agent",
    "detected_at": "2026-08-19 08:56:46",
    "source": "WIKI",
@@ -10258,26 +10270,12 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/national/boxscore/2026-08-07/Bosnia-and-Herzegovina-at-Sweden/526347"
-  },
-  {
-   "detail": "National Teams Finland 85, Luxembourg 45",
-   "detected_at": "2026-08-08 18:06:45",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-07/Luxembourg-at-Finland/526346"
-  },
-  {
-   "detail": "National Teams Iceland 87, North Macedonia 75",
-   "detected_at": "2026-08-08 18:06:42",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-07/Iceland-at-North-Macedonia/526333"
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 2082,
-   "last": "2026-08-18 09:30:55"
+   "count": 2084,
+   "last": "2026-08-19 09:08:55"
   },
   "PLAYERS": {
    "count": 632,
@@ -10308,6 +10306,6 @@
    "last": "2026-08-19 08:56:46"
   }
  },
- "generated_at": "2026-08-19T08:56:47",
- "total": 8784
+ "generated_at": "2026-08-19T09:09:01",
+ "total": 8786
 }
