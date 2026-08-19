@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Stephon Castle  ~ height_in: 8 -> 6",
+   "detected_at": "2026-08-19 02:04:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Stephon_Castle"
+  },
+  {
+   "detail": "Egemen Güven  ~ team: Yukatel Merkezefendi Basket -> Yukatel Denizli Basket",
+   "detected_at": "2026-08-19 02:04:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Egemen_G%C3%BCven"
+  },
+  {
+   "detail": "Egemen Güven  ~ CAREER  + 2026–present Denizli Basket",
+   "detected_at": "2026-08-19 02:04:46",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Egemen_G%C3%BCven"
+  },
+  {
    "detail": "Yoan Makoundou  ~ position: Center / power forward -> Power Forward / Center",
    "detected_at": "2026-08-19 01:41:46",
    "source": "WIKI",
@@ -10247,27 +10268,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Mohammad_Amini"
-  },
-  {
-   "detail": "Mohammad Amini  ~ career_start: 2020 -> 2022",
-   "detected_at": "2026-08-08 15:08:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Mohammad_Amini"
-  },
-  {
-   "detail": "Dairis Bertāns  ~ team: - -> Free agent",
-   "detected_at": "2026-08-08 14:21:52",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Dairis_Bert%C4%81ns"
-  },
-  {
-   "detail": "Dairis Bertāns  ~ number: 9, 45 -> -",
-   "detected_at": "2026-08-08 14:21:52",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Dairis_Bert%C4%81ns"
   }
  ],
  "feeds": {
@@ -10300,10 +10300,10 @@
    "last": "2026-08-18 14:16:55"
   },
   "WIKI": {
-   "count": 991,
-   "last": "2026-08-19 01:41:46"
+   "count": 994,
+   "last": "2026-08-19 02:04:46"
   }
  },
- "generated_at": "2026-08-19T01:41:49",
- "total": 8749
+ "generated_at": "2026-08-19T02:04:47",
+ "total": 8752
 }
