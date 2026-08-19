@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Javonte Smart  ~ number: - -> 1",
+   "detected_at": "2026-08-19 14:41:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Javonte_Smart"
+  },
+  {
    "detail": "Javonte Smart  ~ league: Liga Națională EuroCup -> Liga Națională ABA League EuroCup",
    "detected_at": "2026-08-19 14:18:46",
    "source": "WIKI",
@@ -10263,13 +10270,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/national/boxscore/2026-08-06/Netherlands-at-Ireland/526318"
-  },
-  {
-   "detail": "National Teams Montenegro 95, Portugal 66",
-   "detected_at": "2026-08-08 18:07:49",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-06/Portugal-at-Montenegro/526319"
   }
  ],
  "feeds": {
@@ -10302,10 +10302,10 @@
    "last": "2026-08-18 14:16:55"
   },
   "WIKI": {
-   "count": 1051,
-   "last": "2026-08-19 14:18:46"
+   "count": 1052,
+   "last": "2026-08-19 14:41:46"
   }
  },
- "generated_at": "2026-08-19T14:18:46",
- "total": 8811
+ "generated_at": "2026-08-19T14:41:47",
+ "total": 8812
 }
