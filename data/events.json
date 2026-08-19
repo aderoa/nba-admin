@@ -1,6 +1,34 @@
 {
  "events": [
   {
+   "detail": "Tre Mann  ~ number: 22 -> 23",
+   "detected_at": "2026-08-19 10:28:48",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Tre_Mann"
+  },
+  {
+   "detail": "Tre Mann  ~ CAREER  + 2026–present Cleveland Cavaliers",
+   "detected_at": "2026-08-19 10:28:48",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Tre_Mann"
+  },
+  {
+   "detail": "Jordan Walker (basketball)  ~ position: Point guard / Shooting guard -> Point guard / shooting guard",
+   "detected_at": "2026-08-19 10:28:48",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jordan_Walker_(basketball)"
+  },
+  {
+   "detail": "Jordan Walker (basketball)  ~ number: - -> 2",
+   "detected_at": "2026-08-19 10:28:48",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jordan_Walker_(basketball)"
+  },
+  {
    "detail": "Konstantin Kostadinov  ~ team: BC Andorra -> Mississippi State Bulldogs",
    "detected_at": "2026-08-19 10:05:45",
    "source": "WIKI",
@@ -10242,34 +10270,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/national/boxscore/2026-08-06/Tunisia-at-Cameroon/527568"
-  },
-  {
-   "detail": "National Teams Senegal 78, Rwanda 38",
-   "detected_at": "2026-08-08 18:07:25",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-06/Senegal-at-Rwanda/527569"
-  },
-  {
-   "detail": "National Teams Poland 105, Romania 62",
-   "detected_at": "2026-08-08 18:07:23",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-07/Romania-at-Poland/526267"
-  },
-  {
-   "detail": "National Teams France 93, Slovenia 68",
-   "detected_at": "2026-08-08 18:07:20",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-07/Slovenia-at-France/526286"
-  },
-  {
-   "detail": "National Teams Germany 82, Belgium 60",
-   "detected_at": "2026-08-08 18:07:18",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-07/Belgium-at-Germany/526285"
   }
  ],
  "feeds": {
@@ -10302,10 +10302,10 @@
    "last": "2026-08-18 14:16:55"
   },
   "WIKI": {
-   "count": 1039,
-   "last": "2026-08-19 10:05:45"
+   "count": 1043,
+   "last": "2026-08-19 10:28:48"
   }
  },
- "generated_at": "2026-08-19T10:05:46",
- "total": 8799
+ "generated_at": "2026-08-19T10:28:52",
+ "total": 8803
 }
