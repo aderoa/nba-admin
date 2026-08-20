@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Jae Crowder  ~ team: ASVEL Basket -> ASVEL",
+   "detected_at": "2026-08-20 08:03:44",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jae_Crowder"
+  },
+  {
+   "detail": "Jae Crowder  ~ CAREER  + 2026–present ASVEL",
+   "detected_at": "2026-08-20 08:03:44",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Jae_Crowder"
+  },
+  {
    "detail": "Bodian Massa  ~ team: ASVEL Basket -> ASVEL",
    "detected_at": "2026-08-20 07:40:43",
    "source": "WIKI",
@@ -10243,20 +10257,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-06/Las-Vegas-at-Indiana/158564"
-  },
-  {
-   "detail": "WNBA Golden State Valkyries 94, Dallas Wings 76",
-   "detected_at": "2026-08-08 18:10:23",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-07/Golden-State-at-Dallas/158568"
-  },
-  {
-   "detail": "WNBA Washington Mystics 79, Atlanta Dream 74",
-   "detected_at": "2026-08-08 18:10:21",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-07/Atlanta-at-Washington/158567"
   }
  ],
  "feeds": {
@@ -10293,10 +10293,10 @@
    "last": "2026-08-18 14:16:55"
   },
   "WIKI": {
-   "count": 1091,
-   "last": "2026-08-20 07:40:43"
+   "count": 1093,
+   "last": "2026-08-20 08:03:44"
   }
  },
- "generated_at": "2026-08-20T07:40:44",
- "total": 8873
+ "generated_at": "2026-08-20T08:03:44",
+ "total": 8875
 }
