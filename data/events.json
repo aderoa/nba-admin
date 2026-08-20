@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "WNBA Minnesota Lynx 77, Golden State Valkyries 66",
+   "detected_at": "2026-08-19 23:06:09",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-19/Minnesota-at-Golden-State/158597"
+  },
+  {
+   "detail": "Mexican LNBP Dorados de Chihuahua 97, Abejas 81",
+   "detected_at": "2026-08-19 23:06:06",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-19/Abejas-at-Dorados-de-Chihuahua/526161"
+  },
+  {
    "detail": "Puerto Rican BSN Vaqueros de Bayamon 97, Santeros de Aguada 79",
    "detected_at": "2026-08-19 22:05:58",
    "source": "SCORES",
@@ -10256,20 +10270,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/Estonia-at-Serbia/526398"
-  },
-  {
-   "detail": "National Teams Ukraine 69, Cyprus 59",
-   "detected_at": "2026-08-08 18:08:33",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/Cyprus-at-Ukraine/526474"
-  },
-  {
-   "detail": "National Teams Finland 82, Bosnia and Herzegovina 66",
-   "detected_at": "2026-08-08 18:08:31",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/Finland-at-Bosnia-and-Herzegovina/526467"
   }
  ],
  "feeds": {
@@ -10290,8 +10290,8 @@
    "last": "2026-08-19 20:02:05"
   },
   "SCORES": {
-   "count": 328,
-   "last": "2026-08-19 22:05:58"
+   "count": 330,
+   "last": "2026-08-19 23:06:09"
   },
   "SHEETS": {
    "count": 3428,
@@ -10306,6 +10306,6 @@
    "last": "2026-08-19 19:24:47"
   }
  },
- "generated_at": "2026-08-19T22:06:04",
- "total": 8828
+ "generated_at": "2026-08-19T23:06:11",
+ "total": 8830
 }
