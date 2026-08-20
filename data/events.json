@@ -1,6 +1,34 @@
 {
  "events": [
   {
+   "detail": "WNBA + Zaay Green → Toronto Tempo",
+   "detected_at": "2026-08-19 20:02:05",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "WNBA + Darianna Littlepage-Buggs → Washington Mystics",
+   "detected_at": "2026-08-19 20:02:05",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "WNBA + Rori Harmon → Washington Mystics",
+   "detected_at": "2026-08-19 20:02:05",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "WNBA Washington Mystics 93, Toronto Tempo 82",
+   "detected_at": "2026-08-19 20:02:05",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-19/Toronto-at-Washington/158685"
+  },
+  {
    "detail": "Peyton Watson  ~ team: Cleveland Cavaliers -> Free agent",
    "detected_at": "2026-08-19 19:24:47",
    "source": "WIKI",
@@ -10242,34 +10270,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/Germany-at-Greece/526390"
-  },
-  {
-   "detail": "National Teams Lithuania 91, Denmark 83",
-   "detected_at": "2026-08-08 18:08:26",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/Lithuania-at-Denmark/526399"
-  },
-  {
-   "detail": "National Teams Georgia 83, Croatia 81",
-   "detected_at": "2026-08-08 18:08:24",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/Georgia-at-Croatia/526459"
-  },
-  {
-   "detail": "National Teams Hungary 67, Romania 63",
-   "detected_at": "2026-08-08 18:08:21",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/Romania-at-Hungary/526458"
-  },
-  {
-   "detail": "National Teams Austria 73, Latvia 71",
-   "detected_at": "2026-08-08 18:08:19",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/Austria-at-Latvia/526402"
   }
  ],
  "feeds": {
@@ -10286,12 +10286,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 63,
-   "last": "2026-08-18 22:54:13"
+   "count": 66,
+   "last": "2026-08-19 20:02:05"
   },
   "SCORES": {
-   "count": 326,
-   "last": "2026-08-18 22:54:13"
+   "count": 327,
+   "last": "2026-08-19 20:02:05"
   },
   "SHEETS": {
    "count": 3428,
@@ -10306,6 +10306,6 @@
    "last": "2026-08-19 19:24:47"
   }
  },
- "generated_at": "2026-08-19T19:24:48",
- "total": 8823
+ "generated_at": "2026-08-19T20:02:06",
+ "total": 8827
 }
