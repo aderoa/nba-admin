@@ -1,6 +1,34 @@
 {
  "events": [
   {
+   "detail": "Peyton Watson  ~ team: Cleveland Cavaliers -> Free agent",
+   "detected_at": "2026-08-19 19:24:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Peyton_Watson"
+  },
+  {
+   "detail": "Peyton Watson  ~ league: NBA -> -",
+   "detected_at": "2026-08-19 19:24:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Peyton_Watson"
+  },
+  {
+   "detail": "Peyton Watson  ~ number: 8 -> -",
+   "detected_at": "2026-08-19 19:24:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Peyton_Watson"
+  },
+  {
+   "detail": "Mike Conley Jr.  ~ number: 45 -> 44",
+   "detected_at": "2026-08-19 19:24:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Mike_Conley_Jr."
+  },
+  {
    "detail": "Peyton Watson  ~ team: Free agent -> Cleveland Cavaliers",
    "detected_at": "2026-08-19 19:01:45",
    "source": "WIKI",
@@ -10242,34 +10270,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/Austria-at-Latvia/526402"
-  },
-  {
-   "detail": "National Teams Slovakia 74, Bulgaria 72",
-   "detected_at": "2026-08-08 18:08:17",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/Slovakia-at-Bulgaria/526403"
-  },
-  {
-   "detail": "National Teams Iceland 91, Azerbaijan 73",
-   "detected_at": "2026-08-08 18:08:14",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/Iceland-at-Azerbaijan/526471"
-  },
-  {
-   "detail": "National Teams Great Britain 83, North Macedonia 73",
-   "detected_at": "2026-08-08 18:08:12",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/North-Macedonia-at-Great-Britain/526470"
-  },
-  {
-   "detail": "National Teams Sweden 87, Norway 64",
-   "detected_at": "2026-08-08 18:08:09",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/Sweden-at-Norway/526473"
   }
  ],
  "feeds": {
@@ -10302,10 +10302,10 @@
    "last": "2026-08-18 14:16:55"
   },
   "WIKI": {
-   "count": 1059,
-   "last": "2026-08-19 19:01:45"
+   "count": 1063,
+   "last": "2026-08-19 19:24:47"
   }
  },
- "generated_at": "2026-08-19T19:01:52",
- "total": 8819
+ "generated_at": "2026-08-19T19:24:48",
+ "total": 8823
 }
