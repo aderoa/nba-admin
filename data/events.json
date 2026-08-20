@@ -1,6 +1,34 @@
 {
  "events": [
   {
+   "detail": "Peyton Watson  ~ team: Free agent -> Cleveland Cavaliers",
+   "detected_at": "2026-08-19 19:01:45",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Peyton_Watson"
+  },
+  {
+   "detail": "Peyton Watson  ~ league: - -> NBA",
+   "detected_at": "2026-08-19 19:01:45",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Peyton_Watson"
+  },
+  {
+   "detail": "Peyton Watson  ~ number: - -> 8",
+   "detected_at": "2026-08-19 19:01:45",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Peyton_Watson"
+  },
+  {
+   "detail": "Peyton Watson  ~ CAREER  + –present Cleveland Cavaliers",
+   "detected_at": "2026-08-19 19:01:45",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Peyton_Watson"
+  },
+  {
    "detail": "Tre Mann  ~ team: Cleveland Cavaliers -> Charlotte Hornets",
    "detected_at": "2026-08-19 18:15:16",
    "source": "WIKI",
@@ -10242,34 +10270,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/Sweden-at-Norway/526473"
-  },
-  {
-   "detail": "National Teams Ireland 82, Portugal 60",
-   "detected_at": "2026-08-08 18:08:07",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/Ireland-at-Portugal/526472"
-  },
-  {
-   "detail": "National Teams Israel 85, Turkey 79",
-   "detected_at": "2026-08-08 18:08:05",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-02/Turkey-at-Israel/526391"
-  },
-  {
-   "detail": "National Teams Mali 66, Morocco 45",
-   "detected_at": "2026-08-08 18:08:01",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-05/Mali-at-Morocco/527563"
-  },
-  {
-   "detail": "National Teams Madagascar 68, Gabon 65",
-   "detected_at": "2026-08-08 18:07:59",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-05/Gabon-at-Madagascar/527562"
   }
  ],
  "feeds": {
@@ -10302,10 +10302,10 @@
    "last": "2026-08-18 14:16:55"
   },
   "WIKI": {
-   "count": 1055,
-   "last": "2026-08-19 18:15:16"
+   "count": 1059,
+   "last": "2026-08-19 19:01:45"
   }
  },
- "generated_at": "2026-08-19T18:15:18",
- "total": 8815
+ "generated_at": "2026-08-19T19:01:52",
+ "total": 8819
 }
