@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Tre Mann  ~ team: Cleveland Cavaliers -> Charlotte Hornets",
+   "detected_at": "2026-08-19 18:15:16",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Tre_Mann"
+  },
+  {
+   "detail": "Tre Mann  ~ CAREER  + –present Charlotte Hornets",
+   "detected_at": "2026-08-19 18:15:16",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Tre_Mann"
+  },
+  {
    "detail": "Tre Mann  ~ CAREER  + –2026 Charlotte Hornets",
    "detected_at": "2026-08-19 15:04:46",
    "source": "WIKI",
@@ -10256,20 +10270,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/national/boxscore/2026-08-05/Gabon-at-Madagascar/527562"
-  },
-  {
-   "detail": "National Teams Ivory Coast 104, Chad 51",
-   "detected_at": "2026-08-08 18:07:57",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-05/Chad-at-Ivory-Coast/527557"
-  },
-  {
-   "detail": "National Teams Egypt 95, Nigeria 68",
-   "detected_at": "2026-08-08 18:07:54",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-05/Nigeria-at-Egypt/527556"
   }
  ],
  "feeds": {
@@ -10302,10 +10302,10 @@
    "last": "2026-08-18 14:16:55"
   },
   "WIKI": {
-   "count": 1053,
-   "last": "2026-08-19 15:04:46"
+   "count": 1055,
+   "last": "2026-08-19 18:15:16"
   }
  },
- "generated_at": "2026-08-19T15:04:46",
- "total": 8813
+ "generated_at": "2026-08-19T18:15:18",
+ "total": 8815
 }
