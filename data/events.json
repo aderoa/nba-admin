@@ -1,6 +1,48 @@
 {
  "events": [
   {
+   "detail": "Bodian Massa  ~ team: ASVEL Basket -> ASVEL",
+   "detected_at": "2026-08-20 07:40:43",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Bodian_Massa"
+  },
+  {
+   "detail": "Bodian Massa  ~ CAREER  + 2025–present ASVEL",
+   "detected_at": "2026-08-20 07:40:43",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Bodian_Massa"
+  },
+  {
+   "detail": "Thomas Walkup  ~ team: Free Agent -> Olympiacos",
+   "detected_at": "2026-08-20 07:40:43",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Thomas_Walkup"
+  },
+  {
+   "detail": "Thomas Walkup  ~ league: - -> GBL EuroLeague",
+   "detected_at": "2026-08-20 07:40:43",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Thomas_Walkup"
+  },
+  {
+   "detail": "Thomas Walkup  ~ number: - -> 0",
+   "detected_at": "2026-08-20 07:40:43",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Thomas_Walkup"
+  },
+  {
+   "detail": "Thomas Walkup  ~ CAREER  + 2021–present Olympiacos",
+   "detected_at": "2026-08-20 07:40:43",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Thomas_Walkup"
+  },
+  {
    "detail": "U18 Asia Cup A Chinese Taipei 109, Bahrain 99",
    "detected_at": "2026-08-20 07:17:53",
    "source": "SCORES",
@@ -10215,48 +10257,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-07/Atlanta-at-Washington/158567"
-  },
-  {
-   "detail": "WNBA Connecticut Sun 75, Phoenix Mercury 72",
-   "detected_at": "2026-08-08 18:10:18",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-07/Phoenix-at-Connecticut/158566"
-  },
-  {
-   "detail": "Puerto Rican BSN Leones de Ponce 106, Santeros de Aguada 105",
-   "detected_at": "2026-08-08 18:10:15",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-02/Santeros-de-Aguada-at-Leones-de-Ponce/526706"
-  },
-  {
-   "detail": "Canadian Elite Basketball League Ottawa Blackjacks 96, Edmonton Stingers 89",
-   "detected_at": "2026-08-08 18:10:13",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-02/Ottawa-Blackjacks-at-Edmonton-Stingers/520482"
-  },
-  {
-   "detail": "Canadian Elite Basketball League ~ RETURN Emmanuel Akot → Winnipeg Sea Bears (from El Calor de Cancun)",
-   "detected_at": "2026-08-08 18:10:11",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "Canadian Elite Basketball League Vancouver Bandits 114, Winnipeg Sea Bears 90",
-   "detected_at": "2026-08-08 18:10:11",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-02/Winnipeg-Sea-Bears-at-Vancouver-Bandits/520481"
-  },
-  {
-   "detail": "New Zealand NBL Zerofees Southland Sharks 84, Canterbury Rams 74",
-   "detected_at": "2026-08-08 18:10:08",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-02/Zerofees-Southland-Sharks-at-Canterbury-Rams/526703"
   }
  ],
  "feeds": {
@@ -10293,10 +10293,10 @@
    "last": "2026-08-18 14:16:55"
   },
   "WIKI": {
-   "count": 1085,
-   "last": "2026-08-20 07:17:44"
+   "count": 1091,
+   "last": "2026-08-20 07:40:43"
   }
  },
- "generated_at": "2026-08-20T07:17:54",
- "total": 8867
+ "generated_at": "2026-08-20T07:40:44",
+ "total": 8873
 }
