@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "U18 Asia Cup A Japan 80, Qatar 75",
+   "detected_at": "2026-08-20 09:19:06",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-20/Qatar-at-Japan/528509"
+  },
+  {
    "detail": "TyTy Washington Jr.  ~ team: ASVEL Basket -> Free agent",
    "detected_at": "2026-08-20 09:12:43",
    "source": "WIKI",
@@ -10250,13 +10257,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-05/Seattle-at-New-York/158561"
-  },
-  {
-   "detail": "WNBA Atlanta Dream 96, Phoenix Mercury 82",
-   "detected_at": "2026-08-08 18:10:33",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-05/Phoenix-at-Atlanta/158560"
   }
  ],
  "feeds": {
@@ -10281,8 +10281,8 @@
    "last": "2026-08-19 20:02:05"
   },
   "SCORES": {
-   "count": 332,
-   "last": "2026-08-20 07:17:53"
+   "count": 333,
+   "last": "2026-08-20 09:19:06"
   },
   "SHEETS": {
    "count": 3428,
@@ -10297,6 +10297,6 @@
    "last": "2026-08-20 09:12:43"
   }
  },
- "generated_at": "2026-08-20T09:12:44",
- "total": 8880
+ "generated_at": "2026-08-20T09:19:07",
+ "total": 8881
 }
