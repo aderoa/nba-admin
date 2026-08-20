@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "TyTy Washington Jr.  ~ team: ASVEL Basket -> Free agent",
+   "detected_at": "2026-08-20 09:12:43",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/TyTy_Washington_Jr."
+  },
+  {
+   "detail": "TyTy Washington Jr.  ~ league: LNB Pro A EuroLeague -> -",
+   "detected_at": "2026-08-20 09:12:43",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/TyTy_Washington_Jr."
+  },
+  {
    "detail": "Ulrich Chomche  ~ team: Free agent -> Balkan Botevgrad",
    "detected_at": "2026-08-20 08:49:44",
    "source": "WIKI",
@@ -10243,20 +10257,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-05/Phoenix-at-Atlanta/158560"
-  },
-  {
-   "detail": "WNBA ~ RETURN Aneesah Morrow → Toronto Tempo (from Connecticut Sun)",
-   "detected_at": "2026-08-08 18:10:31",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "WNBA Portland Fire 97, Toronto Tempo 83",
-   "detected_at": "2026-08-08 18:10:31",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-06/Toronto-at-Portland/158681"
   }
  ],
  "feeds": {
@@ -10293,10 +10293,10 @@
    "last": "2026-08-18 14:16:55"
   },
   "WIKI": {
-   "count": 1096,
-   "last": "2026-08-20 08:49:44"
+   "count": 1098,
+   "last": "2026-08-20 09:12:43"
   }
  },
- "generated_at": "2026-08-20T08:49:44",
- "total": 8878
+ "generated_at": "2026-08-20T09:12:44",
+ "total": 8880
 }
