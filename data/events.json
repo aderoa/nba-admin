@@ -1,6 +1,48 @@
 {
  "events": [
   {
+   "detail": "~ CHANGED Julian Reese  team: WAS -> DEN",
+   "detected_at": "2026-08-20 19:43:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Peyton Watson  team: DEN -> CLE",
+   "detected_at": "2026-08-20 19:43:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Max Strus  team: CLE -> LAC",
+   "detected_at": "2026-08-20 19:43:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Tre Mann  team: CHA -> WAS",
+   "detected_at": "2026-08-20 19:43:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Cam Whitmore  team: WAS -> CLE",
+   "detected_at": "2026-08-20 19:43:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Dennis Schröder  name: Dennis Schroder -> Dennis Schröder",
+   "detected_at": "2026-08-20 19:43:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Dennis Schröder  team: CLE -> CHA",
+   "detected_at": "2026-08-20 19:43:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "~ CHANGED Dennis Schroder  name: Dennis Schröder -> Dennis Schroder",
    "detected_at": "2026-08-20 19:42:54",
    "source": "PLAYERS",
@@ -10196,55 +10238,6 @@
    "source": "RATINGS",
    "type": "TOP1",
    "url": "https://basketball.realgm.com/national/boxscore/2026-08-08/Norway-at-Luxembourg/526349"
-  },
-  {
-   "detail": "National Teams 2. Patrik Andersons 13.7 — 14p 1r 1a 16.1m (Norway)",
-   "detected_at": "2026-08-08 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP2",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-08/Norway-at-Luxembourg/526349"
-  },
-  {
-   "detail": "National Teams 3. Oliver Sanford 13.4 — 14p 8r 5a 25.5m (Norway)",
-   "detected_at": "2026-08-08 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP3",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-08/Norway-at-Luxembourg/526349"
-  },
-  {
-   "detail": "National Teams 4. Oyvind Overas 11.7 — 8p 7r 1a 13.6m (Norway)",
-   "detected_at": "2026-08-08 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP4",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-08/Norway-at-Luxembourg/526349"
-  },
-  {
-   "detail": "National Teams 5. Teodor Torkildsen 10.1 — 8p 5r 1a 12.7m (Norway)",
-   "detected_at": "2026-08-08 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP5",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-08/Norway-at-Luxembourg/526349"
-  },
-  {
-   "detail": "National Teams ★ 1. Yakuba Armas Haruna 31.2 — 20p 14r 1a 26.1m (Finland)",
-   "detected_at": "2026-08-08 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP1",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-08/Sweden-at-Finland/526350"
-  },
-  {
-   "detail": "National Teams 2. Noah Santos 25.2 — 26p 5r 3a 31.5m (Finland)",
-   "detected_at": "2026-08-08 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP2",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-08/Sweden-at-Finland/526350"
-  },
-  {
-   "detail": "National Teams 3. Milton Emil Johannes Ekholm 17.6 — 17p 1r 3a 23.0m (Finland)",
-   "detected_at": "2026-08-08 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP3",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-08/Sweden-at-Finland/526350"
   }
  ],
  "feeds": {
@@ -10257,8 +10250,8 @@
    "last": "2026-08-20 07:10:14"
   },
   "PLAYERS": {
-   "count": 637,
-   "last": "2026-08-20 19:42:54"
+   "count": 644,
+   "last": "2026-08-20 19:43:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10285,6 +10278,6 @@
    "last": "2026-08-20 19:42:42"
   }
  },
- "generated_at": "2026-08-20T19:43:03",
- "total": 8941
+ "generated_at": "2026-08-20T19:44:05",
+ "total": 8948
 }
