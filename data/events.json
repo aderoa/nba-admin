@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Chaz Lanier  ~ number: 20 -> -",
+   "detected_at": "2026-08-21 12:16:41",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Chaz_Lanier"
+  },
+  {
    "detail": "Vince Hunter  ~ team: Lokomotiv Kuban -> La Laguna Tenerife",
    "detected_at": "2026-08-21 10:44:40",
    "source": "WIKI",
@@ -10228,13 +10235,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Keaton_Wallace"
-  },
-  {
-   "detail": "Keaton Wallace  ~ league: - -> Israeli Premier League EuroLeague",
-   "detected_at": "2026-08-09 09:42:48",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Keaton_Wallace"
   }
  ],
  "feeds": {
@@ -10271,10 +10271,10 @@
    "last": "2026-08-20 19:28:55"
   },
   "WIKI": {
-   "count": 1236,
-   "last": "2026-08-21 10:44:40"
+   "count": 1237,
+   "last": "2026-08-21 12:16:41"
   }
  },
- "generated_at": "2026-08-21T10:44:41",
- "total": 9054
+ "generated_at": "2026-08-21T12:16:45",
+ "total": 9055
 }
