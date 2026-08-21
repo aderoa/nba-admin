@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Ethan Thompson  ~ number: - -> 5",
+   "detected_at": "2026-08-21 13:02:44",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Ethan_Thompson"
+  },
+  {
+   "detail": "Derek Willis  ~ number: - -> 35",
+   "detected_at": "2026-08-21 13:02:44",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Derek_Willis"
+  },
+  {
    "detail": "Klay Thompson  ~ team: Dallas Mavericks -> Free Agent",
    "detected_at": "2026-08-21 12:39:40",
    "source": "WIKI",
@@ -10221,20 +10235,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/national/boxscore/2026-08-08/Spain-at-Georgia/526282"
-  },
-  {
-   "detail": "U16 Euro Championship B Bosnia and Herzegovina 84, Bulgaria 74",
-   "detected_at": "2026-08-09 10:43:13",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-08/Bosnia-and-Herzegovina-at-Bulgaria/526351"
-  },
-  {
-   "detail": "U16 Euro Championship B Ukraine 62, Cyprus 55",
-   "detected_at": "2026-08-09 10:43:10",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-08/Ukraine-at-Cyprus/526336"
   }
  ],
  "feeds": {
@@ -10271,10 +10271,10 @@
    "last": "2026-08-20 19:28:55"
   },
   "WIKI": {
-   "count": 1240,
-   "last": "2026-08-21 12:39:40"
+   "count": 1242,
+   "last": "2026-08-21 13:02:44"
   }
  },
- "generated_at": "2026-08-21T12:39:41",
- "total": 9058
+ "generated_at": "2026-08-21T13:02:45",
+ "total": 9060
 }
