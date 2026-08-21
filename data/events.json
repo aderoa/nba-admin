@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "DeMar DeRozan  ~ league: - -> NBA",
+   "detected_at": "2026-08-21 14:34:40",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/DeMar_DeRozan"
+  },
+  {
    "detail": "DeMar DeRozan  ~ team: Free agent -> Denver Nuggets",
    "detected_at": "2026-08-21 14:11:40",
    "source": "WIKI",
@@ -10228,13 +10235,6 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/M%C3%A1rcio_Santos_(basketball)"
-  },
-  {
-   "detail": "Neemias Queta  ~ weight_lb: - -> 248",
-   "detected_at": "2026-08-09 12:01:48",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Neemias_Queta"
   }
  ],
  "feeds": {
@@ -10271,10 +10271,10 @@
    "last": "2026-08-20 19:28:55"
   },
   "WIKI": {
-   "count": 1244,
-   "last": "2026-08-21 14:11:40"
+   "count": 1245,
+   "last": "2026-08-21 14:34:40"
   }
  },
- "generated_at": "2026-08-21T14:11:41",
- "total": 9062
+ "generated_at": "2026-08-21T14:34:41",
+ "total": 9063
 }
