@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "- REMOVED Klay Thompson (DAL)",
+   "detected_at": "2026-08-21 14:42:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
    "detail": "2026-08-21  Dallas Mavericks waived guard Klay Thompson.",
    "detected_at": "2026-08-21 14:35:55",
    "source": "TRANSACTIONS",
@@ -10227,13 +10233,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/M%C3%A1rcio_Santos_(basketball)"
-  },
-  {
-   "detail": "Márcio Santos (basketball)  ~ position: Center -> Center / power forward",
-   "detected_at": "2026-08-09 12:47:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/M%C3%A1rcio_Santos_(basketball)"
   }
  ],
  "feeds": {
@@ -10246,8 +10245,8 @@
    "last": "2026-08-21 07:57:31"
   },
   "PLAYERS": {
-   "count": 644,
-   "last": "2026-08-20 19:43:54"
+   "count": 645,
+   "last": "2026-08-21 14:42:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10274,6 +10273,6 @@
    "last": "2026-08-21 14:34:40"
   }
  },
- "generated_at": "2026-08-21T14:36:01",
- "total": 9064
+ "generated_at": "2026-08-21T14:43:02",
+ "total": 9065
 }
