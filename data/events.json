@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "~ CHANGED Dennis Schroder  name: Dennis Schröder -> Dennis Schroder",
+   "detected_at": "2026-08-20 19:42:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "Ryan Boatright  ~ team: Brillantes del Zulia -> Free agent",
    "detected_at": "2026-08-20 19:42:42",
    "source": "WIKI",
@@ -10239,13 +10245,6 @@
    "source": "RATINGS",
    "type": "TOP3",
    "url": "https://basketball.realgm.com/national/boxscore/2026-08-08/Sweden-at-Finland/526350"
-  },
-  {
-   "detail": "National Teams 4. Paavo Iisakki Kemppinen 16.1 — 8p 14r 9a 29.3m (Finland)",
-   "detected_at": "2026-08-08 23:59:59",
-   "source": "RATINGS",
-   "type": "TOP4",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-08/Sweden-at-Finland/526350"
   }
  ],
  "feeds": {
@@ -10258,8 +10257,8 @@
    "last": "2026-08-20 07:10:14"
   },
   "PLAYERS": {
-   "count": 636,
-   "last": "2026-08-20 10:47:54"
+   "count": 637,
+   "last": "2026-08-20 19:42:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10286,6 +10285,6 @@
    "last": "2026-08-20 19:42:42"
   }
  },
- "generated_at": "2026-08-20T19:42:43",
- "total": 8940
+ "generated_at": "2026-08-20T19:43:03",
+ "total": 8941
 }
