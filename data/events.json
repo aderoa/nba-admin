@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Klay Thompson  ~ team: Dallas Mavericks -> Free Agent",
+   "detected_at": "2026-08-21 12:39:40",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Klay_Thompson"
+  },
+  {
+   "detail": "Klay Thompson  ~ number: 31 -> -",
+   "detected_at": "2026-08-21 12:39:40",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Klay_Thompson"
+  },
+  {
+   "detail": "Klay Thompson  ~ CAREER  + – Dallas Mavericks",
+   "detected_at": "2026-08-21 12:39:40",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Klay_Thompson"
+  },
+  {
    "detail": "Chaz Lanier  ~ number: 20 -> -",
    "detected_at": "2026-08-21 12:16:41",
    "source": "WIKI",
@@ -10214,27 +10235,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/national/boxscore/2026-08-08/Ukraine-at-Cyprus/526336"
-  },
-  {
-   "detail": "U16 Euro Championship A Poland 72, Serbia 70",
-   "detected_at": "2026-08-09 09:43:00",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-09/Serbia-at-Poland/526271"
-  },
-  {
-   "detail": "U16 Euro Championship A Turkey 77, Italy 69",
-   "detected_at": "2026-08-09 09:42:58",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-09/Italy-at-Turkey/526277"
-  },
-  {
-   "detail": "Keaton Wallace  ~ team: Free agent -> Maccabi Tel Aviv",
-   "detected_at": "2026-08-09 09:42:48",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Keaton_Wallace"
   }
  ],
  "feeds": {
@@ -10271,10 +10271,10 @@
    "last": "2026-08-20 19:28:55"
   },
   "WIKI": {
-   "count": 1237,
-   "last": "2026-08-21 12:16:41"
+   "count": 1240,
+   "last": "2026-08-21 12:39:40"
   }
  },
- "generated_at": "2026-08-21T12:16:45",
- "total": 9055
+ "generated_at": "2026-08-21T12:39:41",
+ "total": 9058
 }
