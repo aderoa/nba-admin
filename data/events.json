@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Eric Bledsoe  ~ height_ft: - -> 6",
+   "detected_at": "2026-08-21 19:50:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Eric_Bledsoe"
+  },
+  {
+   "detail": "Eric Bledsoe  ~ height_in: - -> 1",
+   "detected_at": "2026-08-21 19:50:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Eric_Bledsoe"
+  },
+  {
+   "detail": "Eric Bledsoe  ~ weight_lb: - -> 214",
+   "detected_at": "2026-08-21 19:50:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Eric_Bledsoe"
+  },
+  {
    "detail": "WNBA Chicago Sky 73, Golden State Valkyries 70",
    "detected_at": "2026-08-21 19:33:36",
    "source": "SCORES",
@@ -10212,27 +10233,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Darral_Willis"
-  },
-  {
-   "detail": "Darral Willis  ~ league: Taiwan Professional Basketball League -> B.League",
-   "detected_at": "2026-08-09 22:36:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Darral_Willis"
-  },
-  {
-   "detail": "Darral Willis  ~ number: 21 -> -",
-   "detected_at": "2026-08-09 22:36:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Darral_Willis"
-  },
-  {
-   "detail": "Darral Willis  ~ CAREER  + 2025–2026 Taipei Taishin Mars",
-   "detected_at": "2026-08-09 22:36:46",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Darral_Willis"
   }
  ],
  "feeds": {
@@ -10269,10 +10269,10 @@
    "last": "2026-08-21 14:35:55"
   },
   "WIKI": {
-   "count": 1271,
-   "last": "2026-08-21 17:46:38"
+   "count": 1274,
+   "last": "2026-08-21 19:50:47"
   }
  },
- "generated_at": "2026-08-21T19:33:38",
- "total": 9103
+ "generated_at": "2026-08-21T19:50:48",
+ "total": 9106
 }
