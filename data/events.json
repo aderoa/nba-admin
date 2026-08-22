@@ -1,6 +1,48 @@
 {
  "events": [
   {
+   "detail": "Vernon Carey Jr.  ~ team: Rio Grande Valley Vipers -> Maxima Roma",
+   "detected_at": "2026-08-22 13:55:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Vernon_Carey_Jr."
+  },
+  {
+   "detail": "Vernon Carey Jr.  ~ league: NBA G League -> LBA",
+   "detected_at": "2026-08-22 13:55:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Vernon_Carey_Jr."
+  },
+  {
+   "detail": "Vernon Carey Jr.  ~ position: Power forward / center -> Center / power forward",
+   "detected_at": "2026-08-22 13:55:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Vernon_Carey_Jr."
+  },
+  {
+   "detail": "Vernon Carey Jr.  ~ number: 13 -> -",
+   "detected_at": "2026-08-22 13:55:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Vernon_Carey_Jr."
+  },
+  {
+   "detail": "Vernon Carey Jr.  ~ CAREER  + 2025–2026 Rio Grande Valley Vipers",
+   "detected_at": "2026-08-22 13:55:46",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Vernon_Carey_Jr."
+  },
+  {
+   "detail": "Vernon Carey Jr.  ~ CAREER  + 2026–present Maxima Roma",
+   "detected_at": "2026-08-22 13:55:46",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Vernon_Carey_Jr."
+  },
+  {
    "detail": "Edwin Jackson (basketball)  ~ team: LDLC ASVEL -> ASVEL",
    "detected_at": "2026-08-22 13:32:46",
    "source": "WIKI",
@@ -10228,42 +10270,6 @@
    "detected_at": "2026-08-10 08:50:09",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "LAC  CHANGED Avg, Salary (Mean) (No 10-Day K's)  -  col6: 1 -> 0",
-   "detected_at": "2026-08-10 08:50:09",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "SAN  + ADDED  Peter, Taelon",
-   "detected_at": "2026-08-10 08:49:18",
-   "source": "SHEETS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "SAN  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 231173961.5 -> 233359077.5, col9: 605250809.7 -> 607435925.7",
-   "detected_at": "2026-08-10 08:49:18",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "SAN  CHANGED Players Under Contract  -  col3: 198279966.7 -> 200465082.7",
-   "detected_at": "2026-08-10 08:49:18",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "SAN  CHANGED Full Season Contracts  -  col3: 198279966.7 -> 200465082.7",
-   "detected_at": "2026-08-10 08:49:18",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "SAN  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 14 -> 15",
-   "detected_at": "2026-08-10 08:49:18",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10300,10 +10306,10 @@
    "last": "2026-08-21 14:35:55"
   },
   "WIKI": {
-   "count": 1332,
-   "last": "2026-08-22 13:32:46"
+   "count": 1338,
+   "last": "2026-08-22 13:55:46"
   }
  },
- "generated_at": "2026-08-22T13:32:46",
- "total": 9174
+ "generated_at": "2026-08-22T13:55:47",
+ "total": 9180
 }
