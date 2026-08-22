@@ -1,6 +1,90 @@
 {
  "events": [
   {
+   "detail": "WNBA Chicago Sky 73, Golden State Valkyries 70",
+   "detected_at": "2026-08-21 19:33:36",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-21/Golden-State-at-Chicago/158602"
+  },
+  {
+   "detail": "Mexican LNBP Freseros Irapuato 80, El Calor de Cancun 76",
+   "detected_at": "2026-08-21 19:33:33",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-20/El-Calor-de-Cancun-at-Freseros-Irapuato/526169"
+  },
+  {
+   "detail": "Mexican LNBP + Rafael Pinzon → El Calor de Cancun",
+   "detected_at": "2026-08-21 19:33:27",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Mexican LNBP ~ MOVED Daniel Trasvina → El Calor de Cancun (from Correcaminos)",
+   "detected_at": "2026-08-21 19:33:27",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Mexican LNBP Panteras de Aguascalientes 85, Santos de San Luis Potosi 75",
+   "detected_at": "2026-08-21 19:33:24",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-20/Santos-de-San-Luis-Potosi-at-Panteras-de-Aguascalientes/526166"
+  },
+  {
+   "detail": "Mexican LNBP + Javion Blake → Santos de San Luis Potosi",
+   "detected_at": "2026-08-21 19:33:20",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Mexican LNBP ~ MOVED Antonio Davis → Santos de San Luis Potosi (from Niagara River Lions)",
+   "detected_at": "2026-08-21 19:33:20",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Mexican LNBP + Chris Vogt → Santos de San Luis Potosi",
+   "detected_at": "2026-08-21 19:33:20",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Mexican LNBP + Vinnie Shahid → Panteras de Aguascalientes",
+   "detected_at": "2026-08-21 19:33:20",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Mexican LNBP Lobos Plateados 89, Diablos Rojos 88",
+   "detected_at": "2026-08-21 19:33:17",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-20/Lobos-Plateados-at-Diablos-Rojos/526165"
+  },
+  {
+   "detail": "Mexican LNBP + Eric Washington → Lobos Plateados",
+   "detected_at": "2026-08-21 19:33:11",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Mexican LNBP ~ MOVED Roddy Peters → Diablos Rojos (from Brampton Honey Badgers)",
+   "detected_at": "2026-08-21 19:33:11",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
    "detail": "Javonte Cooke  ~ team: Free agent -> Beijing Royal Fighters",
    "detected_at": "2026-08-21 17:46:38",
    "source": "WIKI",
@@ -10149,90 +10233,6 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Darral_Willis"
-  },
-  {
-   "detail": "Darral Willis  ~ CAREER  + 2026–present Toyama Grouses",
-   "detected_at": "2026-08-09 22:36:46",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Darral_Willis"
-  },
-  {
-   "detail": "New Zealand NBL Zerofees Southland Sharks 104, Wellington Saints 101",
-   "detected_at": "2026-08-09 22:05:11",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-09/Wellington-Saints-at-Zerofees-Southland-Sharks/527588"
-  },
-  {
-   "detail": "Brock Motum  ~ team: Free Agent -> Taoyuan Taiwan Beer Leopards",
-   "detected_at": "2026-08-09 21:50:49",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Brock_Motum"
-  },
-  {
-   "detail": "Brock Motum  ~ league: - -> Taiwan Professional Basketball League",
-   "detected_at": "2026-08-09 21:50:49",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Brock_Motum"
-  },
-  {
-   "detail": "Brock Motum  ~ number: - -> 10",
-   "detected_at": "2026-08-09 21:50:49",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Brock_Motum"
-  },
-  {
-   "detail": "Brock Motum  ~ CAREER  + 2026–present Taoyuan Taiwan Beer Leopards",
-   "detected_at": "2026-08-09 21:50:49",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Brock_Motum"
-  },
-  {
-   "detail": "Thomas Wimbush  ~ team: Free Agent -> Taoyuan Taiwan Beer Leopards",
-   "detected_at": "2026-08-09 21:50:49",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Thomas_Wimbush"
-  },
-  {
-   "detail": "Thomas Wimbush  ~ league: - -> Taiwan Professional Basketball League",
-   "detected_at": "2026-08-09 21:50:49",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Thomas_Wimbush"
-  },
-  {
-   "detail": "Thomas Wimbush  ~ number: - -> 20",
-   "detected_at": "2026-08-09 21:50:49",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Thomas_Wimbush"
-  },
-  {
-   "detail": "Thomas Wimbush  ~ CAREER  + 2026–present Taoyuan Taiwan Beer Leopards",
-   "detected_at": "2026-08-09 21:50:49",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Thomas_Wimbush"
-  },
-  {
-   "detail": "Jalen Smith  ~ height_in: 9 -> 8",
-   "detected_at": "2026-08-09 21:50:48",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jalen_Smith"
-  },
-  {
-   "detail": "Puerto Rican BSN Vaqueros de Bayamon 91, Santeros de Aguada 75",
-   "detected_at": "2026-08-09 21:04:43",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-09/Vaqueros-de-Bayamon-at-Santeros-de-Aguada/528491"
   }
  ],
  "feeds": {
@@ -10253,12 +10253,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 68,
-   "last": "2026-08-20 23:56:48"
+   "count": 76,
+   "last": "2026-08-21 19:33:27"
   },
   "SCORES": {
-   "count": 344,
-   "last": "2026-08-21 09:13:42"
+   "count": 348,
+   "last": "2026-08-21 19:33:36"
   },
   "SHEETS": {
    "count": 3428,
@@ -10273,6 +10273,6 @@
    "last": "2026-08-21 17:46:38"
   }
  },
- "generated_at": "2026-08-21T17:46:40",
- "total": 9091
+ "generated_at": "2026-08-21T19:33:38",
+ "total": 9103
 }
