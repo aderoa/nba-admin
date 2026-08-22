@@ -1,6 +1,55 @@
 {
  "events": [
   {
+   "detail": "Klay Thompson  ~ team: Miami Heat -> Free agent",
+   "detected_at": "2026-08-22 12:46:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Klay_Thompson"
+  },
+  {
+   "detail": "Tyrese Haliburton  ~ team: - -> Indiana Pacers",
+   "detected_at": "2026-08-22 12:46:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Tyrese_Haliburton"
+  },
+  {
+   "detail": "Tyrese Haliburton  ~ number: - -> 0",
+   "detected_at": "2026-08-22 12:46:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Tyrese_Haliburton"
+  },
+  {
+   "detail": "Admiral Schofield  ~ team: Cairns Taipans -> Free agent",
+   "detected_at": "2026-08-22 12:46:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Admiral_Schofield"
+  },
+  {
+   "detail": "Admiral Schofield  ~ league: NBL -> -",
+   "detected_at": "2026-08-22 12:46:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Admiral_Schofield"
+  },
+  {
+   "detail": "Admiral Schofield  ~ number: 5 -> -",
+   "detected_at": "2026-08-22 12:46:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Admiral_Schofield"
+  },
+  {
+   "detail": "Admiral Schofield  ~ CAREER  + 2025–2026 Cairns Taipans",
+   "detected_at": "2026-08-22 12:46:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Admiral_Schofield"
+  },
+  {
    "detail": "Tyrese Haliburton  ~ team: Indiana Pacers -> -",
    "detected_at": "2026-08-22 12:23:47",
    "source": "WIKI",
@@ -10212,48 +10261,6 @@
    "detected_at": "2026-08-10 08:49:18",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col28: 0 -> 37082.68",
-   "detected_at": "2026-08-10 08:49:18",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
-   "detected_at": "2026-08-10 08:49:09",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Minimum Salary Exception. Physical Exam. Alt. 7(b). Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
-   "detected_at": "2026-08-10 08:49:09",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Update 1.3 (7/18/26): D. Brooks, K. Bufkin, K. Caldwell-Pope, M. Cisse, I. Crawford, D. Green, M. Hezonja, C. Houstan, H. Ingram, A. Jackson, L. James, S. Jones, C. Koloko, N. Marshall, D. Melton, G. Payton, J. Phillips, J. Sochan, J. Tate, M. Thybulle, O. Tshiebwe, M. Wagner, J. Walsh",
-   "detected_at": "2026-08-10 08:48:04",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Update 1.3 (7/18/26): D. Brooks, K. Bufkin, K. Caldwell-Pope, M. Cisse, I. Crawford, D. Green, M. Hezonja, C. Houstan, H. Ingram, A. Jackson, L. James, S. Jones, C. Koloko, N. Marshall, D. Melton, G. Payton, T. Peter, J. Phillips, J. Sochan, J. Tate, M. Thybulle, O. Tshiebwe, M. Wagner, J. Walsh",
-   "detected_at": "2026-08-10 08:48:04",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Taelon Peter San Antonio Spurs",
-   "detected_at": "2026-08-10 08:48:04",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  26-27 $2,185,116",
-   "detected_at": "2026-08-10 08:48:04",
-   "source": "DOCS",
-   "type": "ADDED"
   }
  ],
  "feeds": {
@@ -10290,10 +10297,10 @@
    "last": "2026-08-21 14:35:55"
   },
   "WIKI": {
-   "count": 1322,
-   "last": "2026-08-22 12:23:47"
+   "count": 1329,
+   "last": "2026-08-22 12:46:47"
   }
  },
- "generated_at": "2026-08-22T12:23:48",
- "total": 9164
+ "generated_at": "2026-08-22T12:46:48",
+ "total": 9171
 }
