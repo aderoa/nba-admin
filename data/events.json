@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "WNBA ~ MOVED Chloe Bibby → Minnesota Lynx (from Chicago Sky)",
+   "detected_at": "2026-08-21 20:36:53",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "WNBA Minnesota Lynx 94, Washington Mystics 84",
+   "detected_at": "2026-08-21 20:36:53",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-21/Minnesota-at-Washington/158601"
+  },
+  {
+   "detail": "Puerto Rican BSN Santeros de Aguada 82, Vaqueros de Bayamon 76",
+   "detected_at": "2026-08-21 20:36:49",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-21/Santeros-de-Aguada-at-Vaqueros-de-Bayamon/533492"
+  },
+  {
    "detail": "Eric Bledsoe  ~ height_ft: - -> 6",
    "detected_at": "2026-08-21 19:50:47",
    "source": "WIKI",
@@ -10212,27 +10233,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Charis_Giannopoulos"
-  },
-  {
-   "detail": "Uroš Luković  ~ team: Kumanovo -> -",
-   "detected_at": "2026-08-09 23:45:45",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Uro%C5%A1_Lukovi%C4%87"
-  },
-  {
-   "detail": "Uroš Luković  ~ CAREER  + 2024–2026 Kumanovo",
-   "detected_at": "2026-08-09 23:45:45",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Uro%C5%A1_Lukovi%C4%87"
-  },
-  {
-   "detail": "Darral Willis  ~ team: Taipei Taishin Mars -> Toyama Grouses",
-   "detected_at": "2026-08-09 22:36:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Darral_Willis"
   }
  ],
  "feeds": {
@@ -10253,12 +10253,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 76,
-   "last": "2026-08-21 19:33:27"
+   "count": 77,
+   "last": "2026-08-21 20:36:53"
   },
   "SCORES": {
-   "count": 348,
-   "last": "2026-08-21 19:33:36"
+   "count": 350,
+   "last": "2026-08-21 20:36:53"
   },
   "SHEETS": {
    "count": 3428,
@@ -10273,6 +10273,6 @@
    "last": "2026-08-21 19:50:47"
   }
  },
- "generated_at": "2026-08-21T19:50:48",
- "total": 9106
+ "generated_at": "2026-08-21T20:36:55",
+ "total": 9109
 }
