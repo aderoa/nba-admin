@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "WNBA Toronto Tempo 82, Portland Fire 79",
+   "detected_at": "2026-08-21 22:38:15",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-21/Portland-at-Toronto/158686"
+  },
+  {
+   "detail": "Mexican LNBP Panteras de Aguascalientes 104, Santos de San Luis Potosi 88",
+   "detected_at": "2026-08-21 22:38:11",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-21/Santos-de-San-Luis-Potosi-at-Panteras-de-Aguascalientes/526173"
+  },
+  {
    "detail": "Klay Thompson  ~ team: Free Agent -> Free agent",
    "detected_at": "2026-08-21 21:24:47",
    "source": "WIKI",
@@ -10219,20 +10233,6 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Lachlan_Olbrich"
-  },
-  {
-   "detail": "Jamaal Franklin  ~ team: Converge FiberXers -> Free agent",
-   "detected_at": "2026-08-10 01:10:26",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jamaal_Franklin"
-  },
-  {
-   "detail": "Jamaal Franklin  ~ league: PBA -> -",
-   "detected_at": "2026-08-10 01:10:26",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jamaal_Franklin"
   }
  ],
  "feeds": {
@@ -10257,8 +10257,8 @@
    "last": "2026-08-21 20:36:53"
   },
   "SCORES": {
-   "count": 350,
-   "last": "2026-08-21 20:36:53"
+   "count": 352,
+   "last": "2026-08-21 22:38:15"
   },
   "SHEETS": {
    "count": 3428,
@@ -10273,6 +10273,6 @@
    "last": "2026-08-21 21:24:47"
   }
  },
- "generated_at": "2026-08-21T21:24:48",
- "total": 9114
+ "generated_at": "2026-08-21T22:38:18",
+ "total": 9116
 }
