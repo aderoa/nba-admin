@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "WNBA Atlanta Dream 99, Phoenix Mercury 89",
+   "detected_at": "2026-08-22 23:56:56",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-22/Atlanta-at-Phoenix/158605"
+  },
+  {
+   "detail": "Mexican LNBP Lobos Plateados 95, Diablos Rojos 84",
+   "detected_at": "2026-08-22 23:56:53",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-21/Lobos-Plateados-at-Diablos-Rojos/526172"
+  },
+  {
+   "detail": "Mexican LNBP + Malik Dime → Diablos Rojos",
+   "detected_at": "2026-08-22 23:56:50",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
    "detail": "WNBA Los Angeles Sparks 77, Connecticut Sun 68",
    "detected_at": "2026-08-22 21:53:06",
    "source": "SCORES",
@@ -10257,24 +10278,6 @@
    "detected_at": "2026-08-10 08:51:21",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Update 1.3 (7/18/26): D. Brooks, K. Bufkin, K. Caldwell-Pope, M. Cisse, I. Crawford, D. Green, M. Hezonja, C. Houstan, H. Ingram, A. Jackson, L. James, S. Jones, C. Koloko, N. Marshall, D. Melton, G. Payton, T. Peter, J. Phillips, J. Sochan, J. Tate, M. Thybulle, O. Tshiebwe, M. Wagner, J. Walsh",
-   "detected_at": "2026-08-10 08:51:06",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Update 1.3 (7/18/26): D. Brooks, K. Bufkin, K. Caldwell-Pope, M. Cisse, I. Crawford, D. Green, M. Hezonja, C. Houstan, H. Ingram, A. Jackson, L. James, S. Jones, Y. Kawamura, C. Koloko, N. Marshall, D. Melton, G. Payton, T. Peter, J. Phillips, J. Sochan, J. Tate, M. Thybulle, O. Tshiebwe, M. Wagner, J. Walsh",
-   "detected_at": "2026-08-10 08:51:06",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "LAC  + ADDED  Christie, Cameron #2",
-   "detected_at": "2026-08-10 08:50:09",
-   "source": "SHEETS",
-   "type": "ADDED"
   }
  ],
  "feeds": {
@@ -10295,12 +10298,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 78,
-   "last": "2026-08-22 20:52:43"
+   "count": 79,
+   "last": "2026-08-22 23:56:50"
   },
   "SCORES": {
-   "count": 359,
-   "last": "2026-08-22 21:53:06"
+   "count": 361,
+   "last": "2026-08-22 23:56:56"
   },
   "SHEETS": {
    "count": 3428,
@@ -10315,6 +10318,6 @@
    "last": "2026-08-22 19:20:48"
   }
  },
- "generated_at": "2026-08-22T21:53:07",
- "total": 9185
+ "generated_at": "2026-08-22T23:56:58",
+ "total": 9188
 }
