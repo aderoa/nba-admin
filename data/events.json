@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "WNBA Los Angeles Sparks 77, Connecticut Sun 68",
+   "detected_at": "2026-08-22 21:53:06",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-22/Connecticut-at-LA-Sparks/158604"
+  },
+  {
    "detail": "WNBA + Leonie Fiebich → New York Liberty",
    "detected_at": "2026-08-22 20:52:43",
    "source": "REALGM",
@@ -10268,12 +10275,6 @@
    "detected_at": "2026-08-10 08:50:09",
    "source": "SHEETS",
    "type": "ADDED"
-  },
-  {
-   "detail": "LAC  CHANGED Christie, Cameron  -  col3: 2296271.0 -> 2449421.0, col4: 2486995.0 -> -, col9: 4783266 -> 2449421",
-   "detected_at": "2026-08-10 08:50:09",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10298,8 +10299,8 @@
    "last": "2026-08-22 20:52:43"
   },
   "SCORES": {
-   "count": 358,
-   "last": "2026-08-22 20:52:43"
+   "count": 359,
+   "last": "2026-08-22 21:53:06"
   },
   "SHEETS": {
    "count": 3428,
@@ -10314,6 +10315,6 @@
    "last": "2026-08-22 19:20:48"
   }
  },
- "generated_at": "2026-08-22T20:52:44",
- "total": 9184
+ "generated_at": "2026-08-22T21:53:07",
+ "total": 9185
 }
