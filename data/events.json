@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Tremont Waters  ~ team: ASVEL Basket -> ASVEL",
+   "detected_at": "2026-08-23 10:33:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Tremont_Waters"
+  },
+  {
+   "detail": "Tremont Waters  ~ number: - -> 51",
+   "detected_at": "2026-08-23 10:33:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Tremont_Waters"
+  },
+  {
    "detail": "Marcelo Huertas  ~ team: La Laguna Tenerife -> Free agent",
    "detected_at": "2026-08-23 10:10:45",
    "source": "WIKI",
@@ -10272,20 +10286,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Braian_Angola"
-  },
-  {
-   "detail": "Braian Angola  ~ league: - -> B.League",
-   "detected_at": "2026-08-10 12:19:36",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Braian_Angola"
-  },
-  {
-   "detail": "Braian Angola  ~ position: Small forward / Shooting guard -> Small forward / shooting guard",
-   "detected_at": "2026-08-10 12:19:36",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Braian_Angola"
   }
  ],
  "feeds": {
@@ -10322,10 +10322,10 @@
    "last": "2026-08-21 14:35:55"
   },
   "WIKI": {
-   "count": 1363,
-   "last": "2026-08-23 10:10:45"
+   "count": 1365,
+   "last": "2026-08-23 10:33:47"
   }
  },
- "generated_at": "2026-08-23T10:10:46",
- "total": 9214
+ "generated_at": "2026-08-23T10:33:48",
+ "total": 9216
 }
