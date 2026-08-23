@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "WNBA + Leonie Fiebich → New York Liberty",
+   "detected_at": "2026-08-22 20:52:43",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "WNBA New York Liberty 109, Indiana Fever 102",
+   "detected_at": "2026-08-22 20:52:43",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-22/Indiana-at-New-York/158603"
+  },
+  {
    "detail": "Sheldon Mac  ~ team: Free agent -> -",
    "detected_at": "2026-08-22 19:20:48",
    "source": "WIKI",
@@ -10260,18 +10274,6 @@
    "detected_at": "2026-08-10 08:50:09",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "LAC  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 216248654.9 -> 218698075.9, col9: 358598536.2 -> 361047957.2",
-   "detected_at": "2026-08-10 08:50:09",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "LAC  CHANGED Players Under Contract  -  col3: 165445677 -> 167895098",
-   "detected_at": "2026-08-10 08:50:09",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10292,12 +10294,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 77,
-   "last": "2026-08-21 20:36:53"
+   "count": 78,
+   "last": "2026-08-22 20:52:43"
   },
   "SCORES": {
-   "count": 357,
-   "last": "2026-08-22 11:37:45"
+   "count": 358,
+   "last": "2026-08-22 20:52:43"
   },
   "SHEETS": {
    "count": 3428,
@@ -10312,6 +10314,6 @@
    "last": "2026-08-22 19:20:48"
   }
  },
- "generated_at": "2026-08-22T19:20:49",
- "total": 9182
+ "generated_at": "2026-08-22T20:52:44",
+ "total": 9184
 }
