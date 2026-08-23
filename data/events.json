@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Fatts Russell  ~ nationality: American / Romanian -> -",
+   "detected_at": "2026-08-23 12:28:45",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Fatts_Russell"
+  },
+  {
    "detail": "Issuf Sanon  ~ team: Śląsk Wrocław -> VEF Rīga",
    "detected_at": "2026-08-23 11:42:47",
    "source": "WIKI",
@@ -10281,12 +10288,6 @@
    "detected_at": "2026-08-10 12:20:08",
    "source": "SHEETS",
    "type": "REMOVED"
-  },
-  {
-   "detail": "PHL  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 220262730.3 -> 217813309.3, col9: 654491439.7 -> 652042018.7",
-   "detected_at": "2026-08-10 12:20:08",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10323,10 +10324,10 @@
    "last": "2026-08-21 14:35:55"
   },
   "WIKI": {
-   "count": 1369,
-   "last": "2026-08-23 11:42:47"
+   "count": 1370,
+   "last": "2026-08-23 12:28:45"
   }
  },
- "generated_at": "2026-08-23T11:42:51",
- "total": 9220
+ "generated_at": "2026-08-23T12:28:46",
+ "total": 9221
 }
