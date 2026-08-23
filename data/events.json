@@ -1,6 +1,55 @@
 {
  "events": [
   {
+   "detail": "Tremont Waters  ~ team: Gigantes de Carolina -> ASVEL Basket",
+   "detected_at": "2026-08-23 08:38:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Tremont_Waters"
+  },
+  {
+   "detail": "Tremont Waters  ~ league: BSN -> LNB Élite EuroLeague",
+   "detected_at": "2026-08-23 08:38:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Tremont_Waters"
+  },
+  {
+   "detail": "Tremont Waters  ~ number: 51 -> -",
+   "detected_at": "2026-08-23 08:38:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Tremont_Waters"
+  },
+  {
+   "detail": "Tremont Waters  ~ CAREER  + 2026 Gigantes de Carolina",
+   "detected_at": "2026-08-23 08:38:46",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Tremont_Waters"
+  },
+  {
+   "detail": "Tremont Waters  ~ CAREER  + 2026-present ASVEL",
+   "detected_at": "2026-08-23 08:38:46",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Tremont_Waters"
+  },
+  {
+   "detail": "Scotty Pippen Jr.  ~ height_in: 2 -> 1",
+   "detected_at": "2026-08-23 08:38:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Scotty_Pippen_Jr."
+  },
+  {
+   "detail": "Nick Weiler-Babb  ~ number: - -> 3",
+   "detected_at": "2026-08-23 08:38:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Nick_Weiler-Babb"
+  },
+  {
    "detail": "U18 Asia Cup A New Zealand 102, Korea 97",
    "detected_at": "2026-08-23 07:30:09",
    "source": "SCORES",
@@ -10236,55 +10285,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/national/boxscore/2026-08-10/Croatia-at-Ukraine/526338"
-  },
-  {
-   "detail": "U16 Euro Championship B Finland 116, Norway 72",
-   "detected_at": "2026-08-10 11:24:05",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-10/Finland-at-Norway/526352"
-  },
-  {
-   "detail": "U16 Euro Championship B Denmark 84, Great Britain 63",
-   "detected_at": "2026-08-10 11:23:49",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-10/Great-Britain-at-Denmark/526365"
-  },
-  {
-   "detail": "U18 AfroBasket Tunisia 60, Rwanda 53",
-   "detected_at": "2026-08-10 11:23:12",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-10/Rwanda-at-Tunisia/527572"
-  },
-  {
-   "detail": "Tamir Blatt  ~ number: - -> 45",
-   "detected_at": "2026-08-10 11:10:09",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Tamir_Blatt"
-  },
-  {
-   "detail": "Itay Segev  ~ league: Israeli Basketball Premier League EuroLeague -> Israeli Premier League EuroLeague",
-   "detected_at": "2026-08-10 11:10:09",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Itay_Segev"
-  },
-  {
-   "detail": "Patty Mills  ~ team: Free agent -> LDLC ASVEL",
-   "detected_at": "2026-08-10 10:44:49",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Patty_Mills"
-  },
-  {
-   "detail": "Patty Mills  ~ league: - -> LNB Élite EuroLeague",
-   "detected_at": "2026-08-10 10:44:49",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Patty_Mills"
   }
  ],
  "feeds": {
@@ -10321,10 +10321,10 @@
    "last": "2026-08-21 14:35:55"
   },
   "WIKI": {
-   "count": 1346,
-   "last": "2026-08-23 07:29:57"
+   "count": 1353,
+   "last": "2026-08-23 08:38:46"
   }
  },
- "generated_at": "2026-08-23T07:30:10",
- "total": 9197
+ "generated_at": "2026-08-23T08:38:50",
+ "total": 9204
 }
