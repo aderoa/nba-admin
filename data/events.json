@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Pat Spencer  ~ height_in: 2 -> 1",
+   "detected_at": "2026-08-24 15:53:49",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Pat_Spencer"
+  },
+  {
    "detail": "Mohammad Amini  ~ weight_lb: - -> 196",
    "detected_at": "2026-08-24 15:30:48",
    "source": "WIKI",
@@ -10234,13 +10241,6 @@
    "detected_at": "2026-08-12 14:26:55",
    "source": "PLAYERS",
    "type": "REMOVED"
-  },
-  {
-   "detail": "Augusto Lima  ~ nationality: Brazilian / Spanish -> Brazilian",
-   "detected_at": "2026-08-12 12:26:52",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Augusto_Lima"
   }
  ],
  "feeds": {
@@ -10277,10 +10277,10 @@
    "last": "2026-08-24 09:03:34"
   },
   "WIKI": {
-   "count": 1479,
-   "last": "2026-08-24 15:30:48"
+   "count": 1480,
+   "last": "2026-08-24 15:53:49"
   }
  },
- "generated_at": "2026-08-24T15:30:49",
- "total": 9394
+ "generated_at": "2026-08-24T15:53:50",
+ "total": 9395
 }
