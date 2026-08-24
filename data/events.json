@@ -1,6 +1,108 @@
 {
  "events": [
   {
+   "detail": "MIA  + ADDED  Thompson, Klay",
+   "detected_at": "2026-08-24 12:42:58",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "MIA  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 215021477 -> 220621477, col4: 171000133 -> 176880133, col9: 494738757 -> 506218757",
+   "detected_at": "2026-08-24 12:42:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MIA  CHANGED Players Under Contract  -  col3: 198139835 -> 203739835, col4: 171000133 -> 176880133",
+   "detected_at": "2026-08-24 12:42:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MIA  CHANGED Full Season Contracts  -  col3: 198139835 -> 203739835, col4: 171000133 -> 176880133",
+   "detected_at": "2026-08-24 12:42:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MIA  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 12 -> 13",
+   "detected_at": "2026-08-24 12:42:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MIA  CHANGED Avg, Salary (Mean) (No 10-Day K's)  -  col6: 3 -> 2",
+   "detected_at": "2026-08-24 12:42:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MIA  CHANGED Avg, Salary (Mean) (No 10-Day K's & ROS)  -  col6: 1 -> 0",
+   "detected_at": "2026-08-24 12:42:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col17: 0 -> 3311835",
+   "detected_at": "2026-08-24 12:42:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 1st Incremental Tax Bracket  -  col17: 0 -> 3311835",
+   "detected_at": "2026-08-24 12:42:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col17: 0 -> 3311835",
+   "detected_at": "2026-08-24 12:42:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED Update 1.3 (7/18/26): B. Beal, D. Brooks, K. Bufkin, K. Caldwell-Pope, M. Cisse, I. Crawford, D. Green, M. Hezonja, H. Highsmith, C. Houstan, H. Ingram, A. Jackson, L. James, S. Jones, Y. Kawamura, C. Koloko, N. Marshall, D. Melton, G. Payton, T. Peter, J. Phillips, M. Smith, J. Sochan, J. Tate, M. Thybulle, O. Tshiebwe, M. Wagner, J. Walsh, T. Watford, P. Watson",
+   "detected_at": "2026-08-24 12:42:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Update 1.3 (7/18/26): B. Beal, D. Brooks, K. Bufkin, K. Caldwell-Pope, M. Cisse, I. Crawford, D. Green, M. Hezonja, H. Highsmith, C. Houstan, H. Ingram, A. Jackson, L. James, S. Jones, Y. Kawamura, C. Koloko, N. Marshall, D. Melton, G. Payton, T. Peter, J. Phillips, M. Smith, J. Sochan, J. Tate, K. Thompson, M. Thybulle, O. Tshiebwe, M. Wagner, J. Walsh, T. Watford, P. Watson",
+   "detected_at": "2026-08-24 12:42:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Klay Thompson Miami Heat",
+   "detected_at": "2026-08-24 12:42:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  26-27 $5,600,000",
+   "detected_at": "2026-08-24 12:42:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  27-28 $5,880,000 (Team Option)",
+   "detected_at": "2026-08-24 12:42:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  2 Years for $28,000,000. Non-Taxpayer Mid-Level Exception (Partial). Team option to extend the contract to include the 2027-28 Season. Insurance Premium Reimbursement. Skill; Injury or Illness; Mental. Love of the Game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-08-24 12:42:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 7/6/26",
+   "detected_at": "2026-08-24 12:42:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "Artem Zabelin  ~ position: Power forward / center -> Center",
    "detected_at": "2026-08-24 10:02:52",
    "source": "WIKI",
@@ -10145,131 +10247,12 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Patty_Mills"
-  },
-  {
-   "detail": "Isaiah Taylor  ~ CAREER  + 2025-2026 Maree Basketball Galway",
-   "detected_at": "2026-08-12 10:10:13",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Isaiah_Taylor"
-  },
-  {
-   "detail": "David Roddy  ~ position: small forward -> Power forward / small forward",
-   "detected_at": "2026-08-12 10:10:13",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/David_Roddy"
-  },
-  {
-   "detail": "Spencer Dinwiddie  ~ CAREER  + 2025 Bayern Munich",
-   "detected_at": "2026-08-12 10:10:13",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Spencer_Dinwiddie"
-  },
-  {
-   "detail": "Frank Ntilikina  ~ team: Free agent -> Paris Basketball",
-   "detected_at": "2026-08-12 10:10:13",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Frank_Ntilikina"
-  },
-  {
-   "detail": "Frank Ntilikina  ~ league: - -> LNB Élite EuroLeague",
-   "detected_at": "2026-08-12 10:10:13",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Frank_Ntilikina"
-  },
-  {
-   "detail": "Frank Ntilikina  ~ nationality: French / Rwandan -> -",
-   "detected_at": "2026-08-12 10:10:13",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Frank_Ntilikina"
-  },
-  {
-   "detail": "Frank Ntilikina  ~ CAREER  + 2026–present Paris Basketball",
-   "detected_at": "2026-08-12 10:10:13",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Frank_Ntilikina"
-  },
-  {
-   "detail": "Deividas Sirvydis  ~ CAREER  + 2023–2024 Lietkabelis Panevėžys",
-   "detected_at": "2026-08-12 10:10:13",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Deividas_Sirvydis"
-  },
-  {
-   "detail": "Nico Mannion  ~ team: BC Roma SPQR -> Roma SPQR",
-   "detected_at": "2026-08-12 10:10:13",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Nico_Mannion"
-  },
-  {
-   "detail": "Cameron Reynolds  ~ league: Lithuanian Basketball League -> LKL",
-   "detected_at": "2026-08-12 10:10:13",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Cameron_Reynolds"
-  },
-  {
-   "detail": "Cameron Reynolds  ~ CAREER  + 2026–present Juventus Utena",
-   "detected_at": "2026-08-12 10:10:13",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Cameron_Reynolds"
-  },
-  {
-   "detail": "MarJon Beauchamp  ~ team: Free agent -> FC Bayern Munich",
-   "detected_at": "2026-08-12 10:10:13",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/MarJon_Beauchamp"
-  },
-  {
-   "detail": "MarJon Beauchamp  ~ league: - -> BBL EuroLeague",
-   "detected_at": "2026-08-12 10:10:13",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/MarJon_Beauchamp"
-  },
-  {
-   "detail": "MarJon Beauchamp  ~ CAREER  + 2026–present Bayern Munich",
-   "detected_at": "2026-08-12 10:10:13",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/MarJon_Beauchamp"
-  },
-  {
-   "detail": "Joel Bolomboy  ~ team: ASVEL -> LDLC ASVEL",
-   "detected_at": "2026-08-12 10:10:13",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Joel_Bolomboy"
-  },
-  {
-   "detail": "Joel Bolomboy  ~ league: LNB Élite / EuroLeague -> LNB Élite EuroLeague",
-   "detected_at": "2026-08-12 10:10:13",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Joel_Bolomboy"
-  },
-  {
-   "detail": "Jesse Edwards (basketball)  ~ team: BC Roma SPQR -> Roma SPQR",
-   "detected_at": "2026-08-12 10:10:13",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jesse_Edwards_(basketball)"
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 2089,
-   "last": "2026-08-24 09:04:18"
+   "count": 2096,
+   "last": "2026-08-24 12:42:56"
   },
   "GLEAGUE": {
    "count": 16,
@@ -10292,8 +10275,8 @@
    "last": "2026-08-24 09:12:08"
   },
   "SHEETS": {
-   "count": 3454,
-   "last": "2026-08-24 09:04:21"
+   "count": 3464,
+   "last": "2026-08-24 12:42:58"
   },
   "TRANSACTIONS": {
    "count": 286,
@@ -10304,6 +10287,6 @@
    "last": "2026-08-24 10:02:52"
   }
  },
- "generated_at": "2026-08-24T10:02:53",
- "total": 9341
+ "generated_at": "2026-08-24T12:49:54",
+ "total": 9358
 }
