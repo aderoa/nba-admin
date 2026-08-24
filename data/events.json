@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Gael Bonilla  ~ league: NBL -> NBL EuroCup",
+   "detected_at": "2026-08-24 13:35:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Gael_Bonilla"
+  },
+  {
    "detail": "Yoan Makoundou  ~ position: Power forward / center -> Center / power forward",
    "detected_at": "2026-08-24 13:12:47",
    "source": "WIKI",
@@ -10234,13 +10241,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Mexican LNBP Mineros de Zacatecas 78, El Calor de Cancun 67",
-   "detected_at": "2026-08-12 10:10:28",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-11/Mineros-de-Zacatecas-at-El-Calor-de-Cancun/526087"
   }
  ],
  "feeds": {
@@ -10277,10 +10277,10 @@
    "last": "2026-08-24 09:03:34"
   },
   "WIKI": {
-   "count": 1450,
-   "last": "2026-08-24 13:12:47"
+   "count": 1451,
+   "last": "2026-08-24 13:35:46"
   }
  },
- "generated_at": "2026-08-24T13:12:48",
- "total": 9365
+ "generated_at": "2026-08-24T13:35:47",
+ "total": 9366
 }
