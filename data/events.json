@@ -1,6 +1,42 @@
 {
  "events": [
   {
+   "detail": "2026-27 Veteran Signings  - REMOVED 27-28 $5,880,000 (Team Option)",
+   "detected_at": "2026-08-24 12:50:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED 2 Years for $28,000,000. Non-Taxpayer Mid-Level Exception (Partial). Team option to extend the contract to include the 2027-28 Season. Insurance Premium Reimbursement. Skill; Injury or Illness; Mental. Love of the Game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-08-24 12:50:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED Execution Date: 7/6/26",
+   "detected_at": "2026-08-24 12:50:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  27-28 $5,880,000 (Player Option)",
+   "detected_at": "2026-08-24 12:50:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  2 Years for $11,480,000. Non-Taxpayer Mid-Level Exception (Partial). Player option to extend the contract to include the 2027-28 Season. Skill; Injury or Illness; Mental; Death. Trade Kicker (15%). Love of the Game. Physical Exam.",
+   "detected_at": "2026-08-24 12:50:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 8/23/26",
+   "detected_at": "2026-08-24 12:50:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "MIA  + ADDED  Thompson, Klay",
    "detected_at": "2026-08-24 12:42:58",
    "source": "SHEETS",
@@ -10205,54 +10241,12 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Mexican LNBP + Ivan Bernal → Dorados de Chihuahua",
-   "detected_at": "2026-08-12 10:10:25",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Mexican LNBP + Mikh McKinney → Dorados de Chihuahua",
-   "detected_at": "2026-08-12 10:10:25",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Mexican LNBP Dorados de Chihuahua 91, Gambusinos 77",
-   "detected_at": "2026-08-12 10:10:25",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-11/Gambusinos-at-Dorados-de-Chihuahua/526086"
-  },
-  {
-   "detail": "Mexican LNBP Correcaminos 86, Freseros Irapuato 83",
-   "detected_at": "2026-08-12 10:10:23",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-11/Correcaminos-at-Freseros-Irapuato/526085"
-  },
-  {
-   "detail": "Mexican LNBP + Christian Coleman → Correcaminos",
-   "detected_at": "2026-08-12 10:10:22",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Patty Mills  ~ team: ASVEL -> LDLC ASVEL",
-   "detected_at": "2026-08-12 10:10:13",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Patty_Mills"
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 2096,
-   "last": "2026-08-24 12:42:56"
+   "count": 2102,
+   "last": "2026-08-24 12:50:56"
   },
   "GLEAGUE": {
    "count": 16,
@@ -10287,6 +10281,6 @@
    "last": "2026-08-24 10:02:52"
   }
  },
- "generated_at": "2026-08-24T12:49:54",
- "total": 9358
+ "generated_at": "2026-08-24T12:51:01",
+ "total": 9364
 }
