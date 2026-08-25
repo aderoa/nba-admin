@@ -1,6 +1,573 @@
 {
  "events": [
   {
+   "detail": "Mexican LNBP Soles 100, Correcaminos 74",
+   "detected_at": "2026-08-25 08:50:45",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-24/Soles-at-Correcaminos/526531"
+  },
+  {
+   "detail": "Jaylen Adams  ~ team: Hebei Xianglan -> Shijiazhuang Xianglan",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jaylen_Adams"
+  },
+  {
+   "detail": "Jaylen Adams  ~ CAREER  + 2026–present Shijiazhuang Xianglan",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Jaylen_Adams"
+  },
+  {
+   "detail": "Alondes Williams  ~ CAREER  + 2026 Beijing Ducks",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Alondes_Williams"
+  },
+  {
+   "detail": "Kenneth Faried  ~ team: Cangrejeros de Santurce -> Baskonia",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kenneth_Faried"
+  },
+  {
+   "detail": "Kenneth Faried  ~ league: Baloncesto Superior Nacional -> Liga ACB EuroLeague",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kenneth_Faried"
+  },
+  {
+   "detail": "Kenneth Faried  ~ number: 17 -> -",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kenneth_Faried"
+  },
+  {
+   "detail": "Kenneth Faried  ~ height_in: 8 -> 8.7",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kenneth_Faried"
+  },
+  {
+   "detail": "Kenneth Faried  ~ CAREER  + 2026 Cangrejeros de Santurce",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Kenneth_Faried"
+  },
+  {
+   "detail": "Kenneth Faried  ~ CAREER  + 2026–present Baskonia",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Kenneth_Faried"
+  },
+  {
+   "detail": "Brianté Weber  ~ team: Universo Treviso Basket -> Karşıyaka Basket",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Briant%C3%A9_Weber"
+  },
+  {
+   "detail": "Brianté Weber  ~ league: Lega Basket Serie A -> Basketbol Süper Ligi",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Briant%C3%A9_Weber"
+  },
+  {
+   "detail": "Brianté Weber  ~ number: 2 -> -",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Briant%C3%A9_Weber"
+  },
+  {
+   "detail": "Brianté Weber  ~ CAREER  + 2025–2026 Treviso",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Briant%C3%A9_Weber"
+  },
+  {
+   "detail": "Brianté Weber  ~ CAREER  + 2026–present Karşıyaka Basket",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Briant%C3%A9_Weber"
+  },
+  {
+   "detail": "Ahmad Caver  ~ team: Mexico City Capitanes -> Maccabi Ramat Gan",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Ahmad_Caver"
+  },
+  {
+   "detail": "Ahmad Caver  ~ league: NBA G League -> Israeli Basketball Premier League",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Ahmad_Caver"
+  },
+  {
+   "detail": "Ahmad Caver  ~ number: 7 -> 2",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Ahmad_Caver"
+  },
+  {
+   "detail": "Ahmad Caver  ~ CAREER  + 2025–2026 Mexico City Capitanes",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Ahmad_Caver"
+  },
+  {
+   "detail": "Ahmad Caver  ~ CAREER  + 2026–present Maccabi Ramat Gan",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Ahmad_Caver"
+  },
+  {
+   "detail": "Alex Reese  ~ team: Manisa Basket -> Glint Körfez Basket",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Alex_Reese"
+  },
+  {
+   "detail": "Alex Reese  ~ CAREER  + 2026–present Körfez Basket",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Alex_Reese"
+  },
+  {
+   "detail": "Johnny Davis (basketball, born 2002)  ~ league: BSL -> Basketbol Süper Ligi",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Johnny_Davis_(basketball,_born_2002)"
+  },
+  {
+   "detail": "Jassel Pérez  ~ team: Vaqueros de Bayamón -> Bàsquet Girona",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jassel_P%C3%A9rez"
+  },
+  {
+   "detail": "Jassel Pérez  ~ league: Baloncesto Superior Nacional -> Liga ACB Europe Cup",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jassel_P%C3%A9rez"
+  },
+  {
+   "detail": "Jassel Pérez  ~ number: 24 -> -",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jassel_P%C3%A9rez"
+  },
+  {
+   "detail": "Jassel Pérez  ~ CAREER  + 2026 Vaqueros de Bayamón",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Jassel_P%C3%A9rez"
+  },
+  {
+   "detail": "Jassel Pérez  ~ CAREER  + 2026–present Girona",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Jassel_P%C3%A9rez"
+  },
+  {
+   "detail": "Dylan Osetkowski  ~ number: - -> 8",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Dylan_Osetkowski"
+  },
+  {
+   "detail": "Mario Saint-Supéry  ~ number: - -> 5",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Mario_Saint-Sup%C3%A9ry"
+  },
+  {
+   "detail": "Drew Crawford  ~ height_ft: - -> 6",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Drew_Crawford"
+  },
+  {
+   "detail": "Drew Crawford  ~ height_in: - -> 5",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Drew_Crawford"
+  },
+  {
+   "detail": "Drew Crawford  ~ weight_lb: - -> 210",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Drew_Crawford"
+  },
+  {
+   "detail": "Drew Crawford  ~ CAREER  + 2024–present Maccabi Ramat Gan",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Drew_Crawford"
+  },
+  {
+   "detail": "Elias Valtonen  ~ number: - -> 19",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Elias_Valtonen"
+  },
+  {
+   "detail": "Gonzalo Corbalán  ~ number: - -> 20",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Gonzalo_Corbal%C3%A1n"
+  },
+  {
+   "detail": "Neal Sako  ~ number: 12 -> 13",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Neal_Sako"
+  },
+  {
+   "detail": "Allerik Freeman  ~ team: Free Agent -> Vikos Falcons",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Allerik_Freeman"
+  },
+  {
+   "detail": "Allerik Freeman  ~ league: - -> Greek Basketball League",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Allerik_Freeman"
+  },
+  {
+   "detail": "Allerik Freeman  ~ CAREER  + 2021–2022 Bursaspor",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Allerik_Freeman"
+  },
+  {
+   "detail": "Allerik Freeman  ~ CAREER  + 2026–present Vikos Falcons",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Allerik_Freeman"
+  },
+  {
+   "detail": "Muhaymin Mustafa  ~ team: ONVO Büyükçekmece -> Karşıyaka Basket",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Muhaymin_Mustafa"
+  },
+  {
+   "detail": "Muhaymin Mustafa  ~ number: 14 -> -",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Muhaymin_Mustafa"
+  },
+  {
+   "detail": "Muhaymin Mustafa  ~ CAREER  + 2026 Büyükçekmece Basketbol",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Muhaymin_Mustafa"
+  },
+  {
+   "detail": "Muhaymin Mustafa  ~ CAREER  + 2026–present Karşıyaka Basket",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Muhaymin_Mustafa"
+  },
+  {
+   "detail": "Gorjok Gak  ~ team: Sichuan Blue Whales -> Niagara River Lions",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Gorjok_Gak"
+  },
+  {
+   "detail": "Gorjok Gak  ~ league: CBA -> CEBL",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Gorjok_Gak"
+  },
+  {
+   "detail": "Gorjok Gak  ~ CAREER  + 2025–2026 Sichuan Blue Whales",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Gorjok_Gak"
+  },
+  {
+   "detail": "Gorjok Gak  ~ CAREER  + 2026–present Niagara River Lions",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Gorjok_Gak"
+  },
+  {
+   "detail": "Matt Mitchell (basketball)  ~ team: Free agent -> Glint Körfez Basket",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Matt_Mitchell_(basketball)"
+  },
+  {
+   "detail": "Matt Mitchell (basketball)  ~ league: - -> Basketbol Süper Ligi",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Matt_Mitchell_(basketball)"
+  },
+  {
+   "detail": "Matt Mitchell (basketball)  ~ CAREER  + 2026–present Körfez Basket",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Matt_Mitchell_(basketball)"
+  },
+  {
+   "detail": "Bryce Brown (basketball)  ~ number: 11 -> 2",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Bryce_Brown_(basketball)"
+  },
+  {
+   "detail": "Mert Emre Ekşioğlu  ~ team: Free agent -> Glint Körfez Basket",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Mert_Emre_Ek%C5%9Fio%C4%9Flu"
+  },
+  {
+   "detail": "Mert Emre Ekşioğlu  ~ league: - -> Basketbol Süper Ligi",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Mert_Emre_Ek%C5%9Fio%C4%9Flu"
+  },
+  {
+   "detail": "Mert Emre Ekşioğlu  ~ CAREER  + 2026–present Körfez Basket",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Mert_Emre_Ek%C5%9Fio%C4%9Flu"
+  },
+  {
+   "detail": "Markel Starks  ~ team: Glint Körfez Basket -> Free Agent",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Markel_Starks"
+  },
+  {
+   "detail": "Markel Starks  ~ league: BSL -> -",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Markel_Starks"
+  },
+  {
+   "detail": "Markel Starks  ~ number: 8 -> -",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Markel_Starks"
+  },
+  {
+   "detail": "Markel Starks  ~ CAREER  + 2026 Manisa Basket",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Markel_Starks"
+  },
+  {
+   "detail": "Emir Gökalp  ~ team: Glint Körfez Basket -> Free Agent",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Emir_G%C3%B6kalp"
+  },
+  {
+   "detail": "Emir Gökalp  ~ league: BSL -> -",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Emir_G%C3%B6kalp"
+  },
+  {
+   "detail": "Emir Gökalp  ~ number: 4 -> -",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Emir_G%C3%B6kalp"
+  },
+  {
+   "detail": "Emir Gökalp  ~ CAREER  + 2025–2026 Manisa Basket",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Emir_G%C3%B6kalp"
+  },
+  {
+   "detail": "Yuval Sznajderman  ~ team: Hapoel Galil Elyon -> Hapoel Eilat",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Yuval_Sznajderman"
+  },
+  {
+   "detail": "Yuval Sznajderman  ~ CAREER  + 2025–2026 Hapoel Galil Elyon",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Yuval_Sznajderman"
+  },
+  {
+   "detail": "Yuval Sznajderman  ~ CAREER  + 2026–present Hapoel Eilat",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Yuval_Sznajderman"
+  },
+  {
+   "detail": "Noam Dovrat  ~ team: Miami Hurricanes -> Ironi Ness Ziona",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Noam_Dovrat"
+  },
+  {
+   "detail": "Noam Dovrat  ~ league: Atlantic Coast Conference -> Israeli Basketball Premier League",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Noam_Dovrat"
+  },
+  {
+   "detail": "Noam Dovrat  ~ CAREER  + 2018–2021 Maccabi Rishon LeZion",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Noam_Dovrat"
+  },
+  {
+   "detail": "Noam Dovrat  ~ CAREER  + 2026–present Ironi Ness Ziona",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Noam_Dovrat"
+  },
+  {
+   "detail": "Hassan Martin  ~ team: Glint Körfez Basket -> Free Agent",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Hassan_Martin"
+  },
+  {
+   "detail": "Hassan Martin  ~ league: BSL -> -",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Hassan_Martin"
+  },
+  {
+   "detail": "Hassan Martin  ~ number: 32 -> -",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Hassan_Martin"
+  },
+  {
+   "detail": "Hassan Martin  ~ CAREER  + 2025–2026 Manisa Basket",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Hassan_Martin"
+  },
+  {
+   "detail": "Costis Gontikas  ~ team: Panionios -> Vikos Falcons",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Costis_Gontikas"
+  },
+  {
+   "detail": "Costis Gontikas  ~ number: 25 -> -",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Costis_Gontikas"
+  },
+  {
+   "detail": "Costis Gontikas  ~ height_ft: 6 -> -",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Costis_Gontikas"
+  },
+  {
+   "detail": "Costis Gontikas  ~ height_in: 9 -> -",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Costis_Gontikas"
+  },
+  {
+   "detail": "Costis Gontikas  ~ CAREER  + 2025–2026 Panionios",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Costis_Gontikas"
+  },
+  {
+   "detail": "Costis Gontikas  ~ CAREER  + 2026–present Vikos Falcons",
+   "detected_at": "2026-08-25 08:50:31",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Costis_Gontikas"
+  },
+  {
    "detail": "WNBA Atlanta Dream 78, Los Angeles Sparks 71",
    "detected_at": "2026-08-24 23:32:09",
    "source": "SCORES",
@@ -9688,559 +10255,6 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Jonas_Valan%C4%8Di%C5%ABnas"
-  },
-  {
-   "detail": "Saben Lee  ~ number: 5 -> 7",
-   "detected_at": "2026-08-13 04:05:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Saben_Lee"
-  },
-  {
-   "detail": "Kaodirichi Akobundu-Ehiogu  ~ number: 0 -> 2",
-   "detected_at": "2026-08-13 04:05:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Kaodirichi_Akobundu-Ehiogu"
-  },
-  {
-   "detail": "Trayvon Palmer  ~ team: Free Agent -> -",
-   "detected_at": "2026-08-13 03:15:42",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Trayvon_Palmer"
-  },
-  {
-   "detail": "Trayvon Palmer  ~ career_end: - -> 2024",
-   "detected_at": "2026-08-13 03:15:42",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Trayvon_Palmer"
-  },
-  {
-   "detail": "Miikka Muurinen  ~ league: Southeastern Conference -> SEC",
-   "detected_at": "2026-08-13 03:15:42",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Miikka_Muurinen"
-  },
-  {
-   "detail": "Miikka Muurinen  ~ position: Power forward / center -> Power forward",
-   "detected_at": "2026-08-13 03:15:42",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Miikka_Muurinen"
-  },
-  {
-   "detail": "Johnny Davis (basketball, born 2002)  ~ team: Glint Manisa Basket -> Glint Körfez Basket",
-   "detected_at": "2026-08-13 02:50:14",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Johnny_Davis_(basketball,_born_2002)"
-  },
-  {
-   "detail": "Johnny Davis (basketball, born 2002)  ~ CAREER  + 2026–present Körfez Basket",
-   "detected_at": "2026-08-13 02:50:14",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Johnny_Davis_(basketball,_born_2002)"
-  },
-  {
-   "detail": "Markel Starks  ~ team: Glint Manisa Basket -> Glint Körfez Basket",
-   "detected_at": "2026-08-13 02:50:14",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Markel_Starks"
-  },
-  {
-   "detail": "Markel Starks  ~ CAREER  + 2026–present Körfez Basket",
-   "detected_at": "2026-08-13 02:50:14",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Markel_Starks"
-  },
-  {
-   "detail": "Emir Gökalp  ~ team: Glint Manisa Basket -> Glint Körfez Basket",
-   "detected_at": "2026-08-13 02:50:14",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Emir_G%C3%B6kalp"
-  },
-  {
-   "detail": "Emir Gökalp  ~ CAREER  + 2025–present Körfez Basket",
-   "detected_at": "2026-08-13 02:50:14",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Emir_G%C3%B6kalp"
-  },
-  {
-   "detail": "Hassan Martin  ~ team: Glint Manisa Basket -> Glint Körfez Basket",
-   "detected_at": "2026-08-13 02:50:14",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Hassan_Martin"
-  },
-  {
-   "detail": "Hassan Martin  ~ CAREER  + 2025–present Körfez Basket",
-   "detected_at": "2026-08-13 02:50:14",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Hassan_Martin"
-  },
-  {
-   "detail": "Norbertas Giga  ~ team: BC Šilutė -> KK Jurbarkas-Karys",
-   "detected_at": "2026-08-13 02:26:17",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Norbertas_Giga"
-  },
-  {
-   "detail": "Norbertas Giga  ~ CAREER  + 2025 Al Wahda",
-   "detected_at": "2026-08-13 02:26:17",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Norbertas_Giga"
-  },
-  {
-   "detail": "Norbertas Giga  ~ CAREER  + 2025-2026 BC Šilutė",
-   "detected_at": "2026-08-13 02:26:17",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Norbertas_Giga"
-  },
-  {
-   "detail": "Norbertas Giga  ~ CAREER  + 2026 Colonias Gold Asuncion",
-   "detected_at": "2026-08-13 02:26:17",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Norbertas_Giga"
-  },
-  {
-   "detail": "Norbertas Giga  ~ CAREER  + 2026-present Jurbarkas-Karys",
-   "detected_at": "2026-08-13 02:26:17",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Norbertas_Giga"
-  },
-  {
-   "detail": "Adas Juškevičius  ~ team: Jurbarkas Karys -> KK Jurbarkas Karys",
-   "detected_at": "2026-08-13 01:41:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Adas_Ju%C5%A1kevi%C4%8Dius"
-  },
-  {
-   "detail": "Adas Juškevičius  ~ CAREER  + 2026-present Jurbarkas-Karys",
-   "detected_at": "2026-08-13 01:41:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Adas_Ju%C5%A1kevi%C4%8Dius"
-  },
-  {
-   "detail": "Vytenis Čižauskas  ~ team: Jurbarkas Karys -> KK Jurbarkas Karys",
-   "detected_at": "2026-08-13 01:41:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Vytenis_%C4%8Ci%C5%BEauskas"
-  },
-  {
-   "detail": "Vytenis Čižauskas  ~ CAREER  + 2026-present Jurbarkas-Karys",
-   "detected_at": "2026-08-13 01:41:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Vytenis_%C4%8Ci%C5%BEauskas"
-  },
-  {
-   "detail": "WNBA Minnesota Lynx 85, Portland Fire 81",
-   "detected_at": "2026-08-13 01:25:25",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-12/Minnesota-at-Portland/158581"
-  },
-  {
-   "detail": "Mexican LNBP Soles 87, Abejas 80",
-   "detected_at": "2026-08-13 01:25:21",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-12/Abejas-at-Soles/526091"
-  },
-  {
-   "detail": "Mexican LNBP + Tommy Nuno → Abejas",
-   "detected_at": "2026-08-13 01:25:18",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Mexican LNBP + Dragan Apic → Soles",
-   "detected_at": "2026-08-13 01:25:18",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Yannis Morin  ~ team: Free agent -> South East Melbourne Phoenix",
-   "detected_at": "2026-08-13 00:49:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Yannis_Morin"
-  },
-  {
-   "detail": "Yannis Morin  ~ league: - -> NBL",
-   "detected_at": "2026-08-13 00:49:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Yannis_Morin"
-  },
-  {
-   "detail": "Yannis Morin  ~ CAREER  + 2026–present South East Melbourne Phoenix",
-   "detected_at": "2026-08-13 00:49:38",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Yannis_Morin"
-  },
-  {
-   "detail": "Codi Miller-McIntyre  ~ number: - -> 10",
-   "detected_at": "2026-08-13 00:22:45",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Codi_Miller-McIntyre"
-  },
-  {
-   "detail": "Tyrus McGee  ~ height_ft: 6 -> -",
-   "detected_at": "2026-08-12 23:56:40",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Tyrus_McGee"
-  },
-  {
-   "detail": "Tyrus McGee  ~ height_in: 2 -> -",
-   "detected_at": "2026-08-12 23:56:40",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Tyrus_McGee"
-  },
-  {
-   "detail": "Tyrus McGee  ~ team: Rytas Vilnius -> Free Agent",
-   "detected_at": "2026-08-12 23:29:42",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Tyrus_McGee"
-  },
-  {
-   "detail": "Tyrus McGee  ~ league: LKL -> -",
-   "detected_at": "2026-08-12 23:29:42",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Tyrus_McGee"
-  },
-  {
-   "detail": "Tyrus McGee  ~ CAREER  + 2024–2025 Pallacanestro Cantù",
-   "detected_at": "2026-08-12 23:29:42",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Tyrus_McGee"
-  },
-  {
-   "detail": "Tyrus McGee  ~ CAREER  + 2025–2026 Scaligera Basket Verona",
-   "detected_at": "2026-08-12 23:29:42",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Tyrus_McGee"
-  },
-  {
-   "detail": "WNBA + Ashten Prechtel → Golden State Valkyries",
-   "detected_at": "2026-08-12 23:15:13",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "WNBA + Nadia Fingall → Golden State Valkyries",
-   "detected_at": "2026-08-12 23:15:13",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "WNBA + Juste Jocyte → Golden State Valkyries",
-   "detected_at": "2026-08-12 23:15:13",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "WNBA Golden State Valkyries 91, Chicago Sky 71",
-   "detected_at": "2026-08-12 23:15:13",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-12/Chicago-at-Golden-State/158580"
-  },
-  {
-   "detail": "Daeqwon Plowden  ~ height_in: 4 -> 6",
-   "detected_at": "2026-08-12 23:01:40",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Daeqwon_Plowden"
-  },
-  {
-   "detail": "Haywood Highsmith  ~ team: Phoenix Suns -> Free agent",
-   "detected_at": "2026-08-12 23:01:40",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Haywood_Highsmith"
-  },
-  {
-   "detail": "Haywood Highsmith  ~ league: NBA -> -",
-   "detected_at": "2026-08-12 23:01:40",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Haywood_Highsmith"
-  },
-  {
-   "detail": "Haywood Highsmith  ~ number: 19 -> -",
-   "detected_at": "2026-08-12 23:01:40",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Haywood_Highsmith"
-  },
-  {
-   "detail": "Haywood Highsmith  ~ CAREER  + Phoenix Suns",
-   "detected_at": "2026-08-12 23:01:40",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Haywood_Highsmith"
-  },
-  {
-   "detail": "WNBA + Ornella Bankole → Toronto Tempo",
-   "detected_at": "2026-08-12 22:13:09",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "WNBA Dallas Wings 94, Toronto Tempo 88",
-   "detected_at": "2026-08-12 22:13:09",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-12/Toronto-at-Dallas/158683"
-  },
-  {
-   "detail": "PBA Governors Cup San Miguel Beermen 144, Titan Ultra Giant 113",
-   "detected_at": "2026-08-12 22:13:05",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-12/San-Miguel-Beermen-at-Titan-Ultra-Giant/526231"
-  },
-  {
-   "detail": "Puerto Rican BSN Vaqueros de Bayamon 87, Santeros de Aguada 86",
-   "detected_at": "2026-08-12 22:13:02",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-12/Santeros-de-Aguada-at-Vaqueros-de-Bayamon/528492"
-  },
-  {
-   "detail": "Mexican LNBP Panteras de Aguascalientes 73, Lobos Plateados 69",
-   "detected_at": "2026-08-12 22:12:58",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-12/Lobos-Plateados-at-Panteras-de-Aguascalientes/526090"
-  },
-  {
-   "detail": "Mexican LNBP + Karim Rodriguez → Lobos Plateados",
-   "detected_at": "2026-08-12 22:12:57",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Mexican LNBP Astros de Jalisco 82, Santos de San Luis Potosi 57",
-   "detected_at": "2026-08-12 22:12:54",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-12/Santos-de-San-Luis-Potosi-at-Astros-de-Jalisco/526089"
-  },
-  {
-   "detail": "Mexican LNBP + Jasper Floyd → Astros de Jalisco",
-   "detected_at": "2026-08-12 22:12:53",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "PBA Governors Cup Magnolia Hotshots 115, Phoenix Fuel Masters 101",
-   "detected_at": "2026-08-12 22:12:50",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-12/Phoenix-Fuel-Masters-at-Magnolia-Hotshots/526232"
-  },
-  {
-   "detail": "PBA Governors Cup + Rafi Reavis → Phoenix Fuel Masters",
-   "detected_at": "2026-08-12 22:12:48",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Vladimír Brodziansky  ~ team: Fujian Sturgeons -> New Taipei CTBC DEA",
-   "detected_at": "2026-08-12 21:21:41",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Vladim%C3%ADr_Brodziansky"
-  },
-  {
-   "detail": "Vladimír Brodziansky  ~ league: CBA -> Taiwan Professional Basketball League",
-   "detected_at": "2026-08-12 21:21:41",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Vladim%C3%ADr_Brodziansky"
-  },
-  {
-   "detail": "Vladimír Brodziansky  ~ number: 8 -> 20",
-   "detected_at": "2026-08-12 21:21:41",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Vladim%C3%ADr_Brodziansky"
-  },
-  {
-   "detail": "Vladimír Brodziansky  ~ CAREER  + 2025–2026 Fujian Sturgeons",
-   "detected_at": "2026-08-12 21:21:41",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Vladim%C3%ADr_Brodziansky"
-  },
-  {
-   "detail": "Vladimír Brodziansky  ~ CAREER  + 2026–present New Taipei CTBC DEA",
-   "detected_at": "2026-08-12 21:21:41",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Vladim%C3%ADr_Brodziansky"
-  },
-  {
-   "detail": "Giannis Antetokounmpo  ~ CAREER  + –present Miami Heat",
-   "detected_at": "2026-08-12 17:58:43",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Giannis_Antetokounmpo"
-  },
-  {
-   "detail": "U18 AfroBasket Rwanda 88, Gabon 83",
-   "detected_at": "2026-08-12 17:42:46",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-12/Rwanda-at-Gabon/528934"
-  },
-  {
-   "detail": "U18 AfroBasket Nigeria 84, Morocco 76",
-   "detected_at": "2026-08-12 17:42:42",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-12/Nigeria-at-Morocco/528933"
-  },
-  {
-   "detail": "U16 Euro Championship A Italy 86, Israel 75",
-   "detected_at": "2026-08-12 17:42:38",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-12/Israel-at-Italy/526258"
-  },
-  {
-   "detail": "U16 Euro Championship A Lithuania 82, Germany 75",
-   "detected_at": "2026-08-12 17:42:32",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-12/Germany-at-Lithuania/526246"
-  },
-  {
-   "detail": "- REMOVED Haywood Highsmith (PHX)",
-   "detected_at": "2026-08-12 17:41:55",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "~ CHANGED Jalen Pickett  team: DEN -> LAC",
-   "detected_at": "2026-08-12 17:41:55",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "PHX  - REMOVED Highsmith, Haywood",
-   "detected_at": "2026-08-12 17:27:06",
-   "source": "SHEETS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "PHX  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 240231232.5 -> 237213074.5, col9: 753665257.4 -> 750647099.4",
-   "detected_at": "2026-08-12 17:27:06",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "PHX  CHANGED Players Under Contract  -  col3: 193597192 -> 190579034",
-   "detected_at": "2026-08-12 17:27:06",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "PHX  CHANGED Full Season Contracts  -  col3: 193597192 -> 190579034",
-   "detected_at": "2026-08-12 17:27:06",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "PHX  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 15 -> 14",
-   "detected_at": "2026-08-12 17:27:06",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "PHX  CHANGED Avg, Salary (Mean) (No 10-Day K's)  -  col6: 0 -> 1",
-   "detected_at": "2026-08-12 17:27:06",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col25: 16366242.52 -> 13348084.52",
-   "detected_at": "2026-08-12 17:27:06",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED 3rd Incremental Tax Bracket  -  col25: 27479333.88 -> 10879464.88",
-   "detected_at": "2026-08-12 17:27:06",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col25: 63010583.88 -> 46410714.88",
-   "detected_at": "2026-08-12 17:27:06",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "2026-08-12  LA Clippers signed guard Jalen Pickett to a Two-Way Contract.",
-   "detected_at": "2026-08-12 17:21:56",
-   "source": "TRANSACTIONS",
-   "type": "Signing"
-  },
-  {
-   "detail": "2026-08-12  Phoenix Suns waived forward Haywood Highsmith.",
-   "detected_at": "2026-08-12 17:21:56",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
-  },
-  {
-   "detail": "~ CHANGED Haywood Highsmith  school: Wheeling Jesuit -> Wheeling Jesuit ",
-   "detected_at": "2026-08-12 17:21:55",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Mike Tobey  ~ team: Free agent -> Scaligera Basket Verona",
-   "detected_at": "2026-08-12 15:53:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Mike_Tobey"
   }
  ],
  "feeds": {
@@ -10265,8 +10279,8 @@
    "last": "2026-08-24 23:32:06"
   },
   "SCORES": {
-   "count": 371,
-   "last": "2026-08-24 23:32:09"
+   "count": 372,
+   "last": "2026-08-25 08:50:45"
   },
   "SHEETS": {
    "count": 3464,
@@ -10277,10 +10291,10 @@
    "last": "2026-08-24 09:03:34"
   },
   "WIKI": {
-   "count": 1495,
-   "last": "2026-08-24 22:01:47"
+   "count": 1575,
+   "last": "2026-08-25 08:50:31"
   }
  },
- "generated_at": "2026-08-24T23:32:11",
- "total": 9414
+ "generated_at": "2026-08-25T09:04:01",
+ "total": 9495
 }
