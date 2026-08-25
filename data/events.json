@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Jarrett Allen  ~ weight_lb: - -> 243",
+   "detected_at": "2026-08-25 12:39:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jarrett_Allen"
+  },
+  {
    "detail": "K. J. McDaniels  ~ CAREER  + 2026 Erdenet Miners",
    "detected_at": "2026-08-25 11:53:46",
    "source": "WIKI",
@@ -10247,13 +10254,6 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Ethan_Thompson"
-  },
-  {
-   "detail": "Ethan Thompson  ~ CAREER  + 2025–present →Noblesville Boom",
-   "detected_at": "2026-08-13 06:45:16",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Ethan_Thompson"
   }
  ],
  "feeds": {
@@ -10290,10 +10290,10 @@
    "last": "2026-08-24 09:03:34"
   },
   "WIKI": {
-   "count": 1594,
-   "last": "2026-08-25 11:53:46"
+   "count": 1595,
+   "last": "2026-08-25 12:39:46"
   }
  },
- "generated_at": "2026-08-25T11:53:51",
- "total": 9515
+ "generated_at": "2026-08-25T12:39:47",
+ "total": 9516
 }
