@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Ethan Thompson  ~ height_in: 4 -> 5",
+   "detected_at": "2026-08-25 11:05:09",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Ethan_Thompson"
+  },
+  {
    "detail": "Georgios Tsalmpouris  ~ CAREER  + 2024–2026 Panionios",
    "detected_at": "2026-08-25 10:38:20",
    "source": "WIKI",
@@ -10247,13 +10254,6 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Mbaye_Ndiaye_(basketball)"
-  },
-  {
-   "detail": "Ivan Kharchenkov  ~ weight_lb: 220 -> 230",
-   "detected_at": "2026-08-13 05:26:44",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Ivan_Kharchenkov"
   }
  ],
  "feeds": {
@@ -10290,10 +10290,10 @@
    "last": "2026-08-24 09:03:34"
   },
   "WIKI": {
-   "count": 1581,
-   "last": "2026-08-25 10:38:20"
+   "count": 1582,
+   "last": "2026-08-25 11:05:09"
   }
  },
- "generated_at": "2026-08-25T10:38:21",
- "total": 9502
+ "generated_at": "2026-08-25T11:06:09",
+ "total": 9503
 }
