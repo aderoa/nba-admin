@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "WNBA Atlanta Dream 78, Los Angeles Sparks 71",
+   "detected_at": "2026-08-24 23:32:09",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-24/Atlanta-at-LA-Sparks/158610"
+  },
+  {
+   "detail": "WNBA + Miela Sowah → Golden State Valkyries",
+   "detected_at": "2026-08-24 23:32:06",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "WNBA Golden State Valkyries 80, Minnesota Lynx 66",
+   "detected_at": "2026-08-24 23:32:06",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-24/Golden-State-at-Minnesota/158609"
+  },
+  {
    "detail": "Jabari Parker  ~ height_in: 7 -> 8",
    "detected_at": "2026-08-24 22:01:47",
    "source": "WIKI",
@@ -10220,27 +10241,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Mike_Tobey"
-  },
-  {
-   "detail": "Mike Tobey  ~ league: - -> Lega Basket Serie A",
-   "detected_at": "2026-08-12 15:53:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Mike_Tobey"
-  },
-  {
-   "detail": "Mike Tobey  ~ CAREER  + 2026–present Scaligera Basket Verona",
-   "detected_at": "2026-08-12 15:53:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Mike_Tobey"
-  },
-  {
-   "detail": "Alex Reese  ~ team: - -> Manisa Basket",
-   "detected_at": "2026-08-12 15:53:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Alex_Reese"
   }
  ],
  "feeds": {
@@ -10261,12 +10261,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 82,
-   "last": "2026-08-23 22:02:47"
+   "count": 83,
+   "last": "2026-08-24 23:32:06"
   },
   "SCORES": {
-   "count": 369,
-   "last": "2026-08-24 09:12:08"
+   "count": 371,
+   "last": "2026-08-24 23:32:09"
   },
   "SHEETS": {
    "count": 3464,
@@ -10281,6 +10281,6 @@
    "last": "2026-08-24 22:01:47"
   }
  },
- "generated_at": "2026-08-24T22:01:48",
- "total": 9411
+ "generated_at": "2026-08-24T23:32:11",
+ "total": 9414
 }
