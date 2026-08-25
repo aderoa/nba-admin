@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Nick Weiler-Babb  ~ team: Crvena zvezda -> Crvena zvezda Meridianbet",
+   "detected_at": "2026-08-25 13:48:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Nick_Weiler-Babb"
+  },
+  {
+   "detail": "Nick Weiler-Babb  ~ position: Point guard / shooting guard -> Small forward / shooting guard",
+   "detected_at": "2026-08-25 13:48:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Nick_Weiler-Babb"
+  },
+  {
    "detail": "SAC  CHANGED DeRozan, DeMar  -  col3: 10000000.0 -> 3333333.3333333335, col4: - -> 3333333.3333333335, col5: - -> 3333333.3333333335",
    "detected_at": "2026-08-25 13:25:57",
    "source": "SHEETS",
@@ -10237,20 +10251,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/national/boxscore/2026-08-13/Slovakia-at-Ukraine/526303"
-  },
-  {
-   "detail": "U16 Euro Championship B Iceland 91, Montenegro 69",
-   "detected_at": "2026-08-13 06:57:09",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-13/Iceland-at-Montenegro/526291"
-  },
-  {
-   "detail": "Ethan Thompson  ~ team: Partizan Belgrade -> Indiana Pacers",
-   "detected_at": "2026-08-13 06:45:16",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Ethan_Thompson"
   }
  ],
  "feeds": {
@@ -10287,10 +10287,10 @@
    "last": "2026-08-24 09:03:34"
   },
   "WIKI": {
-   "count": 1595,
-   "last": "2026-08-25 12:39:46"
+   "count": 1597,
+   "last": "2026-08-25 13:48:46"
   }
  },
- "generated_at": "2026-08-25T13:26:00",
- "total": 9519
+ "generated_at": "2026-08-25T13:48:47",
+ "total": 9521
 }
