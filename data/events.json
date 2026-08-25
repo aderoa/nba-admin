@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "~ CHANGED Klay Thompson  number: 31 -> 11",
+   "detected_at": "2026-08-24 17:48:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "Shawn Dawson  ~ league: Liga Leumit -> Israeli Basketball Premier League",
    "detected_at": "2026-08-24 17:48:47",
    "source": "WIKI",
@@ -10235,13 +10241,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Moses_Brown_(basketball)"
-  },
-  {
-   "detail": "Moses Brown (basketball)  ~ league: LBA EuroCup -> CBA",
-   "detected_at": "2026-08-12 15:53:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Moses_Brown_(basketball)"
   }
  ],
  "feeds": {
@@ -10254,8 +10253,8 @@
    "last": "2026-08-21 07:57:31"
   },
   "PLAYERS": {
-   "count": 646,
-   "last": "2026-08-24 09:02:50"
+   "count": 647,
+   "last": "2026-08-24 17:48:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10282,6 +10281,6 @@
    "last": "2026-08-24 17:48:47"
   }
  },
- "generated_at": "2026-08-24T17:48:48",
- "total": 9403
+ "generated_at": "2026-08-24T17:49:01",
+ "total": 9404
 }
