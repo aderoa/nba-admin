@@ -1,6 +1,24 @@
 {
  "events": [
   {
+   "detail": "SAC  CHANGED DeRozan, DeMar  -  col3: 10000000.0 -> 3333333.3333333335, col4: - -> 3333333.3333333335, col5: - -> 3333333.3333333335",
+   "detected_at": "2026-08-25 13:25:57",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "SAC  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 217850435 -> 211183768.3, col4: 124293798 -> 127627131.3, col5: 51476261 -> 54809594.33",
+   "detected_at": "2026-08-25 13:25:57",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "SAC  CHANGED Waived Contracts  -  col3: 10000000 -> 3333333.333, col4: 0 -> 3333333.333, col5: 0 -> 3333333.333",
+   "detected_at": "2026-08-25 13:25:57",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "Jarrett Allen  ~ weight_lb: - -> 243",
    "detected_at": "2026-08-25 12:39:46",
    "source": "WIKI",
@@ -10233,27 +10251,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Ethan_Thompson"
-  },
-  {
-   "detail": "Ethan Thompson  ~ league: Serbian SuperLeague ABA League EuroLeague -> NBA",
-   "detected_at": "2026-08-13 06:45:16",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Ethan_Thompson"
-  },
-  {
-   "detail": "Ethan Thompson  ~ number: - -> 55",
-   "detected_at": "2026-08-13 06:45:16",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Ethan_Thompson"
-  },
-  {
-   "detail": "Ethan Thompson  ~ CAREER  + –present Indiana Pacers",
-   "detected_at": "2026-08-13 06:45:16",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Ethan_Thompson"
   }
  ],
  "feeds": {
@@ -10282,8 +10279,8 @@
    "last": "2026-08-25 08:50:45"
   },
   "SHEETS": {
-   "count": 3465,
-   "last": "2026-08-25 10:16:58"
+   "count": 3468,
+   "last": "2026-08-25 13:25:57"
   },
   "TRANSACTIONS": {
    "count": 286,
@@ -10294,6 +10291,6 @@
    "last": "2026-08-25 12:39:46"
   }
  },
- "generated_at": "2026-08-25T12:39:47",
- "total": 9516
+ "generated_at": "2026-08-25T13:26:00",
+ "total": 9519
 }
