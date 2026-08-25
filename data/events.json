@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "Luxury Tax Calculator  CHANGED Incremental Tax Bracket Amount  -  col3: - -> 200428000.0",
+   "detected_at": "2026-08-25 10:16:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "Guerschon Yabusele  ~ height_in: 7 -> 8",
    "detected_at": "2026-08-25 10:11:20",
    "source": "WIKI",
@@ -10248,13 +10254,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Jeff_Adrien"
-  },
-  {
-   "detail": "Jeff Adrien  ~ number: 40 -> -",
-   "detected_at": "2026-08-13 04:32:42",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jeff_Adrien"
   }
  ],
  "feeds": {
@@ -10283,8 +10282,8 @@
    "last": "2026-08-25 08:50:45"
   },
   "SHEETS": {
-   "count": 3464,
-   "last": "2026-08-24 12:42:58"
+   "count": 3465,
+   "last": "2026-08-25 10:16:58"
   },
   "TRANSACTIONS": {
    "count": 286,
@@ -10295,6 +10294,6 @@
    "last": "2026-08-25 10:11:20"
   }
  },
- "generated_at": "2026-08-25T10:11:20",
- "total": 9499
+ "generated_at": "2026-08-25T10:17:00",
+ "total": 9500
 }
