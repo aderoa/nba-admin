@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Jabari Parker  ~ height_in: 7 -> 8",
+   "detected_at": "2026-08-24 22:01:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jabari_Parker"
+  },
+  {
+   "detail": "Lachlan Olbrich  ~ number: - -> 18",
+   "detected_at": "2026-08-24 22:01:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Lachlan_Olbrich"
+  },
+  {
    "detail": "Augustine Rubit  ~ team: Unicaja -> Maccabi Ashdod",
    "detected_at": "2026-08-24 19:20:48",
    "source": "WIKI",
@@ -10227,20 +10241,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Alex_Reese"
-  },
-  {
-   "detail": "Alex Reese  ~ league: - -> Basketbol Süper Ligi",
-   "detected_at": "2026-08-12 15:53:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Alex_Reese"
-  },
-  {
-   "detail": "Alex Reese  ~ CAREER  + 2026–present Manisa Basket",
-   "detected_at": "2026-08-12 15:53:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Alex_Reese"
   }
  ],
  "feeds": {
@@ -10277,10 +10277,10 @@
    "last": "2026-08-24 09:03:34"
   },
   "WIKI": {
-   "count": 1493,
-   "last": "2026-08-24 19:20:48"
+   "count": 1495,
+   "last": "2026-08-24 22:01:47"
   }
  },
- "generated_at": "2026-08-24T19:20:49",
- "total": 9409
+ "generated_at": "2026-08-24T22:01:48",
+ "total": 9411
 }
