@@ -1,6 +1,61 @@
 {
  "events": [
   {
+   "detail": "2026-08-25  Golden State Warriors signed forward Georges Niang to a Contract.",
+   "detected_at": "2026-08-26 15:21:55",
+   "source": "TRANSACTIONS",
+   "type": "Signing"
+  },
+  {
+   "detail": "Melvin Ajinça  ~ CAREER  + 2024–2026 ASVEL",
+   "detected_at": "2026-08-26 15:20:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Melvin_Ajin%C3%A7a"
+  },
+  {
+   "detail": "Daniel Rosenbaum  ~ team: Hapoel Eilat -> Hapoel Ironi Eilat",
+   "detected_at": "2026-08-26 15:20:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Daniel_Rosenbaum"
+  },
+  {
+   "detail": "Daniel Rosenbaum  ~ CAREER  + 2026–present Hapoel Ironi Eilat",
+   "detected_at": "2026-08-26 15:20:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Daniel_Rosenbaum"
+  },
+  {
+   "detail": "Yuval Sznajderman  ~ team: Hapoel Eilat -> Hapoel Ironi Eilat",
+   "detected_at": "2026-08-26 15:20:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Yuval_Sznajderman"
+  },
+  {
+   "detail": "Yuval Sznajderman  ~ CAREER  + 2026–present Hapoel Ironi Eilat",
+   "detected_at": "2026-08-26 15:20:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Yuval_Sznajderman"
+  },
+  {
+   "detail": "Javontae Hawkins  ~ team: Hapoel Eilat -> Hapoel Ironi Eilat",
+   "detected_at": "2026-08-26 15:20:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Javontae_Hawkins"
+  },
+  {
+   "detail": "Javontae Hawkins  ~ CAREER  + 2026–present Hapoel Ironi Eilat",
+   "detected_at": "2026-08-26 15:20:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Javontae_Hawkins"
+  },
+  {
    "detail": "Javon Freeman-Liberty  ~ team: Bursaspor -> Bursaspor Basketbol",
    "detected_at": "2026-08-26 14:57:47",
    "source": "WIKI",
@@ -10211,62 +10266,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-08-14/NLEX-Road-Warriors-at-Converge-Fiber-Xers/526233"
-  },
-  {
-   "detail": "PBA Governors Cup + Brandon Ramirez → NLEX Road Warriors",
-   "detected_at": "2026-08-14 19:59:36",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "PBA Governors Cup + Dominick Fajardo → NLEX Road Warriors",
-   "detected_at": "2026-08-14 19:59:36",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "PBA Governors Cup ~ MOVED Christopher Banchero → Converge Fiber Xers (from Meralco Bolts)",
-   "detected_at": "2026-08-14 19:59:36",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
-  },
-  {
-   "detail": "Dennis Schröder  ~ CAREER  + 2024 Brooklyn Nets",
-   "detected_at": "2026-08-14 18:51:41",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Dennis_Schr%C3%B6der"
-  },
-  {
-   "detail": "Tre Mann  ~ team: Cleveland Cavaliers -> Charlotte Hornets",
-   "detected_at": "2026-08-14 18:51:41",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Tre_Mann"
-  },
-  {
-   "detail": "Tre Mann  ~ number: 2 -> 23",
-   "detected_at": "2026-08-14 18:51:41",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Tre_Mann"
-  },
-  {
-   "detail": "Deonte Burton (basketball, born 1994)  ~ team: Free agent -> NLEX Road Warriors",
-   "detected_at": "2026-08-14 16:56:42",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Deonte_Burton_(basketball,_born_1994)"
-  },
-  {
-   "detail": "Deonte Burton (basketball, born 1994)  ~ league: - -> PBA",
-   "detected_at": "2026-08-14 16:56:42",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Deonte_Burton_(basketball,_born_1994)"
   }
  ],
  "feeds": {
@@ -10299,18 +10298,18 @@
    "last": "2026-08-25 13:25:57"
   },
   "TRANSACTIONS": {
-   "count": 286,
-   "last": "2026-08-24 09:03:34"
+   "count": 287,
+   "last": "2026-08-26 15:21:55"
   },
   "WIKI": {
-   "count": 1727,
-   "last": "2026-08-26 14:57:47"
+   "count": 1734,
+   "last": "2026-08-26 15:20:47"
   },
   "WIKIWATCH": {
    "count": 4,
    "last": "2026-08-25 12:00:00"
   }
  },
- "generated_at": "2026-08-26T14:59:01",
- "total": 9674
+ "generated_at": "2026-08-26T15:22:01",
+ "total": 9682
 }
