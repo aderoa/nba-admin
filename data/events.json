@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Dusty Hannahs  ~ number: 3 -> 9",
+   "detected_at": "2026-08-26 10:13:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Dusty_Hannahs"
+  },
+  {
    "detail": "Paul Watson (basketball)  ~ team: Memphis Hustle -> Roma SPQR",
    "detected_at": "2026-08-26 09:50:48",
    "source": "WIKI",
@@ -10250,13 +10257,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/national/boxscore/2026-08-14/Bulgaria-at-Ukraine/526311"
-  },
-  {
-   "detail": "U18 Asia Cup A South Korea 95, Kazakhstan 68",
-   "detected_at": "2026-08-14 10:48:51",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-14/Kazakhstan-at-South-Korea/528529"
   }
  ],
  "feeds": {
@@ -10293,14 +10293,14 @@
    "last": "2026-08-24 09:03:34"
   },
   "WIKI": {
-   "count": 1681,
-   "last": "2026-08-26 09:50:48"
+   "count": 1682,
+   "last": "2026-08-26 10:13:46"
   },
   "WIKIWATCH": {
    "count": 4,
    "last": "2026-08-25 12:00:00"
   }
  },
- "generated_at": "2026-08-26T09:52:02",
- "total": 9628
+ "generated_at": "2026-08-26T10:13:47",
+ "total": 9629
 }
