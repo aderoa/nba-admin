@@ -1,6 +1,139 @@
 {
  "events": [
   {
+   "detail": "WNBA + Maddy Westbeld → Phoenix Mercury",
+   "detected_at": "2026-08-26 01:24:26",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "WNBA Washington Mystics 94, Phoenix Mercury 84",
+   "detected_at": "2026-08-26 01:24:26",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-25/Washington-at-Phoenix/158613"
+  },
+  {
+   "detail": "WNBA + Amy Okonkwo → Portland Fire",
+   "detected_at": "2026-08-26 01:24:23",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "WNBA Dallas Wings 96, Portland Fire 78",
+   "detected_at": "2026-08-26 01:24:23",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-25/Portland-at-Dallas/158612"
+  },
+  {
+   "detail": "WNBA Connecticut Sun 87, Chicago Sky 81",
+   "detected_at": "2026-08-26 01:24:21",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-25/Chicago-at-Connecticut/158611"
+  },
+  {
+   "detail": "Mexican LNBP Mineros de Zacatecas 98, Panteras de Aguascalientes 78",
+   "detected_at": "2026-08-26 01:24:17",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-25/Panteras-de-Aguascalientes-at-Mineros-de-Zacatecas/526544"
+  },
+  {
+   "detail": "Mexican LNBP ~ MOVED Christian Negron → Panteras de Aguascalientes (from Leones de Ponce)",
+   "detected_at": "2026-08-26 01:24:15",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Mexican LNBP Dorados de Chihuahua 102, Santos de San Luis Potosi 94",
+   "detected_at": "2026-08-26 01:24:12",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-25/Dorados-de-Chihuahua-at-Santos-de-San-Luis-Potosi/526543"
+  },
+  {
+   "detail": "Mexican LNBP + Yusuf Mohamed → Dorados de Chihuahua",
+   "detected_at": "2026-08-26 01:24:10",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Mexican LNBP + Nick Ward → Santos de San Luis Potosi",
+   "detected_at": "2026-08-26 01:24:10",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Mexican LNBP Fuerza Regia 91, Lobos Plateados 90",
+   "detected_at": "2026-08-26 01:24:08",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-25/Fuerza-Regia-at-Lobos-Plateados/526542"
+  },
+  {
+   "detail": "Mexican LNBP + Davon Jefferson → Lobos Plateados",
+   "detected_at": "2026-08-26 01:24:05",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Mexican LNBP Gambusinos 87, Freseros Irapuato 84",
+   "detected_at": "2026-08-26 01:24:03",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-25/Freseros-Irapuato-at-Gambusinos/526541"
+  },
+  {
+   "detail": "Mexican LNBP + Tyler Millin → Freseros Irapuato",
+   "detected_at": "2026-08-26 01:24:00",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Mexican LNBP + Charles Mitchell → Gambusinos",
+   "detected_at": "2026-08-26 01:24:00",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Mexican LNBP Diablos Rojos 75, Abejas 73",
+   "detected_at": "2026-08-26 01:23:58",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-25/Diablos-Rojos-at-Abejas/526540"
+  },
+  {
+   "detail": "Mexican LNBP + Justin Moss → Diablos Rojos",
+   "detected_at": "2026-08-26 01:23:56",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Mexican LNBP + Chris Payton → Abejas",
+   "detected_at": "2026-08-26 01:23:56",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Mexican LNBP Correcaminos 78, Soles 74",
+   "detected_at": "2026-08-26 01:23:53",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-25/Soles-at-Correcaminos/526538"
+  },
+  {
    "detail": "Georges Niang  ~ number: - -> 32",
    "detected_at": "2026-08-25 18:50:46",
    "source": "WIKI",
@@ -10124,139 +10257,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Fatts_Russell"
-  },
-  {
-   "detail": "Fatts Russell  ~ league: Liga Națională ABA League EuroCup -> BSL EuroLeague",
-   "detected_at": "2026-08-14 02:41:49",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Fatts_Russell"
-  },
-  {
-   "detail": "Fatts Russell  ~ number: 11 -> -",
-   "detected_at": "2026-08-14 02:41:49",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Fatts_Russell"
-  },
-  {
-   "detail": "Fatts Russell  ~ CAREER  + 2025–2026 U-BT Cluj-Napoca",
-   "detected_at": "2026-08-14 02:41:49",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Fatts_Russell"
-  },
-  {
-   "detail": "Fatts Russell  ~ CAREER  + 2026-present Anadolu Efes",
-   "detected_at": "2026-08-14 02:41:49",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Fatts_Russell"
-  },
-  {
-   "detail": "Aleksandar Cvetković (basketball)  ~ team: Real Betis -> -",
-   "detected_at": "2026-08-14 02:05:49",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Aleksandar_Cvetkovi%C4%87_(basketball)"
-  },
-  {
-   "detail": "Aleksandar Cvetković (basketball)  ~ league: LEB Oro -> -",
-   "detected_at": "2026-08-14 02:05:49",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Aleksandar_Cvetkovi%C4%87_(basketball)"
-  },
-  {
-   "detail": "Aleksandar Cvetković (basketball)  ~ number: 4 -> -",
-   "detected_at": "2026-08-14 02:05:49",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Aleksandar_Cvetkovi%C4%87_(basketball)"
-  },
-  {
-   "detail": "Aleksandar Cvetković (basketball)  ~ CAREER  + 2024–2025 Real Betis",
-   "detected_at": "2026-08-14 02:05:49",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Aleksandar_Cvetkovi%C4%87_(basketball)"
-  },
-  {
-   "detail": "Aleksandar Cvetković (basketball)  ~ CAREER  + 2025–2026 Mladost Maxbet",
-   "detected_at": "2026-08-14 02:05:49",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Aleksandar_Cvetkovi%C4%87_(basketball)"
-  },
-  {
-   "detail": "Patrick Beverley  ~ team: Free agent -> Boulazac Basket Dordogne",
-   "detected_at": "2026-08-14 00:45:51",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Patrick_Beverley"
-  },
-  {
-   "detail": "Patrick Beverley  ~ league: - -> LNB Élite",
-   "detected_at": "2026-08-14 00:45:51",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Patrick_Beverley"
-  },
-  {
-   "detail": "Patrick Beverley  ~ CAREER  + 2026–present Boulazac Basket Dordogne",
-   "detected_at": "2026-08-14 00:45:51",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Patrick_Beverley"
-  },
-  {
-   "detail": "Tony Wroten  ~ CAREER  + 2026 BK Vejen",
-   "detected_at": "2026-08-13 23:57:51",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Tony_Wroten"
-  },
-  {
-   "detail": "WNBA Las Vegas Aces 83, Washington Mystics 76",
-   "detected_at": "2026-08-13 23:44:18",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-13/Washington-at-Las-Vegas/158584"
-  },
-  {
-   "detail": "WNBA New York Liberty 85, Los Angeles Sparks 81",
-   "detected_at": "2026-08-13 23:44:15",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-13/LA-Sparks-at-New-York/158583"
-  },
-  {
-   "detail": "WNBA Atlanta Dream 104, Connecticut Sun 69",
-   "detected_at": "2026-08-13 23:44:12",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-13/Atlanta-at-Connecticut/158582"
-  },
-  {
-   "detail": "James Blackmon Jr.  ~ team: Free Agent -> BC Tauragė",
-   "detected_at": "2026-08-13 23:32:48",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/James_Blackmon_Jr."
-  },
-  {
-   "detail": "James Blackmon Jr.  ~ league: - -> Lithuanian Basketball League",
-   "detected_at": "2026-08-13 23:32:48",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/James_Blackmon_Jr."
-  },
-  {
-   "detail": "James Blackmon Jr.  ~ CAREER  + 2026-present BC Tauragė",
-   "detected_at": "2026-08-13 23:32:48",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/James_Blackmon_Jr."
   }
  ],
  "feeds": {
@@ -10277,12 +10277,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 83,
-   "last": "2026-08-24 23:32:06"
+   "count": 93,
+   "last": "2026-08-26 01:24:26"
   },
   "SCORES": {
-   "count": 372,
-   "last": "2026-08-25 08:50:45"
+   "count": 381,
+   "last": "2026-08-26 01:24:26"
   },
   "SHEETS": {
    "count": 3468,
@@ -10301,6 +10301,6 @@
    "last": "2026-08-25 12:00:00"
   }
  },
- "generated_at": "2026-08-25T20:08:02",
- "total": 9577
+ "generated_at": "2026-08-26T01:24:27",
+ "total": 9596
 }
