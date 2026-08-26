@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "~ CHANGED Bryce Hopkins  school: St. John's, N.Y. -> St. John's",
+   "detected_at": "2026-08-26 16:56:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "Jarron Cumberland  ~ league: Israeli Basketball Premier League -> Liga Leumit",
    "detected_at": "2026-08-26 16:52:48",
    "source": "WIKI",
@@ -10252,13 +10258,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/national/boxscore/2026-08-15/Czechia-at-Italy/526262"
-  },
-  {
-   "detail": "U16 Euro Championship A Slovenia 67, Georgia 66",
-   "detected_at": "2026-08-15 10:25:09",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-15/Slovenia-at-Georgia/526266"
   }
  ],
  "feeds": {
@@ -10271,8 +10270,8 @@
    "last": "2026-08-21 07:57:31"
   },
   "PLAYERS": {
-   "count": 651,
-   "last": "2026-08-26 15:50:55"
+   "count": 652,
+   "last": "2026-08-26 16:56:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10303,6 +10302,6 @@
    "last": "2026-08-25 12:00:00"
   }
  },
- "generated_at": "2026-08-26T16:54:02",
- "total": 9712
+ "generated_at": "2026-08-26T16:57:01",
+ "total": 9713
 }
