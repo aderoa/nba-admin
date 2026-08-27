@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Antoine Eito  ~ number: 11 -> 8",
+   "detected_at": "2026-08-27 10:47:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Antoine_Eito"
+  },
+  {
    "detail": "Luxury Tax Calculator  CHANGED Incremental Tax Bracket Amount  -  col3: 200428000.0 -> -",
    "detected_at": "2026-08-27 10:33:59",
    "source": "SHEETS",
@@ -10243,13 +10250,6 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Kevin_Pangos"
-  },
-  {
-   "detail": "Jahlil Okafor  ~ nationality: Nigerian / American -> -",
-   "detected_at": "2026-08-15 14:15:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jahlil_Okafor"
   }
  ],
  "feeds": {
@@ -10286,14 +10286,14 @@
    "last": "2026-08-26 18:04:55"
   },
   "WIKI": {
-   "count": 1785,
-   "last": "2026-08-27 08:03:58"
+   "count": 1786,
+   "last": "2026-08-27 10:47:47"
   },
   "WIKIWATCH": {
    "count": 9,
    "last": "2026-08-27 10:29:12"
   }
  },
- "generated_at": "2026-08-27T10:34:07",
- "total": 9757
+ "generated_at": "2026-08-27T10:47:48",
+ "total": 9758
 }
