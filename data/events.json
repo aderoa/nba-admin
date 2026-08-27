@@ -1,6 +1,42 @@
 {
  "events": [
   {
+   "detail": "DAL  - REMOVED Williams, Brandon",
+   "detected_at": "2026-08-27 11:19:58",
+   "source": "SHEETS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "DAL  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 231832383.8 -> 229382962.8, col9: 565492756.7 -> 563043335.7",
+   "detected_at": "2026-08-27 11:19:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "DAL  CHANGED Cap Holds  -  col3: 26305972.8 -> 23856551.8",
+   "detected_at": "2026-08-27 11:19:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "GOS  + ADDED  Williams, Brandon",
+   "detected_at": "2026-08-27 11:19:58",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED Update 1.3 (7/18/26): B. Beal, D. Brooks, K. Bufkin, K. Caldwell-Pope, M. Cisse, I. Crawford, D. Green, M. Hezonja, H. Highsmith, C. Houstan, H. Ingram, A. Jackson, L. James, S. Jones, Y. Kawamura, C. Koloko, N. Marshall, D. Melton, G. Niang, G. Payton, T. Peter, J. Phillips, M. Smith, J. Sochan, J. Tate, K. Thompson, M. Thybulle, O. Tshiebwe, M. Wagner, J. Walsh, T. Watford, P. Watson",
+   "detected_at": "2026-08-27 11:19:55",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Update 1.3 (7/18/26): B. Beal, D. Brooks, K. Bufkin, K. Caldwell-Pope, M. Cisse, I. Crawford, D. Green, M. Hezonja, H. Highsmith, C. Houstan, H. Ingram, A. Jackson, L. James, S. Jones, Y. Kawamura, C. Koloko, N. Marshall, D. Melton, G. Niang, G. Payton, T. Peter, J. Phillips, M. Smith, J. Sochan, J. Tate, K. Thompson, M. Thybulle, O. Tshiebwe, M. Wagner, J. Walsh, T. Watford, P. Watson, B. Williams",
+   "detected_at": "2026-08-27 11:19:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "GOS  CHANGED Niang, Georges  -  TEAM SALARY CAP REPORT\n       -  GOLDEN STATE WARRIORS: - -> 1 - FULL SEASON, col3: - -> 2449421.0, col9: 0 -> 2449421",
    "detected_at": "2026-08-27 11:18:59",
    "source": "SHEETS",
@@ -10175,54 +10211,12 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Laurynas_Beliauskas"
-  },
-  {
-   "detail": "Matas Jogėla  ~ number: - -> 23",
-   "detected_at": "2026-08-16 09:39:30",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Matas_Jog%C4%97la"
-  },
-  {
-   "detail": "Martynas Echodas  ~ league: LKL -> LKL EuroCup",
-   "detected_at": "2026-08-16 09:39:30",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Martynas_Echodas"
-  },
-  {
-   "detail": "Einaras Tubutis  ~ league: LKL -> LKL EuroCup",
-   "detected_at": "2026-08-16 09:39:30",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Einaras_Tubutis"
-  },
-  {
-   "detail": "Elvar Már Friðriksson  ~ league: LKL -> LKL EuroCup",
-   "detected_at": "2026-08-16 09:39:30",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Elvar_M%C3%A1r_Fri%C3%B0riksson"
-  },
-  {
-   "detail": "Martynas Paliukėnas  ~ league: LKL -> LKL BCL",
-   "detected_at": "2026-08-16 09:39:30",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Martynas_Paliuk%C4%97nas"
-  },
-  {
-   "detail": "Augustas Marčiulionis  ~ league: LKL -> LKL BCL",
-   "detected_at": "2026-08-16 09:39:30",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Augustas_Mar%C4%8Diulionis"
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 2118,
-   "last": "2026-08-27 11:18:56"
+   "count": 2120,
+   "last": "2026-08-27 11:19:55"
   },
   "GLEAGUE": {
    "count": 19,
@@ -10245,8 +10239,8 @@
    "last": "2026-08-27 08:04:06"
   },
   "SHEETS": {
-   "count": 3486,
-   "last": "2026-08-27 11:18:59"
+   "count": 3490,
+   "last": "2026-08-27 11:19:58"
   },
   "TRANSACTIONS": {
    "count": 291,
@@ -10261,6 +10255,6 @@
    "last": "2026-08-27 10:29:12"
   }
  },
- "generated_at": "2026-08-27T11:19:03",
- "total": 9791
+ "generated_at": "2026-08-27T11:20:00",
+ "total": 9797
 }
