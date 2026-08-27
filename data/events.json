@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "+ ADDED   Tristen Newton (HOU)",
+   "detected_at": "2026-08-26 18:53:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
    "detail": "- REMOVED Tristen Newton (HOU)",
    "detected_at": "2026-08-26 18:52:54",
    "source": "PLAYERS",
@@ -10249,13 +10255,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Lovro_Gnjidi%C4%87"
-  },
-  {
-   "detail": "Lovro Gnjidić  ~ CAREER  + 2025–2026 Dubrava",
-   "detected_at": "2026-08-15 10:47:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Lovro_Gnjidi%C4%87"
   }
  ],
  "feeds": {
@@ -10268,8 +10267,8 @@
    "last": "2026-08-21 07:57:31"
   },
   "PLAYERS": {
-   "count": 653,
-   "last": "2026-08-26 18:52:54"
+   "count": 654,
+   "last": "2026-08-26 18:53:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10300,6 +10299,6 @@
    "last": "2026-08-25 12:00:00"
   }
  },
- "generated_at": "2026-08-26T18:53:02",
- "total": 9725
+ "generated_at": "2026-08-26T18:54:01",
+ "total": 9726
 }
