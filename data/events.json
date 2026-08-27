@@ -1,6 +1,48 @@
 {
  "events": [
   {
+   "detail": "2026-27 Veteran Signings  - REMOVED Georges Niang Golde",
+   "detected_at": "2026-08-27 11:17:55",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Georges Niang Golden State Warriors",
+   "detected_at": "2026-08-27 11:17:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED Minimum Salary Exception. Skill; Injury or Illness; Death. Love of the Game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-08-27 11:17:55",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED Execution Date: 7/6/26",
+   "detected_at": "2026-08-27 11:17:55",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Minimum Salary Exception. Skill; Injury or Illness. Compensation protection for 2026-27 Season is for $1,838,009. Prior Injury Exclusion",
+   "detected_at": "2026-08-27 11:17:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Love of the Game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-08-27 11:17:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 8/25/26",
+   "detected_at": "2026-08-27 11:17:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "GOS  + ADDED  Niang, Georges",
    "detected_at": "2026-08-27 11:16:58",
    "source": "SHEETS",
@@ -10188,61 +10230,12 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Luca_Ille%C8%99"
-  },
-  {
-   "detail": "Luca Illeș  ~ league: KLS ABA League EuroLeague -> Liga Națională ABA League EuroCup",
-   "detected_at": "2026-08-16 09:39:30",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Luca_Ille%C8%99"
-  },
-  {
-   "detail": "Luca Illeș  ~ number: 24 -> -",
-   "detected_at": "2026-08-16 09:39:30",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Luca_Ille%C8%99"
-  },
-  {
-   "detail": "Luca Illeș  ~ CAREER  + 2026–present →U-BT Cluj-Napoca",
-   "detected_at": "2026-08-16 09:39:30",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Luca_Ille%C8%99"
-  },
-  {
-   "detail": "Luca Illeș  ~ number: 25 -> 24",
-   "detected_at": "2026-08-16 04:00:03",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Luca_Ille%C8%99"
-  },
-  {
-   "detail": "Chris Jones (basketball, born 1991)  ~ team: - -> Santos del Potosí",
-   "detected_at": "2026-08-16 00:51:48",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Chris_Jones_(basketball,_born_1991)"
-  },
-  {
-   "detail": "Chris Jones (basketball, born 1991)  ~ league: - -> Liga Nacional de Baloncesto Profesional",
-   "detected_at": "2026-08-16 00:51:48",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Chris_Jones_(basketball,_born_1991)"
-  },
-  {
-   "detail": "Chris Jones (basketball, born 1991)  ~ number: - -> 3",
-   "detected_at": "2026-08-16 00:51:48",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Chris_Jones_(basketball,_born_1991)"
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 2108,
-   "last": "2026-08-27 11:16:55"
+   "count": 2115,
+   "last": "2026-08-27 11:17:55"
   },
   "GLEAGUE": {
    "count": 19,
@@ -10281,6 +10274,6 @@
    "last": "2026-08-27 10:29:12"
   }
  },
- "generated_at": "2026-08-27T11:17:01",
- "total": 9771
+ "generated_at": "2026-08-27T11:18:00",
+ "total": 9778
 }
