@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Jordan McRae  ~ weight_lb: 179 -> 180",
+   "detected_at": "2026-08-27 15:00:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jordan_McRae"
+  },
+  {
+   "detail": "Jordan McRae  ~ CAREER  + 2017–2018 Saski Baskonia",
+   "detected_at": "2026-08-27 15:00:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Jordan_McRae"
+  },
+  {
    "detail": "Ignas Brazdeikis  ~ number: - -> 8",
    "detected_at": "2026-08-27 14:37:48",
    "source": "WIKI",
@@ -10166,20 +10180,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Stefan_Lazarevi%C4%87_(basketball)"
-  },
-  {
-   "detail": "Stefan Lazarević (basketball)  ~ CAREER  + 2014–2024 Crvena zvezda",
-   "detected_at": "2026-08-16 16:38:49",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Stefan_Lazarevi%C4%87_(basketball)"
-  },
-  {
-   "detail": "Stefan Lazarević (basketball)  ~ CAREER  + 2014–2017 2018–2021 →FMP",
-   "detected_at": "2026-08-16 16:38:49",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Stefan_Lazarevi%C4%87_(basketball)"
   }
  ],
  "feeds": {
@@ -10216,14 +10216,14 @@
    "last": "2026-08-27 12:52:55"
   },
   "WIKI": {
-   "count": 1798,
-   "last": "2026-08-27 14:37:48"
+   "count": 1800,
+   "last": "2026-08-27 15:00:47"
   },
   "WIKIWATCH": {
    "count": 9,
    "last": "2026-08-27 10:29:12"
   }
  },
- "generated_at": "2026-08-27T14:37:49",
- "total": 9848
+ "generated_at": "2026-08-27T15:00:48",
+ "total": 9850
 }
