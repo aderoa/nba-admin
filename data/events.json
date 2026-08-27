@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "2026-08-27  Miami Heat signed center Nick Richards to a Contract.",
+   "detected_at": "2026-08-27 12:52:55",
+   "source": "TRANSACTIONS",
+   "type": "Signing"
+  },
+  {
    "detail": "European World Cup Qualifier Hungary 85, Estonia 67",
    "detected_at": "2026-08-27 12:20:03",
    "source": "SCORES",
@@ -10180,13 +10186,6 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Dalibor_Ili%C4%87"
-  },
-  {
-   "detail": "Mitar Bošnjaković  ~ team: U-BT Cluj-Napoca -> Free agent",
-   "detected_at": "2026-08-16 15:52:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Mitar_Bo%C5%A1njakovi%C4%87"
   }
  ],
  "feeds": {
@@ -10219,8 +10218,8 @@
    "last": "2026-08-27 11:22:58"
   },
   "TRANSACTIONS": {
-   "count": 291,
-   "last": "2026-08-26 18:04:55"
+   "count": 292,
+   "last": "2026-08-27 12:52:55"
   },
   "WIKI": {
    "count": 1786,
@@ -10231,6 +10230,6 @@
    "last": "2026-08-27 10:29:12"
   }
  },
- "generated_at": "2026-08-27T12:20:04",
- "total": 9829
+ "generated_at": "2026-08-27T12:53:00",
+ "total": 9830
 }
