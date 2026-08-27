@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "Luxury Tax Calculator  CHANGED Incremental Tax Bracket Amount  -  col3: 200428000.0 -> -",
+   "detected_at": "2026-08-27 10:33:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "Wikipedia says Terquavion Smith has signed for Shenzhen Leopards",
    "detected_at": "2026-08-27 10:29:12",
    "source": "WIKIWATCH",
@@ -10244,13 +10250,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Jahlil_Okafor"
-  },
-  {
-   "detail": "Jahlil Okafor  ~ CAREER  + 2024–2025 Capitanes de Arecibo",
-   "detected_at": "2026-08-15 14:15:46",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Jahlil_Okafor"
   }
  ],
  "feeds": {
@@ -10279,8 +10278,8 @@
    "last": "2026-08-27 08:04:06"
   },
   "SHEETS": {
-   "count": 3468,
-   "last": "2026-08-25 13:25:57"
+   "count": 3469,
+   "last": "2026-08-27 10:33:59"
   },
   "TRANSACTIONS": {
    "count": 291,
@@ -10295,6 +10294,6 @@
    "last": "2026-08-27 10:29:12"
   }
  },
- "generated_at": "2026-08-27T10:30:04",
- "total": 9756
+ "generated_at": "2026-08-27T10:34:07",
+ "total": 9757
 }
