@@ -1,6 +1,84 @@
 {
  "events": [
   {
+   "detail": "GOS  CHANGED Niang, Georges  -  TEAM SALARY CAP REPORT\n       -  GOLDEN STATE WARRIORS: - -> 1 - FULL SEASON, col3: - -> 2449421.0, col9: 0 -> 2449421",
+   "detected_at": "2026-08-27 11:18:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "GOS  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 246989147.3 -> 249438568.3, col9: 331583948.7 -> 334033369.7",
+   "detected_at": "2026-08-27 11:18:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "GOS  CHANGED Players Under Contract  -  col3: 215939589.3 -> 218389010.3",
+   "detected_at": "2026-08-27 11:18:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "GOS  CHANGED Full Season Contracts  -  col3: 215939589.3 -> 218389010.3",
+   "detected_at": "2026-08-27 11:18:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "GOS  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 13 -> 14",
+   "detected_at": "2026-08-27 11:18:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "GOS  CHANGED Avg, Salary (Mean) (No 10-Day K's)  -  col6: 2 -> 1",
+   "detected_at": "2026-08-27 11:18:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col11: 15511589.25 -> 17961010.25",
+   "detected_at": "2026-08-27 11:18:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 3rd Incremental Tax Bracket  -  col11: 22778740.88 -> 31267500",
+   "detected_at": "2026-08-27 11:18:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 4th Incremental Tax Bracket  -  col11: 0 -> 6115569.188",
+   "detected_at": "2026-08-27 11:18:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col11: 58309990.88 -> 72914319.19",
+   "detected_at": "2026-08-27 11:18:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED Minimum Salary Exception. Skill; Injury or Illness. Compensation protection for 2026-27 Season is for $1,838,009. Prior Injury Exclusion",
+   "detected_at": "2026-08-27 11:18:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED Love of the Game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-08-27 11:18:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Minimum Salary Exception. Skill; Injury or Illness. Compensation protection for 2026-27 Season is for $1,838,009. Prior Injury Exclusion (Left Foot). Love of the Game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-08-27 11:18:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "2026-27 Veteran Signings  - REMOVED Georges Niang Golde",
    "detected_at": "2026-08-27 11:17:55",
    "source": "DOCS",
@@ -10139,103 +10217,12 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Augustas_Mar%C4%8Diulionis"
-  },
-  {
-   "detail": "Artūras Gudaitis  ~ league: LKL -> LKL BCL",
-   "detected_at": "2026-08-16 09:39:30",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Art%C5%ABras_Gudaitis"
-  },
-  {
-   "detail": "Kristupas Žemaitis  ~ league: LKL -> LKL EuroCup",
-   "detected_at": "2026-08-16 09:39:30",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Kristupas_%C5%BDemaitis"
-  },
-  {
-   "detail": "Karolis Lukošiūnas  ~ team: BC Šiauliai -> Šiauliai",
-   "detected_at": "2026-08-16 09:39:30",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Karolis_Luko%C5%A1i%C5%ABnas"
-  },
-  {
-   "detail": "Karolis Lukošiūnas  ~ league: LKL -> LKL EuroCup",
-   "detected_at": "2026-08-16 09:39:30",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Karolis_Luko%C5%A1i%C5%ABnas"
-  },
-  {
-   "detail": "Tauras Jogėla  ~ league: LKL -> LKL EuroCup",
-   "detected_at": "2026-08-16 09:39:30",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Tauras_Jog%C4%97la"
-  },
-  {
-   "detail": "Erikas Venskus  ~ team: BC Šiauliai -> Šiauliai",
-   "detected_at": "2026-08-16 09:39:30",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Erikas_Venskus"
-  },
-  {
-   "detail": "Erikas Venskus  ~ league: LKL -> LKL EuroCup",
-   "detected_at": "2026-08-16 09:39:30",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Erikas_Venskus"
-  },
-  {
-   "detail": "Erikas Venskus  ~ CAREER  + 2026–present Šiauliai",
-   "detected_at": "2026-08-16 09:39:30",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Erikas_Venskus"
-  },
-  {
-   "detail": "Mitar Bošnjaković  ~ team: Partizan Belgrade -> Free agent",
-   "detected_at": "2026-08-16 09:39:30",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Mitar_Bo%C5%A1njakovi%C4%87"
-  },
-  {
-   "detail": "Mitar Bošnjaković  ~ league: KLS ABA League EuroLeague -> -",
-   "detected_at": "2026-08-16 09:39:30",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Mitar_Bo%C5%A1njakovi%C4%87"
-  },
-  {
-   "detail": "Mitar Bošnjaković  ~ number: 8 -> -",
-   "detected_at": "2026-08-16 09:39:30",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Mitar_Bo%C5%A1njakovi%C4%87"
-  },
-  {
-   "detail": "Mitar Bošnjaković  ~ CAREER  + 2024–2026 Partizan",
-   "detected_at": "2026-08-16 09:39:30",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Mitar_Bo%C5%A1njakovi%C4%87"
-  },
-  {
-   "detail": "Luca Illeș  ~ team: Partizan Belgrade -> U-BT Cluj-Napoca",
-   "detected_at": "2026-08-16 09:39:30",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Luca_Ille%C8%99"
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 2115,
-   "last": "2026-08-27 11:17:55"
+   "count": 2118,
+   "last": "2026-08-27 11:18:56"
   },
   "GLEAGUE": {
    "count": 19,
@@ -10258,8 +10245,8 @@
    "last": "2026-08-27 08:04:06"
   },
   "SHEETS": {
-   "count": 3476,
-   "last": "2026-08-27 11:16:58"
+   "count": 3486,
+   "last": "2026-08-27 11:18:59"
   },
   "TRANSACTIONS": {
    "count": 291,
@@ -10274,6 +10261,6 @@
    "last": "2026-08-27 10:29:12"
   }
  },
- "generated_at": "2026-08-27T11:18:00",
- "total": 9778
+ "generated_at": "2026-08-27T11:19:03",
+ "total": 9791
 }
