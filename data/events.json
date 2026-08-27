@@ -1,6 +1,41 @@
 {
  "events": [
   {
+   "detail": "Wikipedia says Terquavion Smith has signed for Shenzhen Leopards",
+   "detected_at": "2026-08-27 10:29:12",
+   "source": "WIKIWATCH",
+   "type": "CLUB",
+   "url": "https://en.wikipedia.org/wiki/Terquavion_Smith"
+  },
+  {
+   "detail": "Wikipedia says Terquavion Smith's league is now CBA",
+   "detected_at": "2026-08-27 10:29:12",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "https://en.wikipedia.org/wiki/Terquavion_Smith"
+  },
+  {
+   "detail": "Wikipedia says Terquavion Smith's position is now Shooting guard / point guard",
+   "detected_at": "2026-08-27 10:29:12",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "https://en.wikipedia.org/wiki/Terquavion_Smith"
+  },
+  {
+   "detail": "Wikipedia says Terquavion Smith's number is now 77",
+   "detected_at": "2026-08-27 10:29:12",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "https://en.wikipedia.org/wiki/Terquavion_Smith"
+  },
+  {
+   "detail": "Wikipedia edited Terquavion Smith's page",
+   "detected_at": "2026-08-27 10:29:12",
+   "source": "WIKIWATCH",
+   "type": "PAGE",
+   "url": "https://en.wikipedia.org/wiki/Terquavion_Smith"
+  },
+  {
    "detail": "WNBA ~ MOVED Kiana Williams → Toronto Tempo (from Los Angeles Sparks)",
    "detected_at": "2026-08-27 08:04:06",
    "source": "REALGM",
@@ -10216,41 +10251,6 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Jahlil_Okafor"
-  },
-  {
-   "detail": "Kyle Wiltjer  ~ nationality: Canadian / American -> -",
-   "detected_at": "2026-08-15 14:15:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Kyle_Wiltjer"
-  },
-  {
-   "detail": "Karl-Anthony Towns  ~ nationality: American / Dominican -> -",
-   "detected_at": "2026-08-15 14:15:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Karl-Anthony_Towns"
-  },
-  {
-   "detail": "Erick Green  ~ position: Shooting guard / Point guard -> Shooting guard / point guard",
-   "detected_at": "2026-08-15 13:52:45",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Erick_Green"
-  },
-  {
-   "detail": "Erick Green  ~ CAREER  + 2015 →Fort Wayne Mad Ants",
-   "detected_at": "2026-08-15 13:52:45",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Erick_Green"
-  },
-  {
-   "detail": "Andrew Wiggins  ~ position: Small forward / shooting guard -> Small forward",
-   "detected_at": "2026-08-15 13:52:45",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Andrew_Wiggins"
   }
  ],
  "feeds": {
@@ -10291,10 +10291,10 @@
    "last": "2026-08-27 08:03:58"
   },
   "WIKIWATCH": {
-   "count": 4,
-   "last": "2026-08-25 12:00:00"
+   "count": 9,
+   "last": "2026-08-27 10:29:12"
   }
  },
- "generated_at": "2026-08-27T08:04:08",
- "total": 9751
+ "generated_at": "2026-08-27T10:30:04",
+ "total": 9756
 }
