@@ -1,6 +1,24 @@
 {
  "events": [
   {
+   "detail": "2026-27 Veteran Signings  - REMOVED Minimum Salary Exception. Skill; Injury or Illness. Compensation protection for 2026-27 Season is non",
+   "detected_at": "2026-08-27 11:21:55",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED Love of the Game. Physical Exam.",
+   "detected_at": "2026-08-27 11:21:55",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Minimum Salary Exception. Skill; Injury or Illness. Compensation protection for 2026-27 Season is none but will increase to $1,400,000 if team has not requested waivers on player on or before the first day of the 2026-27 Regular Season. Love of the Game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-08-27 11:21:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "2026-27 Veteran Signings  + ADDED  Brandon Williams Golden State Warriors",
    "detected_at": "2026-08-27 11:20:55",
    "source": "DOCS",
@@ -10185,33 +10203,12 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/national/boxscore/2026-08-15/Latvia-at-France/526249"
-  },
-  {
-   "detail": "Carlik Jones  ~ team: Partizan -> Partizan Belgrade",
-   "detected_at": "2026-08-16 09:39:30",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Carlik_Jones"
-  },
-  {
-   "detail": "Carlik Jones  ~ league: KLS ABA League EuroLeague -> Serbian SuperLeague ABA League EuroLeague",
-   "detected_at": "2026-08-16 09:39:30",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Carlik_Jones"
-  },
-  {
-   "detail": "Carlik Jones  ~ number: 2 -> 1",
-   "detected_at": "2026-08-16 09:39:30",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Carlik_Jones"
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 2125,
-   "last": "2026-08-27 11:20:55"
+   "count": 2128,
+   "last": "2026-08-27 11:21:55"
   },
   "GLEAGUE": {
    "count": 19,
@@ -10250,6 +10247,6 @@
    "last": "2026-08-27 10:29:12"
   }
  },
- "generated_at": "2026-08-27T11:21:01",
- "total": 9802
+ "generated_at": "2026-08-27T11:22:00",
+ "total": 9805
 }
