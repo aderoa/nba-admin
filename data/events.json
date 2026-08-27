@@ -1,6 +1,42 @@
 {
  "events": [
   {
+   "detail": "DEN  CHANGED Valanciunas, Jonas  -  col3: 2000000.0 -> 666666.6666666666, col4: - -> 666666.6666666666, col5: - -> 666666.6666666666",
+   "detected_at": "2026-08-27 11:10:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "DEN  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 236342154 -> 235008820.7, col4: 195529175.4 -> 196195842, col5: 122317569.9 -> 122984236.6",
+   "detected_at": "2026-08-27 11:10:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "DEN  CHANGED Waived Contracts  -  col3: 2000000 -> 666666.6667, col4: 0 -> 666666.6667, col5: 0 -> 666666.6667",
+   "detected_at": "2026-08-27 11:10:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col9: 16583091 -> 15249757.67",
+   "detected_at": "2026-08-27 11:10:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 3rd Incremental Tax Bracket  -  col9: 28672000.5 -> 21338667.17",
+   "detected_at": "2026-08-27 11:10:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col9: 64203250.5 -> 56869917.17",
+   "detected_at": "2026-08-27 11:10:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "Antoine Eito  ~ number: 11 -> 8",
    "detected_at": "2026-08-27 10:47:47",
    "source": "WIKI",
@@ -10208,48 +10244,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "WNBA New York Liberty 82, Connecticut Sun 75",
-   "detected_at": "2026-08-15 21:07:07",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-15/New-York-at-Connecticut/158587"
-  },
-  {
-   "detail": "Canadian Elite Basketball League Winnipeg Sea Bears 98, Brampton Honey Badgers 84",
-   "detected_at": "2026-08-15 19:05:47",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-15/Brampton-Honey-Badgers-at-Winnipeg-Sea-Bears/528917"
-  },
-  {
-   "detail": "Mexican LNBP Lobos Plateados 74, Dorados de Chihuahua 71",
-   "detected_at": "2026-08-15 19:05:43",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-15/Dorados-de-Chihuahua-at-Lobos-Plateados/526148"
-  },
-  {
-   "detail": "Vsevolod Ishchenko  ~ CAREER  + 2024–present Lokomotiv Kuban",
-   "detected_at": "2026-08-15 15:01:46",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Vsevolod_Ishchenko"
-  },
-  {
-   "detail": "Kevin Pangos  ~ team: Free Agent -> Free agent",
-   "detected_at": "2026-08-15 14:38:45",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Kevin_Pangos"
-  },
-  {
-   "detail": "Kevin Pangos  ~ CAREER  + Cleveland Cavaliers",
-   "detected_at": "2026-08-15 14:38:45",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Kevin_Pangos"
   }
  ],
  "feeds": {
@@ -10278,8 +10272,8 @@
    "last": "2026-08-27 08:04:06"
   },
   "SHEETS": {
-   "count": 3469,
-   "last": "2026-08-27 10:33:59"
+   "count": 3475,
+   "last": "2026-08-27 11:10:58"
   },
   "TRANSACTIONS": {
    "count": 291,
@@ -10294,6 +10288,6 @@
    "last": "2026-08-27 10:29:12"
   }
  },
- "generated_at": "2026-08-27T10:47:48",
- "total": 9758
+ "generated_at": "2026-08-27T11:11:01",
+ "total": 9764
 }
