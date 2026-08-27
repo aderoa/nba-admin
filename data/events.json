@@ -1,6 +1,171 @@
 {
  "events": [
   {
+   "detail": "WNBA ~ MOVED Kiana Williams → Toronto Tempo (from Los Angeles Sparks)",
+   "detected_at": "2026-08-27 08:04:06",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "WNBA Seattle Storm 90, Toronto Tempo 78",
+   "detected_at": "2026-08-27 08:04:06",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-26/Toronto-at-Seattle/158688"
+  },
+  {
+   "detail": "WNBA Golden State Valkyries 89, Connecticut Sun 64",
+   "detected_at": "2026-08-27 08:04:04",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-26/Golden-State-at-Connecticut/158614"
+  },
+  {
+   "detail": "DaQuan Jeffries  ~ number: - -> 2",
+   "detected_at": "2026-08-27 08:03:58",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/DaQuan_Jeffries"
+  },
+  {
+   "detail": "Eugene Omoruyi  ~ number: - -> 20",
+   "detected_at": "2026-08-27 08:03:58",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Eugene_Omoruyi"
+  },
+  {
+   "detail": "Vlatko Čančar  ~ number: - -> 31",
+   "detected_at": "2026-08-27 08:03:58",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Vlatko_%C4%8Can%C4%8Dar"
+  },
+  {
+   "detail": "Jaylen Nowell  ~ number: - -> 24",
+   "detected_at": "2026-08-27 08:03:58",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jaylen_Nowell"
+  },
+  {
+   "detail": "Malcolm Cazalon  ~ team: Free Agent -> Cholet Basket",
+   "detected_at": "2026-08-27 08:03:58",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Malcolm_Cazalon"
+  },
+  {
+   "detail": "Malcolm Cazalon  ~ league: - -> Pro A",
+   "detected_at": "2026-08-27 08:03:58",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Malcolm_Cazalon"
+  },
+  {
+   "detail": "Malcolm Cazalon  ~ number: - -> 0",
+   "detected_at": "2026-08-27 08:03:58",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Malcolm_Cazalon"
+  },
+  {
+   "detail": "Malcolm Cazalon  ~ CAREER  + 2026–present Cholet Basket",
+   "detected_at": "2026-08-27 08:03:58",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Malcolm_Cazalon"
+  },
+  {
+   "detail": "Bennedict Mathurin  ~ team: New Orleans Pelicans -> Free agent",
+   "detected_at": "2026-08-27 08:03:58",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Bennedict_Mathurin"
+  },
+  {
+   "detail": "Jake LaRavia  ~ position: Small forward -> Small forward / power forward",
+   "detected_at": "2026-08-27 08:03:58",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jake_LaRavia"
+  },
+  {
+   "detail": "Furkan Korkmaz  ~ number: - -> 30",
+   "detected_at": "2026-08-27 08:03:58",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Furkan_Korkmaz"
+  },
+  {
+   "detail": "Anžejs Pasečņiks  ~ team: Free Agent -> Petkim Spor",
+   "detected_at": "2026-08-27 08:03:58",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/An%C5%BEejs_Pase%C4%8D%C5%86iks"
+  },
+  {
+   "detail": "Anžejs Pasečņiks  ~ league: - -> Basketbol Süper Ligi",
+   "detected_at": "2026-08-27 08:03:58",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/An%C5%BEejs_Pase%C4%8D%C5%86iks"
+  },
+  {
+   "detail": "Anžejs Pasečņiks  ~ CAREER  + 2026–present Petkim Spor",
+   "detected_at": "2026-08-27 08:03:58",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/An%C5%BEejs_Pase%C4%8D%C5%86iks"
+  },
+  {
+   "detail": "Mady Sissoko  ~ number: - -> 44",
+   "detected_at": "2026-08-27 08:03:58",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Mady_Sissoko"
+  },
+  {
+   "detail": "Metecan Birsen  ~ number: - -> 11",
+   "detected_at": "2026-08-27 08:03:58",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Metecan_Birsen"
+  },
+  {
+   "detail": "Scottie Wilbekin  ~ number: - -> 12",
+   "detected_at": "2026-08-27 08:03:58",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Scottie_Wilbekin"
+  },
+  {
+   "detail": "David DeJulius  ~ number: - -> 5",
+   "detected_at": "2026-08-27 08:03:58",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/David_DeJulius"
+  },
+  {
+   "detail": "2026-08-26  Traded: Keon Johnson (Skyhawks)",
+   "detected_at": "2026-08-27 07:56:08",
+   "source": "GLEAGUE",
+   "type": "Trade"
+  },
+  {
+   "detail": "2026-08-26  Traded: Isaih Moore (Boom)",
+   "detected_at": "2026-08-27 07:56:08",
+   "source": "GLEAGUE",
+   "type": "Trade"
+  },
+  {
+   "detail": "2026-08-26  Traded: Gabe Mcglothan (Celtics)",
+   "detected_at": "2026-08-27 07:56:08",
+   "source": "GLEAGUE",
+   "type": "Trade"
+  },
+  {
    "detail": "- REMOVED Tristen Newton (HOU)",
    "detected_at": "2026-08-26 18:54:54",
    "source": "PLAYERS",
@@ -10086,174 +10251,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Andrew_Wiggins"
-  },
-  {
-   "detail": "Carlik Jones  ~ number: 1 -> 2",
-   "detected_at": "2026-08-15 13:29:45",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Carlik_Jones"
-  },
-  {
-   "detail": "Ethan Thompson  ~ league: KLS ABA League EuroLeague -> ABA League EuroLeague",
-   "detected_at": "2026-08-15 13:29:45",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Ethan_Thompson"
-  },
-  {
-   "detail": "U16 Euro Championship B Finland 88, Slovakia 83",
-   "detected_at": "2026-08-15 12:42:47",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-15/Slovakia-at-Finland/526309"
-  },
-  {
-   "detail": "U16 Euro Championship B Estonia 83, Bosnia and Herzegovina 67",
-   "detected_at": "2026-08-15 12:42:44",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-15/Estonia-at-Bosnia-and-Herzegovina/526298"
-  },
-  {
-   "detail": "U16 Euro Championship A Poland 88, Romania 62",
-   "detected_at": "2026-08-15 11:34:16",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-15/Poland-at-Romania/526254"
-  },
-  {
-   "detail": "U18 AfroBasket Madagascar 69, Chad 42",
-   "detected_at": "2026-08-15 11:34:14",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-15/Chad-at-Madagascar/528932"
-  },
-  {
-   "detail": "U16 Euro Championship B Switzerland 100, Luxembourg 80",
-   "detected_at": "2026-08-15 11:34:11",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-15/Luxembourg-at-Switzerland/526317"
-  },
-  {
-   "detail": "U18 AfroBasket Senegal 55, Mali 51",
-   "detected_at": "2026-08-15 11:34:09",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-15/Senegal-at-Mali/528925"
-  },
-  {
-   "detail": "U16 Euro Championship A Spain 96, Lithuania 93",
-   "detected_at": "2026-08-15 11:34:06",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-15/Spain-at-Lithuania/526250"
-  },
-  {
-   "detail": "U16 Euro Championship B Netherlands 74, Montenegro 71",
-   "detected_at": "2026-08-15 11:34:04",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-15/Netherlands-at-Montenegro/526301"
-  },
-  {
-   "detail": "U16 Euro Championship B Ireland 75, Austria 64",
-   "detected_at": "2026-08-15 11:34:01",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-15/Austria-at-Ireland/526310"
-  },
-  {
-   "detail": "U16 Euro Championship B Denmark 86, Portugal 71",
-   "detected_at": "2026-08-15 11:33:59",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-15/Denmark-at-Portugal/526315"
-  },
-  {
-   "detail": "U16 Euro Championship A Serbia 75, Turkiye 73",
-   "detected_at": "2026-08-15 11:33:56",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-15/Serbia-at-Turkiye/526261"
-  },
-  {
-   "detail": "U18 Asia Cup A Syria 72, Lebanon 64",
-   "detected_at": "2026-08-15 11:33:54",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-15/Lebanon-at-Syria/528520"
-  },
-  {
-   "detail": "Nobel Boungou Colo  ~ team: Antibes Sharks -> Paris Basketball",
-   "detected_at": "2026-08-15 11:33:45",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Nobel_Boungou_Colo"
-  },
-  {
-   "detail": "Nobel Boungou Colo  ~ CAREER  + 2022–2026 Antibes Sharks",
-   "detected_at": "2026-08-15 11:33:45",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Nobel_Boungou_Colo"
-  },
-  {
-   "detail": "Lovro Mazalin  ~ team: Zadar -> Cibona",
-   "detected_at": "2026-08-15 10:47:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Lovro_Mazalin"
-  },
-  {
-   "detail": "Lovro Mazalin  ~ position: Small forward / shooting guard -> Power forward / Center",
-   "detected_at": "2026-08-15 10:47:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Lovro_Mazalin"
-  },
-  {
-   "detail": "Lovro Mazalin  ~ CAREER  + 2023–2026 Zadar",
-   "detected_at": "2026-08-15 10:47:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Lovro_Mazalin"
-  },
-  {
-   "detail": "Lovro Mazalin  ~ CAREER  + 2026-present Cibona Zagreb",
-   "detected_at": "2026-08-15 10:47:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Lovro_Mazalin"
-  },
-  {
-   "detail": "Roko Badžim  ~ team: Yukatel Merkezefendi Basket -> Cibona Zagreb",
-   "detected_at": "2026-08-15 10:47:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Roko_Bad%C5%BEim"
-  },
-  {
-   "detail": "Roko Badžim  ~ league: Basketbol Süper Ligi -> Croatian League",
-   "detected_at": "2026-08-15 10:47:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Roko_Bad%C5%BEim"
-  },
-  {
-   "detail": "Roko Badžim  ~ CAREER  + 2024–2026 Merkezefendi Basket",
-   "detected_at": "2026-08-15 10:47:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Roko_Bad%C5%BEim"
-  },
-  {
-   "detail": "Roko Badžim  ~ CAREER  + 2026-present Cibona Zagreb",
-   "detected_at": "2026-08-15 10:47:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Roko_Bad%C5%BEim"
   }
  ],
  "feeds": {
@@ -10262,8 +10259,8 @@
    "last": "2026-08-24 12:50:56"
   },
   "GLEAGUE": {
-   "count": 16,
-   "last": "2026-08-21 07:57:31"
+   "count": 19,
+   "last": "2026-08-27 07:56:08"
   },
   "PLAYERS": {
    "count": 655,
@@ -10274,12 +10271,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 93,
-   "last": "2026-08-26 01:24:26"
+   "count": 94,
+   "last": "2026-08-27 08:04:06"
   },
   "SCORES": {
-   "count": 381,
-   "last": "2026-08-26 01:24:26"
+   "count": 383,
+   "last": "2026-08-27 08:04:06"
   },
   "SHEETS": {
    "count": 3468,
@@ -10290,14 +10287,14 @@
    "last": "2026-08-26 18:04:55"
   },
   "WIKI": {
-   "count": 1767,
-   "last": "2026-08-26 18:47:46"
+   "count": 1785,
+   "last": "2026-08-27 08:03:58"
   },
   "WIKIWATCH": {
    "count": 4,
    "last": "2026-08-25 12:00:00"
   }
  },
- "generated_at": "2026-08-26T18:55:01",
- "total": 9727
+ "generated_at": "2026-08-27T08:04:08",
+ "total": 9751
 }
