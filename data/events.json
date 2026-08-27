@@ -1,6 +1,72 @@
 {
  "events": [
   {
+   "detail": "GOS  CHANGED Williams, Brandon  -  TEAM SALARY CAP REPORT\n       -  GOLDEN STATE WARRIORS: - -> 1 - FULL SEASON, col3: - -> 2449421.0, col9: 0 -> 2449421",
+   "detected_at": "2026-08-27 11:22:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "GOS  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 249438568.3 -> 251887989.3, col9: 334033369.7 -> 336482790.7",
+   "detected_at": "2026-08-27 11:22:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "GOS  CHANGED Players Under Contract  -  col3: 218389010.3 -> 220838431.3",
+   "detected_at": "2026-08-27 11:22:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "GOS  CHANGED Full Season Contracts  -  col3: 218389010.3 -> 220838431.3",
+   "detected_at": "2026-08-27 11:22:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "GOS  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 14 -> 15",
+   "detected_at": "2026-08-27 11:22:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "GOS  CHANGED Avg, Salary (Mean) (No 10-Day K's)  -  col6: 1 -> 0",
+   "detected_at": "2026-08-27 11:22:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col11: 17961010.25 -> 20410431.25",
+   "detected_at": "2026-08-27 11:22:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 4th Incremental Tax Bracket  -  col11: 6115569.188 -> 22649160.94",
+   "detected_at": "2026-08-27 11:22:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col11: 72914319.19 -> 89447910.94",
+   "detected_at": "2026-08-27 11:22:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED Execution Date: 7/2/26",
+   "detected_at": "2026-08-27 11:22:55",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 8/26/26",
+   "detected_at": "2026-08-27 11:22:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "2026-27 Veteran Signings  - REMOVED Minimum Salary Exception. Skill; Injury or Illness. Compensation protection for 2026-27 Season is non",
    "detected_at": "2026-08-27 11:21:55",
    "source": "DOCS",
@@ -10126,89 +10192,12 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Michael_Ru%C5%BEi%C4%87"
-  },
-  {
-   "detail": "Michael Ružić  ~ CAREER  + 2023–2026 Joventut Badalona",
-   "detected_at": "2026-08-16 11:34:45",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Michael_Ru%C5%BEi%C4%87"
-  },
-  {
-   "detail": "Speedy Smith  ~ team: Rytas Vilnius -> Pallacanestro Reggiana",
-   "detected_at": "2026-08-16 11:11:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Speedy_Smith"
-  },
-  {
-   "detail": "Speedy Smith  ~ league: LKL -> LBA",
-   "detected_at": "2026-08-16 11:11:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Speedy_Smith"
-  },
-  {
-   "detail": "Speedy Smith  ~ number: 44 -> -",
-   "detected_at": "2026-08-16 11:11:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Speedy_Smith"
-  },
-  {
-   "detail": "Speedy Smith  ~ CAREER  + 2026 Rytas Vilnius",
-   "detected_at": "2026-08-16 11:11:46",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Speedy_Smith"
-  },
-  {
-   "detail": "Speedy Smith  ~ CAREER  + 2026–present Pallacanestro Reggiana",
-   "detected_at": "2026-08-16 11:11:46",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Speedy_Smith"
-  },
-  {
-   "detail": "Laurynas Birutis  ~ league: - -> Liga ACB",
-   "detected_at": "2026-08-16 10:25:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Laurynas_Birutis"
-  },
-  {
-   "detail": "Laurynas Birutis  ~ number: - -> 15",
-   "detected_at": "2026-08-16 10:25:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Laurynas_Birutis"
-  },
-  {
-   "detail": "Laurynas Birutis  ~ CAREER  + 2026–present Casademont Zaragoza",
-   "detected_at": "2026-08-16 10:25:46",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Laurynas_Birutis"
-  },
-  {
-   "detail": "U16 Euro Championship B Croatia 69, Iceland 67",
-   "detected_at": "2026-08-16 09:39:42",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-15/Croatia-at-Iceland/526297"
-  },
-  {
-   "detail": "U16 Euro Championship A Latvia 75, France 69",
-   "detected_at": "2026-08-16 09:39:39",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-15/Latvia-at-France/526249"
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 2128,
-   "last": "2026-08-27 11:21:55"
+   "count": 2130,
+   "last": "2026-08-27 11:22:55"
   },
   "GLEAGUE": {
    "count": 19,
@@ -10231,8 +10220,8 @@
    "last": "2026-08-27 08:04:06"
   },
   "SHEETS": {
-   "count": 3490,
-   "last": "2026-08-27 11:19:58"
+   "count": 3499,
+   "last": "2026-08-27 11:22:58"
   },
   "TRANSACTIONS": {
    "count": 291,
@@ -10247,6 +10236,6 @@
    "last": "2026-08-27 10:29:12"
   }
  },
- "generated_at": "2026-08-27T11:22:00",
- "total": 9805
+ "generated_at": "2026-08-27T11:23:01",
+ "total": 9816
 }
