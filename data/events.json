@@ -1,6 +1,48 @@
 {
  "events": [
   {
+   "detail": "GOS  + ADDED  Niang, Georges",
+   "detected_at": "2026-08-27 11:16:58",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED Update 1.3 (7/18/26): B. Beal, D. Brooks, K. Bufkin, K. Caldwell-Pope, M. Cisse, I. Crawford, D. Green, M. Hezonja, H. Highsmith, C. Houstan, H. Ingram, A. Jackson, L. James, S. Jones, Y. Kawamura, C. Koloko, N. Marshall, D. Melton, G. Payton, T. Peter, J. Phillips, M. Smith, J. Sochan, J. Tate, K. Thompson, M. Thybulle, O. Tshiebwe, M. Wagner, J. Walsh, T. Watford, P. Watson",
+   "detected_at": "2026-08-27 11:16:55",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Update 1.3 (7/18/26): B. Beal, D. Brooks, K. Bufkin, K. Caldwell-Pope, M. Cisse, I. Crawford, D. Green, M. Hezonja, H. Highsmith, C. Houstan, H. Ingram, A. Jackson, L. James, S. Jones, Y. Kawamura, C. Koloko, N. Marshall, D. Melton, G. Niang, G. Payton, T. Peter, J. Phillips, M. Smith, J. Sochan, J. Tate, K. Thompson, M. Thybulle, O. Tshiebwe, M. Wagner, J. Walsh, T. Watford, P. Watson",
+   "detected_at": "2026-08-27 11:16:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Georges Niang Golde",
+   "detected_at": "2026-08-27 11:16:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  26-27 $3,876,529",
+   "detected_at": "2026-08-27 11:16:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Minimum Salary Exception. Skill; Injury or Illness; Death. Love of the Game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-08-27 11:16:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 7/6/26",
+   "detected_at": "2026-08-27 11:16:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "DEN  CHANGED Valanciunas, Jonas  -  col3: 2000000.0 -> 666666.6666666666, col4: - -> 666666.6666666666, col5: - -> 666666.6666666666",
    "detected_at": "2026-08-27 11:10:58",
    "source": "SHEETS",
@@ -10195,61 +10237,12 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Chris_Jones_(basketball,_born_1991)"
-  },
-  {
-   "detail": "Chris Jones (basketball, born 1991)  ~ CAREER  + 2026-present Santos del Potosí",
-   "detected_at": "2026-08-16 00:51:48",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Chris_Jones_(basketball,_born_1991)"
-  },
-  {
-   "detail": "Jerry Smith (basketball, born 1987)  ~ team: Free agent -> -",
-   "detected_at": "2026-08-15 23:42:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jerry_Smith_(basketball,_born_1987)"
-  },
-  {
-   "detail": "Jerry Smith (basketball, born 1987)  ~ career_end: - -> 2023",
-   "detected_at": "2026-08-15 23:42:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jerry_Smith_(basketball,_born_1987)"
-  },
-  {
-   "detail": "WNBA Minnesota Lynx 92, Las Vegas Aces 87",
-   "detected_at": "2026-08-15 21:07:12",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-15/Minnesota-at-Las-Vegas/158589"
-  },
-  {
-   "detail": "WNBA + Alissa Pili → Los Angeles Sparks",
-   "detected_at": "2026-08-15 21:07:09",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "WNBA Washington Mystics 80, Los Angeles Sparks 70",
-   "detected_at": "2026-08-15 21:07:09",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-15/LA-Sparks-at-Washington/158588"
-  },
-  {
-   "detail": "WNBA + Anneli Maley → New York Liberty",
-   "detected_at": "2026-08-15 21:07:07",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 2102,
-   "last": "2026-08-24 12:50:56"
+   "count": 2108,
+   "last": "2026-08-27 11:16:55"
   },
   "GLEAGUE": {
    "count": 19,
@@ -10272,8 +10265,8 @@
    "last": "2026-08-27 08:04:06"
   },
   "SHEETS": {
-   "count": 3475,
-   "last": "2026-08-27 11:10:58"
+   "count": 3476,
+   "last": "2026-08-27 11:16:58"
   },
   "TRANSACTIONS": {
    "count": 291,
@@ -10288,6 +10281,6 @@
    "last": "2026-08-27 10:29:12"
   }
  },
- "generated_at": "2026-08-27T11:11:01",
- "total": 9764
+ "generated_at": "2026-08-27T11:17:01",
+ "total": 9771
 }
