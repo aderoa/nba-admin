@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "- REMOVED Tristen Newton (HOU)",
+   "detected_at": "2026-08-26 18:54:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
    "detail": "+ ADDED   Tristen Newton (HOU)",
    "detected_at": "2026-08-26 18:53:54",
    "source": "PLAYERS",
@@ -10248,13 +10254,6 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Roko_Bad%C5%BEim"
-  },
-  {
-   "detail": "Lovro Gnjidić  ~ team: kk kurcina -> Cibona",
-   "detected_at": "2026-08-15 10:47:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Lovro_Gnjidi%C4%87"
   }
  ],
  "feeds": {
@@ -10267,8 +10266,8 @@
    "last": "2026-08-21 07:57:31"
   },
   "PLAYERS": {
-   "count": 654,
-   "last": "2026-08-26 18:53:54"
+   "count": 655,
+   "last": "2026-08-26 18:54:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10299,6 +10298,6 @@
    "last": "2026-08-25 12:00:00"
   }
  },
- "generated_at": "2026-08-26T18:54:01",
- "total": 9726
+ "generated_at": "2026-08-26T18:55:01",
+ "total": 9727
 }
