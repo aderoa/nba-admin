@@ -1,6 +1,18 @@
 {
  "events": [
   {
+   "detail": "2026-08-28  Cleveland Cavaliers waived forward Cam Whitmore.",
+   "detected_at": "2026-08-28 14:10:56",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-08-28  Denver Nuggets waived forward Julian Reese.",
+   "detected_at": "2026-08-28 14:10:56",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
    "detail": "Augusto Lima  ~ team: Baloncesto Fuenlabrada -> Panteras de Aguascalientes",
    "detected_at": "2026-08-28 12:49:48",
    "source": "WIKI",
@@ -10166,20 +10178,6 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Chaundee_Brown_Jr."
-  },
-  {
-   "detail": "Chaundee Brown Jr.  ~ CAREER  + 2026–present Fukui Blowinds",
-   "detected_at": "2026-08-17 07:32:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Chaundee_Brown_Jr."
-  },
-  {
-   "detail": "Derrick Williams (basketball)  ~ team: Suwon KT Sonicboom -> AEK Athens",
-   "detected_at": "2026-08-17 07:32:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Derrick_Williams_(basketball)"
   }
  ],
  "feeds": {
@@ -10212,8 +10210,8 @@
    "last": "2026-08-27 11:22:58"
   },
   "TRANSACTIONS": {
-   "count": 293,
-   "last": "2026-08-28 06:42:55"
+   "count": 295,
+   "last": "2026-08-28 14:10:56"
   },
   "WIKI": {
    "count": 1870,
@@ -10224,6 +10222,6 @@
    "last": "2026-08-28 09:51:11"
   }
  },
- "generated_at": "2026-08-28T14:10:02",
- "total": 9960
+ "generated_at": "2026-08-28T14:11:05",
+ "total": 9962
 }
