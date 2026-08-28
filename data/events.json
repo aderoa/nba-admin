@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "- REMOVED Dalen Terry (GSW)",
+   "detected_at": "2026-08-27 17:02:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
    "detail": "+ ADDED   Dalen Terry (GSW)",
    "detected_at": "2026-08-27 17:01:54",
    "source": "PLAYERS",
@@ -10177,13 +10183,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-08-16/Dorados-de-Chihuahua-at-Lobos-Plateados/526155"
-  },
-  {
-   "detail": "Mexican LNBP Fuerza Regia 101, Freseros Irapuato 100",
-   "detected_at": "2026-08-16 19:03:45",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-16/Freseros-Irapuato-at-Fuerza-Regia/526154"
   }
  ],
  "feeds": {
@@ -10196,8 +10195,8 @@
    "last": "2026-08-27 07:56:08"
   },
   "PLAYERS": {
-   "count": 662,
-   "last": "2026-08-27 17:01:54"
+   "count": 663,
+   "last": "2026-08-27 17:02:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10228,6 +10227,6 @@
    "last": "2026-08-27 10:29:12"
   }
  },
- "generated_at": "2026-08-27T17:02:01",
- "total": 9859
+ "generated_at": "2026-08-27T17:03:03",
+ "total": 9860
 }
