@@ -1,6 +1,41 @@
 {
  "events": [
   {
+   "detail": "Wikipedia says Jeremiah Robinson-Earl has signed for Aris Thessaloniki",
+   "detected_at": "2026-08-28 09:51:11",
+   "source": "WIKIWATCH",
+   "type": "CLUB",
+   "url": "https://en.wikipedia.org/wiki/Jeremiah_Robinson-Earl"
+  },
+  {
+   "detail": "Wikipedia says Jeremiah Robinson-Earl's league is now GBL EuroCup",
+   "detected_at": "2026-08-28 09:51:11",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "https://en.wikipedia.org/wiki/Jeremiah_Robinson-Earl"
+  },
+  {
+   "detail": "Wikipedia says Jeremiah Robinson-Earl's position is now Power forward / center",
+   "detected_at": "2026-08-28 09:51:11",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "https://en.wikipedia.org/wiki/Jeremiah_Robinson-Earl"
+  },
+  {
+   "detail": "Wikipedia says Jeremiah Robinson-Earl's number is now 25",
+   "detected_at": "2026-08-28 09:51:11",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "https://en.wikipedia.org/wiki/Jeremiah_Robinson-Earl"
+  },
+  {
+   "detail": "Wikipedia edited Jeremiah Robinson-Earl's page",
+   "detected_at": "2026-08-28 09:51:11",
+   "source": "WIKIWATCH",
+   "type": "PAGE",
+   "url": "https://en.wikipedia.org/wiki/Jeremiah_Robinson-Earl"
+  },
+  {
    "detail": "Damian Jones (basketball)  ~ team: Vaqueros de Bayamón -> Real Madrid",
    "detected_at": "2026-08-28 08:13:47",
    "source": "WIKI",
@@ -10145,41 +10180,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/DeQuan_Jones"
-  },
-  {
-   "detail": "DeQuan Jones  ~ CAREER  + 2026 NLEX Road Warriors",
-   "detected_at": "2026-08-17 07:32:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/DeQuan_Jones"
-  },
-  {
-   "detail": "Michele Vitali  ~ team: Pallacanestro Reggiana -> Dinamo Sassari",
-   "detected_at": "2026-08-17 07:32:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Michele_Vitali"
-  },
-  {
-   "detail": "Michele Vitali  ~ CAREER  + 2022–2026 Reggiana",
-   "detected_at": "2026-08-17 07:32:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Michele_Vitali"
-  },
-  {
-   "detail": "Michele Vitali  ~ CAREER  + 2026–present Dinamo Sassari",
-   "detected_at": "2026-08-17 07:32:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Michele_Vitali"
-  },
-  {
-   "detail": "Laurynas Beliauskas  ~ league: LKL BCL -> LKL & BCL",
-   "detected_at": "2026-08-17 07:32:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Laurynas_Beliauskas"
   }
  ],
  "feeds": {
@@ -10220,10 +10220,10 @@
    "last": "2026-08-28 08:13:47"
   },
   "WIKIWATCH": {
-   "count": 17,
-   "last": "2026-08-28 05:57:13"
+   "count": 22,
+   "last": "2026-08-28 09:51:11"
   }
  },
- "generated_at": "2026-08-28T08:13:47",
- "total": 9940
+ "generated_at": "2026-08-28T09:52:00",
+ "total": 9945
 }
