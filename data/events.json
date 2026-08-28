@@ -1,6 +1,18 @@
 {
  "events": [
   {
+   "detail": "- REMOVED Cam Whitmore (CLE)",
+   "detected_at": "2026-08-28 15:07:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Julian Reese (DEN)",
+   "detected_at": "2026-08-28 15:07:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
    "detail": "Tyler Haws  ~ team: Free agent -> -",
    "detected_at": "2026-08-28 14:44:48",
    "source": "WIKI",
@@ -10164,20 +10176,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Tai_Webster"
-  },
-  {
-   "detail": "Tai Webster  ~ league: NZNBL -> LNB Élite",
-   "detected_at": "2026-08-17 08:23:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Tai_Webster"
-  },
-  {
-   "detail": "Tai Webster  ~ number: 0 -> -",
-   "detected_at": "2026-08-17 08:23:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Tai_Webster"
   }
  ],
  "feeds": {
@@ -10190,8 +10188,8 @@
    "last": "2026-08-27 07:56:08"
   },
   "PLAYERS": {
-   "count": 665,
-   "last": "2026-08-28 07:06:54"
+   "count": 667,
+   "last": "2026-08-28 15:07:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10222,6 +10220,6 @@
    "last": "2026-08-28 09:51:11"
   }
  },
- "generated_at": "2026-08-28T15:07:38",
- "total": 9970
+ "generated_at": "2026-08-28T15:08:01",
+ "total": 9972
 }
