@@ -1,6 +1,41 @@
 {
  "events": [
   {
+   "detail": "Wikipedia says Moses Wright has signed for Olimpia Milano",
+   "detected_at": "2026-08-28 05:57:13",
+   "source": "WIKIWATCH",
+   "type": "CLUB",
+   "url": "https://en.wikipedia.org/wiki/Moses_Wright"
+  },
+  {
+   "detail": "Wikipedia says Moses Wright's league is now LBA EuroLeague",
+   "detected_at": "2026-08-28 05:57:13",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "https://en.wikipedia.org/wiki/Moses_Wright"
+  },
+  {
+   "detail": "Wikipedia says Moses Wright's position is now Center",
+   "detected_at": "2026-08-28 05:57:13",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "https://en.wikipedia.org/wiki/Moses_Wright"
+  },
+  {
+   "detail": "Wikipedia says Moses Wright's number is now 5",
+   "detected_at": "2026-08-28 05:57:13",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "https://en.wikipedia.org/wiki/Moses_Wright"
+  },
+  {
+   "detail": "Wikipedia edited Moses Wright's page",
+   "detected_at": "2026-08-28 05:57:13",
+   "source": "WIKIWATCH",
+   "type": "PAGE",
+   "url": "https://en.wikipedia.org/wiki/Moses_Wright"
+  },
+  {
    "detail": "European World Cup Qualifier France 92, Slovenia 67",
    "detected_at": "2026-08-28 05:56:38",
    "source": "SCORES",
@@ -10147,41 +10182,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Victor_Rudd"
-  },
-  {
-   "detail": "Victor Rudd  ~ league: Qatari Basketball League -> -",
-   "detected_at": "2026-08-17 07:32:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Victor_Rudd"
-  },
-  {
-   "detail": "Victor Rudd  ~ number: 1 -> -",
-   "detected_at": "2026-08-17 07:32:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Victor_Rudd"
-  },
-  {
-   "detail": "Victor Rudd  ~ CAREER  + 2024–2025 Al-Arabi",
-   "detected_at": "2026-08-17 07:32:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Victor_Rudd"
-  },
-  {
-   "detail": "Victor Rudd  ~ CAREER  + 2025 Peñarol",
-   "detected_at": "2026-08-17 07:32:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Victor_Rudd"
-  },
-  {
-   "detail": "Victor Rudd  ~ CAREER  + 2025–2026 Sulaibikhat SC",
-   "detected_at": "2026-08-17 07:32:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Victor_Rudd"
   }
  ],
  "feeds": {
@@ -10222,10 +10222,10 @@
    "last": "2026-08-28 05:55:48"
   },
   "WIKIWATCH": {
-   "count": 12,
-   "last": "2026-08-27 20:09:13"
+   "count": 17,
+   "last": "2026-08-28 05:57:13"
   }
  },
- "generated_at": "2026-08-28T05:56:39",
- "total": 9918
+ "generated_at": "2026-08-28T05:58:00",
+ "total": 9923
 }
