@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Wikipedia says Vince Williams Jr has signed for Free agent",
+   "detected_at": "2026-08-27 20:09:13",
+   "source": "WIKIWATCH",
+   "type": "CLUB",
+   "url": "https://en.wikipedia.org/wiki/Vince_Williams_Jr."
+  },
+  {
+   "detail": "Wikipedia says Vince Williams Jr's position is now Shooting guard",
+   "detected_at": "2026-08-27 20:09:13",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "https://en.wikipedia.org/wiki/Vince_Williams_Jr."
+  },
+  {
+   "detail": "Wikipedia edited Vince Williams Jr's page",
+   "detected_at": "2026-08-27 20:09:13",
+   "source": "WIKIWATCH",
+   "type": "PAGE",
+   "url": "https://en.wikipedia.org/wiki/Vince_Williams_Jr."
+  },
+  {
    "detail": "Keshad Johnson  ~ team: Free agent -> Miami Heat",
    "detected_at": "2026-08-27 20:03:48",
    "source": "WIKI",
@@ -10161,27 +10182,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Mexican LNBP + Djery Baptiste → Correcaminos",
-   "detected_at": "2026-08-16 19:04:06",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Mexican LNBP + Jamir Simpson → Correcaminos",
-   "detected_at": "2026-08-16 19:04:06",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Mexican LNBP Mineros de Zacatecas 94, Astros de Jalisco 88",
-   "detected_at": "2026-08-16 19:04:04",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-15/Astros-de-Jalisco-at-Mineros-de-Zacatecas/526150"
   }
  ],
  "feeds": {
@@ -10222,10 +10222,10 @@
    "last": "2026-08-27 20:03:48"
   },
   "WIKIWATCH": {
-   "count": 9,
-   "last": "2026-08-27 10:29:12"
+   "count": 12,
+   "last": "2026-08-27 20:09:13"
   }
  },
- "generated_at": "2026-08-27T20:03:49",
- "total": 9866
+ "generated_at": "2026-08-27T20:10:05",
+ "total": 9869
 }
