@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "+ ADDED   Dalen Terry (GSW)",
+   "detected_at": "2026-08-27 17:03:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
    "detail": "- REMOVED Dalen Terry (GSW)",
    "detected_at": "2026-08-27 17:02:54",
    "source": "PLAYERS",
@@ -10176,13 +10182,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Mexican LNBP Lobos Plateados 104, Dorados de Chihuahua 77",
-   "detected_at": "2026-08-16 19:03:50",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-16/Dorados-de-Chihuahua-at-Lobos-Plateados/526155"
   }
  ],
  "feeds": {
@@ -10195,8 +10194,8 @@
    "last": "2026-08-27 07:56:08"
   },
   "PLAYERS": {
-   "count": 663,
-   "last": "2026-08-27 17:02:54"
+   "count": 664,
+   "last": "2026-08-27 17:03:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10227,6 +10226,6 @@
    "last": "2026-08-27 10:29:12"
   }
  },
- "generated_at": "2026-08-27T17:03:03",
- "total": 9860
+ "generated_at": "2026-08-27T17:04:02",
+ "total": 9861
 }
