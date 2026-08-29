@@ -1,6 +1,24 @@
 {
  "events": [
   {
+   "detail": "~ CHANGED John Konchar  team: UTA -> MIN",
+   "detected_at": "2026-08-29 09:03:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Josh Green  team: MIN -> UTA",
+   "detected_at": "2026-08-29 09:03:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Cody Williams  team: UTA -> MIN",
+   "detected_at": "2026-08-29 09:03:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "John Konchar  ~ team: Free agent -> Minnesota Timberwolves",
    "detected_at": "2026-08-29 08:52:47",
    "source": "WIKI",
@@ -10158,27 +10176,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Both_Gach"
-  },
-  {
-   "detail": "Nate Sestina  ~ team: LDLC ASVEL -> ASVEL Basket",
-   "detected_at": "2026-08-18 07:22:55",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Nate_Sestina"
-  },
-  {
-   "detail": "Levi Randolph  ~ team: Free agent -> Nagasaki Velca",
-   "detected_at": "2026-08-18 07:22:55",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Levi_Randolph"
-  },
-  {
-   "detail": "Nikola Tanasković  ~ number: - -> 11",
-   "detected_at": "2026-08-18 07:22:55",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Nikola_Tanaskovi%C4%87"
   }
  ],
  "feeds": {
@@ -10191,8 +10188,8 @@
    "last": "2026-08-29 07:13:29"
   },
   "PLAYERS": {
-   "count": 670,
-   "last": "2026-08-29 08:06:54"
+   "count": 673,
+   "last": "2026-08-29 09:03:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10223,6 +10220,6 @@
    "last": "2026-08-29 07:21:12"
   }
  },
- "generated_at": "2026-08-29T09:03:01",
- "total": 10037
+ "generated_at": "2026-08-29T09:04:01",
+ "total": 10040
 }
