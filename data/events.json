@@ -1,6 +1,41 @@
 {
  "events": [
   {
+   "detail": "Josh Green (basketball)  ~ team: Minnesota Timberwolves -> Utah Jazz",
+   "detected_at": "2026-08-29 09:15:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Josh_Green_(basketball)"
+  },
+  {
+   "detail": "Josh Green (basketball)  ~ number: 10 -> 5",
+   "detected_at": "2026-08-29 09:15:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Josh_Green_(basketball)"
+  },
+  {
+   "detail": "Josh Green (basketball)  ~ CAREER  + –present Utah Jazz",
+   "detected_at": "2026-08-29 09:15:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Josh_Green_(basketball)"
+  },
+  {
+   "detail": "John Konchar  ~ team: Minnesota Timberwolves -> Free agent",
+   "detected_at": "2026-08-29 09:15:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/John_Konchar"
+  },
+  {
+   "detail": "John Konchar  ~ number: 46 -> -",
+   "detected_at": "2026-08-29 09:15:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/John_Konchar"
+  },
+  {
    "detail": "~ CHANGED John Konchar  team: UTA -> MIN",
    "detected_at": "2026-08-29 09:03:54",
    "source": "PLAYERS",
@@ -10141,41 +10176,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/David_McCormack_(basketball)"
-  },
-  {
-   "detail": "David McCormack (basketball)  ~ CAREER  + 2025–2026 Bayern Munich",
-   "detected_at": "2026-08-18 07:22:55",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/David_McCormack_(basketball)"
-  },
-  {
-   "detail": "Aurimas Majauskas  ~ team: Free Agent -> Força Lleida",
-   "detected_at": "2026-08-18 07:22:55",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Aurimas_Majauskas"
-  },
-  {
-   "detail": "Aurimas Majauskas  ~ league: - -> Liga ACB",
-   "detected_at": "2026-08-18 07:22:55",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Aurimas_Majauskas"
-  },
-  {
-   "detail": "Aurimas Majauskas  ~ CAREER  + 2026– Força Lleida",
-   "detected_at": "2026-08-18 07:22:55",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Aurimas_Majauskas"
-  },
-  {
-   "detail": "Both Gach  ~ team: LDLC ASVEL -> ASVEL Basket",
-   "detected_at": "2026-08-18 07:22:55",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Both_Gach"
   }
  ],
  "feeds": {
@@ -10212,14 +10212,14 @@
    "last": "2026-08-29 08:20:55"
   },
   "WIKI": {
-   "count": 1919,
-   "last": "2026-08-29 08:52:47"
+   "count": 1924,
+   "last": "2026-08-29 09:15:47"
   },
   "WIKIWATCH": {
    "count": 32,
    "last": "2026-08-29 07:21:12"
   }
  },
- "generated_at": "2026-08-29T09:07:02",
- "total": 10040
+ "generated_at": "2026-08-29T09:15:47",
+ "total": 10045
 }
