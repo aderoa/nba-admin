@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Todd Withers  ~ team: Canterbury Rams -> Rostock Seawolves",
+   "detected_at": "2026-08-29 13:56:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Todd_Withers"
+  },
+  {
+   "detail": "Todd Withers  ~ league: NZNBL -> Basketball Bundesliga EuroCup",
+   "detected_at": "2026-08-29 13:56:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Todd_Withers"
+  },
+  {
+   "detail": "Todd Withers  ~ CAREER  + 2026 Canterbury Rams",
+   "detected_at": "2026-08-29 13:56:46",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Todd_Withers"
+  },
+  {
    "detail": "Bandja Sy  ~ team: CSM Oradea -> Free agent",
    "detected_at": "2026-08-29 12:47:47",
    "source": "WIKI",
@@ -10155,27 +10176,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/national/boxscore/2026-08-18/Japan-at-Korea/528533"
-  },
-  {
-   "detail": "U18 Asia Cup A Qatar 90, Sri Lanka 43",
-   "detected_at": "2026-08-18 07:23:06",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-18/Sri-Lanka-at-Qatar/528528"
-  },
-  {
-   "detail": "U18 Asia Cup A China 96, Iran 58",
-   "detected_at": "2026-08-18 07:23:03",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-18/Iran-at-China/528527"
-  },
-  {
-   "detail": "WNBA Golden State Valkyries 78, Dallas Wings 70",
-   "detected_at": "2026-08-18 07:23:00",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-17/Dallas-at-Golden-State/158593"
   }
  ],
  "feeds": {
@@ -10212,14 +10212,14 @@
    "last": "2026-08-29 08:20:55"
   },
   "WIKI": {
-   "count": 1928,
-   "last": "2026-08-29 12:47:47"
+   "count": 1931,
+   "last": "2026-08-29 13:56:46"
   },
   "WIKIWATCH": {
    "count": 32,
    "last": "2026-08-29 07:21:12"
   }
  },
- "generated_at": "2026-08-29T13:48:01",
- "total": 10056
+ "generated_at": "2026-08-29T13:56:47",
+ "total": 10059
 }
