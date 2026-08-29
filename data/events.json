@@ -1,6 +1,34 @@
 {
  "events": [
   {
+   "detail": "WNBA Las Vegas Aces 93, Toronto Tempo 73",
+   "detected_at": "2026-08-28 21:30:21",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-28/Toronto-at-Las-Vegas/158689"
+  },
+  {
+   "detail": "WNBA Los Angeles Sparks 88, Washington Mystics 82",
+   "detected_at": "2026-08-28 21:30:19",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-28/Washington-at-LA-Sparks/158619"
+  },
+  {
+   "detail": "WNBA Indiana Fever 111, Connecticut Sun 91",
+   "detected_at": "2026-08-28 21:30:16",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-28/Connecticut-at-Indiana/158618"
+  },
+  {
+   "detail": "WNBA Portland Fire 101, Atlanta Dream 83",
+   "detected_at": "2026-08-28 21:30:14",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-28/Portland-at-Atlanta/158617"
+  },
+  {
    "detail": "Orlando Robinson  ~ CAREER  + 2025–2026 →Osceola Magic",
    "detected_at": "2026-08-28 19:43:47",
    "source": "WIKI",
@@ -10148,34 +10176,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Haywood_Highsmith"
-  },
-  {
-   "detail": "Haywood Highsmith  ~ CAREER  + –present Phoenix Suns",
-   "detected_at": "2026-08-17 09:09:46",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Haywood_Highsmith"
-  },
-  {
-   "detail": "Nikola Kalinić (basketball)  ~ team: Free agent -> -",
-   "detected_at": "2026-08-17 09:09:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Nikola_Kalini%C4%87_(basketball)"
-  },
-  {
-   "detail": "Nikola Kalinić (basketball)  ~ career_end: - -> 2026",
-   "detected_at": "2026-08-17 09:09:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Nikola_Kalini%C4%87_(basketball)"
-  },
-  {
-   "detail": "Saliou Niang  ~ team: Virtus Bologna -> LSU Tigers",
-   "detected_at": "2026-08-17 09:09:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Saliou_Niang"
   }
  ],
  "feeds": {
@@ -10200,8 +10200,8 @@
    "last": "2026-08-28 05:55:57"
   },
   "SCORES": {
-   "count": 412,
-   "last": "2026-08-28 12:13:18"
+   "count": 416,
+   "last": "2026-08-28 21:30:21"
   },
   "SHEETS": {
    "count": 3499,
@@ -10220,6 +10220,6 @@
    "last": "2026-08-28 09:51:11"
   }
  },
- "generated_at": "2026-08-28T21:29:04",
- "total": 9974
+ "generated_at": "2026-08-28T21:30:31",
+ "total": 9978
 }
