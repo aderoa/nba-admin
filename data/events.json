@@ -1,6 +1,24 @@
 {
  "events": [
   {
+   "detail": "~ CHANGED Georges Niang  number: 31 -> 32",
+   "detected_at": "2026-08-29 08:06:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Brandon Williams  number: 10 -> 12",
+   "detected_at": "2026-08-29 08:06:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Dalen Terry  number: 14 -> 21",
+   "detected_at": "2026-08-29 08:06:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "Wikipedia says Jonas Valanciunas has signed for Žalgiris",
    "detected_at": "2026-08-29 07:21:12",
    "source": "WIKIWATCH",
@@ -10164,27 +10182,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Trendon_Watford"
-  },
-  {
-   "detail": "Trendon Watford  ~ league: - -> NBA",
-   "detected_at": "2026-08-17 19:57:45",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Trendon_Watford"
-  },
-  {
-   "detail": "Trendon Watford  ~ CAREER  + –present New Orleans Pelicans",
-   "detected_at": "2026-08-17 19:57:45",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Trendon_Watford"
-  },
-  {
-   "detail": "Sean Pedulla  ~ CAREER  + 2026–present →Rio Grande Valley Vipers",
-   "detected_at": "2026-08-17 18:48:48",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Sean_Pedulla"
   }
  ],
  "feeds": {
@@ -10197,8 +10194,8 @@
    "last": "2026-08-29 07:13:29"
   },
   "PLAYERS": {
-   "count": 667,
-   "last": "2026-08-28 15:07:54"
+   "count": 670,
+   "last": "2026-08-29 08:06:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10229,6 +10226,6 @@
    "last": "2026-08-29 07:21:12"
   }
  },
- "generated_at": "2026-08-29T08:06:40",
- "total": 10016
+ "generated_at": "2026-08-29T08:07:03",
+ "total": 10019
 }
