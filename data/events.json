@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Luke Nelson (basketball)  ~ league: PLK -> NB I/A",
+   "detected_at": "2026-08-30 11:38:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Luke_Nelson_(basketball)"
+  },
+  {
+   "detail": "Luke Nelson (basketball)  ~ CAREER  + 2025–2026 Soproni KC",
+   "detected_at": "2026-08-30 11:38:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Luke_Nelson_(basketball)"
+  },
+  {
    "detail": "African World Cup Qualifier Senegal 84, Angola 82",
    "detected_at": "2026-08-30 11:29:36",
    "source": "SCORES",
@@ -10223,18 +10237,6 @@
    "detected_at": "2026-08-18 09:31:57",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "NOL  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 17 -> 19",
-   "detected_at": "2026-08-18 09:31:57",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col20: 0 -> 3873274.92",
-   "detected_at": "2026-08-18 09:31:57",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10271,14 +10273,14 @@
    "last": "2026-08-29 08:20:55"
   },
   "WIKI": {
-   "count": 1976,
-   "last": "2026-08-30 10:05:48"
+   "count": 1978,
+   "last": "2026-08-30 11:38:47"
   },
   "WIKIWATCH": {
    "count": 42,
    "last": "2026-08-30 07:25:46"
   }
  },
- "generated_at": "2026-08-30T11:29:37",
- "total": 10171
+ "generated_at": "2026-08-30T11:38:48",
+ "total": 10173
 }
