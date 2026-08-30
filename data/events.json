@@ -1,6 +1,36 @@
 {
  "events": [
   {
+   "detail": "UTH  + ADDED  Green, Josh",
+   "detected_at": "2026-08-29 17:12:58",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "UTH  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 192721920.4 -> 207400932.4, col9: 567314471.1 -> 581993483.1",
+   "detected_at": "2026-08-29 17:12:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "UTH  CHANGED Players Under Contract  -  col3: 180466688.4 -> 195145700.4",
+   "detected_at": "2026-08-29 17:12:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "UTH  CHANGED Full Season Contracts  -  col3: 180466688.4 -> 195145700.4",
+   "detected_at": "2026-08-29 17:12:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "UTH  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 16 -> 17",
+   "detected_at": "2026-08-29 17:12:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "Brandon Williams (basketball, born 1999)  ~ number: - -> 12",
    "detected_at": "2026-08-29 16:16:46",
    "source": "WIKI",
@@ -10141,41 +10171,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Elias_Harris"
-  },
-  {
-   "detail": "Elias Harris  ~ number: 20 -> -",
-   "detected_at": "2026-08-18 08:31:45",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Elias_Harris"
-  },
-  {
-   "detail": "Lamar Patterson  ~ team: Ipswich Force -> Illawarra Hawks",
-   "detected_at": "2026-08-18 08:08:44",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Lamar_Patterson"
-  },
-  {
-   "detail": "Lamar Patterson  ~ league: NBL1 North -> NBL",
-   "detected_at": "2026-08-18 08:08:44",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Lamar_Patterson"
-  },
-  {
-   "detail": "Lamar Patterson  ~ CAREER  + 2025–2026 Ipswich Force",
-   "detected_at": "2026-08-18 08:08:44",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Lamar_Patterson"
-  },
-  {
-   "detail": "Lamar Patterson  ~ CAREER  + 2026–present Illawarra Hawks",
-   "detected_at": "2026-08-18 08:08:44",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Lamar_Patterson"
   }
  ],
  "feeds": {
@@ -10204,8 +10199,8 @@
    "last": "2026-08-29 11:34:46"
   },
   "SHEETS": {
-   "count": 3499,
-   "last": "2026-08-27 11:22:58"
+   "count": 3504,
+   "last": "2026-08-29 17:12:58"
   },
   "TRANSACTIONS": {
    "count": 298,
@@ -10220,6 +10215,6 @@
    "last": "2026-08-29 07:21:12"
   }
  },
- "generated_at": "2026-08-29T17:12:01",
- "total": 10067
+ "generated_at": "2026-08-29T17:13:02",
+ "total": 10072
 }
