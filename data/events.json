@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Luke Nelson (basketball)  ~ team: Soproni KC -> Manchester Basketball",
+   "detected_at": "2026-08-30 12:01:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Luke_Nelson_(basketball)"
+  },
+  {
+   "detail": "Luke Nelson (basketball)  ~ league: NB I/A -> SBL",
+   "detected_at": "2026-08-30 12:01:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Luke_Nelson_(basketball)"
+  },
+  {
+   "detail": "Luke Nelson (basketball)  ~ CAREER  + 2026–present Manchester Basketball",
+   "detected_at": "2026-08-30 12:01:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Luke_Nelson_(basketball)"
+  },
+  {
    "detail": "Luke Nelson (basketball)  ~ league: PLK -> NB I/A",
    "detected_at": "2026-08-30 11:38:47",
    "source": "WIKI",
@@ -10219,24 +10240,6 @@
    "detected_at": "2026-08-18 09:31:57",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "NOL  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 220287113.8 -> 225032805.8, col9: 473928068.5 -> 478673760.5",
-   "detected_at": "2026-08-18 09:31:57",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "NOL  CHANGED Players Under Contract  -  col3: 199555582.9 -> 204301274.9",
-   "detected_at": "2026-08-18 09:31:57",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "NOL  CHANGED Full Season Contracts  -  col3: 199555582.9 -> 204301274.9",
-   "detected_at": "2026-08-18 09:31:57",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10273,14 +10276,14 @@
    "last": "2026-08-29 08:20:55"
   },
   "WIKI": {
-   "count": 1978,
-   "last": "2026-08-30 11:38:47"
+   "count": 1981,
+   "last": "2026-08-30 12:01:47"
   },
   "WIKIWATCH": {
    "count": 42,
    "last": "2026-08-30 07:25:46"
   }
  },
- "generated_at": "2026-08-30T11:53:02",
- "total": 10173
+ "generated_at": "2026-08-30T12:01:48",
+ "total": 10176
 }
