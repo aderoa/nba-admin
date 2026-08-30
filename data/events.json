@@ -1,6 +1,41 @@
 {
  "events": [
   {
+   "detail": "WNBA + Saylor Poffenbarger → Phoenix Mercury",
+   "detected_at": "2026-08-29 23:56:15",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "WNBA + Kara Dunn → Phoenix Mercury",
+   "detected_at": "2026-08-29 23:56:15",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "WNBA Phoenix Mercury 101, Toronto Tempo 69",
+   "detected_at": "2026-08-29 23:56:15",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-29/Toronto-at-Phoenix/158690"
+  },
+  {
+   "detail": "Mexican LNBP Panteras de Aguascalientes 100, Correcaminos 88",
+   "detected_at": "2026-08-29 23:56:12",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-29/Correcaminos-at-Panteras-de-Aguascalientes/526552"
+  },
+  {
+   "detail": "Mexican LNBP Lobos Plateados 79, Gambusinos 65",
+   "detected_at": "2026-08-29 23:56:07",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-29/Lobos-Plateados-at-Gambusinos/526549"
+  },
+  {
    "detail": "Wikipedia says Saliou Niang has signed for LSU Tigers",
    "detected_at": "2026-08-29 23:07:14",
    "source": "WIKIWATCH",
@@ -10155,36 +10190,6 @@
    "detected_at": "2026-08-18 08:44:55",
    "source": "DOCS",
    "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Two-Way Signings  + ADDED  Execution Date: 7/6/26",
-   "detected_at": "2026-08-18 08:44:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Execution Date: 7/23/26",
-   "detected_at": "2026-08-18 08:43:55",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 8/17/26",
-   "detected_at": "2026-08-18 08:43:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Haywood Highsmith Phoenix Suns",
-   "detected_at": "2026-08-18 08:42:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  26-27 $3,066,143",
-   "detected_at": "2026-08-18 08:42:55",
-   "source": "DOCS",
-   "type": "ADDED"
   }
  ],
  "feeds": {
@@ -10205,12 +10210,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 97,
-   "last": "2026-08-29 18:49:05"
+   "count": 99,
+   "last": "2026-08-29 23:56:15"
   },
   "SCORES": {
-   "count": 425,
-   "last": "2026-08-29 18:49:11"
+   "count": 428,
+   "last": "2026-08-29 23:56:15"
   },
   "SHEETS": {
    "count": 3535,
@@ -10229,6 +10234,6 @@
    "last": "2026-08-29 23:07:14"
   }
  },
- "generated_at": "2026-08-29T23:55:01",
- "total": 10118
+ "generated_at": "2026-08-29T23:56:17",
+ "total": 10123
 }
