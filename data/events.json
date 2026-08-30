@@ -1,6 +1,41 @@
 {
  "events": [
   {
+   "detail": "Jonathan Kuminga  ~ team: Free agent -> Minnesota Timberwolves",
+   "detected_at": "2026-08-29 21:00:45",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jonathan_Kuminga"
+  },
+  {
+   "detail": "Jonathan Kuminga  ~ number: - -> 00",
+   "detected_at": "2026-08-29 21:00:45",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jonathan_Kuminga"
+  },
+  {
+   "detail": "Jonathan Kuminga  ~ CAREER  + -present Minnesota Timberwolves",
+   "detected_at": "2026-08-29 21:00:45",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Jonathan_Kuminga"
+  },
+  {
+   "detail": "Evans Ganapamo  ~ team: Johannesburg Giants -> Free agent",
+   "detected_at": "2026-08-29 21:00:45",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Evans_Ganapamo"
+  },
+  {
+   "detail": "Evans Ganapamo  ~ CAREER  + 2025–2026 Johannesburg Giants",
+   "detected_at": "2026-08-29 21:00:45",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Evans_Ganapamo"
+  },
+  {
    "detail": "Cody Williams  ~ number: 10 -> 9",
    "detected_at": "2026-08-29 19:05:46",
    "source": "WIKI",
@@ -10145,36 +10180,6 @@
    "detected_at": "2026-08-18 08:41:57",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "PHX  CHANGED Full Season Contracts  -  col3: 190579034 -> 193028455",
-   "detected_at": "2026-08-18 08:41:57",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "PHX  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 14 -> 15",
-   "detected_at": "2026-08-18 08:41:57",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "PHX  CHANGED Avg, Salary (Mean) (No 10-Day K's)  -  col6: 1 -> 0",
-   "detected_at": "2026-08-18 08:41:57",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col25: 13348084.52 -> 15797505.52",
-   "detected_at": "2026-08-18 08:41:57",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED 3rd Incremental Tax Bracket  -  col25: 10879464.88 -> 24351280.38",
-   "detected_at": "2026-08-18 08:41:57",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10211,14 +10216,14 @@
    "last": "2026-08-29 08:20:55"
   },
   "WIKI": {
-   "count": 1940,
-   "last": "2026-08-29 19:05:46"
+   "count": 1945,
+   "last": "2026-08-29 21:00:45"
   },
   "WIKIWATCH": {
    "count": 32,
    "last": "2026-08-29 07:21:12"
   }
  },
- "generated_at": "2026-08-29T20:52:06",
- "total": 10108
+ "generated_at": "2026-08-29T21:00:46",
+ "total": 10113
 }
