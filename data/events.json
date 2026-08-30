@@ -1,6 +1,41 @@
 {
  "events": [
   {
+   "detail": "Wikipedia says Codi Miller-McIntyre has signed for Olympiacos",
+   "detected_at": "2026-08-30 07:25:46",
+   "source": "WIKIWATCH",
+   "type": "CLUB",
+   "url": "https://en.wikipedia.org/wiki/Codi_Miller-McIntyre"
+  },
+  {
+   "detail": "Wikipedia says Codi Miller-McIntyre's league is now GBL EuroLeague",
+   "detected_at": "2026-08-30 07:25:46",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "https://en.wikipedia.org/wiki/Codi_Miller-McIntyre"
+  },
+  {
+   "detail": "Wikipedia says Codi Miller-McIntyre's position is now Point guard",
+   "detected_at": "2026-08-30 07:25:46",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "https://en.wikipedia.org/wiki/Codi_Miller-McIntyre"
+  },
+  {
+   "detail": "Wikipedia says Codi Miller-McIntyre's number is now 11",
+   "detected_at": "2026-08-30 07:25:46",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "https://en.wikipedia.org/wiki/Codi_Miller-McIntyre"
+  },
+  {
+   "detail": "Wikipedia edited Codi Miller-McIntyre's page",
+   "detected_at": "2026-08-30 07:25:46",
+   "source": "WIKIWATCH",
+   "type": "PAGE",
+   "url": "https://en.wikipedia.org/wiki/Codi_Miller-McIntyre"
+  },
+  {
    "detail": "Asian World Cup Qualifier Australia 126, Jordan 93",
    "detected_at": "2026-08-30 07:24:58",
    "source": "SCORES",
@@ -10186,36 +10221,6 @@
    "detected_at": "2026-08-18 08:55:55",
    "source": "DOCS",
    "type": "ADDED"
-  },
-  {
-   "detail": "NOL  + ADDED  Watford, Trendon",
-   "detected_at": "2026-08-18 08:54:59",
-   "source": "SHEETS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "PHL  - REMOVED Watford, Trendon",
-   "detected_at": "2026-08-18 08:54:59",
-   "source": "SHEETS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "PHL  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 217813309.3 -> 215363888.3, col9: 652042018.7 -> 649592597.7",
-   "detected_at": "2026-08-18 08:54:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "PHL  CHANGED Cap Holds  -  col3: 9269074 -> 6819653",
-   "detected_at": "2026-08-18 08:54:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "TOR  + ADDED  Smith, Malachi",
-   "detected_at": "2026-08-18 08:54:59",
-   "source": "SHEETS",
-   "type": "ADDED"
   }
  ],
  "feeds": {
@@ -10256,10 +10261,10 @@
    "last": "2026-08-30 07:24:48"
   },
   "WIKIWATCH": {
-   "count": 37,
-   "last": "2026-08-29 23:07:14"
+   "count": 42,
+   "last": "2026-08-30 07:25:46"
   }
  },
- "generated_at": "2026-08-30T07:24:59",
- "total": 10149
+ "generated_at": "2026-08-30T07:26:01",
+ "total": 10154
 }
