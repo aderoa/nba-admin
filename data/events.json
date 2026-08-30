@@ -1,6 +1,34 @@
 {
  "events": [
   {
+   "detail": "WNBA New York Liberty 85, Chicago Sky 66",
+   "detected_at": "2026-08-29 18:49:11",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-29/Chicago-at-New-York/158620"
+  },
+  {
+   "detail": "Mexican LNBP Panteras de Aguascalientes 111, Correcaminos 78",
+   "detected_at": "2026-08-29 18:49:08",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-28/Correcaminos-at-Panteras-de-Aguascalientes/526545"
+  },
+  {
+   "detail": "Mexican LNBP + Tim Moore, Jr. → Correcaminos",
+   "detected_at": "2026-08-29 18:49:05",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Mexican LNBP + Joseph Bradshaw → Correcaminos",
+   "detected_at": "2026-08-29 18:49:05",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
    "detail": "MIN  - REMOVED Green, Josh",
    "detected_at": "2026-08-29 17:25:58",
    "source": "SHEETS",
@@ -10146,30 +10174,6 @@
    "detected_at": "2026-08-18 08:41:57",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Update 1.3 (7/18/26): B. Beal, D. Brooks, K. Bufkin, K. Caldwell-Pope, M. Cisse, I. Crawford, D. Green, M. Hezonja, C. Houstan, H. Ingram, A. Jackson, L. James, S. Jones, Y. Kawamura, C. Koloko, N. Marshall, D. Melton, G. Payton, T. Peter, J. Phillips, J. Sochan, J. Tate, M. Thybulle, O. Tshiebwe, M. Wagner, J. Walsh",
-   "detected_at": "2026-08-18 08:41:55",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Update 1.3 (7/18/26): B. Beal, D. Brooks, K. Bufkin, K. Caldwell-Pope, M. Cisse, I. Crawford, D. Green, M. Hezonja, H. Highsmith, C. Houstan, H. Ingram, A. Jackson, L. James, S. Jones, Y. Kawamura, C. Koloko, N. Marshall, D. Melton, G. Payton, T. Peter, J. Phillips, J. Sochan, J. Tate, M. Thybulle, O. Tshiebwe, M. Wagner, J. Walsh",
-   "detected_at": "2026-08-18 08:41:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED 2 Years for $13,170,840. Non-Qualifying Veteran Free Agent Exception. Advance Payment ($5,268,336). Player option to extend the contract to include the 2027-28 Season. Insurance Premium Reimbursement. Skill; Injury or Illness; Mental. Compensation protection for 2026-27 Season is for $3,212,400 but will increase to full if team has not requested waivers on player on or before 8/18/2026. Compensation protection for 2027-28 Season is for $3,373,020 but will increase to full if team has not requested waivers on player on or before 8/18/2027. Trade Kicker (15%",
-   "detected_at": "2026-08-18 08:40:55",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Trade Kicker (15%). Love of the Game. Physical Exam. Alt. 7(b).",
-   "detected_at": "2026-08-18 08:40:55",
-   "source": "DOCS",
-   "type": "REMOVED"
   }
  ],
  "feeds": {
@@ -10190,12 +10194,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 95,
-   "last": "2026-08-28 05:55:57"
+   "count": 97,
+   "last": "2026-08-29 18:49:05"
   },
   "SCORES": {
-   "count": 423,
-   "last": "2026-08-29 11:34:46"
+   "count": 425,
+   "last": "2026-08-29 18:49:11"
   },
   "SHEETS": {
    "count": 3535,
@@ -10214,6 +10218,6 @@
    "last": "2026-08-29 07:21:12"
   }
  },
- "generated_at": "2026-08-29T18:48:01",
- "total": 10103
+ "generated_at": "2026-08-29T18:49:13",
+ "total": 10107
 }
