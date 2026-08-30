@@ -1,6 +1,78 @@
 {
  "events": [
   {
+   "detail": "MIN  - REMOVED Green, Josh",
+   "detected_at": "2026-08-29 17:25:58",
+   "source": "SHEETS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "MIN  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 261253485 -> 246574473, col9: 691085608.6 -> 676406596.6",
+   "detected_at": "2026-08-29 17:25:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MIN  CHANGED Players Under Contract  -  col3: 221490967 -> 206811955",
+   "detected_at": "2026-08-29 17:25:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MIN  CHANGED Full Season Contracts  -  col3: 221490967 -> 206811955",
+   "detected_at": "2026-08-29 17:25:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MIN  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 14 -> 13",
+   "detected_at": "2026-08-29 17:25:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MIN  CHANGED Avg, Salary (Mean) (No 10-Day K's)  -  col6: 1 -> 2",
+   "detected_at": "2026-08-29 17:25:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col19: 23117967 -> 8438955",
+   "detected_at": "2026-08-29 17:25:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 2nd Incremental Tax Bracket  -  col19: 7106250 -> 3442443.75",
+   "detected_at": "2026-08-29 17:25:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 3rd Incremental Tax Bracket  -  col19: 19897500 -> 0",
+   "detected_at": "2026-08-29 17:25:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 4th Incremental Tax Bracket  -  col19: 27003750 -> 0",
+   "detected_at": "2026-08-29 17:25:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 5th Incremental Tax Bracket  -  col19: 1984326.75 -> 0",
+   "detected_at": "2026-08-29 17:25:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col19: 61676826.75 -> 9127443.75",
+   "detected_at": "2026-08-29 17:25:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "UTH  - REMOVED Konchar, John",
    "detected_at": "2026-08-29 17:14:58",
    "source": "SHEETS",
@@ -10098,78 +10170,6 @@
    "detected_at": "2026-08-18 08:40:55",
    "source": "DOCS",
    "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Execution Date: 7/6/26",
-   "detected_at": "2026-08-18 08:40:55",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  2 Years for $13,170,840. Non-Qualifying Veteran Free Agent Exception. Advance Payment ($5,268,336). Player option to extend the contract to include the 2027-28 Season. Insurance Premium Reimbursement. Skill; Injury or Illness; Mental. Compensation protection for 2026-27 Season is for $3,212,400 but will increase to full if team has not requested waivers on player on or before 8/18/2026. Compensation protection for 2027-28 Season is for $3,373,020 but will increase to full if team has not requested waivers on player on or before 8/18/2027. Trade Kicker (15%). Love of the Game. Physical Exam. Alt. 7(b).",
-   "detected_at": "2026-08-18 08:40:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 8/13/26",
-   "detected_at": "2026-08-18 08:40:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED 2 Years for $13,170,840. Non-Qualifying Veteran Free Agent Exception. Advance Payment ($5,268,336). Player option to extend the contract to include the 2027-28 Season. Insurance Premium Reimbursement. Skill; Injury or Illness; Mental. Compensation protection for 2026-27 Season is for $3,212,400 but will increase to fu",
-   "detected_at": "2026-08-18 08:39:55",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  2 Years for $13,170,840. Non-Qualifying Veteran Free Agent Exception. Advance Payment ($5,268,336). Player option to extend the contract to include the 2027-28 Season. Insurance Premium Reimbursement. Skill; Injury or Illness; Mental. Compensation protection for 2026-27 Season is for $3,212,400 but will increase to full if team has not requested waivers on player on or before 8/18/2026. Compensation protection for 2027-28 Season is for $3,373,020 but will increase to full if team has not requested waivers on player on or before 8/18/2027. Trade Kicker (15%",
-   "detected_at": "2026-08-18 08:39:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED 2 Years for $13,170,840. Non-Qualifying Veteran Free Agent Exception. Advance Payment ($",
-   "detected_at": "2026-08-18 08:38:55",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED ). Player option to extend the contract to include the 2027-28 Season. Insurance Premium Reimbursement. Skill; Injury or Illness; Mental. Trade Kicker (15%). Love of the Game. Physical Exam. Alt. 7(b).",
-   "detected_at": "2026-08-18 08:38:55",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  2 Years for $13,170,840. Non-Qualifying Veteran Free Agent Exception. Advance Payment ($5,268,336). Player option to extend the contract to include the 2027-28 Season. Insurance Premium Reimbursement. Skill; Injury or Illness; Mental. Compensation protection for 2026-27 Season is for $3,212,400 but will increase to fu",
-   "detected_at": "2026-08-18 08:38:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Trade Kicker (15%). Love of the Game. Physical Exam. Alt. 7(b).",
-   "detected_at": "2026-08-18 08:38:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Bradley Beal Golden State Warriors",
-   "detected_at": "2026-08-18 08:37:56",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED 26-27 $6,822,000",
-   "detected_at": "2026-08-18 08:37:56",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED 27-28 $7,163,100 (Player Option)",
-   "detected_at": "2026-08-18 08:37:56",
-   "source": "DOCS",
-   "type": "REMOVED"
   }
  ],
  "feeds": {
@@ -10198,8 +10198,8 @@
    "last": "2026-08-29 11:34:46"
   },
   "SHEETS": {
-   "count": 3523,
-   "last": "2026-08-29 17:14:58"
+   "count": 3535,
+   "last": "2026-08-29 17:25:58"
   },
   "TRANSACTIONS": {
    "count": 298,
@@ -10214,6 +10214,6 @@
    "last": "2026-08-29 07:21:12"
   }
  },
- "generated_at": "2026-08-29T17:25:47",
- "total": 10091
+ "generated_at": "2026-08-29T17:26:01",
+ "total": 10103
 }
