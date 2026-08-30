@@ -1,6 +1,84 @@
 {
  "events": [
   {
+   "detail": "MIN  + ADDED  Williams, Cody",
+   "detected_at": "2026-08-29 17:13:58",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "MIN  + ADDED  Konchar, John",
+   "detected_at": "2026-08-29 17:13:58",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "MIN  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 253182885 -> 261253485, col4: 198046149.6 -> 207771039.6, col5: 167653451 -> 169708451, col9: 671235118.6 -> 691085608.6",
+   "detected_at": "2026-08-29 17:13:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MIN  CHANGED Players Under Contract  -  col3: 215475367 -> 221490967, col4: 198046149.6 -> 205716039.6",
+   "detected_at": "2026-08-29 17:13:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MIN  CHANGED Full Season Contracts  -  col3: 215475367 -> 221490967, col4: 198046149.6 -> 205716039.6",
+   "detected_at": "2026-08-29 17:13:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MIN  CHANGED Waived Contracts  -  col3: 0 -> 2055000, col4: 0 -> 2055000, col5: 0 -> 2055000",
+   "detected_at": "2026-08-29 17:13:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MIN  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 13 -> 14",
+   "detected_at": "2026-08-29 17:13:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MIN  CHANGED Avg, Salary (Mean) (No 10-Day K's)  -  col6: 2 -> 1",
+   "detected_at": "2026-08-29 17:13:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col19: 15047367 -> 23117967",
+   "detected_at": "2026-08-29 17:13:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 3rd Incremental Tax Bracket  -  col19: 12870784.5 -> 19897500",
+   "detected_at": "2026-08-29 17:13:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 4th Incremental Tax Bracket  -  col19: 0 -> 27003750",
+   "detected_at": "2026-08-29 17:13:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 5th Incremental Tax Bracket  -  col19: 0 -> 1984326.75",
+   "detected_at": "2026-08-29 17:13:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col19: 25662034.5 -> 61676826.75",
+   "detected_at": "2026-08-29 17:13:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "UTH  + ADDED  Green, Josh",
    "detected_at": "2026-08-29 17:12:58",
    "source": "SHEETS",
@@ -10092,85 +10170,6 @@
    "detected_at": "2026-08-18 08:37:56",
    "source": "DOCS",
    "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Update 1.3 (7/18/26): D. Brooks, K. Bufkin, K. Caldwell-Pope, M. Cisse, I. Crawford, D. Green, M. Hezonja, C. Houstan, H. Ingram, A. Jackson, L. James, S. Jones, Y. Kawamura, C. Koloko, N. Marshall, D. Melton, G. Payton, T. Peter, J. Phillips, J. Sochan, J. Tate, M. Thybulle, O. Tshiebwe, M. Wagner, J. Walsh",
-   "detected_at": "2026-08-18 08:36:56",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Update 1.3 (7/18/26): B. Beal, D. Brooks, K. Bufkin, K. Caldwell-Pope, M. Cisse, I. Crawford, D. Green, M. Hezonja, C. Houstan, H. Ingram, A. Jackson, L. James, S. Jones, Y. Kawamura, C. Koloko, N. Marshall, D. Melton, G. Payton, T. Peter, J. Phillips, J. Sochan, J. Tate, M. Thybulle, O. Tshiebwe, M. Wagner, J. Walsh",
-   "detected_at": "2026-08-18 08:36:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Bradley Beal Golden State Warriors",
-   "detected_at": "2026-08-18 08:36:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  26-27 $6,822,000",
-   "detected_at": "2026-08-18 08:36:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  27-28 $7,163,100 (Player Option)",
-   "detected_at": "2026-08-18 08:36:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  2 Years for $13,985,100. Non-Qualifying Veteran Free Agent Exception. Advance Payment ($1,040,040). Player option to extend the contract to include the 2027-28 Season. Insurance Premium Reimbursement. Skill; Injury or Illness; Mental. Trade Kicker (15%). Love of the Game. Physical Exam. Alt. 7(b).",
-   "detected_at": "2026-08-18 08:36:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 7/6/26",
-   "detected_at": "2026-08-18 08:36:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "LAC  CHANGED Beal, Bradley  -  TEAM SALARY CAP REPORT\n       -  LOS ANGELES CLIPPERS: 4 - CAP HOLD -> 1 - FULL SEASON",
-   "detected_at": "2026-08-18 08:35:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "LAC  CHANGED Players Under Contract  -  col3: 167895098 -> 174319898, col4: 93524162 -> 100270202",
-   "detected_at": "2026-08-18 08:35:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "LAC  CHANGED Full Season Contracts  -  col3: 167895098 -> 174319898, col4: 93524162 -> 100270202",
-   "detected_at": "2026-08-18 08:35:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "LAC  CHANGED Cap Holds  -  col3: 50802977.88 -> 44378177.88, col4: 6746040 -> 0",
-   "detected_at": "2026-08-18 08:35:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "LAC  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 15 -> 16",
-   "detected_at": "2026-08-18 08:35:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Elias Harris  ~ league: BBL EuroLeague -> -",
-   "detected_at": "2026-08-18 08:31:45",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Elias_Harris"
   }
  ],
  "feeds": {
@@ -10199,8 +10198,8 @@
    "last": "2026-08-29 11:34:46"
   },
   "SHEETS": {
-   "count": 3504,
-   "last": "2026-08-29 17:12:58"
+   "count": 3517,
+   "last": "2026-08-29 17:13:58"
   },
   "TRANSACTIONS": {
    "count": 298,
@@ -10215,6 +10214,6 @@
    "last": "2026-08-29 07:21:12"
   }
  },
- "generated_at": "2026-08-29T17:13:02",
- "total": 10072
+ "generated_at": "2026-08-29T17:14:00",
+ "total": 10085
 }
