@@ -1,6 +1,42 @@
 {
  "events": [
   {
+   "detail": "UTH  - REMOVED Konchar, John",
+   "detected_at": "2026-08-29 17:14:58",
+   "source": "SHEETS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "UTH  - REMOVED Williams, Cody",
+   "detected_at": "2026-08-29 17:14:58",
+   "source": "SHEETS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "UTH  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 207400932.4 -> 195220332.4, col4: 170082385.8 -> 162412495.8, col9: 581993483.1 -> 562142993.1",
+   "detected_at": "2026-08-29 17:14:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "UTH  CHANGED Players Under Contract  -  col3: 195145700.4 -> 182965100.4, col4: 170082385.8 -> 162412495.8",
+   "detected_at": "2026-08-29 17:14:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "UTH  CHANGED Full Season Contracts  -  col3: 195145700.4 -> 182965100.4, col4: 170082385.8 -> 162412495.8",
+   "detected_at": "2026-08-29 17:14:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "UTH  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 17 -> 15",
+   "detected_at": "2026-08-29 17:14:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "MIN  + ADDED  Williams, Cody",
    "detected_at": "2026-08-29 17:13:58",
    "source": "SHEETS",
@@ -10134,42 +10170,6 @@
    "detected_at": "2026-08-18 08:37:56",
    "source": "DOCS",
    "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED 2 Years for $13,985,100. Non-Qualifying Veteran Free Agent Exception. Advance Payment ($1,040,040). Player option to extend the contract to include the 2027-28 Season. Insurance Premium Reimbursement. Skill; Injury or Illness; Mental. Trade Kicker (15%). Love of the Game. Physical Exam. Alt. 7(b).",
-   "detected_at": "2026-08-18 08:37:56",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Bradley Beal Los Angeles Clippers",
-   "detected_at": "2026-08-18 08:37:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  26-27 $6,424,800",
-   "detected_at": "2026-08-18 08:37:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  27-28 $6,746,040 (Player Option)",
-   "detected_at": "2026-08-18 08:37:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  2 Years for $13,170,840. Non-Qualifying Veteran Free Agent Exception. Advance Payment ($",
-   "detected_at": "2026-08-18 08:37:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  ). Player option to extend the contract to include the 2027-28 Season. Insurance Premium Reimbursement. Skill; Injury or Illness; Mental. Trade Kicker (15%). Love of the Game. Physical Exam. Alt. 7(b).",
-   "detected_at": "2026-08-18 08:37:56",
-   "source": "DOCS",
-   "type": "ADDED"
   }
  ],
  "feeds": {
@@ -10198,8 +10198,8 @@
    "last": "2026-08-29 11:34:46"
   },
   "SHEETS": {
-   "count": 3517,
-   "last": "2026-08-29 17:13:58"
+   "count": 3523,
+   "last": "2026-08-29 17:14:58"
   },
   "TRANSACTIONS": {
    "count": 298,
@@ -10214,6 +10214,6 @@
    "last": "2026-08-29 07:21:12"
   }
  },
- "generated_at": "2026-08-29T17:14:00",
- "total": 10085
+ "generated_at": "2026-08-29T17:15:00",
+ "total": 10091
 }
