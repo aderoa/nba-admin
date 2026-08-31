@@ -1,6 +1,18 @@
 {
  "events": [
   {
+   "detail": "+ ADDED   Josiah Allick (CHA)",
+   "detected_at": "2026-08-31 15:09:55",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "- REMOVED John Konchar (MIN)",
+   "detected_at": "2026-08-31 15:09:55",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
    "detail": "Lucas Williamson  ~ league: Polish Basketball League -> PLK",
    "detected_at": "2026-08-31 14:58:48",
    "source": "WIKI",
@@ -10172,20 +10184,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Peyton_Watson"
-  },
-  {
-   "detail": "Peyton Watson  ~ CAREER  + –present Cleveland Cavaliers",
-   "detected_at": "2026-08-19 19:01:45",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Peyton_Watson"
-  },
-  {
-   "detail": "Tre Mann  ~ team: Cleveland Cavaliers -> Charlotte Hornets",
-   "detected_at": "2026-08-19 18:15:16",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Tre_Mann"
   }
  ],
  "feeds": {
@@ -10198,8 +10196,8 @@
    "last": "2026-08-29 07:13:29"
   },
   "PLAYERS": {
-   "count": 696,
-   "last": "2026-08-31 12:07:54"
+   "count": 698,
+   "last": "2026-08-31 15:09:55"
   },
   "RATINGS": {
    "count": 950,
@@ -10230,6 +10228,6 @@
    "last": "2026-08-31 09:35:01"
   }
  },
- "generated_at": "2026-08-31T15:09:04",
- "total": 10314
+ "generated_at": "2026-08-31T15:10:08",
+ "total": 10316
 }
