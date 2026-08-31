@@ -1,6 +1,24 @@
 {
  "events": [
   {
+   "detail": "+ ADDED   Matthew Murrell (UTA)",
+   "detected_at": "2026-08-31 12:07:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "~ CHANGED Bogdan Bogdanović  name: Bogdan Bogdanovic -> Bogdan Bogdanović",
+   "detected_at": "2026-08-31 12:07:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Julian Champagnie  school: St. John's, N.Y. -> St. John's",
+   "detected_at": "2026-08-31 12:07:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "- REMOVED Matthew Murrell (UTA)",
    "detected_at": "2026-08-31 12:06:54",
    "source": "PLAYERS",
@@ -10169,27 +10187,6 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Konstantin_Kostadinov"
-  },
-  {
-   "detail": "David Lighty  ~ team: ASVEL Basket -> LDLC ASVEL",
-   "detected_at": "2026-08-19 10:05:45",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/David_Lighty"
-  },
-  {
-   "detail": "David Lighty  ~ league: LNB Pro A EuroLeague -> LNB Élite EuroLeague",
-   "detected_at": "2026-08-19 10:05:45",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/David_Lighty"
-  },
-  {
-   "detail": "Myles Cale  ~ team: Free agent -> LDLC ASVEL",
-   "detected_at": "2026-08-19 10:05:45",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Myles_Cale"
   }
  ],
  "feeds": {
@@ -10202,8 +10199,8 @@
    "last": "2026-08-29 07:13:29"
   },
   "PLAYERS": {
-   "count": 693,
-   "last": "2026-08-31 12:06:54"
+   "count": 696,
+   "last": "2026-08-31 12:07:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10234,6 +10231,6 @@
    "last": "2026-08-31 09:35:01"
   }
  },
- "generated_at": "2026-08-31T12:07:01",
- "total": 10294
+ "generated_at": "2026-08-31T12:08:02",
+ "total": 10297
 }
