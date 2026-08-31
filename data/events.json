@@ -1,6 +1,83 @@
 {
  "events": [
   {
+   "detail": "WNBA Los Angeles Sparks 90, Seattle Storm 74",
+   "detected_at": "2026-08-30 18:45:01",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-30/LA-Sparks-at-Seattle/158622"
+  },
+  {
+   "detail": "Mexican LNBP Astros de Jalisco 129, Freseros Irapuato 117",
+   "detected_at": "2026-08-30 18:44:58",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-29/Astros-de-Jalisco-at-Freseros-Irapuato/526551"
+  },
+  {
+   "detail": "Mexican LNBP + Avery Anderson III → Astros de Jalisco",
+   "detected_at": "2026-08-30 18:44:55",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Mexican LNBP + Diego Hernandez → Freseros Irapuato",
+   "detected_at": "2026-08-30 18:44:55",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Mexican LNBP + David Lopez → Freseros Irapuato",
+   "detected_at": "2026-08-30 18:44:55",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Mexican LNBP Diablos Rojos 97, Santos de San Luis Potosi 87",
+   "detected_at": "2026-08-30 18:44:52",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-29/Santos-de-San-Luis-Potosi-at-Diablos-Rojos/526548"
+  },
+  {
+   "detail": "Mexican LNBP + Jahlil White → Santos de San Luis Potosi",
+   "detected_at": "2026-08-30 18:44:49",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Mexican LNBP ~ MOVED Roddy Peters → Santos de San Luis Potosi (from Diablos Rojos)",
+   "detected_at": "2026-08-30 18:44:49",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Mexican LNBP + Tyquan Rolon → Diablos Rojos",
+   "detected_at": "2026-08-30 18:44:49",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Mexican LNBP Dorados de Chihuahua 95, Mineros de Zacatecas 71",
+   "detected_at": "2026-08-30 18:44:47",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-29/Mineros-de-Zacatecas-at-Dorados-de-Chihuahua/526547"
+  },
+  {
+   "detail": "Mexican LNBP + Saul Santana → Dorados de Chihuahua",
+   "detected_at": "2026-08-30 18:44:44",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
    "detail": "WNBA + Liatu King → Minnesota Lynx",
    "detected_at": "2026-08-30 17:38:09",
    "source": "REALGM",
@@ -10173,83 +10250,6 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Eli_Ndiaye"
-  },
-  {
-   "detail": "Luca Illeș  ~ number: - -> 41",
-   "detected_at": "2026-08-18 10:26:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Luca_Ille%C8%99"
-  },
-  {
-   "detail": "Alex Ducas  ~ team: Free agent -> Balkan Botevgrad",
-   "detected_at": "2026-08-18 10:03:45",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Alex_Ducas"
-  },
-  {
-   "detail": "Alex Ducas  ~ league: - -> NBL EuroCup",
-   "detected_at": "2026-08-18 10:03:45",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Alex_Ducas"
-  },
-  {
-   "detail": "Alex Ducas  ~ CAREER  + 2026–present Balkan Botevgrad",
-   "detected_at": "2026-08-18 10:03:45",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Alex_Ducas"
-  },
-  {
-   "detail": "Siim-Sander Vene  ~ CAREER  + 2026–2027 Derthona Basket",
-   "detected_at": "2026-08-18 10:03:45",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Siim-Sander_Vene"
-  },
-  {
-   "detail": "Lucas Maniema  ~ team: Dreamland Gran Canaria -> Mega Superbet",
-   "detected_at": "2026-08-18 10:03:45",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Lucas_Maniema"
-  },
-  {
-   "detail": "Lucas Maniema  ~ league: Liga ACB -> ABA League",
-   "detected_at": "2026-08-18 10:03:45",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Lucas_Maniema"
-  },
-  {
-   "detail": "Lucas Maniema  ~ number: 1 -> 10",
-   "detected_at": "2026-08-18 10:03:45",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Lucas_Maniema"
-  },
-  {
-   "detail": "Lucas Maniema  ~ CAREER  + 2024–2026 Gran Canaria B",
-   "detected_at": "2026-08-18 10:03:45",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Lucas_Maniema"
-  },
-  {
-   "detail": "Lucas Maniema  ~ CAREER  + 2025–2026 Dreamland Gran Canaria",
-   "detected_at": "2026-08-18 10:03:45",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Lucas_Maniema"
-  },
-  {
-   "detail": "Lucas Maniema  ~ CAREER  + 2026–present Mega Superbet",
-   "detected_at": "2026-08-18 10:03:45",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Lucas_Maniema"
   }
  ],
  "feeds": {
@@ -10270,12 +10270,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 102,
-   "last": "2026-08-30 17:38:09"
+   "count": 109,
+   "last": "2026-08-30 18:44:55"
   },
   "SCORES": {
-   "count": 442,
-   "last": "2026-08-30 17:38:09"
+   "count": 446,
+   "last": "2026-08-30 18:45:01"
   },
   "SHEETS": {
    "count": 3535,
@@ -10294,6 +10294,6 @@
    "last": "2026-08-30 13:41:16"
   }
  },
- "generated_at": "2026-08-30T18:36:02",
- "total": 10186
+ "generated_at": "2026-08-30T18:45:03",
+ "total": 10197
 }
