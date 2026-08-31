@@ -1,6 +1,48 @@
 {
  "events": [
   {
+   "detail": "~ CHANGED Trendon Watford  number: 12 -> 9",
+   "detected_at": "2026-08-31 11:11:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Kobe Bufkin  number: 44 -> 4",
+   "detected_at": "2026-08-31 11:11:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Christian Koloko  number: 10 -> 35",
+   "detected_at": "2026-08-31 11:11:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Malik Dia  number: - -> 8",
+   "detected_at": "2026-08-31 11:11:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Malik Dia  position: - -> F",
+   "detected_at": "2026-08-31 11:11:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Malik Dia  height: - -> 6-9",
+   "detected_at": "2026-08-31 11:11:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Malik Dia  weight: - -> 250",
+   "detected_at": "2026-08-31 11:11:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "~ CHANGED Malik Dia  country: - -> USA",
    "detected_at": "2026-08-31 11:08:54",
    "source": "PLAYERS",
@@ -10154,55 +10196,6 @@
    "detected_at": "2026-08-19 09:08:55",
    "source": "DOCS",
    "type": "ADDED"
-  },
-  {
-   "detail": "Mindaugas Kuzminskas  ~ team: - -> Free agent",
-   "detected_at": "2026-08-19 08:56:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Mindaugas_Kuzminskas"
-  },
-  {
-   "detail": "James Nunnally  ~ career_end: - -> 2026",
-   "detected_at": "2026-08-19 08:09:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/James_Nunnally"
-  },
-  {
-   "detail": "Aaron Holiday  ~ team: Free agent -> Maxima Roma",
-   "detected_at": "2026-08-19 07:23:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Aaron_Holiday"
-  },
-  {
-   "detail": "Aaron Holiday  ~ league: - -> LBA EuroCup",
-   "detected_at": "2026-08-19 07:23:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Aaron_Holiday"
-  },
-  {
-   "detail": "Aaron Holiday  ~ CAREER  + 2026–present Maxima Roma",
-   "detected_at": "2026-08-19 07:23:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Aaron_Holiday"
-  },
-  {
-   "detail": "Donovan Williams (basketball)  ~ team: Free agent -> Yokohama B-Corsairs",
-   "detected_at": "2026-08-19 07:23:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Donovan_Williams_(basketball)"
-  },
-  {
-   "detail": "Donovan Williams (basketball)  ~ number: - -> 24",
-   "detected_at": "2026-08-19 07:23:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Donovan_Williams_(basketball)"
   }
  ],
  "feeds": {
@@ -10215,8 +10208,8 @@
    "last": "2026-08-29 07:13:29"
   },
   "PLAYERS": {
-   "count": 678,
-   "last": "2026-08-31 11:08:54"
+   "count": 685,
+   "last": "2026-08-31 11:11:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10247,6 +10240,6 @@
    "last": "2026-08-31 09:35:01"
   }
  },
- "generated_at": "2026-08-31T11:11:02",
- "total": 10277
+ "generated_at": "2026-08-31T11:12:01",
+ "total": 10284
 }
