@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "WNBA + Christyn Williams → Dallas Wings",
+   "detected_at": "2026-08-30 21:56:45",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "WNBA Dallas Wings 97, Connecticut Sun 71",
+   "detected_at": "2026-08-30 21:56:45",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-30/Connecticut-at-Dallas/158624"
+  },
+  {
    "detail": "WNBA Golden State Valkyries 86, Portland Fire 69",
    "detected_at": "2026-08-30 20:54:15",
    "source": "SCORES",
@@ -10236,20 +10250,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/national/boxscore/2026-08-18/Kazakhstan-at-India/528534"
-  },
-  {
-   "detail": "Pavlin Ivanov  ~ team: Spartak Pleven -> Balkan",
-   "detected_at": "2026-08-18 11:35:45",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Pavlin_Ivanov"
-  },
-  {
-   "detail": "Pavlin Ivanov  ~ CAREER  + 2026 Spartak Pleven",
-   "detected_at": "2026-08-18 11:35:45",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Pavlin_Ivanov"
   }
  ],
  "feeds": {
@@ -10270,12 +10270,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 109,
-   "last": "2026-08-30 18:44:55"
+   "count": 110,
+   "last": "2026-08-30 21:56:45"
   },
   "SCORES": {
-   "count": 449,
-   "last": "2026-08-30 20:54:15"
+   "count": 450,
+   "last": "2026-08-30 21:56:45"
   },
   "SHEETS": {
    "count": 3535,
@@ -10294,6 +10294,6 @@
    "last": "2026-08-30 13:41:16"
   }
  },
- "generated_at": "2026-08-30T21:48:01",
- "total": 10200
+ "generated_at": "2026-08-30T21:56:48",
+ "total": 10202
 }
