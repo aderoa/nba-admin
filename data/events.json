@@ -1,6 +1,41 @@
 {
  "events": [
   {
+   "detail": "WNBA + Liatu King → Minnesota Lynx",
+   "detected_at": "2026-08-30 17:38:09",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "WNBA ~ MOVED DeWanna Bonner → Atlanta Dream (from Phoenix Mercury)",
+   "detected_at": "2026-08-30 17:38:09",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "WNBA Atlanta Dream 89, Minnesota Lynx 81",
+   "detected_at": "2026-08-30 17:38:09",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-30/Minnesota-at-Atlanta/158621"
+  },
+  {
+   "detail": "Mexican LNBP Mineros de Zacatecas 92, Dorados de Chihuahua 82",
+   "detected_at": "2026-08-30 17:38:06",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-30/Mineros-de-Zacatecas-at-Dorados-de-Chihuahua/526553"
+  },
+  {
+   "detail": "Mexican LNBP + Sindarius Thornwell → Dorados de Chihuahua",
+   "detected_at": "2026-08-30 17:38:03",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
    "detail": "Wikipedia says Cole Anthony has signed for Melbourne United",
    "detected_at": "2026-08-30 13:41:16",
    "source": "WIKIWATCH",
@@ -10215,36 +10250,6 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Lucas_Maniema"
-  },
-  {
-   "detail": "NOL  - REMOVED Matkovic, Karlo #2",
-   "detected_at": "2026-08-18 09:32:57",
-   "source": "SHEETS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "NOL  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 225032805.8 -> 222736534.8, col9: 478673760.5 -> 476377489.5",
-   "detected_at": "2026-08-18 09:32:57",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "NOL  CHANGED Players Under Contract  -  col3: 204301274.9 -> 202005003.9",
-   "detected_at": "2026-08-18 09:32:57",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "NOL  CHANGED Full Season Contracts  -  col3: 204301274.9 -> 202005003.9",
-   "detected_at": "2026-08-18 09:32:57",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "NOL  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 19 -> 18",
-   "detected_at": "2026-08-18 09:32:57",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10265,12 +10270,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 99,
-   "last": "2026-08-29 23:56:15"
+   "count": 102,
+   "last": "2026-08-30 17:38:09"
   },
   "SCORES": {
-   "count": 440,
-   "last": "2026-08-30 11:29:36"
+   "count": 442,
+   "last": "2026-08-30 17:38:09"
   },
   "SHEETS": {
    "count": 3535,
@@ -10289,6 +10294,6 @@
    "last": "2026-08-30 13:41:16"
   }
  },
- "generated_at": "2026-08-30T17:37:00",
- "total": 10181
+ "generated_at": "2026-08-30T17:38:11",
+ "total": 10186
 }
