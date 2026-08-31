@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "~ CHANGED Malik Dia  country: - -> USA",
+   "detected_at": "2026-08-31 11:08:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "2026-08-18  New Orleans Pelicans signed forward Malik Dia to a Two-Way Contract.",
    "detected_at": "2026-08-31 10:57:55",
    "source": "TRANSACTIONS",
@@ -10197,13 +10203,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Donovan_Williams_(basketball)"
-  },
-  {
-   "detail": "Donovan Williams (basketball)  ~ CAREER  + 2026- Yokohama B-Corsairs",
-   "detected_at": "2026-08-19 07:23:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Donovan_Williams_(basketball)"
   }
  ],
  "feeds": {
@@ -10216,8 +10215,8 @@
    "last": "2026-08-29 07:13:29"
   },
   "PLAYERS": {
-   "count": 677,
-   "last": "2026-08-31 10:09:54"
+   "count": 678,
+   "last": "2026-08-31 11:08:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10248,6 +10247,6 @@
    "last": "2026-08-31 09:35:01"
   }
  },
- "generated_at": "2026-08-31T11:07:48",
- "total": 10276
+ "generated_at": "2026-08-31T11:09:04",
+ "total": 10277
 }
