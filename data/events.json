@@ -1,6 +1,339 @@
 {
  "events": [
   {
+   "detail": "Sindarius Thornwell  ~ team: - -> Dorados de Chihuahua",
+   "detected_at": "2026-08-31 09:34:48",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Sindarius_Thornwell"
+  },
+  {
+   "detail": "Sindarius Thornwell  ~ league: - -> LNBP",
+   "detected_at": "2026-08-31 09:34:48",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Sindarius_Thornwell"
+  },
+  {
+   "detail": "Sindarius Thornwell  ~ position: Shooting guard / point guard -> Shooting guard",
+   "detected_at": "2026-08-31 09:34:48",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Sindarius_Thornwell"
+  },
+  {
+   "detail": "Sindarius Thornwell  ~ CAREER  + 2026–present Dorados de Chihuahua",
+   "detected_at": "2026-08-31 09:34:48",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Sindarius_Thornwell"
+  },
+  {
+   "detail": "Devin Robinson  ~ team: Casademont Zaragoza -> Śląsk Wrocław",
+   "detected_at": "2026-08-31 09:34:48",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Devin_Robinson"
+  },
+  {
+   "detail": "Devin Robinson  ~ league: Liga ACB -> Polish Basketball League",
+   "detected_at": "2026-08-31 09:34:48",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Devin_Robinson"
+  },
+  {
+   "detail": "Devin Robinson  ~ number: 00 -> -",
+   "detected_at": "2026-08-31 09:34:48",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Devin_Robinson"
+  },
+  {
+   "detail": "Devin Robinson  ~ CAREER  + 2025–2026 Zaragoza",
+   "detected_at": "2026-08-31 09:34:48",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Devin_Robinson"
+  },
+  {
+   "detail": "Devin Robinson  ~ CAREER  + 2026–present Śląsk Wrocław",
+   "detected_at": "2026-08-31 09:34:48",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Devin_Robinson"
+  },
+  {
+   "detail": "CLE  CHANGED Whitmore, Cam  -  TEAM SALARY CAP REPORT\n       -  CLEVELAND CAVALIERS: 1 - FULL SEASON -> 7 - WAIVED, col3: 5458309.92 -> 1819436.64, col9: 5458309.92 -> 1819436.64",
+   "detected_at": "2026-08-31 09:27:27",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "CLE  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 242319203.2 -> 238680329.9, col9: 638144419.7 -> 634505546.4",
+   "detected_at": "2026-08-31 09:27:27",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "CLE  CHANGED Players Under Contract  -  col3: 180178773.9 -> 174720464",
+   "detected_at": "2026-08-31 09:27:27",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "CLE  CHANGED Full Season Contracts  -  col3: 180178773.9 -> 174720464",
+   "detected_at": "2026-08-31 09:27:27",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "CLE  CHANGED Waived Contracts  -  col3: 424671.6667 -> 2244108.307",
+   "detected_at": "2026-08-31 09:27:27",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "CLE  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 13 -> 12",
+   "detected_at": "2026-08-31 09:27:27",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "CLE  CHANGED Avg, Salary (Mean) (No 10-Day K's)  -  col6: 2 -> 3",
+   "detected_at": "2026-08-31 09:27:27",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "CLE  CHANGED Avg, Salary (Mean) (No 10-Day K's & ROS)  -  col6: 0 -> 1",
+   "detected_at": "2026-08-31 09:27:27",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "GOS  + ADDED  Terry, Dalen",
+   "detected_at": "2026-08-31 09:27:27",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "GOS  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 251887989.3 -> 254337410.3, col9: 336482790.7 -> 338932211.7",
+   "detected_at": "2026-08-31 09:27:27",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "GOS  CHANGED Players Under Contract  -  col3: 220838431.3 -> 223287852.3",
+   "detected_at": "2026-08-31 09:27:27",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "GOS  CHANGED Full Season Contracts  -  col3: 220838431.3 -> 223287852.3",
+   "detected_at": "2026-08-31 09:27:27",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "GOS  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 15 -> 16",
+   "detected_at": "2026-08-31 09:27:27",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MIA  + ADDED  Richards, Nicks",
+   "detected_at": "2026-08-31 09:27:27",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "MIA  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 220621477 -> 222917748, col9: 506218757 -> 508515028",
+   "detected_at": "2026-08-31 09:27:27",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MIA  CHANGED Players Under Contract  -  col3: 203739835 -> 206036106",
+   "detected_at": "2026-08-31 09:27:27",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MIA  CHANGED Full Season Contracts  -  col3: 203739835 -> 206036106",
+   "detected_at": "2026-08-31 09:27:27",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MIA  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 13 -> 14",
+   "detected_at": "2026-08-31 09:27:27",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MIA  CHANGED Avg, Salary (Mean) (No 10-Day K's)  -  col6: 2 -> 1",
+   "detected_at": "2026-08-31 09:27:27",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col11: 20410431.25 -> 22859852.25, col17: 3311835 -> 5608106",
+   "detected_at": "2026-08-31 09:27:27",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 1st Incremental Tax Bracket  -  col17: 3311835 -> 5608106",
+   "detected_at": "2026-08-31 09:27:27",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 4th Incremental Tax Bracket  -  col11: 22649160.94 -> 38373750",
+   "detected_at": "2026-08-31 09:27:27",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 5th Incremental Tax Bracket  -  col11: 0 -> 868928.8125",
+   "detected_at": "2026-08-31 09:27:27",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col11: 89447910.94 -> 106041428.8, col17: 3311835 -> 5608106",
+   "detected_at": "2026-08-31 09:27:27",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED Update 1.3 (7/18/26): B. Beal, D. Brooks, K. Bufkin, K. Caldwell-Pope, M. Cisse, I. Crawford, D. Green, M. Hezonja, H. Highsmith, C. Houstan, H. Ingram, A. Jackson, L. James, S. Jones, Y. Kawamura, C. Koloko, N. Marshall, D. Melton, G. Niang, G. Payton, T. Peter, J. Phillips, M. Smith, J. Sochan, J. Tate, K. Thompson, M. Thybulle, O. Tshiebwe, M. Wagner, J. Walsh, T. Watford, P. Watson, B. Williams",
+   "detected_at": "2026-08-31 09:27:20",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Update 1.3 (7/18/26): B. Beal, D. Brooks, K. Bufkin, K. Caldwell-Pope, M. Cisse, I. Crawford, D. Green, M. Hezonja, H. Highsmith, C. Houstan, H. Ingram, A. Jackson, L. James, S. Jones, Y. Kawamura, C. Koloko, N. Marshall, D. Melton, G. Niang, G. Payton, T. Peter, J. Phillips, N. Richards, M. Smith, J. Sochan, J. Tate, D. Terry, K. Thompson, M. Thybulle, O. Tshiebwe, M. Wagner, J. Walsh, T. Watford, P. Watson, B. Williams",
+   "detected_at": "2026-08-31 09:27:20",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Nick Richards Miami Heat",
+   "detected_at": "2026-08-31 09:27:20",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  26-27 $3,066,143",
+   "detected_at": "2026-08-31 09:27:20",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Minimum Salary Exception. Skill; Injury or Illness; Mental; Death. Compensation protection for 2026-27 Season is none but will increase to full if team has not requested waivers on player on or before the first day of the 2026-27 Regular Season. Love of the Game. Physical Exam.",
+   "detected_at": "2026-08-31 09:27:20",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 8/17/26",
+   "detected_at": "2026-08-31 09:27:20",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Dalen Terry Golden State Warriors",
+   "detected_at": "2026-08-31 09:27:20",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  26-27 $2,625,627",
+   "detected_at": "2026-08-31 09:27:20",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Minimum Salary Exception. Love of the Game. Physical Exam. Alt. 7(b). Exh. 9 - Training Camp.",
+   "detected_at": "2026-08-31 09:27:20",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 8/31/26",
+   "detected_at": "2026-08-31 09:27:20",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Two-Way Signings  - REMOVED Update 1.3 (7/18/26): R. Castro, M. Dia, H. Dickinson, V. Goldin, J. Howard, T. Jemison, D. Jones Garcia, A. Kaluma, D. Mitchell, S. Pedulla, J. Pickett, J. Pierre, J. Sharp, J. Slawson, B. Smith, J. Tonje, J. Wilson",
+   "detected_at": "2026-08-31 09:27:20",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Two-Way Signings  + ADDED  Update 1.3 (7/18/26): R. Castro, M. Dia, H. Dickinson, V. Goldin, J. Howard, T. Jemison, D. Jones Garcia, K. Johnson, A. Kaluma, D. Mitchell, S. Pedulla, J. Pickett, J. Pierre, J. Sharp, J. Slawson, B. Smith, J. Tonje, J. Wilson",
+   "detected_at": "2026-08-31 09:27:20",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Two-Way Signings  + ADDED  Keshad Johnson Miami Heat",
+   "detected_at": "2026-08-31 09:27:20",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Two-Way Signings  + ADDED  1 Year. Skill; Injury or Illness; Mental; Death. Compensation protection for 2026-27 Season is for $91,000 but will increase to 50% if team has not requested waivers on player on or before the first day of the 2026-27 Regular Season. Love of the Game. Physical Exam.",
+   "detected_at": "2026-08-31 09:27:20",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Two-Way Signings  + ADDED  Execution Date: 8/27/26",
+   "detected_at": "2026-08-31 09:27:20",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  - REMOVED Update 1.3 (7/18/26): K. Lopez",
+   "detected_at": "2026-08-31 09:27:20",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Update 1.3 (7/18/26): K. Lopez, J. Hadley",
+   "detected_at": "2026-08-31 09:27:20",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  J’Vonne Hadley Miami Heat",
+   "detected_at": "2026-08-31 09:27:20",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  26-27 $1,357,763",
+   "detected_at": "2026-08-31 09:27:20",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Minimum Salary Exception. Love of the Game. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
+   "detected_at": "2026-08-31 09:27:20",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 8/27/26",
+   "detected_at": "2026-08-31 09:27:20",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "Mexican LNBP Lobos Plateados 85, Gambusinos 75",
    "detected_at": "2026-08-30 22:57:07",
    "source": "SCORES",
@@ -9876,386 +10209,12 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Kristijan_Nikolov"
-  },
-  {
-   "detail": "Kristijan Nikolov  ~ CAREER  + 2026–present Rabotnički",
-   "detected_at": "2026-08-19 07:23:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Kristijan_Nikolov"
-  },
-  {
-   "detail": "Gora Camara  ~ team: Rinascita Basket Rimini -> Maxima Roma",
-   "detected_at": "2026-08-19 07:23:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Gora_Camara"
-  },
-  {
-   "detail": "Gora Camara  ~ number: 29 -> -",
-   "detected_at": "2026-08-19 07:23:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Gora_Camara"
-  },
-  {
-   "detail": "Gora Camara  ~ CAREER  + 2024–2026 Rinascita Basket Rimini",
-   "detected_at": "2026-08-19 07:23:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Gora_Camara"
-  },
-  {
-   "detail": "Gora Camara  ~ CAREER  + 2026–present Maxima Roma",
-   "detected_at": "2026-08-19 07:23:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Gora_Camara"
-  },
-  {
-   "detail": "Stephon Castle  ~ height_in: 8 -> 6",
-   "detected_at": "2026-08-19 02:04:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Stephon_Castle"
-  },
-  {
-   "detail": "Egemen Güven  ~ team: Yukatel Merkezefendi Basket -> Yukatel Denizli Basket",
-   "detected_at": "2026-08-19 02:04:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Egemen_G%C3%BCven"
-  },
-  {
-   "detail": "Egemen Güven  ~ CAREER  + 2026–present Denizli Basket",
-   "detected_at": "2026-08-19 02:04:46",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Egemen_G%C3%BCven"
-  },
-  {
-   "detail": "Yoan Makoundou  ~ position: Center / power forward -> Power Forward / Center",
-   "detected_at": "2026-08-19 01:41:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Yoan_Makoundou"
-  },
-  {
-   "detail": "Mahir Agva  ~ team: Yukatel Merkezefendi Basket -> Denizli Basket",
-   "detected_at": "2026-08-19 01:41:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Mahir_Agva"
-  },
-  {
-   "detail": "Mahir Agva  ~ CAREER  + 2025–present Denizli Basket",
-   "detected_at": "2026-08-19 01:41:46",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Mahir_Agva"
-  },
-  {
-   "detail": "Cyrille Eliezer-Vanerot  ~ league: LNB Élite -> Betlic ÉLITE",
-   "detected_at": "2026-08-19 01:41:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Cyrille_Eliezer-Vanerot"
-  },
-  {
-   "detail": "WNBA + Cheyenne Parker-Tyus → Las Vegas Aces",
-   "detected_at": "2026-08-18 22:54:13",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "WNBA Atlanta Dream 97, Las Vegas Aces 82",
-   "detected_at": "2026-08-18 22:54:13",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-18/Atlanta-at-Las-Vegas/158596"
-  },
-  {
-   "detail": "WNBA Chicago Sky 93, New York Liberty 86",
-   "detected_at": "2026-08-18 22:54:11",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-18/New-York-at-Chicago/158595"
-  },
-  {
-   "detail": "WNBA + Brittney Sykes → Toronto Tempo",
-   "detected_at": "2026-08-18 22:54:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "WNBA Indiana Fever 101, Toronto Tempo 95",
-   "detected_at": "2026-08-18 22:54:08",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-18/Indiana-at-Toronto/158684"
-  },
-  {
-   "detail": "WNBA Connecticut Sun 85, Los Angeles Sparks 77",
-   "detected_at": "2026-08-18 22:54:06",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-18/LA-Sparks-at-Connecticut/158594"
-  },
-  {
-   "detail": "WNBA + Kate Martin → Los Angeles Sparks",
-   "detected_at": "2026-08-18 22:54:05",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Stephon Castle  ~ height_in: 6 -> 8",
-   "detected_at": "2026-08-18 22:02:49",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Stephon_Castle"
-  },
-  {
-   "detail": "Bohdan Blyzniuk  ~ team: Free Agent -> New Taipei CTBC DEA",
-   "detected_at": "2026-08-18 21:39:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Bohdan_Blyzniuk"
-  },
-  {
-   "detail": "Bohdan Blyzniuk  ~ league: - -> Taiwan Professional Basketball League",
-   "detected_at": "2026-08-18 21:39:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Bohdan_Blyzniuk"
-  },
-  {
-   "detail": "Bohdan Blyzniuk  ~ number: - -> 32",
-   "detected_at": "2026-08-18 21:39:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Bohdan_Blyzniuk"
-  },
-  {
-   "detail": "Bohdan Blyzniuk  ~ CAREER  + 2026–present New Taipei CTBC DEA",
-   "detected_at": "2026-08-18 21:39:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Bohdan_Blyzniuk"
-  },
-  {
-   "detail": "Brandon Ingram  ~ CAREER  + –present Toronto Raptors",
-   "detected_at": "2026-08-18 18:58:44",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Brandon_Ingram"
-  },
-  {
-   "detail": "Malachi Smith (basketball)  ~ number: - -> 18",
-   "detected_at": "2026-08-18 18:35:43",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Malachi_Smith_(basketball)"
-  },
-  {
-   "detail": "Malachi Smith (basketball)  ~ CAREER  + –present Toronto Raptors",
-   "detected_at": "2026-08-18 18:35:43",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Malachi_Smith_(basketball)"
-  },
-  {
-   "detail": "Hunter Dickinson  ~ team: New Orleans Pelicans -> Free agent",
-   "detected_at": "2026-08-18 18:35:43",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Hunter_Dickinson"
-  },
-  {
-   "detail": "Hunter Dickinson  ~ league: NBA -> -",
-   "detected_at": "2026-08-18 18:35:43",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Hunter_Dickinson"
-  },
-  {
-   "detail": "Hunter Dickinson  ~ number: 4 -> -",
-   "detected_at": "2026-08-18 18:35:43",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Hunter_Dickinson"
-  },
-  {
-   "detail": "Hunter Dickinson  ~ CAREER  + New Orleans Pelicans",
-   "detected_at": "2026-08-18 18:35:43",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Hunter_Dickinson"
-  },
-  {
-   "detail": "Hunter Dickinson  ~ CAREER  + 2025–2026 →Birmingham Squadron",
-   "detected_at": "2026-08-18 18:35:43",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Hunter_Dickinson"
-  },
-  {
-   "detail": "Scott Bamforth  ~ team: Golden Eagle Ylli -> Fuerza Regia de Monterrey",
-   "detected_at": "2026-08-18 15:48:44",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Scott_Bamforth"
-  },
-  {
-   "detail": "Scott Bamforth  ~ league: Kosovo Basketball Superleague Liga Unike -> LNBP",
-   "detected_at": "2026-08-18 15:48:44",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Scott_Bamforth"
-  },
-  {
-   "detail": "Scott Bamforth  ~ number: 2 -> 4",
-   "detected_at": "2026-08-18 15:48:44",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Scott_Bamforth"
-  },
-  {
-   "detail": "Scott Bamforth  ~ CAREER  + 2025–present Fuerza Regia de Monterrey",
-   "detected_at": "2026-08-18 15:48:44",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Scott_Bamforth"
-  },
-  {
-   "detail": "Scott Bamforth  ~ CAREER  + 2025 Golden Eagle Ylli",
-   "detected_at": "2026-08-18 15:48:44",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Scott_Bamforth"
-  },
-  {
-   "detail": "Brandon Paul  ~ team: Fuerza Regia de Monterrey -> -",
-   "detected_at": "2026-08-18 15:25:44",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Brandon_Paul"
-  },
-  {
-   "detail": "Brandon Paul  ~ league: LNBP -> -",
-   "detected_at": "2026-08-18 15:25:44",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Brandon_Paul"
-  },
-  {
-   "detail": "Brandon Paul  ~ number: 3 -> -",
-   "detected_at": "2026-08-18 15:25:44",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Brandon_Paul"
-  },
-  {
-   "detail": "Brandon Paul  ~ CAREER  + 2025 Fuerza Regia de Monterrey",
-   "detected_at": "2026-08-18 15:25:44",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Brandon_Paul"
-  },
-  {
-   "detail": "Thomas Walkup  ~ team: Olympiacos -> Free Agent",
-   "detected_at": "2026-08-18 15:02:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Thomas_Walkup"
-  },
-  {
-   "detail": "Thomas Walkup  ~ league: GBL EuroLeague -> -",
-   "detected_at": "2026-08-18 15:02:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Thomas_Walkup"
-  },
-  {
-   "detail": "Thomas Walkup  ~ number: 0 -> -",
-   "detected_at": "2026-08-18 15:02:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Thomas_Walkup"
-  },
-  {
-   "detail": "Thomas Walkup  ~ CAREER  + 2021–2026 Olympiacos",
-   "detected_at": "2026-08-18 15:02:46",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Thomas_Walkup"
-  },
-  {
-   "detail": "- REMOVED Hunter Dickinson (NOP)",
-   "detected_at": "2026-08-18 14:39:54",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-08-18  New Orleans Pelicans waived center Hunter Dickinson.",
-   "detected_at": "2026-08-18 14:16:55",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
-  },
-  {
-   "detail": "Johni Broome  ~ number: - -> 40",
-   "detected_at": "2026-08-18 14:16:44",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Johni_Broome"
-  },
-  {
-   "detail": "Isaiah Canaan  ~ team: Free agent -> Trabzonspor",
-   "detected_at": "2026-08-18 13:30:44",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Isaiah_Canaan"
-  },
-  {
-   "detail": "Isaiah Canaan  ~ league: - -> BSL",
-   "detected_at": "2026-08-18 13:30:44",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Isaiah_Canaan"
-  },
-  {
-   "detail": "Isaiah Canaan  ~ CAREER  + 2026–present Trabzonspor",
-   "detected_at": "2026-08-18 13:30:44",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Isaiah_Canaan"
-  },
-  {
-   "detail": "Tre Mann  ~ number: 23 -> 22",
-   "detected_at": "2026-08-18 13:07:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Tre_Mann"
-  },
-  {
-   "detail": "2026-08-18  New Orleans Pelicans signed  Malik Dia to a Two-Way Contract.",
-   "detected_at": "2026-08-18 12:44:55",
-   "source": "TRANSACTIONS",
-   "type": "Signing"
-  },
-  {
-   "detail": "+ ADDED   Malik Dia (NOP)",
-   "detected_at": "2026-08-18 12:44:54",
-   "source": "PLAYERS",
-   "type": "ADDED"
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 2135,
-   "last": "2026-08-27 11:33:56"
+   "count": 2156,
+   "last": "2026-08-31 09:27:20"
   },
   "GLEAGUE": {
    "count": 23,
@@ -10278,22 +10237,22 @@
    "last": "2026-08-30 22:57:07"
   },
   "SHEETS": {
-   "count": 3535,
-   "last": "2026-08-29 17:25:58"
+   "count": 3559,
+   "last": "2026-08-31 09:27:27"
   },
   "TRANSACTIONS": {
    "count": 298,
    "last": "2026-08-29 08:20:55"
   },
   "WIKI": {
-   "count": 1981,
-   "last": "2026-08-30 12:01:47"
+   "count": 1990,
+   "last": "2026-08-31 09:34:48"
   },
   "WIKIWATCH": {
    "count": 47,
    "last": "2026-08-30 13:41:16"
   }
  },
- "generated_at": "2026-08-31T00:16:00",
- "total": 10203
+ "generated_at": "2026-08-31T09:34:52",
+ "total": 10257
 }
