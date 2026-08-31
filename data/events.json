@@ -1,6 +1,24 @@
 {
  "events": [
   {
+   "detail": "- REMOVED Matthew Murrell (UTA)",
+   "detected_at": "2026-08-31 12:06:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "~ CHANGED Julian Champagnie  school: St. John's -> St. John's, N.Y.",
+   "detected_at": "2026-08-31 12:06:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Bogdan Bogdanovic  name: Bogdan Bogdanović -> Bogdan Bogdanovic",
+   "detected_at": "2026-08-31 12:06:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "+ ADDED   Matthew Murrell (UTA)",
    "detected_at": "2026-08-31 12:05:56",
    "source": "PLAYERS",
@@ -10172,27 +10190,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Myles_Cale"
-  },
-  {
-   "detail": "Myles Cale  ~ league: - -> LNB Élite EuroLeague",
-   "detected_at": "2026-08-19 10:05:45",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Myles_Cale"
-  },
-  {
-   "detail": "Myles Cale  ~ number: - -> 0",
-   "detected_at": "2026-08-19 10:05:45",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Myles_Cale"
-  },
-  {
-   "detail": "Myles Cale  ~ CAREER  + 2026–present ASVEL",
-   "detected_at": "2026-08-19 10:05:45",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Myles_Cale"
   }
  ],
  "feeds": {
@@ -10205,8 +10202,8 @@
    "last": "2026-08-29 07:13:29"
   },
   "PLAYERS": {
-   "count": 690,
-   "last": "2026-08-31 12:05:56"
+   "count": 693,
+   "last": "2026-08-31 12:06:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10237,6 +10234,6 @@
    "last": "2026-08-31 09:35:01"
   }
  },
- "generated_at": "2026-08-31T12:06:07",
- "total": 10291
+ "generated_at": "2026-08-31T12:07:01",
+ "total": 10294
 }
