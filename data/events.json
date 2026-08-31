@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Mexican LNBP Lobos Plateados 85, Gambusinos 75",
+   "detected_at": "2026-08-30 22:57:07",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-30/Lobos-Plateados-at-Gambusinos/526600"
+  },
+  {
    "detail": "WNBA + Christyn Williams → Dallas Wings",
    "detected_at": "2026-08-30 21:56:45",
    "source": "REALGM",
@@ -10243,13 +10250,6 @@
    "detected_at": "2026-08-18 12:44:54",
    "source": "PLAYERS",
    "type": "ADDED"
-  },
-  {
-   "detail": "U18 Asia Cup A India 82, Kazakhstan 61",
-   "detected_at": "2026-08-18 12:36:06",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-18/Kazakhstan-at-India/528534"
   }
  ],
  "feeds": {
@@ -10274,8 +10274,8 @@
    "last": "2026-08-30 21:56:45"
   },
   "SCORES": {
-   "count": 450,
-   "last": "2026-08-30 21:56:45"
+   "count": 451,
+   "last": "2026-08-30 22:57:07"
   },
   "SHEETS": {
    "count": 3535,
@@ -10294,6 +10294,6 @@
    "last": "2026-08-30 13:41:16"
   }
  },
- "generated_at": "2026-08-30T22:56:01",
- "total": 10202
+ "generated_at": "2026-08-30T22:57:10",
+ "total": 10203
 }
