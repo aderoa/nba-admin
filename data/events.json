@@ -1,6 +1,24 @@
 {
  "events": [
   {
+   "detail": "+ ADDED   Matthew Murrell (UTA)",
+   "detected_at": "2026-08-31 12:05:56",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "~ CHANGED Bogdan Bogdanović  name: Bogdan Bogdanovic -> Bogdan Bogdanović",
+   "detected_at": "2026-08-31 12:05:56",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Julian Champagnie  school: St. John's, N.Y. -> St. John's",
+   "detected_at": "2026-08-31 12:05:56",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "European World Cup Qualifier Lithuania 78, Bosnia and Herzegovina 73",
    "detected_at": "2026-08-31 11:36:08",
    "source": "SCORES",
@@ -10175,27 +10193,6 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Myles_Cale"
-  },
-  {
-   "detail": "Henri Drell  ~ team: Joventut Badalona -> Neptūnas Klaipėda",
-   "detected_at": "2026-08-19 09:19:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Henri_Drell"
-  },
-  {
-   "detail": "Henri Drell  ~ league: Liga ACB -> LKL EuroCup",
-   "detected_at": "2026-08-19 09:19:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Henri_Drell"
-  },
-  {
-   "detail": "Henri Drell  ~ number: 0 -> -",
-   "detected_at": "2026-08-19 09:19:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Henri_Drell"
   }
  ],
  "feeds": {
@@ -10208,8 +10205,8 @@
    "last": "2026-08-29 07:13:29"
   },
   "PLAYERS": {
-   "count": 687,
-   "last": "2026-08-31 11:35:54"
+   "count": 690,
+   "last": "2026-08-31 12:05:56"
   },
   "RATINGS": {
    "count": 950,
@@ -10240,6 +10237,6 @@
    "last": "2026-08-31 09:35:01"
   }
  },
- "generated_at": "2026-08-31T12:05:01",
- "total": 10288
+ "generated_at": "2026-08-31T12:06:07",
+ "total": 10291
 }
