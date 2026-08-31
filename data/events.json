@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "European World Cup Qualifier Serbia 76, Italy 64",
+   "detected_at": "2026-08-31 13:40:16",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-31/Serbia-at-Italy/516990"
+  },
+  {
+   "detail": "European World Cup Qualifier Georgia 98, Portugal 90",
+   "detected_at": "2026-08-31 13:40:12",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-31/Georgia-at-Portugal/516972"
+  },
+  {
+   "detail": "European World Cup Qualifier Greece 108, Spain 106",
+   "detected_at": "2026-08-31 13:40:09",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-31/Spain-at-Greece/516971"
+  },
+  {
    "detail": "Justin Edwards (basketball, born 2003)  ~ CAREER  + 2024 →Delaware Blue Coats",
    "detected_at": "2026-08-31 13:25:47",
    "source": "WIKI",
@@ -10166,27 +10187,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Tre_Mann"
-  },
-  {
-   "detail": "Tre Mann  ~ CAREER  + 2026–present Cleveland Cavaliers",
-   "detected_at": "2026-08-19 10:28:48",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Tre_Mann"
-  },
-  {
-   "detail": "Jordan Walker (basketball)  ~ position: Point guard / Shooting guard -> Point guard / shooting guard",
-   "detected_at": "2026-08-19 10:28:48",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jordan_Walker_(basketball)"
-  },
-  {
-   "detail": "Jordan Walker (basketball)  ~ number: - -> 2",
-   "detected_at": "2026-08-19 10:28:48",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jordan_Walker_(basketball)"
   }
  ],
  "feeds": {
@@ -10211,8 +10211,8 @@
    "last": "2026-08-30 21:56:45"
   },
   "SCORES": {
-   "count": 459,
-   "last": "2026-08-31 11:36:08"
+   "count": 462,
+   "last": "2026-08-31 13:40:16"
   },
   "SHEETS": {
    "count": 3559,
@@ -10231,6 +10231,6 @@
    "last": "2026-08-31 09:35:01"
   }
  },
- "generated_at": "2026-08-31T13:39:06",
- "total": 10299
+ "generated_at": "2026-08-31T13:40:19",
+ "total": 10302
 }
