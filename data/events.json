@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "~ CHANGED Bogdan Bogdanovic  name: Bogdan Bogdanović -> Bogdan Bogdanovic",
+   "detected_at": "2026-08-31 09:57:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "Wikipedia says Hu Jinqiu has signed for Zhejiang Lions",
    "detected_at": "2026-08-31 09:35:01",
    "source": "WIKIWATCH",
@@ -10202,13 +10208,6 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Alexander_Madsen"
-  },
-  {
-   "detail": "Nobel Boungou Colo  ~ number: - -> 16",
-   "detected_at": "2026-08-19 07:23:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Nobel_Boungou_Colo"
   }
  ],
  "feeds": {
@@ -10221,8 +10220,8 @@
    "last": "2026-08-29 07:13:29"
   },
   "PLAYERS": {
-   "count": 673,
-   "last": "2026-08-29 09:03:54"
+   "count": 674,
+   "last": "2026-08-31 09:57:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10253,6 +10252,6 @@
    "last": "2026-08-31 09:35:01"
   }
  },
- "generated_at": "2026-08-31T09:57:40",
- "total": 10262
+ "generated_at": "2026-08-31T09:58:03",
+ "total": 10263
 }
