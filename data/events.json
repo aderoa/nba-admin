@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "WNBA Golden State Valkyries 86, Portland Fire 69",
+   "detected_at": "2026-08-30 20:54:15",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-30/Golden-State-at-Portland/158623"
+  },
+  {
+   "detail": "Mexican LNBP Astros de Jalisco 77, Freseros Irapuato 67",
+   "detected_at": "2026-08-30 20:54:11",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-30/Astros-de-Jalisco-at-Freseros-Irapuato/526599"
+  },
+  {
+   "detail": "Mexican LNBP Santos de San Luis Potosi 95, Diablos Rojos 82",
+   "detected_at": "2026-08-30 20:54:06",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-30/Santos-de-San-Luis-Potosi-at-Diablos-Rojos/526598"
+  },
+  {
    "detail": "WNBA Los Angeles Sparks 90, Seattle Storm 74",
    "detected_at": "2026-08-30 18:45:01",
    "source": "SCORES",
@@ -10229,27 +10250,6 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Pavlin_Ivanov"
-  },
-  {
-   "detail": "Pavlin Ivanov  ~ CAREER  + 2026–present Balkan",
-   "detected_at": "2026-08-18 11:35:45",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Pavlin_Ivanov"
-  },
-  {
-   "detail": "Garrison Mathews  ~ number: - -> 24",
-   "detected_at": "2026-08-18 10:26:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Garrison_Mathews"
-  },
-  {
-   "detail": "Eli Ndiaye  ~ CAREER  + 2026–present Real Madrid",
-   "detected_at": "2026-08-18 10:26:46",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Eli_Ndiaye"
   }
  ],
  "feeds": {
@@ -10274,8 +10274,8 @@
    "last": "2026-08-30 18:44:55"
   },
   "SCORES": {
-   "count": 446,
-   "last": "2026-08-30 18:45:01"
+   "count": 449,
+   "last": "2026-08-30 20:54:15"
   },
   "SHEETS": {
    "count": 3535,
@@ -10294,6 +10294,6 @@
    "last": "2026-08-30 13:41:16"
   }
  },
- "generated_at": "2026-08-30T20:53:00",
- "total": 10197
+ "generated_at": "2026-08-30T20:54:16",
+ "total": 10200
 }
