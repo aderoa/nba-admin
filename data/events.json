@@ -1,6 +1,55 @@
 {
  "events": [
   {
+   "detail": "European World Cup Qualifier Slovenia 92, Hungary 77",
+   "detected_at": "2026-08-31 10:35:22",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-30/Hungary-at-Slovenia/517027"
+  },
+  {
+   "detail": "African World Cup Qualifier Senegal 97, Mali 71",
+   "detected_at": "2026-08-31 10:35:19",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-30/Senegal-at-Mali/517066"
+  },
+  {
+   "detail": "African World Cup Qualifier South Sudan 79, Tunisia 75",
+   "detected_at": "2026-08-31 10:35:17",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-30/South-Sudan-at-Tunisia/517048"
+  },
+  {
+   "detail": "Asian World Cup Qualifier Philippines 68, Iran 56",
+   "detected_at": "2026-08-31 10:35:14",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-30/Iran-at-Philippines/516937"
+  },
+  {
+   "detail": "Asian World Cup Qualifier China 89, Lebanon 87",
+   "detected_at": "2026-08-31 10:35:11",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-31/Lebanon-at-China/516955"
+  },
+  {
+   "detail": "Asian World Cup Qualifier Japan 123, Qatar 70",
+   "detected_at": "2026-08-31 10:35:08",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-31/Qatar-at-Japan/516954"
+  },
+  {
+   "detail": "Asian World Cup Qualifier Korea 85, Saudi Arabia 72",
+   "detected_at": "2026-08-31 10:35:05",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-31/Saudi-Arabia-at-Korea/516953"
+  },
+  {
    "detail": "~ CHANGED Bogdan Bogdanović  name: Bogdan Bogdanovic -> Bogdan Bogdanović",
    "detected_at": "2026-08-31 10:09:54",
    "source": "PLAYERS",
@@ -10156,55 +10205,6 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Ryan_Arcidiacono"
-  },
-  {
-   "detail": "Marquese Chriss  ~ team: Shandong Hi-Speed Kirin -> Liaoning Flying Leopards",
-   "detected_at": "2026-08-19 07:23:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Marquese_Chriss"
-  },
-  {
-   "detail": "Marquese Chriss  ~ CAREER  + 2024–2026 Shandong Hi-Speed Kirin",
-   "detected_at": "2026-08-19 07:23:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Marquese_Chriss"
-  },
-  {
-   "detail": "Marquese Chriss  ~ CAREER  + 2026–present Liaoning Flying Leopards",
-   "detected_at": "2026-08-19 07:23:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Marquese_Chriss"
-  },
-  {
-   "detail": "Xavier Moon  ~ position: Point guard -> Point guard / shooting guard",
-   "detected_at": "2026-08-19 07:23:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Xavier_Moon"
-  },
-  {
-   "detail": "Alexander Madsen  ~ team: ASK Karditsas -> Szolnoki Olajbányász",
-   "detected_at": "2026-08-19 07:23:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Alexander_Madsen"
-  },
-  {
-   "detail": "Alexander Madsen  ~ league: Greek Basketball League -> Hungarian Basketball League",
-   "detected_at": "2026-08-19 07:23:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Alexander_Madsen"
-  },
-  {
-   "detail": "Alexander Madsen  ~ number: 24 -> -",
-   "detected_at": "2026-08-19 07:23:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Alexander_Madsen"
   }
  ],
  "feeds": {
@@ -10229,8 +10229,8 @@
    "last": "2026-08-30 21:56:45"
   },
   "SCORES": {
-   "count": 451,
-   "last": "2026-08-30 22:57:07"
+   "count": 458,
+   "last": "2026-08-31 10:35:22"
   },
   "SHEETS": {
    "count": 3559,
@@ -10249,6 +10249,6 @@
    "last": "2026-08-31 09:35:01"
   }
  },
- "generated_at": "2026-08-31T10:34:01",
- "total": 10266
+ "generated_at": "2026-08-31T10:35:23",
+ "total": 10273
 }
