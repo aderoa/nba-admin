@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "~ CHANGED Bogdan Bogdanovic  name: Bogdan Bogdanović -> Bogdan Bogdanovic",
+   "detected_at": "2026-08-31 10:08:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "~ CHANGED Bogdan Bogdanović  name: Bogdan Bogdanovic -> Bogdan Bogdanović",
    "detected_at": "2026-08-31 10:07:54",
    "source": "PLAYERS",
@@ -10200,13 +10206,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Alexander_Madsen"
-  },
-  {
-   "detail": "Alexander Madsen  ~ CAREER  + 2025–2026 Karditsa",
-   "detected_at": "2026-08-19 07:23:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Alexander_Madsen"
   }
  ],
  "feeds": {
@@ -10219,8 +10218,8 @@
    "last": "2026-08-29 07:13:29"
   },
   "PLAYERS": {
-   "count": 675,
-   "last": "2026-08-31 10:07:54"
+   "count": 676,
+   "last": "2026-08-31 10:08:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10251,6 +10250,6 @@
    "last": "2026-08-31 09:35:01"
   }
  },
- "generated_at": "2026-08-31T10:08:01",
- "total": 10264
+ "generated_at": "2026-08-31T10:09:02",
+ "total": 10265
 }
