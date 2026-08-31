@@ -1,6 +1,25 @@
 {
  "events": [
   {
+   "detail": "European World Cup Qualifier Lithuania 78, Bosnia and Herzegovina 73",
+   "detected_at": "2026-08-31 11:36:08",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/national/boxscore/2026-08-31/Bosnia-and-Herzegovina-at-Lithuania/516989"
+  },
+  {
+   "detail": "~ CHANGED Julian Champagnie  school: St. John's -> St. John's, N.Y.",
+   "detected_at": "2026-08-31 11:35:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Bogdan Bogdanovic  name: Bogdan Bogdanović -> Bogdan Bogdanovic",
+   "detected_at": "2026-08-31 11:35:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "Dejan Davidovac  ~ position: Power forward / small forward -> Power forward / center",
    "detected_at": "2026-08-31 11:30:47",
    "source": "WIKI",
@@ -10177,26 +10196,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Henri_Drell"
-  },
-  {
-   "detail": "Henri Drell  ~ CAREER  + 2025–2026 Joventut Badalona",
-   "detected_at": "2026-08-19 09:19:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Henri_Drell"
-  },
-  {
-   "detail": "Henri Drell  ~ CAREER  + 2026–present Neptūnas Klaipėda",
-   "detected_at": "2026-08-19 09:19:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Henri_Drell"
-  },
-  {
-   "detail": "2026-27 Two-Way Signings  - REMOVED Hunter Dickinson New Orleans Pelicans",
-   "detected_at": "2026-08-19 09:08:55",
-   "source": "DOCS",
-   "type": "REMOVED"
   }
  ],
  "feeds": {
@@ -10209,8 +10208,8 @@
    "last": "2026-08-29 07:13:29"
   },
   "PLAYERS": {
-   "count": 685,
-   "last": "2026-08-31 11:11:54"
+   "count": 687,
+   "last": "2026-08-31 11:35:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10221,8 +10220,8 @@
    "last": "2026-08-30 21:56:45"
   },
   "SCORES": {
-   "count": 458,
-   "last": "2026-08-31 10:35:22"
+   "count": 459,
+   "last": "2026-08-31 11:36:08"
   },
   "SHEETS": {
    "count": 3559,
@@ -10241,6 +10240,6 @@
    "last": "2026-08-31 09:35:01"
   }
  },
- "generated_at": "2026-08-31T11:35:02",
- "total": 10285
+ "generated_at": "2026-08-31T11:36:09",
+ "total": 10288
 }
