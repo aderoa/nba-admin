@@ -1,6 +1,34 @@
 {
  "events": [
   {
+   "detail": "Dalen Terry  ~ team: Free agent -> Golden State Warriors",
+   "detected_at": "2026-08-31 20:02:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Dalen_Terry"
+  },
+  {
+   "detail": "Dalen Terry  ~ league: - -> NBA",
+   "detected_at": "2026-08-31 20:02:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Dalen_Terry"
+  },
+  {
+   "detail": "Dalen Terry  ~ number: - -> 21",
+   "detected_at": "2026-08-31 20:02:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Dalen_Terry"
+  },
+  {
+   "detail": "Dalen Terry  ~ CAREER  + –present Golden State Warriors",
+   "detected_at": "2026-08-31 20:02:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Dalen_Terry"
+  },
+  {
    "detail": "Bennedict Mathurin  ~ CAREER  + New Orleans Pelicans",
    "detected_at": "2026-08-31 16:58:48",
    "source": "WIKI",
@@ -10156,34 +10184,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Peyton_Watson"
-  },
-  {
-   "detail": "Peyton Watson  ~ number: 8 -> -",
-   "detected_at": "2026-08-19 19:24:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Peyton_Watson"
-  },
-  {
-   "detail": "Mike Conley Jr.  ~ number: 45 -> 44",
-   "detected_at": "2026-08-19 19:24:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Mike_Conley_Jr."
-  },
-  {
-   "detail": "Peyton Watson  ~ team: Free agent -> Cleveland Cavaliers",
-   "detected_at": "2026-08-19 19:01:45",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Peyton_Watson"
-  },
-  {
-   "detail": "Peyton Watson  ~ league: - -> NBA",
-   "detected_at": "2026-08-19 19:01:45",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Peyton_Watson"
   }
  ],
  "feeds": {
@@ -10220,14 +10220,14 @@
    "last": "2026-08-31 14:13:56"
   },
   "WIKI": {
-   "count": 2007,
-   "last": "2026-08-31 16:58:48"
+   "count": 2011,
+   "last": "2026-08-31 20:02:47"
   },
   "WIKIWATCH": {
    "count": 52,
    "last": "2026-08-31 09:35:01"
   }
  },
- "generated_at": "2026-08-31T19:54:04",
- "total": 10317
+ "generated_at": "2026-08-31T20:02:48",
+ "total": 10321
 }
