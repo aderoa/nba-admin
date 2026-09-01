@@ -1,6 +1,41 @@
 {
  "events": [
   {
+   "detail": "Wikipedia says Mike James has signed for Anadolu Efes",
+   "detected_at": "2026-09-01 11:02:17",
+   "source": "WIKIWATCH",
+   "type": "CLUB",
+   "url": "https://en.wikipedia.org/wiki/Mike_James_(basketball,_born_1990)"
+  },
+  {
+   "detail": "Wikipedia says Mike James's league is now BSL EuroLeague",
+   "detected_at": "2026-09-01 11:02:17",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "https://en.wikipedia.org/wiki/Mike_James_(basketball,_born_1990)"
+  },
+  {
+   "detail": "Wikipedia says Mike James's position is now Point guard",
+   "detected_at": "2026-09-01 11:02:17",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "https://en.wikipedia.org/wiki/Mike_James_(basketball,_born_1990)"
+  },
+  {
+   "detail": "Wikipedia says Mike James's number is now 55",
+   "detected_at": "2026-09-01 11:02:17",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "https://en.wikipedia.org/wiki/Mike_James_(basketball,_born_1990)"
+  },
+  {
+   "detail": "Wikipedia edited Mike James's page",
+   "detected_at": "2026-09-01 11:02:17",
+   "source": "WIKIWATCH",
+   "type": "PAGE",
+   "url": "https://en.wikipedia.org/wiki/Mike_James_(basketball,_born_1990)"
+  },
+  {
    "detail": "Tacko Fall  ~ team: Ningbo Rockets -> Philadelphia 76ers",
    "detected_at": "2026-09-01 10:52:48",
    "source": "WIKI",
@@ -10148,41 +10183,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Terrance_Campbell"
-  },
-  {
-   "detail": "Terrance Campbell  ~ league: - -> LNBP",
-   "detected_at": "2026-08-20 15:05:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Terrance_Campbell"
-  },
-  {
-   "detail": "Terrance Campbell  ~ number: - -> 44",
-   "detected_at": "2026-08-20 15:05:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Terrance_Campbell"
-  },
-  {
-   "detail": "Terrance Campbell  ~ CAREER  + 2026–present Soles de Mexicali",
-   "detected_at": "2026-08-20 15:05:06",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Terrance_Campbell"
-  },
-  {
-   "detail": "Dragan Apić  ~ team: Río Breogán -> Soles de Mexicali",
-   "detected_at": "2026-08-20 15:05:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Dragan_Api%C4%87"
-  },
-  {
-   "detail": "Dragan Apić  ~ league: Liga ACB -> LNBP",
-   "detected_at": "2026-08-20 15:05:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Dragan_Api%C4%87"
   }
  ],
  "feeds": {
@@ -10223,10 +10223,10 @@
    "last": "2026-09-01 10:52:48"
   },
   "WIKIWATCH": {
-   "count": 64,
-   "last": "2026-09-01 10:41:11"
+   "count": 69,
+   "last": "2026-09-01 11:02:17"
   }
  },
- "generated_at": "2026-09-01T11:02:03",
- "total": 10406
+ "generated_at": "2026-09-01T11:03:01",
+ "total": 10411
 }
