@@ -1,6 +1,18 @@
 {
  "events": [
   {
+   "detail": "- REMOVED Alex Antetokounmpo (MIL)",
+   "detected_at": "2026-09-01 09:10:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Thanasis Antetokounmpo (MIL)",
+   "detected_at": "2026-09-01 09:10:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
    "detail": "Bennedict Mathurin  ~ CAREER  + Los Angeles Clippers",
    "detected_at": "2026-09-01 08:57:57",
    "source": "WIKI",
@@ -10174,19 +10186,6 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Donatas_Motiej%C5%ABnas"
-  },
-  {
-   "detail": "Donatas Motiejūnas  ~ CAREER  + 2008–2009 →Aisčiai",
-   "detected_at": "2026-08-20 10:21:44",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Donatas_Motiej%C5%ABnas"
-  },
-  {
-   "detail": "~ CHANGED Haywood Highsmith  school: Wheeling Jesuit -> Wheeling Jesuit ",
-   "detected_at": "2026-08-20 09:58:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10199,8 +10198,8 @@
    "last": "2026-09-01 07:18:46"
   },
   "PLAYERS": {
-   "count": 698,
-   "last": "2026-08-31 15:09:55"
+   "count": 700,
+   "last": "2026-09-01 09:10:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10231,6 +10230,6 @@
    "last": "2026-09-01 07:55:11"
   }
  },
- "generated_at": "2026-09-01T09:10:02",
- "total": 10384
+ "generated_at": "2026-09-01T09:11:00",
+ "total": 10386
 }
