@@ -1,6 +1,41 @@
 {
  "events": [
   {
+   "detail": "E. J. Liddell  ~ number: 14 -> 32",
+   "detected_at": "2026-09-01 11:38:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/E._J._Liddell"
+  },
+  {
+   "detail": "Jeremiah Robinson-Earl  ~ number: 25 -> 3",
+   "detected_at": "2026-09-01 11:38:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jeremiah_Robinson-Earl"
+  },
+  {
+   "detail": "Nenad Dimitrijević  ~ number: 23 -> 7",
+   "detected_at": "2026-09-01 11:38:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Nenad_Dimitrijevi%C4%87"
+  },
+  {
+   "detail": "Stefan Jović  ~ number: 16 -> 24",
+   "detected_at": "2026-09-01 11:38:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Stefan_Jovi%C4%87"
+  },
+  {
+   "detail": "Luka Božić  ~ CAREER  + 2024–2025 Força Lleida",
+   "detected_at": "2026-09-01 11:38:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Luka_Bo%C5%BEi%C4%87"
+  },
+  {
    "detail": "Wikipedia says EJ Liddell has signed for Aris Thessaloniki",
    "detected_at": "2026-09-01 11:27:10",
    "source": "WIKIWATCH",
@@ -10159,37 +10194,6 @@
    "detected_at": "2026-08-20 19:43:54",
    "source": "PLAYERS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Cam Whitmore  team: WAS -> CLE",
-   "detected_at": "2026-08-20 19:43:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Dennis Schröder  name: Dennis Schroder -> Dennis Schröder",
-   "detected_at": "2026-08-20 19:43:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Dennis Schröder  team: CLE -> CHA",
-   "detected_at": "2026-08-20 19:43:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Dennis Schroder  name: Dennis Schröder -> Dennis Schroder",
-   "detected_at": "2026-08-20 19:42:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Ryan Boatright  ~ team: Brillantes del Zulia -> Free agent",
-   "detected_at": "2026-08-20 19:42:42",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Ryan_Boatright"
   }
  ],
  "feeds": {
@@ -10226,14 +10230,14 @@
    "last": "2026-08-31 14:13:56"
   },
   "WIKI": {
-   "count": 2055,
-   "last": "2026-09-01 11:15:48"
+   "count": 2060,
+   "last": "2026-09-01 11:38:47"
   },
   "WIKIWATCH": {
    "count": 95,
    "last": "2026-09-01 11:27:10"
   }
  },
- "generated_at": "2026-09-01T11:30:00",
- "total": 10439
+ "generated_at": "2026-09-01T11:38:54",
+ "total": 10444
 }
