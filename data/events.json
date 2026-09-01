@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "2026-09-01  Charlotte Hornets waived forward Josiah Allick.",
+   "detected_at": "2026-09-01 16:30:55",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
    "detail": "Shake Milton  ~ league: Israeli Premier League EuroCup -> Ligat HaAl EuroCup",
    "detected_at": "2026-09-01 14:22:52",
    "source": "WIKI",
@@ -10191,13 +10197,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Cam_Whitmore"
-  },
-  {
-   "detail": "Cam Whitmore  ~ number: 1 -> -",
-   "detected_at": "2026-08-20 20:28:43",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Cam_Whitmore"
   }
  ],
  "feeds": {
@@ -10230,8 +10229,8 @@
    "last": "2026-08-31 09:27:27"
   },
   "TRANSACTIONS": {
-   "count": 300,
-   "last": "2026-08-31 14:13:56"
+   "count": 301,
+   "last": "2026-09-01 16:30:55"
   },
   "WIKI": {
    "count": 2072,
@@ -10242,6 +10241,6 @@
    "last": "2026-09-01 11:39:25"
   }
  },
- "generated_at": "2026-09-01T16:30:02",
- "total": 10461
+ "generated_at": "2026-09-01T16:31:00",
+ "total": 10462
 }
