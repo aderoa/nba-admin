@@ -1,6 +1,41 @@
 {
  "events": [
   {
+   "detail": "Mexican LNBP Soles 89, El Calor de Cancun 86",
+   "detected_at": "2026-08-31 22:58:12",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-30/El-Calor-de-Cancun-at-Soles/526601"
+  },
+  {
+   "detail": "Mexican LNBP + Jordan Geronimo → El Calor de Cancun",
+   "detected_at": "2026-08-31 22:58:10",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Mexican LNBP + Sa'eed Nelson → El Calor de Cancun",
+   "detected_at": "2026-08-31 22:58:10",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Mexican LNBP Abejas 76, Fuerza Regia 75",
+   "detected_at": "2026-08-31 22:58:07",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-08-30/Abejas-at-Fuerza-Regia/526597"
+  },
+  {
+   "detail": "Mexican LNBP + Ant Nelson → Fuerza Regia",
+   "detected_at": "2026-08-31 22:58:05",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
    "detail": "Jesse Edwards (basketball)  ~ team: Roma SPQR -> Free agent",
    "detected_at": "2026-08-31 21:57:47",
    "source": "WIKI",
@@ -10149,41 +10184,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-19/Minnesota-at-Golden-State/158597"
-  },
-  {
-   "detail": "Mexican LNBP Dorados de Chihuahua 97, Abejas 81",
-   "detected_at": "2026-08-19 23:06:06",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-19/Abejas-at-Dorados-de-Chihuahua/526161"
-  },
-  {
-   "detail": "Puerto Rican BSN Vaqueros de Bayamon 97, Santeros de Aguada 79",
-   "detected_at": "2026-08-19 22:05:58",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-19/Vaqueros-de-Bayamon-at-Santeros-de-Aguada/533491"
-  },
-  {
-   "detail": "WNBA + Zaay Green → Toronto Tempo",
-   "detected_at": "2026-08-19 20:02:05",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "WNBA + Darianna Littlepage-Buggs → Washington Mystics",
-   "detected_at": "2026-08-19 20:02:05",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "WNBA + Rori Harmon → Washington Mystics",
-   "detected_at": "2026-08-19 20:02:05",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10204,12 +10204,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 110,
-   "last": "2026-08-30 21:56:45"
+   "count": 113,
+   "last": "2026-08-31 22:58:10"
   },
   "SCORES": {
-   "count": 462,
-   "last": "2026-08-31 13:40:16"
+   "count": 464,
+   "last": "2026-08-31 22:58:12"
   },
   "SHEETS": {
    "count": 3559,
@@ -10228,6 +10228,6 @@
    "last": "2026-08-31 09:35:01"
   }
  },
- "generated_at": "2026-08-31T22:57:00",
- "total": 10324
+ "generated_at": "2026-08-31T22:58:17",
+ "total": 10329
 }
