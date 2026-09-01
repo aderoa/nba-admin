@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Wikipedia says Russell Westbrook's career position is now Point guard",
+   "detected_at": "2026-09-01 10:41:11",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "https://en.wikipedia.org/wiki/Russell_Westbrook"
+  },
+  {
+   "detail": "Wikipedia edited Russell Westbrook's page",
+   "detected_at": "2026-09-01 10:41:11",
+   "source": "WIKIWATCH",
+   "type": "PAGE",
+   "url": "https://en.wikipedia.org/wiki/Russell_Westbrook"
+  },
+  {
    "detail": "Wikipedia says Armoni Brooks has signed for Valencia Basket",
    "detected_at": "2026-09-01 10:16:13",
    "source": "WIKIWATCH",
@@ -10169,20 +10183,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Jordan_Sakho"
-  },
-  {
-   "detail": "Jordan Sakho  ~ CAREER  + 2016–2021 Manresa",
-   "detected_at": "2026-08-20 15:05:06",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Jordan_Sakho"
-  },
-  {
-   "detail": "Jordan Sakho  ~ CAREER  + 2020–2021 →San Pablo Burgos",
-   "detected_at": "2026-08-20 15:05:06",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Jordan_Sakho"
   }
  ],
  "feeds": {
@@ -10223,10 +10223,10 @@
    "last": "2026-09-01 10:06:47"
   },
   "WIKIWATCH": {
-   "count": 62,
-   "last": "2026-09-01 10:16:13"
+   "count": 64,
+   "last": "2026-09-01 10:41:11"
   }
  },
- "generated_at": "2026-09-01T10:41:00",
- "total": 10400
+ "generated_at": "2026-09-01T10:42:01",
+ "total": 10402
 }
