@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Simas Jasaitis  ~ career_end: - -> 2023",
+   "detected_at": "2026-09-01 13:10:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Simas_Jasaitis"
+  },
+  {
+   "detail": "Simas Jasaitis  ~ CAREER  + 2023 Orlandina Basket",
+   "detected_at": "2026-09-01 13:10:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Simas_Jasaitis"
+  },
+  {
    "detail": "Jacob Toppin  ~ position: Small forward -> Power forward",
    "detected_at": "2026-09-01 12:24:20",
    "source": "WIKI",
@@ -10184,20 +10198,6 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Julian_Reese"
-  },
-  {
-   "detail": "Julian Reese  ~ CAREER  + 2026 →Capital City Go-Go",
-   "detected_at": "2026-08-20 20:05:43",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Julian_Reese"
-  },
-  {
-   "detail": "Eren Beyaz  ~ team: Denizli Basket (2006) -> Denizli Basket",
-   "detected_at": "2026-08-20 20:05:43",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Eren_Beyaz"
   }
  ],
  "feeds": {
@@ -10234,14 +10234,14 @@
    "last": "2026-08-31 14:13:56"
   },
   "WIKI": {
-   "count": 2061,
-   "last": "2026-09-01 12:24:20"
+   "count": 2063,
+   "last": "2026-09-01 13:10:47"
   },
   "WIKIWATCH": {
    "count": 100,
    "last": "2026-09-01 11:39:25"
   }
  },
- "generated_at": "2026-09-01T13:02:00",
- "total": 10450
+ "generated_at": "2026-09-01T13:10:47",
+ "total": 10452
 }
