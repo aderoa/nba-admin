@@ -1,6 +1,41 @@
 {
  "events": [
   {
+   "detail": "Wikipedia says Luka Bozic has signed for Coviran Granada",
+   "detected_at": "2026-09-01 11:39:25",
+   "source": "WIKIWATCH",
+   "type": "CLUB",
+   "url": "https://en.wikipedia.org/wiki/Luka_Bo%C5%BEi%C4%87"
+  },
+  {
+   "detail": "Wikipedia says Luka Bozic's league is now Liga ACB",
+   "detected_at": "2026-09-01 11:39:25",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "https://en.wikipedia.org/wiki/Luka_Bo%C5%BEi%C4%87"
+  },
+  {
+   "detail": "Wikipedia says Luka Bozic's position is now Small forward",
+   "detected_at": "2026-09-01 11:39:25",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "https://en.wikipedia.org/wiki/Luka_Bo%C5%BEi%C4%87"
+  },
+  {
+   "detail": "Wikipedia says Luka Bozic's number is now 29",
+   "detected_at": "2026-09-01 11:39:25",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "https://en.wikipedia.org/wiki/Luka_Bo%C5%BEi%C4%87"
+  },
+  {
+   "detail": "Wikipedia edited Luka Bozic's page",
+   "detected_at": "2026-09-01 11:39:25",
+   "source": "WIKIWATCH",
+   "type": "PAGE",
+   "url": "https://en.wikipedia.org/wiki/Luka_Bo%C5%BEi%C4%87"
+  },
+  {
    "detail": "E. J. Liddell  ~ number: 14 -> 32",
    "detected_at": "2026-09-01 11:38:47",
    "source": "WIKI",
@@ -10163,37 +10198,6 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Eren_Beyaz"
-  },
-  {
-   "detail": "Tyler Stone (basketball)  ~ CAREER  + 2014–2015 Denizli Basket",
-   "detected_at": "2026-08-20 20:05:43",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Tyler_Stone_(basketball)"
-  },
-  {
-   "detail": "~ CHANGED Julian Reese  team: WAS -> DEN",
-   "detected_at": "2026-08-20 19:43:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Peyton Watson  team: DEN -> CLE",
-   "detected_at": "2026-08-20 19:43:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Max Strus  team: CLE -> LAC",
-   "detected_at": "2026-08-20 19:43:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Tre Mann  team: CHA -> WAS",
-   "detected_at": "2026-08-20 19:43:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10234,10 +10238,10 @@
    "last": "2026-09-01 11:38:47"
   },
   "WIKIWATCH": {
-   "count": 95,
-   "last": "2026-09-01 11:27:10"
+   "count": 100,
+   "last": "2026-09-01 11:39:25"
   }
  },
- "generated_at": "2026-09-01T11:38:54",
- "total": 10444
+ "generated_at": "2026-09-01T11:40:05",
+ "total": 10449
 }
