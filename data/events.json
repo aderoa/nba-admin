@@ -1,6 +1,41 @@
 {
  "events": [
   {
+   "detail": "Wikipedia says Walter Tavares has signed for Real Madrid",
+   "detected_at": "2026-09-02 15:55:57",
+   "source": "WIKIWATCH",
+   "type": "CLUB",
+   "url": "https://en.wikipedia.org/wiki/Edy_Tavares"
+  },
+  {
+   "detail": "Wikipedia says Walter Tavares's league is now Liga ACB EuroLeague",
+   "detected_at": "2026-09-02 15:55:57",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "https://en.wikipedia.org/wiki/Edy_Tavares"
+  },
+  {
+   "detail": "Wikipedia says Walter Tavares's position is now Center",
+   "detected_at": "2026-09-02 15:55:57",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "https://en.wikipedia.org/wiki/Edy_Tavares"
+  },
+  {
+   "detail": "Wikipedia says Walter Tavares's number is now 22",
+   "detected_at": "2026-09-02 15:55:57",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "https://en.wikipedia.org/wiki/Edy_Tavares"
+  },
+  {
+   "detail": "Wikipedia edited Walter Tavares's page",
+   "detected_at": "2026-09-02 15:55:57",
+   "source": "WIKIWATCH",
+   "type": "PAGE",
+   "url": "https://en.wikipedia.org/wiki/Edy_Tavares"
+  },
+  {
    "detail": "2026-09-02  Charlotte Hornets waived forward Trey Townsend.",
    "detected_at": "2026-09-02 15:10:55",
    "source": "TRANSACTIONS",
@@ -10157,41 +10192,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Dino_Radon%C4%8Di%C4%87"
-  },
-  {
-   "detail": "Dino Radončić  ~ CAREER  + 2025–present Coruña",
-   "detected_at": "2026-08-21 10:44:40",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Dino_Radon%C4%8Di%C4%87"
-  },
-  {
-   "detail": "Tomas Dimša  ~ number: - -> 33",
-   "detected_at": "2026-08-21 10:44:40",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Tomas_Dim%C5%A1a"
-  },
-  {
-   "detail": "Ömercan İlyasoğlu  ~ position: Point guard / shooting guard -> Point guard",
-   "detected_at": "2026-08-21 10:44:40",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/%C3%96mercan_%C4%B0lyaso%C4%9Flu"
-  },
-  {
-   "detail": "Ömercan İlyasoğlu  ~ height_ft: 6 -> -",
-   "detected_at": "2026-08-21 10:44:40",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/%C3%96mercan_%C4%B0lyaso%C4%9Flu"
-  },
-  {
-   "detail": "Ömercan İlyasoğlu  ~ height_in: 5 -> -",
-   "detected_at": "2026-08-21 10:44:40",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/%C3%96mercan_%C4%B0lyaso%C4%9Flu"
   }
  ],
  "feeds": {
@@ -10232,10 +10232,10 @@
    "last": "2026-09-02 14:46:47"
   },
   "WIKIWATCH": {
-   "count": 110,
-   "last": "2026-09-02 10:04:11"
+   "count": 115,
+   "last": "2026-09-02 15:55:57"
   }
  },
- "generated_at": "2026-09-02T15:55:47",
- "total": 10540
+ "generated_at": "2026-09-02T15:57:01",
+ "total": 10545
 }
