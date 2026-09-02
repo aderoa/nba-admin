@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "~ CHANGED Haywood Highsmith  school: Wheeling Jesuit  -> Wheeling Jesuit",
+   "detected_at": "2026-09-02 13:14:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "~ CHANGED Haywood Highsmith  school: Wheeling Jesuit -> Wheeling Jesuit ",
    "detected_at": "2026-09-02 12:30:54",
    "source": "PLAYERS",
@@ -10189,13 +10195,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Julian_Reese"
-  },
-  {
-   "detail": "U18 Asia Cup A China 117, Philippines 103",
-   "detected_at": "2026-08-21 08:05:08",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-21/Philippines-at-China/528495"
   }
  ],
  "feeds": {
@@ -10208,8 +10207,8 @@
    "last": "2026-09-01 07:18:46"
   },
   "PLAYERS": {
-   "count": 707,
-   "last": "2026-09-02 12:30:54"
+   "count": 708,
+   "last": "2026-09-02 13:14:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10240,6 +10239,6 @@
    "last": "2026-09-02 10:04:11"
   }
  },
- "generated_at": "2026-09-02T13:14:39",
- "total": 10529
+ "generated_at": "2026-09-02T13:15:01",
+ "total": 10530
 }
