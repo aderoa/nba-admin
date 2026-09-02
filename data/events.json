@@ -1,6 +1,24 @@
 {
  "events": [
   {
+   "detail": "2026-09-02  Charlotte Hornets waived forward Trey Townsend.",
+   "detected_at": "2026-09-02 15:10:55",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-09-02  Utah Jazz waived guard Matthew Murrell.",
+   "detected_at": "2026-09-02 15:10:55",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "- REMOVED Trey Townsend (CHA)",
+   "detected_at": "2026-09-02 15:10:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
    "detail": "Kawhi Leonard  ~ team: Toronto Raptors -> Los Angeles Clippers",
    "detected_at": "2026-09-02 14:46:47",
    "source": "WIKI",
@@ -10174,27 +10192,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/%C3%96mercan_%C4%B0lyaso%C4%9Flu"
-  },
-  {
-   "detail": "Lukas Uleckas  ~ number: - -> 10",
-   "detected_at": "2026-08-21 10:44:40",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Lukas_Uleckas"
-  },
-  {
-   "detail": "Anthony Hickey  ~ team: APU Old Wild West Udine -> Śląsk Wrocław",
-   "detected_at": "2026-08-21 09:59:40",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Anthony_Hickey"
-  },
-  {
-   "detail": "Anthony Hickey  ~ league: LBA -> Polish Basketball League",
-   "detected_at": "2026-08-21 09:59:40",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Anthony_Hickey"
   }
  ],
  "feeds": {
@@ -10207,8 +10204,8 @@
    "last": "2026-09-01 07:18:46"
   },
   "PLAYERS": {
-   "count": 708,
-   "last": "2026-09-02 13:14:54"
+   "count": 709,
+   "last": "2026-09-02 15:10:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10227,8 +10224,8 @@
    "last": "2026-08-31 09:27:27"
   },
   "TRANSACTIONS": {
-   "count": 302,
-   "last": "2026-09-02 09:47:24"
+   "count": 304,
+   "last": "2026-09-02 15:10:55"
   },
   "WIKI": {
    "count": 2132,
@@ -10239,6 +10236,6 @@
    "last": "2026-09-02 10:04:11"
   }
  },
- "generated_at": "2026-09-02T15:09:47",
- "total": 10537
+ "generated_at": "2026-09-02T15:11:02",
+ "total": 10540
 }
