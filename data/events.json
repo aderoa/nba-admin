@@ -1,6 +1,18 @@
 {
  "events": [
   {
+   "detail": "+ ADDED   Kyle Mangas (CHA)",
+   "detected_at": "2026-09-02 16:10:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "- REMOVED Matthew Murrell (UTA)",
+   "detected_at": "2026-09-02 16:10:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
    "detail": "Wikipedia says Walter Tavares has signed for Real Madrid",
    "detected_at": "2026-09-02 15:55:57",
    "source": "WIKIWATCH",
@@ -10178,20 +10190,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Dino_Radon%C4%8Di%C4%87"
-  },
-  {
-   "detail": "Dino Radončić  ~ league: - -> Liga ACB",
-   "detected_at": "2026-08-21 10:44:40",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Dino_Radon%C4%8Di%C4%87"
-  },
-  {
-   "detail": "Dino Radončić  ~ number: - -> 8",
-   "detected_at": "2026-08-21 10:44:40",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Dino_Radon%C4%8Di%C4%87"
   }
  ],
  "feeds": {
@@ -10204,8 +10202,8 @@
    "last": "2026-09-01 07:18:46"
   },
   "PLAYERS": {
-   "count": 709,
-   "last": "2026-09-02 15:10:54"
+   "count": 711,
+   "last": "2026-09-02 16:10:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10236,6 +10234,6 @@
    "last": "2026-09-02 15:55:57"
   }
  },
- "generated_at": "2026-09-02T16:10:00",
- "total": 10545
+ "generated_at": "2026-09-02T16:18:47",
+ "total": 10547
 }
