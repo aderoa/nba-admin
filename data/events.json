@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Tacko Fall  ~ team: Philadelphia 76ers -> Philadelphia 76erss",
+   "detected_at": "2026-09-01 21:46:48",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Tacko_Fall"
+  },
+  {
    "detail": "Kavell Bigby-Williams  ~ team: Jilin Northeast Tigers -> Free agent",
    "detected_at": "2026-09-01 20:31:48",
    "source": "WIKI",
@@ -10189,13 +10196,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-08-20/Abejas-at-Dorados-de-Chihuahua/526168"
-  },
-  {
-   "detail": "Mexican LNBP Soles 84, Mineros de Zacatecas 68",
-   "detected_at": "2026-08-20 23:56:40",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-20/Mineros-de-Zacatecas-at-Soles/526167"
   }
  ],
  "feeds": {
@@ -10232,14 +10232,14 @@
    "last": "2026-09-01 16:30:55"
   },
   "WIKI": {
-   "count": 2085,
-   "last": "2026-09-01 20:31:48"
+   "count": 2086,
+   "last": "2026-09-01 21:46:48"
   },
   "WIKIWATCH": {
    "count": 100,
    "last": "2026-09-01 11:39:25"
   }
  },
- "generated_at": "2026-09-01T21:38:02",
- "total": 10476
+ "generated_at": "2026-09-01T21:46:48",
+ "total": 10477
 }
