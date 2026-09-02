@@ -1,6 +1,41 @@
 {
  "events": [
   {
+   "detail": "Wikipedia says Chima Moneke has signed for Crvena zvezda",
+   "detected_at": "2026-09-02 10:04:11",
+   "source": "WIKIWATCH",
+   "type": "CLUB",
+   "url": "https://en.wikipedia.org/wiki/Chima_Moneke"
+  },
+  {
+   "detail": "Wikipedia says Chima Moneke's league is now KLS ABA League EuroLeague",
+   "detected_at": "2026-09-02 10:04:11",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "https://en.wikipedia.org/wiki/Chima_Moneke"
+  },
+  {
+   "detail": "Wikipedia says Chima Moneke's position is now Power forward",
+   "detected_at": "2026-09-02 10:04:11",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "https://en.wikipedia.org/wiki/Chima_Moneke"
+  },
+  {
+   "detail": "Wikipedia says Chima Moneke's number is now 95",
+   "detected_at": "2026-09-02 10:04:11",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "https://en.wikipedia.org/wiki/Chima_Moneke"
+  },
+  {
+   "detail": "Wikipedia edited Chima Moneke's page",
+   "detected_at": "2026-09-02 10:04:11",
+   "source": "WIKIWATCH",
+   "type": "PAGE",
+   "url": "https://en.wikipedia.org/wiki/Chima_Moneke"
+  },
+  {
    "detail": "Wikipedia says Jean Montero has signed for Olympiacos",
    "detected_at": "2026-09-02 09:55:11",
    "source": "WIKIWATCH",
@@ -10163,41 +10198,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-20/Atlanta-at-LA-Sparks/158600"
-  },
-  {
-   "detail": "WNBA Las Vegas Aces 101, Connecticut Sun 78",
-   "detected_at": "2026-08-21 08:04:59",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-20/Connecticut-at-Las-Vegas/158599"
-  },
-  {
-   "detail": "WNBA Dallas Wings 91, Indiana Fever 85",
-   "detected_at": "2026-08-21 08:04:57",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-20/Indiana-at-Dallas/158598"
-  },
-  {
-   "detail": "Rawle Alkins  ~ position: Small forward / guard -> Small forward, guard",
-   "detected_at": "2026-08-21 08:04:50",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Rawle_Alkins"
-  },
-  {
-   "detail": "Cam Whitmore  ~ team: Cleveland Cavaliers -> Free agent",
-   "detected_at": "2026-08-21 08:04:50",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Cam_Whitmore"
-  },
-  {
-   "detail": "Cam Whitmore  ~ league: NBA -> -",
-   "detected_at": "2026-08-21 08:04:50",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Cam_Whitmore"
   }
  ],
  "feeds": {
@@ -10238,10 +10238,10 @@
    "last": "2026-09-02 09:54:57"
   },
   "WIKIWATCH": {
-   "count": 105,
-   "last": "2026-09-02 09:55:11"
+   "count": 110,
+   "last": "2026-09-02 10:04:11"
   }
  },
- "generated_at": "2026-09-02T10:04:02",
- "total": 10522
+ "generated_at": "2026-09-02T10:05:02",
+ "total": 10527
 }
