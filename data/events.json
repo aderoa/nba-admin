@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "~ CHANGED Haywood Highsmith  school: Wheeling Jesuit -> Wheeling Jesuit ",
+   "detected_at": "2026-09-02 12:30:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "+ ADDED   Khalifa Diop (CLE)",
    "detected_at": "2026-09-02 10:33:54",
    "source": "PLAYERS",
@@ -10190,13 +10196,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/national/boxscore/2026-08-21/Philippines-at-China/528495"
-  },
-  {
-   "detail": "U18 Asia Cup A Korea 107, Chinese Taipei 79",
-   "detected_at": "2026-08-21 08:05:05",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-21/Chinese-Taipei-at-Korea/528496"
   }
  ],
  "feeds": {
@@ -10209,8 +10208,8 @@
    "last": "2026-09-01 07:18:46"
   },
   "PLAYERS": {
-   "count": 706,
-   "last": "2026-09-02 10:33:54"
+   "count": 707,
+   "last": "2026-09-02 12:30:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10241,6 +10240,6 @@
    "last": "2026-09-02 10:04:11"
   }
  },
- "generated_at": "2026-09-02T12:30:00",
- "total": 10528
+ "generated_at": "2026-09-02T12:31:00",
+ "total": 10529
 }
