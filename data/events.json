@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Jarrod Uthoff  ~ number: 13 -> 9",
+   "detected_at": "2026-09-01 18:12:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jarrod_Uthoff"
+  },
+  {
    "detail": "- REMOVED Josiah Allick (CHA)",
    "detected_at": "2026-09-01 17:09:54",
    "source": "PLAYERS",
@@ -10189,13 +10196,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Max_Strus"
-  },
-  {
-   "detail": "Max Strus  ~ number: 2 -> -",
-   "detected_at": "2026-08-20 20:28:43",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Max_Strus"
   }
  ],
  "feeds": {
@@ -10232,14 +10232,14 @@
    "last": "2026-09-01 16:30:55"
   },
   "WIKI": {
-   "count": 2079,
-   "last": "2026-09-01 17:03:50"
+   "count": 2080,
+   "last": "2026-09-01 18:12:46"
   },
   "WIKIWATCH": {
    "count": 100,
    "last": "2026-09-01 11:39:25"
   }
  },
- "generated_at": "2026-09-01T18:04:01",
- "total": 10470
+ "generated_at": "2026-09-01T18:12:46",
+ "total": 10471
 }
