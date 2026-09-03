@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Cade Cunningham  ~ team: Dallas Mavericks -> Detroit Pistons",
+   "detected_at": "2026-09-03 13:05:48",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Cade_Cunningham"
+  },
+  {
+   "detail": "Cade Cunningham  ~ height_in: 4 -> 6",
+   "detected_at": "2026-09-03 13:05:48",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Cade_Cunningham"
+  },
+  {
    "detail": "Will Clyburn  ~ position: Small forward -> Power forward / small forward",
    "detected_at": "2026-09-03 12:19:47",
    "source": "WIKI",
@@ -10482,20 +10496,6 @@
    "source": "WIKIWATCH",
    "type": "FIELD",
    "url": "https://en.wikipedia.org/wiki/Devin_Booker"
-  },
-  {
-   "detail": "Wikipedia edited Devin Booker's page",
-   "detected_at": "2026-09-03 08:20:02",
-   "source": "WIKIWATCH",
-   "type": "PAGE",
-   "url": "https://en.wikipedia.org/wiki/Devin_Booker"
-  },
-  {
-   "detail": "Wikipedia says Gary Payton II has signed for Golden State Warriors",
-   "detected_at": "2026-09-03 08:20:02",
-   "source": "WIKIWATCH",
-   "type": "CLUB",
-   "url": "https://en.wikipedia.org/wiki/Gary_Payton_II"
   }
  ],
  "feeds": {
@@ -10532,14 +10532,14 @@
    "last": "2026-09-03 10:26:55"
   },
   "WIKI": {
-   "count": 2151,
-   "last": "2026-09-03 12:19:47"
+   "count": 2153,
+   "last": "2026-09-03 13:05:48"
   },
   "WIKIWATCH": {
    "count": 2056,
    "last": "2026-09-03 12:07:11"
   }
  },
- "generated_at": "2026-09-03T12:57:00",
- "total": 12572
+ "generated_at": "2026-09-03T13:05:50",
+ "total": 12574
 }
