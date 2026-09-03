@@ -1,6 +1,30 @@
 {
  "events": [
   {
+   "detail": "HOU  CHANGED Thompson, Amen  -  col4: - -> 35862069.0, col5: - -> 38731034.0, col6: - -> 41600000.0, col7: - -> 44468966.0, col8: - -> 47337931.0, col9: 12258609 -> 220258609",
+   "detected_at": "2026-09-03 16:46:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "HOU  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col4: 164973736.3 -> 200835805.3, col5: 84564556 -> 123295590, col6: 88188658 -> 129788658, col7: 45976783 -> 90445749, col8: 0 -> 47337931, col9: 600999298.3 -> 808999298.3",
+   "detected_at": "2026-09-03 16:46:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "HOU  CHANGED Players Under Contract  -  col4: 164973736.3 -> 200835805.3, col5: 84564556 -> 123295590, col6: 88188658 -> 129788658, col7: 45976783 -> 90445749, col8: 0 -> 47337931",
+   "detected_at": "2026-09-03 16:46:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "HOU  CHANGED Full Season Contracts  -  col4: 164973736.3 -> 200835805.3, col5: 84564556 -> 123295590, col6: 88188658 -> 129788658, col7: 45976783 -> 90445749, col8: 0 -> 47337931",
+   "detected_at": "2026-09-03 16:46:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "CLE  + ADDED  Diop, Khalifa",
    "detected_at": "2026-09-03 16:44:58",
    "source": "SHEETS",
@@ -10436,34 +10460,6 @@
    "source": "WIKIWATCH",
    "type": "PAGE",
    "url": "https://en.wikipedia.org/wiki/Devin_Vassell"
-  },
-  {
-   "detail": "Wikipedia says Drew Timme has signed for Free agent",
-   "detected_at": "2026-09-03 08:20:05",
-   "source": "WIKIWATCH",
-   "type": "CLUB",
-   "url": "https://en.wikipedia.org/wiki/Drew_Timme"
-  },
-  {
-   "detail": "Wikipedia says Drew Timme's position is now Power forward",
-   "detected_at": "2026-09-03 08:20:05",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Drew_Timme"
-  },
-  {
-   "detail": "Wikipedia edited Drew Timme's page",
-   "detected_at": "2026-09-03 08:20:05",
-   "source": "WIKIWATCH",
-   "type": "PAGE",
-   "url": "https://en.wikipedia.org/wiki/Drew_Timme"
-  },
-  {
-   "detail": "Wikipedia says Dru Smith has signed for Miami Heat",
-   "detected_at": "2026-09-03 08:20:05",
-   "source": "WIKIWATCH",
-   "type": "CLUB",
-   "url": "https://en.wikipedia.org/wiki/Dru_Smith"
   }
  ],
  "feeds": {
@@ -10492,8 +10488,8 @@
    "last": "2026-09-03 08:07:09"
   },
   "SHEETS": {
-   "count": 3568,
-   "last": "2026-09-03 16:44:58"
+   "count": 3572,
+   "last": "2026-09-03 16:46:58"
   },
   "TRANSACTIONS": {
    "count": 306,
@@ -10508,6 +10504,6 @@
    "last": "2026-09-03 13:19:10"
   }
  },
- "generated_at": "2026-09-03T16:46:01",
- "total": 12636
+ "generated_at": "2026-09-03T16:47:00",
+ "total": 12640
 }
