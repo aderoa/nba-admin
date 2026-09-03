@@ -1,6 +1,72 @@
 {
  "events": [
   {
+   "detail": "CLE  + ADDED  Thomas, Meleek #2",
+   "detected_at": "2026-09-03 16:43:58",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "CLE  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 238680329.9 -> 240038092.9, col4: 179663739.5 -> 181958109.5, col5: 128468229 -> 131162592, col6: 87693248 -> 90611400, col9: 634505546.4 -> 643770194.4",
+   "detected_at": "2026-09-03 16:43:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "CLE  CHANGED Players Under Contract  -  col3: 174720464 -> 176078227, col4: 179663739.5 -> 181958109.5, col5: 128468229 -> 131162592, col6: 87693248 -> 90611400",
+   "detected_at": "2026-09-03 16:43:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "CLE  CHANGED Full Season Contracts  -  col3: 174720464 -> 176078227, col4: 179663739.5 -> 181958109.5, col5: 128468229 -> 131162592, col6: 87693248 -> 90611400",
+   "detected_at": "2026-09-03 16:43:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "CLE  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 12 -> 13",
+   "detected_at": "2026-09-03 16:43:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "CLE  CHANGED Avg, Salary (Mean) (No 10-Day K's)  -  col6: 3 -> 2",
+   "detected_at": "2026-09-03 16:43:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "CLE  CHANGED Avg, Salary (Mean) (No 10-Day K's & ROS)  -  col6: 1 -> 0",
+   "detected_at": "2026-09-03 16:43:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  - REMOVED 4 Years for $9,264,648. Second Round Pick Exception. Team option to extend the contract to include the 2029-30 Season. Skill; Injury or Illness; Mental; Death. Compensation protection for 2027-28 Season is none. Compensation protection for 2028-29 Season is none. Compensation protection for 2029-30 Season is none but will increase to full if team has not requested waivers on player on or before the day after the last day of the Moratorium Period prior to the 2029-30 Season. Love of the Game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-09-03 16:43:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  - REMOVED Execution Date: 7/1/26",
+   "detected_at": "2026-09-03 16:43:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  4 Years for $9,264,648. Second Round Pick Exception. Team option to extend the contract to include the 2029-30 Season. Skill; Injury or Illness; Mental; Death. Compensation protection for 2027-28 Season is none. Compensation protection for 2028-29 Season is none. Compensation protection for 2029-30 Season is none. Love of the Game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-09-03 16:43:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 9/2/26",
+   "detected_at": "2026-09-03 16:43:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "2026-27 Rookie Signings  + ADDED  #39 Khalifa Diop (2022 NBA DRAFT) Cleveland Cavaliers",
    "detected_at": "2026-09-03 16:42:55",
    "source": "DOCS",
@@ -10400,89 +10466,12 @@
    "source": "WIKIWATCH",
    "type": "FIELD",
    "url": "https://en.wikipedia.org/wiki/Dru_Smith"
-  },
-  {
-   "detail": "Wikipedia says Dru Smith's number is now 12",
-   "detected_at": "2026-09-03 08:20:05",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Dru_Smith"
-  },
-  {
-   "detail": "Wikipedia edited Dru Smith's page",
-   "detected_at": "2026-09-03 08:20:05",
-   "source": "WIKIWATCH",
-   "type": "PAGE",
-   "url": "https://en.wikipedia.org/wiki/Dru_Smith"
-  },
-  {
-   "detail": "Wikipedia says Dyson Daniels has signed for Atlanta Hawks",
-   "detected_at": "2026-09-03 08:20:05",
-   "source": "WIKIWATCH",
-   "type": "CLUB",
-   "url": "https://en.wikipedia.org/wiki/Dyson_Daniels"
-  },
-  {
-   "detail": "Wikipedia says Dyson Daniels's league is now NBA",
-   "detected_at": "2026-09-03 08:20:05",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Dyson_Daniels"
-  },
-  {
-   "detail": "Wikipedia says Dyson Daniels's position is now Point guard / shooting guard",
-   "detected_at": "2026-09-03 08:20:05",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Dyson_Daniels"
-  },
-  {
-   "detail": "Wikipedia says Dyson Daniels's number is now 5",
-   "detected_at": "2026-09-03 08:20:05",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Dyson_Daniels"
-  },
-  {
-   "detail": "Wikipedia edited Dyson Daniels's page",
-   "detected_at": "2026-09-03 08:20:05",
-   "source": "WIKIWATCH",
-   "type": "PAGE",
-   "url": "https://en.wikipedia.org/wiki/Dyson_Daniels"
-  },
-  {
-   "detail": "Wikipedia says GG Jackson has signed for Memphis Grizzlies",
-   "detected_at": "2026-09-03 08:20:05",
-   "source": "WIKIWATCH",
-   "type": "CLUB",
-   "url": "https://en.wikipedia.org/wiki/GG_Jackson"
-  },
-  {
-   "detail": "Wikipedia says GG Jackson's league is now NBA",
-   "detected_at": "2026-09-03 08:20:05",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/GG_Jackson"
-  },
-  {
-   "detail": "Wikipedia says GG Jackson's position is now Small forward / power forward",
-   "detected_at": "2026-09-03 08:20:05",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/GG_Jackson"
-  },
-  {
-   "detail": "Wikipedia says GG Jackson's number is now 45",
-   "detected_at": "2026-09-03 08:20:05",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/GG_Jackson"
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 2178,
-   "last": "2026-09-03 16:42:55"
+   "count": 2182,
+   "last": "2026-09-03 16:43:56"
   },
   "GLEAGUE": {
    "count": 31,
@@ -10505,8 +10494,8 @@
    "last": "2026-09-03 08:07:09"
   },
   "SHEETS": {
-   "count": 3559,
-   "last": "2026-08-31 09:27:27"
+   "count": 3566,
+   "last": "2026-09-03 16:43:58"
   },
   "TRANSACTIONS": {
    "count": 306,
@@ -10521,6 +10510,6 @@
    "last": "2026-09-03 13:19:10"
   }
  },
- "generated_at": "2026-09-03T16:43:00",
- "total": 12623
+ "generated_at": "2026-09-03T16:44:02",
+ "total": 12634
 }
