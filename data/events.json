@@ -1,6 +1,516 @@
 {
  "events": [
   {
+   "detail": "Australian NBL South East Melbourne 101, Sydney 84",
+   "detected_at": "2026-09-03 08:07:09",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-02/South-East-Melbourne-at-Sydney/524194"
+  },
+  {
+   "detail": "Australian NBL + Jordan Hunter → South East Melbourne",
+   "detected_at": "2026-09-03 08:07:06",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Australian NBL + Nathan Sobey → South East Melbourne",
+   "detected_at": "2026-09-03 08:07:06",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Australian NBL + Tanner Krebs → South East Melbourne",
+   "detected_at": "2026-09-03 08:07:06",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Australian NBL + Skylar Mays → South East Melbourne",
+   "detected_at": "2026-09-03 08:07:06",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Australian NBL + D'Shawn Schwartz → South East Melbourne",
+   "detected_at": "2026-09-03 08:07:06",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Australian NBL + Angus Glover → South East Melbourne",
+   "detected_at": "2026-09-03 08:07:06",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Australian NBL + Dash Daniels → South East Melbourne",
+   "detected_at": "2026-09-03 08:07:06",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Australian NBL ~ MOVED Akech Aliir → South East Melbourne (from Wellington Saints)",
+   "detected_at": "2026-09-03 08:07:06",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Australian NBL + Hunter Goodrick → South East Melbourne",
+   "detected_at": "2026-09-03 08:07:06",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Australian NBL + Yannis Morin → South East Melbourne",
+   "detected_at": "2026-09-03 08:07:06",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Australian NBL + Sam Davidson → South East Melbourne",
+   "detected_at": "2026-09-03 08:07:06",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Australian NBL + Xavier Cooks → Sydney",
+   "detected_at": "2026-09-03 08:07:06",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Australian NBL + Makuach Maluach → Sydney",
+   "detected_at": "2026-09-03 08:07:06",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Australian NBL + Jayden Stone → Sydney",
+   "detected_at": "2026-09-03 08:07:06",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Australian NBL + Andrew Carr → Sydney",
+   "detected_at": "2026-09-03 08:07:06",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Australian NBL + Will Johnston → Sydney",
+   "detected_at": "2026-09-03 08:07:06",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Australian NBL + Tyler Robertson → Sydney",
+   "detected_at": "2026-09-03 08:07:06",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Australian NBL + Jason Spurgin → Sydney",
+   "detected_at": "2026-09-03 08:07:06",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Australian NBL + Harry Wessels → Sydney",
+   "detected_at": "2026-09-03 08:07:06",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Australian NBL + Peitok Machar → Sydney",
+   "detected_at": "2026-09-03 08:07:06",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Australian NBL + Lachlan Bofinger → Sydney",
+   "detected_at": "2026-09-03 08:07:06",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "NBL Blitz Cairns 85, Perth 82",
+   "detected_at": "2026-09-03 08:07:04",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-02/Perth-at-Cairns/524193"
+  },
+  {
+   "detail": "NBL Blitz + Jo Acuil → Perth",
+   "detected_at": "2026-09-03 08:07:00",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "NBL Blitz + Dylan Windler → Perth",
+   "detected_at": "2026-09-03 08:07:00",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "NBL Blitz + Kristian Doolittle → Perth",
+   "detected_at": "2026-09-03 08:07:00",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "NBL Blitz ~ MOVED Elijah Pepper → Perth (from Wellington Saints)",
+   "detected_at": "2026-09-03 08:07:00",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "NBL Blitz + Anthony Dell'Orso → Perth",
+   "detected_at": "2026-09-03 08:07:00",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "NBL Blitz + Cameron Huefner → Perth",
+   "detected_at": "2026-09-03 08:07:00",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "NBL Blitz + Alex Higgins-Titsha → Perth",
+   "detected_at": "2026-09-03 08:07:00",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "NBL Blitz + Jesse Wagstaff → Perth",
+   "detected_at": "2026-09-03 08:07:00",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "NBL Blitz + Angus Brandt → Perth",
+   "detected_at": "2026-09-03 08:07:00",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "NBL Blitz + Tana Kopa → Perth",
+   "detected_at": "2026-09-03 08:07:00",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "NBL Blitz + Jack McVeigh → Cairns",
+   "detected_at": "2026-09-03 08:07:00",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "NBL Blitz + Reyne Smith → Cairns",
+   "detected_at": "2026-09-03 08:07:00",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "NBL Blitz + Keanu Pinder → Cairns",
+   "detected_at": "2026-09-03 08:07:00",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "NBL Blitz + Shaun Bruce → Cairns",
+   "detected_at": "2026-09-03 08:07:00",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "NBL Blitz ~ MOVED Walter Brown → Cairns (from Canterbury Rams)",
+   "detected_at": "2026-09-03 08:07:00",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "NBL Blitz + Jonah Bolden → Cairns",
+   "detected_at": "2026-09-03 08:07:00",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "NBL Blitz + Luca Yates → Cairns",
+   "detected_at": "2026-09-03 08:07:00",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "NBL Blitz + Brody Nunn → Cairns",
+   "detected_at": "2026-09-03 08:07:00",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "NBL Blitz + Lloyd McVeigh → Cairns",
+   "detected_at": "2026-09-03 08:07:00",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "NBL Blitz + Kobe Williamson → Cairns",
+   "detected_at": "2026-09-03 08:07:00",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "NBL Blitz Brisbane 112, Tasmania 91",
+   "detected_at": "2026-09-03 08:06:57",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-03/Tasmania-at-Brisbane/524195"
+  },
+  {
+   "detail": "NBL Blitz + Dakota Mathias → Tasmania",
+   "detected_at": "2026-09-03 08:06:53",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "NBL Blitz ~ MOVED Nicholas Stoddart → Tasmania (from Whai)",
+   "detected_at": "2026-09-03 08:06:53",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "NBL Blitz + Taran Armstrong → Tasmania",
+   "detected_at": "2026-09-03 08:06:53",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "NBL Blitz + Ben Gold → Tasmania",
+   "detected_at": "2026-09-03 08:06:53",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "NBL Blitz + Jed Richardson → Tasmania",
+   "detected_at": "2026-09-03 08:06:53",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "NBL Blitz + Josh Bannan → Tasmania",
+   "detected_at": "2026-09-03 08:06:53",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "NBL Blitz + Nicholas Marshall → Tasmania",
+   "detected_at": "2026-09-03 08:06:53",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "NBL Blitz + Ryley Haywood → Tasmania",
+   "detected_at": "2026-09-03 08:06:53",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "NBL Blitz ~ MOVED Tyrell Harrison → Brisbane (from Sagesse Al Hekmeh Beirut)",
+   "detected_at": "2026-09-03 08:06:53",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "NBL Blitz + Arnas Velicka → Brisbane",
+   "detected_at": "2026-09-03 08:06:53",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "NBL Blitz + Nathaniel Hinton → Brisbane",
+   "detected_at": "2026-09-03 08:06:53",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "NBL Blitz ~ MOVED Jaylin Williams → Brisbane (from Saskatoon Mamba)",
+   "detected_at": "2026-09-03 08:06:53",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "NBL Blitz + Max Mackinnon → Brisbane",
+   "detected_at": "2026-09-03 08:06:53",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "NBL Blitz + Mitchell Norton → Brisbane",
+   "detected_at": "2026-09-03 08:06:53",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "NBL Blitz + Harry Rouhliadeff → Brisbane",
+   "detected_at": "2026-09-03 08:06:53",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "NBL Blitz + Archie Woodhill → Brisbane",
+   "detected_at": "2026-09-03 08:06:53",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "NBL Blitz + Joshua Duach → Brisbane",
+   "detected_at": "2026-09-03 08:06:53",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Cade Cunningham  ~ team: Detroit Pistons -> Dallas Mavericks",
+   "detected_at": "2026-09-03 08:06:49",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Cade_Cunningham"
+  },
+  {
+   "detail": "Cade Cunningham  ~ height_in: 6 -> 4",
+   "detected_at": "2026-09-03 08:06:49",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Cade_Cunningham"
+  },
+  {
+   "detail": "Deandre Ayton  ~ height_ft: 7 -> 5",
+   "detected_at": "2026-09-03 08:06:49",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Deandre_Ayton"
+  },
+  {
+   "detail": "Vince Hunter  ~ number: - -> 32",
+   "detected_at": "2026-09-03 08:06:49",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Vince_Hunter"
+  },
+  {
+   "detail": "Ethan Happ  ~ number: - -> 22",
+   "detected_at": "2026-09-03 08:06:49",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Ethan_Happ"
+  },
+  {
+   "detail": "Artūrs Kurucs  ~ number: - -> 47",
+   "detected_at": "2026-09-03 08:06:49",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Art%C5%ABrs_Kurucs"
+  },
+  {
+   "detail": "Artūrs Kurucs  ~ CAREER  + 2025–2026 Breogán",
+   "detected_at": "2026-09-03 08:06:49",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Art%C5%ABrs_Kurucs"
+  },
+  {
+   "detail": "Xabier López-Arostegui  ~ number: - -> 7",
+   "detected_at": "2026-09-03 08:06:49",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Xabier_L%C3%B3pez-Arostegui"
+  },
+  {
+   "detail": "George Papas  ~ team: Maroussi -> Olympiacos",
+   "detected_at": "2026-09-03 08:06:49",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/George_Papas"
+  },
+  {
+   "detail": "George Papas  ~ league: Greek Basketball League -> Greek Basketball League EuroLeague",
+   "detected_at": "2026-09-03 08:06:49",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/George_Papas"
+  },
+  {
+   "detail": "George Papas  ~ CAREER  + 2026-present Olympiacos",
+   "detected_at": "2026-09-03 08:06:49",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/George_Papas"
+  },
+  {
+   "detail": "2026-09-02  Traded: Dwight Murray, Jr (Nets)",
+   "detected_at": "2026-09-03 07:59:00",
+   "source": "GLEAGUE",
+   "type": "Trade"
+  },
+  {
    "detail": "Damion Baugh  ~ number: - -> 12",
    "detected_at": "2026-09-03 03:06:49",
    "source": "WIKI",
@@ -9681,515 +10191,6 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Nemanja_Gordi%C4%87"
-  },
-  {
-   "detail": "Nemanja Gordić  ~ CAREER  + 2026–present Metalac Valjevo",
-   "detected_at": "2026-08-22 07:24:56",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Nemanja_Gordi%C4%87"
-  },
-  {
-   "detail": "Nikola Tanasković  ~ number: 11 -> 10",
-   "detected_at": "2026-08-22 07:24:56",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Nikola_Tanaskovi%C4%87"
-  },
-  {
-   "detail": "Ioannis Kouzeloglou  ~ CAREER  + 2026 →Maroussi",
-   "detected_at": "2026-08-22 07:24:56",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Ioannis_Kouzeloglou"
-  },
-  {
-   "detail": "Hugo Besson  ~ team: Free Agent -> LDLC ASVEL",
-   "detected_at": "2026-08-22 07:24:56",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Hugo_Besson"
-  },
-  {
-   "detail": "Hugo Besson  ~ league: - -> LNB Élite EuroLeague",
-   "detected_at": "2026-08-22 07:24:56",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Hugo_Besson"
-  },
-  {
-   "detail": "Hugo Besson  ~ number: - -> 25",
-   "detected_at": "2026-08-22 07:24:56",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Hugo_Besson"
-  },
-  {
-   "detail": "Hugo Besson  ~ CAREER  + 2024–2025 Glint Manisa",
-   "detected_at": "2026-08-22 07:24:56",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Hugo_Besson"
-  },
-  {
-   "detail": "Hugo Besson  ~ CAREER  + 2026–present ASVEL",
-   "detected_at": "2026-08-22 07:24:56",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Hugo_Besson"
-  },
-  {
-   "detail": "Brandon Paul  ~ career_end: - -> 2025",
-   "detected_at": "2026-08-21 23:22:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Brandon_Paul"
-  },
-  {
-   "detail": "WNBA Toronto Tempo 82, Portland Fire 79",
-   "detected_at": "2026-08-21 22:38:15",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-21/Portland-at-Toronto/158686"
-  },
-  {
-   "detail": "Mexican LNBP Panteras de Aguascalientes 104, Santos de San Luis Potosi 88",
-   "detected_at": "2026-08-21 22:38:11",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-21/Santos-de-San-Luis-Potosi-at-Panteras-de-Aguascalientes/526173"
-  },
-  {
-   "detail": "Klay Thompson  ~ team: Free Agent -> Free agent",
-   "detected_at": "2026-08-21 21:24:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Klay_Thompson"
-  },
-  {
-   "detail": "Jo Lual-Acuil  ~ team: Al Ahly Ly -> Perth Wildcats",
-   "detected_at": "2026-08-21 21:24:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jo_Lual-Acuil"
-  },
-  {
-   "detail": "Jo Lual-Acuil  ~ league: Libyan Basketball League BAL -> NBL",
-   "detected_at": "2026-08-21 21:24:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jo_Lual-Acuil"
-  },
-  {
-   "detail": "Jo Lual-Acuil  ~ number: - -> 0",
-   "detected_at": "2026-08-21 21:24:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jo_Lual-Acuil"
-  },
-  {
-   "detail": "Jo Lual-Acuil  ~ CAREER  + 2026 Al Ahly Ly",
-   "detected_at": "2026-08-21 21:24:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Jo_Lual-Acuil"
-  },
-  {
-   "detail": "WNBA ~ MOVED Chloe Bibby → Minnesota Lynx (from Chicago Sky)",
-   "detected_at": "2026-08-21 20:36:53",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
-  },
-  {
-   "detail": "WNBA Minnesota Lynx 94, Washington Mystics 84",
-   "detected_at": "2026-08-21 20:36:53",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-21/Minnesota-at-Washington/158601"
-  },
-  {
-   "detail": "Puerto Rican BSN Santeros de Aguada 82, Vaqueros de Bayamon 76",
-   "detected_at": "2026-08-21 20:36:49",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-21/Santeros-de-Aguada-at-Vaqueros-de-Bayamon/533492"
-  },
-  {
-   "detail": "Eric Bledsoe  ~ height_ft: - -> 6",
-   "detected_at": "2026-08-21 19:50:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Eric_Bledsoe"
-  },
-  {
-   "detail": "Eric Bledsoe  ~ height_in: - -> 1",
-   "detected_at": "2026-08-21 19:50:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Eric_Bledsoe"
-  },
-  {
-   "detail": "Eric Bledsoe  ~ weight_lb: - -> 214",
-   "detected_at": "2026-08-21 19:50:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Eric_Bledsoe"
-  },
-  {
-   "detail": "WNBA Chicago Sky 73, Golden State Valkyries 70",
-   "detected_at": "2026-08-21 19:33:36",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-21/Golden-State-at-Chicago/158602"
-  },
-  {
-   "detail": "Mexican LNBP Freseros Irapuato 80, El Calor de Cancun 76",
-   "detected_at": "2026-08-21 19:33:33",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-20/El-Calor-de-Cancun-at-Freseros-Irapuato/526169"
-  },
-  {
-   "detail": "Mexican LNBP + Rafael Pinzon → El Calor de Cancun",
-   "detected_at": "2026-08-21 19:33:27",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Mexican LNBP ~ MOVED Daniel Trasvina → El Calor de Cancun (from Correcaminos)",
-   "detected_at": "2026-08-21 19:33:27",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
-  },
-  {
-   "detail": "Mexican LNBP Panteras de Aguascalientes 85, Santos de San Luis Potosi 75",
-   "detected_at": "2026-08-21 19:33:24",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-20/Santos-de-San-Luis-Potosi-at-Panteras-de-Aguascalientes/526166"
-  },
-  {
-   "detail": "Mexican LNBP + Javion Blake → Santos de San Luis Potosi",
-   "detected_at": "2026-08-21 19:33:20",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Mexican LNBP ~ MOVED Antonio Davis → Santos de San Luis Potosi (from Niagara River Lions)",
-   "detected_at": "2026-08-21 19:33:20",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
-  },
-  {
-   "detail": "Mexican LNBP + Chris Vogt → Santos de San Luis Potosi",
-   "detected_at": "2026-08-21 19:33:20",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Mexican LNBP + Vinnie Shahid → Panteras de Aguascalientes",
-   "detected_at": "2026-08-21 19:33:20",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Mexican LNBP Lobos Plateados 89, Diablos Rojos 88",
-   "detected_at": "2026-08-21 19:33:17",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-20/Lobos-Plateados-at-Diablos-Rojos/526165"
-  },
-  {
-   "detail": "Mexican LNBP + Eric Washington → Lobos Plateados",
-   "detected_at": "2026-08-21 19:33:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Mexican LNBP ~ MOVED Roddy Peters → Diablos Rojos (from Brampton Honey Badgers)",
-   "detected_at": "2026-08-21 19:33:11",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
-  },
-  {
-   "detail": "Javonte Cooke  ~ team: Free agent -> Beijing Royal Fighters",
-   "detected_at": "2026-08-21 17:46:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Javonte_Cooke"
-  },
-  {
-   "detail": "Javonte Cooke  ~ league: - -> CBA",
-   "detected_at": "2026-08-21 17:46:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Javonte_Cooke"
-  },
-  {
-   "detail": "Javonte Cooke  ~ CAREER  + 2026–present Beijing Royal Fighters",
-   "detected_at": "2026-08-21 17:46:38",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Javonte_Cooke"
-  },
-  {
-   "detail": "Denzel Valentine  ~ number: - -> 45",
-   "detected_at": "2026-08-21 17:23:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Denzel_Valentine"
-  },
-  {
-   "detail": "Abramo Canka  ~ team: Pallacanestro Roseto -> Pallacanestro Trieste",
-   "detected_at": "2026-08-21 17:23:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Abramo_Canka"
-  },
-  {
-   "detail": "Abramo Canka  ~ league: Serie A2 -> Lega Basket Serie A",
-   "detected_at": "2026-08-21 17:23:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Abramo_Canka"
-  },
-  {
-   "detail": "Abramo Canka  ~ number: 22 -> -",
-   "detected_at": "2026-08-21 17:23:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Abramo_Canka"
-  },
-  {
-   "detail": "Abramo Canka  ~ CAREER  + 2019–2020 Pallacanestro Roseto",
-   "detected_at": "2026-08-21 17:23:39",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Abramo_Canka"
-  },
-  {
-   "detail": "Abramo Canka  ~ CAREER  + 2025–2026 Virtus Bologna",
-   "detected_at": "2026-08-21 17:23:39",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Abramo_Canka"
-  },
-  {
-   "detail": "Abramo Canka  ~ CAREER  + 2026 →Pallacanestro Roseto",
-   "detected_at": "2026-08-21 17:23:39",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Abramo_Canka"
-  },
-  {
-   "detail": "Abramo Canka  ~ CAREER  + 2026–present Pallacanestro Trieste",
-   "detected_at": "2026-08-21 17:23:39",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Abramo_Canka"
-  },
-  {
-   "detail": "Trey Drechsel  ~ height_ft: - -> 6",
-   "detected_at": "2026-08-21 17:00:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Trey_Drechsel"
-  },
-  {
-   "detail": "Trey Drechsel  ~ height_in: - -> 6",
-   "detected_at": "2026-08-21 17:00:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Trey_Drechsel"
-  },
-  {
-   "detail": "Trey Drechsel  ~ weight_lb: - -> 205",
-   "detected_at": "2026-08-21 17:00:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Trey_Drechsel"
-  },
-  {
-   "detail": "Rolands Šmits  ~ team: Free agent -> Ningbo Rockets",
-   "detected_at": "2026-08-21 15:51:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Rolands_%C5%A0mits"
-  },
-  {
-   "detail": "Rolands Šmits  ~ league: - -> CBA",
-   "detected_at": "2026-08-21 15:51:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Rolands_%C5%A0mits"
-  },
-  {
-   "detail": "Rolands Šmits  ~ CAREER  + 2026–present Ningbo Rockets",
-   "detected_at": "2026-08-21 15:51:39",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Rolands_%C5%A0mits"
-  },
-  {
-   "detail": "DeMar DeRozan  ~ team: Denver Nuggets -> -",
-   "detected_at": "2026-08-21 15:28:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/DeMar_DeRozan"
-  },
-  {
-   "detail": "DeMar DeRozan  ~ league: NBA -> -",
-   "detected_at": "2026-08-21 15:28:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/DeMar_DeRozan"
-  },
-  {
-   "detail": "Sayon Keita  ~ number: - -> 21",
-   "detected_at": "2026-08-21 15:28:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Sayon_Keita"
-  },
-  {
-   "detail": "Sayon Keita  ~ height_ft: - -> 7",
-   "detected_at": "2026-08-21 15:28:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Sayon_Keita"
-  },
-  {
-   "detail": "Sayon Keita  ~ height_in: - -> 1",
-   "detected_at": "2026-08-21 15:28:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Sayon_Keita"
-  },
-  {
-   "detail": "Alexandros Samodurov  ~ height_ft: - -> 6",
-   "detected_at": "2026-08-21 15:28:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Alexandros_Samodurov"
-  },
-  {
-   "detail": "Alexandros Samodurov  ~ height_in: - -> 11",
-   "detected_at": "2026-08-21 15:28:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Alexandros_Samodurov"
-  },
-  {
-   "detail": "Alexandros Samodurov  ~ weight_lb: - -> 225",
-   "detected_at": "2026-08-21 15:28:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Alexandros_Samodurov"
-  },
-  {
-   "detail": "Alexandros Samodurov  ~ CAREER  + 2023–2024 →Panerythraikos",
-   "detected_at": "2026-08-21 15:28:39",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Alexandros_Samodurov"
-  },
-  {
-   "detail": "- REMOVED Klay Thompson (DAL)",
-   "detected_at": "2026-08-21 14:42:54",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-08-21  Dallas Mavericks waived guard Klay Thompson.",
-   "detected_at": "2026-08-21 14:35:55",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
-  },
-  {
-   "detail": "DeMar DeRozan  ~ league: - -> NBA",
-   "detected_at": "2026-08-21 14:34:40",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/DeMar_DeRozan"
-  },
-  {
-   "detail": "DeMar DeRozan  ~ team: Free agent -> Denver Nuggets",
-   "detected_at": "2026-08-21 14:11:40",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/DeMar_DeRozan"
-  },
-  {
-   "detail": "DeMar DeRozan  ~ CAREER  + – Denver Nuggets",
-   "detected_at": "2026-08-21 14:11:40",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/DeMar_DeRozan"
-  },
-  {
-   "detail": "Ethan Thompson  ~ number: - -> 5",
-   "detected_at": "2026-08-21 13:02:44",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Ethan_Thompson"
-  },
-  {
-   "detail": "Derek Willis  ~ number: - -> 35",
-   "detected_at": "2026-08-21 13:02:44",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Derek_Willis"
-  },
-  {
-   "detail": "Klay Thompson  ~ team: Dallas Mavericks -> Free Agent",
-   "detected_at": "2026-08-21 12:39:40",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Klay_Thompson"
-  },
-  {
-   "detail": "Klay Thompson  ~ number: 31 -> -",
-   "detected_at": "2026-08-21 12:39:40",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Klay_Thompson"
-  },
-  {
-   "detail": "Klay Thompson  ~ CAREER  + – Dallas Mavericks",
-   "detected_at": "2026-08-21 12:39:40",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Klay_Thompson"
-  },
-  {
-   "detail": "Chaz Lanier  ~ number: 20 -> -",
-   "detected_at": "2026-08-21 12:16:41",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Chaz_Lanier"
-  },
-  {
-   "detail": "Vince Hunter  ~ team: Lokomotiv Kuban -> La Laguna Tenerife",
-   "detected_at": "2026-08-21 10:44:40",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Vince_Hunter"
-  },
-  {
-   "detail": "Vince Hunter  ~ league: VTB United League -> Liga ACB EuroCup",
-   "detected_at": "2026-08-21 10:44:40",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Vince_Hunter"
   }
  ],
  "feeds": {
@@ -10198,8 +10199,8 @@
    "last": "2026-09-01 07:48:56"
   },
   "GLEAGUE": {
-   "count": 30,
-   "last": "2026-09-01 07:18:46"
+   "count": 31,
+   "last": "2026-09-03 07:59:00"
   },
   "PLAYERS": {
    "count": 711,
@@ -10210,12 +10211,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 113,
-   "last": "2026-08-31 22:58:10"
+   "count": 171,
+   "last": "2026-09-03 08:07:06"
   },
   "SCORES": {
-   "count": 472,
-   "last": "2026-09-01 07:26:12"
+   "count": 475,
+   "last": "2026-09-03 08:07:09"
   },
   "SHEETS": {
    "count": 3559,
@@ -10226,14 +10227,14 @@
    "last": "2026-09-02 15:10:55"
   },
   "WIKI": {
-   "count": 2137,
-   "last": "2026-09-03 03:06:49"
+   "count": 2148,
+   "last": "2026-09-03 08:06:49"
   },
   "WIKIWATCH": {
    "count": 115,
    "last": "2026-09-02 15:55:57"
   }
  },
- "generated_at": "2026-09-03T03:38:02",
- "total": 10552
+ "generated_at": "2026-09-03T08:07:12",
+ "total": 10625
 }
