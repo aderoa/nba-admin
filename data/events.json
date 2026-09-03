@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "2026-09-03  Houston Rockets re-signed guard Amen Thompson to a Rookie Scale Extension.",
+   "detected_at": "2026-09-03 10:26:55",
+   "source": "TRANSACTIONS",
+   "type": "Signing"
+  },
+  {
    "detail": "Deandre Ayton  ~ height_ft: 5 -> 7",
    "detected_at": "2026-09-03 08:29:49",
    "source": "WIKI",
@@ -10491,13 +10497,6 @@
    "source": "WIKIWATCH",
    "type": "FIELD",
    "url": "https://en.wikipedia.org/wiki/Gary_Payton_II"
-  },
-  {
-   "detail": "Wikipedia edited Gary Payton II's page",
-   "detected_at": "2026-09-03 08:20:02",
-   "source": "WIKIWATCH",
-   "type": "PAGE",
-   "url": "https://en.wikipedia.org/wiki/Gary_Payton_II"
   }
  ],
  "feeds": {
@@ -10530,8 +10529,8 @@
    "last": "2026-08-31 09:27:27"
   },
   "TRANSACTIONS": {
-   "count": 304,
-   "last": "2026-09-02 15:10:55"
+   "count": 305,
+   "last": "2026-09-03 10:26:55"
   },
   "WIKI": {
    "count": 2150,
@@ -10542,6 +10541,6 @@
    "last": "2026-09-03 08:21:23"
   }
  },
- "generated_at": "2026-09-03T10:26:04",
- "total": 12568
+ "generated_at": "2026-09-03T10:27:01",
+ "total": 12569
 }
