@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Wikipedia says Will Clyburn's position is now Power forward / small forward, was Small forward",
+   "detected_at": "2026-09-03 12:07:11",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "https://en.wikipedia.org/wiki/Will_Clyburn"
+  },
+  {
    "detail": "2026-09-03  Houston Rockets re-signed guard Amen Thompson to a Rookie Scale Extension.",
    "detected_at": "2026-09-03 10:26:55",
    "source": "TRANSACTIONS",
@@ -10490,13 +10497,6 @@
    "source": "WIKIWATCH",
    "type": "FIELD",
    "url": "https://en.wikipedia.org/wiki/Gary_Payton_II"
-  },
-  {
-   "detail": "Wikipedia says Gary Payton II's number is now 0",
-   "detected_at": "2026-09-03 08:20:02",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Gary_Payton_II"
   }
  ],
  "feeds": {
@@ -10537,10 +10537,10 @@
    "last": "2026-09-03 08:29:49"
   },
   "WIKIWATCH": {
-   "count": 2055,
-   "last": "2026-09-03 08:21:23"
+   "count": 2056,
+   "last": "2026-09-03 12:07:11"
   }
  },
- "generated_at": "2026-09-03T12:07:01",
- "total": 12569
+ "generated_at": "2026-09-03T12:08:01",
+ "total": 12570
 }
