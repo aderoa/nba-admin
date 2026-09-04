@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Jonathan Kuminga  ~ number: 24 -> 00",
+   "detected_at": "2026-09-04 09:47:49",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jonathan_Kuminga"
+  },
+  {
    "detail": "Wikipedia says Will Clyburn's number is now 21, was 12",
    "detected_at": "2026-09-04 09:35:30",
    "source": "WIKIWATCH",
@@ -10357,13 +10364,6 @@
    "source": "WIKIWATCH",
    "type": "CLUB",
    "url": "https://en.wikipedia.org/wiki/Herbert_Jones_(basketball)"
-  },
-  {
-   "detail": "Wikipedia says Herb Jones's league is now NBA",
-   "detected_at": "2026-09-03 08:20:10",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Herbert_Jones_(basketball)"
   }
  ],
  "feeds": {
@@ -10400,14 +10400,14 @@
    "last": "2026-09-03 17:49:55"
   },
   "WIKI": {
-   "count": 2219,
-   "last": "2026-09-04 09:24:15"
+   "count": 2220,
+   "last": "2026-09-04 09:47:49"
   },
   "WIKIWATCH": {
    "count": 2072,
    "last": "2026-09-04 09:35:30"
   }
  },
- "generated_at": "2026-09-04T09:39:01",
- "total": 12833
+ "generated_at": "2026-09-04T09:47:50",
+ "total": 12834
 }
