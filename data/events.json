@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Jonathan Kuminga  ~ league: NBA -> -",
+   "detected_at": "2026-09-03 20:32:48",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jonathan_Kuminga"
+  },
+  {
    "detail": "Jonathan Kuminga  ~ league: - -> NBA",
    "detected_at": "2026-09-03 20:09:06",
    "source": "WIKI",
@@ -10361,13 +10368,6 @@
    "source": "WIKIWATCH",
    "type": "PAGE",
    "url": "https://en.wikipedia.org/wiki/Jarrett_Allen"
-  },
-  {
-   "detail": "Wikipedia says Grant Williams has signed for Charlotte Hornets",
-   "detected_at": "2026-09-03 08:20:08",
-   "source": "WIKIWATCH",
-   "type": "CLUB",
-   "url": "https://en.wikipedia.org/wiki/Grant_Williams_(basketball)"
   }
  ],
  "feeds": {
@@ -10404,14 +10404,14 @@
    "last": "2026-09-03 17:49:55"
   },
   "WIKI": {
-   "count": 2187,
-   "last": "2026-09-03 20:09:06"
+   "count": 2188,
+   "last": "2026-09-03 20:32:48"
   },
   "WIKIWATCH": {
    "count": 2061,
    "last": "2026-09-03 13:19:10"
   }
  },
- "generated_at": "2026-09-03T20:24:02",
- "total": 12741
+ "generated_at": "2026-09-03T20:32:53",
+ "total": 12742
 }
