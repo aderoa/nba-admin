@@ -1,6 +1,18 @@
 {
  "events": [
   {
+   "detail": "~ CHANGED Jonathan Kuminga  team: ATL -> MIN",
+   "detected_at": "2026-09-03 18:14:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Jonathan Kuminga  country: Democratic Republic of the Congo -> DRC",
+   "detected_at": "2026-09-03 18:14:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "Jared Sullinger  ~ team: Guangdong Southern Tigers -> -",
    "detected_at": "2026-09-03 18:04:47",
    "source": "WIKI",
@@ -10356,20 +10368,6 @@
    "source": "WIKIWATCH",
    "type": "PAGE",
    "url": "https://en.wikipedia.org/wiki/Grant_Williams_(basketball)"
-  },
-  {
-   "detail": "Wikipedia says Immanuel Quickley has signed for Toronto Raptors",
-   "detected_at": "2026-09-03 08:20:08",
-   "source": "WIKIWATCH",
-   "type": "CLUB",
-   "url": "https://en.wikipedia.org/wiki/Immanuel_Quickley"
-  },
-  {
-   "detail": "Wikipedia says Immanuel Quickley's league is now NBA",
-   "detected_at": "2026-09-03 08:20:08",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Immanuel_Quickley"
   }
  ],
  "feeds": {
@@ -10382,8 +10380,8 @@
    "last": "2026-09-03 07:59:00"
   },
   "PLAYERS": {
-   "count": 715,
-   "last": "2026-09-03 17:46:54"
+   "count": 717,
+   "last": "2026-09-03 18:14:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10414,6 +10412,6 @@
    "last": "2026-09-03 13:19:10"
   }
  },
- "generated_at": "2026-09-03T18:14:02",
- "total": 12735
+ "generated_at": "2026-09-03T18:15:00",
+ "total": 12737
 }
