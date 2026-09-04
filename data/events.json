@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Jonathan Kuminga  ~ league: - -> NBA",
+   "detected_at": "2026-09-03 20:09:06",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jonathan_Kuminga"
+  },
+  {
    "detail": "JD Davison  ~ team: Free agent -> Orlando Magic",
    "detected_at": "2026-09-03 18:50:46",
    "source": "WIKI",
@@ -10361,13 +10368,6 @@
    "source": "WIKIWATCH",
    "type": "CLUB",
    "url": "https://en.wikipedia.org/wiki/Grant_Williams_(basketball)"
-  },
-  {
-   "detail": "Wikipedia says Grant Williams's league is now NBA",
-   "detected_at": "2026-09-03 08:20:08",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Grant_Williams_(basketball)"
   }
  ],
  "feeds": {
@@ -10404,14 +10404,14 @@
    "last": "2026-09-03 17:49:55"
   },
   "WIKI": {
-   "count": 2186,
-   "last": "2026-09-03 18:50:46"
+   "count": 2187,
+   "last": "2026-09-03 20:09:06"
   },
   "WIKIWATCH": {
    "count": 2061,
    "last": "2026-09-03 13:19:10"
   }
  },
- "generated_at": "2026-09-03T19:49:02",
- "total": 12740
+ "generated_at": "2026-09-03T20:09:07",
+ "total": 12741
 }
