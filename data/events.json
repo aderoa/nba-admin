@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "+ ADDED   John Butler Jr. (MIL)",
+   "detected_at": "2026-09-04 14:14:55",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
    "detail": "Isaiah Canaan  ~ number: - -> 0",
    "detected_at": "2026-09-04 13:01:47",
    "source": "WIKI",
@@ -10357,13 +10363,6 @@
    "source": "WIKIWATCH",
    "type": "PAGE",
    "url": "https://en.wikipedia.org/wiki/Jalen_Pickett"
-  },
-  {
-   "detail": "Wikipedia says Jalen Suggs has signed for Orlando Magic",
-   "detected_at": "2026-09-03 08:20:10",
-   "source": "WIKIWATCH",
-   "type": "CLUB",
-   "url": "https://en.wikipedia.org/wiki/Jalen_Suggs"
   }
  ],
  "feeds": {
@@ -10376,8 +10375,8 @@
    "last": "2026-09-04 09:15:50"
   },
   "PLAYERS": {
-   "count": 719,
-   "last": "2026-09-03 22:44:43"
+   "count": 720,
+   "last": "2026-09-04 14:14:55"
   },
   "RATINGS": {
    "count": 950,
@@ -10408,6 +10407,6 @@
    "last": "2026-09-04 09:35:30"
   }
  },
- "generated_at": "2026-09-04T14:14:05",
- "total": 12857
+ "generated_at": "2026-09-04T14:15:06",
+ "total": 12858
 }
