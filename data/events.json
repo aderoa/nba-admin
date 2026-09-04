@@ -1,6 +1,42 @@
 {
  "events": [
   {
+   "detail": "2026-27 Rookie Signings  - REMOVED Update 1.3 (7/18/26): K. Lopez, K. Diop, J. Allick, J. Hadley, K. Mangas, M. Murrell, S. Thomas",
+   "detected_at": "2026-09-03 17:42:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Update 1.3 (7/18/26): K. Lopez, K. Diop, J. Allick, J. Hadley, K. Mangas, M. Murrell, J. Nelson, S. Thomas, T. Townsend",
+   "detected_at": "2026-09-03 17:42:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Trey Townsend Charlotte Hornets",
+   "detected_at": "2026-09-03 17:42:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  26-27 $1,357,763",
+   "detected_at": "2026-09-03 17:42:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($5,000).",
+   "detected_at": "2026-09-03 17:42:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 9/1/26",
+   "detected_at": "2026-09-03 17:42:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "PHL  + ADDED  Fall, Tacko",
    "detected_at": "2026-09-03 17:41:57",
    "source": "SHEETS",
@@ -10356,54 +10392,12 @@
    "source": "WIKIWATCH",
    "type": "FIELD",
    "url": "https://en.wikipedia.org/wiki/Elijah_Harkless"
-  },
-  {
-   "detail": "Wikipedia says Elijah Harkless's position is now Shooting guard",
-   "detected_at": "2026-09-03 08:20:08",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Elijah_Harkless"
-  },
-  {
-   "detail": "Wikipedia edited Elijah Harkless's page",
-   "detected_at": "2026-09-03 08:20:08",
-   "source": "WIKIWATCH",
-   "type": "PAGE",
-   "url": "https://en.wikipedia.org/wiki/Elijah_Harkless"
-  },
-  {
-   "detail": "Wikipedia says Dylan Cardwell has signed for Sacramento Kings",
-   "detected_at": "2026-09-03 08:20:08",
-   "source": "WIKIWATCH",
-   "type": "CLUB",
-   "url": "https://en.wikipedia.org/wiki/Dylan_Cardwell"
-  },
-  {
-   "detail": "Wikipedia says Dylan Cardwell's league is now NBA",
-   "detected_at": "2026-09-03 08:20:08",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Dylan_Cardwell"
-  },
-  {
-   "detail": "Wikipedia says Dylan Cardwell's position is now Center",
-   "detected_at": "2026-09-03 08:20:08",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Dylan_Cardwell"
-  },
-  {
-   "detail": "Wikipedia says Dylan Cardwell's number is now 32",
-   "detected_at": "2026-09-03 08:20:08",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Dylan_Cardwell"
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 2236,
-   "last": "2026-09-03 17:41:55"
+   "count": 2242,
+   "last": "2026-09-03 17:42:56"
   },
   "GLEAGUE": {
    "count": 31,
@@ -10442,6 +10436,6 @@
    "last": "2026-09-03 13:19:10"
   }
  },
- "generated_at": "2026-09-03T17:42:00",
- "total": 12702
+ "generated_at": "2026-09-03T17:43:01",
+ "total": 12708
 }
