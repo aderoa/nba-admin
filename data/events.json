@@ -1,6 +1,24 @@
 {
  "events": [
   {
+   "detail": "CHA  - REMOVED Tillman, Xavier #2",
+   "detected_at": "2026-09-03 17:44:58",
+   "source": "SHEETS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "CHA  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 185961313 -> 183511892, col9: 477068700.4 -> 474619279.4",
+   "detected_at": "2026-09-03 17:44:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "CHA  CHANGED Cap Holds  -  col3: 4898842 -> 2449421",
+   "detected_at": "2026-09-03 17:44:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "CHA  + ADDED  Tillman, Xavier #2",
    "detected_at": "2026-09-03 17:43:57",
    "source": "SHEETS",
@@ -10354,27 +10372,6 @@
    "source": "WIKIWATCH",
    "type": "FIELD",
    "url": "https://en.wikipedia.org/wiki/Jalen_Smith"
-  },
-  {
-   "detail": "Wikipedia edited Jalen Smith's page",
-   "detected_at": "2026-09-03 08:20:08",
-   "source": "WIKIWATCH",
-   "type": "PAGE",
-   "url": "https://en.wikipedia.org/wiki/Jalen_Smith"
-  },
-  {
-   "detail": "Wikipedia says Derik Queen has signed for New Orleans Pelicans",
-   "detected_at": "2026-09-03 08:20:08",
-   "source": "WIKIWATCH",
-   "type": "CLUB",
-   "url": "https://en.wikipedia.org/wiki/Derik_Queen"
-  },
-  {
-   "detail": "Wikipedia says Derik Queen's league is now NBA",
-   "detected_at": "2026-09-03 08:20:08",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Derik_Queen"
   }
  ],
  "feeds": {
@@ -10403,8 +10400,8 @@
    "last": "2026-09-03 08:07:09"
   },
   "SHEETS": {
-   "count": 3597,
-   "last": "2026-09-03 17:43:57"
+   "count": 3600,
+   "last": "2026-09-03 17:44:58"
   },
   "TRANSACTIONS": {
    "count": 306,
@@ -10419,6 +10416,6 @@
    "last": "2026-09-03 13:19:10"
   }
  },
- "generated_at": "2026-09-03T17:44:00",
- "total": 12725
+ "generated_at": "2026-09-03T17:45:00",
+ "total": 12728
 }
