@@ -1,6 +1,41 @@
 {
  "events": [
   {
+   "detail": "Jared Sullinger  ~ team: Guangdong Southern Tigers -> -",
+   "detected_at": "2026-09-03 18:04:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jared_Sullinger"
+  },
+  {
+   "detail": "Jared Sullinger  ~ league: CBA -> -",
+   "detected_at": "2026-09-03 18:04:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jared_Sullinger"
+  },
+  {
+   "detail": "Jared Sullinger  ~ number: 0 -> -",
+   "detected_at": "2026-09-03 18:04:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jared_Sullinger"
+  },
+  {
+   "detail": "Jared Sullinger  ~ career_end: - -> 2026",
+   "detected_at": "2026-09-03 18:04:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jared_Sullinger"
+  },
+  {
+   "detail": "Jared Sullinger  ~ CAREER  + 2025–2026 Guangdong Southern Tigers",
+   "detected_at": "2026-09-03 18:04:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Jared_Sullinger"
+  },
+  {
    "detail": "2026-09-03  Minnesota Timberwolves signed forward Jonathan Kuminga to a Contract.",
    "detected_at": "2026-09-03 17:49:55",
    "source": "TRANSACTIONS",
@@ -10335,41 +10370,6 @@
    "source": "WIKIWATCH",
    "type": "FIELD",
    "url": "https://en.wikipedia.org/wiki/Immanuel_Quickley"
-  },
-  {
-   "detail": "Wikipedia says Immanuel Quickley's position is now Point guard / shooting guard",
-   "detected_at": "2026-09-03 08:20:08",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Immanuel_Quickley"
-  },
-  {
-   "detail": "Wikipedia says Immanuel Quickley's number is now 5",
-   "detected_at": "2026-09-03 08:20:08",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Immanuel_Quickley"
-  },
-  {
-   "detail": "Wikipedia edited Immanuel Quickley's page",
-   "detected_at": "2026-09-03 08:20:08",
-   "source": "WIKIWATCH",
-   "type": "PAGE",
-   "url": "https://en.wikipedia.org/wiki/Immanuel_Quickley"
-  },
-  {
-   "detail": "Wikipedia says Jalen Smith has signed for Chicago Bulls",
-   "detected_at": "2026-09-03 08:20:08",
-   "source": "WIKIWATCH",
-   "type": "CLUB",
-   "url": "https://en.wikipedia.org/wiki/Jalen_Smith"
-  },
-  {
-   "detail": "Wikipedia says Jalen Smith's league is now NBA",
-   "detected_at": "2026-09-03 08:20:08",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Jalen_Smith"
   }
  ],
  "feeds": {
@@ -10406,14 +10406,14 @@
    "last": "2026-09-03 17:49:55"
   },
   "WIKI": {
-   "count": 2178,
-   "last": "2026-09-03 16:32:47"
+   "count": 2183,
+   "last": "2026-09-03 18:04:47"
   },
   "WIKIWATCH": {
    "count": 2061,
    "last": "2026-09-03 13:19:10"
   }
  },
- "generated_at": "2026-09-03T17:56:00",
- "total": 12730
+ "generated_at": "2026-09-03T18:04:48",
+ "total": 12735
 }
