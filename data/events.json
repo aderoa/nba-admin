@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "JD Davison  ~ team: Free agent -> Orlando Magic",
+   "detected_at": "2026-09-03 18:50:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/JD_Davison"
+  },
+  {
+   "detail": "JD Davison  ~ league: - -> NBA",
+   "detected_at": "2026-09-03 18:50:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/JD_Davison"
+  },
+  {
+   "detail": "JD Davison  ~ CAREER  + –present Orlando Magic",
+   "detected_at": "2026-09-03 18:50:46",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/JD_Davison"
+  },
+  {
    "detail": "~ CHANGED Jonathan Kuminga  team: ATL -> MIN",
    "detected_at": "2026-09-03 18:14:54",
    "source": "PLAYERS",
@@ -10347,27 +10368,6 @@
    "source": "WIKIWATCH",
    "type": "FIELD",
    "url": "https://en.wikipedia.org/wiki/Grant_Williams_(basketball)"
-  },
-  {
-   "detail": "Wikipedia says Grant Williams's position is now Power forward",
-   "detected_at": "2026-09-03 08:20:08",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Grant_Williams_(basketball)"
-  },
-  {
-   "detail": "Wikipedia says Grant Williams's number is now 2",
-   "detected_at": "2026-09-03 08:20:08",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Grant_Williams_(basketball)"
-  },
-  {
-   "detail": "Wikipedia edited Grant Williams's page",
-   "detected_at": "2026-09-03 08:20:08",
-   "source": "WIKIWATCH",
-   "type": "PAGE",
-   "url": "https://en.wikipedia.org/wiki/Grant_Williams_(basketball)"
   }
  ],
  "feeds": {
@@ -10404,14 +10404,14 @@
    "last": "2026-09-03 17:49:55"
   },
   "WIKI": {
-   "count": 2183,
-   "last": "2026-09-03 18:04:47"
+   "count": 2186,
+   "last": "2026-09-03 18:50:46"
   },
   "WIKIWATCH": {
    "count": 2061,
    "last": "2026-09-03 13:19:10"
   }
  },
- "generated_at": "2026-09-03T18:42:03",
- "total": 12737
+ "generated_at": "2026-09-03T18:50:47",
+ "total": 12740
 }
