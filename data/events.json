@@ -1,6 +1,34 @@
 {
  "events": [
   {
+   "detail": "Markel Brown  ~ team: Pallacanestro Trieste -> Napoli Basket",
+   "detected_at": "2026-09-04 15:43:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Markel_Brown"
+  },
+  {
+   "detail": "Markel Brown  ~ number: 22 -> -",
+   "detected_at": "2026-09-04 15:43:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Markel_Brown"
+  },
+  {
+   "detail": "Markel Brown  ~ CAREER  + 2024–2026 Pallacanestro Trieste",
+   "detected_at": "2026-09-04 15:43:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Markel_Brown"
+  },
+  {
+   "detail": "Markel Brown  ~ CAREER  + 2026–present Napoli Basket",
+   "detected_at": "2026-09-04 15:43:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Markel_Brown"
+  },
+  {
    "detail": "Bruno Caboclo  ~ team: Free agent -> Hapoel Tel Aviv",
    "detected_at": "2026-09-04 15:20:46",
    "source": "WIKI",
@@ -10335,34 +10363,6 @@
    "source": "WIKIWATCH",
    "type": "CLUB",
    "url": "https://en.wikipedia.org/wiki/Isaiah_Joe"
-  },
-  {
-   "detail": "Wikipedia says Isaiah Joe's league is now NBA",
-   "detected_at": "2026-09-03 08:20:10",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Isaiah_Joe"
-  },
-  {
-   "detail": "Wikipedia says Isaiah Joe's position is now Shooting guard",
-   "detected_at": "2026-09-03 08:20:10",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Isaiah_Joe"
-  },
-  {
-   "detail": "Wikipedia says Isaiah Joe's number is now 17",
-   "detected_at": "2026-09-03 08:20:10",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Isaiah_Joe"
-  },
-  {
-   "detail": "Wikipedia edited Isaiah Joe's page",
-   "detected_at": "2026-09-03 08:20:10",
-   "source": "WIKIWATCH",
-   "type": "PAGE",
-   "url": "https://en.wikipedia.org/wiki/Isaiah_Joe"
   }
  ],
  "feeds": {
@@ -10399,14 +10399,14 @@
    "last": "2026-09-03 17:49:55"
   },
   "WIKI": {
-   "count": 2247,
-   "last": "2026-09-04 15:20:46"
+   "count": 2251,
+   "last": "2026-09-04 15:43:47"
   },
   "WIKIWATCH": {
    "count": 2072,
    "last": "2026-09-04 09:35:30"
   }
  },
- "generated_at": "2026-09-04T15:35:03",
- "total": 12862
+ "generated_at": "2026-09-04T15:43:48",
+ "total": 12866
 }
