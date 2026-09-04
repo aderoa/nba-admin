@@ -1,6 +1,34 @@
 {
  "events": [
   {
+   "detail": "Bruno Caboclo  ~ team: Free agent -> Hapoel Tel Aviv",
+   "detected_at": "2026-09-04 15:20:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Bruno_Caboclo"
+  },
+  {
+   "detail": "Bruno Caboclo  ~ league: - -> Israeli Basketball Premier League EuroLeague",
+   "detected_at": "2026-09-04 15:20:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Bruno_Caboclo"
+  },
+  {
+   "detail": "Bruno Caboclo  ~ number: - -> 51",
+   "detected_at": "2026-09-04 15:20:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Bruno_Caboclo"
+  },
+  {
+   "detail": "Bruno Caboclo  ~ CAREER  + 2026–present Hapoel Tel Aviv",
+   "detected_at": "2026-09-04 15:20:46",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Bruno_Caboclo"
+  },
+  {
    "detail": "+ ADDED   John Butler Jr. (MIL)",
    "detected_at": "2026-09-04 14:14:55",
    "source": "PLAYERS",
@@ -10335,34 +10363,6 @@
    "source": "WIKIWATCH",
    "type": "PAGE",
    "url": "https://en.wikipedia.org/wiki/Isaiah_Joe"
-  },
-  {
-   "detail": "Wikipedia says Jalen Pickett has signed for Los Angeles Clippers",
-   "detected_at": "2026-09-03 08:20:10",
-   "source": "WIKIWATCH",
-   "type": "CLUB",
-   "url": "https://en.wikipedia.org/wiki/Jalen_Pickett"
-  },
-  {
-   "detail": "Wikipedia says Jalen Pickett's league is now NBA",
-   "detected_at": "2026-09-03 08:20:10",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Jalen_Pickett"
-  },
-  {
-   "detail": "Wikipedia says Jalen Pickett's position is now Point guard",
-   "detected_at": "2026-09-03 08:20:10",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Jalen_Pickett"
-  },
-  {
-   "detail": "Wikipedia edited Jalen Pickett's page",
-   "detected_at": "2026-09-03 08:20:10",
-   "source": "WIKIWATCH",
-   "type": "PAGE",
-   "url": "https://en.wikipedia.org/wiki/Jalen_Pickett"
   }
  ],
  "feeds": {
@@ -10399,14 +10399,14 @@
    "last": "2026-09-03 17:49:55"
   },
   "WIKI": {
-   "count": 2243,
-   "last": "2026-09-04 13:01:47"
+   "count": 2247,
+   "last": "2026-09-04 15:20:46"
   },
   "WIKIWATCH": {
    "count": 2072,
    "last": "2026-09-04 09:35:30"
   }
  },
- "generated_at": "2026-09-04T15:12:03",
- "total": 12858
+ "generated_at": "2026-09-04T15:20:47",
+ "total": 12862
 }
