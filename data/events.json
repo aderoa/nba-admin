@@ -1,6 +1,18 @@
 {
  "events": [
   {
+   "detail": "2026-27 Veteran Signings  - REMOVED Update 1.3 (7/18/26): B. Beal, D. Brooks, K. Bufkin, K. Caldwell-Pope, M. Cisse, I. Crawford, D. Green, M. Hezonja, H. Highsmith, C. Houstan, H. Ingram, A. Jackson, L. James, S. Jones, Y. Kawamura, C. Koloko, N. Marshall, D. Melton, G. Niang, G. Payton, T. Peter, J. Phillips, N. Richards, M. Smith, J. Sochan, J. Tate, D. Terry, A. Thompson, K. Thompson, M. Thybulle, O. Tshiebwe, M. Wagner, J. Walsh, T. Watford, P. Watson, B. Williams",
+   "detected_at": "2026-09-03 17:33:55",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Update 1.3 (7/18/26): B. Beal, D. Brooks, K. Bufkin, K. Caldwell-Pope, M. Cisse, I. Crawford, T. Fall, D. Green, M. Hezonja, H. Highsmith, C. Houstan, H. Ingram, A. Jackson, L. James, S. Jones, Y. Kawamura, C. Koloko, N. Marshall, D. Melton, G. Niang, G. Payton, T. Peter, J. Phillips, N. Richards, M. Smith, J. Sochan, J. Tate, D. Terry, A. Thompson, K. Thompson, M. Thybulle, O. Tshiebwe, M. Wagner, J. Walsh, T. Watford, P. Watson, B. Williams",
+   "detected_at": "2026-09-03 17:33:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "2026-27 Rookie Signings  - REMOVED Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
    "detected_at": "2026-09-03 17:30:55",
    "source": "DOCS",
@@ -10408,26 +10420,12 @@
    "source": "WIKIWATCH",
    "type": "CLUB",
    "url": "https://en.wikipedia.org/wiki/Dean_Wade"
-  },
-  {
-   "detail": "Wikipedia says Dean Wade's league is now NBA",
-   "detected_at": "2026-09-03 08:20:05",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Dean_Wade"
-  },
-  {
-   "detail": "Wikipedia says Dean Wade's position is now Power forward / small forward",
-   "detected_at": "2026-09-03 08:20:05",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Dean_Wade"
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 2220,
-   "last": "2026-09-03 17:30:55"
+   "count": 2222,
+   "last": "2026-09-03 17:33:55"
   },
   "GLEAGUE": {
    "count": 31,
@@ -10466,6 +10464,6 @@
    "last": "2026-09-03 13:19:10"
   }
  },
- "generated_at": "2026-09-03T17:33:00",
- "total": 12678
+ "generated_at": "2026-09-03T17:41:38",
+ "total": 12680
 }
