@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Ken Brown (basketball)  ~ height_in: 11 -> 9",
+   "detected_at": "2026-09-05 09:58:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Ken_Brown_(basketball)"
+  },
+  {
+   "detail": "Ken Brown (basketball)  ~ weight_lb: 170 -> 165",
+   "detected_at": "2026-09-05 09:58:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Ken_Brown_(basketball)"
+  },
+  {
    "detail": "Johnny O'Bryant III  ~ team: Anyang Jung Kwan Jang Red Boosters -> Goyang Sono Skygunners",
    "detected_at": "2026-09-05 09:35:47",
    "source": "WIKI",
@@ -10341,20 +10355,6 @@
    "source": "WIKIWATCH",
    "type": "FIELD",
    "url": "https://en.wikipedia.org/wiki/Jayson_Tatum"
-  },
-  {
-   "detail": "Wikipedia says Jayson Tatum's number is now 0",
-   "detected_at": "2026-09-03 08:20:13",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Jayson_Tatum"
-  },
-  {
-   "detail": "Wikipedia edited Jayson Tatum's page",
-   "detected_at": "2026-09-03 08:20:13",
-   "source": "WIKIWATCH",
-   "type": "PAGE",
-   "url": "https://en.wikipedia.org/wiki/Jayson_Tatum"
   }
  ],
  "feeds": {
@@ -10391,14 +10391,14 @@
    "last": "2026-09-05 07:19:12"
   },
   "WIKI": {
-   "count": 2296,
-   "last": "2026-09-05 09:35:47"
+   "count": 2298,
+   "last": "2026-09-05 09:58:46"
   },
   "WIKIWATCH": {
    "count": 2092,
    "last": "2026-09-05 08:25:11"
   }
  },
- "generated_at": "2026-09-05T09:50:00",
- "total": 12939
+ "generated_at": "2026-09-05T09:58:47",
+ "total": 12941
 }
