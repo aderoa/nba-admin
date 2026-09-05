@@ -1,6 +1,53 @@
 {
  "events": [
   {
+   "detail": "+ ADDED   Kobe Stewart (CHA)",
+   "detected_at": "2026-09-05 07:27:55",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "+ ADDED   Grant Nelson (BKN)",
+   "detected_at": "2026-09-05 07:27:55",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "Wikipedia says Isaac Bonga has signed for Panathinaikos",
+   "detected_at": "2026-09-05 07:27:03",
+   "source": "WIKIWATCH",
+   "type": "CLUB",
+   "url": "https://en.wikipedia.org/wiki/Isaac_Bonga"
+  },
+  {
+   "detail": "Wikipedia says Isaac Bonga's league is now GBL EuroLeague",
+   "detected_at": "2026-09-05 07:27:03",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "https://en.wikipedia.org/wiki/Isaac_Bonga"
+  },
+  {
+   "detail": "Wikipedia says Isaac Bonga's position is now Small forward / power forward",
+   "detected_at": "2026-09-05 07:27:03",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "https://en.wikipedia.org/wiki/Isaac_Bonga"
+  },
+  {
+   "detail": "Wikipedia says Isaac Bonga's number is now 32",
+   "detected_at": "2026-09-05 07:27:03",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "https://en.wikipedia.org/wiki/Isaac_Bonga"
+  },
+  {
+   "detail": "Wikipedia edited Isaac Bonga's page",
+   "detected_at": "2026-09-05 07:27:03",
+   "source": "WIKIWATCH",
+   "type": "PAGE",
+   "url": "https://en.wikipedia.org/wiki/Isaac_Bonga"
+  },
+  {
    "detail": "David Nwaba  ~ team: San-en NeoPhoenix -> Ryukyu Golden Kings",
    "detected_at": "2026-09-05 07:26:49",
    "source": "WIKI",
@@ -10308,55 +10355,6 @@
    "source": "WIKIWATCH",
    "type": "CLUB",
    "url": "https://en.wikipedia.org/wiki/Jared_McCain"
-  },
-  {
-   "detail": "Wikipedia says Jared McCain's league is now NBA",
-   "detected_at": "2026-09-03 08:20:13",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Jared_McCain"
-  },
-  {
-   "detail": "Wikipedia says Jared McCain's position is now Shooting guard",
-   "detected_at": "2026-09-03 08:20:13",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Jared_McCain"
-  },
-  {
-   "detail": "Wikipedia says Jared McCain's number is now 3",
-   "detected_at": "2026-09-03 08:20:13",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Jared_McCain"
-  },
-  {
-   "detail": "Wikipedia edited Jared McCain's page",
-   "detected_at": "2026-09-03 08:20:13",
-   "source": "WIKIWATCH",
-   "type": "PAGE",
-   "url": "https://en.wikipedia.org/wiki/Jared_McCain"
-  },
-  {
-   "detail": "Wikipedia says Hugo Gonzalez has signed for Boston Celtics",
-   "detected_at": "2026-09-03 08:20:13",
-   "source": "WIKIWATCH",
-   "type": "CLUB",
-   "url": "https://en.wikipedia.org/wiki/Hugo_Gonz%C3%A1lez_(basketball)"
-  },
-  {
-   "detail": "Wikipedia says Hugo Gonzalez's league is now NBA",
-   "detected_at": "2026-09-03 08:20:13",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Hugo_Gonz%C3%A1lez_(basketball)"
-  },
-  {
-   "detail": "Wikipedia says Hugo Gonzalez's position is now Shooting guard",
-   "detected_at": "2026-09-03 08:20:13",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Hugo_Gonz%C3%A1lez_(basketball)"
   }
  ],
  "feeds": {
@@ -10369,8 +10367,8 @@
    "last": "2026-09-05 07:19:39"
   },
   "PLAYERS": {
-   "count": 720,
-   "last": "2026-09-04 14:14:55"
+   "count": 722,
+   "last": "2026-09-05 07:27:55"
   },
   "RATINGS": {
    "count": 950,
@@ -10397,10 +10395,10 @@
    "last": "2026-09-05 07:26:49"
   },
   "WIKIWATCH": {
-   "count": 2077,
-   "last": "2026-09-04 21:32:23"
+   "count": 2082,
+   "last": "2026-09-05 07:27:03"
   }
  },
- "generated_at": "2026-09-05T07:26:54",
- "total": 12911
+ "generated_at": "2026-09-05T07:28:03",
+ "total": 12918
 }
