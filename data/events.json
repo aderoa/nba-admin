@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "NBL Blitz South East Melbourne 113, Brisbane 105",
+   "detected_at": "2026-09-05 16:44:08",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-05/Brisbane-at-South-East-Melbourne/524199"
+  },
+  {
+   "detail": "NBL Blitz + Jacob Holt → Brisbane",
+   "detected_at": "2026-09-05 16:44:05",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "NBL Blitz + Lat Mayen → Brisbane",
+   "detected_at": "2026-09-05 16:44:05",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
    "detail": "Wikipedia says Tyler Dorsey has signed for Olympiacos",
    "detected_at": "2026-09-05 13:48:47",
    "source": "WIKIWATCH",
@@ -10334,27 +10355,6 @@
    "source": "WIKIWATCH",
    "type": "CLUB",
    "url": "https://en.wikipedia.org/wiki/Jordan_Clarkson"
-  },
-  {
-   "detail": "Wikipedia says Jordan Clarkson's league is now NBA",
-   "detected_at": "2026-09-03 08:20:13",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Jordan_Clarkson"
-  },
-  {
-   "detail": "Wikipedia says Jordan Clarkson's position is now Shooting guard / point guard",
-   "detected_at": "2026-09-03 08:20:13",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Jordan_Clarkson"
-  },
-  {
-   "detail": "Wikipedia says Jordan Clarkson's number is now 00",
-   "detected_at": "2026-09-03 08:20:13",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Jordan_Clarkson"
   }
  ],
  "feeds": {
@@ -10375,12 +10375,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 213,
-   "last": "2026-09-04 09:24:27"
+   "count": 215,
+   "last": "2026-09-05 16:44:05"
   },
   "SCORES": {
-   "count": 478,
-   "last": "2026-09-04 09:24:31"
+   "count": 479,
+   "last": "2026-09-05 16:44:08"
   },
   "SHEETS": {
    "count": 3600,
@@ -10399,6 +10399,6 @@
    "last": "2026-09-05 13:48:47"
   }
  },
- "generated_at": "2026-09-05T16:43:01",
- "total": 12955
+ "generated_at": "2026-09-05T16:44:10",
+ "total": 12958
 }
