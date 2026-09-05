@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Bandja Sy  ~ team: Partizan Belgrade -> Metalac Valjevo",
+   "detected_at": "2026-09-05 13:02:48",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Bandja_Sy"
+  },
+  {
+   "detail": "Bandja Sy  ~ league: KLS ABA League EuroLeague -> KLS",
+   "detected_at": "2026-09-05 13:02:48",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Bandja_Sy"
+  },
+  {
+   "detail": "Bandja Sy  ~ CAREER  + 2026–present Metalac Valjevo",
+   "detected_at": "2026-09-05 13:02:48",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Bandja_Sy"
+  },
+  {
    "detail": "Bandja Sy  ~ team: Free agent -> Partizan Belgrade",
    "detected_at": "2026-09-05 12:39:47",
    "source": "WIKI",
@@ -10334,27 +10355,6 @@
    "source": "WIKIWATCH",
    "type": "FIELD",
    "url": "https://en.wikipedia.org/wiki/Jaylen_Brown"
-  },
-  {
-   "detail": "Wikipedia edited Jaylen Brown's page",
-   "detected_at": "2026-09-03 08:20:13",
-   "source": "WIKIWATCH",
-   "type": "PAGE",
-   "url": "https://en.wikipedia.org/wiki/Jaylen_Brown"
-  },
-  {
-   "detail": "Wikipedia says Josh Hart has signed for New York Knicks",
-   "detected_at": "2026-09-03 08:20:13",
-   "source": "WIKIWATCH",
-   "type": "CLUB",
-   "url": "https://en.wikipedia.org/wiki/Josh_Hart"
-  },
-  {
-   "detail": "Wikipedia says Josh Hart's league is now NBA",
-   "detected_at": "2026-09-03 08:20:13",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Josh_Hart"
   }
  ],
  "feeds": {
@@ -10391,14 +10391,14 @@
    "last": "2026-09-05 07:19:12"
   },
   "WIKI": {
-   "count": 2304,
-   "last": "2026-09-05 12:39:47"
+   "count": 2307,
+   "last": "2026-09-05 13:02:48"
   },
   "WIKIWATCH": {
    "count": 2092,
    "last": "2026-09-05 08:25:11"
   }
  },
- "generated_at": "2026-09-05T12:54:00",
- "total": 12947
+ "generated_at": "2026-09-05T13:02:49",
+ "total": 12950
 }
