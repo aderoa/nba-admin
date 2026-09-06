@@ -1,6 +1,209 @@
 {
  "events": [
   {
+   "detail": "NBL Blitz New Zealand 96, Tasmania 86",
+   "detected_at": "2026-09-06 10:48:06",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-06/New-Zealand-at-Tasmania/524202"
+  },
+  {
+   "detail": "NBL Blitz ~ MOVED Kouat Noi → New Zealand (from Sporting Al Riyadi Beirut)",
+   "detected_at": "2026-09-06 10:48:03",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "NBL Blitz ~ MOVED Tukaha Cooper → New Zealand (from Zerofees Southland Sharks)",
+   "detected_at": "2026-09-06 10:48:03",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "NBL Blitz + Majok Deng → Tasmania",
+   "detected_at": "2026-09-06 10:48:03",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "NBL Blitz + David Johnson → Tasmania",
+   "detected_at": "2026-09-06 10:48:03",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Wes Iwundu  ~ number: - -> 25",
+   "detected_at": "2026-09-06 10:47:58",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Wes_Iwundu"
+  },
+  {
+   "detail": "Henri Drell  ~ number: - -> 0",
+   "detected_at": "2026-09-06 10:47:58",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Henri_Drell"
+  },
+  {
+   "detail": "Jaron Blossomgame  ~ number: - -> 4",
+   "detected_at": "2026-09-06 10:47:58",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jaron_Blossomgame"
+  },
+  {
+   "detail": "Jeremiah Robinson-Earl  ~ position: Power forward / center -> Center / power forward",
+   "detected_at": "2026-09-06 10:47:58",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jeremiah_Robinson-Earl"
+  },
+  {
+   "detail": "Nico Mannion  ~ number: - -> 1",
+   "detected_at": "2026-09-06 10:47:58",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Nico_Mannion"
+  },
+  {
+   "detail": "Eric Paschall  ~ number: - -> 7",
+   "detected_at": "2026-09-06 10:47:58",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Eric_Paschall"
+  },
+  {
+   "detail": "Dmytro Skapintsev  ~ number: - -> 44",
+   "detected_at": "2026-09-06 10:47:58",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Dmytro_Skapintsev"
+  },
+  {
+   "detail": "Marial Shayok  ~ number: - -> 11",
+   "detected_at": "2026-09-06 10:47:58",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Marial_Shayok"
+  },
+  {
+   "detail": "Cam McGriff  ~ number: - -> 0",
+   "detected_at": "2026-09-06 10:47:58",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Cam_McGriff"
+  },
+  {
+   "detail": "Andersson Garcia  ~ number: - -> 0",
+   "detected_at": "2026-09-06 10:47:58",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Andersson_Garcia"
+  },
+  {
+   "detail": "Josep Puerto  ~ position: Small forward -> Small forward / power forward",
+   "detected_at": "2026-09-06 10:47:58",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Josep_Puerto"
+  },
+  {
+   "detail": "Kassius Robertson  ~ number: - -> 30",
+   "detected_at": "2026-09-06 10:47:58",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kassius_Robertson"
+  },
+  {
+   "detail": "Artem Pustovyi  ~ number: 99 -> 13",
+   "detected_at": "2026-09-06 10:47:58",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Artem_Pustovyi"
+  },
+  {
+   "detail": "Leon Radošević  ~ number: - -> 43",
+   "detected_at": "2026-09-06 10:47:58",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Leon_Rado%C5%A1evi%C4%87"
+  },
+  {
+   "detail": "Tarik Biberović  ~ number: 13 -> -",
+   "detected_at": "2026-09-06 10:47:58",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Tarik_Biberovi%C4%87"
+  },
+  {
+   "detail": "Max Heidegger  ~ team: San Pablo Burgos -> Hapoel Tel Aviv",
+   "detected_at": "2026-09-06 10:47:58",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Max_Heidegger"
+  },
+  {
+   "detail": "Max Heidegger  ~ league: Liga ACB -> Ligat HaAl EuroLeague",
+   "detected_at": "2026-09-06 10:47:58",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Max_Heidegger"
+  },
+  {
+   "detail": "Max Heidegger  ~ CAREER  + 2026 San Pablo Burgos",
+   "detected_at": "2026-09-06 10:47:58",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Max_Heidegger"
+  },
+  {
+   "detail": "Max Heidegger  ~ CAREER  + 2026–present Hapoel Tel Aviv",
+   "detected_at": "2026-09-06 10:47:58",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Max_Heidegger"
+  },
+  {
+   "detail": "Matt Morgan (basketball)  ~ position: Shooting guard / point guard -> Small forward / shooting guard",
+   "detected_at": "2026-09-06 10:47:58",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Matt_Morgan_(basketball)"
+  },
+  {
+   "detail": "Yiftach Ziv  ~ team: Hapoel Tel Aviv -> Free agent",
+   "detected_at": "2026-09-06 10:47:58",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Yiftach_Ziv"
+  },
+  {
+   "detail": "Yiftach Ziv  ~ league: Israeli Premier League EuroLeague -> -",
+   "detected_at": "2026-09-06 10:47:58",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Yiftach_Ziv"
+  },
+  {
+   "detail": "Yiftach Ziv  ~ number: 99 -> -",
+   "detected_at": "2026-09-06 10:47:58",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Yiftach_Ziv"
+  },
+  {
+   "detail": "Yiftach Ziv  ~ CAREER  + 2025–2026 Hapoel Tel Aviv",
+   "detected_at": "2026-09-06 10:47:58",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Yiftach_Ziv"
+  },
+  {
    "detail": "Josh Reaves  ~ team: Rio Grande Valley Vipers -> Free agent",
    "detected_at": "2026-09-05 23:59:14",
    "source": "WIKI",
@@ -10152,209 +10355,6 @@
    "source": "WIKIWATCH",
    "type": "FIELD",
    "url": "https://en.wikipedia.org/wiki/Julian_Champagnie"
-  },
-  {
-   "detail": "Wikipedia says Julian Champagnie's number is now 30",
-   "detected_at": "2026-09-03 08:20:16",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Julian_Champagnie"
-  },
-  {
-   "detail": "Wikipedia edited Julian Champagnie's page",
-   "detected_at": "2026-09-03 08:20:16",
-   "source": "WIKIWATCH",
-   "type": "PAGE",
-   "url": "https://en.wikipedia.org/wiki/Julian_Champagnie"
-  },
-  {
-   "detail": "Wikipedia says Jeremy Sochan has signed for Portland Trail Blazers",
-   "detected_at": "2026-09-03 08:20:16",
-   "source": "WIKIWATCH",
-   "type": "CLUB",
-   "url": "https://en.wikipedia.org/wiki/Jeremy_Sochan"
-  },
-  {
-   "detail": "Wikipedia says Jeremy Sochan's league is now NBA",
-   "detected_at": "2026-09-03 08:20:16",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Jeremy_Sochan"
-  },
-  {
-   "detail": "Wikipedia says Jeremy Sochan's position is now Power forward",
-   "detected_at": "2026-09-03 08:20:16",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Jeremy_Sochan"
-  },
-  {
-   "detail": "Wikipedia says Jeremy Sochan's number is now 4",
-   "detected_at": "2026-09-03 08:20:16",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Jeremy_Sochan"
-  },
-  {
-   "detail": "Wikipedia edited Jeremy Sochan's page",
-   "detected_at": "2026-09-03 08:20:16",
-   "source": "WIKIWATCH",
-   "type": "PAGE",
-   "url": "https://en.wikipedia.org/wiki/Jeremy_Sochan"
-  },
-  {
-   "detail": "Wikipedia says Jericho Sims has signed for Milwaukee Bucks",
-   "detected_at": "2026-09-03 08:20:16",
-   "source": "WIKIWATCH",
-   "type": "CLUB",
-   "url": "https://en.wikipedia.org/wiki/Jericho_Sims"
-  },
-  {
-   "detail": "Wikipedia says Jericho Sims's league is now NBA",
-   "detected_at": "2026-09-03 08:20:16",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Jericho_Sims"
-  },
-  {
-   "detail": "Wikipedia says Jericho Sims's position is now Center",
-   "detected_at": "2026-09-03 08:20:16",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Jericho_Sims"
-  },
-  {
-   "detail": "Wikipedia says Jericho Sims's number is now 00",
-   "detected_at": "2026-09-03 08:20:16",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Jericho_Sims"
-  },
-  {
-   "detail": "Wikipedia edited Jericho Sims's page",
-   "detected_at": "2026-09-03 08:20:16",
-   "source": "WIKIWATCH",
-   "type": "PAGE",
-   "url": "https://en.wikipedia.org/wiki/Jericho_Sims"
-  },
-  {
-   "detail": "Wikipedia says Julian Strawther has signed for Denver Nuggets",
-   "detected_at": "2026-09-03 08:20:16",
-   "source": "WIKIWATCH",
-   "type": "CLUB",
-   "url": "https://en.wikipedia.org/wiki/Julian_Strawther"
-  },
-  {
-   "detail": "Wikipedia says Julian Strawther's league is now NBA",
-   "detected_at": "2026-09-03 08:20:16",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Julian_Strawther"
-  },
-  {
-   "detail": "Wikipedia says Julian Strawther's position is now Shooting guard",
-   "detected_at": "2026-09-03 08:20:16",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Julian_Strawther"
-  },
-  {
-   "detail": "Wikipedia says Julian Strawther's number is now 1",
-   "detected_at": "2026-09-03 08:20:16",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Julian_Strawther"
-  },
-  {
-   "detail": "Wikipedia edited Julian Strawther's page",
-   "detected_at": "2026-09-03 08:20:16",
-   "source": "WIKIWATCH",
-   "type": "PAGE",
-   "url": "https://en.wikipedia.org/wiki/Julian_Strawther"
-  },
-  {
-   "detail": "Wikipedia says Jrue Holiday has signed for Portland Trail Blazers",
-   "detected_at": "2026-09-03 08:20:13",
-   "source": "WIKIWATCH",
-   "type": "CLUB",
-   "url": "https://en.wikipedia.org/wiki/Jrue_Holiday"
-  },
-  {
-   "detail": "Wikipedia says Jrue Holiday's league is now NBA",
-   "detected_at": "2026-09-03 08:20:13",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Jrue_Holiday"
-  },
-  {
-   "detail": "Wikipedia says Jrue Holiday's position is now Point guard / shooting guard",
-   "detected_at": "2026-09-03 08:20:13",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Jrue_Holiday"
-  },
-  {
-   "detail": "Wikipedia says Jrue Holiday's number is now 5",
-   "detected_at": "2026-09-03 08:20:13",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Jrue_Holiday"
-  },
-  {
-   "detail": "Wikipedia edited Jrue Holiday's page",
-   "detected_at": "2026-09-03 08:20:13",
-   "source": "WIKIWATCH",
-   "type": "PAGE",
-   "url": "https://en.wikipedia.org/wiki/Jrue_Holiday"
-  },
-  {
-   "detail": "Wikipedia says Jimmy Butler has signed for Golden State Warriors",
-   "detected_at": "2026-09-03 08:20:13",
-   "source": "WIKIWATCH",
-   "type": "CLUB",
-   "url": "https://en.wikipedia.org/wiki/Jimmy_Butler"
-  },
-  {
-   "detail": "Wikipedia says Jimmy Butler's league is now NBA",
-   "detected_at": "2026-09-03 08:20:13",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Jimmy_Butler"
-  },
-  {
-   "detail": "Wikipedia says Jimmy Butler's position is now Small forward",
-   "detected_at": "2026-09-03 08:20:13",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Jimmy_Butler"
-  },
-  {
-   "detail": "Wikipedia says Jimmy Butler's number is now 10",
-   "detected_at": "2026-09-03 08:20:13",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Jimmy_Butler"
-  },
-  {
-   "detail": "Wikipedia edited Jimmy Butler's page",
-   "detected_at": "2026-09-03 08:20:13",
-   "source": "WIKIWATCH",
-   "type": "PAGE",
-   "url": "https://en.wikipedia.org/wiki/Jimmy_Butler"
-  },
-  {
-   "detail": "Wikipedia says Jusuf Nurkic has signed for Utah Jazz",
-   "detected_at": "2026-09-03 08:20:13",
-   "source": "WIKIWATCH",
-   "type": "CLUB",
-   "url": "https://en.wikipedia.org/wiki/Jusuf_Nurki%C4%87"
-  },
-  {
-   "detail": "Wikipedia says Jusuf Nurkic's league is now NBA",
-   "detected_at": "2026-09-03 08:20:13",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Jusuf_Nurki%C4%87"
   }
  ],
  "feeds": {
@@ -10375,12 +10375,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 218,
-   "last": "2026-09-05 17:49:50"
+   "count": 222,
+   "last": "2026-09-06 10:48:03"
   },
   "SCORES": {
-   "count": 480,
-   "last": "2026-09-05 17:49:54"
+   "count": 481,
+   "last": "2026-09-06 10:48:06"
   },
   "SHEETS": {
    "count": 3600,
@@ -10391,14 +10391,14 @@
    "last": "2026-09-05 07:19:12"
   },
   "WIKI": {
-   "count": 2316,
-   "last": "2026-09-05 23:59:14"
+   "count": 2340,
+   "last": "2026-09-06 10:47:58"
   },
   "WIKIWATCH": {
    "count": 2102,
    "last": "2026-09-05 19:51:10"
   }
  },
- "generated_at": "2026-09-06T02:37:00",
- "total": 12976
+ "generated_at": "2026-09-06T10:48:08",
+ "total": 13005
 }
