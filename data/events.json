@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Tornike Shengelia  ~ number: - -> 23",
+   "detected_at": "2026-09-05 20:07:48",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Tornike_Shengelia"
+  },
+  {
+   "detail": "Louis Labeyrie  ~ number: - -> 13",
+   "detected_at": "2026-09-05 20:07:48",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Louis_Labeyrie"
+  },
+  {
    "detail": "Wikipedia says Tornike Shengelia has signed for Dubai Basketball",
    "detected_at": "2026-09-05 19:51:10",
    "source": "WIKIWATCH",
@@ -10341,20 +10355,6 @@
    "source": "WIKIWATCH",
    "type": "FIELD",
    "url": "https://en.wikipedia.org/wiki/Julius_Randle"
-  },
-  {
-   "detail": "Wikipedia says Julius Randle's number is now 30",
-   "detected_at": "2026-09-03 08:20:13",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Julius_Randle"
-  },
-  {
-   "detail": "Wikipedia edited Julius Randle's page",
-   "detected_at": "2026-09-03 08:20:13",
-   "source": "WIKIWATCH",
-   "type": "PAGE",
-   "url": "https://en.wikipedia.org/wiki/Julius_Randle"
   }
  ],
  "feeds": {
@@ -10391,14 +10391,14 @@
    "last": "2026-09-05 07:19:12"
   },
   "WIKI": {
-   "count": 2308,
-   "last": "2026-09-05 17:26:46"
+   "count": 2310,
+   "last": "2026-09-05 20:07:48"
   },
   "WIKIWATCH": {
    "count": 2102,
    "last": "2026-09-05 19:51:10"
   }
  },
- "generated_at": "2026-09-05T19:59:01",
- "total": 12968
+ "generated_at": "2026-09-05T20:07:49",
+ "total": 12970
 }
