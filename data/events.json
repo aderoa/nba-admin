@@ -1,6 +1,69 @@
 {
  "events": [
   {
+   "detail": "Damien Inglis  ~ number: - -> 7",
+   "detected_at": "2026-09-06 13:05:48",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Damien_Inglis"
+  },
+  {
+   "detail": "David DiLeo  ~ number: - -> 51",
+   "detected_at": "2026-09-06 13:05:48",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/David_DiLeo"
+  },
+  {
+   "detail": "Aleksa Avramović  ~ number: - -> 4",
+   "detected_at": "2026-09-06 13:05:48",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Aleksa_Avramovi%C4%87"
+  },
+  {
+   "detail": "İsmet Akpınar  ~ number: 33 -> 5",
+   "detected_at": "2026-09-06 13:05:48",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/%C4%B0smet_Akp%C4%B1nar"
+  },
+  {
+   "detail": "Isiaha Mike  ~ number: - -> 24",
+   "detected_at": "2026-09-06 13:05:48",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Isiaha_Mike"
+  },
+  {
+   "detail": "Nysier Brooks  ~ team: Cayirova Belediyespor -> Çayırova Belediyespor",
+   "detected_at": "2026-09-06 13:05:48",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Nysier_Brooks"
+  },
+  {
+   "detail": "Nysier Brooks  ~ league: Türkiye Basketbol Ligi -> Basketbol Süper Ligi",
+   "detected_at": "2026-09-06 13:05:48",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Nysier_Brooks"
+  },
+  {
+   "detail": "Nysier Brooks  ~ number: 11 -> 0",
+   "detected_at": "2026-09-06 13:05:48",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Nysier_Brooks"
+  },
+  {
+   "detail": "Nysier Brooks  ~ CAREER  + 2026–present Çayırova Belediyespor",
+   "detected_at": "2026-09-06 13:05:48",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Nysier_Brooks"
+  },
+  {
    "detail": "Wikipedia says Keaton Wallace has signed for Maccabi Tel Aviv",
    "detected_at": "2026-09-06 12:48:09",
    "source": "WIKIWATCH",
@@ -10292,69 +10355,6 @@
    "source": "WIKIWATCH",
    "type": "FIELD",
    "url": "https://en.wikipedia.org/wiki/Jay_Huff"
-  },
-  {
-   "detail": "Wikipedia says Jay Huff's position is now Center",
-   "detected_at": "2026-09-03 08:20:16",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Jay_Huff"
-  },
-  {
-   "detail": "Wikipedia says Jay Huff's number is now 32",
-   "detected_at": "2026-09-03 08:20:16",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Jay_Huff"
-  },
-  {
-   "detail": "Wikipedia edited Jay Huff's page",
-   "detected_at": "2026-09-03 08:20:16",
-   "source": "WIKIWATCH",
-   "type": "PAGE",
-   "url": "https://en.wikipedia.org/wiki/Jay_Huff"
-  },
-  {
-   "detail": "Wikipedia says Jose Alvarado has signed for New York Knicks",
-   "detected_at": "2026-09-03 08:20:16",
-   "source": "WIKIWATCH",
-   "type": "CLUB",
-   "url": "https://en.wikipedia.org/wiki/Jose_Alvarado_(basketball)"
-  },
-  {
-   "detail": "Wikipedia says Jose Alvarado's league is now NBA",
-   "detected_at": "2026-09-03 08:20:16",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Jose_Alvarado_(basketball)"
-  },
-  {
-   "detail": "Wikipedia says Jose Alvarado's position is now Point guard",
-   "detected_at": "2026-09-03 08:20:16",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Jose_Alvarado_(basketball)"
-  },
-  {
-   "detail": "Wikipedia says Jose Alvarado's number is now 5",
-   "detected_at": "2026-09-03 08:20:16",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Jose_Alvarado_(basketball)"
-  },
-  {
-   "detail": "Wikipedia edited Jose Alvarado's page",
-   "detected_at": "2026-09-03 08:20:16",
-   "source": "WIKIWATCH",
-   "type": "PAGE",
-   "url": "https://en.wikipedia.org/wiki/Jose_Alvarado_(basketball)"
-  },
-  {
-   "detail": "Wikipedia says Jordan Goodwin has signed for Phoenix Suns",
-   "detected_at": "2026-09-03 08:20:16",
-   "source": "WIKIWATCH",
-   "type": "CLUB",
-   "url": "https://en.wikipedia.org/wiki/Jordan_Goodwin"
   }
  ],
  "feeds": {
@@ -10391,14 +10391,14 @@
    "last": "2026-09-05 07:19:12"
   },
   "WIKI": {
-   "count": 2341,
-   "last": "2026-09-06 12:42:47"
+   "count": 2350,
+   "last": "2026-09-06 13:05:48"
   },
   "WIKIWATCH": {
    "count": 2113,
    "last": "2026-09-06 12:48:09"
   }
  },
- "generated_at": "2026-09-06T12:57:02",
- "total": 13017
+ "generated_at": "2026-09-06T13:05:49",
+ "total": 13026
 }
