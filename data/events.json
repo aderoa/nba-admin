@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Nicolás Brussino  ~ number: - -> 9",
+   "detected_at": "2026-09-05 20:30:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Nicol%C3%A1s_Brussino"
+  },
+  {
    "detail": "Tornike Shengelia  ~ number: - -> 23",
    "detected_at": "2026-09-05 20:07:48",
    "source": "WIKI",
@@ -10348,13 +10355,6 @@
    "source": "WIKIWATCH",
    "type": "FIELD",
    "url": "https://en.wikipedia.org/wiki/Julius_Randle"
-  },
-  {
-   "detail": "Wikipedia says Julius Randle's position is now Power forward / center",
-   "detected_at": "2026-09-03 08:20:13",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Julius_Randle"
   }
  ],
  "feeds": {
@@ -10391,14 +10391,14 @@
    "last": "2026-09-05 07:19:12"
   },
   "WIKI": {
-   "count": 2310,
-   "last": "2026-09-05 20:07:48"
+   "count": 2311,
+   "last": "2026-09-05 20:30:47"
   },
   "WIKIWATCH": {
    "count": 2102,
    "last": "2026-09-05 19:51:10"
   }
  },
- "generated_at": "2026-09-05T20:22:01",
- "total": 12970
+ "generated_at": "2026-09-05T20:30:48",
+ "total": 12971
 }
