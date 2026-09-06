@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Wikipedia says Jeremiah Robinson-Earl's position is now Center / power forward, was Power forward / center",
+   "detected_at": "2026-09-06 10:57:37",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "https://en.wikipedia.org/wiki/Jeremiah_Robinson-Earl"
+  },
+  {
    "detail": "NBL Blitz New Zealand 96, Tasmania 86",
    "detected_at": "2026-09-06 10:48:06",
    "source": "SCORES",
@@ -10348,13 +10355,6 @@
    "source": "WIKIWATCH",
    "type": "FIELD",
    "url": "https://en.wikipedia.org/wiki/Julian_Champagnie"
-  },
-  {
-   "detail": "Wikipedia says Julian Champagnie's position is now Power forward",
-   "detected_at": "2026-09-03 08:20:16",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Julian_Champagnie"
   }
  ],
  "feeds": {
@@ -10395,10 +10395,10 @@
    "last": "2026-09-06 10:47:58"
   },
   "WIKIWATCH": {
-   "count": 2102,
-   "last": "2026-09-05 19:51:10"
+   "count": 2103,
+   "last": "2026-09-06 10:57:37"
   }
  },
- "generated_at": "2026-09-06T10:48:08",
- "total": 13005
+ "generated_at": "2026-09-06T10:58:07",
+ "total": 13006
 }
