@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Johannes Richter  ~ career_end: - -> 2022",
+   "detected_at": "2026-09-06 12:42:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Johannes_Richter"
+  },
+  {
    "detail": "Wikipedia says Jeremiah Robinson-Earl's position is now Center / power forward, was Power forward / center",
    "detected_at": "2026-09-06 10:57:37",
    "source": "WIKIWATCH",
@@ -10348,13 +10355,6 @@
    "source": "WIKIWATCH",
    "type": "CLUB",
    "url": "https://en.wikipedia.org/wiki/Julian_Champagnie"
-  },
-  {
-   "detail": "Wikipedia says Julian Champagnie's league is now NBA",
-   "detected_at": "2026-09-03 08:20:16",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Julian_Champagnie"
   }
  ],
  "feeds": {
@@ -10391,14 +10391,14 @@
    "last": "2026-09-05 07:19:12"
   },
   "WIKI": {
-   "count": 2340,
-   "last": "2026-09-06 10:47:58"
+   "count": 2341,
+   "last": "2026-09-06 12:42:47"
   },
   "WIKIWATCH": {
    "count": 2103,
    "last": "2026-09-06 10:57:37"
   }
  },
- "generated_at": "2026-09-06T12:33:59",
- "total": 13006
+ "generated_at": "2026-09-06T12:42:48",
+ "total": 13007
 }
