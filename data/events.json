@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "NBL Blitz Melbourne 103, Illawarra 98",
+   "detected_at": "2026-09-06 18:19:05",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-06/Illawarra-at-Melbourne/524201"
+  },
+  {
+   "detail": "NBL Blitz + Johny Narkle → Illawarra",
+   "detected_at": "2026-09-06 18:19:02",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
    "detail": "Amari Bailey  ~ team: Free agent -> Hapoel Jerusalem",
    "detected_at": "2026-09-06 18:12:48",
    "source": "WIKI",
@@ -10091,20 +10105,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Keifer_Sykes"
-  },
-  {
-   "detail": "Keifer Sykes  ~ CAREER  + 2025–2026 Hubei Wenlv",
-   "detected_at": "2026-08-25 11:53:46",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Keifer_Sykes"
-  },
-  {
-   "detail": "Keifer Sykes  ~ CAREER  + 2026 Guangzhou Loong Lions",
-   "detected_at": "2026-08-25 11:53:46",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Keifer_Sykes"
   }
  ],
  "feeds": {
@@ -10125,12 +10125,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 222,
-   "last": "2026-09-06 10:48:03"
+   "count": 223,
+   "last": "2026-09-06 18:19:02"
   },
   "SCORES": {
-   "count": 481,
-   "last": "2026-09-06 10:48:06"
+   "count": 482,
+   "last": "2026-09-06 18:19:05"
   },
   "SHEETS": {
    "count": 3600,
@@ -10149,6 +10149,6 @@
    "last": "2026-09-06 16:42:07"
   }
  },
- "generated_at": "2026-09-06T18:17:59",
- "total": 11008
+ "generated_at": "2026-09-06T18:19:07",
+ "total": 11010
 }
