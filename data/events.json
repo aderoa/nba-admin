@@ -1,6 +1,41 @@
 {
  "events": [
   {
+   "detail": "Jordan Nwora  ~ 76982: team -> -",
+   "detected_at": "2026-09-06 21:21:13",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Crvena zvezda"
+  },
+  {
+   "detail": "Jordan Nwora  ~ 76982: league -> -",
+   "detected_at": "2026-09-06 21:21:13",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "KLS ABA League EuroLeague"
+  },
+  {
+   "detail": "Jordan Nwora  ~ 76982: position -> -",
+   "detected_at": "2026-09-06 21:21:13",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Small forward"
+  },
+  {
+   "detail": "Jordan Nwora  ~ 76982: number -> -",
+   "detected_at": "2026-09-06 21:21:13",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "33"
+  },
+  {
+   "detail": "Jordan Nwora  ~ 76982: (page changed) -> -",
+   "detected_at": "2026-09-06 21:21:13",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": ""
+  },
+  {
    "detail": "NBL Blitz Melbourne 103, Illawarra 98",
    "detected_at": "2026-09-06 18:19:05",
    "source": "SCORES",
@@ -10070,41 +10105,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Jarrett_Allen"
-  },
-  {
-   "detail": "K. J. McDaniels  ~ CAREER  + 2026 Erdenet Miners",
-   "detected_at": "2026-08-25 11:53:46",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/K._J._McDaniels"
-  },
-  {
-   "detail": "K. J. McDaniels  ~ CAREER  + 2026 Marinos de Anzoátegui",
-   "detected_at": "2026-08-25 11:53:46",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/K._J._McDaniels"
-  },
-  {
-   "detail": "Keifer Sykes  ~ team: Hubei Wenlv -> Free agent",
-   "detected_at": "2026-08-25 11:53:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Keifer_Sykes"
-  },
-  {
-   "detail": "Keifer Sykes  ~ league: NBL -> -",
-   "detected_at": "2026-08-25 11:53:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Keifer_Sykes"
-  },
-  {
-   "detail": "Keifer Sykes  ~ number: 28 -> -",
-   "detected_at": "2026-08-25 11:53:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Keifer_Sykes"
   }
  ],
  "feeds": {
@@ -10145,10 +10145,10 @@
    "last": "2026-09-06 18:12:48"
   },
   "WIKIWATCH": {
-   "count": 57,
-   "last": "2026-09-06 16:42:07"
+   "count": 62,
+   "last": "2026-09-06 21:21:13"
   }
  },
- "generated_at": "2026-09-06T21:21:03",
- "total": 11010
+ "generated_at": "2026-09-06T21:22:00",
+ "total": 11015
 }
