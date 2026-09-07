@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Patrick Baldwin Jr.  ~ number: 7 -> 24",
+   "detected_at": "2026-09-06 17:03:48",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Patrick_Baldwin_Jr."
+  },
+  {
+   "detail": "David Krämer  ~ number: 1 -> 44",
+   "detected_at": "2026-09-06 17:03:48",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/David_Kr%C3%A4mer"
+  },
+  {
+   "detail": "Chris Jones (basketball, born 1993)  ~ number: 3 -> 1",
+   "detected_at": "2026-09-06 17:03:48",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Chris_Jones_(basketball,_born_1993)"
+  },
+  {
    "detail": "Cedi Osman  ~ 27813: team -> -",
    "detected_at": "2026-09-06 16:42:07",
    "source": "WIKIWATCH",
@@ -10084,26 +10105,6 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Georgios_Tsalmpouris"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED Incremental Tax Bracket Amount  -  col3: - -> 200428000.0",
-   "detected_at": "2026-08-25 10:16:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Guerschon Yabusele  ~ height_in: 7 -> 8",
-   "detected_at": "2026-08-25 10:11:20",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Guerschon_Yabusele"
-  },
-  {
-   "detail": "Tre Mann  ~ number: - -> 1",
-   "detected_at": "2026-08-25 10:11:20",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Tre_Mann"
   }
  ],
  "feeds": {
@@ -10140,14 +10141,14 @@
    "last": "2026-09-05 07:19:12"
   },
   "WIKI": {
-   "count": 2377,
-   "last": "2026-09-06 16:40:46"
+   "count": 2380,
+   "last": "2026-09-06 17:03:48"
   },
   "WIKIWATCH": {
    "count": 57,
    "last": "2026-09-06 16:42:07"
   }
  },
- "generated_at": "2026-09-06T16:55:01",
- "total": 10997
+ "generated_at": "2026-09-06T17:03:49",
+ "total": 11000
 }
