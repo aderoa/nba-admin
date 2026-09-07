@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Nick Johnson (basketball)  ~ league: LNB Pro A -> LNB Élite",
+   "detected_at": "2026-09-07 15:57:44",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Nick_Johnson_(basketball)"
+  },
+  {
    "detail": "Devin Robinson  ~ number: - -> 5",
    "detected_at": "2026-09-07 14:47:46",
    "source": "WIKI",
@@ -10101,13 +10108,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Nathan_Knight"
-  },
-  {
-   "detail": "Marko Jošilo  ~ team: Free Agent -> Borac Čačak",
-   "detected_at": "2026-08-26 10:36:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Marko_Jo%C5%A1ilo"
   }
  ],
  "feeds": {
@@ -10144,14 +10144,14 @@
    "last": "2026-09-05 07:19:12"
   },
   "WIKI": {
-   "count": 2491,
-   "last": "2026-09-07 14:47:46"
+   "count": 2492,
+   "last": "2026-09-07 15:57:44"
   },
   "WIKIWATCH": {
    "count": 72,
    "last": "2026-09-07 13:45:15"
   }
  },
- "generated_at": "2026-09-07T15:48:59",
- "total": 11128
+ "generated_at": "2026-09-07T15:57:44",
+ "total": 11129
 }
