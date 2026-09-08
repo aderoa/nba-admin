@@ -1,6 +1,24 @@
 {
  "events": [
   {
+   "detail": "~ CHANGED DeMar DeRozan  team: - -> DEN",
+   "detected_at": "2026-09-08 15:25:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED DeMar DeRozan  number: - -> 10",
+   "detected_at": "2026-09-08 15:25:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED DeMar DeRozan  school: USC -> Southern California",
+   "detected_at": "2026-09-08 15:25:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "~ CHANGED DeMar DeRozan  team: DEN -> -",
    "detected_at": "2026-09-08 15:22:54",
    "source": "PLAYERS",
@@ -10022,25 +10040,6 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Damian_Jones_(basketball)"
-  },
-  {
-   "detail": "+ ADDED   J'Vonne Hadley (MIA)",
-   "detected_at": "2026-08-28 07:06:54",
-   "source": "PLAYERS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-08-27  Miami Heat re-signed forward Keshad Johnson to a Two-Way Contract.",
-   "detected_at": "2026-08-28 06:42:55",
-   "source": "TRANSACTIONS",
-   "type": "Signing"
-  },
-  {
-   "detail": "Tarik Biberović  ~ number: 13 -> -",
-   "detected_at": "2026-08-28 06:41:48",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Tarik_Biberovi%C4%87"
   }
  ],
  "feeds": {
@@ -10053,8 +10052,8 @@
    "last": "2026-09-08 07:51:29"
   },
   "PLAYERS": {
-   "count": 746,
-   "last": "2026-09-08 15:22:54"
+   "count": 749,
+   "last": "2026-09-08 15:25:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10085,6 +10084,6 @@
    "last": "2026-09-08 13:47:02"
   }
  },
- "generated_at": "2026-09-08T15:25:01",
- "total": 11416
+ "generated_at": "2026-09-08T15:26:00",
+ "total": 11419
 }
