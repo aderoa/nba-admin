@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "~ CHANGED Taj Gibson  school: Southern California -> USC",
+   "detected_at": "2026-09-08 10:47:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "Keye van der Vuurst de Vries  ~ team: ONVO Büyükçekmece -> Joventut Badalona",
    "detected_at": "2026-09-08 10:42:48",
    "source": "WIKI",
@@ -10054,13 +10060,6 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Youssou_Ndoye"
-  },
-  {
-   "detail": "Aleksandar Marelja  ~ CAREER  + 2025–present KK SPD Radnički",
-   "detected_at": "2026-08-27 23:10:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Aleksandar_Marelja"
   }
  ],
  "feeds": {
@@ -10073,8 +10072,8 @@
    "last": "2026-09-08 07:51:29"
   },
   "PLAYERS": {
-   "count": 737,
-   "last": "2026-09-08 10:23:54"
+   "count": 738,
+   "last": "2026-09-08 10:47:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10105,6 +10104,6 @@
    "last": "2026-09-07 13:45:15"
   }
  },
- "generated_at": "2026-09-08T10:47:00",
- "total": 11357
+ "generated_at": "2026-09-08T10:48:00",
+ "total": 11358
 }
