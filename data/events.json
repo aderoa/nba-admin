@@ -1,6 +1,60 @@
 {
  "events": [
   {
+   "detail": "DAL  - REMOVED Thompson, Klay #2",
+   "detected_at": "2026-09-08 13:11:58",
+   "source": "SHEETS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "DAL  CHANGED Thompson, Klay  -  TEAM SALARY CAP REPORT\n       -  DALLAS MAVERICKS: 1 - FULL SEASON -> 7 - WAIVED, col3: 17460317.0 -> 7660317.0, col9: 17460317 -> 7660317",
+   "detected_at": "2026-09-08 13:11:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "DAL  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 229382962.8 -> 211922645.8, col9: 563043335.7 -> 545583018.7",
+   "detected_at": "2026-09-08 13:11:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "DAL  CHANGED Players Under Contract  -  col3: 194654877.8 -> 177194560.8",
+   "detected_at": "2026-09-08 13:11:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "DAL  CHANGED Full Season Contracts  -  col3: 194654877.8 -> 177194560.8",
+   "detected_at": "2026-09-08 13:11:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "DAL  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 16 -> 15",
+   "detected_at": "2026-09-08 13:11:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col8: 5098411 -> 0",
+   "detected_at": "2026-09-08 13:11:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 1st Incremental Tax Bracket  -  col8: 5098411 -> 0",
+   "detected_at": "2026-09-08 13:11:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col8: 5098411 -> 0",
+   "detected_at": "2026-09-08 13:11:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "2026-09-08  Cleveland Cavaliers re-signed guard James Harden to a Contract.",
    "detected_at": "2026-09-08 12:21:55",
    "source": "TRANSACTIONS",
@@ -9995,69 +10049,6 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Dereon_Seabron"
-  },
-  {
-   "detail": "Tarik Biberović  ~ number: - -> 13",
-   "detected_at": "2026-08-28 05:55:48",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Tarik_Biberovi%C4%87"
-  },
-  {
-   "detail": "Jordan Howard (basketball)  ~ team: Cangrejeros de Santurce -> Sichuan Blue Whales",
-   "detected_at": "2026-08-28 05:55:48",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jordan_Howard_(basketball)"
-  },
-  {
-   "detail": "Jordan Howard (basketball)  ~ league: Baloncesto Superior Nacional -> CBA",
-   "detected_at": "2026-08-28 05:55:48",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jordan_Howard_(basketball)"
-  },
-  {
-   "detail": "Jordan Howard (basketball)  ~ number: 1 -> -",
-   "detected_at": "2026-08-28 05:55:48",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jordan_Howard_(basketball)"
-  },
-  {
-   "detail": "Jordan Howard (basketball)  ~ CAREER  + 2026 Cangrejeros de Santurce",
-   "detected_at": "2026-08-28 05:55:48",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Jordan_Howard_(basketball)"
-  },
-  {
-   "detail": "Jordan Howard (basketball)  ~ CAREER  + 2026–present Sichuan Blue Whales",
-   "detected_at": "2026-08-28 05:55:48",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Jordan_Howard_(basketball)"
-  },
-  {
-   "detail": "Michael Frazier II  ~ team: Taipei Taishin Mars -> Free Agent",
-   "detected_at": "2026-08-27 23:33:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Michael_Frazier_II"
-  },
-  {
-   "detail": "Michael Frazier II  ~ league: Taiwan Professional Basketball League -> -",
-   "detected_at": "2026-08-27 23:33:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Michael_Frazier_II"
-  },
-  {
-   "detail": "Michael Frazier II  ~ number: 12 -> -",
-   "detected_at": "2026-08-27 23:33:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Michael_Frazier_II"
   }
  ],
  "feeds": {
@@ -10086,8 +10077,8 @@
    "last": "2026-09-06 18:19:05"
   },
   "SHEETS": {
-   "count": 3679,
-   "last": "2026-09-08 08:10:58"
+   "count": 3688,
+   "last": "2026-09-08 13:11:58"
   },
   "TRANSACTIONS": {
    "count": 317,
@@ -10102,6 +10093,6 @@
    "last": "2026-09-07 13:45:15"
   }
  },
- "generated_at": "2026-09-08T13:11:01",
- "total": 11368
+ "generated_at": "2026-09-08T13:12:00",
+ "total": 11377
 }
