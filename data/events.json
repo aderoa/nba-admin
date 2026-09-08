@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Quinten Post  ~ number: 21 -> 12",
+   "detected_at": "2026-09-07 20:16:49",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Quinten_Post"
+  },
+  {
    "detail": "Mike Champion (basketball)  ~ nationality: American -> -",
    "detected_at": "2026-09-07 19:53:44",
    "source": "WIKI",
@@ -10101,13 +10108,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Javin_DeLaurier"
-  },
-  {
-   "detail": "Javin DeLaurier  ~ number: 12 -> -",
-   "detected_at": "2026-08-26 14:34:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Javin_DeLaurier"
   }
  ],
  "feeds": {
@@ -10144,14 +10144,14 @@
    "last": "2026-09-05 07:19:12"
   },
   "WIKI": {
-   "count": 2510,
-   "last": "2026-09-07 19:53:44"
+   "count": 2511,
+   "last": "2026-09-07 20:16:49"
   },
   "WIKIWATCH": {
    "count": 72,
    "last": "2026-09-07 13:45:15"
   }
  },
- "generated_at": "2026-09-07T20:08:00",
- "total": 11147
+ "generated_at": "2026-09-07T20:16:50",
+ "total": 11148
 }
