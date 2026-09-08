@@ -1,6 +1,102 @@
 {
  "events": [
   {
+   "detail": "MEM  + ADDED  Hawkins, Jordan",
+   "detected_at": "2026-09-08 08:04:58",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "MEM  + ADDED  Peavy, Micah",
+   "detected_at": "2026-09-08 08:04:58",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "MEM  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 159672823.9 -> 168845635.8, col4: 121830582.9 -> 124356483.9, col5: 43632380 -> 46368078, col9: 348177838.8 -> 362612249.7",
+   "detected_at": "2026-09-08 08:04:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MEM  CHANGED Players Under Contract  -  col3: 137763802.9 -> 146936614.8, col4: 118130582.9 -> 120656483.9, col5: 43632380 -> 46368078",
+   "detected_at": "2026-09-08 08:04:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MEM  CHANGED Full Season Contracts  -  col3: 137763802.9 -> 146936614.8, col4: 118130582.9 -> 120656483.9, col5: 43632380 -> 46368078",
+   "detected_at": "2026-09-08 08:04:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MEM  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 19 -> 21",
+   "detected_at": "2026-09-08 08:04:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "NOL  + ADDED  Gibson, Taj",
+   "detected_at": "2026-09-08 08:04:58",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "NOL  + ADDED  Johnson, AJ",
+   "detected_at": "2026-09-08 08:04:58",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "NOL  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 222736534.8 -> 229789515.8, col4: 154569358.7 -> 160062751.3, col9: 476377489.5 -> 488923863.1",
+   "detected_at": "2026-09-08 08:04:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "NOL  CHANGED Players Under Contract  -  col3: 202005003.9 -> 209057984.9, col4: 154569358.7 -> 160062751.3",
+   "detected_at": "2026-09-08 08:04:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "NOL  CHANGED Full Season Contracts  -  col3: 202005003.9 -> 209057984.9, col4: 154569358.7 -> 160062751.3",
+   "detected_at": "2026-09-08 08:04:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "NOL  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 18 -> 20",
+   "detected_at": "2026-09-08 08:04:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col20: 1577003.92 -> 8629984.92",
+   "detected_at": "2026-09-08 08:04:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 1st Incremental Tax Bracket  -  col20: 1577003.92 -> 5685000",
+   "detected_at": "2026-09-08 08:04:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 2nd Incremental Tax Bracket  -  col20: 0 -> 3681231.15",
+   "detected_at": "2026-09-08 08:04:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col20: 1577003.92 -> 9366231.15",
+   "detected_at": "2026-09-08 08:04:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "ORL  + ADDED  Branham, Malaki",
    "detected_at": "2026-09-08 07:59:58",
    "source": "SHEETS",
@@ -9985,102 +10081,6 @@
    "detected_at": "2026-08-27 11:22:55",
    "source": "DOCS",
    "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Minimum Salary Exception. Skill; Injury or Illness. Compensation protection for 2026-27 Season is non",
-   "detected_at": "2026-08-27 11:21:55",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Love of the Game. Physical Exam.",
-   "detected_at": "2026-08-27 11:21:55",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Minimum Salary Exception. Skill; Injury or Illness. Compensation protection for 2026-27 Season is none but will increase to $1,400,000 if team has not requested waivers on player on or before the first day of the 2026-27 Regular Season. Love of the Game. Physical Exam. Alt. 7(b).",
-   "detected_at": "2026-08-27 11:21:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Brandon Williams Golden State Warriors",
-   "detected_at": "2026-08-27 11:20:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  26-27 $2,625,627",
-   "detected_at": "2026-08-27 11:20:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Minimum Salary Exception. Skill; Injury or Illness. Compensation protection for 2026-27 Season is non",
-   "detected_at": "2026-08-27 11:20:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Love of the Game. Physical Exam.",
-   "detected_at": "2026-08-27 11:20:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 7/2/26",
-   "detected_at": "2026-08-27 11:20:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "DAL  - REMOVED Williams, Brandon",
-   "detected_at": "2026-08-27 11:19:58",
-   "source": "SHEETS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "DAL  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 231832383.8 -> 229382962.8, col9: 565492756.7 -> 563043335.7",
-   "detected_at": "2026-08-27 11:19:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "DAL  CHANGED Cap Holds  -  col3: 26305972.8 -> 23856551.8",
-   "detected_at": "2026-08-27 11:19:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "GOS  + ADDED  Williams, Brandon",
-   "detected_at": "2026-08-27 11:19:58",
-   "source": "SHEETS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Update 1.3 (7/18/26): B. Beal, D. Brooks, K. Bufkin, K. Caldwell-Pope, M. Cisse, I. Crawford, D. Green, M. Hezonja, H. Highsmith, C. Houstan, H. Ingram, A. Jackson, L. James, S. Jones, Y. Kawamura, C. Koloko, N. Marshall, D. Melton, G. Niang, G. Payton, T. Peter, J. Phillips, M. Smith, J. Sochan, J. Tate, K. Thompson, M. Thybulle, O. Tshiebwe, M. Wagner, J. Walsh, T. Watford, P. Watson",
-   "detected_at": "2026-08-27 11:19:55",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Update 1.3 (7/18/26): B. Beal, D. Brooks, K. Bufkin, K. Caldwell-Pope, M. Cisse, I. Crawford, D. Green, M. Hezonja, H. Highsmith, C. Houstan, H. Ingram, A. Jackson, L. James, S. Jones, Y. Kawamura, C. Koloko, N. Marshall, D. Melton, G. Niang, G. Payton, T. Peter, J. Phillips, M. Smith, J. Sochan, J. Tate, K. Thompson, M. Thybulle, O. Tshiebwe, M. Wagner, J. Walsh, T. Watford, P. Watson, B. Williams",
-   "detected_at": "2026-08-27 11:19:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "GOS  CHANGED Niang, Georges  -  TEAM SALARY CAP REPORT\n       -  GOLDEN STATE WARRIORS: - -> 1 - FULL SEASON, col3: - -> 2449421.0, col9: 0 -> 2449421",
-   "detected_at": "2026-08-27 11:18:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "GOS  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 246989147.3 -> 249438568.3, col9: 331583948.7 -> 334033369.7",
-   "detected_at": "2026-08-27 11:18:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10109,8 +10109,8 @@
    "last": "2026-09-06 18:19:05"
   },
   "SHEETS": {
-   "count": 3634,
-   "last": "2026-09-08 07:59:58"
+   "count": 3650,
+   "last": "2026-09-08 08:04:58"
   },
   "TRANSACTIONS": {
    "count": 311,
@@ -10125,6 +10125,6 @@
    "last": "2026-09-07 13:45:15"
   }
  },
- "generated_at": "2026-09-08T08:04:01",
- "total": 11280
+ "generated_at": "2026-09-08T08:05:03",
+ "total": 11296
 }
