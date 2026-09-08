@@ -1,6 +1,24 @@
 {
  "events": [
   {
+   "detail": "~ CHANGED DeMar DeRozan  team: - -> DEN",
+   "detected_at": "2026-09-08 15:21:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED DeMar DeRozan  number: - -> 10",
+   "detected_at": "2026-09-08 15:21:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED DeMar DeRozan  school: USC -> Southern California",
+   "detected_at": "2026-09-08 15:21:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "Langston Galloway  ~ team: Free Agent -> Pallacanestro Trieste",
    "detected_at": "2026-09-08 15:18:46",
    "source": "WIKI",
@@ -10026,27 +10044,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Rob_Gray_(basketball)"
-  },
-  {
-   "detail": "Rob Gray (basketball)  ~ CAREER  + 2025–2026 Promitheas Patras",
-   "detected_at": "2026-08-28 06:18:53",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Rob_Gray_(basketball)"
-  },
-  {
-   "detail": "Rob Gray (basketball)  ~ CAREER  + 2026–present Jiangsu Dragons",
-   "detected_at": "2026-08-28 06:18:53",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Rob_Gray_(basketball)"
-  },
-  {
-   "detail": "Kostja Mushidi  ~ team: Niners Chemnitz -> Mitteldeutscher",
-   "detected_at": "2026-08-28 06:18:53",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Kostja_Mushidi"
   }
  ],
  "feeds": {
@@ -10059,8 +10056,8 @@
    "last": "2026-09-08 07:51:29"
   },
   "PLAYERS": {
-   "count": 740,
-   "last": "2026-09-08 14:20:54"
+   "count": 743,
+   "last": "2026-09-08 15:21:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10091,6 +10088,6 @@
    "last": "2026-09-08 13:47:02"
   }
  },
- "generated_at": "2026-09-08T15:21:00",
- "total": 11410
+ "generated_at": "2026-09-08T15:22:00",
+ "total": 11413
 }
