@@ -1,6 +1,36 @@
 {
  "events": [
   {
+   "detail": "MEM  - REMOVED Johnson, AJ",
+   "detected_at": "2026-09-08 08:06:58",
+   "source": "SHEETS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "MEM  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 165029774.8 -> 161792654.8, col4: 124356483.9 -> 118863091.2, col9: 358796388.7 -> 350065876.1",
+   "detected_at": "2026-09-08 08:06:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MEM  CHANGED Players Under Contract  -  col3: 143120753.8 -> 139883633.8, col4: 120656483.9 -> 115163091.2",
+   "detected_at": "2026-09-08 08:06:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MEM  CHANGED Full Season Contracts  -  col3: 143120753.8 -> 139883633.8, col4: 120656483.9 -> 115163091.2",
+   "detected_at": "2026-09-08 08:06:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MEM  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 20 -> 19",
+   "detected_at": "2026-09-08 08:06:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "MEM  - REMOVED Gibson, Taj",
    "detected_at": "2026-09-08 08:05:58",
    "source": "SHEETS",
@@ -10051,36 +10081,6 @@
    "detected_at": "2026-08-27 11:22:58",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "GOS  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 249438568.3 -> 251887989.3, col9: 334033369.7 -> 336482790.7",
-   "detected_at": "2026-08-27 11:22:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "GOS  CHANGED Players Under Contract  -  col3: 218389010.3 -> 220838431.3",
-   "detected_at": "2026-08-27 11:22:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "GOS  CHANGED Full Season Contracts  -  col3: 218389010.3 -> 220838431.3",
-   "detected_at": "2026-08-27 11:22:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "GOS  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 14 -> 15",
-   "detected_at": "2026-08-27 11:22:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "GOS  CHANGED Avg, Salary (Mean) (No 10-Day K's)  -  col6: 1 -> 0",
-   "detected_at": "2026-08-27 11:22:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10109,8 +10109,8 @@
    "last": "2026-09-06 18:19:05"
   },
   "SHEETS": {
-   "count": 3655,
-   "last": "2026-09-08 08:05:58"
+   "count": 3660,
+   "last": "2026-09-08 08:06:58"
   },
   "TRANSACTIONS": {
    "count": 311,
@@ -10125,6 +10125,6 @@
    "last": "2026-09-07 13:45:15"
   }
  },
- "generated_at": "2026-09-08T08:06:01",
- "total": 11301
+ "generated_at": "2026-09-08T08:07:00",
+ "total": 11306
 }
