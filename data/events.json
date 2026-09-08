@@ -1,6 +1,24 @@
 {
  "events": [
   {
+   "detail": "~ CHANGED DeMar DeRozan  team: DEN -> -",
+   "detected_at": "2026-09-08 15:22:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED DeMar DeRozan  number: 10 -> -",
+   "detected_at": "2026-09-08 15:22:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED DeMar DeRozan  school: Southern California -> USC",
+   "detected_at": "2026-09-08 15:22:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "~ CHANGED DeMar DeRozan  team: - -> DEN",
    "detected_at": "2026-09-08 15:21:54",
    "source": "PLAYERS",
@@ -10023,27 +10041,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Tarik_Biberovi%C4%87"
-  },
-  {
-   "detail": "Rob Gray (basketball)  ~ team: Promitheas Patras -> Jiangsu Dragons",
-   "detected_at": "2026-08-28 06:18:53",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Rob_Gray_(basketball)"
-  },
-  {
-   "detail": "Rob Gray (basketball)  ~ league: Greek Basketball League -> CBA",
-   "detected_at": "2026-08-28 06:18:53",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Rob_Gray_(basketball)"
-  },
-  {
-   "detail": "Rob Gray (basketball)  ~ number: 32 -> -",
-   "detected_at": "2026-08-28 06:18:53",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Rob_Gray_(basketball)"
   }
  ],
  "feeds": {
@@ -10056,8 +10053,8 @@
    "last": "2026-09-08 07:51:29"
   },
   "PLAYERS": {
-   "count": 743,
-   "last": "2026-09-08 15:21:54"
+   "count": 746,
+   "last": "2026-09-08 15:22:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10088,6 +10085,6 @@
    "last": "2026-09-08 13:47:02"
   }
  },
- "generated_at": "2026-09-08T15:22:00",
- "total": 11413
+ "generated_at": "2026-09-08T15:23:00",
+ "total": 11416
 }
