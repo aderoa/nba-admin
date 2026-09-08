@@ -1,6 +1,36 @@
 {
  "events": [
   {
+   "detail": "2026-09-08  New Orleans Pelicans received guard AJ Johnson from Memphis Grizzlies.",
+   "detected_at": "2026-09-08 09:40:55",
+   "source": "TRANSACTIONS",
+   "type": "Trade"
+  },
+  {
+   "detail": "2026-09-08  New Orleans Pelicans received forward Taj Gibson from Memphis Grizzlies.",
+   "detected_at": "2026-09-08 09:40:55",
+   "source": "TRANSACTIONS",
+   "type": "Trade"
+  },
+  {
+   "detail": "2026-09-08  Memphis Grizzlies received guard Micah Peavy from New Orleans Pelicans.",
+   "detected_at": "2026-09-08 09:40:55",
+   "source": "TRANSACTIONS",
+   "type": "Trade"
+  },
+  {
+   "detail": "2026-09-08  Memphis Grizzlies received guard Jordan Hawkins from New Orleans Pelicans.",
+   "detected_at": "2026-09-08 09:40:55",
+   "source": "TRANSACTIONS",
+   "type": "Trade"
+  },
+  {
+   "detail": "2026-09-08  Memphis Grizzlies received draft consideration from New Orleans Pelicans.",
+   "detected_at": "2026-09-08 09:40:55",
+   "source": "TRANSACTIONS",
+   "type": "Trade"
+  },
+  {
    "detail": "~ CHANGED Taj Gibson  school: Southern California -> USC",
    "detected_at": "2026-09-08 09:37:54",
    "source": "PLAYERS",
@@ -10033,41 +10063,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Ray_Spalding"
-  },
-  {
-   "detail": "Ray Spalding  ~ league: NBA G League -> LNBP",
-   "detected_at": "2026-08-27 15:27:49",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Ray_Spalding"
-  },
-  {
-   "detail": "Ray Spalding  ~ number: 13 -> 26",
-   "detected_at": "2026-08-27 15:27:49",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Ray_Spalding"
-  },
-  {
-   "detail": "Ray Spalding  ~ CAREER  + 2025–2026 Noblesville Boom",
-   "detected_at": "2026-08-27 15:27:49",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Ray_Spalding"
-  },
-  {
-   "detail": "Ray Spalding  ~ CAREER  + 2026–present Dorados de Chihuahua",
-   "detected_at": "2026-08-27 15:27:49",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Ray_Spalding"
-  },
-  {
-   "detail": "Jordan McRae  ~ weight_lb: 179 -> 180",
-   "detected_at": "2026-08-27 15:00:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jordan_McRae"
   }
  ],
  "feeds": {
@@ -10100,8 +10095,8 @@
    "last": "2026-09-08 08:10:58"
   },
   "TRANSACTIONS": {
-   "count": 311,
-   "last": "2026-09-08 07:51:13"
+   "count": 316,
+   "last": "2026-09-08 09:40:55"
   },
   "WIKI": {
    "count": 2576,
@@ -10112,6 +10107,6 @@
    "last": "2026-09-07 13:45:15"
   }
  },
- "generated_at": "2026-09-08T09:40:01",
- "total": 11340
+ "generated_at": "2026-09-08T09:41:02",
+ "total": 11345
 }
