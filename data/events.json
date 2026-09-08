@@ -1,6 +1,18 @@
 {
  "events": [
   {
+   "detail": "~ CHANGED Bez Mbeng  team: UTA -> CHA",
+   "detected_at": "2026-09-08 09:19:57",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Dillon Jones  team: NYK -> PHI",
+   "detected_at": "2026-09-08 09:19:57",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "Tom Digbeu  ~ team: Stade Rochelais Basket -> Metropolitans 92",
    "detected_at": "2026-09-08 08:21:46",
    "source": "WIKI",
@@ -10061,18 +10073,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Cameron_Hunt_(basketball)"
-  },
-  {
-   "detail": "~ CHANGED Nick Richards  number: 13 -> 8",
-   "detected_at": "2026-08-27 14:05:55",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Nick Richards  number: 8 -> 13",
-   "detected_at": "2026-08-27 14:04:55",
-   "source": "PLAYERS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10085,8 +10085,8 @@
    "last": "2026-09-08 07:51:29"
   },
   "PLAYERS": {
-   "count": 725,
-   "last": "2026-09-08 00:46:42"
+   "count": 727,
+   "last": "2026-09-08 09:19:57"
   },
   "RATINGS": {
    "count": 950,
@@ -10117,6 +10117,6 @@
    "last": "2026-09-07 13:45:15"
   }
  },
- "generated_at": "2026-09-08T09:19:12",
- "total": 11333
+ "generated_at": "2026-09-08T09:20:15",
+ "total": 11335
 }
