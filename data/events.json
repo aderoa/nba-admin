@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "~ CHANGED Taj Gibson  school: USC -> Southern California",
+   "detected_at": "2026-09-08 11:20:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "Taj Gibson  ~ CAREER  + Memphis Grizzlies",
    "detected_at": "2026-09-08 11:05:47",
    "source": "WIKI",
@@ -10053,13 +10059,6 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Aleksandar_Marelja"
-  },
-  {
-   "detail": "Youssou Ndoye  ~ team: Taipei Taishin Mars -> Free Agent",
-   "detected_at": "2026-08-27 23:33:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Youssou_Ndoye"
   }
  ],
  "feeds": {
@@ -10072,8 +10071,8 @@
    "last": "2026-09-08 07:51:29"
   },
   "PLAYERS": {
-   "count": 738,
-   "last": "2026-09-08 10:47:54"
+   "count": 739,
+   "last": "2026-09-08 11:20:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10104,6 +10103,6 @@
    "last": "2026-09-07 13:45:15"
   }
  },
- "generated_at": "2026-09-08T11:20:01",
- "total": 11361
+ "generated_at": "2026-09-08T11:28:50",
+ "total": 11362
 }
