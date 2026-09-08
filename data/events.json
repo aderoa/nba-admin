@@ -1,6 +1,42 @@
 {
  "events": [
   {
+   "detail": "ORL  + ADDED  Branham, Malaki",
+   "detected_at": "2026-09-08 07:59:58",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "ORL  - REMOVED Davison, JD #2",
+   "detected_at": "2026-09-08 07:59:58",
+   "source": "SHEETS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Malaki Branham Orlando Magic",
+   "detected_at": "2026-09-08 07:59:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  26-27 $2,625,627",
+   "detected_at": "2026-09-08 07:59:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
+   "detected_at": "2026-09-08 07:59:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 9/3/26",
+   "detected_at": "2026-09-08 07:59:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "Cat Barber  ~ CAREER  + 2023 Scarborough Shooting Stars",
    "detected_at": "2026-09-08 07:58:48",
    "source": "WIKI",
@@ -10045,48 +10081,12 @@
    "detected_at": "2026-08-27 11:18:59",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "GOS  CHANGED Players Under Contract  -  col3: 215939589.3 -> 218389010.3",
-   "detected_at": "2026-08-27 11:18:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "GOS  CHANGED Full Season Contracts  -  col3: 215939589.3 -> 218389010.3",
-   "detected_at": "2026-08-27 11:18:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "GOS  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 13 -> 14",
-   "detected_at": "2026-08-27 11:18:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "GOS  CHANGED Avg, Salary (Mean) (No 10-Day K's)  -  col6: 2 -> 1",
-   "detected_at": "2026-08-27 11:18:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col11: 15511589.25 -> 17961010.25",
-   "detected_at": "2026-08-27 11:18:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED 3rd Incremental Tax Bracket  -  col11: 22778740.88 -> 31267500",
-   "detected_at": "2026-08-27 11:18:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 2272,
-   "last": "2026-09-08 07:51:17"
+   "count": 2276,
+   "last": "2026-09-08 07:59:56"
   },
   "GLEAGUE": {
    "count": 39,
@@ -10109,8 +10109,8 @@
    "last": "2026-09-06 18:19:05"
   },
   "SHEETS": {
-   "count": 3632,
-   "last": "2026-09-08 07:51:28"
+   "count": 3634,
+   "last": "2026-09-08 07:59:58"
   },
   "TRANSACTIONS": {
    "count": 311,
@@ -10125,6 +10125,6 @@
    "last": "2026-09-07 13:45:15"
   }
  },
- "generated_at": "2026-09-08T07:58:52",
- "total": 11274
+ "generated_at": "2026-09-08T08:00:01",
+ "total": 11280
 }
