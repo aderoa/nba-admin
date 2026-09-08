@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "~ CHANGED Taj Gibson  school: Southern California -> USC",
+   "detected_at": "2026-09-08 09:35:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "~ CHANGED Taj Gibson  school: USC -> Southern California",
    "detected_at": "2026-09-08 09:33:54",
    "source": "PLAYERS",
@@ -10064,13 +10070,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Ignas_Brazdeikis"
-  },
-  {
-   "detail": "Amine Noua  ~ number: - -> 17",
-   "detected_at": "2026-08-27 14:37:48",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Amine_Noua"
   }
  ],
  "feeds": {
@@ -10083,8 +10082,8 @@
    "last": "2026-09-08 07:51:29"
   },
   "PLAYERS": {
-   "count": 729,
-   "last": "2026-09-08 09:33:54"
+   "count": 730,
+   "last": "2026-09-08 09:35:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10115,6 +10114,6 @@
    "last": "2026-09-07 13:45:15"
   }
  },
- "generated_at": "2026-09-08T09:35:01",
- "total": 11337
+ "generated_at": "2026-09-08T09:36:02",
+ "total": 11338
 }
