@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "2026-09-08  Cleveland Cavaliers re-signed guard James Harden to a Contract.",
+   "detected_at": "2026-09-08 12:21:55",
+   "source": "TRANSACTIONS",
+   "type": "Signing"
+  },
+  {
    "detail": "Xavier Sneed  ~ team: Hapoel Jerusalem -> Free agent",
    "detected_at": "2026-09-08 12:14:48",
    "source": "WIKI",
@@ -10052,13 +10058,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Michael_Frazier_II"
-  },
-  {
-   "detail": "Michael Frazier II  ~ CAREER  + 2026 Taipei Taishin Mars",
-   "detected_at": "2026-08-27 23:33:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Michael_Frazier_II"
   }
  ],
  "feeds": {
@@ -10091,8 +10090,8 @@
    "last": "2026-09-08 08:10:58"
   },
   "TRANSACTIONS": {
-   "count": 316,
-   "last": "2026-09-08 09:40:55"
+   "count": 317,
+   "last": "2026-09-08 12:21:55"
   },
   "WIKI": {
    "count": 2591,
@@ -10103,6 +10102,6 @@
    "last": "2026-09-07 13:45:15"
   }
  },
- "generated_at": "2026-09-08T12:21:00",
- "total": 11367
+ "generated_at": "2026-09-08T12:22:03",
+ "total": 11368
 }
