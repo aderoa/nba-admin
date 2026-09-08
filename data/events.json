@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "2026-09-08  Denver Nuggets signed guard DeMar DeRozan to a Contract.",
+   "detected_at": "2026-09-08 14:32:57",
+   "source": "TRANSACTIONS",
+   "type": "Signing"
+  },
+  {
    "detail": "David McCormack (basketball)  ~ team: Free agent -> UNICS Kazan",
    "detected_at": "2026-09-08 14:32:47",
    "source": "WIKI",
@@ -10041,13 +10047,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/national/boxscore/2026-08-27/Latvia-at-Croatia/517004"
-  },
-  {
-   "detail": "Asian World Cup Qualifier Lebanon 93, Korea 74",
-   "detected_at": "2026-08-28 05:56:22",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-27/Korea-at-Lebanon/516952"
   }
  ],
  "feeds": {
@@ -10080,8 +10079,8 @@
    "last": "2026-09-08 13:11:58"
   },
   "TRANSACTIONS": {
-   "count": 317,
-   "last": "2026-09-08 12:21:55"
+   "count": 318,
+   "last": "2026-09-08 14:32:57"
   },
   "WIKI": {
    "count": 2607,
@@ -10092,6 +10091,6 @@
    "last": "2026-09-08 13:47:02"
   }
  },
- "generated_at": "2026-09-08T14:32:48",
- "total": 11399
+ "generated_at": "2026-09-08T14:33:03",
+ "total": 11400
 }
