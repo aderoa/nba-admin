@@ -1,6 +1,36 @@
 {
  "events": [
   {
+   "detail": "MEM  - REMOVED Gibson, Taj",
+   "detected_at": "2026-09-08 08:05:58",
+   "source": "SHEETS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "MEM  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 168845635.8 -> 165029774.8, col9: 362612249.7 -> 358796388.7",
+   "detected_at": "2026-09-08 08:05:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MEM  CHANGED Players Under Contract  -  col3: 146936614.8 -> 143120753.8",
+   "detected_at": "2026-09-08 08:05:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MEM  CHANGED Full Season Contracts  -  col3: 146936614.8 -> 143120753.8",
+   "detected_at": "2026-09-08 08:05:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MEM  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 21 -> 20",
+   "detected_at": "2026-09-08 08:05:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "MEM  + ADDED  Hawkins, Jordan",
    "detected_at": "2026-09-08 08:04:58",
    "source": "SHEETS",
@@ -10051,36 +10081,6 @@
    "detected_at": "2026-08-27 11:22:58",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col11: 17961010.25 -> 20410431.25",
-   "detected_at": "2026-08-27 11:22:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED 4th Incremental Tax Bracket  -  col11: 6115569.188 -> 22649160.94",
-   "detected_at": "2026-08-27 11:22:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col11: 72914319.19 -> 89447910.94",
-   "detected_at": "2026-08-27 11:22:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Execution Date: 7/2/26",
-   "detected_at": "2026-08-27 11:22:55",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 8/26/26",
-   "detected_at": "2026-08-27 11:22:55",
-   "source": "DOCS",
-   "type": "ADDED"
   }
  ],
  "feeds": {
@@ -10109,8 +10109,8 @@
    "last": "2026-09-06 18:19:05"
   },
   "SHEETS": {
-   "count": 3650,
-   "last": "2026-09-08 08:04:58"
+   "count": 3655,
+   "last": "2026-09-08 08:05:58"
   },
   "TRANSACTIONS": {
    "count": 311,
@@ -10125,6 +10125,6 @@
    "last": "2026-09-07 13:45:15"
   }
  },
- "generated_at": "2026-09-08T08:05:03",
- "total": 11296
+ "generated_at": "2026-09-08T08:06:01",
+ "total": 11301
 }
