@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "~ CHANGED Taj Gibson  school: Southern California -> USC",
+   "detected_at": "2026-09-08 09:37:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "~ CHANGED Taj Gibson  school: USC -> Southern California",
    "detected_at": "2026-09-08 09:36:54",
    "source": "PLAYERS",
@@ -10062,13 +10068,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Jordan_McRae"
-  },
-  {
-   "detail": "Jordan McRae  ~ CAREER  + 2017–2018 Saski Baskonia",
-   "detected_at": "2026-08-27 15:00:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Jordan_McRae"
   }
  ],
  "feeds": {
@@ -10081,8 +10080,8 @@
    "last": "2026-09-08 07:51:29"
   },
   "PLAYERS": {
-   "count": 731,
-   "last": "2026-09-08 09:36:54"
+   "count": 732,
+   "last": "2026-09-08 09:37:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10113,6 +10112,6 @@
    "last": "2026-09-07 13:45:15"
   }
  },
- "generated_at": "2026-09-08T09:37:03",
- "total": 11339
+ "generated_at": "2026-09-08T09:39:00",
+ "total": 11340
 }
