@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Matt Costello  ~ number: - -> 24",
+   "detected_at": "2026-09-09 08:04:49",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Matt_Costello"
+  },
+  {
    "detail": "Nikola Milutinov  ~ 27707: team -> -",
    "detected_at": "2026-09-09 07:42:10",
    "source": "WIKIWATCH",
@@ -10061,12 +10068,6 @@
    "detected_at": "2026-08-29 17:13:58",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "MIN  CHANGED Waived Contracts  -  col3: 0 -> 2055000, col4: 0 -> 2055000, col5: 0 -> 2055000",
-   "detected_at": "2026-08-29 17:13:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10103,14 +10104,14 @@
    "last": "2026-09-08 14:32:57"
   },
   "WIKI": {
-   "count": 2691,
-   "last": "2026-09-09 07:41:56"
+   "count": 2692,
+   "last": "2026-09-09 08:04:49"
   },
   "WIKIWATCH": {
    "count": 87,
    "last": "2026-09-09 07:42:10"
   }
  },
- "generated_at": "2026-09-09T07:56:01",
- "total": 11547
+ "generated_at": "2026-09-09T08:04:50",
+ "total": 11548
 }
