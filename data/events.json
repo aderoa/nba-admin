@@ -1,6 +1,76 @@
 {
  "events": [
   {
+   "detail": "Nikola Milutinov  ~ 27707: team -> -",
+   "detected_at": "2026-09-09 07:42:10",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Olympiacos"
+  },
+  {
+   "detail": "Nikola Milutinov  ~ 27707: league -> -",
+   "detected_at": "2026-09-09 07:42:10",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "GBL EuroLeague"
+  },
+  {
+   "detail": "Nikola Milutinov  ~ 27707: position -> -",
+   "detected_at": "2026-09-09 07:42:10",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Center"
+  },
+  {
+   "detail": "Nikola Milutinov  ~ 27707: number -> -",
+   "detected_at": "2026-09-09 07:42:10",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "33"
+  },
+  {
+   "detail": "Nikola Milutinov  ~ 27707: (page changed) -> -",
+   "detected_at": "2026-09-09 07:42:10",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": ""
+  },
+  {
+   "detail": "Roman Sorkin  ~ 53051: team -> -",
+   "detected_at": "2026-09-09 07:42:10",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Maccabi Tel Aviv"
+  },
+  {
+   "detail": "Roman Sorkin  ~ 53051: league -> -",
+   "detected_at": "2026-09-09 07:42:10",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Israeli Basketball Premier League EuroLeague"
+  },
+  {
+   "detail": "Roman Sorkin  ~ 53051: position -> -",
+   "detected_at": "2026-09-09 07:42:10",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Power forward / center"
+  },
+  {
+   "detail": "Roman Sorkin  ~ 53051: number -> -",
+   "detected_at": "2026-09-09 07:42:10",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "9"
+  },
+  {
+   "detail": "Roman Sorkin  ~ 53051: (page changed) -> -",
+   "detected_at": "2026-09-09 07:42:10",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": ""
+  },
+  {
    "detail": "Patty Mills  ~ team: ASVEL Lyon-Villeurbanne -> ASVEL",
    "detected_at": "2026-09-09 07:41:56",
    "source": "WIKI",
@@ -9997,66 +10067,6 @@
    "detected_at": "2026-08-29 17:13:58",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "MIN  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 13 -> 14",
-   "detected_at": "2026-08-29 17:13:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "MIN  CHANGED Avg, Salary (Mean) (No 10-Day K's)  -  col6: 2 -> 1",
-   "detected_at": "2026-08-29 17:13:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col19: 15047367 -> 23117967",
-   "detected_at": "2026-08-29 17:13:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED 3rd Incremental Tax Bracket  -  col19: 12870784.5 -> 19897500",
-   "detected_at": "2026-08-29 17:13:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED 4th Incremental Tax Bracket  -  col19: 0 -> 27003750",
-   "detected_at": "2026-08-29 17:13:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED 5th Incremental Tax Bracket  -  col19: 0 -> 1984326.75",
-   "detected_at": "2026-08-29 17:13:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col19: 25662034.5 -> 61676826.75",
-   "detected_at": "2026-08-29 17:13:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "UTH  + ADDED  Green, Josh",
-   "detected_at": "2026-08-29 17:12:58",
-   "source": "SHEETS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "UTH  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 192721920.4 -> 207400932.4, col9: 567314471.1 -> 581993483.1",
-   "detected_at": "2026-08-29 17:12:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "UTH  CHANGED Players Under Contract  -  col3: 180466688.4 -> 195145700.4",
-   "detected_at": "2026-08-29 17:12:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10097,10 +10107,10 @@
    "last": "2026-09-09 07:41:56"
   },
   "WIKIWATCH": {
-   "count": 77,
-   "last": "2026-09-08 13:47:02"
+   "count": 87,
+   "last": "2026-09-09 07:42:10"
   }
  },
- "generated_at": "2026-09-09T07:42:00",
- "total": 11537
+ "generated_at": "2026-09-09T07:43:03",
+ "total": 11547
 }
