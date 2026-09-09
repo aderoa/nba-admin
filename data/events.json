@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Alex Kirk  ~ nationality: American / Japanese -> -",
+   "detected_at": "2026-09-09 12:01:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Alex_Kirk"
+  },
+  {
    "detail": "Dillon Jones  ~ team: Free agent -> Philadelphia 76ers",
    "detected_at": "2026-09-09 09:42:47",
    "source": "WIKI",
@@ -10077,12 +10084,6 @@
    "detected_at": "2026-08-29 17:25:58",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED 2nd Incremental Tax Bracket  -  col19: 7106250 -> 3442443.75",
-   "detected_at": "2026-08-29 17:25:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10119,14 +10120,14 @@
    "last": "2026-09-08 14:32:57"
   },
   "WIKI": {
-   "count": 2707,
-   "last": "2026-09-09 09:42:47"
+   "count": 2708,
+   "last": "2026-09-09 12:01:46"
   },
   "WIKIWATCH": {
    "count": 87,
    "last": "2026-09-09 07:42:10"
   }
  },
- "generated_at": "2026-09-09T11:53:00",
- "total": 11563
+ "generated_at": "2026-09-09T12:01:47",
+ "total": 11564
 }
