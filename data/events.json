@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Amari Bailey  ~ team: Hapoel Jerusalem -> Hapoel Be'er Sheva",
+   "detected_at": "2026-09-09 08:27:48",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Amari_Bailey"
+  },
+  {
+   "detail": "Amari Bailey  ~ league: Israeli Premier League EuroCup -> Israeli Premier League",
+   "detected_at": "2026-09-09 08:27:48",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Amari_Bailey"
+  },
+  {
+   "detail": "Amari Bailey  ~ CAREER  + 2026–present →Hapoel Be'er Sheva",
+   "detected_at": "2026-09-09 08:27:48",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Amari_Bailey"
+  },
+  {
    "detail": "Matt Costello  ~ number: - -> 24",
    "detected_at": "2026-09-09 08:04:49",
    "source": "WIKI",
@@ -10050,24 +10071,6 @@
    "detected_at": "2026-08-29 17:13:58",
    "source": "SHEETS",
    "type": "ADDED"
-  },
-  {
-   "detail": "MIN  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 253182885 -> 261253485, col4: 198046149.6 -> 207771039.6, col5: 167653451 -> 169708451, col9: 671235118.6 -> 691085608.6",
-   "detected_at": "2026-08-29 17:13:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "MIN  CHANGED Players Under Contract  -  col3: 215475367 -> 221490967, col4: 198046149.6 -> 205716039.6",
-   "detected_at": "2026-08-29 17:13:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "MIN  CHANGED Full Season Contracts  -  col3: 215475367 -> 221490967, col4: 198046149.6 -> 205716039.6",
-   "detected_at": "2026-08-29 17:13:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10104,14 +10107,14 @@
    "last": "2026-09-08 14:32:57"
   },
   "WIKI": {
-   "count": 2692,
-   "last": "2026-09-09 08:04:49"
+   "count": 2695,
+   "last": "2026-09-09 08:27:48"
   },
   "WIKIWATCH": {
    "count": 87,
    "last": "2026-09-09 07:42:10"
   }
  },
- "generated_at": "2026-09-09T08:19:02",
- "total": 11548
+ "generated_at": "2026-09-09T08:27:49",
+ "total": 11551
 }
