@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Joe Wieskamp  ~ number: - -> 11",
+   "detected_at": "2026-09-09 09:19:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Joe_Wieskamp"
+  },
+  {
    "detail": "Taj Gibson  ~ team: New Orleans Pelicans -> -",
    "detected_at": "2026-09-09 08:56:47",
    "source": "WIKI",
@@ -10075,12 +10082,6 @@
    "detected_at": "2026-08-29 17:25:58",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED 4th Incremental Tax Bracket  -  col19: 27003750 -> 0",
-   "detected_at": "2026-08-29 17:25:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10117,14 +10118,14 @@
    "last": "2026-09-08 14:32:57"
   },
   "WIKI": {
-   "count": 2705,
-   "last": "2026-09-09 08:56:47"
+   "count": 2706,
+   "last": "2026-09-09 09:19:46"
   },
   "WIKIWATCH": {
    "count": 87,
    "last": "2026-09-09 07:42:10"
   }
  },
- "generated_at": "2026-09-09T09:11:00",
- "total": 11561
+ "generated_at": "2026-09-09T09:19:47",
+ "total": 11562
 }
