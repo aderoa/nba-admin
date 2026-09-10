@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Luka Bozic  ~ 41579: team -> Coviran Granada",
+   "detected_at": "2026-09-10 16:02:12",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Guangdong Southern Tigers"
+  },
+  {
+   "detail": "Luka Bozic  ~ 41579: league -> Liga ACB",
+   "detected_at": "2026-09-10 16:02:12",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "CBA"
+  },
+  {
+   "detail": "Luka Bozic  ~ 41579: number -> 29",
+   "detected_at": "2026-09-10 16:02:12",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": ""
+  },
+  {
    "detail": "Gary Browne (basketball)  ~ team: Vaqueros de Bayamón -> Bosna",
    "detected_at": "2026-09-10 15:38:43",
    "source": "WIKI",
@@ -10003,27 +10024,6 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Simas_Jasaitis"
-  },
-  {
-   "detail": "Jacob Toppin  ~ position: Small forward -> Power forward",
-   "detected_at": "2026-09-01 12:24:20",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jacob_Toppin"
-  },
-  {
-   "detail": "E. J. Liddell  ~ number: 14 -> 32",
-   "detected_at": "2026-09-01 11:38:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/E._J._Liddell"
-  },
-  {
-   "detail": "Jeremiah Robinson-Earl  ~ number: 25 -> 3",
-   "detected_at": "2026-09-01 11:38:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jeremiah_Robinson-Earl"
   }
  ],
  "feeds": {
@@ -10064,10 +10064,10 @@
    "last": "2026-09-10 15:38:43"
   },
   "WIKIWATCH": {
-   "count": 105,
-   "last": "2026-09-09 17:18:10"
+   "count": 108,
+   "last": "2026-09-10 16:02:12"
   }
  },
- "generated_at": "2026-09-10T16:02:03",
- "total": 11847
+ "generated_at": "2026-09-10T16:03:03",
+ "total": 11850
 }
