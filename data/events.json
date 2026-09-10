@@ -1,6 +1,84 @@
 {
  "events": [
   {
+   "detail": "GOS  + ADDED  Toohey, Alex",
+   "detected_at": "2026-09-10 14:43:10",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "GOS  CHANGED Robinson, Jerome  -  col9: 2185116 -> 0",
+   "detected_at": "2026-09-10 14:43:10",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "GOS  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 254337410.3 -> 256522526.3",
+   "detected_at": "2026-09-10 14:43:10",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "GOS  CHANGED Players Under Contract  -  col3: 223287852.3 -> 225472968.3",
+   "detected_at": "2026-09-10 14:43:10",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "GOS  CHANGED Full Season Contracts  -  col3: 223287852.3 -> 225472968.3",
+   "detected_at": "2026-09-10 14:43:10",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "GOS  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 16 -> 17",
+   "detected_at": "2026-09-10 14:43:10",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col11: 22859852.25 -> 25044968.25",
+   "detected_at": "2026-09-10 14:43:10",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 5th Incremental Tax Bracket  -  col11: 868928.8125 -> 16711019.81",
+   "detected_at": "2026-09-10 14:43:10",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col11: 106041428.8 -> 121883519.8",
+   "detected_at": "2026-09-10 14:43:10",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Alex Toohey Golden State Warriors",
+   "detected_at": "2026-09-10 14:43:01",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  26-27 $2,185,116",
+   "detected_at": "2026-09-10 14:43:01",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
+   "detected_at": "2026-09-10 14:43:01",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 9/9/26",
+   "detected_at": "2026-09-10 14:43:01",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "2026-27 Veteran Signings  - REMOVED Update 1.3 (7/18/26): B. Beal, D. Brooks, K. Bufkin, J. Butler Jr., K. Caldwell-Pope, M. Cisse, I. Crawford, J. Davison, D. DeRozan, T. Fall, D. Green, J. Harden, M. Hezonja, H. Highsmith, C. Houstan, H. Ingram, A. Jackson, L. James, S. Jones, Y. Kawamura, C. Koloko, J. Kuminga, N. Marshall, D. Melton, G. Niang, G. Payton, T. Peter, J. Phillips, N. Richards, B. Simmons, M. Smith, J. Sochan, J. Tate, D. Terry, A. Thompson, K. Thompson, M. Thybulle, O. Tshiebwe, M. Wagner, L. Walker, J. Walsh, T. Watford, P. Watson, B. Williams",
    "detected_at": "2026-09-10 14:41:04",
    "source": "DOCS",
@@ -9963,103 +10041,12 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/national/boxscore/2026-08-31/Chile-at-Dominican-Republic/517080"
-  },
-  {
-   "detail": "Americas World Cup Qualifier Mexico 79, Brazil 74",
-   "detected_at": "2026-09-01 07:26:01",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-31/Brazil-at-Mexico/517081"
-  },
-  {
-   "detail": "Americas World Cup Qualifier Canada 97, Argentina 92",
-   "detected_at": "2026-09-01 07:25:58",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-31/Argentina-at-Canada/517097"
-  },
-  {
-   "detail": "Americas World Cup Qualifier Bahamas 100, Panama 82",
-   "detected_at": "2026-09-01 07:25:56",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-31/Panama-at-Bahamas/517098"
-  },
-  {
-   "detail": "Americas World Cup Qualifier Uruguay 80, Puerto Rico 75",
-   "detected_at": "2026-09-01 07:25:53",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-31/Puerto-Rico-at-Uruguay/517099"
-  },
-  {
-   "detail": "Andre Drummond  ~ CAREER  + –present New York Knicks",
-   "detected_at": "2026-09-01 07:25:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Andre_Drummond"
-  },
-  {
-   "detail": "Thanasis Antetokounmpo  ~ CAREER  + 2016-2017 Andorra",
-   "detected_at": "2026-09-01 07:25:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Thanasis_Antetokounmpo"
-  },
-  {
-   "detail": "Thanasis Antetokounmpo  ~ CAREER  + 2017–2019 Panathinaikos",
-   "detected_at": "2026-09-01 07:25:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Thanasis_Antetokounmpo"
-  },
-  {
-   "detail": "Jared Butler  ~ position: Point guard / shooting guard -> Point guard",
-   "detected_at": "2026-09-01 07:25:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jared_Butler"
-  },
-  {
-   "detail": "Justin Minaya  ~ team: Osceola Magic -> FC Barcelona",
-   "detected_at": "2026-09-01 07:25:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Justin_Minaya"
-  },
-  {
-   "detail": "Justin Minaya  ~ league: NBA G League -> Liga ACB EuroLeague",
-   "detected_at": "2026-09-01 07:25:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Justin_Minaya"
-  },
-  {
-   "detail": "Justin Minaya  ~ number: 10 -> -",
-   "detected_at": "2026-09-01 07:25:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Justin_Minaya"
-  },
-  {
-   "detail": "Justin Minaya  ~ CAREER  + 2025–2026 Osceola Magic",
-   "detected_at": "2026-09-01 07:25:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Justin_Minaya"
-  },
-  {
-   "detail": "Justin Minaya  ~ CAREER  + 2026–present FC Barcelona",
-   "detected_at": "2026-09-01 07:25:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Justin_Minaya"
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 2326,
-   "last": "2026-09-10 14:41:04"
+   "count": 2330,
+   "last": "2026-09-10 14:43:01"
   },
   "GLEAGUE": {
    "count": 51,
@@ -10082,8 +10069,8 @@
    "last": "2026-09-09 18:00:14"
   },
   "SHEETS": {
-   "count": 3731,
-   "last": "2026-09-10 14:37:01"
+   "count": 3740,
+   "last": "2026-09-10 14:43:10"
   },
   "TRANSACTIONS": {
    "count": 323,
@@ -10098,6 +10085,6 @@
    "last": "2026-09-09 17:18:10"
   }
  },
- "generated_at": "2026-09-10T14:41:23",
- "total": 11792
+ "generated_at": "2026-09-10T14:43:16",
+ "total": 11805
 }
