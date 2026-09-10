@@ -1,6 +1,30 @@
 {
  "events": [
   {
+   "detail": "2026-27 Veteran Signings  - REMOVED 3 Years for $96,540,000. Non-Qualifying Veteran Free Agent Exception. Advance Payment ($48,270,000). Player option to extend the contract to include the 202-28 Season. Insurance Premium Reimbursement. Skill; Injury or Illness; Mental. Compensation protection for 2026-27 Season is for $3,212,400 but will increase to full if team has not requested waivers on player on or before 8/18/2026. Compensation protection for 2027-28 Season is for $3,373,020 but will increase to full if team has not requested waivers on player on or before 8/18/2027. Trade Kicker (15%). Love of the Game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-09-09 17:31:57",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED Execution Date: 8/13/26",
+   "detected_at": "2026-09-09 17:31:57",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  3 Years for $96,540,000. Non-Qualifying Veteran Free Agent Exception. Advance Payment ($48,270,000). Player option to extend the contract to include the 2028-29 Season. Insurance Premium Reimbursement. Skill; Injury or Illness; Mental; Death. Trade Kicker (15%). Love of the Game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-09-09 17:31:57",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 9/8/26",
+   "detected_at": "2026-09-09 17:31:57",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "CLE  CHANGED Harden, James  -  TEAM SALARY CAP REPORT\n       -  CLEVELAND CAVALIERS: 4 - CAP HOLD -> 1 - FULL SEASON, col3: 47019231.6 -> 30647619.0, col4: - -> 32180000.0, col5: - -> 33712381.0, col9: 47019231.6 -> 96540000",
    "detected_at": "2026-09-09 17:31:00",
    "source": "SHEETS",
@@ -10018,40 +10042,12 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-08-29/Astros-de-Jalisco-at-Freseros-Irapuato/526551"
-  },
-  {
-   "detail": "Mexican LNBP + Avery Anderson III → Astros de Jalisco",
-   "detected_at": "2026-08-30 18:44:55",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Mexican LNBP + Diego Hernandez → Freseros Irapuato",
-   "detected_at": "2026-08-30 18:44:55",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Mexican LNBP + David Lopez → Freseros Irapuato",
-   "detected_at": "2026-08-30 18:44:55",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Mexican LNBP Diablos Rojos 97, Santos de San Luis Potosi 87",
-   "detected_at": "2026-08-30 18:44:52",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-29/Santos-de-San-Luis-Potosi-at-Diablos-Rojos/526548"
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 2288,
-   "last": "2026-09-09 17:30:58"
+   "count": 2292,
+   "last": "2026-09-09 17:31:57"
   },
   "GLEAGUE": {
    "count": 41,
@@ -10090,6 +10086,6 @@
    "last": "2026-09-09 17:18:10"
   }
  },
- "generated_at": "2026-09-09T17:31:04",
- "total": 11644
+ "generated_at": "2026-09-09T17:32:03",
+ "total": 11648
 }
