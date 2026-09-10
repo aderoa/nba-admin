@@ -1,6 +1,36 @@
 {
  "events": [
   {
+   "detail": "2026-27 Veteran Signings  - REMOVED Bogdan Bogdanovic Houston Rockets",
+   "detected_at": "2026-09-09 17:33:57",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Ben Simmons Sacramento Kings",
+   "detected_at": "2026-09-09 17:33:57",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED Minimum Salary Exception. Skill; Injury or Illness; Mental; Death. Love of the Game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-09-09 17:33:57",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Minimum Salary Exception. Skill; Injury or Illness; Mental; Death. Compensation protection for 2026-27 Season is none but will increase to $1,000,000 if team has not requested waivers on player on or before the team’s first game of the 2026-27 Regular Season",
+   "detected_at": "2026-09-09 17:33:57",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Love of the Game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-09-09 17:33:57",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "2026-27 Veteran Signings  - REMOVED Update 1.3 (7/18/26): B. Beal, D. Brooks, K. Bufkin, J. Butler Jr., K. Caldwell-Pope, M. Cisse, I. Crawford, J. Davison, D. DeRozan, T. Fall, D. Green, J. Harden, M. Hezonja, H. Highsmith, C. Houstan, H. Ingram, A. Jackson, L. James, S. Jones, Y. Kawamura, C. Koloko, J. Kuminga, N. Marshall, D. Melton, G. Niang, G. Payton, T. Peter, J. Phillips, N. Richards, M. Smith, J. Sochan, J. Tate, D. Terry, A. Thompson, K. Thompson, M. Thybulle, O. Tshiebwe, M. Wagner, J. Walsh, T. Watford, P. Watson, B. Williams",
    "detected_at": "2026-09-09 17:32:57",
    "source": "DOCS",
@@ -10004,44 +10034,12 @@
    "detected_at": "2026-08-31 09:27:20",
    "source": "DOCS",
    "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  26-27 $1,357,763",
-   "detected_at": "2026-08-31 09:27:20",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Minimum Salary Exception. Love of the Game. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
-   "detected_at": "2026-08-31 09:27:20",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 8/27/26",
-   "detected_at": "2026-08-31 09:27:20",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "Mexican LNBP Lobos Plateados 85, Gambusinos 75",
-   "detected_at": "2026-08-30 22:57:07",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-30/Lobos-Plateados-at-Gambusinos/526600"
-  },
-  {
-   "detail": "WNBA + Christyn Williams → Dallas Wings",
-   "detected_at": "2026-08-30 21:56:45",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 2298,
-   "last": "2026-09-09 17:32:57"
+   "count": 2303,
+   "last": "2026-09-09 17:33:57"
   },
   "GLEAGUE": {
    "count": 41,
@@ -10080,6 +10078,6 @@
    "last": "2026-09-09 17:18:10"
   }
  },
- "generated_at": "2026-09-09T17:33:03",
- "total": 11654
+ "generated_at": "2026-09-09T17:34:04",
+ "total": 11659
 }
