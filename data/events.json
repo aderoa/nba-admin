@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "2026-09-10  New Orleans Pelicans signed guard Bennedict Mathurin to a Contract.",
+   "detected_at": "2026-09-10 14:05:55",
+   "source": "TRANSACTIONS",
+   "type": "Signing"
+  },
+  {
    "detail": "Wendell Moore Jr.  ~ position: Shooting guard -> Small forward",
    "detected_at": "2026-09-10 13:19:43",
    "source": "WIKI",
@@ -10070,13 +10076,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Lucas_Williamson"
-  },
-  {
-   "detail": "Lucas Williamson  ~ number: - -> 55",
-   "detected_at": "2026-08-31 14:58:48",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Lucas_Williamson"
   }
  ],
  "feeds": {
@@ -10109,8 +10108,8 @@
    "last": "2026-09-09 17:35:02"
   },
   "TRANSACTIONS": {
-   "count": 321,
-   "last": "2026-09-10 11:14:55"
+   "count": 322,
+   "last": "2026-09-10 14:05:55"
   },
   "WIKI": {
    "count": 2766,
@@ -10121,6 +10120,6 @@
    "last": "2026-09-09 17:18:10"
   }
  },
- "generated_at": "2026-09-10T14:05:44",
- "total": 11760
+ "generated_at": "2026-09-10T14:06:04",
+ "total": 11761
 }
