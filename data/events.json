@@ -1,6 +1,62 @@
 {
  "events": [
   {
+   "detail": "Freddie Gillespie  ~ number: - -> 33",
+   "detected_at": "2026-09-09 17:07:41",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Freddie_Gillespie"
+  },
+  {
+   "detail": "Udoka Azubuike  ~ league: Ligat HaAl -> Israeli Basketball Premier League",
+   "detected_at": "2026-09-09 17:07:41",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Udoka_Azubuike"
+  },
+  {
+   "detail": "Udoka Azubuike  ~ position: Center / power forward -> Center",
+   "detected_at": "2026-09-09 17:07:41",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Udoka_Azubuike"
+  },
+  {
+   "detail": "Paris Lee  ~ team: Free agent -> Ironi Ness Ziona",
+   "detected_at": "2026-09-09 17:07:41",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Paris_Lee"
+  },
+  {
+   "detail": "Paris Lee  ~ league: - -> Israeli Basketball Premier League",
+   "detected_at": "2026-09-09 17:07:41",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Paris_Lee"
+  },
+  {
+   "detail": "Paris Lee  ~ number: - -> 55",
+   "detected_at": "2026-09-09 17:07:41",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Paris_Lee"
+  },
+  {
+   "detail": "Paris Lee  ~ CAREER  + 2026–present Ironi Ness Ziona",
+   "detected_at": "2026-09-09 17:07:41",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Paris_Lee"
+  },
+  {
+   "detail": "Nik Slavica  ~ draft_year: - -> 2019",
+   "detected_at": "2026-09-09 17:07:41",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Nik_Slavica"
+  },
+  {
    "detail": "Cody Martin (basketball)  ~ team: Noblesville Boom -> Mexico City Capitanes",
    "detected_at": "2026-09-09 15:12:42",
    "source": "WIKI",
@@ -10029,62 +10085,6 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Juan_Palacios_(basketball)"
-  },
-  {
-   "detail": "Krešimir Ljubičić  ~ team: AMW Arka Gdynia -> Free Agent",
-   "detected_at": "2026-08-30 07:24:48",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Kre%C5%A1imir_Ljubi%C4%8Di%C4%87"
-  },
-  {
-   "detail": "Krešimir Ljubičić  ~ league: PLK -> -",
-   "detected_at": "2026-08-30 07:24:48",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Kre%C5%A1imir_Ljubi%C4%8Di%C4%87"
-  },
-  {
-   "detail": "Krešimir Ljubičić  ~ number: 98 -> -",
-   "detected_at": "2026-08-30 07:24:48",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Kre%C5%A1imir_Ljubi%C4%8Di%C4%87"
-  },
-  {
-   "detail": "Krešimir Ljubičić  ~ CAREER  + 2025–2026 Arka Gdynia",
-   "detected_at": "2026-08-30 07:24:48",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Kre%C5%A1imir_Ljubi%C4%8Di%C4%87"
-  },
-  {
-   "detail": "Marcus Weathers  ~ team: AMW Arka Gdynia -> Free Agent",
-   "detected_at": "2026-08-30 07:24:48",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Marcus_Weathers"
-  },
-  {
-   "detail": "Marcus Weathers  ~ league: PLK -> -",
-   "detected_at": "2026-08-30 07:24:48",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Marcus_Weathers"
-  },
-  {
-   "detail": "Marcus Weathers  ~ number: 77 -> -",
-   "detected_at": "2026-08-30 07:24:48",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Marcus_Weathers"
-  },
-  {
-   "detail": "Marcus Weathers  ~ CAREER  + 2026 Arka Gdynia",
-   "detected_at": "2026-08-30 07:24:48",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Marcus_Weathers"
   }
  ],
  "feeds": {
@@ -10121,14 +10121,14 @@
    "last": "2026-09-09 15:04:55"
   },
   "WIKI": {
-   "count": 2715,
-   "last": "2026-09-09 15:12:42"
+   "count": 2723,
+   "last": "2026-09-09 17:07:41"
   },
   "WIKIWATCH": {
    "count": 104,
    "last": "2026-09-09 15:04:07"
   }
  },
- "generated_at": "2026-09-09T16:59:06",
- "total": 11594
+ "generated_at": "2026-09-09T17:07:42",
+ "total": 11602
 }
