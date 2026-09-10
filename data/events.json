@@ -1,6 +1,56 @@
 {
  "events": [
   {
+   "detail": "MarJon Beauchamp  ~ team: FC Bayern Munich -> Bayern Munich",
+   "detected_at": "2026-09-09 17:30:42",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/MarJon_Beauchamp"
+  },
+  {
+   "detail": "MarJon Beauchamp  ~ CAREER  + 2026–present Bayern Munich",
+   "detected_at": "2026-09-09 17:30:42",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/MarJon_Beauchamp"
+  },
+  {
+   "detail": "NOL  CHANGED Gibson, Taj  -  TEAM SALARY CAP REPORT\n       -  NEW ORLEANS PELICANS: 1 - FULL SEASON -> 7 - WAIVED, col3: 3815861.0 -> 148828.0, col9: 3815861 -> 148828",
+   "detected_at": "2026-09-09 17:23:01",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "NOL  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 220616703.9 -> 216949670.9, col9: 474489452.2 -> 470822419.2",
+   "detected_at": "2026-09-09 17:23:01",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "NOL  CHANGED Players Under Contract  -  col3: 199885173 -> 196069312",
+   "detected_at": "2026-09-09 17:23:01",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "NOL  CHANGED Full Season Contracts  -  col3: 199885173 -> 196069312",
+   "detected_at": "2026-09-09 17:23:01",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "NOL  CHANGED Waived Contracts  -  col3: 0 -> 148828",
+   "detected_at": "2026-09-09 17:23:01",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "NOL  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 18 -> 17",
+   "detected_at": "2026-09-09 17:23:01",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "MarJon Beauchamp  ~ 117599: team -> FC Bayern Munich",
    "detected_at": "2026-09-09 17:18:10",
    "source": "WIKIWATCH",
@@ -10029,62 +10079,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/national/boxscore/2026-08-30/Jordan-at-Australia/516936"
-  },
-  {
-   "detail": "Asian World Cup Qualifier New Zealand 126, Syria 74",
-   "detected_at": "2026-08-30 07:24:56",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-30/Syria-at-New-Zealand/516935"
-  },
-  {
-   "detail": "Jonathan Kuminga  ~ CAREER  + –present Minnesota Timberwolves",
-   "detected_at": "2026-08-30 07:24:48",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Jonathan_Kuminga"
-  },
-  {
-   "detail": "Naz Mitrou-Long  ~ number: 3 -> 1",
-   "detected_at": "2026-08-30 07:24:48",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Naz_Mitrou-Long"
-  },
-  {
-   "detail": "Codi Miller-McIntyre  ~ number: 10 -> 11",
-   "detected_at": "2026-08-30 07:24:48",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Codi_Miller-McIntyre"
-  },
-  {
-   "detail": "Juan Palacios (basketball)  ~ team: Biguá -> Regatas Corrientes",
-   "detected_at": "2026-08-30 07:24:48",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Juan_Palacios_(basketball)"
-  },
-  {
-   "detail": "Juan Palacios (basketball)  ~ league: LUB -> Liga Nacional de Básquet",
-   "detected_at": "2026-08-30 07:24:48",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Juan_Palacios_(basketball)"
-  },
-  {
-   "detail": "Juan Palacios (basketball)  ~ number: 30 -> -",
-   "detected_at": "2026-08-30 07:24:48",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Juan_Palacios_(basketball)"
-  },
-  {
-   "detail": "Juan Palacios (basketball)  ~ CAREER  + 2025 Biguá",
-   "detected_at": "2026-08-30 07:24:48",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Juan_Palacios_(basketball)"
   }
  ],
  "feeds": {
@@ -10113,22 +10107,22 @@
    "last": "2026-09-08 18:15:07"
   },
   "SHEETS": {
-   "count": 3688,
-   "last": "2026-09-08 13:11:58"
+   "count": 3694,
+   "last": "2026-09-09 17:23:01"
   },
   "TRANSACTIONS": {
    "count": 320,
    "last": "2026-09-09 15:04:55"
   },
   "WIKI": {
-   "count": 2723,
-   "last": "2026-09-09 17:07:41"
+   "count": 2725,
+   "last": "2026-09-09 17:30:42"
   },
   "WIKIWATCH": {
    "count": 105,
    "last": "2026-09-09 17:18:10"
   }
  },
- "generated_at": "2026-09-09T17:22:04",
- "total": 11603
+ "generated_at": "2026-09-09T17:30:43",
+ "total": 11611
 }
