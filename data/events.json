@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "+ ADDED   Alex Toohey (GSW)",
+   "detected_at": "2026-09-10 11:23:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
    "detail": "2026-09-08  New Orleans Pelicans waived forward Taj Gibson.",
    "detected_at": "2026-09-10 11:14:55",
    "source": "TRANSACTIONS",
@@ -10071,13 +10077,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Conner_Frankamp"
-  },
-  {
-   "detail": "Conner Frankamp  ~ league: PLK -> -",
-   "detected_at": "2026-08-31 14:58:48",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Conner_Frankamp"
   }
  ],
  "feeds": {
@@ -10090,8 +10089,8 @@
    "last": "2026-09-10 07:09:20"
   },
   "PLAYERS": {
-   "count": 753,
-   "last": "2026-09-09 15:04:54"
+   "count": 754,
+   "last": "2026-09-10 11:23:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10122,6 +10121,6 @@
    "last": "2026-09-09 17:18:10"
   }
  },
- "generated_at": "2026-09-10T11:23:05",
- "total": 11753
+ "generated_at": "2026-09-10T11:24:05",
+ "total": 11754
 }
