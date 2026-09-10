@@ -1,6 +1,204 @@
 {
  "events": [
   {
+   "detail": "CLE  CHANGED Harden, James  -  TEAM SALARY CAP REPORT\n       -  CLEVELAND CAVALIERS: 4 - CAP HOLD -> 1 - FULL SEASON, col3: 47019231.6 -> 30647619.0, col4: - -> 32180000.0, col5: - -> 33712381.0, col9: 47019231.6 -> 96540000",
+   "detected_at": "2026-09-09 17:31:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "CLE  CHANGED Whitmore, Cam  -  col4: - -> 1819436.64, col5: - -> 1819436.64, col9: 1819436.64 -> 5458309.92",
+   "detected_at": "2026-09-09 17:31:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "CLE  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 240038092.9 -> 223666480.3, col4: 181958109.5 -> 215957546.2, col5: 131162592 -> 166694409.6, col9: 643770194.4 -> 696929836.1",
+   "detected_at": "2026-09-09 17:31:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "CLE  CHANGED Players Under Contract  -  col3: 176078227 -> 206725846, col4: 181958109.5 -> 214138109.5, col5: 131162592 -> 164874973",
+   "detected_at": "2026-09-09 17:31:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "CLE  CHANGED Full Season Contracts  -  col3: 176078227 -> 206725846, col4: 181958109.5 -> 214138109.5, col5: 131162592 -> 164874973",
+   "detected_at": "2026-09-09 17:31:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "CLE  CHANGED Cap Holds  -  col3: 61715757.6 -> 14696526",
+   "detected_at": "2026-09-09 17:31:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "CLE  CHANGED Waived Contracts  -  col4: 0 -> 1819436.64, col5: 0 -> 1819436.64",
+   "detected_at": "2026-09-09 17:31:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "CLE  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 13 -> 14",
+   "detected_at": "2026-09-09 17:31:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "CLE  CHANGED Avg, Salary (Mean) (No 10-Day K's)  -  col6: 2 -> 1",
+   "detected_at": "2026-09-09 17:31:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "DEN  + ADDED  DeRozan, DeMar",
+   "detected_at": "2026-09-09 17:31:00",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "DEN  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 235008820.7 -> 237458241.7, col9: 640727736.3 -> 643177157.3",
+   "detected_at": "2026-09-09 17:31:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "DEN  CHANGED Players Under Contract  -  col3: 215011091 -> 217460512",
+   "detected_at": "2026-09-09 17:31:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "DEN  CHANGED Full Season Contracts  -  col3: 215011091 -> 217460512",
+   "detected_at": "2026-09-09 17:31:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "DEN  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 13 -> 14",
+   "detected_at": "2026-09-09 17:31:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "DEN  CHANGED Avg, Salary (Mean) (No 10-Day K's)  -  col6: 2 -> 1",
+   "detected_at": "2026-09-09 17:31:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col7: 0 -> 8541954.307, col9: 15249757.67 -> 17699178.67",
+   "detected_at": "2026-09-09 17:31:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 1st Incremental Tax Bracket  -  col7: 0 -> 5685000",
+   "detected_at": "2026-09-09 17:31:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 2nd Incremental Tax Bracket  -  col7: 0 -> 3571192.883",
+   "detected_at": "2026-09-09 17:31:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 3rd Incremental Tax Bracket  -  col9: 21338667.17 -> 31267500",
+   "detected_at": "2026-09-09 17:31:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 4th Incremental Tax Bracket  -  col9: 0 -> 4348206",
+   "detected_at": "2026-09-09 17:31:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col7: 0 -> 9256192.883, col9: 56869917.17 -> 71146956",
+   "detected_at": "2026-09-09 17:31:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED Update 1.3 (7/18/26): B. Beal, D. Brooks, K. Bufkin, J. Butler Jr., K. Caldwell-Pope, M. Cisse, I. Crawford, J. Davison, T. Fall, D. Green, M. Hezonja, H. Highsmith, C. Houstan, H. Ingram, A. Jackson, L. James, S. Jones, Y. Kawamura, C. Koloko, J. Kuminga, N. Marshall, D. Melton, G. Niang, G. Payton, T. Peter, J. Phillips, N. Richards, M. Smith, J. Sochan, J. Tate, D. Terry, A. Thompson, K. Thompson, M. Thybulle, O. Tshiebwe, M. Wagner, J. Walsh, T. Watford, P. Watson, B. Williams",
+   "detected_at": "2026-09-09 17:30:58",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Update 1.3 (7/18/26): B. Beal, D. Brooks, K. Bufkin, J. Butler Jr., K. Caldwell-Pope, M. Cisse, I. Crawford, J. Davison, D. DeRozan, T. Fall, D. Green, J. Harden, M. Hezonja, H. Highsmith, C. Houstan, H. Ingram, A. Jackson, L. James, S. Jones, Y. Kawamura, C. Koloko, J. Kuminga, N. Marshall, D. Melton, G. Niang, G. Payton, T. Peter, J. Phillips, N. Richards, M. Smith, J. Sochan, J. Tate, D. Terry, A. Thompson, K. Thompson, M. Thybulle, O. Tshiebwe, M. Wagner, J. Walsh, T. Watford, P. Watson, B. Williams",
+   "detected_at": "2026-09-09 17:30:58",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  DeMar DeRozan Denver Nuggets",
+   "detected_at": "2026-09-09 17:30:58",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  26-27 $3,876,529",
+   "detected_at": "2026-09-09 17:30:58",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Minimum Salary Exception. Skill; Injury or Illness; Mental; Death. Love of the Game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-09-09 17:30:58",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 9/8/26",
+   "detected_at": "2026-09-09 17:30:58",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  James Harden Cleveland Cavaliers",
+   "detected_at": "2026-09-09 17:30:58",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  26-27 $30,647,619",
+   "detected_at": "2026-09-09 17:30:58",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  27-28 $32,180,000",
+   "detected_at": "2026-09-09 17:30:58",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  28-29 $33,712,381 (Player Option)",
+   "detected_at": "2026-09-09 17:30:58",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  3 Years for $96,540,000. Non-Qualifying Veteran Free Agent Exception. Advance Payment ($48,270,000). Player option to extend the contract to include the 202-28 Season. Insurance Premium Reimbursement. Skill; Injury or Illness; Mental. Compensation protection for 2026-27 Season is for $3,212,400 but will increase to full if team has not requested waivers on player on or before 8/18/2026. Compensation protection for 2027-28 Season is for $3,373,020 but will increase to full if team has not requested waivers on player on or before 8/18/2027. Trade Kicker (15%). Love of the Game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-09-09 17:30:58",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 8/13/26",
+   "detected_at": "2026-09-09 17:30:58",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "MarJon Beauchamp  ~ team: FC Bayern Munich -> Bayern Munich",
    "detected_at": "2026-09-09 17:30:42",
    "source": "WIKI",
@@ -9848,243 +10046,12 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-08-29/Santos-de-San-Luis-Potosi-at-Diablos-Rojos/526548"
-  },
-  {
-   "detail": "Mexican LNBP + Jahlil White → Santos de San Luis Potosi",
-   "detected_at": "2026-08-30 18:44:49",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Mexican LNBP ~ MOVED Roddy Peters → Santos de San Luis Potosi (from Diablos Rojos)",
-   "detected_at": "2026-08-30 18:44:49",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
-  },
-  {
-   "detail": "Mexican LNBP + Tyquan Rolon → Diablos Rojos",
-   "detected_at": "2026-08-30 18:44:49",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Mexican LNBP Dorados de Chihuahua 95, Mineros de Zacatecas 71",
-   "detected_at": "2026-08-30 18:44:47",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-29/Mineros-de-Zacatecas-at-Dorados-de-Chihuahua/526547"
-  },
-  {
-   "detail": "Mexican LNBP + Saul Santana → Dorados de Chihuahua",
-   "detected_at": "2026-08-30 18:44:44",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "WNBA + Liatu King → Minnesota Lynx",
-   "detected_at": "2026-08-30 17:38:09",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "WNBA ~ MOVED DeWanna Bonner → Atlanta Dream (from Phoenix Mercury)",
-   "detected_at": "2026-08-30 17:38:09",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
-  },
-  {
-   "detail": "WNBA Atlanta Dream 89, Minnesota Lynx 81",
-   "detected_at": "2026-08-30 17:38:09",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-08-30/Minnesota-at-Atlanta/158621"
-  },
-  {
-   "detail": "Mexican LNBP Mineros de Zacatecas 92, Dorados de Chihuahua 82",
-   "detected_at": "2026-08-30 17:38:06",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-08-30/Mineros-de-Zacatecas-at-Dorados-de-Chihuahua/526553"
-  },
-  {
-   "detail": "Mexican LNBP + Sindarius Thornwell → Dorados de Chihuahua",
-   "detected_at": "2026-08-30 17:38:03",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Luke Nelson (basketball)  ~ team: Soproni KC -> Manchester Basketball",
-   "detected_at": "2026-08-30 12:01:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Luke_Nelson_(basketball)"
-  },
-  {
-   "detail": "Luke Nelson (basketball)  ~ league: NB I/A -> SBL",
-   "detected_at": "2026-08-30 12:01:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Luke_Nelson_(basketball)"
-  },
-  {
-   "detail": "Luke Nelson (basketball)  ~ CAREER  + 2026–present Manchester Basketball",
-   "detected_at": "2026-08-30 12:01:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Luke_Nelson_(basketball)"
-  },
-  {
-   "detail": "Luke Nelson (basketball)  ~ league: PLK -> NB I/A",
-   "detected_at": "2026-08-30 11:38:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Luke_Nelson_(basketball)"
-  },
-  {
-   "detail": "Luke Nelson (basketball)  ~ CAREER  + 2025–2026 Soproni KC",
-   "detected_at": "2026-08-30 11:38:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Luke_Nelson_(basketball)"
-  },
-  {
-   "detail": "African World Cup Qualifier Senegal 84, Angola 82",
-   "detected_at": "2026-08-30 11:29:36",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-29/Angola-at-Senegal/517063"
-  },
-  {
-   "detail": "European World Cup Qualifier Finland 96, Estonia 67",
-   "detected_at": "2026-08-30 11:29:34",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-30/Finland-at-Estonia/517026"
-  },
-  {
-   "detail": "European World Cup Qualifier France 84, Sweden 69",
-   "detected_at": "2026-08-30 11:29:31",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-30/France-at-Sweden/517025"
-  },
-  {
-   "detail": "European World Cup Qualifier Latvia 85, Israel 70",
-   "detected_at": "2026-08-30 11:29:28",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-30/Israel-at-Latvia/517009"
-  },
-  {
-   "detail": "African World Cup Qualifier Angola 91, Ivory Coast 70",
-   "detected_at": "2026-08-30 11:29:25",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-30/Ivory-Coast-at-Angola/517065"
-  },
-  {
-   "detail": "African World Cup Qualifier Guinea 90, Cameroon 67",
-   "detected_at": "2026-08-30 11:29:23",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-30/Cameroon-at-Guinea/517047"
-  },
-  {
-   "detail": "European World Cup Qualifier Germany 96, Poland 94",
-   "detected_at": "2026-08-30 11:29:20",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-30/Germany-at-Poland/517008"
-  },
-  {
-   "detail": "African World Cup Qualifier Democratic Republic of the Congo 77, Egypt 75",
-   "detected_at": "2026-08-30 11:29:17",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-30/Democratic-Republic-of-the-Congo-at-Egypt/517064"
-  },
-  {
-   "detail": "African World Cup Qualifier Nigeria 100, Cape Verde 84",
-   "detected_at": "2026-08-30 11:29:14",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-30/Cape-Verde-at-Nigeria/517046"
-  },
-  {
-   "detail": "European World Cup Qualifier Croatia 101, Netherlands 99",
-   "detected_at": "2026-08-30 11:29:11",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-30/Croatia-at-Netherlands/517007"
-  },
-  {
-   "detail": "Hans Vanwijn  ~ team: Yukatel Merkezefendi Basket -> Anwil Włocławek",
-   "detected_at": "2026-08-30 10:05:48",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Hans_Vanwijn"
-  },
-  {
-   "detail": "Hans Vanwijn  ~ league: Basketbol Süper Ligi -> Polish Basketball League",
-   "detected_at": "2026-08-30 10:05:48",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Hans_Vanwijn"
-  },
-  {
-   "detail": "Hans Vanwijn  ~ number: 10 -> 0",
-   "detected_at": "2026-08-30 10:05:48",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Hans_Vanwijn"
-  },
-  {
-   "detail": "Hans Vanwijn  ~ CAREER  + 2024–2026 Merkezefendi Basket",
-   "detected_at": "2026-08-30 10:05:48",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Hans_Vanwijn"
-  },
-  {
-   "detail": "Hans Vanwijn  ~ CAREER  + 2026–present Anwil Włocławek",
-   "detected_at": "2026-08-30 10:05:48",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Hans_Vanwijn"
-  },
-  {
-   "detail": "Manu Lecomte  ~ number: - -> 20",
-   "detected_at": "2026-08-30 10:05:48",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Manu_Lecomte"
-  },
-  {
-   "detail": "Branko Cvetković  ~ career_end: - -> 2023",
-   "detected_at": "2026-08-30 08:33:48",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Branko_Cvetkovi%C4%87"
-  },
-  {
-   "detail": "Asian World Cup Qualifier Australia 126, Jordan 93",
-   "detected_at": "2026-08-30 07:24:58",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/national/boxscore/2026-08-30/Jordan-at-Australia/516936"
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 2276,
-   "last": "2026-09-08 07:59:56"
+   "count": 2288,
+   "last": "2026-09-09 17:30:58"
   },
   "GLEAGUE": {
    "count": 41,
@@ -10107,8 +10074,8 @@
    "last": "2026-09-08 18:15:07"
   },
   "SHEETS": {
-   "count": 3694,
-   "last": "2026-09-09 17:23:01"
+   "count": 3715,
+   "last": "2026-09-09 17:31:00"
   },
   "TRANSACTIONS": {
    "count": 320,
@@ -10123,6 +10090,6 @@
    "last": "2026-09-09 17:18:10"
   }
  },
- "generated_at": "2026-09-09T17:30:43",
- "total": 11611
+ "generated_at": "2026-09-09T17:31:04",
+ "total": 11644
 }
