@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Nic Claxton  ~ nationality: American / U.S. Virgin Islander -> -",
+   "detected_at": "2026-09-10 17:59:42",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Nic_Claxton"
+  },
+  {
    "detail": "Coty Clarke  ~ nationality: American -> -",
    "detected_at": "2026-09-10 17:13:43",
    "source": "WIKI",
@@ -10019,13 +10026,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Kavell_Bigby-Williams"
-  },
-  {
-   "detail": "Kavell Bigby-Williams  ~ number: 27 -> -",
-   "detected_at": "2026-09-01 20:31:48",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Kavell_Bigby-Williams"
   }
  ],
  "feeds": {
@@ -10062,14 +10062,14 @@
    "last": "2026-09-10 14:28:55"
   },
   "WIKI": {
-   "count": 2803,
-   "last": "2026-09-10 17:13:43"
+   "count": 2804,
+   "last": "2026-09-10 17:59:42"
   },
   "WIKIWATCH": {
    "count": 108,
    "last": "2026-09-10 16:02:12"
   }
  },
- "generated_at": "2026-09-10T17:51:04",
- "total": 11873
+ "generated_at": "2026-09-10T17:59:43",
+ "total": 11874
 }
