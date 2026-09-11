@@ -1,6 +1,24 @@
 {
  "events": [
   {
+   "detail": "- REMOVED Devin Carter (ATL)",
+   "detected_at": "2026-09-11 15:30:55",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Hank Morgan (BOS)",
+   "detected_at": "2026-09-11 15:30:55",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Lamont Butler (ATL)",
+   "detected_at": "2026-09-11 15:30:55",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
    "detail": "+ ADDED   Lamont Butler (ATL)",
    "detected_at": "2026-09-11 15:29:54",
    "source": "PLAYERS",
@@ -10002,27 +10020,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Australian NBL + Skylar Mays → South East Melbourne",
-   "detected_at": "2026-09-03 08:07:06",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Australian NBL + D'Shawn Schwartz → South East Melbourne",
-   "detected_at": "2026-09-03 08:07:06",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Australian NBL + Angus Glover → South East Melbourne",
-   "detected_at": "2026-09-03 08:07:06",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10035,8 +10032,8 @@
    "last": "2026-09-11 09:50:01"
   },
   "PLAYERS": {
-   "count": 764,
-   "last": "2026-09-11 15:29:54"
+   "count": 767,
+   "last": "2026-09-11 15:30:55"
   },
   "RATINGS": {
    "count": 950,
@@ -10067,6 +10064,6 @@
    "last": "2026-09-10 16:02:12"
   }
  },
- "generated_at": "2026-09-11T15:30:05",
- "total": 12003
+ "generated_at": "2026-09-11T15:31:06",
+ "total": 12006
 }
