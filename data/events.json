@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Thomas Walkup  ~ number: 9 -> 44",
+   "detected_at": "2026-09-11 14:39:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Thomas_Walkup"
+  },
+  {
    "detail": "+ ADDED   Hank Morgan (BOS)",
    "detected_at": "2026-09-11 14:24:54",
    "source": "PLAYERS",
@@ -10025,13 +10032,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-09-02/Perth-at-Cairns/524193"
-  },
-  {
-   "detail": "NBL Blitz + Jo Acuil → Perth",
-   "detected_at": "2026-09-03 08:07:00",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10068,14 +10068,14 @@
    "last": "2026-09-10 14:28:55"
   },
   "WIKI": {
-   "count": 2855,
-   "last": "2026-09-11 14:16:46"
+   "count": 2856,
+   "last": "2026-09-11 14:39:46"
   },
   "WIKIWATCH": {
    "count": 108,
    "last": "2026-09-10 16:02:12"
   }
  },
- "generated_at": "2026-09-11T14:31:01",
- "total": 11986
+ "generated_at": "2026-09-11T14:39:48",
+ "total": 11987
 }
