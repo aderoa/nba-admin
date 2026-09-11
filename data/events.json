@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "+ ADDED   Hank Morgan (BOS)",
+   "detected_at": "2026-09-11 14:24:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
    "detail": "Edon Maxhuni  ~ team: BCM Gravelines-Dunkerque -> Free agent",
    "detected_at": "2026-09-11 14:16:46",
    "source": "WIKI",
@@ -10026,13 +10032,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "NBL Blitz + Dylan Windler → Perth",
-   "detected_at": "2026-09-03 08:07:00",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10045,8 +10044,8 @@
    "last": "2026-09-11 09:50:01"
   },
   "PLAYERS": {
-   "count": 757,
-   "last": "2026-09-10 14:28:54"
+   "count": 758,
+   "last": "2026-09-11 14:24:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10077,6 +10076,6 @@
    "last": "2026-09-10 16:02:12"
   }
  },
- "generated_at": "2026-09-11T14:24:00",
- "total": 11985
+ "generated_at": "2026-09-11T14:25:01",
+ "total": 11986
 }
