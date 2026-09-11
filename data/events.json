@@ -1,6 +1,24 @@
 {
  "events": [
   {
+   "detail": "+ ADDED   Lamont Butler (ATL)",
+   "detected_at": "2026-09-11 15:29:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "+ ADDED   Hank Morgan (BOS)",
+   "detected_at": "2026-09-11 15:29:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "+ ADDED   Devin Carter (ATL)",
+   "detected_at": "2026-09-11 15:29:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
    "detail": "- REMOVED Lamont Butler (ATL)",
    "detected_at": "2026-09-11 15:27:54",
    "source": "PLAYERS",
@@ -10005,27 +10023,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Australian NBL + Dash Daniels → South East Melbourne",
-   "detected_at": "2026-09-03 08:07:06",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Australian NBL ~ MOVED Akech Aliir → South East Melbourne (from Wellington Saints)",
-   "detected_at": "2026-09-03 08:07:06",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
-  },
-  {
-   "detail": "Australian NBL + Hunter Goodrick → South East Melbourne",
-   "detected_at": "2026-09-03 08:07:06",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10038,8 +10035,8 @@
    "last": "2026-09-11 09:50:01"
   },
   "PLAYERS": {
-   "count": 761,
-   "last": "2026-09-11 15:27:54"
+   "count": 764,
+   "last": "2026-09-11 15:29:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10070,6 +10067,6 @@
    "last": "2026-09-10 16:02:12"
   }
  },
- "generated_at": "2026-09-11T15:29:04",
- "total": 12000
+ "generated_at": "2026-09-11T15:30:05",
+ "total": 12003
 }
