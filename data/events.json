@@ -1,6 +1,34 @@
 {
  "events": [
   {
+   "detail": "Edon Maxhuni  ~ team: BCM Gravelines-Dunkerque -> Free agent",
+   "detected_at": "2026-09-11 14:16:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Edon_Maxhuni"
+  },
+  {
+   "detail": "Edon Maxhuni  ~ league: LNB Élite -> -",
+   "detected_at": "2026-09-11 14:16:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Edon_Maxhuni"
+  },
+  {
+   "detail": "Edon Maxhuni  ~ number: 21 -> -",
+   "detected_at": "2026-09-11 14:16:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Edon_Maxhuni"
+  },
+  {
+   "detail": "Edon Maxhuni  ~ CAREER  + 2025–2026 BCM Gravelines-Dunkerque",
+   "detected_at": "2026-09-11 14:16:46",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Edon_Maxhuni"
+  },
+  {
    "detail": "Derrick Williams (basketball)  ~ number: - -> 20",
    "detected_at": "2026-09-11 11:52:46",
    "source": "WIKI",
@@ -10005,34 +10033,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "NBL Blitz + Kristian Doolittle → Perth",
-   "detected_at": "2026-09-03 08:07:00",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "NBL Blitz ~ MOVED Elijah Pepper → Perth (from Wellington Saints)",
-   "detected_at": "2026-09-03 08:07:00",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
-  },
-  {
-   "detail": "NBL Blitz + Anthony Dell'Orso → Perth",
-   "detected_at": "2026-09-03 08:07:00",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "NBL Blitz + Cameron Huefner → Perth",
-   "detected_at": "2026-09-03 08:07:00",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10069,14 +10069,14 @@
    "last": "2026-09-10 14:28:55"
   },
   "WIKI": {
-   "count": 2851,
-   "last": "2026-09-11 11:52:46"
+   "count": 2855,
+   "last": "2026-09-11 14:16:46"
   },
   "WIKIWATCH": {
    "count": 108,
    "last": "2026-09-10 16:02:12"
   }
  },
- "generated_at": "2026-09-11T14:08:06",
- "total": 11981
+ "generated_at": "2026-09-11T14:16:47",
+ "total": 11985
 }
