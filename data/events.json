@@ -1,6 +1,24 @@
 {
  "events": [
   {
+   "detail": "- REMOVED Lamont Butler (ATL)",
+   "detected_at": "2026-09-11 15:27:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Hank Morgan (BOS)",
+   "detected_at": "2026-09-11 15:27:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Devin Carter (ATL)",
+   "detected_at": "2026-09-11 15:27:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
    "detail": "Devin Carter  ~ team: Atlanta Hawks -> -",
    "detected_at": "2026-09-11 15:02:47",
    "source": "WIKI",
@@ -10008,27 +10026,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Australian NBL + Yannis Morin → South East Melbourne",
-   "detected_at": "2026-09-03 08:07:06",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Australian NBL + Sam Davidson → South East Melbourne",
-   "detected_at": "2026-09-03 08:07:06",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Australian NBL + Xavier Cooks → Sydney",
-   "detected_at": "2026-09-03 08:07:06",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10041,8 +10038,8 @@
    "last": "2026-09-11 09:50:01"
   },
   "PLAYERS": {
-   "count": 758,
-   "last": "2026-09-11 14:24:54"
+   "count": 761,
+   "last": "2026-09-11 15:27:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10073,6 +10070,6 @@
    "last": "2026-09-10 16:02:12"
   }
  },
- "generated_at": "2026-09-11T15:27:05",
- "total": 11997
+ "generated_at": "2026-09-11T15:28:03",
+ "total": 12000
 }
