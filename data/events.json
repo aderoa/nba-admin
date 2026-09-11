@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Mexican LNBP Freseros Irapuato 82, Lobos Plateados 71",
+   "detected_at": "2026-09-10 23:35:12",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-10/Freseros-Irapuato-at-Lobos-Plateados/526605"
+  },
+  {
    "detail": "Israel BSL Winner Cup Bnei Herzelia 101, Hapoel Eilat 98",
    "detected_at": "2026-09-10 22:34:33",
    "source": "SCORES",
@@ -10028,12 +10035,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Joel_Bolomboy"
-  },
-  {
-   "detail": "+ ADDED   Kyle Mangas (CHA)",
-   "detected_at": "2026-09-02 16:10:54",
-   "source": "PLAYERS",
-   "type": "ADDED"
   }
  ],
  "feeds": {
@@ -10058,8 +10059,8 @@
    "last": "2026-09-10 22:34:22"
   },
   "SCORES": {
-   "count": 490,
-   "last": "2026-09-10 22:34:33"
+   "count": 491,
+   "last": "2026-09-10 23:35:12"
   },
   "SHEETS": {
    "count": 3756,
@@ -10078,6 +10079,6 @@
    "last": "2026-09-10 16:02:12"
   }
  },
- "generated_at": "2026-09-10T23:24:48",
- "total": 11931
+ "generated_at": "2026-09-10T23:35:14",
+ "total": 11932
 }
