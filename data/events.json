@@ -1,6 +1,41 @@
 {
  "events": [
   {
+   "detail": "James Woodard  ~ team: EWE Baskets Oldenburg -> FC Porto",
+   "detected_at": "2026-09-12 00:19:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/James_Woodard"
+  },
+  {
+   "detail": "James Woodard  ~ league: Basketball Bundesliga -> Liga Betclic",
+   "detected_at": "2026-09-12 00:19:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/James_Woodard"
+  },
+  {
+   "detail": "James Woodard  ~ number: 10 -> -",
+   "detected_at": "2026-09-12 00:19:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/James_Woodard"
+  },
+  {
+   "detail": "James Woodard  ~ CAREER  + 2025–2026 EWE Baskets Oldenburg",
+   "detected_at": "2026-09-12 00:19:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/James_Woodard"
+  },
+  {
+   "detail": "James Woodard  ~ CAREER  + 2026–present FC Porto",
+   "detected_at": "2026-09-12 00:19:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/James_Woodard"
+  },
+  {
    "detail": "Tadija Tadić  ~ team: Sutjeska -> -",
    "detected_at": "2026-09-11 23:33:47",
    "source": "WIKI",
@@ -10040,36 +10075,6 @@
    "detected_at": "2026-09-03 16:55:56",
    "source": "DOCS",
    "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  27-28 $35,862,069",
-   "detected_at": "2026-09-03 16:55:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  28-29 $38,731,034",
-   "detected_at": "2026-09-03 16:55:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  29-30 $41,600,000",
-   "detected_at": "2026-09-03 16:55:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  30-31 $44,468,966",
-   "detected_at": "2026-09-03 16:55:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  31-32 $47,337,931",
-   "detected_at": "2026-09-03 16:55:56",
-   "source": "DOCS",
-   "type": "ADDED"
   }
  ],
  "feeds": {
@@ -10106,14 +10111,14 @@
    "last": "2026-09-11 14:46:55"
   },
   "WIKI": {
-   "count": 2887,
-   "last": "2026-09-11 23:33:47"
+   "count": 2892,
+   "last": "2026-09-12 00:19:47"
   },
   "WIKIWATCH": {
    "count": 108,
    "last": "2026-09-10 16:02:12"
   }
  },
- "generated_at": "2026-09-12T00:11:01",
- "total": 12090
+ "generated_at": "2026-09-12T00:19:48",
+ "total": 12095
 }
