@@ -1,6 +1,69 @@
 {
  "events": [
   {
+   "detail": "Mexican LNBP Fuerza Regia 103, Santos de San Luis Potosi 74",
+   "detected_at": "2026-09-11 22:22:38",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-11/Fuerza-Regia-at-Santos-de-San-Luis-Potosi/526613"
+  },
+  {
+   "detail": "Mexican LNBP Freseros Irapuato 90, Lobos Plateados 86",
+   "detected_at": "2026-09-11 22:22:27",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-11/Freseros-Irapuato-at-Lobos-Plateados/526612"
+  },
+  {
+   "detail": "Mexican LNBP Gambusinos 86, Abejas 74",
+   "detected_at": "2026-09-11 22:22:15",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-11/Gambusinos-at-Abejas/526611"
+  },
+  {
+   "detail": "Mexican LNBP + Kameron Hankerson → Gambusinos",
+   "detected_at": "2026-09-11 22:22:08",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Mexican LNBP + Max Agbonkpolo → Gambusinos",
+   "detected_at": "2026-09-11 22:22:08",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Mexican LNBP ~ MOVED Robiel Morales → Abejas (from Santeros de Aguada)",
+   "detected_at": "2026-09-11 22:22:08",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Mexican LNBP Correcaminos 85, Dorados de Chihuahua 83",
+   "detected_at": "2026-09-11 22:22:05",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-11/Dorados-de-Chihuahua-at-Correcaminos/526609"
+  },
+  {
+   "detail": "Taj Gibson  ~ team: - -> Free agent",
+   "detected_at": "2026-09-11 22:21:50",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Taj_Gibson"
+  },
+  {
+   "detail": "Taj Gibson  ~ league: NBA -> -",
+   "detected_at": "2026-09-11 22:21:50",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Taj_Gibson"
+  },
+  {
    "detail": "Mexican LNBP Fuerza Regia 101, Santos de San Luis Potosi 89",
    "detected_at": "2026-09-11 21:19:27",
    "source": "SCORES",
@@ -10003,60 +10066,6 @@
    "detected_at": "2026-09-03 16:47:55",
    "source": "DOCS",
    "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  27-28 35,8",
-   "detected_at": "2026-09-03 16:47:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  28-29 MAXIMUM SALARY",
-   "detected_at": "2026-09-03 16:47:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  29-30 MAXIMUM SALARY",
-   "detected_at": "2026-09-03 16:47:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  30-31 MAXIMUM SALARY",
-   "detected_at": "2026-09-03 16:47:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  31-32 MAXIMUM SALARY (Player Option)",
-   "detected_at": "2026-09-03 16:47:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  5 Years for MAXIMUM SALARY (TBD). Rookie Scale Extension. Max Contract. Advance Payment (50% of Base Compensation in Y1, 25% of Base Compensation in Y2-5). Player option to extend the contract to include the 2031-32 Season. Insurance Premium Reimbursement. Skill; Injury or Illness; Mental; Death. Trade Kicker (15%).",
-   "detected_at": "2026-09-03 16:47:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 7/10/26",
-   "detected_at": "2026-09-03 16:47:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "HOU  CHANGED Thompson, Amen  -  col4: - -> 35862069.0, col5: - -> 38731034.0, col6: - -> 41600000.0, col7: - -> 44468966.0, col8: - -> 47337931.0, col9: 12258609 -> 220258609",
-   "detected_at": "2026-09-03 16:46:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "HOU  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col4: 164973736.3 -> 200835805.3, col5: 84564556 -> 123295590, col6: 88188658 -> 129788658, col7: 45976783 -> 90445749, col8: 0 -> 47337931, col9: 600999298.3 -> 808999298.3",
-   "detected_at": "2026-09-03 16:46:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10077,12 +10086,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 397,
-   "last": "2026-09-11 21:19:20"
+   "count": 400,
+   "last": "2026-09-11 22:22:08"
   },
   "SCORES": {
-   "count": 496,
-   "last": "2026-09-11 21:19:27"
+   "count": 500,
+   "last": "2026-09-11 22:22:38"
   },
   "SHEETS": {
    "count": 3756,
@@ -10093,14 +10102,14 @@
    "last": "2026-09-11 14:46:55"
   },
   "WIKI": {
-   "count": 2881,
-   "last": "2026-09-11 18:39:46"
+   "count": 2883,
+   "last": "2026-09-11 22:21:50"
   },
   "WIKIWATCH": {
    "count": 108,
    "last": "2026-09-10 16:02:12"
   }
  },
- "generated_at": "2026-09-11T21:46:41",
- "total": 12077
+ "generated_at": "2026-09-11T22:22:42",
+ "total": 12086
 }
