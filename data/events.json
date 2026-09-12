@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Mike Conley Jr.  ~ number: 45 -> 44",
+   "detected_at": "2026-09-12 14:05:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Mike_Conley_Jr."
+  },
+  {
    "detail": "Jaylen Sims  ~ number: 33 -> 30",
    "detected_at": "2026-09-12 12:56:47",
    "source": "WIKI",
@@ -10129,12 +10136,6 @@
    "detected_at": "2026-09-03 17:43:57",
    "source": "SHEETS",
    "type": "ADDED"
-  },
-  {
-   "detail": "CHA  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 182154129 -> 185961313, col9: 473261516.4 -> 477068700.4",
-   "detected_at": "2026-09-03 17:43:57",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10171,14 +10172,14 @@
    "last": "2026-09-11 14:46:55"
   },
   "WIKI": {
-   "count": 2947,
-   "last": "2026-09-12 12:56:47"
+   "count": 2948,
+   "last": "2026-09-12 14:05:46"
   },
   "WIKIWATCH": {
    "count": 113,
    "last": "2026-09-12 09:06:14"
   }
  },
- "generated_at": "2026-09-12T13:57:00",
- "total": 12161
+ "generated_at": "2026-09-12T14:05:47",
+ "total": 12162
 }
