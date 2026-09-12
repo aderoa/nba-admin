@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Lloyd Pandi  ~ number: 41 -> 2",
+   "detected_at": "2026-09-11 18:39:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Lloyd_Pandi"
+  },
+  {
    "detail": "Mexican LNBP Dorados de Chihuahua 86, Correcaminos 79",
    "detected_at": "2026-09-11 18:13:22",
    "source": "SCORES",
@@ -10044,12 +10051,6 @@
    "detected_at": "2026-09-03 16:43:58",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "CLE  CHANGED Players Under Contract  -  col3: 174720464 -> 176078227, col4: 179663739.5 -> 181958109.5, col5: 128468229 -> 131162592, col6: 87693248 -> 90611400",
-   "detected_at": "2026-09-03 16:43:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10086,14 +10087,14 @@
    "last": "2026-09-11 14:46:55"
   },
   "WIKI": {
-   "count": 2880,
-   "last": "2026-09-11 17:20:46"
+   "count": 2881,
+   "last": "2026-09-11 18:39:46"
   },
   "WIKIWATCH": {
    "count": 108,
    "last": "2026-09-10 16:02:12"
   }
  },
- "generated_at": "2026-09-11T18:13:24",
- "total": 12070
+ "generated_at": "2026-09-11T18:39:47",
+ "total": 12071
 }
