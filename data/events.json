@@ -1,6 +1,41 @@
 {
  "events": [
   {
+   "detail": "Chase Audige  ~ position: Shooting guard / Point guard -> Shooting guard / point guard",
+   "detected_at": "2026-09-12 15:37:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Chase_Audige"
+  },
+  {
+   "detail": "Chase Audige  ~ number: - -> 1",
+   "detected_at": "2026-09-12 15:37:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Chase_Audige"
+  },
+  {
+   "detail": "Chase Audige  ~ height_ft: - -> 6",
+   "detected_at": "2026-09-12 15:37:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Chase_Audige"
+  },
+  {
+   "detail": "Chase Audige  ~ height_in: - -> 4",
+   "detected_at": "2026-09-12 15:37:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Chase_Audige"
+  },
+  {
+   "detail": "Chase Audige  ~ weight_lb: - -> 200",
+   "detected_at": "2026-09-12 15:37:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Chase_Audige"
+  },
+  {
    "detail": "Eli Ndiaye  ~ number: - -> 4",
    "detected_at": "2026-09-12 14:51:46",
    "source": "WIKI",
@@ -10107,36 +10142,6 @@
    "detected_at": "2026-09-03 17:49:55",
    "source": "TRANSACTIONS",
    "type": "Signing"
-  },
-  {
-   "detail": "~ CHANGED Jonathan Kuminga  country: DRC -> Democratic Republic of the Congo",
-   "detected_at": "2026-09-03 17:46:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "CHA  - REMOVED Tillman, Xavier #2",
-   "detected_at": "2026-09-03 17:44:58",
-   "source": "SHEETS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "CHA  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 185961313 -> 183511892, col9: 477068700.4 -> 474619279.4",
-   "detected_at": "2026-09-03 17:44:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "CHA  CHANGED Cap Holds  -  col3: 4898842 -> 2449421",
-   "detected_at": "2026-09-03 17:44:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "CHA  + ADDED  Tillman, Xavier #2",
-   "detected_at": "2026-09-03 17:43:57",
-   "source": "SHEETS",
-   "type": "ADDED"
   }
  ],
  "feeds": {
@@ -10173,14 +10178,14 @@
    "last": "2026-09-11 14:46:55"
   },
   "WIKI": {
-   "count": 2949,
-   "last": "2026-09-12 14:51:46"
+   "count": 2954,
+   "last": "2026-09-12 15:37:46"
   },
   "WIKIWATCH": {
    "count": 113,
    "last": "2026-09-12 09:06:14"
   }
  },
- "generated_at": "2026-09-12T15:29:00",
- "total": 12163
+ "generated_at": "2026-09-12T15:37:47",
+ "total": 12168
 }
