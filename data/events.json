@@ -1,6 +1,41 @@
 {
  "events": [
   {
+   "detail": "Thanasis Antetokounmpo  ~ number: 32 -> 43",
+   "detected_at": "2026-09-12 11:01:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Thanasis_Antetokounmpo"
+  },
+  {
+   "detail": "Khem Birch  ~ position: Centre -> Center",
+   "detected_at": "2026-09-12 11:01:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Khem_Birch"
+  },
+  {
+   "detail": "John Bryant (basketball)  ~ team: Eisbären Bremerhaven -> SBB Baskets",
+   "detected_at": "2026-09-12 11:01:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/John_Bryant_(basketball)"
+  },
+  {
+   "detail": "John Bryant (basketball)  ~ CAREER  + 2026–2026 Eisbären Bremerhaven",
+   "detected_at": "2026-09-12 11:01:46",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/John_Bryant_(basketball)"
+  },
+  {
+   "detail": "John Bryant (basketball)  ~ CAREER  + 2026–present SBB Baskets",
+   "detected_at": "2026-09-12 11:01:46",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/John_Bryant_(basketball)"
+  },
+  {
    "detail": "Max Shulga  ~ position: Shooting guard / point guard -> Point guard / shooting guard",
    "detected_at": "2026-09-12 10:38:47",
    "source": "WIKI",
@@ -10089,36 +10124,6 @@
    "detected_at": "2026-09-03 17:43:57",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED 2nd Incremental Tax Bracket  -  Luxury Tax Calculator: 6100820.375 -> 7106250",
-   "detected_at": "2026-09-03 17:43:57",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED 3rd Incremental Tax Bracket  -  Luxury Tax Calculator: 0 -> 6689138.05",
-   "detected_at": "2026-09-03 17:43:57",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  Luxury Tax Calculator: 11785820.38 -> 19480388.05",
-   "detected_at": "2026-09-03 17:43:57",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  - REMOVED Update 1.3 (7/18/26): K. Lopez, K. Diop, J. Allick, J. Hadley, K. Mangas, M. Murrell, S. Thomas",
-   "detected_at": "2026-09-03 17:42:56",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Update 1.3 (7/18/26): K. Lopez, K. Diop, J. Allick, J. Hadley, K. Mangas, M. Murrell, J. Nelson, S. Thomas, T. Townsend",
-   "detected_at": "2026-09-03 17:42:56",
-   "source": "DOCS",
-   "type": "ADDED"
   }
  ],
  "feeds": {
@@ -10155,14 +10160,14 @@
    "last": "2026-09-11 14:46:55"
   },
   "WIKI": {
-   "count": 2931,
-   "last": "2026-09-12 10:38:47"
+   "count": 2936,
+   "last": "2026-09-12 11:01:46"
   },
   "WIKIWATCH": {
    "count": 113,
    "last": "2026-09-12 09:06:14"
   }
  },
- "generated_at": "2026-09-12T10:53:00",
- "total": 12145
+ "generated_at": "2026-09-12T11:01:47",
+ "total": 12150
 }
