@@ -1,6 +1,41 @@
 {
  "events": [
   {
+   "detail": "Mac McClung  ~ 132187: team -> -",
+   "detected_at": "2026-09-12 09:06:14",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Bàsquet Girona"
+  },
+  {
+   "detail": "Mac McClung  ~ 132187: league -> -",
+   "detected_at": "2026-09-12 09:06:14",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Liga ACB FIBA Europe Cup"
+  },
+  {
+   "detail": "Mac McClung  ~ 132187: position -> -",
+   "detected_at": "2026-09-12 09:06:14",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Point guard / shooting guard"
+  },
+  {
+   "detail": "Mac McClung  ~ 132187: number -> -",
+   "detected_at": "2026-09-12 09:06:14",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "0"
+  },
+  {
+   "detail": "Mac McClung  ~ 132187: (page changed) -> -",
+   "detected_at": "2026-09-12 09:06:14",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": ""
+  },
+  {
    "detail": "Kobe Bufkin  ~ number: 9 -> 4",
    "detected_at": "2026-09-12 09:05:58",
    "source": "WIKI",
@@ -10082,36 +10117,6 @@
    "detected_at": "2026-09-03 17:42:56",
    "source": "DOCS",
    "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($5,000).",
-   "detected_at": "2026-09-03 17:42:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 9/1/26",
-   "detected_at": "2026-09-03 17:42:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "PHL  + ADDED  Fall, Tacko",
-   "detected_at": "2026-09-03 17:41:57",
-   "source": "SHEETS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "PHL  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 215363888.3 -> 217813309.3, col9: 649592597.7 -> 652042018.7",
-   "detected_at": "2026-09-03 17:41:57",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "PHL  CHANGED Players Under Contract  -  col3: 208544235.3 -> 210993656.3",
-   "detected_at": "2026-09-03 17:41:57",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10152,10 +10157,10 @@
    "last": "2026-09-12 09:05:58"
   },
   "WIKIWATCH": {
-   "count": 108,
-   "last": "2026-09-10 16:02:12"
+   "count": 113,
+   "last": "2026-09-12 09:06:14"
   }
  },
- "generated_at": "2026-09-12T09:06:05",
- "total": 12138
+ "generated_at": "2026-09-12T09:07:03",
+ "total": 12143
 }
