@@ -1,6 +1,41 @@
 {
  "events": [
   {
+   "detail": "Jaime Pradilla  ~ 108752: team -> -",
+   "detected_at": "2026-09-12 18:01:08",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Real Madrid"
+  },
+  {
+   "detail": "Jaime Pradilla  ~ 108752: league -> -",
+   "detected_at": "2026-09-12 18:01:08",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Liga ACB EuroLeague"
+  },
+  {
+   "detail": "Jaime Pradilla  ~ 108752: position -> -",
+   "detected_at": "2026-09-12 18:01:08",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Power forward / center"
+  },
+  {
+   "detail": "Jaime Pradilla  ~ 108752: number -> -",
+   "detected_at": "2026-09-12 18:01:08",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "4"
+  },
+  {
+   "detail": "Jaime Pradilla  ~ 108752: (page changed) -> -",
+   "detected_at": "2026-09-12 18:01:08",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": ""
+  },
+  {
    "detail": "Darius Brown (basketball)  ~ number: - -> 10",
    "detected_at": "2026-09-12 17:09:46",
    "source": "WIKI",
@@ -10114,39 +10149,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Olivier_Hanlan"
-  },
-  {
-   "detail": "Olivier Hanlan  ~ CAREER  + 2026–present Petkim Spor",
-   "detected_at": "2026-09-04 09:24:15",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Olivier_Hanlan"
-  },
-  {
-   "detail": "John Meeks (basketball)  ~ number: - -> 12",
-   "detected_at": "2026-09-04 09:24:15",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/John_Meeks_(basketball)"
-  },
-  {
-   "detail": "Tony Taylor (basketball)  ~ number: - -> 21",
-   "detected_at": "2026-09-04 09:24:15",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Tony_Taylor_(basketball)"
-  },
-  {
-   "detail": "2026-09-03  Traded: Erik Reynolds Ii (Bulls)",
-   "detected_at": "2026-09-04 09:15:50",
-   "source": "GLEAGUE",
-   "type": "Trade"
-  },
-  {
-   "detail": "2026-09-03  Traded: Keyshawn Bryant (Skyhawks)",
-   "detected_at": "2026-09-04 09:15:50",
-   "source": "GLEAGUE",
-   "type": "Trade"
   }
  ],
  "feeds": {
@@ -10187,10 +10189,10 @@
    "last": "2026-09-12 17:09:46"
   },
   "WIKIWATCH": {
-   "count": 113,
-   "last": "2026-09-12 09:06:14"
+   "count": 118,
+   "last": "2026-09-12 18:01:08"
   }
  },
- "generated_at": "2026-09-12T18:01:00",
- "total": 12204
+ "generated_at": "2026-09-12T18:02:00",
+ "total": 12209
 }
