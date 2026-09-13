@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Eli Ndiaye  ~ league: Liga ACB Basketball Champions League -> Liga ACB BCL",
+   "detected_at": "2026-09-12 18:18:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Eli_Ndiaye"
+  },
+  {
    "detail": "Jaime Pradilla  ~ 108752: team -> -",
    "detected_at": "2026-09-12 18:01:08",
    "source": "WIKIWATCH",
@@ -10142,13 +10149,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Olivier_Hanlan"
-  },
-  {
-   "detail": "Olivier Hanlan  ~ league: - -> Basketbol Süper Ligi",
-   "detected_at": "2026-09-04 09:24:15",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Olivier_Hanlan"
   }
  ],
  "feeds": {
@@ -10185,14 +10185,14 @@
    "last": "2026-09-11 14:46:55"
   },
   "WIKI": {
-   "count": 2990,
-   "last": "2026-09-12 17:09:46"
+   "count": 2991,
+   "last": "2026-09-12 18:18:47"
   },
   "WIKIWATCH": {
    "count": 118,
    "last": "2026-09-12 18:01:08"
   }
  },
- "generated_at": "2026-09-12T18:10:01",
- "total": 12209
+ "generated_at": "2026-09-12T18:18:53",
+ "total": 12210
 }
