@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Quinten Post  ~ number: 12 -> 21",
+   "detected_at": "2026-09-12 21:01:48",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Quinten_Post"
+  },
+  {
+   "detail": "Jahmai Mashack  ~ number: 21 -> -",
+   "detected_at": "2026-09-12 21:01:48",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jahmai_Mashack"
+  },
+  {
    "detail": "Mexican LNBP Panteras de Aguascalientes 86, El Calor de Cancun 82",
    "detected_at": "2026-09-12 19:19:57",
    "source": "SCORES",
@@ -10142,20 +10156,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Grant_Jerrett"
-  },
-  {
-   "detail": "Grant Jerrett  ~ number: 34 -> 33",
-   "detected_at": "2026-09-05 07:26:49",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Grant_Jerrett"
-  },
-  {
-   "detail": "Grant Jerrett  ~ CAREER  + 2022–2026 Utsunomiya Brex",
-   "detected_at": "2026-09-05 07:26:49",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Grant_Jerrett"
   }
  ],
  "feeds": {
@@ -10192,14 +10192,14 @@
    "last": "2026-09-11 14:46:55"
   },
   "WIKI": {
-   "count": 2991,
-   "last": "2026-09-12 18:18:47"
+   "count": 2993,
+   "last": "2026-09-12 21:01:48"
   },
   "WIKIWATCH": {
    "count": 118,
    "last": "2026-09-12 18:01:08"
   }
  },
- "generated_at": "2026-09-12T19:51:03",
- "total": 12342
+ "generated_at": "2026-09-12T21:01:52",
+ "total": 12344
 }
