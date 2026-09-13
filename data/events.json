@@ -1,6 +1,930 @@
 {
  "events": [
   {
+   "detail": "Mexican LNBP Panteras de Aguascalientes 86, El Calor de Cancun 82",
+   "detected_at": "2026-09-12 19:19:57",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-11/Panteras-de-Aguascalientes-at-El-Calor-de-Cancun/526610"
+  },
+  {
+   "detail": "Mexican LNBP + Andre Curbelo → Panteras de Aguascalientes",
+   "detected_at": "2026-09-12 19:19:52",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Mexican LNBP + Willie Reed → El Calor de Cancun",
+   "detected_at": "2026-09-12 19:19:52",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Mexican LNBP ~ MOVED Jarell Eddie → El Calor de Cancun (from Vancouver Bandits)",
+   "detected_at": "2026-09-12 19:19:52",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL Kecioren Baglum 82, Royal Hali Gaziantep 68",
+   "detected_at": "2026-09-12 19:19:49",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-12/Royal-Hali-Gaziantep-at-Kecioren-Baglum/528643"
+  },
+  {
+   "detail": "Turkish TBL + Scoochie Smith → Royal Hali Gaziantep",
+   "detected_at": "2026-09-12 19:19:44",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Emre Tanisan → Royal Hali Gaziantep",
+   "detected_at": "2026-09-12 19:19:44",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Mehmet Alemdaroglu → Royal Hali Gaziantep",
+   "detected_at": "2026-09-12 19:19:44",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Ibrahim Yilmaz → Royal Hali Gaziantep",
+   "detected_at": "2026-09-12 19:19:44",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Utku Yucedag → Royal Hali Gaziantep",
+   "detected_at": "2026-09-12 19:19:44",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Emir Adiguzel → Royal Hali Gaziantep",
+   "detected_at": "2026-09-12 19:19:44",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Mert Celep → Royal Hali Gaziantep",
+   "detected_at": "2026-09-12 19:19:44",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Samet Geyik → Royal Hali Gaziantep",
+   "detected_at": "2026-09-12 19:19:44",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Cengiz Sarp Coskun → Royal Hali Gaziantep",
+   "detected_at": "2026-09-12 19:19:44",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Yigitcan Turna → Royal Hali Gaziantep",
+   "detected_at": "2026-09-12 19:19:44",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Eric Buckner → Kecioren Baglum",
+   "detected_at": "2026-09-12 19:19:44",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Kahlil Dukes → Kecioren Baglum",
+   "detected_at": "2026-09-12 19:19:44",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Oguzhan Tosun → Kecioren Baglum",
+   "detected_at": "2026-09-12 19:19:44",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Emir Apaydin → Kecioren Baglum",
+   "detected_at": "2026-09-12 19:19:44",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Efe Sert → Kecioren Baglum",
+   "detected_at": "2026-09-12 19:19:44",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Hazer Avci → Kecioren Baglum",
+   "detected_at": "2026-09-12 19:19:44",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Bora Can Isik → Kecioren Baglum",
+   "detected_at": "2026-09-12 19:19:44",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Zahid Isaoglu → Kecioren Baglum",
+   "detected_at": "2026-09-12 19:19:44",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Mert Can Yilmam → Kecioren Baglum",
+   "detected_at": "2026-09-12 19:19:44",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Arda Birkeser → Kecioren Baglum",
+   "detected_at": "2026-09-12 19:19:44",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Oktay Gunes → Kecioren Baglum",
+   "detected_at": "2026-09-12 19:19:44",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Efe Akayin → Kecioren Baglum",
+   "detected_at": "2026-09-12 19:19:44",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL Harem Spor 113, Ankaragucu Mamak 62",
+   "detected_at": "2026-09-12 19:19:41",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-12/Ankaragucu-Mamak-at-Harem-Spor/528642"
+  },
+  {
+   "detail": "Turkish TBL + Hakan Mazmanoglu → Ankaragucu Mamak",
+   "detected_at": "2026-09-12 19:19:36",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Ibrahim Ahmet Pinarer → Ankaragucu Mamak",
+   "detected_at": "2026-09-12 19:19:36",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Ramazan Tekin → Ankaragucu Mamak",
+   "detected_at": "2026-09-12 19:19:36",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Demir Dagdeviren → Ankaragucu Mamak",
+   "detected_at": "2026-09-12 19:19:36",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Tolga Kay → Ankaragucu Mamak",
+   "detected_at": "2026-09-12 19:19:36",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Batuhan Erdogan → Ankaragucu Mamak",
+   "detected_at": "2026-09-12 19:19:36",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Razaman Cakilci → Ankaragucu Mamak",
+   "detected_at": "2026-09-12 19:19:36",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Hakan Yapar → Harem Spor",
+   "detected_at": "2026-09-12 19:19:36",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Abdoulaye Gueye → Harem Spor",
+   "detected_at": "2026-09-12 19:19:36",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Berke Aygunduz → Harem Spor",
+   "detected_at": "2026-09-12 19:19:36",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Yigit Ozkan → Harem Spor",
+   "detected_at": "2026-09-12 19:19:36",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Sam Sessoms → Harem Spor",
+   "detected_at": "2026-09-12 19:19:36",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Dusan Cantekin → Harem Spor",
+   "detected_at": "2026-09-12 19:19:36",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Metin Turen → Harem Spor",
+   "detected_at": "2026-09-12 19:19:36",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Ege Havsa → Harem Spor",
+   "detected_at": "2026-09-12 19:19:36",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Erkin Senel → Harem Spor",
+   "detected_at": "2026-09-12 19:19:36",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Atakan Sahinkaya → Harem Spor",
+   "detected_at": "2026-09-12 19:19:36",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Ege Ozcelik → Harem Spor",
+   "detected_at": "2026-09-12 19:19:36",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Salih Yaman → Harem Spor",
+   "detected_at": "2026-09-12 19:19:36",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL Goztepe 73, Kahramanmaras Kipas Istiklal 72",
+   "detected_at": "2026-09-12 19:19:34",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-12/Kahramanmaras-Kipas-Istiklal-at-Goztepe/528641"
+  },
+  {
+   "detail": "Turkish TBL + Brandon Jefferson → Kahramanmaras Kipas Istiklal",
+   "detected_at": "2026-09-12 19:19:29",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Batin Tuna → Kahramanmaras Kipas Istiklal",
+   "detected_at": "2026-09-12 19:19:29",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Ike Nweke → Kahramanmaras Kipas Istiklal",
+   "detected_at": "2026-09-12 19:19:29",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Burak Gozeneli → Kahramanmaras Kipas Istiklal",
+   "detected_at": "2026-09-12 19:19:29",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Koray Cekici → Kahramanmaras Kipas Istiklal",
+   "detected_at": "2026-09-12 19:19:29",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Ismet Avsar → Kahramanmaras Kipas Istiklal",
+   "detected_at": "2026-09-12 19:19:29",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Deniz Celen → Kahramanmaras Kipas Istiklal",
+   "detected_at": "2026-09-12 19:19:29",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Cagatay Ozkan → Kahramanmaras Kipas Istiklal",
+   "detected_at": "2026-09-12 19:19:29",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Arda Ozdogan → Kahramanmaras Kipas Istiklal",
+   "detected_at": "2026-09-12 19:19:29",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Huseyin Emir Sevig → Kahramanmaras Kipas Istiklal",
+   "detected_at": "2026-09-12 19:19:29",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Jamari Traylor → Goztepe",
+   "detected_at": "2026-09-12 19:19:29",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Ahmet Duran → Goztepe",
+   "detected_at": "2026-09-12 19:19:29",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Isaiah Washington → Goztepe",
+   "detected_at": "2026-09-12 19:19:29",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Eray Buyukcangaz → Goztepe",
+   "detected_at": "2026-09-12 19:19:29",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Arda Sivas → Goztepe",
+   "detected_at": "2026-09-12 19:19:29",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Murat Can Esen → Goztepe",
+   "detected_at": "2026-09-12 19:19:29",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Berke Atar → Goztepe",
+   "detected_at": "2026-09-12 19:19:29",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Rijad Avdic → Goztepe",
+   "detected_at": "2026-09-12 19:19:29",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Eray Aydogan → Goztepe",
+   "detected_at": "2026-09-12 19:19:29",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Deniz Savut → Goztepe",
+   "detected_at": "2026-09-12 19:19:29",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Kerem Soyucayli → Goztepe",
+   "detected_at": "2026-09-12 19:19:29",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL Torku Konyaspor 75, Cedi Osman Spor Kulubu 59",
+   "detected_at": "2026-09-12 19:19:26",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-12/Torku-Konyaspor-at-Cedi-Osman-Spor-Kulubu/528639"
+  },
+  {
+   "detail": "Turkish TBL + Yigit Coban → Torku Konyaspor",
+   "detected_at": "2026-09-12 19:19:21",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Cengizhan Ivedi → Torku Konyaspor",
+   "detected_at": "2026-09-12 19:19:21",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Jalen Ray → Torku Konyaspor",
+   "detected_at": "2026-09-12 19:19:21",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Enes Bayraktar → Torku Konyaspor",
+   "detected_at": "2026-09-12 19:19:21",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL ~ MOVED Jack Hemphill → Torku Konyaspor (from Montreal Alliance)",
+   "detected_at": "2026-09-12 19:19:21",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Okay Djamgouz Camgoz → Torku Konyaspor",
+   "detected_at": "2026-09-12 19:19:21",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Atakan Erdek → Torku Konyaspor",
+   "detected_at": "2026-09-12 19:19:21",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Omer Kucuk → Torku Konyaspor",
+   "detected_at": "2026-09-12 19:19:21",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Mustafa Yerkazanoglu → Torku Konyaspor",
+   "detected_at": "2026-09-12 19:19:21",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Arda Midye → Torku Konyaspor",
+   "detected_at": "2026-09-12 19:19:21",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Yigit Karalar → Torku Konyaspor",
+   "detected_at": "2026-09-12 19:19:21",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Ali Isik → Cedi Osman Spor Kulubu",
+   "detected_at": "2026-09-12 19:19:21",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Omer Sancakli → Cedi Osman Spor Kulubu",
+   "detected_at": "2026-09-12 19:19:21",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Omercan Engin → Cedi Osman Spor Kulubu",
+   "detected_at": "2026-09-12 19:19:21",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Umut Gecen → Cedi Osman Spor Kulubu",
+   "detected_at": "2026-09-12 19:19:21",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Ahmet Aydin → Cedi Osman Spor Kulubu",
+   "detected_at": "2026-09-12 19:19:21",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Keshun Sherrill → Cedi Osman Spor Kulubu",
+   "detected_at": "2026-09-12 19:19:21",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Can Kurt → Cedi Osman Spor Kulubu",
+   "detected_at": "2026-09-12 19:19:21",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Ata Engin → Cedi Osman Spor Kulubu",
+   "detected_at": "2026-09-12 19:19:21",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL Aykon TED Kolejliler Ankara 88, Darussafaka Basketbol Istanbul 69",
+   "detected_at": "2026-09-12 19:19:19",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-12/Darussafaka-Basketbol-Istanbul-at-Aykon-TED-Kolejliler-Ankara/528636"
+  },
+  {
+   "detail": "Turkish TBL + Ege Akcay → Darussafaka Basketbol Istanbul",
+   "detected_at": "2026-09-12 19:19:14",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Ege Eskinazi → Darussafaka Basketbol Istanbul",
+   "detected_at": "2026-09-12 19:19:14",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Ismail Karabilen → Darussafaka Basketbol Istanbul",
+   "detected_at": "2026-09-12 19:19:14",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Mert Sert → Darussafaka Basketbol Istanbul",
+   "detected_at": "2026-09-12 19:19:14",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + TreVion Crews → Darussafaka Basketbol Istanbul",
+   "detected_at": "2026-09-12 19:19:14",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Ahmet Arda Ene → Darussafaka Basketbol Istanbul",
+   "detected_at": "2026-09-12 19:19:14",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Arda Celik → Darussafaka Basketbol Istanbul",
+   "detected_at": "2026-09-12 19:19:14",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Bahattin Ertas → Darussafaka Basketbol Istanbul",
+   "detected_at": "2026-09-12 19:19:14",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Eren Ilyem → Darussafaka Basketbol Istanbul",
+   "detected_at": "2026-09-12 19:19:14",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Resit Tanriver → Darussafaka Basketbol Istanbul",
+   "detected_at": "2026-09-12 19:19:14",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Mustafa Elgun → Darussafaka Basketbol Istanbul",
+   "detected_at": "2026-09-12 19:19:14",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Ekrem Sancakli → Aykon TED Kolejliler Ankara",
+   "detected_at": "2026-09-12 19:19:14",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Mo Watson → Aykon TED Kolejliler Ankara",
+   "detected_at": "2026-09-12 19:19:14",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Caner Ercan → Aykon TED Kolejliler Ankara",
+   "detected_at": "2026-09-12 19:19:14",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Vitalis Chikoko → Aykon TED Kolejliler Ankara",
+   "detected_at": "2026-09-12 19:19:14",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Tan Ayyildiz → Aykon TED Kolejliler Ankara",
+   "detected_at": "2026-09-12 19:19:14",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Furkan Ayca → Aykon TED Kolejliler Ankara",
+   "detected_at": "2026-09-12 19:19:14",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Berkay Genc → Aykon TED Kolejliler Ankara",
+   "detected_at": "2026-09-12 19:19:14",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Burak Erol → Aykon TED Kolejliler Ankara",
+   "detected_at": "2026-09-12 19:19:14",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Ege Ersun → Aykon TED Kolejliler Ankara",
+   "detected_at": "2026-09-12 19:19:14",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Gokhan Yazicioglu → Aykon TED Kolejliler Ankara",
+   "detected_at": "2026-09-12 19:19:14",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL Sigortamnet iLab Bakiroy 84, Final Spor Genclik 80",
+   "detected_at": "2026-09-12 19:19:11",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-12/Final-Spor-Genclik-at-Sigortamnet-iLab-Bakiroy/528640"
+  },
+  {
+   "detail": "Turkish TBL + Karl Gamble → Final Spor Genclik",
+   "detected_at": "2026-09-12 19:19:06",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Fred Cleveland, Jr. → Final Spor Genclik",
+   "detected_at": "2026-09-12 19:19:06",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Berk Kaya Arda → Final Spor Genclik",
+   "detected_at": "2026-09-12 19:19:06",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Gokay Hacioglu → Final Spor Genclik",
+   "detected_at": "2026-09-12 19:19:06",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Tayfun Erulku → Final Spor Genclik",
+   "detected_at": "2026-09-12 19:19:06",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Ali Taskin → Final Spor Genclik",
+   "detected_at": "2026-09-12 19:19:06",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Can Ozcan → Final Spor Genclik",
+   "detected_at": "2026-09-12 19:19:06",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Ahmet Tunali → Final Spor Genclik",
+   "detected_at": "2026-09-12 19:19:06",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Ali Baris → Final Spor Genclik",
+   "detected_at": "2026-09-12 19:19:06",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Mihat Ozalp → Final Spor Genclik",
+   "detected_at": "2026-09-12 19:19:06",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Cihat Dalgali → Sigortamnet iLab Bakiroy",
+   "detected_at": "2026-09-12 19:19:06",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Batuhan Acar → Sigortamnet iLab Bakiroy",
+   "detected_at": "2026-09-12 19:19:06",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Eray Akyuz → Sigortamnet iLab Bakiroy",
+   "detected_at": "2026-09-12 19:19:06",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Stefan Moody → Sigortamnet iLab Bakiroy",
+   "detected_at": "2026-09-12 19:19:06",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL ~ MOVED Jeremiah Tilmon → Sigortamnet iLab Bakiroy (from Winnipeg Sea Bears)",
+   "detected_at": "2026-09-12 19:19:06",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Murat Kuntker → Sigortamnet iLab Bakiroy",
+   "detected_at": "2026-09-12 19:19:06",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Utku Pelit → Sigortamnet iLab Bakiroy",
+   "detected_at": "2026-09-12 19:19:06",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Aybars Varli → Sigortamnet iLab Bakiroy",
+   "detected_at": "2026-09-12 19:19:06",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Unal Cardak → Sigortamnet iLab Bakiroy",
+   "detected_at": "2026-09-12 19:19:06",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Yucel Cagin Basaran → Sigortamnet iLab Bakiroy",
+   "detected_at": "2026-09-12 19:19:06",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
    "detail": "Eli Ndiaye  ~ league: Liga ACB Basketball Champions League -> Liga ACB BCL",
    "detected_at": "2026-09-12 18:18:47",
    "source": "WIKI",
@@ -9232,923 +10156,6 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Grant_Jerrett"
-  },
-  {
-   "detail": "Grant Jerrett  ~ CAREER  + 2026-present Ryukyu Golden Kings",
-   "detected_at": "2026-09-05 07:26:49",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Grant_Jerrett"
-  },
-  {
-   "detail": "Rade Zagorac  ~ team: Free Agent -> KK Zadar",
-   "detected_at": "2026-09-05 07:26:49",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Rade_Zagorac"
-  },
-  {
-   "detail": "Rade Zagorac  ~ league: - -> ABA League",
-   "detected_at": "2026-09-05 07:26:49",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Rade_Zagorac"
-  },
-  {
-   "detail": "Rade Zagorac  ~ CAREER  + 2026–present KK Zadar",
-   "detected_at": "2026-09-05 07:26:49",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Rade_Zagorac"
-  },
-  {
-   "detail": "Aleksa Radanov  ~ team: Cedevita Olimpija -> Free agent",
-   "detected_at": "2026-09-05 07:26:49",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Aleksa_Radanov"
-  },
-  {
-   "detail": "Aleksa Radanov  ~ league: ABA EuroCup -> -",
-   "detected_at": "2026-09-05 07:26:49",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Aleksa_Radanov"
-  },
-  {
-   "detail": "Brancou Badio  ~ number: 0 -> 7",
-   "detected_at": "2026-09-05 07:26:49",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Brancou_Badio"
-  },
-  {
-   "detail": "Panagiotis Kalaitzakis  ~ number: 5 -> 0",
-   "detected_at": "2026-09-05 07:26:49",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Panagiotis_Kalaitzakis"
-  },
-  {
-   "detail": "2026-08-27  Two-Way Signing: Keshad Johnson (Skyforce)",
-   "detected_at": "2026-09-05 07:19:39",
-   "source": "GLEAGUE",
-   "type": "Two-Way Signing"
-  },
-  {
-   "detail": "2026-09-04  Traded: Trevon Scott (Squadron)",
-   "detected_at": "2026-09-05 07:19:39",
-   "source": "GLEAGUE",
-   "type": "Trade"
-  },
-  {
-   "detail": "2026-09-04  Traded: Isaiah Wong (Nets)",
-   "detected_at": "2026-09-05 07:19:39",
-   "source": "GLEAGUE",
-   "type": "Trade"
-  },
-  {
-   "detail": "2026-09-04  Traded: Adam Flagler (Lakers)",
-   "detected_at": "2026-09-05 07:19:39",
-   "source": "GLEAGUE",
-   "type": "Trade"
-  },
-  {
-   "detail": "2026-09-04  Traded: Rj Davis (Spurs)",
-   "detected_at": "2026-09-05 07:19:39",
-   "source": "GLEAGUE",
-   "type": "Trade"
-  },
-  {
-   "detail": "2026-09-04  Brooklyn Nets signed forward Grant Nelson to a Two-Way Contract.",
-   "detected_at": "2026-09-05 07:19:12",
-   "source": "TRANSACTIONS",
-   "type": "Signing"
-  },
-  {
-   "detail": "Bryce Cotton  ~ team: - -> Adelaide 36ers",
-   "detected_at": "2026-09-04 21:32:23",
-   "source": "WIKIWATCH",
-   "type": "CLUB",
-   "url": "https://en.wikipedia.org/wiki/Bryce_Cotton"
-  },
-  {
-   "detail": "Bryce Cotton  ~ league: - -> NBL",
-   "detected_at": "2026-09-04 21:32:23",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Bryce_Cotton"
-  },
-  {
-   "detail": "Bryce Cotton  ~ position: - -> Point guard",
-   "detected_at": "2026-09-04 21:32:23",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Bryce_Cotton"
-  },
-  {
-   "detail": "Bryce Cotton  ~ number: - -> 11",
-   "detected_at": "2026-09-04 21:32:23",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Bryce_Cotton"
-  },
-  {
-   "detail": "Bryce Cotton  ~ page edited",
-   "detected_at": "2026-09-04 21:32:23",
-   "source": "WIKIWATCH",
-   "type": "PAGE",
-   "url": "https://en.wikipedia.org/wiki/Bryce_Cotton"
-  },
-  {
-   "detail": "Paris Bass  ~ team: Sagesse SC -> Free agent",
-   "detected_at": "2026-09-04 20:44:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Paris_Bass"
-  },
-  {
-   "detail": "Paris Bass  ~ league: Lebanese Basketball League -> -",
-   "detected_at": "2026-09-04 20:44:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Paris_Bass"
-  },
-  {
-   "detail": "Paris Bass  ~ number: 35 -> -",
-   "detected_at": "2026-09-04 20:44:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Paris_Bass"
-  },
-  {
-   "detail": "Paris Bass  ~ CAREER  + 2025–2026 Sagesse Club",
-   "detected_at": "2026-09-04 20:44:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Paris_Bass"
-  },
-  {
-   "detail": "Elena Buenavida  ~ team: Valencia Basket -> Minnesota Lynx",
-   "detected_at": "2026-09-04 20:44:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Elena_Buenavida"
-  },
-  {
-   "detail": "Elena Buenavida  ~ CAREER  + 2024–2025 Lointek Gernika",
-   "detected_at": "2026-09-04 20:44:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Elena_Buenavida"
-  },
-  {
-   "detail": "Elena Buenavida  ~ CAREER  + –present Minnesota Lynx",
-   "detected_at": "2026-09-04 20:44:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Elena_Buenavida"
-  },
-  {
-   "detail": "Grant Nelson (basketball)  ~ team: Long Island Nets -> Brooklyn Nets",
-   "detected_at": "2026-09-04 18:24:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Grant_Nelson_(basketball)"
-  },
-  {
-   "detail": "Grant Nelson (basketball)  ~ league: NBA G League -> NBA",
-   "detected_at": "2026-09-04 18:24:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Grant_Nelson_(basketball)"
-  },
-  {
-   "detail": "Grant Nelson (basketball)  ~ number: 22 -> 16",
-   "detected_at": "2026-09-04 18:24:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Grant_Nelson_(basketball)"
-  },
-  {
-   "detail": "Grant Nelson (basketball)  ~ CAREER  + 2025-2026 Long Island Nets",
-   "detected_at": "2026-09-04 18:24:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Grant_Nelson_(basketball)"
-  },
-  {
-   "detail": "Grant Nelson (basketball)  ~ CAREER  + –present Brooklyn Nets",
-   "detected_at": "2026-09-04 18:24:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Grant_Nelson_(basketball)"
-  },
-  {
-   "detail": "Grant Nelson (basketball)  ~ CAREER  + 2026–present →Long Island Nets",
-   "detected_at": "2026-09-04 18:24:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Grant_Nelson_(basketball)"
-  },
-  {
-   "detail": "John Butler Jr.  ~ team: Wisconsin Herd -> Milwaukee Bucks",
-   "detected_at": "2026-09-04 18:24:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/John_Butler_Jr."
-  },
-  {
-   "detail": "John Butler Jr.  ~ league: NBA G League -> NBA",
-   "detected_at": "2026-09-04 18:24:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/John_Butler_Jr."
-  },
-  {
-   "detail": "John Butler Jr.  ~ number: 13 -> -",
-   "detected_at": "2026-09-04 18:24:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/John_Butler_Jr."
-  },
-  {
-   "detail": "John Butler Jr.  ~ CAREER  + 2025–2026 Wisconsin Herd",
-   "detected_at": "2026-09-04 18:24:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/John_Butler_Jr."
-  },
-  {
-   "detail": "John Butler Jr.  ~ CAREER  + –present Milwaukee Bucks",
-   "detected_at": "2026-09-04 18:24:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/John_Butler_Jr."
-  },
-  {
-   "detail": "Markel Brown  ~ team: Pallacanestro Trieste -> Napoli Basket",
-   "detected_at": "2026-09-04 15:43:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Markel_Brown"
-  },
-  {
-   "detail": "Markel Brown  ~ number: 22 -> -",
-   "detected_at": "2026-09-04 15:43:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Markel_Brown"
-  },
-  {
-   "detail": "Markel Brown  ~ CAREER  + 2024–2026 Pallacanestro Trieste",
-   "detected_at": "2026-09-04 15:43:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Markel_Brown"
-  },
-  {
-   "detail": "Markel Brown  ~ CAREER  + 2026–present Napoli Basket",
-   "detected_at": "2026-09-04 15:43:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Markel_Brown"
-  },
-  {
-   "detail": "Bruno Caboclo  ~ team: Free agent -> Hapoel Tel Aviv",
-   "detected_at": "2026-09-04 15:20:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Bruno_Caboclo"
-  },
-  {
-   "detail": "Bruno Caboclo  ~ league: - -> Israeli Basketball Premier League EuroLeague",
-   "detected_at": "2026-09-04 15:20:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Bruno_Caboclo"
-  },
-  {
-   "detail": "Bruno Caboclo  ~ number: - -> 51",
-   "detected_at": "2026-09-04 15:20:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Bruno_Caboclo"
-  },
-  {
-   "detail": "Bruno Caboclo  ~ CAREER  + 2026–present Hapoel Tel Aviv",
-   "detected_at": "2026-09-04 15:20:46",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Bruno_Caboclo"
-  },
-  {
-   "detail": "+ ADDED   John Butler Jr. (MIL)",
-   "detected_at": "2026-09-04 14:14:55",
-   "source": "PLAYERS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "Isaiah Canaan  ~ number: - -> 0",
-   "detected_at": "2026-09-04 13:01:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Isaiah_Canaan"
-  },
-  {
-   "detail": "Steven Enoch  ~ team: Mersin MSK -> Karşıyaka Basket",
-   "detected_at": "2026-09-04 13:01:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Steven_Enoch"
-  },
-  {
-   "detail": "Steven Enoch  ~ number: 23 -> -",
-   "detected_at": "2026-09-04 13:01:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Steven_Enoch"
-  },
-  {
-   "detail": "Steven Enoch  ~ CAREER  + 2026 Mersin MSK",
-   "detected_at": "2026-09-04 13:01:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Steven_Enoch"
-  },
-  {
-   "detail": "Steven Enoch  ~ CAREER  + 2026–present Karşıyaka Basket",
-   "detected_at": "2026-09-04 13:01:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Steven_Enoch"
-  },
-  {
-   "detail": "Mindaugas Kačinas  ~ team: Energa Trefl Sopot -> Free Agent",
-   "detected_at": "2026-09-04 12:38:49",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Mindaugas_Ka%C4%8Dinas"
-  },
-  {
-   "detail": "Mindaugas Kačinas  ~ league: PLK -> -",
-   "detected_at": "2026-09-04 12:38:49",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Mindaugas_Ka%C4%8Dinas"
-  },
-  {
-   "detail": "Mindaugas Kačinas  ~ number: 13 -> -",
-   "detected_at": "2026-09-04 12:38:49",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Mindaugas_Ka%C4%8Dinas"
-  },
-  {
-   "detail": "Mindaugas Kačinas  ~ CAREER  + 2025–2026 Trefl Sopot",
-   "detected_at": "2026-09-04 12:38:49",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Mindaugas_Ka%C4%8Dinas"
-  },
-  {
-   "detail": "Grant Sherfield  ~ team: Energa Trefl Sopot -> Free Agent",
-   "detected_at": "2026-09-04 12:38:49",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Grant_Sherfield"
-  },
-  {
-   "detail": "Grant Sherfield  ~ league: PLK -> -",
-   "detected_at": "2026-09-04 12:38:49",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Grant_Sherfield"
-  },
-  {
-   "detail": "Grant Sherfield  ~ number: 2 -> -",
-   "detected_at": "2026-09-04 12:38:49",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Grant_Sherfield"
-  },
-  {
-   "detail": "Grant Sherfield  ~ CAREER  + 2026 Trefl Sopot",
-   "detected_at": "2026-09-04 12:38:49",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Grant_Sherfield"
-  },
-  {
-   "detail": "James Webb III  ~ number: - -> 9",
-   "detected_at": "2026-09-04 11:29:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/James_Webb_III"
-  },
-  {
-   "detail": "Errick McCollum  ~ number: - -> 3",
-   "detected_at": "2026-09-04 11:29:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Errick_McCollum"
-  },
-  {
-   "detail": "Jordan Usher  ~ number: - -> 8",
-   "detected_at": "2026-09-04 11:29:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jordan_Usher"
-  },
-  {
-   "detail": "Yunus Emre Sonsırma  ~ number: - -> 19",
-   "detected_at": "2026-09-04 11:29:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Yunus_Emre_Sons%C4%B1rma"
-  },
-  {
-   "detail": "Kevin Yebo  ~ number: - -> 10",
-   "detected_at": "2026-09-04 11:29:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Kevin_Yebo"
-  },
-  {
-   "detail": "Dallas Moore  ~ number: - -> 14",
-   "detected_at": "2026-09-04 11:29:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Dallas_Moore"
-  },
-  {
-   "detail": "Lorenzo Brown  ~ team: Olimpia Milano -> Free agent",
-   "detected_at": "2026-09-04 11:06:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Lorenzo_Brown"
-  },
-  {
-   "detail": "Lorenzo Brown  ~ league: LBA EuroLeague -> -",
-   "detected_at": "2026-09-04 11:06:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Lorenzo_Brown"
-  },
-  {
-   "detail": "Lorenzo Brown  ~ number: 2 -> -",
-   "detected_at": "2026-09-04 11:06:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Lorenzo_Brown"
-  },
-  {
-   "detail": "Lorenzo Brown  ~ CAREER  + 2025–2026 Olimpia Milano",
-   "detected_at": "2026-09-04 11:06:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Lorenzo_Brown"
-  },
-  {
-   "detail": "Jonathan Kuminga  ~ number: 24 -> 00",
-   "detected_at": "2026-09-04 09:47:49",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jonathan_Kuminga"
-  },
-  {
-   "detail": "Will Clyburn  ~ number: 12 -> 21",
-   "detected_at": "2026-09-04 09:35:30",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Will_Clyburn"
-  },
-  {
-   "detail": "Jaylen Hoard  ~ team: - -> Maccabi Tel Aviv",
-   "detected_at": "2026-09-04 09:35:30",
-   "source": "WIKIWATCH",
-   "type": "CLUB",
-   "url": "https://en.wikipedia.org/wiki/Jaylen_Hoard"
-  },
-  {
-   "detail": "Jaylen Hoard  ~ league: - -> Israeli Basketball Premier League EuroLeague",
-   "detected_at": "2026-09-04 09:35:30",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Jaylen_Hoard"
-  },
-  {
-   "detail": "Jaylen Hoard  ~ position: - -> Power forward / small forward",
-   "detected_at": "2026-09-04 09:35:30",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Jaylen_Hoard"
-  },
-  {
-   "detail": "Jaylen Hoard  ~ number: - -> 1",
-   "detected_at": "2026-09-04 09:35:30",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Jaylen_Hoard"
-  },
-  {
-   "detail": "Jaylen Hoard  ~ page edited",
-   "detected_at": "2026-09-04 09:35:30",
-   "source": "WIKIWATCH",
-   "type": "PAGE",
-   "url": "https://en.wikipedia.org/wiki/Jaylen_Hoard"
-  },
-  {
-   "detail": "Malachi Flynn  ~ team: - -> Bahçeşehir Koleji",
-   "detected_at": "2026-09-04 09:35:30",
-   "source": "WIKIWATCH",
-   "type": "CLUB",
-   "url": "https://en.wikipedia.org/wiki/Malachi_Flynn"
-  },
-  {
-   "detail": "Malachi Flynn  ~ league: - -> Basketbol Süper Ligi",
-   "detected_at": "2026-09-04 09:35:30",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Malachi_Flynn"
-  },
-  {
-   "detail": "Malachi Flynn  ~ position: - -> Point guard",
-   "detected_at": "2026-09-04 09:35:30",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Malachi_Flynn"
-  },
-  {
-   "detail": "Malachi Flynn  ~ number: - -> 22",
-   "detected_at": "2026-09-04 09:35:30",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Malachi_Flynn"
-  },
-  {
-   "detail": "Malachi Flynn  ~ page edited",
-   "detected_at": "2026-09-04 09:35:30",
-   "source": "WIKIWATCH",
-   "type": "PAGE",
-   "url": "https://en.wikipedia.org/wiki/Malachi_Flynn"
-  },
-  {
-   "detail": "NBL Blitz Melbourne 97, Perth 82",
-   "detected_at": "2026-09-04 09:24:31",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-04/Melbourne-at-Perth/524198"
-  },
-  {
-   "detail": "NBL Blitz + Chris Goulding → Melbourne",
-   "detected_at": "2026-09-04 09:24:27",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "NBL Blitz + Shea Ili → Melbourne",
-   "detected_at": "2026-09-04 09:24:27",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "NBL Blitz + Sam Waardenburg → Melbourne",
-   "detected_at": "2026-09-04 09:24:27",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "NBL Blitz + Josh Oduro → Melbourne",
-   "detected_at": "2026-09-04 09:24:27",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "NBL Blitz + Luke Travers → Melbourne",
-   "detected_at": "2026-09-04 09:24:27",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "NBL Blitz + Kyle Bowen → Melbourne",
-   "detected_at": "2026-09-04 09:24:27",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "NBL Blitz + Fabijan Krslovic → Melbourne",
-   "detected_at": "2026-09-04 09:24:27",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "NBL Blitz + Christian Dangelo → Melbourne",
-   "detected_at": "2026-09-04 09:24:27",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "NBL Blitz + Jensen Bradtke → Melbourne",
-   "detected_at": "2026-09-04 09:24:27",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "NBL Blitz + Malith Machar → Melbourne",
-   "detected_at": "2026-09-04 09:24:27",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "NBL Blitz + Tom Wilson → Melbourne",
-   "detected_at": "2026-09-04 09:24:27",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Australian NBL Sydney 95, New Zealand 74",
-   "detected_at": "2026-09-04 09:24:25",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-04/Sydney-at-New-Zealand/524197"
-  },
-  {
-   "detail": "Australian NBL + Matt Dellavedova → Sydney",
-   "detected_at": "2026-09-04 09:24:21",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Australian NBL + Torrey Craig → Sydney",
-   "detected_at": "2026-09-04 09:24:21",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Australian NBL + Dejan Vasiljevic → New Zealand",
-   "detected_at": "2026-09-04 09:24:21",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Australian NBL + Parker Jackson-Cartwright → New Zealand",
-   "detected_at": "2026-09-04 09:24:21",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Australian NBL ~ MOVED Reuben Te Rangi → New Zealand (from Whai)",
-   "detected_at": "2026-09-04 09:24:21",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
-  },
-  {
-   "detail": "Australian NBL ~ MOVED Charles Bediako → New Zealand (from Scarborough Shooting Stars)",
-   "detected_at": "2026-09-04 09:24:21",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
-  },
-  {
-   "detail": "Australian NBL + Josiah James → New Zealand",
-   "detected_at": "2026-09-04 09:24:21",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Australian NBL ~ MOVED Anzac Rissetto → New Zealand (from Whai)",
-   "detected_at": "2026-09-04 09:24:21",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
-  },
-  {
-   "detail": "Australian NBL ~ MOVED Carlin Davison → New Zealand (from Wellington Saints)",
-   "detected_at": "2026-09-04 09:24:21",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
-  },
-  {
-   "detail": "Australian NBL + Preston Le Gassick → New Zealand",
-   "detected_at": "2026-09-04 09:24:21",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Australian NBL ~ MOVED Kael Robinson → New Zealand (from Franklin Bulls)",
-   "detected_at": "2026-09-04 09:24:21",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
-  },
-  {
-   "detail": "Jabari Bird  ~ team: Oberá Tenis Club -> Johor Southern Tigers",
-   "detected_at": "2026-09-04 09:24:15",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jabari_Bird"
-  },
-  {
-   "detail": "Jabari Bird  ~ league: La Liga Argentina de Básquet -> Major Basketball League",
-   "detected_at": "2026-09-04 09:24:15",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jabari_Bird"
-  },
-  {
-   "detail": "Jabari Bird  ~ CAREER  + 2026 Oberá Tenis Club",
-   "detected_at": "2026-09-04 09:24:15",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Jabari_Bird"
-  },
-  {
-   "detail": "Jabari Bird  ~ CAREER  + 2026-2027 Johor Southern Tigers",
-   "detected_at": "2026-09-04 09:24:15",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Jabari_Bird"
-  },
-  {
-   "detail": "James Harden  ~ team: Free agent -> Cleveland Cavaliers",
-   "detected_at": "2026-09-04 09:24:15",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/James_Harden"
-  },
-  {
-   "detail": "James Harden  ~ CAREER  + –present Cleveland Cavaliers",
-   "detected_at": "2026-09-04 09:24:15",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/James_Harden"
-  },
-  {
-   "detail": "Ben Simmons  ~ position: Point guard / power forward -> Point guard",
-   "detected_at": "2026-09-04 09:24:15",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Ben_Simmons"
-  },
-  {
-   "detail": "Braxton Key  ~ number: - -> 12",
-   "detected_at": "2026-09-04 09:24:15",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Braxton_Key"
-  },
-  {
-   "detail": "Sekou Doumbouya  ~ league: Liga ACB -> Liga ACB EuroCup",
-   "detected_at": "2026-09-04 09:24:15",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Sekou_Doumbouya"
-  },
-  {
-   "detail": "Jonathan Kuminga  ~ number: 00 -> 24",
-   "detected_at": "2026-09-04 09:24:15",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jonathan_Kuminga"
-  },
-  {
-   "detail": "Yuri Collins  ~ team: Ironi Ness Ziona -> Memphis Hustle",
-   "detected_at": "2026-09-04 09:24:15",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Yuri_Collins"
-  },
-  {
-   "detail": "Yuri Collins  ~ league: Israeli Basketball Premier League -> NBA G League",
-   "detected_at": "2026-09-04 09:24:15",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Yuri_Collins"
-  },
-  {
-   "detail": "Yuri Collins  ~ number: 1 -> 99",
-   "detected_at": "2026-09-04 09:24:15",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Yuri_Collins"
-  },
-  {
-   "detail": "Yuri Collins  ~ CAREER  + 2025 Long Island Nets",
-   "detected_at": "2026-09-04 09:24:15",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Yuri_Collins"
-  },
-  {
-   "detail": "Yuri Collins  ~ CAREER  + 2025–2026 Ironi Ness Ziona",
-   "detected_at": "2026-09-04 09:24:15",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Yuri_Collins"
-  },
-  {
-   "detail": "Yuri Collins  ~ CAREER  + 2026–present Memphis Hustle",
-   "detected_at": "2026-09-04 09:24:15",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Yuri_Collins"
-  },
-  {
-   "detail": "Johnny Juzang  ~ number: - -> 9",
-   "detected_at": "2026-09-04 09:24:15",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Johnny_Juzang"
-  },
-  {
-   "detail": "Lorenzo Brown  ~ team: Free agent -> Olimpia Milano",
-   "detected_at": "2026-09-04 09:24:15",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Lorenzo_Brown"
-  },
-  {
-   "detail": "Lorenzo Brown  ~ league: - -> LBA EuroLeague",
-   "detected_at": "2026-09-04 09:24:15",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Lorenzo_Brown"
-  },
-  {
-   "detail": "Lorenzo Brown  ~ number: - -> 2",
-   "detected_at": "2026-09-04 09:24:15",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Lorenzo_Brown"
-  },
-  {
-   "detail": "Lorenzo Brown  ~ CAREER  + 2025–present Olimpia Milano",
-   "detected_at": "2026-09-04 09:24:15",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Lorenzo_Brown"
-  },
-  {
-   "detail": "Jaylen Hoard  ~ position: Power forward -> Power forward / small forward",
-   "detected_at": "2026-09-04 09:24:15",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jaylen_Hoard"
-  },
-  {
-   "detail": "Will Clyburn  ~ number: 12 -> 21",
-   "detected_at": "2026-09-04 09:24:15",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Will_Clyburn"
-  },
-  {
-   "detail": "Berk Demir  ~ number: - -> 11",
-   "detected_at": "2026-09-04 09:24:15",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Berk_Demir"
-  },
-  {
-   "detail": "Erten Gazi  ~ number: - -> 11",
-   "detected_at": "2026-09-04 09:24:15",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Erten_Gazi"
-  },
-  {
-   "detail": "Gantas Križanauskas  ~ CAREER  + 2023–2026 Rytas Vilnius",
-   "detected_at": "2026-09-04 09:24:15",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Gantas_Kri%C5%BEanauskas"
-  },
-  {
-   "detail": "Olivier Hanlan  ~ team: Free agent -> Petkim Spor",
-   "detected_at": "2026-09-04 09:24:15",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Olivier_Hanlan"
   }
  ],
  "feeds": {
@@ -10169,12 +10176,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 400,
-   "last": "2026-09-11 22:22:08"
+   "count": 525,
+   "last": "2026-09-12 19:19:52"
   },
   "SCORES": {
-   "count": 500,
-   "last": "2026-09-11 22:22:38"
+   "count": 507,
+   "last": "2026-09-12 19:19:57"
   },
   "SHEETS": {
    "count": 3756,
@@ -10193,6 +10200,6 @@
    "last": "2026-09-12 18:01:08"
   }
  },
- "generated_at": "2026-09-12T19:18:02",
- "total": 12210
+ "generated_at": "2026-09-12T19:20:00",
+ "total": 12342
 }
