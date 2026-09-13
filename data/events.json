@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "+ ADDED   Christian Shumate (NOP)",
+   "detected_at": "2026-09-13 09:32:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
    "detail": "Marc García (basketball)  ~ team: Górnik Wałbrzych -> Free Agent",
    "detected_at": "2026-09-13 09:22:48",
    "source": "WIKI",
@@ -10151,13 +10157,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "NBL Blitz + Lat Mayen → Brisbane",
-   "detected_at": "2026-09-05 16:44:05",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10170,8 +10169,8 @@
    "last": "2026-09-12 08:58:24"
   },
   "PLAYERS": {
-   "count": 767,
-   "last": "2026-09-11 15:30:55"
+   "count": 768,
+   "last": "2026-09-13 09:32:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10202,6 +10201,6 @@
    "last": "2026-09-12 18:01:08"
   }
  },
- "generated_at": "2026-09-13T09:32:03",
- "total": 12394
+ "generated_at": "2026-09-13T09:33:00",
+ "total": 12395
 }
