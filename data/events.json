@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Rade Zagorac  ~ team: Zadar -> Free Agent",
+   "detected_at": "2026-09-13 08:34:28",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Rade_Zagorac"
+  },
+  {
+   "detail": "Rade Zagorac  ~ league: ABA League -> -",
+   "detected_at": "2026-09-13 08:34:28",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Rade_Zagorac"
+  },
+  {
+   "detail": "Rade Zagorac  ~ position: Power forward / small forward -> Small forward / power forward",
+   "detected_at": "2026-09-13 08:34:28",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Rade_Zagorac"
+  },
+  {
    "detail": "Zach Lofton  ~ team: AlAhli Aleppo -> Al Riyadi Club Beirut",
    "detected_at": "2026-09-13 08:08:57",
    "source": "WIKI",
@@ -10137,27 +10158,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Ken_Brown_(basketball)"
-  },
-  {
-   "detail": "Johnny O'Bryant III  ~ team: Anyang Jung Kwan Jang Red Boosters -> Goyang Sono Skygunners",
-   "detected_at": "2026-09-05 09:35:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Johnny_O'Bryant_III"
-  },
-  {
-   "detail": "Tyrese Martin  ~ number: - -> 2",
-   "detected_at": "2026-09-05 08:35:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Tyrese_Martin"
-  },
-  {
-   "detail": "Tosan Evbuomwan  ~ number: - -> 20",
-   "detected_at": "2026-09-05 08:35:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Tosan_Evbuomwan"
   }
  ],
  "feeds": {
@@ -10194,14 +10194,14 @@
    "last": "2026-09-11 14:46:55"
   },
   "WIKI": {
-   "count": 3024,
-   "last": "2026-09-13 08:08:57"
+   "count": 3027,
+   "last": "2026-09-13 08:34:28"
   },
   "WIKIWATCH": {
    "count": 118,
    "last": "2026-09-12 18:01:08"
   }
  },
- "generated_at": "2026-09-13T08:23:01",
- "total": 12375
+ "generated_at": "2026-09-13T08:34:29",
+ "total": 12378
 }
