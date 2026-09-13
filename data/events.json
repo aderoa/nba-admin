@@ -1,6 +1,83 @@
 {
  "events": [
   {
+   "detail": "Jordan Hall (basketball)  ~ team: Dąbrowa Górnicza -> MKS Dąbrowa Górnicza",
+   "detected_at": "2026-09-13 09:45:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jordan_Hall_(basketball)"
+  },
+  {
+   "detail": "Jordan Hall (basketball)  ~ league: Polish Basketball League -> PLK",
+   "detected_at": "2026-09-13 09:45:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jordan_Hall_(basketball)"
+  },
+  {
+   "detail": "Jordan Hall (basketball)  ~ number: - -> 17",
+   "detected_at": "2026-09-13 09:45:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jordan_Hall_(basketball)"
+  },
+  {
+   "detail": "Adrian Bogucki  ~ team: MKS Dąbrowa Górnicza -> Free Agent",
+   "detected_at": "2026-09-13 09:45:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Adrian_Bogucki"
+  },
+  {
+   "detail": "Adrian Bogucki  ~ league: PLK -> -",
+   "detected_at": "2026-09-13 09:45:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Adrian_Bogucki"
+  },
+  {
+   "detail": "Adrian Bogucki  ~ number: 32 -> -",
+   "detected_at": "2026-09-13 09:45:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Adrian_Bogucki"
+  },
+  {
+   "detail": "Adrian Bogucki  ~ CAREER  + 2025–2026 MKS Dąbrowa Górnicza",
+   "detected_at": "2026-09-13 09:45:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Adrian_Bogucki"
+  },
+  {
+   "detail": "Kyle Lofton  ~ team: EWE Baskets Oldenburg -> MKS Dąbrowa Górnicza",
+   "detected_at": "2026-09-13 09:45:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kyle_Lofton"
+  },
+  {
+   "detail": "Kyle Lofton  ~ league: Basketball Bundesliga -> PLK",
+   "detected_at": "2026-09-13 09:45:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kyle_Lofton"
+  },
+  {
+   "detail": "Kyle Lofton  ~ CAREER  + 2025–2026 EWE Baskets Oldenburg",
+   "detected_at": "2026-09-13 09:45:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Kyle_Lofton"
+  },
+  {
+   "detail": "Kyle Lofton  ~ CAREER  + 2026–present MKS Dąbrowa Górnicza",
+   "detected_at": "2026-09-13 09:45:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Kyle_Lofton"
+  },
+  {
    "detail": "+ ADDED   Christian Shumate (NOP)",
    "detected_at": "2026-09-13 09:32:54",
    "source": "PLAYERS",
@@ -10080,83 +10157,6 @@
    "source": "WIKIWATCH",
    "type": "CLUB",
    "url": "https://en.wikipedia.org/wiki/Tornike_Shengelia"
-  },
-  {
-   "detail": "Tornike Shengelia  ~ league: - -> ABA League EuroLeague",
-   "detected_at": "2026-09-05 19:51:10",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Tornike_Shengelia"
-  },
-  {
-   "detail": "Tornike Shengelia  ~ position: - -> Power forward",
-   "detected_at": "2026-09-05 19:51:10",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Tornike_Shengelia"
-  },
-  {
-   "detail": "Tornike Shengelia  ~ number: - -> 23",
-   "detected_at": "2026-09-05 19:51:10",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "https://en.wikipedia.org/wiki/Tornike_Shengelia"
-  },
-  {
-   "detail": "Tornike Shengelia  ~ page edited",
-   "detected_at": "2026-09-05 19:51:10",
-   "source": "WIKIWATCH",
-   "type": "PAGE",
-   "url": "https://en.wikipedia.org/wiki/Tornike_Shengelia"
-  },
-  {
-   "detail": "NBL Blitz Adelaide 112, Cairns 86",
-   "detected_at": "2026-09-05 17:49:54",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-05/Cairns-at-Adelaide/524200"
-  },
-  {
-   "detail": "NBL Blitz + Malique Lewis → Cairns",
-   "detected_at": "2026-09-05 17:49:50",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "NBL Blitz + Jaylon Brown → Cairns",
-   "detected_at": "2026-09-05 17:49:50",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "NBL Blitz + Sunday Dech → Cairns",
-   "detected_at": "2026-09-05 17:49:50",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Mike Conley Jr.  ~ number: 44 -> 45",
-   "detected_at": "2026-09-05 17:26:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Mike_Conley_Jr."
-  },
-  {
-   "detail": "NBL Blitz South East Melbourne 113, Brisbane 105",
-   "detected_at": "2026-09-05 16:44:08",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-05/Brisbane-at-South-East-Melbourne/524199"
-  },
-  {
-   "detail": "NBL Blitz + Jacob Holt → Brisbane",
-   "detected_at": "2026-09-05 16:44:05",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10193,14 +10193,14 @@
    "last": "2026-09-11 14:46:55"
   },
   "WIKI": {
-   "count": 3043,
-   "last": "2026-09-13 09:22:48"
+   "count": 3054,
+   "last": "2026-09-13 09:45:47"
   },
   "WIKIWATCH": {
    "count": 118,
    "last": "2026-09-12 18:01:08"
   }
  },
- "generated_at": "2026-09-13T09:37:01",
- "total": 12395
+ "generated_at": "2026-09-13T09:45:48",
+ "total": 12406
 }
