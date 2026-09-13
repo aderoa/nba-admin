@@ -1,6 +1,41 @@
 {
  "events": [
   {
+   "detail": "Elias Lasisi  ~ number: - -> 3",
+   "detected_at": "2026-09-13 15:26:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Elias_Lasisi"
+  },
+  {
+   "detail": "Wen Mukubu  ~ team: Free Agent -> Filou Oostende",
+   "detected_at": "2026-09-13 15:26:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Wen_Mukubu"
+  },
+  {
+   "detail": "Wen Mukubu  ~ league: - -> BNXT League",
+   "detected_at": "2026-09-13 15:26:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Wen_Mukubu"
+  },
+  {
+   "detail": "Wen Mukubu  ~ position: Forward -> Assistant coach",
+   "detected_at": "2026-09-13 15:26:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Wen_Mukubu"
+  },
+  {
+   "detail": "Wen Mukubu  ~ career_end: - -> 2026",
+   "detected_at": "2026-09-13 15:26:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Wen_Mukubu"
+  },
+  {
    "detail": "Sagaba Konate  ~ team: Zastal Zielona Góra -> Free Agent",
    "detected_at": "2026-09-13 15:03:45",
    "source": "WIKI",
@@ -10122,41 +10157,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Artem_Pustovyi"
-  },
-  {
-   "detail": "Leon Radošević  ~ number: - -> 43",
-   "detected_at": "2026-09-06 10:47:58",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Leon_Rado%C5%A1evi%C4%87"
-  },
-  {
-   "detail": "Tarik Biberović  ~ number: 13 -> -",
-   "detected_at": "2026-09-06 10:47:58",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Tarik_Biberovi%C4%87"
-  },
-  {
-   "detail": "Max Heidegger  ~ team: San Pablo Burgos -> Hapoel Tel Aviv",
-   "detected_at": "2026-09-06 10:47:58",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Max_Heidegger"
-  },
-  {
-   "detail": "Max Heidegger  ~ league: Liga ACB -> Ligat HaAl EuroLeague",
-   "detected_at": "2026-09-06 10:47:58",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Max_Heidegger"
-  },
-  {
-   "detail": "Max Heidegger  ~ CAREER  + 2026 San Pablo Burgos",
-   "detected_at": "2026-09-06 10:47:58",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Max_Heidegger"
   }
  ],
  "feeds": {
@@ -10193,14 +10193,14 @@
    "last": "2026-09-11 14:46:55"
   },
   "WIKI": {
-   "count": 3069,
-   "last": "2026-09-13 15:03:45"
+   "count": 3074,
+   "last": "2026-09-13 15:26:46"
   },
   "WIKIWATCH": {
    "count": 118,
    "last": "2026-09-12 18:01:08"
   }
  },
- "generated_at": "2026-09-13T15:18:02",
- "total": 12421
+ "generated_at": "2026-09-13T15:26:47",
+ "total": 12426
 }
