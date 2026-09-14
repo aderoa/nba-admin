@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "~ CHANGED M.J. Iraldi  school: Nova Southeastern  -> Nova Southeastern",
+   "detected_at": "2026-09-14 14:33:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "Kawhi Leonard  ~ CAREER  + - Los Angeles Clippers",
    "detected_at": "2026-09-14 14:09:47",
    "source": "WIKI",
@@ -10210,13 +10216,6 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Cat_Barber"
-  },
-  {
-   "detail": "Ben Simmons  ~ team: Free agent -> Sacramento Kings",
-   "detected_at": "2026-09-08 07:58:48",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Ben_Simmons"
   }
  ],
  "feeds": {
@@ -10229,8 +10228,8 @@
    "last": "2026-09-12 08:58:24"
   },
   "PLAYERS": {
-   "count": 777,
-   "last": "2026-09-14 13:47:54"
+   "count": 778,
+   "last": "2026-09-14 14:33:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10261,6 +10260,6 @@
    "last": "2026-09-13 19:06:54"
   }
  },
- "generated_at": "2026-09-14T14:32:47",
- "total": 12770
+ "generated_at": "2026-09-14T14:34:11",
+ "total": 12771
 }
