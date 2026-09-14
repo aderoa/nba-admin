@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Alex Len  ~ number: 27 -> -",
+   "detected_at": "2026-09-14 12:33:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Alex_Len"
+  },
+  {
+   "detail": "Taj Gibson  ~ team: Free agent -> Chicago Bulls",
+   "detected_at": "2026-09-14 12:33:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Taj_Gibson"
+  },
+  {
+   "detail": "Taj Gibson  ~ league: - -> NBA",
+   "detected_at": "2026-09-14 12:33:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Taj_Gibson"
+  },
+  {
    "detail": "Kawhi Leonard  ~ team: Los Angeles Clippers -> Toronto Raptors",
    "detected_at": "2026-09-14 12:10:46",
    "source": "WIKI",
@@ -10205,27 +10226,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Boris_Dallo"
-  },
-  {
-   "detail": "Boris Dallo  ~ league: LEB Oro -> Syrian Basketball League",
-   "detected_at": "2026-09-08 07:58:48",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Boris_Dallo"
-  },
-  {
-   "detail": "Boris Dallo  ~ number: 77 -> -",
-   "detected_at": "2026-09-08 07:58:48",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Boris_Dallo"
-  },
-  {
-   "detail": "Boris Dallo  ~ CAREER  + 2018–2019 Aris",
-   "detected_at": "2026-09-08 07:58:48",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Boris_Dallo"
   }
  ],
  "feeds": {
@@ -10262,14 +10262,14 @@
    "last": "2026-09-11 14:46:55"
   },
   "WIKI": {
-   "count": 3162,
-   "last": "2026-09-14 12:10:46"
+   "count": 3165,
+   "last": "2026-09-14 12:33:46"
   },
   "WIKIWATCH": {
    "count": 132,
    "last": "2026-09-13 19:06:54"
   }
  },
- "generated_at": "2026-09-14T12:25:01",
- "total": 12746
+ "generated_at": "2026-09-14T12:33:47",
+ "total": 12749
 }
