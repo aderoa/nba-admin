@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "+ ADDED   Cristoph Tilly (OKC)",
+   "detected_at": "2026-09-14 16:39:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
    "detail": "- REMOVED Cristoph Tilly (OKC)",
    "detected_at": "2026-09-14 16:38:54",
    "source": "PLAYERS",
@@ -10211,12 +10217,6 @@
    "detected_at": "2026-09-08 07:59:58",
    "source": "SHEETS",
    "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Malaki Branham Orlando Magic",
-   "detected_at": "2026-09-08 07:59:56",
-   "source": "DOCS",
-   "type": "ADDED"
   }
  ],
  "feeds": {
@@ -10229,8 +10229,8 @@
    "last": "2026-09-12 08:58:24"
   },
   "PLAYERS": {
-   "count": 780,
-   "last": "2026-09-14 16:38:54"
+   "count": 781,
+   "last": "2026-09-14 16:39:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10261,6 +10261,6 @@
    "last": "2026-09-13 19:06:54"
   }
  },
- "generated_at": "2026-09-14T16:39:02",
- "total": 12777
+ "generated_at": "2026-09-14T16:40:00",
+ "total": 12778
 }
