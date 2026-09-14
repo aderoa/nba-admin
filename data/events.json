@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Brandon Ingram  ~ number: - -> 14",
+   "detected_at": "2026-09-14 13:46:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Brandon_Ingram"
+  },
+  {
+   "detail": "T. J. Shorts  ~ nationality: American / Macedonian -> -",
+   "detected_at": "2026-09-14 13:46:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/T._J._Shorts"
+  },
+  {
    "detail": "+ ADDED   Wade Taylor IV (IND)",
    "detected_at": "2026-09-14 13:37:54",
    "source": "PLAYERS",
@@ -10204,20 +10218,6 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Ben_Simmons"
-  },
-  {
-   "detail": "AJ Johnson (basketball)  ~ team: Memphis Grizzlies -> New Orleans Pelicans",
-   "detected_at": "2026-09-08 07:58:48",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/AJ_Johnson_(basketball)"
-  },
-  {
-   "detail": "AJ Johnson (basketball)  ~ CAREER  + –present Memphis Grizzlies --> New Orleans Pelicans",
-   "detected_at": "2026-09-08 07:58:48",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/AJ_Johnson_(basketball)"
   }
  ],
  "feeds": {
@@ -10254,14 +10254,14 @@
    "last": "2026-09-11 14:46:55"
   },
   "WIKI": {
-   "count": 3174,
-   "last": "2026-09-14 13:00:46"
+   "count": 3176,
+   "last": "2026-09-14 13:46:46"
   },
   "WIKIWATCH": {
    "count": 132,
    "last": "2026-09-13 19:06:54"
   }
  },
- "generated_at": "2026-09-14T13:38:01",
- "total": 12766
+ "generated_at": "2026-09-14T13:46:48",
+ "total": 12768
 }
