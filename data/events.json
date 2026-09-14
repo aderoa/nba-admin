@@ -1,6 +1,55 @@
 {
  "events": [
   {
+   "detail": "Kawhi Leonard  ~ team: Los Angeles Clippers -> Toronto Raptors",
+   "detected_at": "2026-09-14 12:10:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kawhi_Leonard"
+  },
+  {
+   "detail": "Kawhi Leonard  ~ CAREER  + Los Angeles Clippers",
+   "detected_at": "2026-09-14 12:10:46",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Kawhi_Leonard"
+  },
+  {
+   "detail": "Kawhi Leonard  ~ CAREER  + -present Toronto Raptors",
+   "detected_at": "2026-09-14 12:10:46",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Kawhi_Leonard"
+  },
+  {
+   "detail": "Brandon Ingram  ~ team: Toronto Raptors -> Los Angeles Clippers",
+   "detected_at": "2026-09-14 12:10:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Brandon_Ingram"
+  },
+  {
+   "detail": "Brandon Ingram  ~ number: 3 -> -",
+   "detected_at": "2026-09-14 12:10:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Brandon_Ingram"
+  },
+  {
+   "detail": "Gradey Dick  ~ team: Toronto Raptors -> Los Angeles Clippers",
+   "detected_at": "2026-09-14 12:10:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Gradey_Dick"
+  },
+  {
+   "detail": "Gradey Dick  ~ number: 1 -> -",
+   "detected_at": "2026-09-14 12:10:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Gradey_Dick"
+  },
+  {
    "detail": "Anton Shoutvin  ~ team: Hapoel Kiryat Tivon/Megido -> Hapoel Megiddo",
    "detected_at": "2026-09-14 10:33:53",
    "source": "WIKI",
@@ -10177,55 +10226,6 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Boris_Dallo"
-  },
-  {
-   "detail": "Boris Dallo  ~ CAREER  + 2023–2024 ASVEL",
-   "detected_at": "2026-09-08 07:58:48",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Boris_Dallo"
-  },
-  {
-   "detail": "Boris Dallo  ~ CAREER  + 2025 Real Betis",
-   "detected_at": "2026-09-08 07:58:48",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Boris_Dallo"
-  },
-  {
-   "detail": "Boris Dallo  ~ CAREER  + 2025 Saint-Quentin",
-   "detected_at": "2026-09-08 07:58:48",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Boris_Dallo"
-  },
-  {
-   "detail": "Boris Dallo  ~ CAREER  + 2026–present Al-Ittihad Aleppo",
-   "detected_at": "2026-09-08 07:58:48",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Boris_Dallo"
-  },
-  {
-   "detail": "Paul Rigot  ~ team: Baloncesto Fuenlabrada -> Saint-Quentin",
-   "detected_at": "2026-09-08 07:58:48",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Paul_Rigot"
-  },
-  {
-   "detail": "Paul Rigot  ~ league: Primera FEB -> LNB Élite",
-   "detected_at": "2026-09-08 07:58:48",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Paul_Rigot"
-  },
-  {
-   "detail": "Paul Rigot  ~ position: Small forward -> Small forward / power forward",
-   "detected_at": "2026-09-08 07:58:48",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Paul_Rigot"
   }
  ],
  "feeds": {
@@ -10262,14 +10262,14 @@
    "last": "2026-09-11 14:46:55"
   },
   "WIKI": {
-   "count": 3155,
-   "last": "2026-09-14 10:33:53"
+   "count": 3162,
+   "last": "2026-09-14 12:10:46"
   },
   "WIKIWATCH": {
    "count": 132,
    "last": "2026-09-13 19:06:54"
   }
  },
- "generated_at": "2026-09-14T12:02:01",
- "total": 12739
+ "generated_at": "2026-09-14T12:10:47",
+ "total": 12746
 }
