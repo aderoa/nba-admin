@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Kawhi Leonard  ~ team: Toronto Raptors -> Los Angeles Clippers",
+   "detected_at": "2026-09-14 15:41:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kawhi_Leonard"
+  },
+  {
+   "detail": "Kawhi Leonard  ~ CAREER  + –present Los Angeles Clippers",
+   "detected_at": "2026-09-14 15:41:46",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Kawhi_Leonard"
+  },
+  {
    "detail": "Taj Gibson  ~ position: Center / power forward -> Assistant coach",
    "detected_at": "2026-09-14 15:18:45",
    "source": "WIKI",
@@ -10203,19 +10217,6 @@
    "detected_at": "2026-09-08 07:59:56",
    "source": "DOCS",
    "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 9/3/26",
-   "detected_at": "2026-09-08 07:59:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "Cat Barber  ~ CAREER  + 2023 Scarborough Shooting Stars",
-   "detected_at": "2026-09-08 07:58:48",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Cat_Barber"
   }
  ],
  "feeds": {
@@ -10252,14 +10253,14 @@
    "last": "2026-09-11 14:46:55"
   },
   "WIKI": {
-   "count": 3179,
-   "last": "2026-09-14 15:18:45"
+   "count": 3181,
+   "last": "2026-09-14 15:41:46"
   },
   "WIKIWATCH": {
    "count": 132,
    "last": "2026-09-13 19:06:54"
   }
  },
- "generated_at": "2026-09-14T15:33:00",
- "total": 12773
+ "generated_at": "2026-09-14T15:41:46",
+ "total": 12775
 }
