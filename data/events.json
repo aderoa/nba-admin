@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Brandon Knight (basketball)  ~ team: Free agent -> Perth Wildcats",
+   "detected_at": "2026-09-13 22:24:48",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Brandon_Knight_(basketball)"
+  },
+  {
+   "detail": "Brandon Knight (basketball)  ~ league: - -> NBL",
+   "detected_at": "2026-09-13 22:24:48",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Brandon_Knight_(basketball)"
+  },
+  {
+   "detail": "Brandon Knight (basketball)  ~ CAREER  + 2026–present Perth Wildcats",
+   "detected_at": "2026-09-13 22:24:48",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Brandon_Knight_(basketball)"
+  },
+  {
    "detail": "German Cup EWE Baskets Oldenburg 82, MLP Academics Heidelberg 63",
    "detected_at": "2026-09-13 19:44:29",
    "source": "SCORES",
@@ -10136,27 +10157,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Ken_Horton_(basketball)"
-  },
-  {
-   "detail": "Ken Horton (basketball)  ~ number: 30 -> -",
-   "detected_at": "2026-09-07 16:20:45",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Ken_Horton_(basketball)"
-  },
-  {
-   "detail": "Ken Horton (basketball)  ~ CAREER  + 2025 Mineros de Zacatecas",
-   "detected_at": "2026-09-07 16:20:45",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Ken_Horton_(basketball)"
-  },
-  {
-   "detail": "Wesley Saunders  ~ number: 23 -> 32",
-   "detected_at": "2026-09-07 16:20:45",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Wesley_Saunders"
   }
  ],
  "feeds": {
@@ -10193,14 +10193,14 @@
    "last": "2026-09-11 14:46:55"
   },
   "WIKI": {
-   "count": 3099,
-   "last": "2026-09-13 18:43:46"
+   "count": 3102,
+   "last": "2026-09-13 22:24:48"
   },
   "WIKIWATCH": {
    "count": 132,
    "last": "2026-09-13 19:06:54"
   }
  },
- "generated_at": "2026-09-13T21:51:51",
- "total": 12639
+ "generated_at": "2026-09-13T22:24:49",
+ "total": 12642
 }
