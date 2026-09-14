@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "+ ADDED   Cristoph Tilly (OKC)",
+   "detected_at": "2026-09-14 16:37:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
    "detail": "Kawhi Leonard  ~ team: Toronto Raptors -> Los Angeles Clippers",
    "detected_at": "2026-09-14 15:41:46",
    "source": "WIKI",
@@ -10211,12 +10217,6 @@
    "detected_at": "2026-09-08 07:59:56",
    "source": "DOCS",
    "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
-   "detected_at": "2026-09-08 07:59:56",
-   "source": "DOCS",
-   "type": "ADDED"
   }
  ],
  "feeds": {
@@ -10229,8 +10229,8 @@
    "last": "2026-09-12 08:58:24"
   },
   "PLAYERS": {
-   "count": 778,
-   "last": "2026-09-14 14:33:54"
+   "count": 779,
+   "last": "2026-09-14 16:37:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10261,6 +10261,6 @@
    "last": "2026-09-13 19:06:54"
   }
  },
- "generated_at": "2026-09-14T16:37:01",
- "total": 12775
+ "generated_at": "2026-09-14T16:38:01",
+ "total": 12776
 }
