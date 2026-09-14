@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "~ CHANGED M.J. Iraldi  school: Nova Southeastern -> Nova Southeastern ",
+   "detected_at": "2026-09-14 13:47:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "Brandon Ingram  ~ number: - -> 14",
    "detected_at": "2026-09-14 13:46:46",
    "source": "WIKI",
@@ -10211,13 +10217,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Ben_Simmons"
-  },
-  {
-   "detail": "Ben Simmons  ~ CAREER  + –present Sacramento Kings",
-   "detected_at": "2026-09-08 07:58:48",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Ben_Simmons"
   }
  ],
  "feeds": {
@@ -10230,8 +10229,8 @@
    "last": "2026-09-12 08:58:24"
   },
   "PLAYERS": {
-   "count": 776,
-   "last": "2026-09-14 13:37:54"
+   "count": 777,
+   "last": "2026-09-14 13:47:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10262,6 +10261,6 @@
    "last": "2026-09-13 19:06:54"
   }
  },
- "generated_at": "2026-09-14T13:46:48",
- "total": 12768
+ "generated_at": "2026-09-14T13:48:11",
+ "total": 12769
 }
