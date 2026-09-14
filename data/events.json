@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Nick Smith  ~ 151487: team -> Real Madrid",
+   "detected_at": "2026-09-13 18:25:08",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Free agent"
+  },
+  {
+   "detail": "Nick Smith  ~ 151487: league -> Liga ACB",
+   "detected_at": "2026-09-13 18:25:08",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": ""
+  },
+  {
    "detail": "Andrés Feliz  ~ position: Point guard -> Point guard / shooting guard",
    "detected_at": "2026-09-13 18:20:45",
    "source": "WIKI",
@@ -10143,20 +10157,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Bandja_Sy"
-  },
-  {
-   "detail": "Bandja Sy  ~ number: 33 -> -",
-   "detected_at": "2026-09-07 08:59:54",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Bandja_Sy"
-  },
-  {
-   "detail": "Rade Zagorac  ~ team: KK Zadar -> Zadar",
-   "detected_at": "2026-09-07 08:59:54",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Rade_Zagorac"
   }
  ],
  "feeds": {
@@ -10197,10 +10197,10 @@
    "last": "2026-09-13 18:20:45"
   },
   "WIKIWATCH": {
-   "count": 125,
-   "last": "2026-09-13 18:10:08"
+   "count": 127,
+   "last": "2026-09-13 18:25:08"
   }
  },
- "generated_at": "2026-09-13T18:25:00",
- "total": 12546
+ "generated_at": "2026-09-13T18:26:01",
+ "total": 12548
 }
