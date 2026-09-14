@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Nick Smith Jr.  ~ team: Real Madrid -> Free agent",
+   "detected_at": "2026-09-13 18:43:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Nick_Smith_Jr."
+  },
+  {
+   "detail": "Nick Smith Jr.  ~ league: Liga ACB -> -",
+   "detected_at": "2026-09-13 18:43:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Nick_Smith_Jr."
+  },
+  {
    "detail": "Nick Smith  ~ 151487: team -> Real Madrid",
    "detected_at": "2026-09-13 18:25:08",
    "source": "WIKIWATCH",
@@ -10143,20 +10157,6 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Mindaugas_Ka%C4%8Dinas"
-  },
-  {
-   "detail": "Bandja Sy  ~ team: Metalac Valjevo -> Free agent",
-   "detected_at": "2026-09-07 08:59:54",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Bandja_Sy"
-  },
-  {
-   "detail": "Bandja Sy  ~ league: KLS -> -",
-   "detected_at": "2026-09-07 08:59:54",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Bandja_Sy"
   }
  ],
  "feeds": {
@@ -10193,14 +10193,14 @@
    "last": "2026-09-11 14:46:55"
   },
   "WIKI": {
-   "count": 3097,
-   "last": "2026-09-13 18:20:45"
+   "count": 3099,
+   "last": "2026-09-13 18:43:46"
   },
   "WIKIWATCH": {
    "count": 127,
    "last": "2026-09-13 18:25:08"
   }
  },
- "generated_at": "2026-09-13T18:35:02",
- "total": 12548
+ "generated_at": "2026-09-13T18:43:51",
+ "total": 12550
 }
