@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Devin Carter  ~ CAREER  + 2026– Boston Celtics",
+   "detected_at": "2026-09-14 08:55:46",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Devin_Carter"
+  },
+  {
+   "detail": "John Brown (basketball, born 1992)  ~ team: Pallacanestro Brescia -> Maxima Roma",
+   "detected_at": "2026-09-14 08:55:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/John_Brown_(basketball,_born_1992)"
+  },
+  {
+   "detail": "John Brown (basketball, born 1992)  ~ CAREER  + 2026–present Maxima Roma",
+   "detected_at": "2026-09-14 08:55:46",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/John_Brown_(basketball,_born_1992)"
+  },
+  {
    "detail": "Alex Len  ~ team: Free agent -> Kosner Baskonia",
    "detected_at": "2026-09-14 07:36:57",
    "source": "WIKI",
@@ -10178,24 +10199,6 @@
    "detected_at": "2026-09-08 07:51:28",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col17: 5608106 -> 5761256, col19: 8438955 -> 14502955, col23: 17437320.04 -> 22336162.04",
-   "detected_at": "2026-09-08 07:51:28",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED 1st Incremental Tax Bracket  -  col17: 5608106 -> 5685000",
-   "detected_at": "2026-09-08 07:51:28",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED 2nd Incremental Tax Bracket  -  col17: 0 -> 95320, col19: 3442443.75 -> 7106250",
-   "detected_at": "2026-09-08 07:51:28",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10232,14 +10235,14 @@
    "last": "2026-09-11 14:46:55"
   },
   "WIKI": {
-   "count": 3147,
-   "last": "2026-09-14 07:36:57"
+   "count": 3150,
+   "last": "2026-09-14 08:55:46"
   },
   "WIKIWATCH": {
    "count": 132,
    "last": "2026-09-13 19:06:54"
   }
  },
- "generated_at": "2026-09-14T08:47:01",
- "total": 12687
+ "generated_at": "2026-09-14T08:55:47",
+ "total": 12690
 }
