@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "~ CHANGED Christian Shumate  school: McNeese State -> Mc Neese State",
+   "detected_at": "2026-09-14 13:09:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "Gradey Dick  ~ team: Los Angeles Clippers -> Toronto Raptors",
    "detected_at": "2026-09-14 13:00:46",
    "source": "WIKI",
@@ -10217,13 +10223,6 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Karvel_Anderson"
-  },
-  {
-   "detail": "Karvel Anderson  ~ CAREER  + 2025–2026 Pistoia Basket 2000",
-   "detected_at": "2026-09-08 07:58:48",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Karvel_Anderson"
   }
  ],
  "feeds": {
@@ -10236,8 +10235,8 @@
    "last": "2026-09-12 08:58:24"
   },
   "PLAYERS": {
-   "count": 770,
-   "last": "2026-09-14 12:37:54"
+   "count": 771,
+   "last": "2026-09-14 13:09:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10268,6 +10267,6 @@
    "last": "2026-09-13 19:06:54"
   }
  },
- "generated_at": "2026-09-14T13:09:03",
- "total": 12760
+ "generated_at": "2026-09-14T13:10:01",
+ "total": 12761
 }
