@@ -1,6 +1,41 @@
 {
  "events": [
   {
+   "detail": "Eugene German  ~ 92849: team -> -",
+   "detected_at": "2026-09-13 19:06:54",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Hapoel Tel Aviv"
+  },
+  {
+   "detail": "Eugene German  ~ 92849: league -> -",
+   "detected_at": "2026-09-13 19:06:54",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Israeli Premier League EuroLeague"
+  },
+  {
+   "detail": "Eugene German  ~ 92849: position -> -",
+   "detected_at": "2026-09-13 19:06:54",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Point guard"
+  },
+  {
+   "detail": "Eugene German  ~ 92849: number -> -",
+   "detected_at": "2026-09-13 19:06:54",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "1"
+  },
+  {
+   "detail": "Eugene German  ~ 92849: (page changed) -> -",
+   "detected_at": "2026-09-13 19:06:54",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": ""
+  },
+  {
    "detail": "Nick Smith Jr.  ~ team: Real Madrid -> Free agent",
    "detected_at": "2026-09-13 18:43:46",
    "source": "WIKI",
@@ -10122,41 +10157,6 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Yves_Pons"
-  },
-  {
-   "detail": "Yves Pons  ~ CAREER  + 2026–present ASVEL Villeurbanne",
-   "detected_at": "2026-09-07 08:59:54",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Yves_Pons"
-  },
-  {
-   "detail": "Élie Okobo  ~ number: - -> 0",
-   "detected_at": "2026-09-07 08:59:54",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/%C3%89lie_Okobo"
-  },
-  {
-   "detail": "Josep Puerto  ~ position: Small forward / power forward -> Small forward",
-   "detected_at": "2026-09-07 08:59:54",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Josep_Puerto"
-  },
-  {
-   "detail": "Mindaugas Kačinas  ~ team: Free Agent -> KK Split",
-   "detected_at": "2026-09-07 08:59:54",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Mindaugas_Ka%C4%8Dinas"
-  },
-  {
-   "detail": "Mindaugas Kačinas  ~ CAREER  + 2026–present KK Split",
-   "detected_at": "2026-09-07 08:59:54",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Mindaugas_Ka%C4%8Dinas"
   }
  ],
  "feeds": {
@@ -10197,10 +10197,10 @@
    "last": "2026-09-13 18:43:46"
   },
   "WIKIWATCH": {
-   "count": 127,
-   "last": "2026-09-13 18:25:08"
+   "count": 132,
+   "last": "2026-09-13 19:06:54"
   }
  },
- "generated_at": "2026-09-13T19:06:46",
- "total": 12550
+ "generated_at": "2026-09-13T19:08:01",
+ "total": 12555
 }
