@@ -1,6 +1,90 @@
 {
  "events": [
   {
+   "detail": "Nick Smith Jr.  ~ team: Free agent -> Real Madrid",
+   "detected_at": "2026-09-13 17:57:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Nick_Smith_Jr."
+  },
+  {
+   "detail": "Nick Smith Jr.  ~ league: - -> Liga ACB",
+   "detected_at": "2026-09-13 17:57:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Nick_Smith_Jr."
+  },
+  {
+   "detail": "Nick Smith Jr.  ~ CAREER  + 2026–present Real Madrid",
+   "detected_at": "2026-09-13 17:57:46",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Nick_Smith_Jr."
+  },
+  {
+   "detail": "Joel Bolomboy  ~ team: LDLC ASVEL -> ASVEL",
+   "detected_at": "2026-09-13 17:57:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Joel_Bolomboy"
+  },
+  {
+   "detail": "Matt Costello  ~ nationality: American / Ivorian -> -",
+   "detected_at": "2026-09-13 17:57:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Matt_Costello"
+  },
+  {
+   "detail": "David Lighty  ~ team: LDLC ASVEL -> ASVEL",
+   "detected_at": "2026-09-13 17:57:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/David_Lighty"
+  },
+  {
+   "detail": "David Lighty  ~ CAREER  + 2014–2016 ASVEL",
+   "detected_at": "2026-09-13 17:57:46",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/David_Lighty"
+  },
+  {
+   "detail": "David Lighty  ~ CAREER  + 2017–present ASVEL",
+   "detected_at": "2026-09-13 17:57:46",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/David_Lighty"
+  },
+  {
+   "detail": "Both Gach  ~ team: ASVEL Basket -> ASVEL",
+   "detected_at": "2026-09-13 17:57:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Both_Gach"
+  },
+  {
+   "detail": "Nate Sestina  ~ team: ASVEL Basket -> ASVEL",
+   "detected_at": "2026-09-13 17:57:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Nate_Sestina"
+  },
+  {
+   "detail": "Nick Smith  ~ 151487: team -> Free agent",
+   "detected_at": "2026-09-13 17:49:20",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Real Madrid"
+  },
+  {
+   "detail": "Nick Smith  ~ 151487: league -> -",
+   "detected_at": "2026-09-13 17:49:20",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Liga ACB"
+  },
+  {
    "detail": "Mexican LNBP Soles 90, Astros de Jalisco 76",
    "detected_at": "2026-09-13 17:36:38",
    "source": "SCORES",
@@ -10073,90 +10157,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Jan_%C5%A0pan"
-  },
-  {
-   "detail": "Jan Špan  ~ number: 17 -> -",
-   "detected_at": "2026-09-07 08:59:54",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jan_%C5%A0pan"
-  },
-  {
-   "detail": "Jan Špan  ~ CAREER  + 2022–2026 Krka",
-   "detected_at": "2026-09-07 08:59:54",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Jan_%C5%A0pan"
-  },
-  {
-   "detail": "Jan Špan  ~ CAREER  + 2026–present Dubrava",
-   "detected_at": "2026-09-07 08:59:54",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Jan_%C5%A0pan"
-  },
-  {
-   "detail": "David Lighty  ~ team: ASVEL -> LDLC ASVEL",
-   "detected_at": "2026-09-07 08:59:54",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/David_Lighty"
-  },
-  {
-   "detail": "David Lighty  ~ CAREER  + 2014–2016 ASVEL Villeurbanne",
-   "detected_at": "2026-09-07 08:59:54",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/David_Lighty"
-  },
-  {
-   "detail": "David Lighty  ~ CAREER  + 2017–present ASVEL Villeurbanne",
-   "detected_at": "2026-09-07 08:59:54",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/David_Lighty"
-  },
-  {
-   "detail": "Thomas Walkup  ~ team: Olympiacos -> Dubai Basketball",
-   "detected_at": "2026-09-07 08:59:54",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Thomas_Walkup"
-  },
-  {
-   "detail": "Thomas Walkup  ~ league: GBL EuroLeague -> ABA League EuroLeague",
-   "detected_at": "2026-09-07 08:59:54",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Thomas_Walkup"
-  },
-  {
-   "detail": "Thomas Walkup  ~ number: 0 -> 9",
-   "detected_at": "2026-09-07 08:59:54",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Thomas_Walkup"
-  },
-  {
-   "detail": "Thomas Walkup  ~ CAREER  + 2021–2026 Olympiacos",
-   "detected_at": "2026-09-07 08:59:54",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Thomas_Walkup"
-  },
-  {
-   "detail": "Thomas Walkup  ~ CAREER  + 2026–present Dubai Basketball",
-   "detected_at": "2026-09-07 08:59:54",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Thomas_Walkup"
-  },
-  {
-   "detail": "Nate Sestina  ~ team: ASVEL Basket -> LDLC ASVEL",
-   "detected_at": "2026-09-07 08:59:54",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Nate_Sestina"
   }
  ],
  "feeds": {
@@ -10193,14 +10193,14 @@
    "last": "2026-09-11 14:46:55"
   },
   "WIKI": {
-   "count": 3082,
-   "last": "2026-09-13 16:35:47"
+   "count": 3092,
+   "last": "2026-09-13 17:57:46"
   },
   "WIKIWATCH": {
-   "count": 118,
-   "last": "2026-09-12 18:01:08"
+   "count": 120,
+   "last": "2026-09-13 17:49:20"
   }
  },
- "generated_at": "2026-09-13T17:36:39",
- "total": 12524
+ "generated_at": "2026-09-13T17:57:47",
+ "total": 12536
 }
