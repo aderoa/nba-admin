@@ -1,6 +1,18 @@
 {
  "events": [
   {
+   "detail": "2026-27 Rookie Signings  - REMOVED Execution Date: 8/31/26",
+   "detected_at": "2026-09-14 17:38:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 9/10/26",
+   "detected_at": "2026-09-14 17:38:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "2026-27 Rookie Signings  - REMOVED Update 1.3 (7/18/26): K. Lopez, K. Diop, J. Allick, J. Hadley, D. Higgs, K. Mangas, M. Murrell, J. Nelson, K. Stewart, S. Thomas, T. Townsend",
    "detected_at": "2026-09-14 17:37:56",
    "source": "DOCS",
@@ -10214,24 +10226,12 @@
    "detected_at": "2026-09-08 08:05:58",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "MEM  + ADDED  Hawkins, Jordan",
-   "detected_at": "2026-09-08 08:04:58",
-   "source": "SHEETS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "MEM  + ADDED  Peavy, Micah",
-   "detected_at": "2026-09-08 08:04:58",
-   "source": "SHEETS",
-   "type": "ADDED"
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 2348,
-   "last": "2026-09-14 17:37:56"
+   "count": 2350,
+   "last": "2026-09-14 17:38:56"
   },
   "GLEAGUE": {
    "count": 60,
@@ -10270,6 +10270,6 @@
    "last": "2026-09-13 19:06:54"
   }
  },
- "generated_at": "2026-09-14T17:38:03",
- "total": 12794
+ "generated_at": "2026-09-14T17:39:02",
+ "total": 12796
 }
