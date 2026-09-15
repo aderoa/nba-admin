@@ -1,6 +1,24 @@
 {
  "events": [
   {
+   "detail": "OKC  + ADDED  Tilly, Christoph",
+   "detected_at": "2026-09-15 16:02:58",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  - REMOVED Update 1.3 (7/18/26): K. Lopez, K. Diop, J. Allick, L. Butler, D. Garcia, C. Grill, J. Hadley, D. Higgs, K. Mangas, M. Murrell, J. Nelson, J. O’Neil, C. Shumate, K. Stewart, S. Thomas, T. Townsend",
+   "detected_at": "2026-09-15 16:02:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Update 1.3 (7/18/26): K. Lopez, K. Diop, J. Allick, L. Butler, D. Garcia, C. Grill, J. Hadley, D. Higgs, K. Mangas, M. Murrell, J. Nelson, J. O’Neil, C. Shumate, K. Stewart, S. Thomas, C. Tilly, T. Townsend",
+   "detected_at": "2026-09-15 16:02:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "OKC  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 216464608 -> 217822371, col9: 784864036.8 -> 786221799.8",
    "detected_at": "2026-09-15 16:01:58",
    "source": "SHEETS",
@@ -10193,30 +10211,12 @@
    "detected_at": "2026-09-10 07:09:20",
    "source": "GLEAGUE",
    "type": "Trade"
-  },
-  {
-   "detail": "2026-09-09  Traded: Vinicius Da Silva (Kings)",
-   "detected_at": "2026-09-10 07:09:20",
-   "source": "GLEAGUE",
-   "type": "Trade"
-  },
-  {
-   "detail": "2026-09-09  Traded: Mitchell Mascari (Knicks)",
-   "detected_at": "2026-09-10 07:09:20",
-   "source": "GLEAGUE",
-   "type": "Trade"
-  },
-  {
-   "detail": "2026-09-09  Traded: Wade Taylor Iv (Boom)",
-   "detected_at": "2026-09-10 07:09:20",
-   "source": "GLEAGUE",
-   "type": "Trade"
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 2419,
-   "last": "2026-09-15 16:01:56"
+   "count": 2421,
+   "last": "2026-09-15 16:02:56"
   },
   "GLEAGUE": {
    "count": 60,
@@ -10239,8 +10239,8 @@
    "last": "2026-09-15 13:02:15"
   },
   "SHEETS": {
-   "count": 3806,
-   "last": "2026-09-15 16:01:58"
+   "count": 3807,
+   "last": "2026-09-15 16:02:58"
   },
   "TRANSACTIONS": {
    "count": 341,
@@ -10255,6 +10255,6 @@
    "last": "2026-09-15 15:57:10"
   }
  },
- "generated_at": "2026-09-15T16:02:01",
- "total": 13229
+ "generated_at": "2026-09-15T16:03:02",
+ "total": 13232
 }
