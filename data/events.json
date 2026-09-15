@@ -1,6 +1,25 @@
 {
  "events": [
   {
+   "detail": "Mike Conley Jr.  ~ number: 44 -> 45",
+   "detected_at": "2026-09-15 11:38:48",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Mike_Conley_Jr."
+  },
+  {
+   "detail": "+ ADDED   Johnny O'Neil (NOP)",
+   "detected_at": "2026-09-15 11:30:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "+ ADDED   Dwight Murray, Jr. (BKN)",
+   "detected_at": "2026-09-15 11:30:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
    "detail": "~ CHANGED Malaki Branham  number: 8 -> 12",
    "detected_at": "2026-09-15 10:35:54",
    "source": "PLAYERS",
@@ -10205,27 +10224,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Amari_Bailey"
-  },
-  {
-   "detail": "Amari Bailey  ~ league: Israeli Premier League EuroCup -> Israeli Premier League",
-   "detected_at": "2026-09-09 08:27:48",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Amari_Bailey"
-  },
-  {
-   "detail": "Amari Bailey  ~ CAREER  + 2026–present →Hapoel Be'er Sheva",
-   "detected_at": "2026-09-09 08:27:48",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Amari_Bailey"
-  },
-  {
-   "detail": "Matt Costello  ~ number: - -> 24",
-   "detected_at": "2026-09-09 08:04:49",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Matt_Costello"
   }
  ],
  "feeds": {
@@ -10238,8 +10236,8 @@
    "last": "2026-09-12 08:58:24"
   },
   "PLAYERS": {
-   "count": 788,
-   "last": "2026-09-15 10:35:54"
+   "count": 790,
+   "last": "2026-09-15 11:30:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10262,14 +10260,14 @@
    "last": "2026-09-14 18:58:55"
   },
   "WIKI": {
-   "count": 3246,
-   "last": "2026-09-15 10:06:47"
+   "count": 3247,
+   "last": "2026-09-15 11:38:48"
   },
   "WIKIWATCH": {
    "count": 132,
    "last": "2026-09-13 19:06:54"
   }
  },
- "generated_at": "2026-09-15T11:30:00",
- "total": 13047
+ "generated_at": "2026-09-15T11:38:49",
+ "total": 13050
 }
