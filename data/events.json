@@ -1,6 +1,36 @@
 {
  "events": [
   {
+   "detail": "LAC  - REMOVED Mathurin, Bennedict",
+   "detected_at": "2026-09-14 17:43:58",
+   "source": "SHEETS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "LAC  - REMOVED Simmons, Ben",
+   "detected_at": "2026-09-14 17:43:58",
+   "source": "SHEETS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "LAC  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 235358911.9 -> 205346772, col9: 384454833.2 -> 354442693.3",
+   "detected_at": "2026-09-14 17:43:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "LAC  CHANGED Cap Holds  -  col3: 44378177.88 -> 14366038",
+   "detected_at": "2026-09-14 17:43:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "NOL  + ADDED  Mathurin, Bennedict",
+   "detected_at": "2026-09-14 17:43:58",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
    "detail": "2026-27 Rookie Signings  + ADDED  Hank Morgan (WAIVED) Boston Celtics",
    "detected_at": "2026-09-14 17:41:57",
    "source": "DOCS",
@@ -10196,36 +10226,6 @@
    "detected_at": "2026-09-08 08:10:58",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "NOL  + ADDED  Missi, Yves #2",
-   "detected_at": "2026-09-08 08:09:57",
-   "source": "SHEETS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "NOL  - REMOVED Hawkins, Jordan",
-   "detected_at": "2026-09-08 08:09:57",
-   "source": "SHEETS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "NOL  - REMOVED Peavy, Micah",
-   "detected_at": "2026-09-08 08:09:57",
-   "source": "SHEETS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "NOL  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 229789515.8 -> 224129463.9, col4: 160062751.3 -> 163132677, col5: 74875968 -> 72140270, col9: 488923863.1 -> 483598038.9",
-   "detected_at": "2026-09-08 08:09:57",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "NOL  CHANGED Players Under Contract  -  col3: 209057984.9 -> 203397933, col4: 160062751.3 -> 163132677, col5: 74875968 -> 72140270",
-   "detected_at": "2026-09-08 08:09:57",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10254,8 +10254,8 @@
    "last": "2026-09-14 09:41:51"
   },
   "SHEETS": {
-   "count": 3756,
-   "last": "2026-09-10 14:53:03"
+   "count": 3761,
+   "last": "2026-09-14 17:43:58"
   },
   "TRANSACTIONS": {
    "count": 326,
@@ -10270,6 +10270,6 @@
    "last": "2026-09-13 19:06:54"
   }
  },
- "generated_at": "2026-09-14T17:43:01",
- "total": 12812
+ "generated_at": "2026-09-14T17:44:01",
+ "total": 12817
 }
