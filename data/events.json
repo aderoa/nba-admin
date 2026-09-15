@@ -1,6 +1,54 @@
 {
  "events": [
   {
+   "detail": "NOL  CHANGED Mathurin, Bennedict  -  TEAM SALARY CAP REPORT\n       -  NEW ORLEANS PELICANS: - -> 1 - FULL SEASON, col3: - -> 7500000.0, col9: 0 -> 7500000",
+   "detected_at": "2026-09-14 17:44:57",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "NOL  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 216949670.9 -> 224449670.9, col9: 470822419.2 -> 478322419.2",
+   "detected_at": "2026-09-14 17:44:57",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "NOL  CHANGED Players Under Contract  -  col3: 196069312 -> 203569312",
+   "detected_at": "2026-09-14 17:44:57",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "NOL  CHANGED Full Season Contracts  -  col3: 196069312 -> 203569312",
+   "detected_at": "2026-09-14 17:44:57",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "NOL  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 17 -> 18",
+   "detected_at": "2026-09-14 17:44:57",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col20: 0 -> 3290140",
+   "detected_at": "2026-09-14 17:44:57",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 1st Incremental Tax Bracket  -  col20: 0 -> 3290140",
+   "detected_at": "2026-09-14 17:44:57",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col20: 0 -> 3290140",
+   "detected_at": "2026-09-14 17:44:57",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "LAC  - REMOVED Mathurin, Bennedict",
    "detected_at": "2026-09-14 17:43:58",
    "source": "SHEETS",
@@ -10178,54 +10226,6 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Tom_Digbeu"
-  },
-  {
-   "detail": "NOL  - REMOVED Missi, Yves #2",
-   "detected_at": "2026-09-08 08:10:58",
-   "source": "SHEETS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "NOL  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 224129463.9 -> 220616703.9, col4: 163132677 -> 157536850.3, col9: 483598038.9 -> 474489452.2",
-   "detected_at": "2026-09-08 08:10:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "NOL  CHANGED Players Under Contract  -  col3: 203397933 -> 199885173, col4: 163132677 -> 157536850.3",
-   "detected_at": "2026-09-08 08:10:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "NOL  CHANGED Full Season Contracts  -  col3: 203397933 -> 199885173, col4: 163132677 -> 157536850.3",
-   "detected_at": "2026-09-08 08:10:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "NOL  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 19 -> 18",
-   "detected_at": "2026-09-08 08:10:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col20: 2969933 -> 0",
-   "detected_at": "2026-09-08 08:10:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED 1st Incremental Tax Bracket  -  col20: 2969933 -> 0",
-   "detected_at": "2026-09-08 08:10:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col20: 2969933 -> 0",
-   "detected_at": "2026-09-08 08:10:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10254,8 +10254,8 @@
    "last": "2026-09-14 09:41:51"
   },
   "SHEETS": {
-   "count": 3761,
-   "last": "2026-09-14 17:43:58"
+   "count": 3769,
+   "last": "2026-09-14 17:44:57"
   },
   "TRANSACTIONS": {
    "count": 326,
@@ -10270,6 +10270,6 @@
    "last": "2026-09-13 19:06:54"
   }
  },
- "generated_at": "2026-09-14T17:44:01",
- "total": 12817
+ "generated_at": "2026-09-14T17:45:00",
+ "total": 12825
 }
