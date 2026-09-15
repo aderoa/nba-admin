@@ -1,6 +1,41 @@
 {
  "events": [
   {
+   "detail": "Brandon Ingram  ~ number: 14 -> -",
+   "detected_at": "2026-09-14 21:11:48",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Brandon_Ingram"
+  },
+  {
+   "detail": "Brandon Ingram  ~ CAREER  + – Toronto Raptors",
+   "detected_at": "2026-09-14 21:11:48",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Brandon_Ingram"
+  },
+  {
+   "detail": "Brandon Ingram  ~ CAREER  + –present Los Angeles Clippers",
+   "detected_at": "2026-09-14 21:11:48",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Brandon_Ingram"
+  },
+  {
+   "detail": "Gradey Dick  ~ CAREER  + – Toronto Raptors",
+   "detected_at": "2026-09-14 21:11:48",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Gradey_Dick"
+  },
+  {
+   "detail": "Gradey Dick  ~ CAREER  + –present Los Angeles Clippers",
+   "detected_at": "2026-09-14 21:11:48",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Gradey_Dick"
+  },
+  {
    "detail": "LAC  + ADDED  Ingram, Brandon",
    "detected_at": "2026-09-14 20:02:59",
    "source": "SHEETS",
@@ -10179,36 +10214,6 @@
    "detected_at": "2026-09-08 13:11:58",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "DAL  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 229382962.8 -> 211922645.8, col9: 563043335.7 -> 545583018.7",
-   "detected_at": "2026-09-08 13:11:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "DAL  CHANGED Players Under Contract  -  col3: 194654877.8 -> 177194560.8",
-   "detected_at": "2026-09-08 13:11:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "DAL  CHANGED Full Season Contracts  -  col3: 194654877.8 -> 177194560.8",
-   "detected_at": "2026-09-08 13:11:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "DAL  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 16 -> 15",
-   "detected_at": "2026-09-08 13:11:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col8: 5098411 -> 0",
-   "detected_at": "2026-09-08 13:11:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10245,14 +10250,14 @@
    "last": "2026-09-14 18:58:55"
   },
   "WIKI": {
-   "count": 3196,
-   "last": "2026-09-14 18:53:47"
+   "count": 3201,
+   "last": "2026-09-14 21:11:48"
   },
   "WIKIWATCH": {
    "count": 132,
    "last": "2026-09-13 19:06:54"
   }
  },
- "generated_at": "2026-09-14T21:02:59",
- "total": 12870
+ "generated_at": "2026-09-14T21:11:53",
+ "total": 12875
 }
