@@ -1,6 +1,69 @@
 {
  "events": [
   {
+   "detail": "Jānis Bērziņš (basketball)  ~ number: - -> 31",
+   "detected_at": "2026-09-14 17:36:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/J%C4%81nis_B%C4%93rzi%C5%86%C5%A1_(basketball)"
+  },
+  {
+   "detail": "Jānis Bērziņš (basketball)  ~ height_ft: 6 -> -",
+   "detected_at": "2026-09-14 17:36:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/J%C4%81nis_B%C4%93rzi%C5%86%C5%A1_(basketball)"
+  },
+  {
+   "detail": "Jānis Bērziņš (basketball)  ~ height_in: 7 -> -",
+   "detected_at": "2026-09-14 17:36:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/J%C4%81nis_B%C4%93rzi%C5%86%C5%A1_(basketball)"
+  },
+  {
+   "detail": "Jānis Bērziņš (basketball)  ~ weight_lb: 212 -> -",
+   "detected_at": "2026-09-14 17:36:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/J%C4%81nis_B%C4%93rzi%C5%86%C5%A1_(basketball)"
+  },
+  {
+   "detail": "Denys Lukashov  ~ team: Peja -> Free agent",
+   "detected_at": "2026-09-14 17:36:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Denys_Lukashov"
+  },
+  {
+   "detail": "Denys Lukashov  ~ league: Kosovo Superleague -> -",
+   "detected_at": "2026-09-14 17:36:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Denys_Lukashov"
+  },
+  {
+   "detail": "Denys Lukashov  ~ position: Point guard -> Point guard / shooting guard",
+   "detected_at": "2026-09-14 17:36:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Denys_Lukashov"
+  },
+  {
+   "detail": "Denys Lukashov  ~ CAREER  + 2024–2025 Peja",
+   "detected_at": "2026-09-14 17:36:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Denys_Lukashov"
+  },
+  {
+   "detail": "Denys Lukashov  ~ CAREER  + 2026 Rīgas Zeļļi",
+   "detected_at": "2026-09-14 17:36:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Denys_Lukashov"
+  },
+  {
    "detail": "+ ADDED   Cristoph Tilly (OKC)",
    "detected_at": "2026-09-14 16:39:54",
    "source": "PLAYERS",
@@ -10163,60 +10226,6 @@
    "detected_at": "2026-09-08 08:04:58",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "NOL  CHANGED Players Under Contract  -  col3: 202005003.9 -> 209057984.9, col4: 154569358.7 -> 160062751.3",
-   "detected_at": "2026-09-08 08:04:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "NOL  CHANGED Full Season Contracts  -  col3: 202005003.9 -> 209057984.9, col4: 154569358.7 -> 160062751.3",
-   "detected_at": "2026-09-08 08:04:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "NOL  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 18 -> 20",
-   "detected_at": "2026-09-08 08:04:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col20: 1577003.92 -> 8629984.92",
-   "detected_at": "2026-09-08 08:04:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED 1st Incremental Tax Bracket  -  col20: 1577003.92 -> 5685000",
-   "detected_at": "2026-09-08 08:04:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED 2nd Incremental Tax Bracket  -  col20: 0 -> 3681231.15",
-   "detected_at": "2026-09-08 08:04:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col20: 1577003.92 -> 9366231.15",
-   "detected_at": "2026-09-08 08:04:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "ORL  + ADDED  Branham, Malaki",
-   "detected_at": "2026-09-08 07:59:58",
-   "source": "SHEETS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ORL  - REMOVED Davison, JD #2",
-   "detected_at": "2026-09-08 07:59:58",
-   "source": "SHEETS",
-   "type": "REMOVED"
   }
  ],
  "feeds": {
@@ -10253,14 +10262,14 @@
    "last": "2026-09-11 14:46:55"
   },
   "WIKI": {
-   "count": 3181,
-   "last": "2026-09-14 15:41:46"
+   "count": 3190,
+   "last": "2026-09-14 17:36:47"
   },
   "WIKIWATCH": {
    "count": 132,
    "last": "2026-09-13 19:06:54"
   }
  },
- "generated_at": "2026-09-14T17:28:03",
- "total": 12778
+ "generated_at": "2026-09-14T17:36:48",
+ "total": 12787
 }
