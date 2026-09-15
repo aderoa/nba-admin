@@ -1,6 +1,41 @@
 {
  "events": [
   {
+   "detail": "Dario Drežnjak  ~ team: Split -> Zadar",
+   "detected_at": "2026-09-15 14:19:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Dario_Dre%C5%BEnjak"
+  },
+  {
+   "detail": "Dario Drežnjak  ~ CAREER  + 2025–2026 Split",
+   "detected_at": "2026-09-15 14:19:46",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Dario_Dre%C5%BEnjak"
+  },
+  {
+   "detail": "Dario Drežnjak  ~ CAREER  + 2026–present Zadar",
+   "detected_at": "2026-09-15 14:19:46",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Dario_Dre%C5%BEnjak"
+  },
+  {
+   "detail": "Boris Tišma  ~ number: - -> 7",
+   "detected_at": "2026-09-15 14:19:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Boris_Ti%C5%A1ma"
+  },
+  {
+   "detail": "Boris Tišma  ~ CAREER  + 2025–present Zadar",
+   "detected_at": "2026-09-15 14:19:46",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Boris_Ti%C5%A1ma"
+  },
+  {
    "detail": "Trendon Watford  ~ 104914: number -> 12",
    "detected_at": "2026-09-15 14:05:07",
    "source": "WIKIWATCH",
@@ -10206,36 +10241,6 @@
    "detected_at": "2026-09-09 17:31:00",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED 1st Incremental Tax Bracket  -  col7: 0 -> 5685000",
-   "detected_at": "2026-09-09 17:31:00",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED 2nd Incremental Tax Bracket  -  col7: 0 -> 3571192.883",
-   "detected_at": "2026-09-09 17:31:00",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED 3rd Incremental Tax Bracket  -  col9: 21338667.17 -> 31267500",
-   "detected_at": "2026-09-09 17:31:00",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED 4th Incremental Tax Bracket  -  col9: 0 -> 4348206",
-   "detected_at": "2026-09-09 17:31:00",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col7: 0 -> 9256192.883, col9: 56869917.17 -> 71146956",
-   "detected_at": "2026-09-09 17:31:00",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10272,14 +10277,14 @@
    "last": "2026-09-15 11:45:55"
   },
   "WIKI": {
-   "count": 3247,
-   "last": "2026-09-15 11:38:48"
+   "count": 3252,
+   "last": "2026-09-15 14:19:46"
   },
   "WIKIWATCH": {
    "count": 150,
    "last": "2026-09-15 14:05:07"
   }
  },
- "generated_at": "2026-09-15T14:11:01",
- "total": 13123
+ "generated_at": "2026-09-15T14:19:47",
+ "total": 13128
 }
