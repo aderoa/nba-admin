@@ -1,6 +1,30 @@
 {
  "events": [
   {
+   "detail": "2026-09-15  Brooklyn Nets waived guard Dwight Murray, Jr..",
+   "detected_at": "2026-09-15 14:42:55",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-09-15  Brooklyn Nets waived guard Isaiah Wong.",
+   "detected_at": "2026-09-15 14:42:55",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-09-15  Detroit Pistons waived forward Dawson Garcia.",
+   "detected_at": "2026-09-15 14:42:55",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "~ CHANGED Dwight Murray, Jr.  school: Rider University -> Rider",
+   "detected_at": "2026-09-15 14:42:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "Lovro Mazalin  ~ position: Power forward / Center -> Power forward / center",
    "detected_at": "2026-09-15 14:42:46",
    "source": "WIKI",
@@ -10222,30 +10246,6 @@
    "detected_at": "2026-09-09 17:31:00",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "CLE  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 13 -> 14",
-   "detected_at": "2026-09-09 17:31:00",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "CLE  CHANGED Avg, Salary (Mean) (No 10-Day K's)  -  col6: 2 -> 1",
-   "detected_at": "2026-09-09 17:31:00",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "DEN  + ADDED  DeRozan, DeMar",
-   "detected_at": "2026-09-09 17:31:00",
-   "source": "SHEETS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "DEN  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 235008820.7 -> 237458241.7, col9: 640727736.3 -> 643177157.3",
-   "detected_at": "2026-09-09 17:31:00",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10258,8 +10258,8 @@
    "last": "2026-09-12 08:58:24"
   },
   "PLAYERS": {
-   "count": 800,
-   "last": "2026-09-15 13:59:54"
+   "count": 801,
+   "last": "2026-09-15 14:42:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10278,8 +10278,8 @@
    "last": "2026-09-14 20:02:59"
   },
   "TRANSACTIONS": {
-   "count": 332,
-   "last": "2026-09-15 11:45:55"
+   "count": 335,
+   "last": "2026-09-15 14:42:55"
   },
   "WIKI": {
    "count": 3257,
@@ -10290,6 +10290,6 @@
    "last": "2026-09-15 14:05:07"
   }
  },
- "generated_at": "2026-09-15T14:42:47",
- "total": 13133
+ "generated_at": "2026-09-15T14:43:01",
+ "total": 13137
 }
