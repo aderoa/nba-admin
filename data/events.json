@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Mateo Drežnjak  ~ number: 23 -> 33",
+   "detected_at": "2026-09-15 16:37:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Mateo_Dre%C5%BEnjak"
+  },
+  {
+   "detail": "Aleksa Uskoković  ~ league: ABA League -> Prva A Liga ABA League",
+   "detected_at": "2026-09-15 16:37:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Aleksa_Uskokovi%C4%87"
+  },
+  {
+   "detail": "Nikola Pavličević  ~ league: Montenegrin Basketball League ABA League -> Prva A Liga ABA League",
+   "detected_at": "2026-09-15 16:37:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Nikola_Pavli%C4%8Devi%C4%87"
+  },
+  {
    "detail": "Alex Len  ~ team: Kosner Baskonia -> Baskonia",
    "detected_at": "2026-09-15 16:14:48",
    "source": "WIKI",
@@ -10179,26 +10200,6 @@
    "detected_at": "2026-09-10 14:28:54",
    "source": "PLAYERS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "2026-09-10  New Orleans Pelicans signed guard Bennedict Mathurin to a Contract.",
-   "detected_at": "2026-09-10 14:05:55",
-   "source": "TRANSACTIONS",
-   "type": "Signing"
-  },
-  {
-   "detail": "Wendell Moore Jr.  ~ position: Shooting guard -> Small forward",
-   "detected_at": "2026-09-10 13:19:43",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Wendell_Moore_Jr."
-  },
-  {
-   "detail": "Derrick Alston Jr.  ~ position: Power forward / small forward -> Power forward",
-   "detected_at": "2026-09-10 12:56:43",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Derrick_Alston_Jr."
   }
  ],
  "feeds": {
@@ -10235,14 +10236,14 @@
    "last": "2026-09-15 14:45:55"
   },
   "WIKI": {
-   "count": 3284,
-   "last": "2026-09-15 16:14:48"
+   "count": 3287,
+   "last": "2026-09-15 16:37:46"
   },
   "WIKIWATCH": {
    "count": 151,
    "last": "2026-09-15 15:57:10"
   }
  },
- "generated_at": "2026-09-15T16:29:01",
- "total": 13258
+ "generated_at": "2026-09-15T16:37:47",
+ "total": 13261
 }
