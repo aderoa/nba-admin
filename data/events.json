@@ -1,6 +1,42 @@
 {
  "events": [
   {
+   "detail": "2026-27 Rookie Signings  - REMOVED Update 1.3 (7/18/26): K. Lopez, K. Diop, J. Allick, L. Butler, J. Hadley, D. Higgs, K. Mangas, M. Murrell, J. Nelson, J. O’Neil, C. Shumate, K. Stewart, S. Thomas, T. Townsend",
+   "detected_at": "2026-09-15 15:53:55",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Update 1.3 (7/18/26): K. Lopez, K. Diop, J. Allick, L. Butler, D. Garcia, J. Hadley, D. Higgs, K. Mangas, M. Murrell, J. Nelson, J. O’Neil, C. Shumate, K. Stewart, S. Thomas, T. Townsend",
+   "detected_at": "2026-09-15 15:53:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Dawson Garcia (WAIVED) Detroit Pistons",
+   "detected_at": "2026-09-15 15:53:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  26-27 $1,357,763",
+   "detected_at": "2026-09-15 15:53:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($35,000).",
+   "detected_at": "2026-09-15 15:53:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 9/14/26",
+   "detected_at": "2026-09-15 15:53:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "2026-27 Rookie Signings  - REMOVED Update 1.3 (7/18/26): K. Lopez, K. Diop, J. Allick, L. Butler, J. Hadley, D. Higgs, K. Mangas, M. Murrell, J. Nelson, C. Shumate, K. Stewart, S. Thomas, T. Townsend",
    "detected_at": "2026-09-15 15:52:55",
    "source": "DOCS",
@@ -10215,54 +10251,12 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Israel BSL Winner Cup + Karel Guzman → Hapoel HaEmek",
-   "detected_at": "2026-09-09 18:00:05",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Kenneth Faried  ~ number: - -> 35",
-   "detected_at": "2026-09-09 17:53:41",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Kenneth_Faried"
-  },
-  {
-   "detail": "Tyler Burton  ~ team: Free agent -> Santa Cruz Warriors",
-   "detected_at": "2026-09-09 17:53:41",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Tyler_Burton"
-  },
-  {
-   "detail": "Tyler Burton  ~ league: - -> NBA G League",
-   "detected_at": "2026-09-09 17:53:41",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Tyler_Burton"
-  },
-  {
-   "detail": "Tyler Burton  ~ CAREER  + 2026–present Santa Cruz Warriors",
-   "detected_at": "2026-09-09 17:53:41",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Tyler_Burton"
-  },
-  {
-   "detail": "Justin James (basketball)  ~ team: Álftanes -> Ironi Ness Ziona",
-   "detected_at": "2026-09-09 17:53:41",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Justin_James_(basketball)"
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 2383,
-   "last": "2026-09-15 15:52:55"
+   "count": 2389,
+   "last": "2026-09-15 15:53:55"
   },
   "GLEAGUE": {
    "count": 60,
@@ -10301,6 +10295,6 @@
    "last": "2026-09-15 14:05:07"
   }
  },
- "generated_at": "2026-09-15T15:53:00",
- "total": 13176
+ "generated_at": "2026-09-15T15:54:01",
+ "total": 13182
 }
