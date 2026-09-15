@@ -1,6 +1,108 @@
 {
  "events": [
   {
+   "detail": "LAC  + ADDED  Ingram, Brandon",
+   "detected_at": "2026-09-14 20:02:59",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "LAC  + ADDED  Dick, Gradey",
+   "detected_at": "2026-09-14 20:02:59",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "LAC  - REMOVED Leonard, Kawhi",
+   "detected_at": "2026-09-14 20:02:59",
+   "source": "SHEETS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "LAC  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 205346772 -> 202178282.1, col4: 100270202 -> 142174963.8, col9: 354442693.3 -> 393178965.3",
+   "detected_at": "2026-09-14 20:02:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "LAC  CHANGED Players Under Contract  -  col3: 190980734 -> 187812244.1, col4: 100270202 -> 142174963.8",
+   "detected_at": "2026-09-14 20:02:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "LAC  CHANGED Full Season Contracts  -  col3: 190980734 -> 187812244.1, col4: 100270202 -> 142174963.8",
+   "detected_at": "2026-09-14 20:02:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "LAC  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 17 -> 18",
+   "detected_at": "2026-09-14 20:02:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "TOR  + ADDED  Leonard, Kawhi",
+   "detected_at": "2026-09-14 20:02:59",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "TOR  - REMOVED Ingram, Brandon",
+   "detected_at": "2026-09-14 20:02:59",
+   "source": "SHEETS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "TOR  - REMOVED Dick, Gradey",
+   "detected_at": "2026-09-14 20:02:59",
+   "source": "SHEETS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "TOR  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 213253777.1 -> 216422267, col4: 166229338.8 -> 124324577, col9: 587976385.5 -> 549240113.6",
+   "detected_at": "2026-09-14 20:02:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "TOR  CHANGED Players Under Contract  -  col3: 200205514.1 -> 203374004, col4: 166229338.8 -> 124324577",
+   "detected_at": "2026-09-14 20:02:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "TOR  CHANGED Full Season Contracts  -  col3: 200205514.1 -> 203374004, col4: 166229338.8 -> 124324577",
+   "detected_at": "2026-09-14 20:02:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "TOR  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 16 -> 15",
+   "detected_at": "2026-09-14 20:02:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col29: 0 -> 2946004",
+   "detected_at": "2026-09-14 20:02:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 1st Incremental Tax Bracket  -  col29: 0 -> 2946004",
+   "detected_at": "2026-09-14 20:02:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col29: 0 -> 2946004",
+   "detected_at": "2026-09-14 20:02:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "~ CHANGED Kawhi Leonard  team: LAC -> TOR",
    "detected_at": "2026-09-14 19:39:55",
    "source": "PLAYERS",
@@ -10107,120 +10209,6 @@
    "detected_at": "2026-09-08 13:11:58",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED 1st Incremental Tax Bracket  -  col8: 5098411 -> 0",
-   "detected_at": "2026-09-08 13:11:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col8: 5098411 -> 0",
-   "detected_at": "2026-09-08 13:11:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "2026-09-08  Cleveland Cavaliers re-signed guard James Harden to a Contract.",
-   "detected_at": "2026-09-08 12:21:55",
-   "source": "TRANSACTIONS",
-   "type": "Signing"
-  },
-  {
-   "detail": "Xavier Sneed  ~ team: Hapoel Jerusalem -> Free agent",
-   "detected_at": "2026-09-08 12:14:48",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Xavier_Sneed"
-  },
-  {
-   "detail": "Xavier Sneed  ~ league: Ligat HaAl EuroCup -> -",
-   "detected_at": "2026-09-08 12:14:48",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Xavier_Sneed"
-  },
-  {
-   "detail": "Xavier Sneed  ~ number: 20 -> -",
-   "detected_at": "2026-09-08 12:14:48",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Xavier_Sneed"
-  },
-  {
-   "detail": "Xavier Sneed  ~ CAREER  + 2026 Hapoel Jerusalem",
-   "detected_at": "2026-09-08 12:14:48",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Xavier_Sneed"
-  },
-  {
-   "detail": "Yotam Hanochi  ~ position: Power forward -> Small forward",
-   "detected_at": "2026-09-08 12:14:48",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Yotam_Hanochi"
-  },
-  {
-   "detail": "~ CHANGED Taj Gibson  school: USC -> Southern California",
-   "detected_at": "2026-09-08 11:20:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Taj Gibson  ~ CAREER  + Memphis Grizzlies",
-   "detected_at": "2026-09-08 11:05:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Taj_Gibson"
-  },
-  {
-   "detail": "Taj Gibson  ~ CAREER  + –present New Orleans Pelicans",
-   "detected_at": "2026-09-08 11:05:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Taj_Gibson"
-  },
-  {
-   "detail": "AJ Johnson (basketball)  ~ CAREER  + –present New Orleans Pelicans",
-   "detected_at": "2026-09-08 11:05:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/AJ_Johnson_(basketball)"
-  },
-  {
-   "detail": "~ CHANGED Taj Gibson  school: Southern California -> USC",
-   "detected_at": "2026-09-08 10:47:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Keye van der Vuurst de Vries  ~ team: ONVO Büyükçekmece -> Joventut Badalona",
-   "detected_at": "2026-09-08 10:42:48",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Keye_van_der_Vuurst_de_Vries"
-  },
-  {
-   "detail": "Keye van der Vuurst de Vries  ~ league: Basketbol Süper Ligi -> Liga ACB",
-   "detected_at": "2026-09-08 10:42:48",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Keye_van_der_Vuurst_de_Vries"
-  },
-  {
-   "detail": "Keye van der Vuurst de Vries  ~ number: 1 -> 6",
-   "detected_at": "2026-09-08 10:42:48",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Keye_van_der_Vuurst_de_Vries"
-  },
-  {
-   "detail": "Keye van der Vuurst de Vries  ~ CAREER  + 2023–2024 Palencia",
-   "detected_at": "2026-09-08 10:42:48",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Keye_van_der_Vuurst_de_Vries"
   }
  ],
  "feeds": {
@@ -10249,8 +10237,8 @@
    "last": "2026-09-14 09:41:51"
   },
   "SHEETS": {
-   "count": 3773,
-   "last": "2026-09-14 17:46:00"
+   "count": 3790,
+   "last": "2026-09-14 20:02:59"
   },
   "TRANSACTIONS": {
    "count": 330,
@@ -10265,6 +10253,6 @@
    "last": "2026-09-13 19:06:54"
   }
  },
- "generated_at": "2026-09-14T20:02:39",
- "total": 12853
+ "generated_at": "2026-09-14T20:03:27",
+ "total": 12870
 }
