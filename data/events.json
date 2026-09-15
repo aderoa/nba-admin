@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Nolan Traoré  ~ CAREER  + 2025 [[Iowa Wolves]",
+   "detected_at": "2026-09-15 08:11:48",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Nolan_Traor%C3%A9"
+  },
+  {
+   "detail": "Jett Howard  ~ number: 9 -> 13",
+   "detected_at": "2026-09-15 08:11:48",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jett_Howard"
+  },
+  {
    "detail": "+ ADDED   Basheer Jihad (DET)",
    "detected_at": "2026-09-15 07:49:54",
    "source": "PLAYERS",
@@ -10213,20 +10227,6 @@
    "source": "WIKIWATCH",
    "type": "FIELD",
    "url": "Power forward / center"
-  },
-  {
-   "detail": "Roman Sorkin  ~ 53051: number -> -",
-   "detected_at": "2026-09-09 07:42:10",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "9"
-  },
-  {
-   "detail": "Roman Sorkin  ~ 53051: (page changed) -> -",
-   "detected_at": "2026-09-09 07:42:10",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10263,14 +10263,14 @@
    "last": "2026-09-14 18:58:55"
   },
   "WIKI": {
-   "count": 3237,
-   "last": "2026-09-15 07:48:50"
+   "count": 3239,
+   "last": "2026-09-15 08:11:48"
   },
   "WIKIWATCH": {
    "count": 132,
    "last": "2026-09-13 19:06:54"
   }
  },
- "generated_at": "2026-09-15T08:03:05",
- "total": 13037
+ "generated_at": "2026-09-15T08:11:51",
+ "total": 13039
 }
