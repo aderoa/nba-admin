@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "~ CHANGED Dwight Murray, Jr.  school: Rider -> Rider University",
+   "detected_at": "2026-09-15 13:59:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "Basketball Champions League Europe Qualification + Corey Floyd, Jr. → Les Lions de Geneve",
    "detected_at": "2026-09-15 13:02:15",
    "source": "REALGM",
@@ -10214,12 +10220,6 @@
    "detected_at": "2026-09-09 17:23:01",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "NOL  CHANGED Waived Contracts  -  col3: 0 -> 148828",
-   "detected_at": "2026-09-09 17:23:01",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10232,8 +10232,8 @@
    "last": "2026-09-12 08:58:24"
   },
   "PLAYERS": {
-   "count": 799,
-   "last": "2026-09-15 12:35:54"
+   "count": 800,
+   "last": "2026-09-15 13:59:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10264,6 +10264,6 @@
    "last": "2026-09-13 19:06:54"
   }
  },
- "generated_at": "2026-09-15T13:59:02",
- "total": 13104
+ "generated_at": "2026-09-15T14:00:01",
+ "total": 13105
 }
