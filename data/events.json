@@ -1,6 +1,78 @@
 {
  "events": [
   {
+   "detail": "OKC  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 216464608 -> 217822371, col9: 784864036.8 -> 786221799.8",
+   "detected_at": "2026-09-15 16:01:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "OKC  CHANGED Players Under Contract  -  col3: 214279492 -> 215637255",
+   "detected_at": "2026-09-15 16:01:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "OKC  CHANGED Full Season Contracts  -  col3: 214279492 -> 215637255",
+   "detected_at": "2026-09-15 16:01:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "OKC  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 14 -> 15",
+   "detected_at": "2026-09-15 16:01:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "OKC  CHANGED Avg, Salary (Mean) (No 10-Day K's)  -  col6: 1 -> 0",
+   "detected_at": "2026-09-15 16:01:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col22: 13851492 -> 15209255",
+   "detected_at": "2026-09-15 16:01:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 3rd Incremental Tax Bracket  -  col22: 8685222 -> 13437392.5",
+   "detected_at": "2026-09-15 16:01:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col22: 21476472 -> 26228642.5",
+   "detected_at": "2026-09-15 16:01:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED Devin Carter Milwaukee Bucks",
+   "detected_at": "2026-09-15 16:01:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Devin Carter Boston Celtics",
+   "detected_at": "2026-09-15 16:01:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED Execution Date: 9/3/26",
+   "detected_at": "2026-09-15 16:01:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 9/14/26",
+   "detected_at": "2026-09-15 16:01:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "BOS  + ADDED  Carter, Devin",
    "detected_at": "2026-09-15 16:00:58",
    "source": "SHEETS",
@@ -10139,90 +10211,12 @@
    "detected_at": "2026-09-10 07:09:20",
    "source": "GLEAGUE",
    "type": "Trade"
-  },
-  {
-   "detail": "2026-09-09  Traded: Cody Martin (Capitanes)",
-   "detected_at": "2026-09-10 07:09:20",
-   "source": "GLEAGUE",
-   "type": "Trade"
-  },
-  {
-   "detail": "2026-09-09  Traded: Au'diese Toney (Magic)",
-   "detected_at": "2026-09-10 07:09:20",
-   "source": "GLEAGUE",
-   "type": "Trade"
-  },
-  {
-   "detail": "2026-09-09  Traded: Patrick Gardner (Boom)",
-   "detected_at": "2026-09-10 07:09:20",
-   "source": "GLEAGUE",
-   "type": "Trade"
-  },
-  {
-   "detail": "2026-09-09  Traded: Warith Alatishe (Hustle)",
-   "detected_at": "2026-09-10 07:09:20",
-   "source": "GLEAGUE",
-   "type": "Trade"
-  },
-  {
-   "detail": "2026-09-09  Traded: Lahat Thioune (Charge)",
-   "detected_at": "2026-09-10 07:09:20",
-   "source": "GLEAGUE",
-   "type": "Trade"
-  },
-  {
-   "detail": "2026-09-09  Traded: Aziz Bandaogo (Squadron)",
-   "detected_at": "2026-09-10 07:09:20",
-   "source": "GLEAGUE",
-   "type": "Trade"
-  },
-  {
-   "detail": "Ahmad Caver  ~ number: 2 -> 7",
-   "detected_at": "2026-09-09 19:03:44",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Ahmad_Caver"
-  },
-  {
-   "detail": "Jacob Wiley  ~ CAREER  + 2026–present Ironi Ness Ziona",
-   "detected_at": "2026-09-09 18:17:41",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Jacob_Wiley"
-  },
-  {
-   "detail": "Adam Ariel  ~ team: Maccabi Ramat Gan -> Ironi Ness Ziona",
-   "detected_at": "2026-09-09 18:17:41",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Adam_Ariel"
-  },
-  {
-   "detail": "Adam Ariel  ~ league: Israeli Premier League -> Israeli Basketball Premier League",
-   "detected_at": "2026-09-09 18:17:41",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Adam_Ariel"
-  },
-  {
-   "detail": "Adam Ariel  ~ CAREER  + 2023–2026 Maccabi Ramat Gan",
-   "detected_at": "2026-09-09 18:17:41",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Adam_Ariel"
-  },
-  {
-   "detail": "Adam Ariel  ~ CAREER  + 2026–present Ironi Ness Ziona",
-   "detected_at": "2026-09-09 18:17:41",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Adam_Ariel"
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 2415,
-   "last": "2026-09-15 16:00:56"
+   "count": 2419,
+   "last": "2026-09-15 16:01:56"
   },
   "GLEAGUE": {
    "count": 60,
@@ -10245,8 +10239,8 @@
    "last": "2026-09-15 13:02:15"
   },
   "SHEETS": {
-   "count": 3798,
-   "last": "2026-09-15 16:00:58"
+   "count": 3806,
+   "last": "2026-09-15 16:01:58"
   },
   "TRANSACTIONS": {
    "count": 341,
@@ -10261,6 +10255,6 @@
    "last": "2026-09-15 15:57:10"
   }
  },
- "generated_at": "2026-09-15T16:01:01",
- "total": 13217
+ "generated_at": "2026-09-15T16:02:01",
+ "total": 13229
 }
