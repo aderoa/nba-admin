@@ -1,6 +1,18 @@
 {
  "events": [
   {
+   "detail": "~ CHANGED Dwight Murray, Jr.  school: Rider -> Rider University",
+   "detected_at": "2026-09-15 12:02:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Christian Shumate  school: McNeese State -> Mc Neese State",
+   "detected_at": "2026-09-15 12:02:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "2026-09-14  Boston Celtics waived guard Caleb Grill.",
    "detected_at": "2026-09-15 11:45:55",
    "source": "TRANSACTIONS",
@@ -10208,20 +10220,6 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/%C4%90or%C4%91e_Gagi%C4%87"
-  },
-  {
-   "detail": "Đorđe Gagić  ~ CAREER  + 2025–2026 Kalleh Mazandaran",
-   "detected_at": "2026-09-09 08:56:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/%C4%90or%C4%91e_Gagi%C4%87"
-  },
-  {
-   "detail": "Đorđe Gagić  ~ CAREER  + 2026 Shabab Al Ahli",
-   "detected_at": "2026-09-09 08:56:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/%C4%90or%C4%91e_Gagi%C4%87"
   }
  ],
  "feeds": {
@@ -10234,8 +10232,8 @@
    "last": "2026-09-12 08:58:24"
   },
   "PLAYERS": {
-   "count": 790,
-   "last": "2026-09-15 11:30:54"
+   "count": 792,
+   "last": "2026-09-15 12:02:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10266,6 +10264,6 @@
    "last": "2026-09-13 19:06:54"
   }
  },
- "generated_at": "2026-09-15T12:02:00",
- "total": 13052
+ "generated_at": "2026-09-15T12:03:04",
+ "total": 13054
 }
