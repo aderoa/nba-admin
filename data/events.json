@@ -1,6 +1,18 @@
 {
  "events": [
   {
+   "detail": "~ CHANGED M.J. Iraldi  school: Nova Southeastern -> Nova Southeastern ",
+   "detected_at": "2026-09-15 14:54:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Dwight Murray, Jr.  school: Rider -> Rider University",
+   "detected_at": "2026-09-15 14:54:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "2026-09-15  Detroit Pistons waived forward Basheer Jihad.",
    "detected_at": "2026-09-15 14:45:55",
    "source": "TRANSACTIONS",
@@ -10234,18 +10246,6 @@
    "detected_at": "2026-09-09 17:31:57",
    "source": "DOCS",
    "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 9/8/26",
-   "detected_at": "2026-09-09 17:31:57",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "CLE  CHANGED Harden, James  -  TEAM SALARY CAP REPORT\n       -  CLEVELAND CAVALIERS: 4 - CAP HOLD -> 1 - FULL SEASON, col3: 47019231.6 -> 30647619.0, col4: - -> 32180000.0, col5: - -> 33712381.0, col9: 47019231.6 -> 96540000",
-   "detected_at": "2026-09-09 17:31:00",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10258,8 +10258,8 @@
    "last": "2026-09-12 08:58:24"
   },
   "PLAYERS": {
-   "count": 801,
-   "last": "2026-09-15 14:42:54"
+   "count": 803,
+   "last": "2026-09-15 14:54:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10290,6 +10290,6 @@
    "last": "2026-09-15 14:05:07"
   }
  },
- "generated_at": "2026-09-15T14:54:00",
- "total": 13143
+ "generated_at": "2026-09-15T14:55:01",
+ "total": 13145
 }
