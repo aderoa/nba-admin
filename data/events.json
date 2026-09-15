@@ -1,6 +1,24 @@
 {
  "events": [
   {
+   "detail": "ATL  + ADDED  Baker, William",
+   "detected_at": "2026-09-15 16:05:58",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  - REMOVED Update 1.3 (7/18/26): K. Lopez, K. Diop, J. Allick, L. Butler, D. Garcia, C. Grill, J. Hadley, D. Higgs, K. Mangas, M. Murrell, J. Nelson, J. O’Neil, C. Shumate, K. Stewart, S. Thomas, C. Tilly, T. Townsend",
+   "detected_at": "2026-09-15 16:05:55",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Update 1.3 (7/18/26): K. Lopez, K. Diop, J. Allick, W. Baker, L. Butler, D. Garcia, C. Grill, J. Hadley, D. Higgs, K. Mangas, M. Murrell, J. Nelson, J. O’Neil, C. Shumate, K. Stewart, S. Thomas, C. Tilly, T. Townsend",
+   "detected_at": "2026-09-15 16:05:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "ATL  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 230114791 -> 231472554, col9: 560444545.2 -> 561802308.2",
    "detected_at": "2026-09-15 16:04:58",
    "source": "SHEETS",
@@ -10179,33 +10197,12 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Anton_Shoutvin"
-  },
-  {
-   "detail": "Anton Shoutvin  ~ CAREER  + 2026–present Hapoel Kiryat Tivon/Megido",
-   "detected_at": "2026-09-10 10:49:44",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Anton_Shoutvin"
-  },
-  {
-   "detail": "Justin Lewis (basketball)  ~ team: Limoges CSP -> Maccabi Ramat Gan",
-   "detected_at": "2026-09-10 08:07:44",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Justin_Lewis_(basketball)"
-  },
-  {
-   "detail": "Justin Lewis (basketball)  ~ league: LNB Pro A -> Israeli Basketball Premier League",
-   "detected_at": "2026-09-10 08:07:44",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Justin_Lewis_(basketball)"
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 2429,
-   "last": "2026-09-15 16:04:55"
+   "count": 2431,
+   "last": "2026-09-15 16:05:55"
   },
   "GLEAGUE": {
    "count": 60,
@@ -10228,8 +10225,8 @@
    "last": "2026-09-15 13:02:15"
   },
   "SHEETS": {
-   "count": 3811,
-   "last": "2026-09-15 16:04:58"
+   "count": 3812,
+   "last": "2026-09-15 16:05:58"
   },
   "TRANSACTIONS": {
    "count": 341,
@@ -10244,6 +10241,6 @@
    "last": "2026-09-15 15:57:10"
   }
  },
- "generated_at": "2026-09-15T16:05:03",
- "total": 13244
+ "generated_at": "2026-09-15T16:06:12",
+ "total": 13247
 }
