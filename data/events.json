@@ -1,6 +1,18 @@
 {
  "events": [
   {
+   "detail": "2026-09-14  Boston Celtics waived guard Caleb Grill.",
+   "detected_at": "2026-09-15 11:45:55",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-09-14  New Orleans Pelicans waived forward Christian Shumate.",
+   "detected_at": "2026-09-15 11:45:55",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
    "detail": "Mike Conley Jr.  ~ number: 44 -> 45",
    "detected_at": "2026-09-15 11:38:48",
    "source": "WIKI",
@@ -10210,20 +10222,6 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/%C4%90or%C4%91e_Gagi%C4%87"
-  },
-  {
-   "detail": "Jack Kayil  ~ number: - -> 7",
-   "detected_at": "2026-09-09 08:56:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jack_Kayil"
-  },
-  {
-   "detail": "Amari Bailey  ~ team: Hapoel Jerusalem -> Hapoel Be'er Sheva",
-   "detected_at": "2026-09-09 08:27:48",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Amari_Bailey"
   }
  ],
  "feeds": {
@@ -10256,8 +10254,8 @@
    "last": "2026-09-14 20:02:59"
   },
   "TRANSACTIONS": {
-   "count": 330,
-   "last": "2026-09-14 18:58:55"
+   "count": 332,
+   "last": "2026-09-15 11:45:55"
   },
   "WIKI": {
    "count": 3247,
@@ -10268,6 +10266,6 @@
    "last": "2026-09-13 19:06:54"
   }
  },
- "generated_at": "2026-09-15T11:45:00",
- "total": 13050
+ "generated_at": "2026-09-15T11:46:00",
+ "total": 13052
 }
