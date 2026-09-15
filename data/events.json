@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Andersson Garcia  ~ number: 0 -> 11",
+   "detected_at": "2026-09-15 15:05:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Andersson_Garcia"
+  },
+  {
+   "detail": "Mateo Drežnjak  ~ CAREER  + 2024-2025 Budućnost",
+   "detected_at": "2026-09-15 15:05:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Mateo_Dre%C5%BEnjak"
+  },
+  {
    "detail": "~ CHANGED M.J. Iraldi  school: Nova Southeastern -> Nova Southeastern ",
    "detected_at": "2026-09-15 14:54:54",
    "source": "PLAYERS",
@@ -10234,18 +10248,6 @@
    "detected_at": "2026-09-09 17:31:57",
    "source": "DOCS",
    "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Execution Date: 8/13/26",
-   "detected_at": "2026-09-09 17:31:57",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  3 Years for $96,540,000. Non-Qualifying Veteran Free Agent Exception. Advance Payment ($48,270,000). Player option to extend the contract to include the 2028-29 Season. Insurance Premium Reimbursement. Skill; Injury or Illness; Mental; Death. Trade Kicker (15%). Love of the Game. Physical Exam. Alt. 7(b).",
-   "detected_at": "2026-09-09 17:31:57",
-   "source": "DOCS",
-   "type": "ADDED"
   }
  ],
  "feeds": {
@@ -10282,14 +10284,14 @@
    "last": "2026-09-15 14:45:55"
   },
   "WIKI": {
-   "count": 3257,
-   "last": "2026-09-15 14:42:46"
+   "count": 3259,
+   "last": "2026-09-15 15:05:47"
   },
   "WIKIWATCH": {
    "count": 150,
    "last": "2026-09-15 14:05:07"
   }
  },
- "generated_at": "2026-09-15T14:57:00",
- "total": 13145
+ "generated_at": "2026-09-15T15:05:57",
+ "total": 13147
 }
