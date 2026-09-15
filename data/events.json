@@ -1,6 +1,30 @@
 {
  "events": [
   {
+   "detail": "2026-27 Veteran Signings  - REMOVED 2 Years for $15,375,000. Non-Taxpayer Mid-Level Exception (Partial). Player option to extend the contract to include the 2027-28 Season. Insurance Premium Reimbursement. Skill; Injury or Illness; Mental. Love of the Game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-09-14 17:48:55",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED Execution Date: 7/6/26",
+   "detected_at": "2026-09-14 17:48:55",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  2 Years for $15,375,000. Non-Taxpayer Mid-Level Exception (Partial). Player option to extend the contract to include the 2027-28 Season. Skill; Injury or Illness. Love of the Game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-09-14 17:48:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 9/10/26",
+   "detected_at": "2026-09-14 17:48:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "2026-27 Veteran Signings  + ADDED  Bennedict Mathurin New Orleans Pelicans",
    "detected_at": "2026-09-14 17:47:56",
    "source": "DOCS",
@@ -10194,36 +10218,12 @@
    "detected_at": "2026-09-08 09:40:55",
    "source": "TRANSACTIONS",
    "type": "Trade"
-  },
-  {
-   "detail": "~ CHANGED Taj Gibson  school: Southern California -> USC",
-   "detected_at": "2026-09-08 09:37:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Taj Gibson  school: USC -> Southern California",
-   "detected_at": "2026-09-08 09:36:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Taj Gibson  school: Southern California -> USC",
-   "detected_at": "2026-09-08 09:35:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Taj Gibson  school: USC -> Southern California",
-   "detected_at": "2026-09-08 09:33:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 2373,
-   "last": "2026-09-14 17:47:56"
+   "count": 2377,
+   "last": "2026-09-14 17:48:55"
   },
   "GLEAGUE": {
    "count": 60,
@@ -10262,6 +10262,6 @@
    "last": "2026-09-13 19:06:54"
   }
  },
- "generated_at": "2026-09-14T17:48:04",
- "total": 12836
+ "generated_at": "2026-09-14T17:49:01",
+ "total": 12840
 }
