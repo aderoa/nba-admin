@@ -1,6 +1,90 @@
 {
  "events": [
   {
+   "detail": "BOS  + ADDED  Carter, Devin",
+   "detected_at": "2026-09-15 16:00:58",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "BOS  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 210707006 -> 213156427, col9: 709042065.8 -> 711491486.8",
+   "detected_at": "2026-09-15 16:00:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "BOS  CHANGED Players Under Contract  -  col3: 201437932 -> 203887353",
+   "detected_at": "2026-09-15 16:00:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "BOS  CHANGED Full Season Contracts  -  col3: 201437932 -> 203887353",
+   "detected_at": "2026-09-15 16:00:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "BOS  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 16 -> 17",
+   "detected_at": "2026-09-15 16:00:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col3: 1009932 -> 3459353",
+   "detected_at": "2026-09-15 16:00:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 1st Incremental Tax Bracket  -  col3: 3029796 -> 10378059",
+   "detected_at": "2026-09-15 16:00:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col3: 3029796 -> 10378059",
+   "detected_at": "2026-09-15 16:00:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED Update 1.3 (7/18/26): B. Beal, D. Brooks, K. Bufkin, J. Butler Jr., K. Caldwell-Pope, M. Cisse, I. Crawford, J. Davison, D. DeRozan, T. Fall, D. Green, J. Harden, M. Hezonja, H. Highsmith, C. Houstan, H. Ingram, A. Jackson, L. James, D. Jones, S. Jones, Y. Kawamura, C. Koloko, J. Kuminga, N. Marshall, B. Mathurin, B. Mbeng, D. Melton, G. Niang, G. Payton, T. Peter, J. Phillips, N. Richards, B. Simmons, M. Smith, J. Sochan, J. Tate, D. Terry, A. Thompson, K. Thompson, M. Thybulle, A. Toohey, O. Tshiebwe, M. Wagner, L. Walker, J. Walsh, T. Watford, P. Watson, B. Williams",
+   "detected_at": "2026-09-15 16:00:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Update 1.3 (7/18/26): B. Beal, D. Brooks, K. Bufkin, J. Butler Jr., K. Caldwell-Pope, D. Carter, M. Cisse, I. Crawford, J. Davison, D. DeRozan, T. Fall, D. Green, J. Harden, M. Hezonja, H. Highsmith, C. Houstan, H. Ingram, A. Jackson, L. James, D. Jones, S. Jones, Y. Kawamura, C. Koloko, J. Kuminga, N. Marshall, B. Mathurin, B. Mbeng, D. Melton, G. Niang, G. Payton, T. Peter, J. Phillips, N. Richards, B. Simmons, M. Smith, J. Sochan, J. Tate, D. Terry, A. Thompson, K. Thompson, M. Thybulle, A. Toohey, O. Tshiebwe, M. Wagner, L. Walker, J. Walsh, T. Watford, P. Watson, B. Williams",
+   "detected_at": "2026-09-15 16:00:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Devin Carter Milwaukee Bucks",
+   "detected_at": "2026-09-15 16:00:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  26-27 $2,449,421",
+   "detected_at": "2026-09-15 16:00:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
+   "detected_at": "2026-09-15 16:00:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 9/3/26",
+   "detected_at": "2026-09-15 16:00:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "2026-27 Rookie Signings  - REMOVED Caleb Grill Boston Celtics",
    "detected_at": "2026-09-15 15:59:55",
    "source": "DOCS",
@@ -10133,110 +10217,12 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Adam_Ariel"
-  },
-  {
-   "detail": "Israel BSL Winner Cup Bnei Herzelia 101, Hapoel Eilat 98",
-   "detected_at": "2026-09-09 18:00:14",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-09/Bnei-Herzelia-at-Hapoel-Eilat/528551"
-  },
-  {
-   "detail": "Israel BSL Winner Cup + D.J. Brewton → Bnei Herzelia",
-   "detected_at": "2026-09-09 18:00:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Israel BSL Winner Cup + D.J. Burns, Jr. → Bnei Herzelia",
-   "detected_at": "2026-09-09 18:00:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Israel BSL Winner Cup + Gerald Hannahs → Bnei Herzelia",
-   "detected_at": "2026-09-09 18:00:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Israel BSL Winner Cup + Nathan Knight → Bnei Herzelia",
-   "detected_at": "2026-09-09 18:00:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Israel BSL Winner Cup + Zack Bryant → Bnei Herzelia",
-   "detected_at": "2026-09-09 18:00:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Israel BSL Winner Cup + Noah Carter → Bnei Herzelia",
-   "detected_at": "2026-09-09 18:00:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Israel BSL Winner Cup + Amit Gershon → Bnei Herzelia",
-   "detected_at": "2026-09-09 18:00:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Israel BSL Winner Cup + Amit Menachem → Bnei Herzelia",
-   "detected_at": "2026-09-09 18:00:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Israel BSL Winner Cup + James Dickey → Hapoel Eilat",
-   "detected_at": "2026-09-09 18:00:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Israel BSL Winner Cup + Aaron Wheeler → Hapoel Eilat",
-   "detected_at": "2026-09-09 18:00:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Israel BSL Winner Cup + Daniel Rosenbaum → Hapoel Eilat",
-   "detected_at": "2026-09-09 18:00:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Israel BSL Winner Cup + Zuf Ben Moshe → Hapoel Eilat",
-   "detected_at": "2026-09-09 18:00:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Israel BSL Winner Cup + Kendale McCullum → Hapoel Eilat",
-   "detected_at": "2026-09-09 18:00:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 2409,
-   "last": "2026-09-15 15:59:55"
+   "count": 2415,
+   "last": "2026-09-15 16:00:56"
   },
   "GLEAGUE": {
    "count": 60,
@@ -10259,8 +10245,8 @@
    "last": "2026-09-15 13:02:15"
   },
   "SHEETS": {
-   "count": 3790,
-   "last": "2026-09-14 20:02:59"
+   "count": 3798,
+   "last": "2026-09-15 16:00:58"
   },
   "TRANSACTIONS": {
    "count": 341,
@@ -10275,6 +10261,6 @@
    "last": "2026-09-15 15:57:10"
   }
  },
- "generated_at": "2026-09-15T16:00:01",
- "total": 13203
+ "generated_at": "2026-09-15T16:01:01",
+ "total": 13217
 }
