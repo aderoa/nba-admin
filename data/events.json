@@ -1,6 +1,24 @@
 {
  "events": [
   {
+   "detail": "~ CHANGED Kawhi Leonard  team: LAC -> TOR",
+   "detected_at": "2026-09-14 19:39:55",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Gradey Dick  team: TOR -> LAC",
+   "detected_at": "2026-09-14 19:39:55",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Brandon Ingram  team: TOR -> LAC",
+   "detected_at": "2026-09-14 19:39:55",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "2026-09-14  LA Clippers received guard Gradey Dick from Toronto Raptors.",
    "detected_at": "2026-09-14 18:58:55",
    "source": "TRANSACTIONS",
@@ -10203,26 +10221,6 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Keye_van_der_Vuurst_de_Vries"
-  },
-  {
-   "detail": "Keye van der Vuurst de Vries  ~ CAREER  + 2024–present Joventut Badalona",
-   "detected_at": "2026-09-08 10:42:48",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Keye_van_der_Vuurst_de_Vries"
-  },
-  {
-   "detail": "Keye van der Vuurst de Vries  ~ CAREER  + 2025–2026 → Büyükçekmece",
-   "detected_at": "2026-09-08 10:42:48",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Keye_van_der_Vuurst_de_Vries"
-  },
-  {
-   "detail": "~ CHANGED Taj Gibson  team: MEM -> NOP",
-   "detected_at": "2026-09-08 10:23:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10235,8 +10233,8 @@
    "last": "2026-09-12 08:58:24"
   },
   "PLAYERS": {
-   "count": 782,
-   "last": "2026-09-14 17:37:55"
+   "count": 785,
+   "last": "2026-09-14 19:39:55"
   },
   "RATINGS": {
    "count": 950,
@@ -10267,6 +10265,6 @@
    "last": "2026-09-13 19:06:54"
   }
  },
- "generated_at": "2026-09-14T19:39:40",
- "total": 12850
+ "generated_at": "2026-09-14T19:40:03",
+ "total": 12853
 }
