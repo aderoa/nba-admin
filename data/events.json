@@ -1,6 +1,18 @@
 {
  "events": [
   {
+   "detail": "2026-27 Rookie Signings  - REMOVED Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($620).",
+   "detected_at": "2026-09-15 15:55:55",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($62,500).",
+   "detected_at": "2026-09-15 15:55:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "2026-27 Rookie Signings  - REMOVED Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($35,000).",
    "detected_at": "2026-09-15 15:54:56",
    "source": "DOCS",
@@ -10231,26 +10243,12 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Israel BSL Winner Cup + Justin Allen → Ironi Ramat Gan",
-   "detected_at": "2026-09-09 18:00:05",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Israel BSL Winner Cup + Malik Hall → Hapoel HaEmek",
-   "detected_at": "2026-09-09 18:00:05",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 2395,
-   "last": "2026-09-15 15:54:56"
+   "count": 2397,
+   "last": "2026-09-15 15:55:55"
   },
   "GLEAGUE": {
    "count": 60,
@@ -10289,6 +10287,6 @@
    "last": "2026-09-15 14:05:07"
   }
  },
- "generated_at": "2026-09-15T15:55:01",
- "total": 13188
+ "generated_at": "2026-09-15T15:56:00",
+ "total": 13190
 }
