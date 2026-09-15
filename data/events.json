@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Micah Peavy  ~ CAREER  + New Orleans Pelicans",
+   "detected_at": "2026-09-14 21:57:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Micah_Peavy"
+  },
+  {
    "detail": "Brandon Ingram  ~ number: 14 -> -",
    "detected_at": "2026-09-14 21:11:48",
    "source": "WIKI",
@@ -10208,12 +10215,6 @@
    "detected_at": "2026-09-08 13:11:58",
    "source": "SHEETS",
    "type": "REMOVED"
-  },
-  {
-   "detail": "DAL  CHANGED Thompson, Klay  -  TEAM SALARY CAP REPORT\n       -  DALLAS MAVERICKS: 1 - FULL SEASON -> 7 - WAIVED, col3: 17460317.0 -> 7660317.0, col9: 17460317 -> 7660317",
-   "detected_at": "2026-09-08 13:11:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10250,14 +10251,14 @@
    "last": "2026-09-14 18:58:55"
   },
   "WIKI": {
-   "count": 3201,
-   "last": "2026-09-14 21:11:48"
+   "count": 3202,
+   "last": "2026-09-14 21:57:47"
   },
   "WIKIWATCH": {
    "count": 132,
    "last": "2026-09-13 19:06:54"
   }
  },
- "generated_at": "2026-09-14T21:49:01",
- "total": 12875
+ "generated_at": "2026-09-14T21:57:48",
+ "total": 12876
 }
