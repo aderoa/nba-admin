@@ -1,6 +1,30 @@
 {
  "events": [
   {
+   "detail": "NOL  CHANGED Mathurin, Bennedict  -  col4: - -> 7875000.0, col9: 7500000 -> 15375000",
+   "detected_at": "2026-09-14 17:46:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "NOL  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col4: 157536850.3 -> 165411850.3, col9: 478322419.2 -> 486197419.2",
+   "detected_at": "2026-09-14 17:46:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "NOL  CHANGED Players Under Contract  -  col4: 157536850.3 -> 165411850.3",
+   "detected_at": "2026-09-14 17:46:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "NOL  CHANGED Full Season Contracts  -  col4: 157536850.3 -> 165411850.3",
+   "detected_at": "2026-09-14 17:46:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "NOL  CHANGED Mathurin, Bennedict  -  TEAM SALARY CAP REPORT\n       -  NEW ORLEANS PELICANS: - -> 1 - FULL SEASON, col3: - -> 7500000.0, col9: 0 -> 7500000",
    "detected_at": "2026-09-14 17:44:57",
    "source": "SHEETS",
@@ -10198,34 +10222,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Tom_Digbeu"
-  },
-  {
-   "detail": "Tom Digbeu  ~ height_in: 5 -> -",
-   "detected_at": "2026-09-08 08:21:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Tom_Digbeu"
-  },
-  {
-   "detail": "Tom Digbeu  ~ weight_lb: 170 -> -",
-   "detected_at": "2026-09-08 08:21:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Tom_Digbeu"
-  },
-  {
-   "detail": "Tom Digbeu  ~ CAREER  + 2025–2026 Stade Rochelais",
-   "detected_at": "2026-09-08 08:21:46",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Tom_Digbeu"
-  },
-  {
-   "detail": "Tom Digbeu  ~ CAREER  + 2026–present Metropolitans 92",
-   "detected_at": "2026-09-08 08:21:46",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Tom_Digbeu"
   }
  ],
  "feeds": {
@@ -10254,8 +10250,8 @@
    "last": "2026-09-14 09:41:51"
   },
   "SHEETS": {
-   "count": 3769,
-   "last": "2026-09-14 17:44:57"
+   "count": 3773,
+   "last": "2026-09-14 17:46:00"
   },
   "TRANSACTIONS": {
    "count": 326,
@@ -10270,6 +10266,6 @@
    "last": "2026-09-13 19:06:54"
   }
  },
- "generated_at": "2026-09-14T17:45:00",
- "total": 12825
+ "generated_at": "2026-09-14T17:46:03",
+ "total": 12829
 }
