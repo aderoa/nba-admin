@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "~ CHANGED Malaki Branham  number: 8 -> 12",
+   "detected_at": "2026-09-15 10:35:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "Gian Clavell  ~ team: Piratas de Quebradillas -> Bashkimi",
    "detected_at": "2026-09-15 10:06:47",
    "source": "WIKI",
@@ -10220,13 +10226,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Matt_Costello"
-  },
-  {
-   "detail": "Nikola Milutinov  ~ 27707: team -> -",
-   "detected_at": "2026-09-09 07:42:10",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "Olympiacos"
   }
  ],
  "feeds": {
@@ -10239,8 +10238,8 @@
    "last": "2026-09-12 08:58:24"
   },
   "PLAYERS": {
-   "count": 787,
-   "last": "2026-09-15 07:49:54"
+   "count": 788,
+   "last": "2026-09-15 10:35:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10271,6 +10270,6 @@
    "last": "2026-09-13 19:06:54"
   }
  },
- "generated_at": "2026-09-15T10:35:00",
- "total": 13046
+ "generated_at": "2026-09-15T10:36:01",
+ "total": 13047
 }
