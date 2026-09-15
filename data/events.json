@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Kawhi Leonard  ~ CAREER  + – Los Angeles Clippers",
+   "detected_at": "2026-09-14 18:53:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Kawhi_Leonard"
+  },
+  {
+   "detail": "Kawhi Leonard  ~ CAREER  + –present Toronto Raptors",
+   "detected_at": "2026-09-14 18:53:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Kawhi_Leonard"
+  },
+  {
    "detail": "Ryan Boatright  ~ team: Free agent -> San Francisco Dons",
    "detected_at": "2026-09-14 18:07:45",
    "source": "WIKI",
@@ -10209,19 +10223,6 @@
    "detected_at": "2026-09-08 10:23:54",
    "source": "PLAYERS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "Taj Gibson  ~ team: Memphis Grizzlies -> New Orleans Pelicans",
-   "detected_at": "2026-09-08 10:18:48",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Taj_Gibson"
-  },
-  {
-   "detail": "2026-09-08  New Orleans Pelicans received guard AJ Johnson from Memphis Grizzlies.",
-   "detected_at": "2026-09-08 09:40:55",
-   "source": "TRANSACTIONS",
-   "type": "Trade"
   }
  ],
  "feeds": {
@@ -10258,14 +10259,14 @@
    "last": "2026-09-11 14:46:55"
   },
   "WIKI": {
-   "count": 3194,
-   "last": "2026-09-14 18:07:45"
+   "count": 3196,
+   "last": "2026-09-14 18:53:47"
   },
   "WIKIWATCH": {
    "count": 132,
    "last": "2026-09-13 19:06:54"
   }
  },
- "generated_at": "2026-09-14T18:45:00",
- "total": 12844
+ "generated_at": "2026-09-14T18:53:47",
+ "total": 12846
 }
