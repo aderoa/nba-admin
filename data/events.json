@@ -1,6 +1,48 @@
 {
  "events": [
   {
+   "detail": "2026-27 Rookie Signings  - REMOVED Update 1.3 (7/18/26): K. Lopez, K. Diop, J. Allick, J. Hadley, D. Higgs, K. Mangas, M. Murrell, J. Nelson, K. Stewart, S. Thomas, T. Townsend",
+   "detected_at": "2026-09-14 17:37:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Update 1.3 (7/18/26): K. Lopez, K. Diop, J. Allick, L. Butler, J. Hadley, D. Higgs, K. Mangas, M. Murrell, J. Nelson, K. Stewart, S. Thomas, T. Townsend",
+   "detected_at": "2026-09-14 17:37:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Lamont Butler (WAIVED) Atlanta Hawks",
+   "detected_at": "2026-09-14 17:37:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  26-27 $1,357,763",
+   "detected_at": "2026-09-14 17:37:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
+   "detected_at": "2026-09-14 17:37:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 8/31/26",
+   "detected_at": "2026-09-14 17:37:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "+ ADDED   William Baker (ATL)",
+   "detected_at": "2026-09-14 17:37:55",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
    "detail": "Jānis Bērziņš (basketball)  ~ number: - -> 31",
    "detected_at": "2026-09-14 17:36:47",
    "source": "WIKI",
@@ -10184,62 +10226,20 @@
    "detected_at": "2026-09-08 08:04:58",
    "source": "SHEETS",
    "type": "ADDED"
-  },
-  {
-   "detail": "MEM  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 159672823.9 -> 168845635.8, col4: 121830582.9 -> 124356483.9, col5: 43632380 -> 46368078, col9: 348177838.8 -> 362612249.7",
-   "detected_at": "2026-09-08 08:04:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "MEM  CHANGED Players Under Contract  -  col3: 137763802.9 -> 146936614.8, col4: 118130582.9 -> 120656483.9, col5: 43632380 -> 46368078",
-   "detected_at": "2026-09-08 08:04:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "MEM  CHANGED Full Season Contracts  -  col3: 137763802.9 -> 146936614.8, col4: 118130582.9 -> 120656483.9, col5: 43632380 -> 46368078",
-   "detected_at": "2026-09-08 08:04:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "MEM  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 19 -> 21",
-   "detected_at": "2026-09-08 08:04:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "NOL  + ADDED  Gibson, Taj",
-   "detected_at": "2026-09-08 08:04:58",
-   "source": "SHEETS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "NOL  + ADDED  Johnson, AJ",
-   "detected_at": "2026-09-08 08:04:58",
-   "source": "SHEETS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "NOL  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 222736534.8 -> 229789515.8, col4: 154569358.7 -> 160062751.3, col9: 476377489.5 -> 488923863.1",
-   "detected_at": "2026-09-08 08:04:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 2342,
-   "last": "2026-09-10 14:53:00"
+   "count": 2348,
+   "last": "2026-09-14 17:37:56"
   },
   "GLEAGUE": {
    "count": 60,
    "last": "2026-09-12 08:58:24"
   },
   "PLAYERS": {
-   "count": 781,
-   "last": "2026-09-14 16:39:54"
+   "count": 782,
+   "last": "2026-09-14 17:37:55"
   },
   "RATINGS": {
    "count": 950,
@@ -10270,6 +10270,6 @@
    "last": "2026-09-13 19:06:54"
   }
  },
- "generated_at": "2026-09-14T17:36:48",
- "total": 12787
+ "generated_at": "2026-09-14T17:38:03",
+ "total": 12794
 }
