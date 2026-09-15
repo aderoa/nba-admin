@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Mexican LNBP Soles 85, Freseros Irapuato 73",
+   "detected_at": "2026-09-15 00:17:24",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-14/Soles-at-Freseros-Irapuato/526615"
+  },
+  {
    "detail": "Kostja Mushidi  ~ team: Mitteldeutscher -> Mitteldeutscher BC",
    "detected_at": "2026-09-14 23:52:49",
    "source": "WIKI",
@@ -10220,13 +10227,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Israel BSL Winner Cup + Daniel Sharon → Elitzur Kiryat Ata",
-   "detected_at": "2026-09-08 17:14:52",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10251,8 +10251,8 @@
    "last": "2026-09-14 23:15:42"
   },
   "SCORES": {
-   "count": 522,
-   "last": "2026-09-14 23:15:42"
+   "count": 523,
+   "last": "2026-09-15 00:17:24"
   },
   "SHEETS": {
    "count": 3790,
@@ -10271,6 +10271,6 @@
    "last": "2026-09-13 19:06:54"
   }
  },
- "generated_at": "2026-09-15T00:15:41",
- "total": 12936
+ "generated_at": "2026-09-15T00:17:26",
+ "total": 12937
 }
