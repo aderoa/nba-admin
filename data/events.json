@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "John Konchar  ~ team: Free agent -> New York Knicks",
+   "detected_at": "2026-09-15 17:46:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/John_Konchar"
+  },
+  {
    "detail": "Israel BSL Winner Cup + Yam Nevo → Hapoel Unet Holon",
    "detected_at": "2026-09-15 17:07:14",
    "source": "REALGM",
@@ -10209,12 +10216,6 @@
    "detected_at": "2026-09-10 14:37:01",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED 4th Incremental Tax Bracket  -  col9: 4348206 -> 20881797.75",
-   "detected_at": "2026-09-10 14:37:01",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10251,14 +10252,14 @@
    "last": "2026-09-15 14:45:55"
   },
   "WIKI": {
-   "count": 3289,
-   "last": "2026-09-15 17:00:46"
+   "count": 3290,
+   "last": "2026-09-15 17:46:46"
   },
   "WIKIWATCH": {
    "count": 151,
    "last": "2026-09-15 15:57:10"
   }
  },
- "generated_at": "2026-09-15T17:38:02",
- "total": 13276
+ "generated_at": "2026-09-15T17:46:47",
+ "total": 13277
 }
