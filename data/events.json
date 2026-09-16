@@ -1,6 +1,96 @@
 {
  "events": [
   {
+   "detail": "GOS  - REMOVED McMillian, Chance",
+   "detected_at": "2026-09-16 16:37:58",
+   "source": "SHEETS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "GOS  - REMOVED Smith, Deivon",
+   "detected_at": "2026-09-16 16:37:58",
+   "source": "SHEETS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "GOS  CHANGED Armstrong, Taran  -  col9: 0 -> 2185116",
+   "detected_at": "2026-09-16 16:37:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "GOS  CHANGED Robinson, Jerome  -  col9: 2185116 -> 0",
+   "detected_at": "2026-09-16 16:37:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "GOS  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 259238052.3 -> 256522526.3, col9: 341647737.7 -> 338932211.7",
+   "detected_at": "2026-09-16 16:37:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "GOS  CHANGED Players Under Contract  -  col3: 228188494.3 -> 225472968.3",
+   "detected_at": "2026-09-16 16:37:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "GOS  CHANGED Full Season Contracts  -  col3: 228188494.3 -> 225472968.3",
+   "detected_at": "2026-09-16 16:37:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "GOS  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 19 -> 17",
+   "detected_at": "2026-09-16 16:37:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col11: 27760494.25 -> 25044968.25",
+   "detected_at": "2026-09-16 16:37:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 5th Incremental Tax Bracket  -  col11: 36398583.31 -> 16711019.81",
+   "detected_at": "2026-09-16 16:37:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col11: 141571083.3 -> 121883519.8",
+   "detected_at": "2026-09-16 16:37:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  - REMOVED Chance McMillian Golden State Warriors",
+   "detected_at": "2026-09-16 16:37:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Chance McMillian (WAIVED) Golden State Warriors",
+   "detected_at": "2026-09-16 16:37:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  - REMOVED Deivon Smith Golden State Warriors",
+   "detected_at": "2026-09-16 16:37:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Deivon Smith (WAIVED) Golden State Warriors",
+   "detected_at": "2026-09-16 16:37:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "2026-27 Rookie Signings  - REMOVED Dwight (WAIVED) Charlotte Hornets",
    "detected_at": "2026-09-16 16:35:55",
    "source": "DOCS",
@@ -10073,117 +10163,12 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Turkish TBL + Enes Bayraktar → Torku Konyaspor",
-   "detected_at": "2026-09-12 19:19:21",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Turkish TBL ~ MOVED Jack Hemphill → Torku Konyaspor (from Montreal Alliance)",
-   "detected_at": "2026-09-12 19:19:21",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
-  },
-  {
-   "detail": "Turkish TBL + Okay Djamgouz Camgoz → Torku Konyaspor",
-   "detected_at": "2026-09-12 19:19:21",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Turkish TBL + Atakan Erdek → Torku Konyaspor",
-   "detected_at": "2026-09-12 19:19:21",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Turkish TBL + Omer Kucuk → Torku Konyaspor",
-   "detected_at": "2026-09-12 19:19:21",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Turkish TBL + Mustafa Yerkazanoglu → Torku Konyaspor",
-   "detected_at": "2026-09-12 19:19:21",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Turkish TBL + Arda Midye → Torku Konyaspor",
-   "detected_at": "2026-09-12 19:19:21",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Turkish TBL + Yigit Karalar → Torku Konyaspor",
-   "detected_at": "2026-09-12 19:19:21",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Turkish TBL + Ali Isik → Cedi Osman Spor Kulubu",
-   "detected_at": "2026-09-12 19:19:21",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Turkish TBL + Omer Sancakli → Cedi Osman Spor Kulubu",
-   "detected_at": "2026-09-12 19:19:21",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Turkish TBL + Omercan Engin → Cedi Osman Spor Kulubu",
-   "detected_at": "2026-09-12 19:19:21",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Turkish TBL + Umut Gecen → Cedi Osman Spor Kulubu",
-   "detected_at": "2026-09-12 19:19:21",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Turkish TBL + Ahmet Aydin → Cedi Osman Spor Kulubu",
-   "detected_at": "2026-09-12 19:19:21",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Turkish TBL + Keshun Sherrill → Cedi Osman Spor Kulubu",
-   "detected_at": "2026-09-12 19:19:21",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Turkish TBL + Can Kurt → Cedi Osman Spor Kulubu",
-   "detected_at": "2026-09-12 19:19:21",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 2483,
-   "last": "2026-09-16 16:35:55"
+   "count": 2487,
+   "last": "2026-09-16 16:37:56"
   },
   "GLEAGUE": {
    "count": 65,
@@ -10206,8 +10191,8 @@
    "last": "2026-09-16 12:48:09"
   },
   "SHEETS": {
-   "count": 3832,
-   "last": "2026-09-15 17:49:59"
+   "count": 3843,
+   "last": "2026-09-16 16:37:58"
   },
   "TRANSACTIONS": {
    "count": 350,
@@ -10222,6 +10207,6 @@
    "last": "2026-09-16 08:43:54"
   }
  },
- "generated_at": "2026-09-16T16:37:02",
- "total": 13754
+ "generated_at": "2026-09-16T16:38:01",
+ "total": 13769
 }
