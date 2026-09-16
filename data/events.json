@@ -1,6 +1,33 @@
 {
  "events": [
   {
+   "detail": "~ CHANGED Jonathan Kuminga  country: DRC -> Democratic Republic of the Congo",
+   "detected_at": "2026-09-16 08:43:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Nick Smith  ~ 151487: team -> Free agent",
+   "detected_at": "2026-09-16 08:43:54",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Real Madrid"
+  },
+  {
+   "detail": "Nick Smith  ~ 151487: league -> -",
+   "detected_at": "2026-09-16 08:43:54",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Liga ACB EuroLeague"
+  },
+  {
+   "detail": "Nick Smith  ~ 151487: number -> -",
+   "detected_at": "2026-09-16 08:43:54",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "1"
+  },
+  {
    "detail": "French Basketball Cup + Yannis Allard → Etoile Charleville Mezieres",
    "detected_at": "2026-09-16 08:43:37",
    "source": "REALGM",
@@ -10199,34 +10226,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Leon_Kratzer"
-  },
-  {
-   "detail": "Leon Kratzer  ~ number: - -> 22",
-   "detected_at": "2026-09-12 09:05:58",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Leon_Kratzer"
-  },
-  {
-   "detail": "Leon Kratzer  ~ weight_lb: 243 -> -",
-   "detected_at": "2026-09-12 09:05:58",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Leon_Kratzer"
-  },
-  {
-   "detail": "Leon Kratzer  ~ CAREER  + 2026–present Telekom Baskets Bonn",
-   "detected_at": "2026-09-12 09:05:58",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Leon_Kratzer"
-  },
-  {
-   "detail": "Joshua Obiesie  ~ team: BMA365 Bamberg Baskets -> Bamberg Baskets",
-   "detected_at": "2026-09-12 09:05:58",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Joshua_Obiesie"
   }
  ],
  "feeds": {
@@ -10239,8 +10238,8 @@
    "last": "2026-09-16 08:34:54"
   },
   "PLAYERS": {
-   "count": 814,
-   "last": "2026-09-15 23:46:58"
+   "count": 815,
+   "last": "2026-09-16 08:43:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10267,10 +10266,10 @@
    "last": "2026-09-16 08:43:14"
   },
   "WIKIWATCH": {
-   "count": 151,
-   "last": "2026-09-15 15:57:10"
+   "count": 154,
+   "last": "2026-09-16 08:43:54"
   }
  },
- "generated_at": "2026-09-16T08:43:40",
- "total": 13603
+ "generated_at": "2026-09-16T08:44:01",
+ "total": 13607
 }
