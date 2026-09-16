@@ -1,6 +1,42 @@
 {
  "events": [
   {
+   "detail": "2026-27 Veteran Signings  - REMOVED Update 1.3 (7/18/26): B. Beal, D. Brooks, K. Bufkin, J. Butler Jr., K. Caldwell-Pope, D. Carter, M. Cisse, I. Crawford, J. Davison, D. DeRozan, T. Fall, D. Green, J. Harden, M. Hezonja, H. Highsmith, C. Houstan, H. Ingram, A. Jackson, L. James, D. Jones, S. Jones, Y. Kawamura, C. Koloko, J. Kuminga, N. Marshall, B. Mathurin, B. Mbeng, D. Melton, G. Niang, G. Payton, T. Peter, J. Phillips, N. Richards, B. Simmons, M. Smith, J. Sochan, J. Tate, D. Terry, A. Thompson, K. Thompson, M. Thybulle, A. Toohey, O. Tshiebwe, M. Wagner, L. Walker, J. Walsh, T. Watford, P. Watson, B. Williams",
+   "detected_at": "2026-09-15 17:46:55",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Update 1.3 (7/18/26): B. Beal, D. Brooks, K. Bufkin, J. Butler Jr., K. Caldwell-Pope, D. Carter, M. Cisse, I. Crawford, J. Davison, D. DeRozan, T. Fall, D. Green, J. Harden, M. Hezonja, H. Highsmith, C. Houstan, H. Ingram, A. Jackson, L. James, D. Jones, S. Jones, Y. Kawamura, C. Koloko, J. Kuminga, N. Marshall, B. Mathurin, B. Mbeng, D. Melton, G. Niang, G. Payton, T. Peter, J. Phillips, N. Richards, B. Simmons, M. Smith, J. Sochan, J. Tate, D. Terry, A. Thompson, K. Thompson, M. Thybulle, A. Toohey, O. Tshiebwe, M. Wagner, L. Walker, J. Walsh, T. Watford, P. Watson, B. Williams, I. Wong",
+   "detected_at": "2026-09-15 17:46:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Isaiah Wong (WAIVED) Brooklyn Nets",
+   "detected_at": "2026-09-15 17:46:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  26-27 $2,449,421",
+   "detected_at": "2026-09-15 17:46:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
+   "detected_at": "2026-09-15 17:46:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 9/15/26",
+   "detected_at": "2026-09-15 17:46:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "John Konchar  ~ team: Free agent -> New York Knicks",
    "detected_at": "2026-09-15 17:46:46",
    "source": "WIKI",
@@ -10180,48 +10216,12 @@
    "detected_at": "2026-09-10 14:37:01",
    "source": "SHEETS",
    "type": "ADDED"
-  },
-  {
-   "detail": "DEN  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 237458241.7 -> 239907662.7, col9: 643177157.3 -> 645626578.3",
-   "detected_at": "2026-09-10 14:37:01",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "DEN  CHANGED Players Under Contract  -  col3: 217460512 -> 219909933",
-   "detected_at": "2026-09-10 14:37:01",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "DEN  CHANGED Full Season Contracts  -  col3: 217460512 -> 219909933",
-   "detected_at": "2026-09-10 14:37:01",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "DEN  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 14 -> 15",
-   "detected_at": "2026-09-10 14:37:01",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "DEN  CHANGED Avg, Salary (Mean) (No 10-Day K's)  -  col6: 1 -> 0",
-   "detected_at": "2026-09-10 14:37:01",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col9: 17699178.67 -> 20148599.67",
-   "detected_at": "2026-09-10 14:37:01",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 2431,
-   "last": "2026-09-15 16:05:55"
+   "count": 2437,
+   "last": "2026-09-15 17:46:55"
   },
   "GLEAGUE": {
    "count": 60,
@@ -10260,6 +10260,6 @@
    "last": "2026-09-15 15:57:10"
   }
  },
- "generated_at": "2026-09-15T17:46:47",
- "total": 13277
+ "generated_at": "2026-09-15T17:47:04",
+ "total": 13283
 }
