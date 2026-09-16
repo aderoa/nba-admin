@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "John Konchar  ~ number: 46 -> 14",
+   "detected_at": "2026-09-16 12:33:48",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/John_Konchar"
+  },
+  {
    "detail": "James Wiseman  ~ team: Free agent -> New York Knicks",
    "detected_at": "2026-09-16 12:10:47",
    "source": "WIKI",
@@ -10204,13 +10211,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Thanasis_Antetokounmpo"
-  },
-  {
-   "detail": "Khem Birch  ~ position: Centre -> Center",
-   "detected_at": "2026-09-12 11:01:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Khem_Birch"
   }
  ],
  "feeds": {
@@ -10247,14 +10247,14 @@
    "last": "2026-09-15 14:45:55"
   },
   "WIKI": {
-   "count": 3343,
-   "last": "2026-09-16 12:10:47"
+   "count": 3344,
+   "last": "2026-09-16 12:33:48"
   },
   "WIKIWATCH": {
    "count": 154,
    "last": "2026-09-16 08:43:54"
   }
  },
- "generated_at": "2026-09-16T12:25:03",
- "total": 13648
+ "generated_at": "2026-09-16T12:33:48",
+ "total": 13649
 }
