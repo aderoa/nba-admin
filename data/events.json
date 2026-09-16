@@ -1,6 +1,90 @@
 {
  "events": [
   {
+   "detail": "GOS  + ADDED  Smith, Deivon",
+   "detected_at": "2026-09-15 17:49:59",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "GOS  CHANGED Armstrong, Taran  -  col9: 2185116 -> 0",
+   "detected_at": "2026-09-15 17:49:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "GOS  CHANGED Mannion, Nico  -  col9: 0 -> 2185116",
+   "detected_at": "2026-09-15 17:49:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "GOS  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 257880289.3 -> 259238052.3, col9: 340289974.7 -> 341647737.7",
+   "detected_at": "2026-09-15 17:49:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "GOS  CHANGED Players Under Contract  -  col3: 226830731.3 -> 228188494.3",
+   "detected_at": "2026-09-15 17:49:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "GOS  CHANGED Full Season Contracts  -  col3: 226830731.3 -> 228188494.3",
+   "detected_at": "2026-09-15 17:49:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "GOS  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 18 -> 19",
+   "detected_at": "2026-09-15 17:49:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col11: 26402731.25 -> 27760494.25",
+   "detected_at": "2026-09-15 17:49:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 5th Incremental Tax Bracket  -  col11: 26554801.56 -> 36398583.31",
+   "detected_at": "2026-09-15 17:49:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col11: 131727301.6 -> 141571083.3",
+   "detected_at": "2026-09-15 17:49:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Deivon Smith Golden State Warriors",
+   "detected_at": "2026-09-15 17:49:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  26-27 $1,357,763",
+   "detected_at": "2026-09-15 17:49:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
+   "detected_at": "2026-09-15 17:49:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 9/15/26",
+   "detected_at": "2026-09-15 17:49:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "2026-27 Rookie Signings  - REMOVED Update 1.3 (7/18/26): K. Lopez, K. Diop, J. Allick, W. Baker, L. Butler, D. Garcia, C. Grill, J. Hadley, D. Higgs, K. Mangas, M. Murrell, J. Nelson, J. O’Neil, C. Shumate, K. Stewart, S. Thomas, C. Tilly, T. Townsend",
    "detected_at": "2026-09-15 17:48:55",
    "source": "DOCS",
@@ -10132,96 +10216,12 @@
    "detected_at": "2026-09-10 14:44:03",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "PHL  CHANGED Players Under Contract  -  col3: 213709182.3 -> 216158603.3",
-   "detected_at": "2026-09-10 14:44:03",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "PHL  CHANGED Full Season Contracts  -  col3: 213709182.3 -> 216158603.3",
-   "detected_at": "2026-09-10 14:44:03",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "PHL  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 18 -> 19",
-   "detected_at": "2026-09-10 14:44:03",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  Luxury Tax Calculator: 13281182.3 -> 15730603.3",
-   "detected_at": "2026-09-10 14:44:03",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED 3rd Incremental Tax Bracket  -  Luxury Tax Calculator: 6689138.05 -> 15262111.55",
-   "detected_at": "2026-09-10 14:44:03",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  Luxury Tax Calculator: 19480388.05 -> 28053361.55",
-   "detected_at": "2026-09-10 14:44:03",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Update 1.3 (7/18/26): B. Beal, D. Brooks, K. Bufkin, J. Butler Jr., K. Caldwell-Pope, M. Cisse, I. Crawford, J. Davison, D. DeRozan, T. Fall, D. Green, J. Harden, M. Hezonja, H. Highsmith, C. Houstan, H. Ingram, A. Jackson, L. James, S. Jones, Y. Kawamura, C. Koloko, J. Kuminga, N. Marshall, D. Melton, G. Niang, G. Payton, T. Peter, J. Phillips, N. Richards, B. Simmons, M. Smith, J. Sochan, J. Tate, D. Terry, A. Thompson, K. Thompson, M. Thybulle, A. Toohey, O. Tshiebwe, M. Wagner, L. Walker, J. Walsh, T. Watford, P. Watson, B. Williams",
-   "detected_at": "2026-09-10 14:43:59",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Update 1.3 (7/18/26): B. Beal, D. Brooks, K. Bufkin, J. Butler Jr., K. Caldwell-Pope, M. Cisse, I. Crawford, J. Davison, D. DeRozan, T. Fall, D. Green, J. Harden, M. Hezonja, H. Highsmith, C. Houstan, H. Ingram, A. Jackson, L. James, D. Jones, S. Jones, Y. Kawamura, C. Koloko, J. Kuminga, N. Marshall, D. Melton, G. Niang, G. Payton, T. Peter, J. Phillips, N. Richards, B. Simmons, M. Smith, J. Sochan, J. Tate, D. Terry, A. Thompson, K. Thompson, M. Thybulle, A. Toohey, O. Tshiebwe, M. Wagner, L. Walker, J. Walsh, T. Watford, P. Watson, B. Williams",
-   "detected_at": "2026-09-10 14:43:59",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "GOS  + ADDED  Toohey, Alex",
-   "detected_at": "2026-09-10 14:43:10",
-   "source": "SHEETS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "GOS  CHANGED Robinson, Jerome  -  col9: 2185116 -> 0",
-   "detected_at": "2026-09-10 14:43:10",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "GOS  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 254337410.3 -> 256522526.3",
-   "detected_at": "2026-09-10 14:43:10",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "GOS  CHANGED Players Under Contract  -  col3: 223287852.3 -> 225472968.3",
-   "detected_at": "2026-09-10 14:43:10",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "GOS  CHANGED Full Season Contracts  -  col3: 223287852.3 -> 225472968.3",
-   "detected_at": "2026-09-10 14:43:10",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "GOS  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 16 -> 17",
-   "detected_at": "2026-09-10 14:43:10",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 2443,
-   "last": "2026-09-15 17:48:55"
+   "count": 2447,
+   "last": "2026-09-15 17:49:56"
   },
   "GLEAGUE": {
    "count": 60,
@@ -10244,8 +10244,8 @@
    "last": "2026-09-15 17:07:14"
   },
   "SHEETS": {
-   "count": 3822,
-   "last": "2026-09-15 17:47:59"
+   "count": 3832,
+   "last": "2026-09-15 17:49:59"
   },
   "TRANSACTIONS": {
    "count": 341,
@@ -10260,6 +10260,6 @@
    "last": "2026-09-15 15:57:10"
   }
  },
- "generated_at": "2026-09-15T17:49:01",
- "total": 13299
+ "generated_at": "2026-09-15T17:50:03",
+ "total": 13313
 }
