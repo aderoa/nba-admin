@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Mindaugas Kačinas  ~ league: - -> Premijer liga",
+   "detected_at": "2026-09-15 17:00:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Mindaugas_Ka%C4%8Dinas"
+  },
+  {
+   "detail": "Mindaugas Kačinas  ~ number: - -> 25",
+   "detected_at": "2026-09-15 17:00:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Mindaugas_Ka%C4%8Dinas"
+  },
+  {
    "detail": "Mateo Drežnjak  ~ number: 23 -> 33",
    "detected_at": "2026-09-15 16:37:46",
    "source": "WIKI",
@@ -10188,18 +10202,6 @@
    "detected_at": "2026-09-10 14:28:54",
    "source": "PLAYERS",
    "type": "ADDED"
-  },
-  {
-   "detail": "- REMOVED Keyshawn Bryant (ATL)",
-   "detected_at": "2026-09-10 14:28:54",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "~ CHANGED Bennedict Mathurin  team: LAC -> NOP",
-   "detected_at": "2026-09-10 14:28:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10236,14 +10238,14 @@
    "last": "2026-09-15 14:45:55"
   },
   "WIKI": {
-   "count": 3287,
-   "last": "2026-09-15 16:37:46"
+   "count": 3289,
+   "last": "2026-09-15 17:00:46"
   },
   "WIKIWATCH": {
    "count": 151,
    "last": "2026-09-15 15:57:10"
   }
  },
- "generated_at": "2026-09-15T16:52:01",
- "total": 13261
+ "generated_at": "2026-09-15T17:00:47",
+ "total": 13263
 }
