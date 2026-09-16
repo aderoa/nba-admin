@@ -1,6 +1,42 @@
 {
  "events": [
   {
+   "detail": "2026-27 Rookie Signings  - REMOVED Dwight (WAIVED) Charlotte Hornets",
+   "detected_at": "2026-09-16 16:35:55",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Dwight Murray (WAIVED) Brooklyn Nets",
+   "detected_at": "2026-09-16 16:35:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  - REMOVED Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
+   "detected_at": "2026-09-16 16:35:55",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  - REMOVED Execution Date: 9/2/26",
+   "detected_at": "2026-09-16 16:35:55",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($45,000).",
+   "detected_at": "2026-09-16 16:35:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 9/15/26",
+   "detected_at": "2026-09-16 16:35:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "2026-27 Rookie Signings  - REMOVED Update 1.3 (7/18/26): K. Lopez, K. Diop, J. Allick, W. Baker, L. Butler, D. Garcia, C. Grill, J. Hadley, D. Higgs, C. Hildreth, M. Iraldi, K. Mangas, C. McMillian, M. Murrell, J. Nelson, J. O’Neil, C. Shumate, D. Smith, K. Stewart, W. Taylor, S. Thomas, C. Tilly, T. Townsend",
    "detected_at": "2026-09-16 16:34:55",
    "source": "DOCS",
@@ -10142,54 +10178,12 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Turkish TBL + Ata Engin → Cedi Osman Spor Kulubu",
-   "detected_at": "2026-09-12 19:19:21",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Turkish TBL Aykon TED Kolejliler Ankara 88, Darussafaka Basketbol Istanbul 69",
-   "detected_at": "2026-09-12 19:19:19",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-12/Darussafaka-Basketbol-Istanbul-at-Aykon-TED-Kolejliler-Ankara/528636"
-  },
-  {
-   "detail": "Turkish TBL + Ege Akcay → Darussafaka Basketbol Istanbul",
-   "detected_at": "2026-09-12 19:19:14",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Turkish TBL + Ege Eskinazi → Darussafaka Basketbol Istanbul",
-   "detected_at": "2026-09-12 19:19:14",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Turkish TBL + Ismail Karabilen → Darussafaka Basketbol Istanbul",
-   "detected_at": "2026-09-12 19:19:14",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Turkish TBL + Mert Sert → Darussafaka Basketbol Istanbul",
-   "detected_at": "2026-09-12 19:19:14",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 2477,
-   "last": "2026-09-16 16:34:55"
+   "count": 2483,
+   "last": "2026-09-16 16:35:55"
   },
   "GLEAGUE": {
    "count": 65,
@@ -10228,6 +10222,6 @@
    "last": "2026-09-16 08:43:54"
   }
  },
- "generated_at": "2026-09-16T16:35:01",
- "total": 13748
+ "generated_at": "2026-09-16T16:36:01",
+ "total": 13754
 }
