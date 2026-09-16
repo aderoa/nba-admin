@@ -1,6 +1,66 @@
 {
  "events": [
   {
+   "detail": "+ ADDED   Elfrid Payton (SAC)",
+   "detected_at": "2026-09-16 15:38:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "- REMOVED Mitchell Mascari (NYK)",
+   "detected_at": "2026-09-16 15:38:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Toby Okani (NYK)",
+   "detected_at": "2026-09-16 15:38:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Aziz Bandaogo (NOP)",
+   "detected_at": "2026-09-16 15:38:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Deivon Smith (GSW)",
+   "detected_at": "2026-09-16 15:38:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Jaden Akins (NYK)",
+   "detected_at": "2026-09-16 15:38:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Igor Milicic, Jr. (NYK)",
+   "detected_at": "2026-09-16 15:38:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Nick Jourdain (NYK)",
+   "detected_at": "2026-09-16 15:38:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Chance McMillian (GSW)",
+   "detected_at": "2026-09-16 15:38:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Paul Zilinskas (NYK)",
+   "detected_at": "2026-09-16 15:38:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
    "detail": "2026-09-16  Golden State Warriors waived guard Chance McMillian.",
    "detected_at": "2026-09-16 15:15:55",
    "source": "TRANSACTIONS",
@@ -10130,76 +10190,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Turkish TBL + Vitalis Chikoko → Aykon TED Kolejliler Ankara",
-   "detected_at": "2026-09-12 19:19:14",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Turkish TBL + Tan Ayyildiz → Aykon TED Kolejliler Ankara",
-   "detected_at": "2026-09-12 19:19:14",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Turkish TBL + Furkan Ayca → Aykon TED Kolejliler Ankara",
-   "detected_at": "2026-09-12 19:19:14",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Turkish TBL + Berkay Genc → Aykon TED Kolejliler Ankara",
-   "detected_at": "2026-09-12 19:19:14",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Turkish TBL + Burak Erol → Aykon TED Kolejliler Ankara",
-   "detected_at": "2026-09-12 19:19:14",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Turkish TBL + Ege Ersun → Aykon TED Kolejliler Ankara",
-   "detected_at": "2026-09-12 19:19:14",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Turkish TBL + Gokhan Yazicioglu → Aykon TED Kolejliler Ankara",
-   "detected_at": "2026-09-12 19:19:14",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Turkish TBL Sigortamnet iLab Bakiroy 84, Final Spor Genclik 80",
-   "detected_at": "2026-09-12 19:19:11",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-12/Final-Spor-Genclik-at-Sigortamnet-iLab-Bakiroy/528640"
-  },
-  {
-   "detail": "Turkish TBL + Karl Gamble → Final Spor Genclik",
-   "detected_at": "2026-09-12 19:19:06",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Turkish TBL + Fred Cleveland, Jr. → Final Spor Genclik",
-   "detected_at": "2026-09-12 19:19:06",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10212,8 +10202,8 @@
    "last": "2026-09-16 08:34:54"
   },
   "PLAYERS": {
-   "count": 832,
-   "last": "2026-09-16 15:15:54"
+   "count": 842,
+   "last": "2026-09-16 15:38:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10244,6 +10234,6 @@
    "last": "2026-09-16 08:43:54"
   }
  },
- "generated_at": "2026-09-16T15:38:01",
- "total": 13728
+ "generated_at": "2026-09-16T15:39:01",
+ "total": 13738
 }
