@@ -1,6 +1,36 @@
 {
  "events": [
   {
+   "detail": "+ ADDED   David Stockton (PHX)",
+   "detected_at": "2026-09-17 14:38:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "+ ADDED   Jules Bernard (MIN)",
+   "detected_at": "2026-09-17 14:38:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "- REMOVED Sean McNeil (CLE)",
+   "detected_at": "2026-09-17 14:38:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Jordan Schakel (PHX)",
+   "detected_at": "2026-09-17 14:38:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Liam Robbins (NYK)",
+   "detected_at": "2026-09-17 14:38:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
    "detail": "2026-09-17  Cleveland Cavaliers waived guard Sean McNeil.",
    "detected_at": "2026-09-17 14:10:55",
    "source": "TRANSACTIONS",
@@ -10014,41 +10044,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "German Cup + Jemarl Baker, Jr. → Science City Jena",
-   "detected_at": "2026-09-13 19:44:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Cup + Daniel Biel → Science City Jena",
-   "detected_at": "2026-09-13 19:44:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Cup + Lorenz Bank → Science City Jena",
-   "detected_at": "2026-09-13 19:44:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Cup + Kristofer Krause → Science City Jena",
-   "detected_at": "2026-09-13 19:44:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Cup + Alex Herrera → Science City Jena",
-   "detected_at": "2026-09-13 19:44:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10061,8 +10056,8 @@
    "last": "2026-09-17 07:58:16"
   },
   "PLAYERS": {
-   "count": 845,
-   "last": "2026-09-17 10:36:54"
+   "count": 850,
+   "last": "2026-09-17 14:38:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10093,6 +10088,6 @@
    "last": "2026-09-17 13:45:47"
   }
  },
- "generated_at": "2026-09-17T14:38:00",
- "total": 14086
+ "generated_at": "2026-09-17T14:39:01",
+ "total": 14091
 }
