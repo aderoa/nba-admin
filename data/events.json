@@ -1,6 +1,18 @@
 {
  "events": [
   {
+   "detail": "2026-27 Veteran Signings  - REMOVED 2 Years for $5,113,822. Minimum Salary Exception. Team option to extend the contract to include the 2027-28 Season. Skill; Injury or Illness; Mental; Death. Compensation protection for 2026-27 Season is none but will increase to full if team has not requested waivers on player on or before 7/10/2026. Compensation protection for 2027-28 is none but will increase to full if team has not requested waivers on player on or before 7/1/2027. Compensation protection for 2028-29 is none but will increase to full if team has not requested waivers on player on or before 7/1/2028. Compensation protection for 2029-30 is none but will increase to full if team has not requested waivers on player on or before 7/1/2029. Love of the Game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-09-17 13:46:55",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  2 Years for $5,113,822. Minimum Salary Exception. Team option to extend the contract to include the 2027-28 Season. Skill; Injury or Illness; Mental; Death. Compensation protection for 2026-27 Season is none but will increase to full if team has not requested waivers on player on or before 7/10/2026. Compensation protection for 2027-28 Season is none but will increase to full if team has not requested waivers on player on or before 7/10/2027. Prior Injury Exclusion (Left Wrist). Love of the Game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-09-17 13:46:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "SAC  + ADDED  Plowden, Daeqwon",
    "detected_at": "2026-09-17 13:45:59",
    "source": "SHEETS",
@@ -10046,26 +10058,12 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "German Cup + Ishmael Leggett → MHP Riesen",
-   "detected_at": "2026-09-13 19:44:04",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Cup ~ MOVED David Joplin → MHP Riesen (from Calgary Surge)",
-   "detected_at": "2026-09-13 19:44:04",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 2550,
-   "last": "2026-09-17 13:45:56"
+   "count": 2552,
+   "last": "2026-09-17 13:46:55"
   },
   "GLEAGUE": {
    "count": 76,
@@ -10104,6 +10102,6 @@
    "last": "2026-09-17 13:45:47"
   }
  },
- "generated_at": "2026-09-17T13:46:03",
- "total": 14067
+ "generated_at": "2026-09-17T13:47:09",
+ "total": 14069
 }
