@@ -1,6 +1,78 @@
 {
  "events": [
   {
+   "detail": "WAS  CHANGED Gill, Anthony  -  TEAM SALARY CAP REPORT\n       -  WASHINGTON WIZARDS: 4 - CAP HOLD -> 1 - FULL SEASON",
+   "detected_at": "2026-09-17 08:29:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "WAS  CHANGED Players Under Contract  -  col3: 192013094 -> 194462515",
+   "detected_at": "2026-09-17 08:29:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "WAS  CHANGED Full Season Contracts  -  col3: 192013094 -> 194462515",
+   "detected_at": "2026-09-17 08:29:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "WAS  CHANGED Cap Holds  -  col3: 46617413.5 -> 44167992.5",
+   "detected_at": "2026-09-17 08:29:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "WAS  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 14 -> 15",
+   "detected_at": "2026-09-17 08:29:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "WAS  CHANGED Avg, Salary (Mean) (No 10-Day K's)  -  col6: 1 -> 0",
+   "detected_at": "2026-09-17 08:29:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED Update 1.3 (7/18/26): B. Beal, D. Brooks, K. Brooks, K. Bufkin, J. Butler Jr., K. Caldwell-Pope, D. Carter, M. Cisse, I. Crawford, J. Davison, D. DeRozan, T. Fall, D. Green, J. Harden, M. Hezonja, H. Highsmith, C. Houstan, H. Ingram, A. Jackson, L. James, D. Jones, S. Jones, Y. Kawamura, C. Koloko, J. Kuminga, N. Marshall, B. Mathurin, B. Mbeng, D. Melton, G. Niang, G. Payton, T. Peter, J. Phillips, N. Richards, B. Simmons, M. Smith, J. Sochan, J. Tate, D. Terry, A. Thompson, K. Thompson, M. Thybulle, A. Toohey, O. Tshiebwe, M. Wagner, L. Walker, J. Walsh, T. Watford, P. Watson, B. Williams, I. Wong",
+   "detected_at": "2026-09-17 08:29:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Update 1.3 (7/18/26): B. Beal, D. Brooks, K. Brooks, K. Bufkin, J. Butler Jr., K. Caldwell-Pope, D. Carter, M. Cisse, I. Crawford, J. Davison, D. DeRozan, T. Fall, A. Gill, D. Green, J. Harden, M. Hezonja, H. Highsmith, C. Houstan, H. Ingram, A. Jackson, L. James, D. Jones, S. Jones, Y. Kawamura, C. Koloko, J. Kuminga, N. Marshall, B. Mathurin, B. Mbeng, D. Melton, G. Niang, G. Payton, T. Peter, J. Phillips, N. Richards, B. Simmons, M. Smith, J. Sochan, J. Tate, D. Terry, A. Thompson, K. Thompson, M. Thybulle, A. Toohey, O. Tshiebwe, M. Wagner, L. Walker, J. Walsh, T. Watford, P. Watson, B. Williams, I. Wong",
+   "detected_at": "2026-09-17 08:29:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Anthony Gill Washington Wizards",
+   "detected_at": "2026-09-17 08:29:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  26-27 $3,066,143",
+   "detected_at": "2026-09-17 08:29:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Minimum Salary Exception. Player Trade Consent. Love of the Game. Physical Exam. Alt. 7(b). Exh. 9 - Training Camp.",
+   "detected_at": "2026-09-17 08:29:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 9/15/26",
+   "detected_at": "2026-09-17 08:29:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "Joe Thomasson  ~ number: - -> 24",
    "detected_at": "2026-09-17 08:28:46",
    "source": "WIKI",
@@ -10056,96 +10128,12 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "German Cup + Sean Flood → Mitteldeutscher BC",
-   "detected_at": "2026-09-13 17:36:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Cup + Mathis Moenninghoff → BG Gottingen",
-   "detected_at": "2026-09-13 17:36:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Cup + Daniel Kirchner → BG Gottingen",
-   "detected_at": "2026-09-13 17:36:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Cup + Zach Jackson → BG Gottingen",
-   "detected_at": "2026-09-13 17:36:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Cup + Omar Pajic → BG Gottingen",
-   "detected_at": "2026-09-13 17:36:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Cup + Tai Bibbs → BG Gottingen",
-   "detected_at": "2026-09-13 17:36:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Cup + Radvilas Kneizys → BG Gottingen",
-   "detected_at": "2026-09-13 17:36:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Cup + Robin Carl Lodders → BG Gottingen",
-   "detected_at": "2026-09-13 17:36:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Cup + Gaston Nguyen → BG Gottingen",
-   "detected_at": "2026-09-13 17:36:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Cup + Nils Schmitz → BG Gottingen",
-   "detected_at": "2026-09-13 17:36:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Cup BV Chemnitz 99 77, Giessen 46ers 70",
-   "detected_at": "2026-09-13 17:36:08",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-12/BV-Chemnitz-99-at-Giessen-46ers/528486"
-  },
-  {
-   "detail": "German Cup + Stef Smith → BV Chemnitz 99",
-   "detected_at": "2026-09-13 17:36:05",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 2493,
-   "last": "2026-09-16 16:47:55"
+   "count": 2499,
+   "last": "2026-09-17 08:29:56"
   },
   "GLEAGUE": {
    "count": 76,
@@ -10168,8 +10156,8 @@
    "last": "2026-09-17 08:05:55"
   },
   "SHEETS": {
-   "count": 3849,
-   "last": "2026-09-16 21:04:12"
+   "count": 3855,
+   "last": "2026-09-17 08:29:59"
   },
   "TRANSACTIONS": {
    "count": 350,
@@ -10184,6 +10172,6 @@
    "last": "2026-09-17 08:06:16"
   }
  },
- "generated_at": "2026-09-17T08:28:47",
- "total": 13952
+ "generated_at": "2026-09-17T08:30:01",
+ "total": 13964
 }
