@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "+ ADDED   Jordan Schakel (PHX)",
+   "detected_at": "2026-09-16 21:12:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
    "detail": "Mexican LNBP Fuerza Regia 87, Mineros de Zacatecas 84",
    "detected_at": "2026-09-16 21:11:55",
    "source": "SCORES",
@@ -10145,13 +10151,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Adrian_Bogucki"
-  },
-  {
-   "detail": "Adrian Bogucki  ~ CAREER  + 2025–2026 MKS Dąbrowa Górnicza",
-   "detected_at": "2026-09-13 09:45:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Adrian_Bogucki"
   }
  ],
  "feeds": {
@@ -10164,8 +10163,8 @@
    "last": "2026-09-16 08:34:54"
   },
   "PLAYERS": {
-   "count": 842,
-   "last": "2026-09-16 15:38:54"
+   "count": 843,
+   "last": "2026-09-16 21:12:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10196,6 +10195,6 @@
    "last": "2026-09-16 08:43:54"
   }
  },
- "generated_at": "2026-09-16T21:11:59",
- "total": 13899
+ "generated_at": "2026-09-16T21:13:05",
+ "total": 13900
 }
