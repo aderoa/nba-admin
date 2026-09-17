@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Mexican LNBP Panteras de Aguascalientes 95, Astros de Jalisco 83",
+   "detected_at": "2026-09-16 22:12:08",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-16/Astros-de-Jalisco-at-Panteras-de-Aguascalientes/526621"
+  },
+  {
    "detail": "+ ADDED   Jordan Schakel (PHX)",
    "detected_at": "2026-09-16 21:12:54",
    "source": "PLAYERS",
@@ -10144,13 +10151,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Adrian_Bogucki"
-  },
-  {
-   "detail": "Adrian Bogucki  ~ number: 32 -> -",
-   "detected_at": "2026-09-13 09:45:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Adrian_Bogucki"
   }
  ],
  "feeds": {
@@ -10175,8 +10175,8 @@
    "last": "2026-09-16 16:53:26"
   },
   "SCORES": {
-   "count": 555,
-   "last": "2026-09-16 21:11:55"
+   "count": 556,
+   "last": "2026-09-16 22:12:08"
   },
   "SHEETS": {
    "count": 3849,
@@ -10195,6 +10195,6 @@
    "last": "2026-09-16 08:43:54"
   }
  },
- "generated_at": "2026-09-16T22:11:03",
- "total": 13900
+ "generated_at": "2026-09-16T22:12:13",
+ "total": 13901
 }
