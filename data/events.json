@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Mexican LNBP Lobos Plateados 80, Abejas 67",
+   "detected_at": "2026-09-16 23:13:10",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-16/Abejas-at-Lobos-Plateados/526624"
+  },
+  {
    "detail": "Jonas Valančiūnas  ~ weight_lb: 699 -> 265",
    "detected_at": "2026-09-16 22:21:40",
    "source": "WIKI",
@@ -10144,13 +10151,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Jordan_Hall_(basketball)"
-  },
-  {
-   "detail": "Adrian Bogucki  ~ team: MKS Dąbrowa Górnicza -> Free Agent",
-   "detected_at": "2026-09-13 09:45:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Adrian_Bogucki"
   }
  ],
  "feeds": {
@@ -10175,8 +10175,8 @@
    "last": "2026-09-16 16:53:26"
   },
   "SCORES": {
-   "count": 556,
-   "last": "2026-09-16 22:12:08"
+   "count": 557,
+   "last": "2026-09-16 23:13:10"
   },
   "SHEETS": {
    "count": 3849,
@@ -10195,6 +10195,6 @@
    "last": "2026-09-16 08:43:54"
   }
  },
- "generated_at": "2026-09-16T23:12:05",
- "total": 13902
+ "generated_at": "2026-09-16T23:13:14",
+ "total": 13903
 }
