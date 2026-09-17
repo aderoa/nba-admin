@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Chaz Lanier  ~ number: - -> 8",
+   "detected_at": "2026-09-16 17:09:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Chaz_Lanier"
+  },
+  {
+   "detail": "Dario Drežnjak  ~ number: 24 -> 7",
+   "detected_at": "2026-09-16 17:09:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Dario_Dre%C5%BEnjak"
+  },
+  {
    "detail": "French Basketball Cup STB Le Havre 74, Rouen Metropole Basket 73",
    "detected_at": "2026-09-16 16:53:27",
    "source": "SCORES",
@@ -10143,20 +10157,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Kelly_Olynyk"
-  },
-  {
-   "detail": "Dwight Powell  ~ position: Power forward / center -> Power forward / centre",
-   "detected_at": "2026-09-13 09:22:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Dwight_Powell"
-  },
-  {
-   "detail": "Kyle Alexander  ~ position: Center / power forward -> Centre / power forward",
-   "detected_at": "2026-09-13 09:22:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Kyle_Alexander"
   }
  ],
  "feeds": {
@@ -10193,14 +10193,14 @@
    "last": "2026-09-16 15:15:55"
   },
   "WIKI": {
-   "count": 3375,
-   "last": "2026-09-16 16:00:55"
+   "count": 3377,
+   "last": "2026-09-16 17:09:46"
   },
   "WIKIWATCH": {
    "count": 154,
    "last": "2026-09-16 08:43:54"
   }
  },
- "generated_at": "2026-09-16T17:01:00",
- "total": 13879
+ "generated_at": "2026-09-16T17:09:47",
+ "total": 13881
 }
