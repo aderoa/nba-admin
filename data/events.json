@@ -1,6 +1,42 @@
 {
  "events": [
   {
+   "detail": "DEN  - REMOVED Brown, Bruce",
+   "detected_at": "2026-09-17 13:48:00",
+   "source": "SHEETS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "DEN  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 239907662.7 -> 237458241.7, col9: 645626578.3 -> 643177157.3",
+   "detected_at": "2026-09-17 13:48:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "DEN  CHANGED Cap Holds  -  col3: 19331063 -> 16881642",
+   "detected_at": "2026-09-17 13:48:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "SAC  - REMOVED Eubanks, Drew",
+   "detected_at": "2026-09-17 13:48:00",
+   "source": "SHEETS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "SAC  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 216082610.3 -> 213633189.3, col9: 480036640.6 -> 477587219.6",
+   "detected_at": "2026-09-17 13:48:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "SAC  CHANGED Cap Holds  -  col3: 18802453 -> 16353032",
+   "detected_at": "2026-09-17 13:48:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "2026-27 Veteran Signings  - REMOVED 2 Years for $5,113,822. Minimum Salary Exception. Team option to extend the contract to include the 2027-28 Season. Skill; Injury or Illness; Mental; Death. Compensation protection for 2026-27 Season is none but will increase to full if team has not requested waivers on player on or before 7/10/2026. Compensation protection for 2027-28 is none but will increase to full if team has not requested waivers on player on or before 7/1/2027. Compensation protection for 2028-29 is none but will increase to full if team has not requested waivers on player on or before 7/1/2028. Compensation protection for 2029-30 is none but will increase to full if team has not requested waivers on player on or before 7/1/2029. Love of the Game. Physical Exam. Alt. 7(b).",
    "detected_at": "2026-09-17 13:46:55",
    "source": "DOCS",
@@ -10016,48 +10052,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "German Cup + Ivan Crnjac → Fraport Skyliners",
-   "detected_at": "2026-09-13 19:44:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Cup + Jamie Edoka → Fraport Skyliners",
-   "detected_at": "2026-09-13 19:44:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Cup MHP Riesen 98, Bozic Estriche Knights Kirchheim 73",
-   "detected_at": "2026-09-13 19:44:09",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-13/MHP-Riesen-at-Bozic-Estriche-Knights-Kirchheim/528488"
-  },
-  {
-   "detail": "German Cup + Tommy Rutherford → MHP Riesen",
-   "detected_at": "2026-09-13 19:44:04",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Cup + Darius Perry → MHP Riesen",
-   "detected_at": "2026-09-13 19:44:04",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Cup + Elijah Hughes → MHP Riesen",
-   "detected_at": "2026-09-13 19:44:04",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10086,8 +10080,8 @@
    "last": "2026-09-17 10:07:09"
   },
   "SHEETS": {
-   "count": 3870,
-   "last": "2026-09-17 13:45:59"
+   "count": 3876,
+   "last": "2026-09-17 13:48:00"
   },
   "TRANSACTIONS": {
    "count": 350,
@@ -10102,6 +10096,6 @@
    "last": "2026-09-17 13:45:47"
   }
  },
- "generated_at": "2026-09-17T13:47:09",
- "total": 14069
+ "generated_at": "2026-09-17T13:48:03",
+ "total": 14075
 }
