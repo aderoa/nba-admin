@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Jonas Valančiūnas  ~ weight_lb: 699 -> 265",
+   "detected_at": "2026-09-16 22:21:40",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jonas_Valan%C4%8Di%C5%ABnas"
+  },
+  {
    "detail": "Mexican LNBP Panteras de Aguascalientes 95, Astros de Jalisco 83",
    "detected_at": "2026-09-16 22:12:08",
    "source": "SCORES",
@@ -10144,13 +10151,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Adrian_Bogucki"
-  },
-  {
-   "detail": "Adrian Bogucki  ~ league: PLK -> -",
-   "detected_at": "2026-09-13 09:45:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Adrian_Bogucki"
   }
  ],
  "feeds": {
@@ -10187,14 +10187,14 @@
    "last": "2026-09-16 15:15:55"
   },
   "WIKI": {
-   "count": 3388,
-   "last": "2026-09-16 21:11:49"
+   "count": 3389,
+   "last": "2026-09-16 22:21:40"
   },
   "WIKIWATCH": {
    "count": 154,
    "last": "2026-09-16 08:43:54"
   }
  },
- "generated_at": "2026-09-16T22:12:13",
- "total": 13901
+ "generated_at": "2026-09-16T22:21:58",
+ "total": 13902
 }
