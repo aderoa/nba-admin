@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "+ ADDED   Jacksen Moni (GSW)",
+   "detected_at": "2026-09-17 10:36:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
    "detail": "Basketball Champions League Europe Qualification + Jesse Hunt → AEK Larnaca",
    "detected_at": "2026-09-17 10:07:09",
    "source": "REALGM",
@@ -10067,13 +10073,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Andr%C3%A9s_Feliz"
-  },
-  {
-   "detail": "Domagoj Vuković  ~ league: - -> Premijer liga",
-   "detected_at": "2026-09-13 18:20:45",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Domagoj_Vukovi%C4%87"
   }
  ],
  "feeds": {
@@ -10086,8 +10085,8 @@
    "last": "2026-09-17 07:58:16"
   },
   "PLAYERS": {
-   "count": 844,
-   "last": "2026-09-17 09:40:55"
+   "count": 845,
+   "last": "2026-09-17 10:36:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10118,6 +10117,6 @@
    "last": "2026-09-17 08:06:16"
   }
  },
- "generated_at": "2026-09-17T10:36:12",
- "total": 14044
+ "generated_at": "2026-09-17T10:37:13",
+ "total": 14045
 }
