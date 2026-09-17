@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Zachary Ensminger  ~ number: 1 -> 3",
+   "detected_at": "2026-09-17 15:17:44",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Zachary_Ensminger"
+  },
+  {
    "detail": "+ ADDED   David Stockton (PHX)",
    "detected_at": "2026-09-17 14:38:54",
    "source": "PLAYERS",
@@ -10037,13 +10044,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "German Cup + Tanner Stuckman → Science City Jena",
-   "detected_at": "2026-09-13 19:44:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10080,14 +10080,14 @@
    "last": "2026-09-17 14:10:55"
   },
   "WIKI": {
-   "count": 3442,
-   "last": "2026-09-17 14:08:46"
+   "count": 3443,
+   "last": "2026-09-17 15:17:44"
   },
   "WIKIWATCH": {
    "count": 161,
    "last": "2026-09-17 13:45:47"
   }
  },
- "generated_at": "2026-09-17T15:09:03",
- "total": 14091
+ "generated_at": "2026-09-17T15:17:45",
+ "total": 14092
 }
