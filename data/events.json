@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Cameron Payne  ~ 57476: team -> -",
+   "detected_at": "2026-09-17 08:06:16",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Free agent"
+  },
+  {
+   "detail": "Cameron Payne  ~ 57476: position -> -",
+   "detected_at": "2026-09-17 08:06:16",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Point guard / shooting guard"
+  },
+  {
+   "detail": "Cameron Payne  ~ 57476: (page changed) -> -",
+   "detected_at": "2026-09-17 08:06:16",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": ""
+  },
+  {
    "detail": "Basketball Champions League Europe Qualification Dziki Warszawa 102, VEF Riga 95",
    "detected_at": "2026-09-17 08:05:55",
    "source": "SCORES",
@@ -10119,27 +10140,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "German Cup + Nighael Ceaser → BV Chemnitz 99",
-   "detected_at": "2026-09-13 17:36:05",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Cup + Ben Burnham → BV Chemnitz 99",
-   "detected_at": "2026-09-13 17:36:05",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Cup + Mateo Seric → BV Chemnitz 99",
-   "detected_at": "2026-09-13 17:36:05",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10180,10 +10180,10 @@
    "last": "2026-09-17 08:05:47"
   },
   "WIKIWATCH": {
-   "count": 154,
-   "last": "2026-09-16 08:43:54"
+   "count": 157,
+   "last": "2026-09-17 08:06:16"
   }
  },
- "generated_at": "2026-09-17T08:06:00",
- "total": 13948
+ "generated_at": "2026-09-17T08:07:03",
+ "total": 13951
 }
