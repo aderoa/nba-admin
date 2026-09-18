@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "~ CHANGED Nicholas Boyd  name: Nick Boyd -> Nicholas Boyd",
+   "detected_at": "2026-09-18 11:42:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "+ ADDED   Elias Ralph (GSW)",
    "detected_at": "2026-09-18 11:39:54",
    "source": "PLAYERS",
@@ -10057,13 +10063,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Basketball Champions League Europe Qualification + Aleksa Ilic → Rio Breogan",
-   "detected_at": "2026-09-15 07:49:05",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10076,8 +10075,8 @@
    "last": "2026-09-17 07:58:16"
   },
   "PLAYERS": {
-   "count": 856,
-   "last": "2026-09-18 11:39:54"
+   "count": 857,
+   "last": "2026-09-18 11:42:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10108,6 +10107,6 @@
    "last": "2026-09-18 08:41:14"
   }
  },
- "generated_at": "2026-09-18T11:42:03",
- "total": 14496
+ "generated_at": "2026-09-18T11:43:00",
+ "total": 14497
 }
