@@ -1,6 +1,42 @@
 {
  "events": [
   {
+   "detail": "+ ADDED   Stephen Thompson (MIN)",
+   "detected_at": "2026-09-18 14:38:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "- REMOVED David Stockton (PHX)",
+   "detected_at": "2026-09-18 14:38:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED William Baker (ATL)",
+   "detected_at": "2026-09-18 14:38:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Anton Watson (LAL)",
+   "detected_at": "2026-09-18 14:38:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Jacksen Moni (GSW)",
+   "detected_at": "2026-09-18 14:38:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Jules Bernard (MIN)",
+   "detected_at": "2026-09-18 14:38:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
    "detail": "2026-09-18  Atlanta Hawks waived center William Baker.",
    "detected_at": "2026-09-18 14:13:55",
    "source": "TRANSACTIONS",
@@ -10013,48 +10049,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Basketball Champions League Europe Qualification + Max Jones → sOliver Baskets",
-   "detected_at": "2026-09-15 07:49:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Champions League Europe Qualification + Calvin Wishart → sOliver Baskets",
-   "detected_at": "2026-09-15 07:49:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Champions League Europe Qualification + Alen Pjanic → sOliver Baskets",
-   "detected_at": "2026-09-15 07:49:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Champions League Europe Qualification + Lukas Herzog → sOliver Baskets",
-   "detected_at": "2026-09-15 07:49:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Champions League Europe Qualification + Leo Saffer → sOliver Baskets",
-   "detected_at": "2026-09-15 07:49:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Champions League Europe Qualification + Christian Skladanowski → sOliver Baskets",
-   "detected_at": "2026-09-15 07:49:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10067,8 +10061,8 @@
    "last": "2026-09-17 07:58:16"
   },
   "PLAYERS": {
-   "count": 859,
-   "last": "2026-09-18 12:42:55"
+   "count": 865,
+   "last": "2026-09-18 14:38:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10099,6 +10093,6 @@
    "last": "2026-09-18 12:45:13"
   }
  },
- "generated_at": "2026-09-18T14:38:01",
- "total": 14514
+ "generated_at": "2026-09-18T14:39:01",
+ "total": 14520
 }
