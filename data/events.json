@@ -1,6 +1,41 @@
 {
  "events": [
   {
+   "detail": "Donta Hall  ~ 73160: team -> -",
+   "detected_at": "2026-09-18 15:47:09",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Olympiacos"
+  },
+  {
+   "detail": "Donta Hall  ~ 73160: league -> -",
+   "detected_at": "2026-09-18 15:47:09",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "GBL EuroLeague"
+  },
+  {
+   "detail": "Donta Hall  ~ 73160: position -> -",
+   "detected_at": "2026-09-18 15:47:09",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Center"
+  },
+  {
+   "detail": "Donta Hall  ~ 73160: number -> -",
+   "detected_at": "2026-09-18 15:47:09",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "45"
+  },
+  {
+   "detail": "Donta Hall  ~ 73160: (page changed) -> -",
+   "detected_at": "2026-09-18 15:47:09",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": ""
+  },
+  {
    "detail": "Cam Whitmore  ~ CAREER  + 2026–present →Grand Rapids Gold",
    "detected_at": "2026-09-18 15:21:47",
    "source": "WIKI",
@@ -10004,40 +10039,6 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Gian_Clavell"
-  },
-  {
-   "detail": "Gian Clavell  ~ CAREER  + 2026 Piratas de Quebradillas",
-   "detected_at": "2026-09-15 10:06:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Gian_Clavell"
-  },
-  {
-   "detail": "Gian Clavell  ~ CAREER  + 2026–present Bashkimi",
-   "detected_at": "2026-09-15 10:06:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Gian_Clavell"
-  },
-  {
-   "detail": "Nolan Traoré  ~ CAREER  + 2025 [[Iowa Wolves]",
-   "detected_at": "2026-09-15 08:11:48",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Nolan_Traor%C3%A9"
-  },
-  {
-   "detail": "Jett Howard  ~ number: 9 -> 13",
-   "detected_at": "2026-09-15 08:11:48",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jett_Howard"
-  },
-  {
-   "detail": "+ ADDED   Basheer Jihad (DET)",
-   "detected_at": "2026-09-15 07:49:54",
-   "source": "PLAYERS",
-   "type": "ADDED"
   }
  ],
  "feeds": {
@@ -10078,10 +10079,10 @@
    "last": "2026-09-18 15:21:47"
   },
   "WIKIWATCH": {
-   "count": 176,
-   "last": "2026-09-18 12:45:13"
+   "count": 181,
+   "last": "2026-09-18 15:47:09"
   }
  },
- "generated_at": "2026-09-18T15:47:01",
- "total": 14536
+ "generated_at": "2026-09-18T15:48:00",
+ "total": 14541
 }
