@@ -1,6 +1,69 @@
 {
  "events": [
   {
+   "detail": "Paul Watson (basketball)  ~ team: Roma SPQR -> BC Roma",
+   "detected_at": "2026-09-18 16:53:45",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Paul_Watson_(basketball)"
+  },
+  {
+   "detail": "Paul Watson (basketball)  ~ league: Lega Basket Serie A -> LBA EuroCup",
+   "detected_at": "2026-09-18 16:53:45",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Paul_Watson_(basketball)"
+  },
+  {
+   "detail": "Paul Watson (basketball)  ~ number: - -> 3",
+   "detected_at": "2026-09-18 16:53:45",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Paul_Watson_(basketball)"
+  },
+  {
+   "detail": "Paul Watson (basketball)  ~ CAREER  + 2026–present BC Roma",
+   "detected_at": "2026-09-18 16:53:45",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Paul_Watson_(basketball)"
+  },
+  {
+   "detail": "Trentyn Flowers  ~ team: Brampton Honey Badgers -> BC Roma",
+   "detected_at": "2026-09-18 16:53:45",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Trentyn_Flowers"
+  },
+  {
+   "detail": "Trentyn Flowers  ~ league: CEBL -> LBA EuroCup",
+   "detected_at": "2026-09-18 16:53:45",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Trentyn_Flowers"
+  },
+  {
+   "detail": "Trentyn Flowers  ~ position: Small forward -> Small forward / power forward",
+   "detected_at": "2026-09-18 16:53:45",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Trentyn_Flowers"
+  },
+  {
+   "detail": "Trentyn Flowers  ~ CAREER  + 2026 Brampton Honey Badgers",
+   "detected_at": "2026-09-18 16:53:45",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Trentyn_Flowers"
+  },
+  {
+   "detail": "Trentyn Flowers  ~ CAREER  + 2026–present BC Roma",
+   "detected_at": "2026-09-18 16:53:45",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Trentyn_Flowers"
+  },
+  {
    "detail": "Donta Hall  ~ 73160: team -> -",
    "detected_at": "2026-09-18 15:47:09",
    "source": "WIKIWATCH",
@@ -9979,66 +10042,6 @@
    "detected_at": "2026-09-15 11:45:55",
    "source": "TRANSACTIONS",
    "type": "Waive"
-  },
-  {
-   "detail": "Mike Conley Jr.  ~ number: 44 -> 45",
-   "detected_at": "2026-09-15 11:38:48",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Mike_Conley_Jr."
-  },
-  {
-   "detail": "+ ADDED   Johnny O'Neil (NOP)",
-   "detected_at": "2026-09-15 11:30:54",
-   "source": "PLAYERS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "+ ADDED   Dwight Murray, Jr. (BKN)",
-   "detected_at": "2026-09-15 11:30:54",
-   "source": "PLAYERS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "~ CHANGED Malaki Branham  number: 8 -> 12",
-   "detected_at": "2026-09-15 10:35:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Gian Clavell  ~ team: Piratas de Quebradillas -> Bashkimi",
-   "detected_at": "2026-09-15 10:06:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Gian_Clavell"
-  },
-  {
-   "detail": "Gian Clavell  ~ league: Baloncesto Superior Nacional -> Kosovo Basketball Superleague",
-   "detected_at": "2026-09-15 10:06:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Gian_Clavell"
-  },
-  {
-   "detail": "Gian Clavell  ~ number: 24 -> 3",
-   "detected_at": "2026-09-15 10:06:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Gian_Clavell"
-  },
-  {
-   "detail": "Gian Clavell  ~ CAREER  + 2018 Büyükşehir Belediyesi",
-   "detected_at": "2026-09-15 10:06:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Gian_Clavell"
-  },
-  {
-   "detail": "Gian Clavell  ~ CAREER  + 2019–2020 Bursaspor",
-   "detected_at": "2026-09-15 10:06:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Gian_Clavell"
   }
  ],
  "feeds": {
@@ -10075,14 +10078,14 @@
    "last": "2026-09-18 14:13:55"
   },
   "WIKI": {
-   "count": 3534,
-   "last": "2026-09-18 15:21:47"
+   "count": 3543,
+   "last": "2026-09-18 16:53:45"
   },
   "WIKIWATCH": {
    "count": 181,
    "last": "2026-09-18 15:47:09"
   }
  },
- "generated_at": "2026-09-18T16:45:00",
- "total": 14541
+ "generated_at": "2026-09-18T16:53:46",
+ "total": 14550
 }
