@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "2026-09-18  Utah Jazz re-signed guard Keyonte George to a Rookie Scale Extension.",
+   "detected_at": "2026-09-18 11:55:55",
+   "source": "TRANSACTIONS",
+   "type": "Signing"
+  },
+  {
    "detail": "Cam Whitmore  ~ team: Free agent -> Denver Nuggets",
    "detected_at": "2026-09-18 11:54:46",
    "source": "WIKI",
@@ -10056,13 +10062,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Basketball Champions League Europe Qualification ~ MOVED Tevin Brown → Rio Breogan (from Vancouver Bandits)",
-   "detected_at": "2026-09-15 07:49:05",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10095,8 +10094,8 @@
    "last": "2026-09-18 08:42:07"
   },
   "TRANSACTIONS": {
-   "count": 355,
-   "last": "2026-09-18 11:00:55"
+   "count": 356,
+   "last": "2026-09-18 11:55:55"
   },
   "WIKI": {
    "count": 3527,
@@ -10107,6 +10106,6 @@
    "last": "2026-09-18 08:41:14"
   }
  },
- "generated_at": "2026-09-18T11:54:49",
- "total": 14500
+ "generated_at": "2026-09-18T11:56:01",
+ "total": 14501
 }
