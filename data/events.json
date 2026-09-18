@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "2026-09-18  Denver Nuggets signed forward Cam Whitmore to a Two-Way Contract.",
+   "detected_at": "2026-09-18 11:00:55",
+   "source": "TRANSACTIONS",
+   "type": "Signing"
+  },
+  {
    "detail": "Trent Forrest  ~ height_in: 4 -> 5",
    "detected_at": "2026-09-18 10:22:46",
    "source": "WIKI",
@@ -10063,13 +10069,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Basketball Champions League Europe Qualification + Kresimir Radovcic → BC Hallmann Vienna",
-   "detected_at": "2026-09-15 07:49:02",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10102,8 +10101,8 @@
    "last": "2026-09-18 08:42:07"
   },
   "TRANSACTIONS": {
-   "count": 354,
-   "last": "2026-09-18 08:41:57"
+   "count": 355,
+   "last": "2026-09-18 11:00:55"
   },
   "WIKI": {
    "count": 3518,
@@ -10114,6 +10113,6 @@
    "last": "2026-09-18 08:41:14"
   }
  },
- "generated_at": "2026-09-18T11:00:12",
- "total": 14484
+ "generated_at": "2026-09-18T11:08:38",
+ "total": 14485
 }
