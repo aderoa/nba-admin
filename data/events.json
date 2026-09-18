@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Trent Forrest  ~ height_in: 4 -> 5",
+   "detected_at": "2026-09-18 10:22:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Trent_Forrest"
+  },
+  {
+   "detail": "Shane Larkin  ~ height_ft: 5 -> -",
+   "detected_at": "2026-09-18 10:22:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Shane_Larkin"
+  },
+  {
+   "detail": "Shane Larkin  ~ height_in: 11 -> -",
+   "detected_at": "2026-09-18 10:22:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Shane_Larkin"
+  },
+  {
    "detail": "VTB SuperCup + Ike Iroegbu → Zenit Saint Petersburg",
    "detected_at": "2026-09-18 08:50:40",
    "source": "REALGM",
@@ -10049,27 +10070,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Basketball Champions League Europe Qualification + Aleksandar Langovic → BC Hallmann Vienna",
-   "detected_at": "2026-09-15 07:49:02",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Champions League Europe Qualification + Aron Stazic → BC Hallmann Vienna",
-   "detected_at": "2026-09-15 07:49:02",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Champions League Europe Qualification + Lukas Cvetkova → BC Hallmann Vienna",
-   "detected_at": "2026-09-15 07:49:02",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10106,14 +10106,14 @@
    "last": "2026-09-18 08:41:57"
   },
   "WIKI": {
-   "count": 3515,
-   "last": "2026-09-18 08:50:08"
+   "count": 3518,
+   "last": "2026-09-18 10:22:46"
   },
   "WIKIWATCH": {
    "count": 175,
    "last": "2026-09-18 08:41:14"
   }
  },
- "generated_at": "2026-09-18T10:14:00",
- "total": 14481
+ "generated_at": "2026-09-18T10:22:47",
+ "total": 14484
 }
