@@ -1,6 +1,26 @@
 {
  "events": [
   {
+   "detail": "Basketball Champions League Europe Qualification + Benjamin Granstrom → Salon Vilpas",
+   "detected_at": "2026-09-18 12:01:15",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Basketball Champions League Europe Qualification Salon Vilpas 90, Bakken Bears 72",
+   "detected_at": "2026-09-18 12:01:15",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-18/Bakken-Bears-at-Salon-Vilpas/541475"
+  },
+  {
+   "detail": "~ CHANGED Nick Boyd  name: Nicholas Boyd -> Nick Boyd",
+   "detected_at": "2026-09-18 12:00:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "2026-09-18  Utah Jazz re-signed guard Keyonte George to a Rookie Scale Extension.",
    "detected_at": "2026-09-18 11:55:55",
    "source": "TRANSACTIONS",
@@ -10041,27 +10061,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Basketball Champions League Europe Qualification + Krasimir Petrov → BC Rilski Sportist",
-   "detected_at": "2026-09-15 07:49:05",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Champions League Europe Qualification + Martin Yordanov → BC Rilski Sportist",
-   "detected_at": "2026-09-15 07:49:05",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Champions League Europe Qualification + Danko Brankovic → Rio Breogan",
-   "detected_at": "2026-09-15 07:49:05",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10074,20 +10073,20 @@
    "last": "2026-09-17 07:58:16"
   },
   "PLAYERS": {
-   "count": 857,
-   "last": "2026-09-18 11:42:54"
+   "count": 858,
+   "last": "2026-09-18 12:00:54"
   },
   "RATINGS": {
    "count": 950,
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 1491,
-   "last": "2026-09-18 08:50:40"
+   "count": 1492,
+   "last": "2026-09-18 12:01:15"
   },
   "SCORES": {
-   "count": 579,
-   "last": "2026-09-18 08:50:40"
+   "count": 580,
+   "last": "2026-09-18 12:01:15"
   },
   "SHEETS": {
    "count": 3904,
@@ -10106,6 +10105,6 @@
    "last": "2026-09-18 08:41:14"
   }
  },
- "generated_at": "2026-09-18T12:00:01",
- "total": 14501
+ "generated_at": "2026-09-18T12:01:20",
+ "total": 14504
 }
