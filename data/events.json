@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Cam Whitmore  ~ CAREER  + 2026–present Grand Rapids Gold",
+   "detected_at": "2026-09-18 12:17:46",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Cam_Whitmore"
+  },
+  {
+   "detail": "Giannoulis Larentzakis  ~ position: Shooting guard -> Small forward / shooting guard",
+   "detected_at": "2026-09-18 12:17:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Giannoulis_Larentzakis"
+  },
+  {
    "detail": "Basketball Champions League Europe Qualification + Benjamin Granstrom → Salon Vilpas",
    "detected_at": "2026-09-18 12:01:15",
    "source": "REALGM",
@@ -10047,20 +10061,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Basketball Champions League Europe Qualification + Deyan Karamfilov → BC Rilski Sportist",
-   "detected_at": "2026-09-15 07:49:05",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Champions League Europe Qualification + Chavdar Kostov → BC Rilski Sportist",
-   "detected_at": "2026-09-15 07:49:05",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10097,14 +10097,14 @@
    "last": "2026-09-18 11:55:55"
   },
   "WIKI": {
-   "count": 3527,
-   "last": "2026-09-18 11:54:46"
+   "count": 3529,
+   "last": "2026-09-18 12:17:46"
   },
   "WIKIWATCH": {
    "count": 175,
    "last": "2026-09-18 08:41:14"
   }
  },
- "generated_at": "2026-09-18T12:09:01",
- "total": 14504
+ "generated_at": "2026-09-18T12:17:48",
+ "total": 14506
 }
