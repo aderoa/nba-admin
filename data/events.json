@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "+ ADDED   Anton Watson (LAL)",
+   "detected_at": "2026-09-17 18:45:55",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
    "detail": "Mexican LNBP + Jared Perez → Soles",
    "detected_at": "2026-09-17 17:50:22",
    "source": "REALGM",
@@ -10037,13 +10043,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Bori%C5%A1a_Simani%C4%87"
-  },
-  {
-   "detail": "Boriša Simanić  ~ league: - -> Basketball Bundesliga",
-   "detected_at": "2026-09-14 07:36:57",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Bori%C5%A1a_Simani%C4%87"
   }
  ],
  "feeds": {
@@ -10056,8 +10055,8 @@
    "last": "2026-09-17 07:58:16"
   },
   "PLAYERS": {
-   "count": 850,
-   "last": "2026-09-17 14:38:54"
+   "count": 851,
+   "last": "2026-09-17 18:45:55"
   },
   "RATINGS": {
    "count": 950,
@@ -10088,6 +10087,6 @@
    "last": "2026-09-17 13:45:47"
   }
  },
- "generated_at": "2026-09-17T18:44:49",
- "total": 14175
+ "generated_at": "2026-09-17T18:46:02",
+ "total": 14176
 }
