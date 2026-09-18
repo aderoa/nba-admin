@@ -1,6 +1,42 @@
 {
  "events": [
   {
+   "detail": "+ ADDED   Stephen Thompson (MIN)",
+   "detected_at": "2026-09-18 14:40:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "- REMOVED Jules Bernard (MIN)",
+   "detected_at": "2026-09-18 14:40:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Jacksen Moni (GSW)",
+   "detected_at": "2026-09-18 14:40:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED William Baker (ATL)",
+   "detected_at": "2026-09-18 14:40:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED David Stockton (PHX)",
+   "detected_at": "2026-09-18 14:40:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Anton Watson (LAL)",
+   "detected_at": "2026-09-18 14:40:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
    "detail": "+ ADDED   William Baker (ATL)",
    "detected_at": "2026-09-18 14:39:54",
    "source": "PLAYERS",
@@ -10001,48 +10037,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Basketball Champions League Europe Qualification + Brandon Mitchell-Day → Manchester Basketball",
-   "detected_at": "2026-09-15 07:49:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Champions League Europe Qualification + Luke Nelson → Manchester Basketball",
-   "detected_at": "2026-09-15 07:49:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Champions League Europe Qualification + Duke Shelton → Manchester Basketball",
-   "detected_at": "2026-09-15 07:49:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Champions League Europe Qualification + Jordan Johnson → Manchester Basketball",
-   "detected_at": "2026-09-15 07:49:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Champions League Europe Qualification + Ciaran Sandy → Manchester Basketball",
-   "detected_at": "2026-09-15 07:49:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Champions League Europe Qualification + Jonathan Brown → Manchester Basketball",
-   "detected_at": "2026-09-15 07:49:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10055,8 +10049,8 @@
    "last": "2026-09-17 07:58:16"
   },
   "PLAYERS": {
-   "count": 871,
-   "last": "2026-09-18 14:39:54"
+   "count": 877,
+   "last": "2026-09-18 14:40:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10087,6 +10081,6 @@
    "last": "2026-09-18 12:45:13"
   }
  },
- "generated_at": "2026-09-18T14:40:00",
- "total": 14526
+ "generated_at": "2026-09-18T14:41:02",
+ "total": 14532
 }
