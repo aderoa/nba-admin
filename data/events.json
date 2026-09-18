@@ -1,6 +1,42 @@
 {
  "events": [
   {
+   "detail": "+ ADDED   William Baker (ATL)",
+   "detected_at": "2026-09-18 14:39:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "+ ADDED   Jacksen Moni (GSW)",
+   "detected_at": "2026-09-18 14:39:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "+ ADDED   Anton Watson (LAL)",
+   "detected_at": "2026-09-18 14:39:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "+ ADDED   Jules Bernard (MIN)",
+   "detected_at": "2026-09-18 14:39:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "+ ADDED   David Stockton (PHX)",
+   "detected_at": "2026-09-18 14:39:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "- REMOVED Stephen Thompson (MIN)",
+   "detected_at": "2026-09-18 14:39:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
    "detail": "+ ADDED   Stephen Thompson (MIN)",
    "detected_at": "2026-09-18 14:38:54",
    "source": "PLAYERS",
@@ -10007,48 +10043,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Basketball Champions League Europe Qualification + Charlie Williams → Manchester Basketball",
-   "detected_at": "2026-09-15 07:49:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Champions League Europe Qualification + Eddie Colbert III → sOliver Baskets",
-   "detected_at": "2026-09-15 07:49:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Champions League Europe Qualification + Kenny Dye → sOliver Baskets",
-   "detected_at": "2026-09-15 07:49:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Champions League Europe Qualification + Sam Griffin → sOliver Baskets",
-   "detected_at": "2026-09-15 07:49:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Champions League Europe Qualification + Brandon Tischler → sOliver Baskets",
-   "detected_at": "2026-09-15 07:49:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Champions League Europe Qualification + Charles Thompson → sOliver Baskets",
-   "detected_at": "2026-09-15 07:49:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10061,8 +10055,8 @@
    "last": "2026-09-17 07:58:16"
   },
   "PLAYERS": {
-   "count": 865,
-   "last": "2026-09-18 14:38:54"
+   "count": 871,
+   "last": "2026-09-18 14:39:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10093,6 +10087,6 @@
    "last": "2026-09-18 12:45:13"
   }
  },
- "generated_at": "2026-09-18T14:39:01",
- "total": 14520
+ "generated_at": "2026-09-18T14:40:00",
+ "total": 14526
 }
