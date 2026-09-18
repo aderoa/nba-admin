@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Cam Whitmore  ~ team: Free agent -> Denver Nuggets",
+   "detected_at": "2026-09-18 11:54:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Cam_Whitmore"
+  },
+  {
+   "detail": "Cam Whitmore  ~ league: - -> NBA",
+   "detected_at": "2026-09-18 11:54:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Cam_Whitmore"
+  },
+  {
+   "detail": "Cam Whitmore  ~ CAREER  + –present Denver Nuggets",
+   "detected_at": "2026-09-18 11:54:46",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Cam_Whitmore"
+  },
+  {
    "detail": "~ CHANGED Nicholas Boyd  name: Nick Boyd -> Nicholas Boyd",
    "detected_at": "2026-09-18 11:42:54",
    "source": "PLAYERS",
@@ -10042,27 +10063,6 @@
    "source": "REALGM",
    "type": "MOVED",
    "url": ""
-  },
-  {
-   "detail": "Basketball Champions League Europe Qualification + Josep Peris → Rio Breogan",
-   "detected_at": "2026-09-15 07:49:05",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Champions League Europe Qualification + Dominik Mavra → Rio Breogan",
-   "detected_at": "2026-09-15 07:49:05",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Champions League Europe Qualification + Mihajlo Andric → Rio Breogan",
-   "detected_at": "2026-09-15 07:49:05",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10099,14 +10099,14 @@
    "last": "2026-09-18 11:00:55"
   },
   "WIKI": {
-   "count": 3524,
-   "last": "2026-09-18 11:31:46"
+   "count": 3527,
+   "last": "2026-09-18 11:54:46"
   },
   "WIKIWATCH": {
    "count": 175,
    "last": "2026-09-18 08:41:14"
   }
  },
- "generated_at": "2026-09-18T11:46:01",
- "total": 14497
+ "generated_at": "2026-09-18T11:54:49",
+ "total": 14500
 }
