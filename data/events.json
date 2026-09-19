@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Thomas Heurtel  ~ number: - -> 13",
+   "detected_at": "2026-09-19 15:40:45",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Thomas_Heurtel"
+  },
+  {
    "detail": "Ivan Volf  ~ team: - -> OKK Sloboda Tuzla",
    "detected_at": "2026-09-19 14:08:46",
    "source": "WIKI",
@@ -10174,13 +10181,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "French Basketball Cup + Killian Incredule → Vendee Challans Basket",
-   "detected_at": "2026-09-15 22:59:33",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10217,14 +10217,14 @@
    "last": "2026-09-18 14:13:55"
   },
   "WIKI": {
-   "count": 3642,
-   "last": "2026-09-19 14:08:46"
+   "count": 3643,
+   "last": "2026-09-19 15:40:45"
   },
   "WIKIWATCH": {
    "count": 191,
    "last": "2026-09-19 13:03:13"
   }
  },
- "generated_at": "2026-09-19T15:32:03",
- "total": 14880
+ "generated_at": "2026-09-19T15:40:46",
+ "total": 14881
 }
