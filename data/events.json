@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "+ ADDED   Obi Agbim (GSW)",
+   "detected_at": "2026-09-19 13:45:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
    "detail": "Facundo Campazzo  ~ 40886: team -> -",
    "detected_at": "2026-09-19 13:03:13",
    "source": "WIKIWATCH",
@@ -10175,13 +10181,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "French Basketball Cup + Jeremy Bichard → Vendee Challans Basket",
-   "detected_at": "2026-09-15 22:59:33",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10194,8 +10193,8 @@
    "last": "2026-09-19 08:35:02"
   },
   "PLAYERS": {
-   "count": 883,
-   "last": "2026-09-19 00:25:27"
+   "count": 884,
+   "last": "2026-09-19 13:45:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10226,6 +10225,6 @@
    "last": "2026-09-19 13:03:13"
   }
  },
- "generated_at": "2026-09-19T13:45:37",
- "total": 14876
+ "generated_at": "2026-09-19T13:46:03",
+ "total": 14877
 }
