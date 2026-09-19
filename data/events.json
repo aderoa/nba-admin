@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Basketball Champions League Europe Qualification + Dianis Grigoriani → Batumi RSU",
+   "detected_at": "2026-09-19 11:48:07",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Basketball Champions League Europe Qualification CSM Oradea 93, Batumi RSU 77",
+   "detected_at": "2026-09-19 11:48:07",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-18/CSM-Oradea-at-Batumi-RSU/541476"
+  },
+  {
+   "detail": "Basketball Champions League Europe Qualification Dziki Warszawa 113, Rio Breogan 110",
+   "detected_at": "2026-09-19 11:48:04",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-19/Rio-Breogan-at-Dziki-Warszawa/541477"
+  },
+  {
    "detail": "Elfrid Payton  ~ team: Austin Spurs -> -",
    "detected_at": "2026-09-19 09:29:48",
    "source": "WIKI",
@@ -10161,27 +10182,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "French Basketball Cup + Lucas Hergott → Union La Rochelle",
-   "detected_at": "2026-09-15 22:59:27",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French Basketball Cup + Babacar Mbye → Union La Rochelle",
-   "detected_at": "2026-09-15 22:59:27",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French Basketball Cup + Jase Townsend → Union La Rochelle",
-   "detected_at": "2026-09-15 22:59:27",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10202,12 +10202,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 1658,
-   "last": "2026-09-19 08:43:29"
+   "count": 1659,
+   "last": "2026-09-19 11:48:07"
   },
   "SCORES": {
-   "count": 602,
-   "last": "2026-09-19 08:43:29"
+   "count": 604,
+   "last": "2026-09-19 11:48:07"
   },
   "SHEETS": {
    "count": 3904,
@@ -10226,6 +10226,6 @@
    "last": "2026-09-18 17:03:11"
   }
  },
- "generated_at": "2026-09-19T11:39:01",
- "total": 14867
+ "generated_at": "2026-09-19T11:48:11",
+ "total": 14870
 }
