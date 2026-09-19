@@ -1,6 +1,41 @@
 {
  "events": [
   {
+   "detail": "Facundo Campazzo  ~ 40886: team -> -",
+   "detected_at": "2026-09-19 13:03:13",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Real Madrid"
+  },
+  {
+   "detail": "Facundo Campazzo  ~ 40886: league -> -",
+   "detected_at": "2026-09-19 13:03:13",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Liga ACB EuroLeague"
+  },
+  {
+   "detail": "Facundo Campazzo  ~ 40886: position -> -",
+   "detected_at": "2026-09-19 13:03:13",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Point guard"
+  },
+  {
+   "detail": "Facundo Campazzo  ~ 40886: number -> -",
+   "detected_at": "2026-09-19 13:03:13",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "7"
+  },
+  {
+   "detail": "Facundo Campazzo  ~ 40886: (page changed) -> -",
+   "detected_at": "2026-09-19 13:03:13",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": ""
+  },
+  {
    "detail": "Trayce Jackson-Davis  ~ height_in: 9.5 -> 9",
    "detected_at": "2026-09-19 12:10:47",
    "source": "WIKI",
@@ -10147,41 +10182,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "French Basketball Cup + Eric Koumba → Vendee Challans Basket",
-   "detected_at": "2026-09-15 22:59:33",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French Basketball Cup + Jeffte Pasquier → Vendee Challans Basket",
-   "detected_at": "2026-09-15 22:59:33",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French Basketball Cup + Ewen Moyon → Vendee Challans Basket",
-   "detected_at": "2026-09-15 22:59:33",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French Basketball Cup Vendee Challans Basket 74, CEP Lorient 70",
-   "detected_at": "2026-09-15 22:59:33",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-15/CEP-Lorient-at-Vendee-Challans-Basket/537212"
-  },
-  {
-   "detail": "French Basketball Cup + Jimmy Boeheim, Jr. → Union La Rochelle",
-   "detected_at": "2026-09-15 22:59:27",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10222,10 +10222,10 @@
    "last": "2026-09-19 12:10:47"
   },
   "WIKIWATCH": {
-   "count": 186,
-   "last": "2026-09-18 17:03:11"
+   "count": 191,
+   "last": "2026-09-19 13:03:13"
   }
  },
- "generated_at": "2026-09-19T13:03:03",
- "total": 14871
+ "generated_at": "2026-09-19T13:04:59",
+ "total": 14876
 }
