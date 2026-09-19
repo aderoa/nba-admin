@@ -1,6 +1,41 @@
 {
  "events": [
   {
+   "detail": "Aaron Holiday  ~ 54843: team -> -",
+   "detected_at": "2026-09-18 17:03:11",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Maxima Roma"
+  },
+  {
+   "detail": "Aaron Holiday  ~ 54843: league -> -",
+   "detected_at": "2026-09-18 17:03:11",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "LBA EuroCup"
+  },
+  {
+   "detail": "Aaron Holiday  ~ 54843: position -> -",
+   "detected_at": "2026-09-18 17:03:11",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Point guard"
+  },
+  {
+   "detail": "Aaron Holiday  ~ 54843: number -> -",
+   "detected_at": "2026-09-18 17:03:11",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "3"
+  },
+  {
+   "detail": "Aaron Holiday  ~ 54843: (page changed) -> -",
+   "detected_at": "2026-09-18 17:03:11",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": ""
+  },
+  {
    "detail": "Paul Watson (basketball)  ~ team: Roma SPQR -> BC Roma",
    "detected_at": "2026-09-18 16:53:45",
    "source": "WIKI",
@@ -10012,36 +10047,6 @@
    "detected_at": "2026-09-15 12:35:54",
    "source": "PLAYERS",
    "type": "REMOVED"
-  },
-  {
-   "detail": "~ CHANGED Dwight Murray, Jr.  school: Rider University -> Rider",
-   "detected_at": "2026-09-15 12:35:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Dwight Murray, Jr.  school: Rider -> Rider University",
-   "detected_at": "2026-09-15 12:02:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Christian Shumate  school: McNeese State -> Mc Neese State",
-   "detected_at": "2026-09-15 12:02:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "2026-09-14  Boston Celtics waived guard Caleb Grill.",
-   "detected_at": "2026-09-15 11:45:55",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
-  },
-  {
-   "detail": "2026-09-14  New Orleans Pelicans waived forward Christian Shumate.",
-   "detected_at": "2026-09-15 11:45:55",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
   }
  ],
  "feeds": {
@@ -10082,10 +10087,10 @@
    "last": "2026-09-18 16:53:45"
   },
   "WIKIWATCH": {
-   "count": 181,
-   "last": "2026-09-18 15:47:09"
+   "count": 186,
+   "last": "2026-09-18 17:03:11"
   }
  },
- "generated_at": "2026-09-18T17:03:02",
- "total": 14550
+ "generated_at": "2026-09-18T17:04:01",
+ "total": 14555
 }
