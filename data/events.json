@@ -1,6 +1,48 @@
 {
  "events": [
   {
+   "detail": "WNBA + Kalani Brown → Las Vegas Aces",
+   "detected_at": "2026-09-18 18:09:16",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "WNBA ~ MOVED Jaylyn Sherrod → Seattle Storm (from Atlanta Dream)",
+   "detected_at": "2026-09-18 18:09:16",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "WNBA Las Vegas Aces 114, Seattle Storm 77",
+   "detected_at": "2026-09-18 18:09:16",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-09-17/Las-Vegas-at-Seattle/158629"
+  },
+  {
+   "detail": "Israel BSL Winner Cup + Ofri Shitrit → Hapoel Beer Sheva",
+   "detected_at": "2026-09-18 18:09:10",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Israel BSL Winner Cup + Devontae Cacok → Hapoel Bank Yahav Jerusalem",
+   "detected_at": "2026-09-18 18:09:10",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Israel BSL Winner Cup Hapoel Bank Yahav Jerusalem 83, Hapoel Beer Sheva 69",
+   "detected_at": "2026-09-18 18:09:10",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-18/Hapoel-Beer-Sheva-at-Hapoel-Bank-Yahav-Jerusalem/528559"
+  },
+  {
    "detail": "Vernon Carey Jr.  ~ team: Rio Grande Valley Vipers -> Maxima Roma",
    "detected_at": "2026-09-18 17:39:46",
    "source": "WIKI",
@@ -10011,48 +10053,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Basketball Champions League Europe Qualification + Ioannis Efstathiadis → Kolossos Rodou BC",
-   "detected_at": "2026-09-15 13:02:13",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Champions League Europe Qualification + Nikolaos Tsiakmas → Kolossos Rodou BC",
-   "detected_at": "2026-09-15 13:02:13",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Champions League Europe Qualification + Tyler Stevenson → Kolossos Rodou BC",
-   "detected_at": "2026-09-15 13:02:13",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Champions League Europe Qualification + Zois Karampelas → Kolossos Rodou BC",
-   "detected_at": "2026-09-15 13:02:13",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Champions League Europe Qualification + Rocky Kreuser → Kolossos Rodou BC",
-   "detected_at": "2026-09-15 13:02:13",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Champions League Europe Qualification + C.J. Harris → Kolossos Rodou BC",
-   "detected_at": "2026-09-15 13:02:13",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10073,12 +10073,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 1492,
-   "last": "2026-09-18 12:01:15"
+   "count": 1496,
+   "last": "2026-09-18 18:09:16"
   },
   "SCORES": {
-   "count": 580,
-   "last": "2026-09-18 12:01:15"
+   "count": 582,
+   "last": "2026-09-18 18:09:16"
   },
   "SHEETS": {
    "count": 3904,
@@ -10097,6 +10097,6 @@
    "last": "2026-09-18 17:03:11"
   }
  },
- "generated_at": "2026-09-18T18:08:00",
- "total": 14571
+ "generated_at": "2026-09-18T18:09:17",
+ "total": 14577
 }
