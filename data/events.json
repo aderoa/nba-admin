@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Jackie Carmichael  ~ team: Free Agent -> -",
+   "detected_at": "2026-09-20 14:29:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jackie_Carmichael"
+  },
+  {
+   "detail": "Jackie Carmichael  ~ career_end: - -> 2024",
+   "detected_at": "2026-09-20 14:29:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jackie_Carmichael"
+  },
+  {
    "detail": "Junior Etou  ~ team: Free Agent -> Fos Provence Basket",
    "detected_at": "2026-09-20 12:34:47",
    "source": "WIKI",
@@ -10238,20 +10252,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "French Basketball Cup + Ebenezer Voitan → STB Le Havre",
-   "detected_at": "2026-09-16 16:53:26",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Mexican LNBP + Thomas Scrubb → Lobos Plateados",
-   "detected_at": "2026-09-16 16:53:24",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10288,14 +10288,14 @@
    "last": "2026-09-19 19:27:54"
   },
   "WIKI": {
-   "count": 3732,
-   "last": "2026-09-20 12:34:47"
+   "count": 3734,
+   "last": "2026-09-20 14:29:47"
   },
   "WIKIWATCH": {
    "count": 201,
    "last": "2026-09-19 19:49:09"
   }
  },
- "generated_at": "2026-09-20T14:21:01",
- "total": 15357
+ "generated_at": "2026-09-20T14:29:48",
+ "total": 15359
 }
