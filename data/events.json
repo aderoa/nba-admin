@@ -1,6 +1,41 @@
 {
  "events": [
   {
+   "detail": "Kobe Bufkin  ~ number: 4 -> 44",
+   "detected_at": "2026-09-19 23:49:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kobe_Bufkin"
+  },
+  {
+   "detail": "Markquis Nowell  ~ team: Free agent -> New Orleans Pelicans",
+   "detected_at": "2026-09-19 23:49:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Markquis_Nowell"
+  },
+  {
+   "detail": "Markquis Nowell  ~ league: - -> NBA",
+   "detected_at": "2026-09-19 23:49:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Markquis_Nowell"
+  },
+  {
+   "detail": "Markquis Nowell  ~ CAREER  + Toronto Raptorsm",
+   "detected_at": "2026-09-19 23:49:46",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Markquis_Nowell"
+  },
+  {
+   "detail": "Markquis Nowell  ~ CAREER  + –present New Orleans Pelicans",
+   "detected_at": "2026-09-19 23:49:46",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Markquis_Nowell"
+  },
+  {
    "detail": "Thomas Heurtel  ~ number: 13 -> -",
    "detected_at": "2026-09-19 23:26:47",
    "source": "WIKI",
@@ -10147,41 +10182,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Slovakian Extraliga + Tahlik Chavez → BK Levicki Patrioti Levice",
-   "detected_at": "2026-09-16 08:43:21",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Slovakian Extraliga + Tony Hicks → BK Levicki Patrioti Levice",
-   "detected_at": "2026-09-16 08:43:21",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Slovakian Extraliga + Bojan Tomasevic → BK Levicki Patrioti Levice",
-   "detected_at": "2026-09-16 08:43:21",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Slovakian Extraliga + Boris Bojanovski → BK Levicki Patrioti Levice",
-   "detected_at": "2026-09-16 08:43:21",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Slovakian Extraliga + Samuel Volarik → BK Levicki Patrioti Levice",
-   "detected_at": "2026-09-16 08:43:21",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10218,14 +10218,14 @@
    "last": "2026-09-19 19:27:54"
   },
   "WIKI": {
-   "count": 3657,
-   "last": "2026-09-19 23:26:47"
+   "count": 3662,
+   "last": "2026-09-19 23:49:46"
   },
   "WIKIWATCH": {
    "count": 201,
    "last": "2026-09-19 19:49:09"
   }
  },
- "generated_at": "2026-09-19T23:41:01",
- "total": 14961
+ "generated_at": "2026-09-19T23:49:47",
+ "total": 14966
 }
