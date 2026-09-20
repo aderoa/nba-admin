@@ -1,6 +1,41 @@
 {
  "events": [
   {
+   "detail": "Mateo Drežnjak  ~ team: Studentski centar -> Slovan Bratislava",
+   "detected_at": "2026-09-19 17:35:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Mateo_Dre%C5%BEnjak"
+  },
+  {
+   "detail": "Mateo Drežnjak  ~ league: Prva A Liga ABA League -> Slovak Basketball League ABA League",
+   "detected_at": "2026-09-19 17:35:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Mateo_Dre%C5%BEnjak"
+  },
+  {
+   "detail": "Mateo Drežnjak  ~ number: 33 -> 23",
+   "detected_at": "2026-09-19 17:35:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Mateo_Dre%C5%BEnjak"
+  },
+  {
+   "detail": "Mateo Drežnjak  ~ CAREER  + 2025–2026 Studentski centar",
+   "detected_at": "2026-09-19 17:35:46",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Mateo_Dre%C5%BEnjak"
+  },
+  {
+   "detail": "Mateo Drežnjak  ~ CAREER  + 2026–present Slovan Bratislava",
+   "detected_at": "2026-09-19 17:35:46",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Mateo_Dre%C5%BEnjak"
+  },
+  {
    "detail": "Kendric Davis  ~ 108183: team -> -",
    "detected_at": "2026-09-19 17:16:10",
    "source": "WIKIWATCH",
@@ -10146,41 +10181,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "French Basketball Cup + Jules Gibey → Union Tours Metropole Basket",
-   "detected_at": "2026-09-15 22:59:38",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French Basketball Cup Union Tours Metropole Basket 92, Aurore de Vitre 85",
-   "detected_at": "2026-09-15 22:59:38",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-15/Aurore-de-Vitre-at-Union-Tours-Metropole-Basket/537216"
-  },
-  {
-   "detail": "French Basketball Cup + Adrien Sclear → CEP Lorient",
-   "detected_at": "2026-09-15 22:59:33",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French Basketball Cup + Earvine Bassoumba → CEP Lorient",
-   "detected_at": "2026-09-15 22:59:33",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French Basketball Cup + Maxime Choplin → CEP Lorient",
-   "detected_at": "2026-09-15 22:59:33",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10217,14 +10217,14 @@
    "last": "2026-09-18 14:13:55"
   },
   "WIKI": {
-   "count": 3646,
-   "last": "2026-09-19 17:12:46"
+   "count": 3651,
+   "last": "2026-09-19 17:35:46"
   },
   "WIKIWATCH": {
    "count": 196,
    "last": "2026-09-19 17:16:10"
   }
  },
- "generated_at": "2026-09-19T17:27:01",
- "total": 14890
+ "generated_at": "2026-09-19T17:35:47",
+ "total": 14895
 }
