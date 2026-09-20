@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Josh Adams (basketball)  ~ team: Free agent -> -",
+   "detected_at": "2026-09-20 15:38:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Josh_Adams_(basketball)"
+  },
+  {
+   "detail": "Josh Adams (basketball)  ~ position: Point guard / shooting guard -> -",
+   "detected_at": "2026-09-20 15:38:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Josh_Adams_(basketball)"
+  },
+  {
+   "detail": "Josh Adams (basketball)  ~ career_end: - -> 2025",
+   "detected_at": "2026-09-20 15:38:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Josh_Adams_(basketball)"
+  },
+  {
    "detail": "David Duke Jr.  ~ team: Pallacanestro Varese -> Openjobmetis Varese",
    "detected_at": "2026-09-20 15:15:47",
    "source": "WIKI",
@@ -10237,27 +10258,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-09-16/Mineros-de-Zacatecas-at-Fuerza-Regia/526626"
-  },
-  {
-   "detail": "Michael Frazier II  ~ team: Free Agent -> Beirut Club",
-   "detected_at": "2026-09-16 21:11:49",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Michael_Frazier_II"
-  },
-  {
-   "detail": "Michael Frazier II  ~ league: - -> Lebanese Basketball League",
-   "detected_at": "2026-09-16 21:11:49",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Michael_Frazier_II"
-  },
-  {
-   "detail": "Michael Frazier II  ~ CAREER  + 2026–present Beirut Club",
-   "detected_at": "2026-09-16 21:11:49",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Michael_Frazier_II"
   }
  ],
  "feeds": {
@@ -10294,14 +10294,14 @@
    "last": "2026-09-19 19:27:54"
   },
   "WIKI": {
-   "count": 3770,
-   "last": "2026-09-20 15:15:47"
+   "count": 3773,
+   "last": "2026-09-20 15:38:47"
   },
   "WIKIWATCH": {
    "count": 201,
    "last": "2026-09-19 19:49:09"
   }
  },
- "generated_at": "2026-09-20T15:30:03",
- "total": 15395
+ "generated_at": "2026-09-20T15:38:48",
+ "total": 15398
 }
