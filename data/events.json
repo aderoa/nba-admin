@@ -1,6 +1,41 @@
 {
  "events": [
   {
+   "detail": "Sylvain Francisco  ~ 108162: team -> -",
+   "detected_at": "2026-09-19 19:49:09",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Panathinaikos"
+  },
+  {
+   "detail": "Sylvain Francisco  ~ 108162: league -> -",
+   "detected_at": "2026-09-19 19:49:09",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Greek Basketball League EuroLeague"
+  },
+  {
+   "detail": "Sylvain Francisco  ~ 108162: position -> -",
+   "detected_at": "2026-09-19 19:49:09",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Point guard"
+  },
+  {
+   "detail": "Sylvain Francisco  ~ 108162: number -> -",
+   "detected_at": "2026-09-19 19:49:09",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "3"
+  },
+  {
+   "detail": "Sylvain Francisco  ~ 108162: (page changed) -> -",
+   "detected_at": "2026-09-19 19:49:09",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": ""
+  },
+  {
    "detail": "- REMOVED Elias Ralph (GSW)",
    "detected_at": "2026-09-19 19:42:54",
    "source": "PLAYERS",
@@ -10147,41 +10182,6 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Lamar_Stevens"
-  },
-  {
-   "detail": "Mitch Creek  ~ position: Power forward / Small forward -> Power forward / small forward",
-   "detected_at": "2026-09-16 08:43:14",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Mitch_Creek"
-  },
-  {
-   "detail": "Nick Smith Jr.  ~ league: - -> Liga ACB EuroLeague",
-   "detected_at": "2026-09-16 08:43:14",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Nick_Smith_Jr."
-  },
-  {
-   "detail": "Nick Smith Jr.  ~ number: - -> 1",
-   "detected_at": "2026-09-16 08:43:14",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Nick_Smith_Jr."
-  },
-  {
-   "detail": "Brandon Knight (basketball)  ~ number: - -> 17",
-   "detected_at": "2026-09-16 08:43:14",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Brandon_Knight_(basketball)"
-  },
-  {
-   "detail": "Jonas Valančiūnas  ~ weight_lb: 265 -> 699",
-   "detected_at": "2026-09-16 08:43:14",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jonas_Valan%C4%8Di%C5%ABnas"
   }
  ],
  "feeds": {
@@ -10222,10 +10222,10 @@
    "last": "2026-09-19 17:35:46"
   },
   "WIKIWATCH": {
-   "count": 196,
-   "last": "2026-09-19 17:16:10"
+   "count": 201,
+   "last": "2026-09-19 19:49:09"
   }
  },
- "generated_at": "2026-09-19T19:49:01",
- "total": 14949
+ "generated_at": "2026-09-19T19:50:01",
+ "total": 14954
 }
