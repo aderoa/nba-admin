@@ -1,6 +1,41 @@
 {
  "events": [
   {
+   "detail": "Kendric Davis  ~ 108183: team -> -",
+   "detected_at": "2026-09-19 17:16:10",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Sydney Kings"
+  },
+  {
+   "detail": "Kendric Davis  ~ 108183: league -> -",
+   "detected_at": "2026-09-19 17:16:10",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "NBL"
+  },
+  {
+   "detail": "Kendric Davis  ~ 108183: position -> -",
+   "detected_at": "2026-09-19 17:16:10",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Point guard"
+  },
+  {
+   "detail": "Kendric Davis  ~ 108183: number -> -",
+   "detected_at": "2026-09-19 17:16:10",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "1"
+  },
+  {
+   "detail": "Kendric Davis  ~ 108183: (page changed) -> -",
+   "detected_at": "2026-09-19 17:16:10",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": ""
+  },
+  {
    "detail": "Boris Tišma  ~ team: Washington Huskies -> CB Estudiantes",
    "detected_at": "2026-09-19 17:12:46",
    "source": "WIKI",
@@ -10146,41 +10181,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "French Basketball Cup + Kevin Franceschi → CEP Lorient",
-   "detected_at": "2026-09-15 22:59:33",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French Basketball Cup + Parfait Njiba → CEP Lorient",
-   "detected_at": "2026-09-15 22:59:33",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French Basketball Cup + Mohamed Lamine Queta → CEP Lorient",
-   "detected_at": "2026-09-15 22:59:33",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French Basketball Cup + Grace Matundu Vubi → CEP Lorient",
-   "detected_at": "2026-09-15 22:59:33",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French Basketball Cup + Victor Maury → CEP Lorient",
-   "detected_at": "2026-09-15 22:59:33",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10221,10 +10221,10 @@
    "last": "2026-09-19 17:12:46"
   },
   "WIKIWATCH": {
-   "count": 191,
-   "last": "2026-09-19 13:03:13"
+   "count": 196,
+   "last": "2026-09-19 17:16:10"
   }
  },
- "generated_at": "2026-09-19T17:16:01",
- "total": 14885
+ "generated_at": "2026-09-19T17:17:01",
+ "total": 14890
 }
