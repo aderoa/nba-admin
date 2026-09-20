@@ -1,6 +1,24 @@
 {
  "events": [
   {
+   "detail": "- REMOVED Elias Ralph (GSW)",
+   "detected_at": "2026-09-19 19:42:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Stephen Thompson (MIN)",
+   "detected_at": "2026-09-19 19:42:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Markquis Nowell (NOP)",
+   "detected_at": "2026-09-19 19:42:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
    "detail": "2026-09-19  Golden State Warriors waived  Elias Ralph.",
    "detected_at": "2026-09-19 19:27:54",
    "source": "TRANSACTIONS",
@@ -10164,27 +10182,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Jonas_Valan%C4%8Di%C5%ABnas"
-  },
-  {
-   "detail": "Rob Gray (basketball)  ~ team: Jiangsu Dragons -> Suke Lions",
-   "detected_at": "2026-09-16 08:43:14",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Rob_Gray_(basketball)"
-  },
-  {
-   "detail": "Rob Gray (basketball)  ~ league: CBA -> NBL",
-   "detected_at": "2026-09-16 08:43:14",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Rob_Gray_(basketball)"
-  },
-  {
-   "detail": "Rob Gray (basketball)  ~ CAREER  + 2026–present Suke Lions",
-   "detected_at": "2026-09-16 08:43:14",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Rob_Gray_(basketball)"
   }
  ],
  "feeds": {
@@ -10197,8 +10194,8 @@
    "last": "2026-09-19 08:35:02"
   },
   "PLAYERS": {
-   "count": 884,
-   "last": "2026-09-19 13:45:54"
+   "count": 887,
+   "last": "2026-09-19 19:42:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10229,6 +10226,6 @@
    "last": "2026-09-19 17:16:10"
   }
  },
- "generated_at": "2026-09-19T19:42:01",
- "total": 14946
+ "generated_at": "2026-09-19T19:43:01",
+ "total": 14949
 }
