@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "2026-09-21  Golden State Warriors signed  Graham Ike to a Two-Way Contract.",
+   "detected_at": "2026-09-21 15:36:55",
+   "source": "TRANSACTIONS",
+   "type": "Signing"
+  },
+  {
    "detail": "MarQuez Haynes  ~ team: Retired -> -",
    "detected_at": "2026-09-21 15:10:17",
    "source": "WIKI",
@@ -10356,13 +10362,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Egor_Koulechov"
-  },
-  {
-   "detail": "Egor Koulechov  ~ height_ft: 6 -> -",
-   "detected_at": "2026-09-18 08:50:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Egor_Koulechov"
   }
  ],
  "feeds": {
@@ -10395,8 +10394,8 @@
    "last": "2026-09-18 08:42:07"
   },
   "TRANSACTIONS": {
-   "count": 372,
-   "last": "2026-09-21 14:14:55"
+   "count": 373,
+   "last": "2026-09-21 15:36:55"
   },
   "WIKI": {
    "count": 3829,
@@ -10407,6 +10406,6 @@
    "last": "2026-09-21 13:20:46"
   }
  },
- "generated_at": "2026-09-21T15:36:01",
- "total": 15818
+ "generated_at": "2026-09-21T15:37:01",
+ "total": 15819
 }
