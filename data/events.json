@@ -1,6 +1,30 @@
 {
  "events": [
   {
+   "detail": "- REMOVED Reese Dixon-Waters (DEN)",
+   "detected_at": "2026-09-21 15:43:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Solomon Washington (NOP)",
+   "detected_at": "2026-09-21 15:43:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Keonte Jones (DEN)",
+   "detected_at": "2026-09-21 15:43:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Graham Ike (GSW)",
+   "detected_at": "2026-09-21 15:43:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
    "detail": "+ ADDED   Reese Dixon-Waters (DEN)",
    "detected_at": "2026-09-21 15:42:54",
    "source": "PLAYERS",
@@ -10330,34 +10354,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Serta%C3%A7_%C5%9Eanl%C4%B1"
-  },
-  {
-   "detail": "Shavon Shields  ~ team: Fenerbahçe -> Fenerbahçe Tarfin",
-   "detected_at": "2026-09-18 08:50:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Shavon_Shields"
-  },
-  {
-   "detail": "Thomas Heurtel  ~ league: Greek Basket League , Basketball Champions League -> Greek Basketball League",
-   "detected_at": "2026-09-18 08:50:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Thomas_Heurtel"
-  },
-  {
-   "detail": "Thomas Heurtel  ~ CAREER  + 2026–present AEK Athens",
-   "detected_at": "2026-09-18 08:50:08",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Thomas_Heurtel"
-  },
-  {
-   "detail": "Will Clyburn  ~ team: Fenerbahçe -> Fenerbahçe Tarfin",
-   "detected_at": "2026-09-18 08:50:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Will_Clyburn"
   }
  ],
  "feeds": {
@@ -10370,8 +10366,8 @@
    "last": "2026-09-19 08:35:02"
   },
   "PLAYERS": {
-   "count": 950,
-   "last": "2026-09-21 15:42:54"
+   "count": 954,
+   "last": "2026-09-21 15:43:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10402,6 +10398,6 @@
    "last": "2026-09-21 13:20:46"
   }
  },
- "generated_at": "2026-09-21T15:43:01",
- "total": 15823
+ "generated_at": "2026-09-21T15:44:01",
+ "total": 15827
 }
