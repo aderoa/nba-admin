@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Simon Birgander  ~ CAREER  + 2023–2025 UCAM Murcia",
+   "detected_at": "2026-09-21 11:27:39",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Simon_Birgander"
+  },
+  {
+   "detail": "Kwan Cheatham  ~ CAREER  + 2026–present Joventut Badalona",
+   "detected_at": "2026-09-21 11:27:38",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Kwan_Cheatham"
+  },
+  {
    "detail": "Bruno Fernando  ~ position: Center -> Power forward / Center",
    "detected_at": "2026-09-21 11:04:36",
    "source": "WIKI",
@@ -10353,18 +10367,6 @@
    "detected_at": "2026-09-18 08:42:07",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "SAC  + ADDED  Payton, Elfrid",
-   "detected_at": "2026-09-18 08:42:07",
-   "source": "SHEETS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "SAC  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 213633189.3 -> 216082610.3, col9: 477587219.6 -> 480036640.6",
-   "detected_at": "2026-09-18 08:42:07",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10401,14 +10403,14 @@
    "last": "2026-09-21 07:56:07"
   },
   "WIKI": {
-   "count": 3814,
-   "last": "2026-09-21 11:04:36"
+   "count": 3816,
+   "last": "2026-09-21 11:27:39"
   },
   "WIKIWATCH": {
    "count": 209,
    "last": "2026-09-21 09:48:17"
   }
  },
- "generated_at": "2026-09-21T11:19:07",
- "total": 15772
+ "generated_at": "2026-09-21T11:27:47",
+ "total": 15774
 }
