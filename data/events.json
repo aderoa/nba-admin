@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "2026-09-20  Charlotte Hornets waived guard Bez Mbeng.",
+   "detected_at": "2026-09-21 07:56:07",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
    "detail": "Ricky Rubio  ~ 1599: team -> -",
    "detected_at": "2026-09-21 07:04:40",
    "source": "WIKIWATCH",
@@ -10360,13 +10366,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Lithuanian LKL + Carsen Edwards → Zalgiris",
-   "detected_at": "2026-09-17 22:32:17",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10399,8 +10398,8 @@
    "last": "2026-09-18 08:42:07"
   },
   "TRANSACTIONS": {
-   "count": 364,
-   "last": "2026-09-19 19:27:54"
+   "count": 365,
+   "last": "2026-09-21 07:56:07"
   },
   "WIKI": {
    "count": 3793,
@@ -10411,6 +10410,6 @@
    "last": "2026-09-21 07:04:40"
   }
  },
- "generated_at": "2026-09-21T07:07:01",
- "total": 15701
+ "generated_at": "2026-09-21T08:03:39",
+ "total": 15702
 }
