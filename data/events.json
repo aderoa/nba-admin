@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "2026-09-21  Toronto Raptors converted the contract of guard Malachi Smith to a Two-Way Contract.",
+   "detected_at": "2026-09-21 13:05:55",
+   "source": "TRANSACTIONS",
+   "type": "ContractConverted"
+  },
+  {
    "detail": "2026-09-21  Toronto Raptors signed guard Jaden Bradley to a Contract.",
    "detected_at": "2026-09-21 12:57:55",
    "source": "TRANSACTIONS",
@@ -10371,12 +10377,6 @@
    "detected_at": "2026-09-18 08:42:07",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "CLE  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 15 -> 14",
-   "detected_at": "2026-09-18 08:42:07",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10409,8 +10409,8 @@
    "last": "2026-09-18 08:42:07"
   },
   "TRANSACTIONS": {
-   "count": 366,
-   "last": "2026-09-21 12:57:55"
+   "count": 367,
+   "last": "2026-09-21 13:05:55"
   },
   "WIKI": {
    "count": 3816,
@@ -10421,6 +10421,6 @@
    "last": "2026-09-21 12:13:11"
   }
  },
- "generated_at": "2026-09-21T13:05:01",
- "total": 15785
+ "generated_at": "2026-09-21T13:06:01",
+ "total": 15786
 }
