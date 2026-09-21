@@ -1,6 +1,18 @@
 {
  "events": [
   {
+   "detail": "+ ADDED   Isaac McKneely (ATL)",
+   "detected_at": "2026-09-21 13:43:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "+ ADDED   Drake Allen (DET)",
+   "detected_at": "2026-09-21 13:43:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
    "detail": "Codi Miller-McIntyre  ~ 24692: number -> 11",
    "detected_at": "2026-09-21 13:20:46",
    "source": "WIKIWATCH",
@@ -10367,18 +10379,6 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Isaiah_Whitehead"
-  },
-  {
-   "detail": "CLE  - REMOVED McNeil, Sean",
-   "detected_at": "2026-09-18 08:42:07",
-   "source": "SHEETS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "CLE  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 225024243.3 -> 223666480.3, col9: 698287599.1 -> 696929836.1",
-   "detected_at": "2026-09-18 08:42:07",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10391,8 +10391,8 @@
    "last": "2026-09-19 08:35:02"
   },
   "PLAYERS": {
-   "count": 933,
-   "last": "2026-09-21 08:49:54"
+   "count": 935,
+   "last": "2026-09-21 13:43:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10423,6 +10423,6 @@
    "last": "2026-09-21 13:20:46"
   }
  },
- "generated_at": "2026-09-21T13:43:01",
- "total": 15788
+ "generated_at": "2026-09-21T13:44:01",
+ "total": 15790
 }
