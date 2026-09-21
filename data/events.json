@@ -1,6 +1,41 @@
 {
  "events": [
   {
+   "detail": "Jordan Loyd  ~ 31657: team -> -",
+   "detected_at": "2026-09-21 11:58:08",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Anadolu Efes"
+  },
+  {
+   "detail": "Jordan Loyd  ~ 31657: league -> -",
+   "detected_at": "2026-09-21 11:58:08",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "BSL EuroLeague"
+  },
+  {
+   "detail": "Jordan Loyd  ~ 31657: position -> -",
+   "detected_at": "2026-09-21 11:58:08",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Shooting guard / point guard"
+  },
+  {
+   "detail": "Jordan Loyd  ~ 31657: number -> -",
+   "detected_at": "2026-09-21 11:58:08",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "3"
+  },
+  {
+   "detail": "Jordan Loyd  ~ 31657: (page changed) -> -",
+   "detected_at": "2026-09-21 11:58:08",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": ""
+  },
+  {
    "detail": "Simon Birgander  ~ CAREER  + 2023–2025 UCAM Murcia",
    "detected_at": "2026-09-21 11:27:39",
    "source": "WIKI",
@@ -10337,36 +10372,6 @@
    "detected_at": "2026-09-18 08:42:07",
    "source": "SHEETS",
    "type": "ADDED"
-  },
-  {
-   "detail": "NYK  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 220861653 -> 233108758, col9: 643378688 -> 655625793",
-   "detected_at": "2026-09-18 08:42:07",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "NYK  CHANGED Players Under Contract  -  col3: 218412232 -> 230659337",
-   "detected_at": "2026-09-18 08:42:07",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "NYK  CHANGED Full Season Contracts  -  col3: 218412232 -> 230659337",
-   "detected_at": "2026-09-18 08:42:07",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "NYK  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 13 -> 18",
-   "detected_at": "2026-09-18 08:42:07",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "NYK  CHANGED Avg, Salary (Mean) (No 10-Day K's)  -  col6: 2 -> 0",
-   "detected_at": "2026-09-18 08:42:07",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10407,10 +10412,10 @@
    "last": "2026-09-21 11:27:39"
   },
   "WIKIWATCH": {
-   "count": 209,
-   "last": "2026-09-21 09:48:17"
+   "count": 214,
+   "last": "2026-09-21 11:58:08"
   }
  },
- "generated_at": "2026-09-21T11:58:00",
- "total": 15774
+ "generated_at": "2026-09-21T11:59:02",
+ "total": 15779
 }
