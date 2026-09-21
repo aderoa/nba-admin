@@ -1,6 +1,18 @@
 {
  "events": [
   {
+   "detail": "+ ADDED   Isaac McKneely (ATL)",
+   "detected_at": "2026-09-21 13:46:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "+ ADDED   Drake Allen (DET)",
+   "detected_at": "2026-09-21 13:46:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
    "detail": "- REMOVED Drake Allen (DET)",
    "detected_at": "2026-09-21 13:44:54",
    "source": "PLAYERS",
@@ -10363,20 +10375,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Sergey_Karasev"
-  },
-  {
-   "detail": "Isaiah Whitehead  ~ team: Ironi Ness Ziona -> Free agent",
-   "detected_at": "2026-09-18 08:50:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Isaiah_Whitehead"
-  },
-  {
-   "detail": "Isaiah Whitehead  ~ league: Israeli Basketball Premier League -> -",
-   "detected_at": "2026-09-18 08:50:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Isaiah_Whitehead"
   }
  ],
  "feeds": {
@@ -10389,8 +10387,8 @@
    "last": "2026-09-19 08:35:02"
   },
   "PLAYERS": {
-   "count": 937,
-   "last": "2026-09-21 13:44:54"
+   "count": 939,
+   "last": "2026-09-21 13:46:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10421,6 +10419,6 @@
    "last": "2026-09-21 13:20:46"
   }
  },
- "generated_at": "2026-09-21T13:46:00",
- "total": 15792
+ "generated_at": "2026-09-21T13:47:02",
+ "total": 15794
 }
