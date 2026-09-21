@@ -1,6 +1,18 @@
 {
  "events": [
   {
+   "detail": "- REMOVED Drake Allen (DET)",
+   "detected_at": "2026-09-21 13:44:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Isaac McKneely (ATL)",
+   "detected_at": "2026-09-21 13:44:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
    "detail": "+ ADDED   Isaac McKneely (ATL)",
    "detected_at": "2026-09-21 13:43:54",
    "source": "PLAYERS",
@@ -10365,20 +10377,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Isaiah_Whitehead"
-  },
-  {
-   "detail": "Isaiah Whitehead  ~ number: 15 -> -",
-   "detected_at": "2026-09-18 08:50:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Isaiah_Whitehead"
-  },
-  {
-   "detail": "Isaiah Whitehead  ~ CAREER  + 2025–2026 Ironi Ness Ziona",
-   "detected_at": "2026-09-18 08:50:07",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Isaiah_Whitehead"
   }
  ],
  "feeds": {
@@ -10391,8 +10389,8 @@
    "last": "2026-09-19 08:35:02"
   },
   "PLAYERS": {
-   "count": 935,
-   "last": "2026-09-21 13:43:54"
+   "count": 937,
+   "last": "2026-09-21 13:44:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10423,6 +10421,6 @@
    "last": "2026-09-21 13:20:46"
   }
  },
- "generated_at": "2026-09-21T13:44:01",
- "total": 15790
+ "generated_at": "2026-09-21T13:45:01",
+ "total": 15792
 }
