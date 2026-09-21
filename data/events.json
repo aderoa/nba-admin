@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Codi Miller-McIntyre  ~ 24692: number -> 11",
+   "detected_at": "2026-09-21 13:20:46",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "0"
+  },
+  {
    "detail": "Codi Miller-McIntyre  ~ number: 11 -> 0",
    "detected_at": "2026-09-21 13:20:37",
    "source": "WIKI",
@@ -10372,12 +10379,6 @@
    "detected_at": "2026-09-18 08:42:07",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "CLE  CHANGED Players Under Contract  -  col3: 208083609 -> 206725846",
-   "detected_at": "2026-09-18 08:42:07",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10418,10 +10419,10 @@
    "last": "2026-09-21 13:20:37"
   },
   "WIKIWATCH": {
-   "count": 219,
-   "last": "2026-09-21 12:13:11"
+   "count": 220,
+   "last": "2026-09-21 13:20:46"
   }
  },
- "generated_at": "2026-09-21T13:20:38",
- "total": 15787
+ "generated_at": "2026-09-21T13:21:01",
+ "total": 15788
 }
