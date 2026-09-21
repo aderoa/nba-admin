@@ -1,6 +1,48 @@
 {
  "events": [
   {
+   "detail": "Nicolas Batum  ~ team: Free agent -> -",
+   "detected_at": "2026-09-21 09:56:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Nicolas_Batum"
+  },
+  {
+   "detail": "Nicolas Batum  ~ position: Small forward / power forward -> -",
+   "detected_at": "2026-09-21 09:56:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Nicolas_Batum"
+  },
+  {
+   "detail": "Nicolas Batum  ~ career_end: - -> 2026",
+   "detected_at": "2026-09-21 09:56:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Nicolas_Batum"
+  },
+  {
+   "detail": "Nicolas Batum  ~ 782: team -> Free agent",
+   "detected_at": "2026-09-21 09:48:17",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": ""
+  },
+  {
+   "detail": "Nicolas Batum  ~ 782: career_position -> -",
+   "detected_at": "2026-09-21 09:48:17",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Small forward / power forward"
+  },
+  {
+   "detail": "Nicolas Batum  ~ 782: position -> Small forward / power forward",
+   "detected_at": "2026-09-21 09:48:17",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": ""
+  },
+  {
    "detail": "Lorenzo Brown  ~ team: Free agent -> Olimpia Milano",
    "detected_at": "2026-09-21 09:33:26",
    "source": "WIKI",
@@ -10311,42 +10353,6 @@
    "detected_at": "2026-09-18 08:41:58",
    "source": "DOCS",
    "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Ochai Agbaji New York Knicks",
-   "detected_at": "2026-09-18 08:41:58",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  26-27 $2,625,627",
-   "detected_at": "2026-09-18 08:41:58",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp.",
-   "detected_at": "2026-09-18 08:41:58",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 9/15/26",
-   "detected_at": "2026-09-18 08:41:58",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Bruce Brown New York Knicks",
-   "detected_at": "2026-09-18 08:41:58",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  26-27 $3,506,659",
-   "detected_at": "2026-09-18 08:41:58",
-   "source": "DOCS",
-   "type": "ADDED"
   }
  ],
  "feeds": {
@@ -10383,14 +10389,14 @@
    "last": "2026-09-21 07:56:07"
   },
   "WIKI": {
-   "count": 3799,
-   "last": "2026-09-21 09:33:26"
+   "count": 3802,
+   "last": "2026-09-21 09:56:47"
   },
   "WIKIWATCH": {
-   "count": 206,
-   "last": "2026-09-21 07:04:40"
+   "count": 209,
+   "last": "2026-09-21 09:48:17"
   }
  },
- "generated_at": "2026-09-21T09:48:01",
- "total": 15754
+ "generated_at": "2026-09-21T09:56:48",
+ "total": 15760
 }
