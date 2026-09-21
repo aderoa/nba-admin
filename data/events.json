@@ -1,6 +1,36 @@
 {
  "events": [
   {
+   "detail": "- REMOVED Dominique Daniels, Jr. (NOP)",
+   "detected_at": "2026-09-21 14:41:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Jalen Warley (IND)",
+   "detected_at": "2026-09-21 14:41:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Kowacie Reeves Jr. (IND)",
+   "detected_at": "2026-09-21 14:41:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Aaron Scott (BKN)",
+   "detected_at": "2026-09-21 14:41:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED DJ Rodman (BKN)",
+   "detected_at": "2026-09-21 14:41:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
    "detail": "2026-09-21  Brooklyn Nets waived guard DJ Rodman.",
    "detected_at": "2026-09-21 14:14:55",
    "source": "TRANSACTIONS",
@@ -10333,41 +10363,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Mert_Akay"
-  },
-  {
-   "detail": "Mert Akay  ~ league: Basketball League of Serbia -> Basketbol Süper Ligi",
-   "detected_at": "2026-09-18 08:50:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Mert_Akay"
-  },
-  {
-   "detail": "Mert Akay  ~ CAREER  + 2019–2022 Dynamic Belgrade",
-   "detected_at": "2026-09-18 08:50:08",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Mert_Akay"
-  },
-  {
-   "detail": "Mert Akay  ~ CAREER  + 2025–2026 Darüşşafaka",
-   "detected_at": "2026-09-18 08:50:08",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Mert_Akay"
-  },
-  {
-   "detail": "Mert Akay  ~ CAREER  + 2026–present Körfez Basket",
-   "detected_at": "2026-09-18 08:50:08",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Mert_Akay"
-  },
-  {
-   "detail": "T. J. Cline  ~ team: Ironi Ness Ziona -> Dallas Power",
-   "detected_at": "2026-09-18 08:50:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/T._J._Cline"
   }
  ],
  "feeds": {
@@ -10380,8 +10375,8 @@
    "last": "2026-09-19 08:35:02"
   },
   "PLAYERS": {
-   "count": 941,
-   "last": "2026-09-21 14:13:54"
+   "count": 946,
+   "last": "2026-09-21 14:41:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10412,6 +10407,6 @@
    "last": "2026-09-21 13:20:46"
   }
  },
- "generated_at": "2026-09-21T14:41:02",
- "total": 15806
+ "generated_at": "2026-09-21T14:42:01",
+ "total": 15811
 }
