@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "2026-09-21  Toronto Raptors signed guard Jaden Bradley to a Contract.",
+   "detected_at": "2026-09-21 12:57:55",
+   "source": "TRANSACTIONS",
+   "type": "Signing"
+  },
+  {
    "detail": "Matthew Strazel  ~ 127355: team -> -",
    "detected_at": "2026-09-21 12:13:11",
    "source": "WIKIWATCH",
@@ -10371,12 +10377,6 @@
    "detected_at": "2026-09-18 08:42:07",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "CLE  CHANGED Avg, Salary (Mean) (No 10-Day K's)  -  col6: 0 -> 1",
-   "detected_at": "2026-09-18 08:42:07",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10409,8 +10409,8 @@
    "last": "2026-09-18 08:42:07"
   },
   "TRANSACTIONS": {
-   "count": 365,
-   "last": "2026-09-21 07:56:07"
+   "count": 366,
+   "last": "2026-09-21 12:57:55"
   },
   "WIKI": {
    "count": 3816,
@@ -10421,6 +10421,6 @@
    "last": "2026-09-21 12:13:11"
   }
  },
- "generated_at": "2026-09-21T12:57:30",
- "total": 15784
+ "generated_at": "2026-09-21T12:58:02",
+ "total": 15785
 }
