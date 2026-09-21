@@ -1,6 +1,18 @@
 {
  "events": [
   {
+   "detail": "~ CHANGED DJ Rodman  school: Southern California -> USC",
+   "detected_at": "2026-09-21 14:13:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Aaron Scott  school: St. John's -> St. John's, N.Y.",
+   "detected_at": "2026-09-21 14:13:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "Bennet Hundt  ~ number: - -> 3",
    "detected_at": "2026-09-21 14:04:17",
    "source": "WIKI",
@@ -10361,20 +10373,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Nemanja_Gordi%C4%87"
-  },
-  {
-   "detail": "Nemanja Gordić  ~ number: - -> 3",
-   "detected_at": "2026-09-18 08:50:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Nemanja_Gordi%C4%87"
-  },
-  {
-   "detail": "Desi Rodriguez  ~ number: 23 -> 20",
-   "detected_at": "2026-09-18 08:50:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Desi_Rodriguez"
   }
  ],
  "feeds": {
@@ -10387,8 +10385,8 @@
    "last": "2026-09-19 08:35:02"
   },
   "PLAYERS": {
-   "count": 939,
-   "last": "2026-09-21 13:46:54"
+   "count": 941,
+   "last": "2026-09-21 14:13:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10419,6 +10417,6 @@
    "last": "2026-09-21 13:20:46"
   }
  },
- "generated_at": "2026-09-21T14:13:01",
- "total": 15799
+ "generated_at": "2026-09-21T14:14:00",
+ "total": 15801
 }
