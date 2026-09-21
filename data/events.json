@@ -1,6 +1,36 @@
 {
  "events": [
   {
+   "detail": "2026-09-21  Brooklyn Nets waived guard DJ Rodman.",
+   "detected_at": "2026-09-21 14:14:55",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-09-21  Brooklyn Nets waived forward Aaron Scott.",
+   "detected_at": "2026-09-21 14:14:55",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-09-21  Indiana Pacers waived forward Kowacie Reeves Jr..",
+   "detected_at": "2026-09-21 14:14:55",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-09-21  Indiana Pacers waived guard Jalen Warley.",
+   "detected_at": "2026-09-21 14:14:55",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-09-21  New Orleans Pelicans waived  Dominique Daniels, Jr..",
+   "detected_at": "2026-09-21 14:14:55",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
    "detail": "~ CHANGED DJ Rodman  school: Southern California -> USC",
    "detected_at": "2026-09-21 14:13:54",
    "source": "PLAYERS",
@@ -10338,41 +10368,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/T._J._Cline"
-  },
-  {
-   "detail": "T. J. Cline  ~ league: Israeli Basketball Premier League -> BIG3",
-   "detected_at": "2026-09-18 08:50:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/T._J._Cline"
-  },
-  {
-   "detail": "T. J. Cline  ~ number: 3 -> 6",
-   "detected_at": "2026-09-18 08:50:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/T._J._Cline"
-  },
-  {
-   "detail": "T. J. Cline  ~ CAREER  + 2025–2026 Ironi Ness Ziona",
-   "detected_at": "2026-09-18 08:50:08",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/T._J._Cline"
-  },
-  {
-   "detail": "T. J. Cline  ~ CAREER  + 2026–present Dallas Power",
-   "detected_at": "2026-09-18 08:50:08",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/T._J._Cline"
-  },
-  {
-   "detail": "Nemanja Gordić  ~ league: Serbian SuperLeague -> Serbian First League",
-   "detected_at": "2026-09-18 08:50:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Nemanja_Gordi%C4%87"
   }
  ],
  "feeds": {
@@ -10405,8 +10400,8 @@
    "last": "2026-09-18 08:42:07"
   },
   "TRANSACTIONS": {
-   "count": 367,
-   "last": "2026-09-21 13:05:55"
+   "count": 372,
+   "last": "2026-09-21 14:14:55"
   },
   "WIKI": {
    "count": 3822,
@@ -10417,6 +10412,6 @@
    "last": "2026-09-21 13:20:46"
   }
  },
- "generated_at": "2026-09-21T14:14:00",
- "total": 15801
+ "generated_at": "2026-09-21T14:15:00",
+ "total": 15806
 }
