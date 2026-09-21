@@ -1,6 +1,41 @@
 {
  "events": [
   {
+   "detail": "Bennet Hundt  ~ number: - -> 3",
+   "detected_at": "2026-09-21 14:04:17",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Bennet_Hundt"
+  },
+  {
+   "detail": "EJ Onu  ~ team: Bamberg Baskets -> Gladiators Trier",
+   "detected_at": "2026-09-21 14:04:17",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/EJ_Onu"
+  },
+  {
+   "detail": "EJ Onu  ~ CAREER  + 2025–2026 Bamberg Baskets",
+   "detected_at": "2026-09-21 14:04:17",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/EJ_Onu"
+  },
+  {
+   "detail": "EJ Onu  ~ CAREER  + 2026–present Gladiators Trier",
+   "detected_at": "2026-09-21 14:04:17",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/EJ_Onu"
+  },
+  {
+   "detail": "Justin Simon  ~ number: - -> 5",
+   "detected_at": "2026-09-21 14:04:17",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Justin_Simon"
+  },
+  {
    "detail": "+ ADDED   Isaac McKneely (ATL)",
    "detected_at": "2026-09-21 13:46:54",
    "source": "PLAYERS",
@@ -10340,41 +10375,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Desi_Rodriguez"
-  },
-  {
-   "detail": "Trent Forrest  ~ team: Fenerbahçe -> Fenerbahçe Tarfin",
-   "detected_at": "2026-09-18 08:50:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Trent_Forrest"
-  },
-  {
-   "detail": "Jabari Bird  ~ league: Major Basketball League -> MBL",
-   "detected_at": "2026-09-18 08:50:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jabari_Bird"
-  },
-  {
-   "detail": "Jabari Bird  ~ CAREER  + 2026–present Johor Southern Tigers",
-   "detected_at": "2026-09-18 08:50:07",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Jabari_Bird"
-  },
-  {
-   "detail": "Shane Larkin  ~ team: Fenerbahçe -> Fenerbahçe Tarfin",
-   "detected_at": "2026-09-18 08:50:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Shane_Larkin"
-  },
-  {
-   "detail": "Sergey Karasev  ~ position: Small forward / shooting guard -> Power forward / small forward",
-   "detected_at": "2026-09-18 08:50:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Sergey_Karasev"
   }
  ],
  "feeds": {
@@ -10411,14 +10411,14 @@
    "last": "2026-09-21 13:05:55"
   },
   "WIKI": {
-   "count": 3817,
-   "last": "2026-09-21 13:20:37"
+   "count": 3822,
+   "last": "2026-09-21 14:04:17"
   },
   "WIKIWATCH": {
    "count": 220,
    "last": "2026-09-21 13:20:46"
   }
  },
- "generated_at": "2026-09-21T13:57:00",
- "total": 15794
+ "generated_at": "2026-09-21T14:04:17",
+ "total": 15799
 }
