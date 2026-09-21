@@ -1,6 +1,41 @@
 {
  "events": [
   {
+   "detail": "Ricky Rubio  ~ 1599: team -> -",
+   "detected_at": "2026-09-21 07:04:40",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Joventut Badalona"
+  },
+  {
+   "detail": "Ricky Rubio  ~ 1599: league -> -",
+   "detected_at": "2026-09-21 07:04:40",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Liga ACB"
+  },
+  {
+   "detail": "Ricky Rubio  ~ 1599: position -> -",
+   "detected_at": "2026-09-21 07:04:40",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Point guard"
+  },
+  {
+   "detail": "Ricky Rubio  ~ 1599: number -> -",
+   "detected_at": "2026-09-21 07:04:40",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "9"
+  },
+  {
+   "detail": "Ricky Rubio  ~ 1599: (page changed) -> -",
+   "detected_at": "2026-09-21 07:04:40",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": ""
+  },
+  {
    "detail": "Czech NBL + Petr Slechta → Sokol Srsni Pisek",
    "detected_at": "2026-09-21 07:04:09",
    "source": "REALGM",
@@ -10332,41 +10367,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Lithuanian LKL + Jonas Valanciunas → Zalgiris",
-   "detected_at": "2026-09-17 22:32:17",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Lithuanian LKL + Nigel Williams-Goss → Zalgiris",
-   "detected_at": "2026-09-17 22:32:17",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Lithuanian LKL + Arnas Butkevicius → Zalgiris",
-   "detected_at": "2026-09-17 22:32:17",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Lithuanian LKL + Dustin Sleva → Zalgiris",
-   "detected_at": "2026-09-17 22:32:17",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Lithuanian LKL + Maodo Lo → Zalgiris",
-   "detected_at": "2026-09-17 22:32:17",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10407,10 +10407,10 @@
    "last": "2026-09-21 07:03:48"
   },
   "WIKIWATCH": {
-   "count": 201,
-   "last": "2026-09-19 19:49:09"
+   "count": 206,
+   "last": "2026-09-21 07:04:40"
   }
  },
- "generated_at": "2026-09-21T07:04:13",
- "total": 15696
+ "generated_at": "2026-09-21T07:05:03",
+ "total": 15701
 }
