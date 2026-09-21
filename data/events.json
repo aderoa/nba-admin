@@ -1,6 +1,349 @@
 {
  "events": [
   {
+   "detail": "WNBA Washington Mystics 93, Indiana Fever 77",
+   "detected_at": "2026-09-20 18:49:42",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-09-20/Washington-at-Indiana/158636"
+  },
+  {
+   "detail": "WNBA + Madi Scott → New York Liberty",
+   "detected_at": "2026-09-20 18:49:39",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "WNBA New York Liberty 106, Toronto Tempo 69",
+   "detected_at": "2026-09-20 18:49:39",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-09-20/New-York-at-Toronto/158692"
+  },
+  {
+   "detail": "WNBA + Aari McDonald → Minnesota Lynx",
+   "detected_at": "2026-09-20 18:49:37",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "WNBA Minnesota Lynx 101, Connecticut Sun 89",
+   "detected_at": "2026-09-20 18:49:37",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-09-20/Minnesota-at-Connecticut/158635"
+  },
+  {
+   "detail": "Basketball Champions League Europe Qualification + Evdoxios Kapetakis → ASP Promitheas Patras",
+   "detected_at": "2026-09-20 18:49:33",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Basketball Champions League Europe Qualification SC Rasta Vechta 103, ASP Promitheas Patras 73",
+   "detected_at": "2026-09-20 18:49:33",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-19/SC-Rasta-Vechta-at-ASP-Promitheas-Patras/541478"
+  },
+  {
+   "detail": "Super League Basketball + Greg Williams, Jr. → Liverpool Basketball",
+   "detected_at": "2026-09-20 18:49:29",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Super League Basketball + Tomiwa Sulaiman → Liverpool Basketball",
+   "detected_at": "2026-09-20 18:49:29",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Super League Basketball + Tyler Eberhart → Liverpool Basketball",
+   "detected_at": "2026-09-20 18:49:29",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Super League Basketball + Damiri Lindo → Liverpool Basketball",
+   "detected_at": "2026-09-20 18:49:29",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Super League Basketball + James Okonkwo → Liverpool Basketball",
+   "detected_at": "2026-09-20 18:49:29",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Super League Basketball + Zay Williams → Liverpool Basketball",
+   "detected_at": "2026-09-20 18:49:29",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Super League Basketball + Tevin Smith → Liverpool Basketball",
+   "detected_at": "2026-09-20 18:49:29",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Super League Basketball ~ MOVED T.J. Lall → Liverpool Basketball (from Niagara River Lions)",
+   "detected_at": "2026-09-20 18:49:29",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Super League Basketball + Matthew MacLellan → Liverpool Basketball",
+   "detected_at": "2026-09-20 18:49:29",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Super League Basketball + Brandon Tchouya → Liverpool Basketball",
+   "detected_at": "2026-09-20 18:49:29",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Super League Basketball + Al-Amir Dawes → Caledonia Gladiators",
+   "detected_at": "2026-09-20 18:49:29",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Super League Basketball + John Nagle → Caledonia Gladiators",
+   "detected_at": "2026-09-20 18:49:29",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Super League Basketball + Matt Zona → Caledonia Gladiators",
+   "detected_at": "2026-09-20 18:49:29",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Super League Basketball + Christian Keeling → Caledonia Gladiators",
+   "detected_at": "2026-09-20 18:49:29",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Super League Basketball + Terry Roberts → Caledonia Gladiators",
+   "detected_at": "2026-09-20 18:49:29",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Super League Basketball + Kyle Jimenez → Caledonia Gladiators",
+   "detected_at": "2026-09-20 18:49:29",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Super League Basketball + Fraser Malcolm → Caledonia Gladiators",
+   "detected_at": "2026-09-20 18:49:29",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Super League Basketball + Zac Gattorna → Caledonia Gladiators",
+   "detected_at": "2026-09-20 18:49:29",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Super League Basketball + Braxton Williams → Caledonia Gladiators",
+   "detected_at": "2026-09-20 18:49:29",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Super League Basketball + Te'Jon Sawyer → Caledonia Gladiators",
+   "detected_at": "2026-09-20 18:49:29",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Super League Basketball Caledonia Gladiators 78, Liverpool Basketball 73",
+   "detected_at": "2026-09-20 18:49:29",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-20/Liverpool-Basketball-at-Caledonia-Gladiators/532292"
+  },
+  {
+   "detail": "Super League Basketball Bristol Flyers 101, Cheshire Phoenix 92",
+   "detected_at": "2026-09-20 18:49:27",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-20/Bristol-Flyers-at-Cheshire-Phoenix/532293"
+  },
+  {
+   "detail": "Super League Basketball + Jordan Hinds → Cheshire Phoenix",
+   "detected_at": "2026-09-20 18:49:26",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Super League Basketball + Ryker Cisarik → Cheshire Phoenix",
+   "detected_at": "2026-09-20 18:49:26",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Super League Basketball + Isaiah Gray → Cheshire Phoenix",
+   "detected_at": "2026-09-20 18:49:26",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Super League Basketball + Jo'el Emanuel → Cheshire Phoenix",
+   "detected_at": "2026-09-20 18:49:26",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Super League Basketball + Jaylen Searles → Cheshire Phoenix",
+   "detected_at": "2026-09-20 18:49:26",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Super League Basketball + Rory Stewart → Cheshire Phoenix",
+   "detected_at": "2026-09-20 18:49:26",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Super League Basketball + Sam Trunley → Cheshire Phoenix",
+   "detected_at": "2026-09-20 18:49:26",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Super League Basketball + Jarrett Hensley → Cheshire Phoenix",
+   "detected_at": "2026-09-20 18:49:26",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Super League Basketball + Nazir Williams → Cheshire Phoenix",
+   "detected_at": "2026-09-20 18:49:26",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Basketball Champions League Europe Qualification + Timo Lanmuller → SC Rasta Vechta",
+   "detected_at": "2026-09-20 18:49:24",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Basketball Champions League Europe Qualification + Linus Trettin → SC Rasta Vechta",
+   "detected_at": "2026-09-20 18:49:24",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Basketball Champions League Europe Qualification + Peter Hemschemeier → SC Rasta Vechta",
+   "detected_at": "2026-09-20 18:49:24",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Basketball Champions League Europe Qualification SC Rasta Vechta 93, Dziki Warszawa 82",
+   "detected_at": "2026-09-20 18:49:24",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-20/SC-Rasta-Vechta-at-Dziki-Warszawa/541667"
+  },
+  {
+   "detail": "Turkish TBL + Ali Yilmaz → Fenerbache Koleji 2nd Team",
+   "detected_at": "2026-09-20 18:49:21",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Ugurcan Bulut → Fenerbache Koleji 2nd Team",
+   "detected_at": "2026-09-20 18:49:21",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL Fenerbache Koleji 2nd Team 86, Kecioren Baglum 84",
+   "detected_at": "2026-09-20 18:49:21",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-20/Kecioren-Baglum-at-Fenerbache-Koleji-2nd-Team/534365"
+  },
+  {
+   "detail": "Turkish TBL + Josh Sharkey → Darussafaka Basketbol Istanbul",
+   "detected_at": "2026-09-20 18:49:19",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL Darussafaka Basketbol Istanbul 67, Balikesir Buyuksehir Belediysepor 65",
+   "detected_at": "2026-09-20 18:49:19",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-20/Balikesir-Buyuksehir-Belediysepor-at-Darussafaka-Basketbol-Istanbul/534368"
+  },
+  {
+   "detail": "Turkish TBL Harem Spor 91, Torku Konyaspor 81",
+   "detected_at": "2026-09-20 18:49:16",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-20/Harem-Spor-at-Torku-Konyaspor/534367"
+  },
+  {
+   "detail": "Basketball Champions League Europe Qualification Salon Vilpas 98, CSM Oradea 96",
+   "detected_at": "2026-09-20 18:49:14",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-20/CSM-Oradea-at-Salon-Vilpas/541666"
+  },
+  {
    "detail": "Bez Mbeng  ~ team: Charlotte Hornets -> Free agent",
    "detected_at": "2026-09-20 16:24:46",
    "source": "WIKI",
@@ -9927,338 +10270,6 @@
    "source": "WIKIWATCH",
    "type": "FIELD",
    "url": "Free agent"
-  },
-  {
-   "detail": "Cameron Payne  ~ 57476: position -> -",
-   "detected_at": "2026-09-17 08:06:16",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "Point guard / shooting guard"
-  },
-  {
-   "detail": "Cameron Payne  ~ 57476: (page changed) -> -",
-   "detected_at": "2026-09-17 08:06:16",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Champions League Europe Qualification Dziki Warszawa 102, VEF Riga 95",
-   "detected_at": "2026-09-17 08:05:55",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-17/Dziki-Warszawa-at-VEF-Riga/540913"
-  },
-  {
-   "detail": "Donovan Williams (basketball)  ~ team: Al Riyadi Club Beirut -> Al Riyadi",
-   "detected_at": "2026-09-17 08:05:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Donovan_Williams_(basketball)"
-  },
-  {
-   "detail": "Donovan Williams (basketball)  ~ CAREER  + 2026–present Al Riyadi",
-   "detected_at": "2026-09-17 08:05:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Donovan_Williams_(basketball)"
-  },
-  {
-   "detail": "Max Shulga  ~ position: Point guard / shooting guard -> Shooting guard",
-   "detected_at": "2026-09-17 08:05:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Max_Shulga"
-  },
-  {
-   "detail": "Yuki Kawamura  ~ number: - -> 17",
-   "detected_at": "2026-09-17 08:05:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Yuki_Kawamura"
-  },
-  {
-   "detail": "Yuki Kawamura  ~ height_in: 8 -> 7",
-   "detected_at": "2026-09-17 08:05:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Yuki_Kawamura"
-  },
-  {
-   "detail": "Zach Lofton  ~ team: Al Riyadi Club Beirut -> Al Riyadi",
-   "detected_at": "2026-09-17 08:05:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Zach_Lofton"
-  },
-  {
-   "detail": "Zach Lofton  ~ CAREER  + 2024 Al Riyadi",
-   "detected_at": "2026-09-17 08:05:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Zach_Lofton"
-  },
-  {
-   "detail": "Zach Lofton  ~ CAREER  + 2026–present Al Riyadi",
-   "detected_at": "2026-09-17 08:05:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Zach_Lofton"
-  },
-  {
-   "detail": "Michael Frazier II  ~ number: - -> 21",
-   "detected_at": "2026-09-17 08:05:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Michael_Frazier_II"
-  },
-  {
-   "detail": "Devin Ebanks  ~ team: Al-Ahli Jeddah -> Manama Club",
-   "detected_at": "2026-09-17 08:05:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Devin_Ebanks"
-  },
-  {
-   "detail": "Devin Ebanks  ~ league: Saudi Basketball League -> Bahraini Premier League",
-   "detected_at": "2026-09-17 08:05:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Devin_Ebanks"
-  },
-  {
-   "detail": "Devin Ebanks  ~ number: 3 -> 6",
-   "detected_at": "2026-09-17 08:05:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Devin_Ebanks"
-  },
-  {
-   "detail": "Devin Ebanks  ~ CAREER  + 2021–2022 Manama Club",
-   "detected_at": "2026-09-17 08:05:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Devin_Ebanks"
-  },
-  {
-   "detail": "Devin Ebanks  ~ CAREER  + 2024 Manama Club",
-   "detected_at": "2026-09-17 08:05:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Devin_Ebanks"
-  },
-  {
-   "detail": "Devin Ebanks  ~ CAREER  + 2024–2026 Al-Ahli",
-   "detected_at": "2026-09-17 08:05:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Devin_Ebanks"
-  },
-  {
-   "detail": "Devin Ebanks  ~ CAREER  + 2026 Al-Gharafa",
-   "detected_at": "2026-09-17 08:05:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Devin_Ebanks"
-  },
-  {
-   "detail": "Devin Ebanks  ~ CAREER  + 2026 Beirut Club",
-   "detected_at": "2026-09-17 08:05:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Devin_Ebanks"
-  },
-  {
-   "detail": "Devin Ebanks  ~ CAREER  + 2026–present Manama Club",
-   "detected_at": "2026-09-17 08:05:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Devin_Ebanks"
-  },
-  {
-   "detail": "Marcus Georges-Hunt  ~ team: Al Riyadi Club Beirut -> Al Riyadi",
-   "detected_at": "2026-09-17 08:05:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Marcus_Georges-Hunt"
-  },
-  {
-   "detail": "Marcus Georges-Hunt  ~ CAREER  + 2025 Al Riyadi",
-   "detected_at": "2026-09-17 08:05:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Marcus_Georges-Hunt"
-  },
-  {
-   "detail": "Marcus Georges-Hunt  ~ CAREER  + 2026 Bursaspor",
-   "detected_at": "2026-09-17 08:05:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Marcus_Georges-Hunt"
-  },
-  {
-   "detail": "Marcus Georges-Hunt  ~ CAREER  + 2026–present Al Riyadi",
-   "detected_at": "2026-09-17 08:05:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Marcus_Georges-Hunt"
-  },
-  {
-   "detail": "Duop Reath  ~ career_start: 2018 -> 2014",
-   "detected_at": "2026-09-17 08:05:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Duop_Reath"
-  },
-  {
-   "detail": "Duop Reath  ~ CAREER  + 2014 Kalamunda Eastern Suns",
-   "detected_at": "2026-09-17 08:05:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Duop_Reath"
-  },
-  {
-   "detail": "Javon Freeman-Liberty  ~ team: Bursaspor Basketbol -> Bursaspor",
-   "detected_at": "2026-09-17 08:05:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Javon_Freeman-Liberty"
-  },
-  {
-   "detail": "Thomas Heurtel  ~ team: Free agent -> AEK Athens",
-   "detected_at": "2026-09-17 08:05:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Thomas_Heurtel"
-  },
-  {
-   "detail": "Thomas Heurtel  ~ league: - -> Greek Basket League , Basketball Champions League",
-   "detected_at": "2026-09-17 08:05:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Thomas_Heurtel"
-  },
-  {
-   "detail": "Marko Ramljak  ~ league: ABA League Croatian League -> ABA League Premijer liga",
-   "detected_at": "2026-09-17 08:05:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Marko_Ramljak"
-  },
-  {
-   "detail": "Marko Ramljak  ~ height_ft: 6 -> -",
-   "detected_at": "2026-09-17 08:05:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Marko_Ramljak"
-  },
-  {
-   "detail": "Marko Ramljak  ~ height_in: 7 -> -",
-   "detected_at": "2026-09-17 08:05:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Marko_Ramljak"
-  },
-  {
-   "detail": "Nathan Sobey  ~ team: Indios de Mayagüez -> South East Melbourne Phoenix",
-   "detected_at": "2026-09-17 08:05:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Nathan_Sobey"
-  },
-  {
-   "detail": "Nathan Sobey  ~ league: BSN -> NBL",
-   "detected_at": "2026-09-17 08:05:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Nathan_Sobey"
-  },
-  {
-   "detail": "Nathan Sobey  ~ CAREER  + 2026 Indios de Mayagüez",
-   "detected_at": "2026-09-17 08:05:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Nathan_Sobey"
-  },
-  {
-   "detail": "2026-09-16  Traded: Mo Bamba (Skyforce)",
-   "detected_at": "2026-09-17 07:58:16",
-   "source": "GLEAGUE",
-   "type": "Trade"
-  },
-  {
-   "detail": "2026-09-16  Traded: Dexter Dennis (Skyforce)",
-   "detected_at": "2026-09-17 07:58:16",
-   "source": "GLEAGUE",
-   "type": "Trade"
-  },
-  {
-   "detail": "2026-09-16  Traded: Alex Fudge (Kings)",
-   "detected_at": "2026-09-17 07:58:16",
-   "source": "GLEAGUE",
-   "type": "Trade"
-  },
-  {
-   "detail": "2026-09-16  Traded: Trevor Keels (Go Go)",
-   "detected_at": "2026-09-17 07:58:16",
-   "source": "GLEAGUE",
-   "type": "Trade"
-  },
-  {
-   "detail": "2026-09-16  Traded: Steve Settle Iii (Go Go)",
-   "detected_at": "2026-09-17 07:58:16",
-   "source": "GLEAGUE",
-   "type": "Trade"
-  },
-  {
-   "detail": "2026-09-16  Traded: Leaky Black (Kings)",
-   "detected_at": "2026-09-17 07:58:16",
-   "source": "GLEAGUE",
-   "type": "Trade"
-  },
-  {
-   "detail": "2026-09-16  Traded: Damari Monsanto (Kings)",
-   "detected_at": "2026-09-17 07:58:16",
-   "source": "GLEAGUE",
-   "type": "Trade"
-  },
-  {
-   "detail": "2026-09-16  Traded: Derek Ogbeide (Legends)",
-   "detected_at": "2026-09-17 07:58:16",
-   "source": "GLEAGUE",
-   "type": "Trade"
-  },
-  {
-   "detail": "2026-09-16  Traded: Kessler Edwards (Legends)",
-   "detected_at": "2026-09-17 07:58:16",
-   "source": "GLEAGUE",
-   "type": "Trade"
-  },
-  {
-   "detail": "2026-09-16  Traded: Pj Hayes (Legends)",
-   "detected_at": "2026-09-17 07:58:16",
-   "source": "GLEAGUE",
-   "type": "Trade"
-  },
-  {
-   "detail": "2026-09-16  Traded: Emanuel Miller (Gold)",
-   "detected_at": "2026-09-17 07:58:16",
-   "source": "GLEAGUE",
-   "type": "Trade"
-  },
-  {
-   "detail": "Mexican LNBP Lobos Plateados 80, Abejas 67",
-   "detected_at": "2026-09-16 23:13:10",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-16/Abejas-at-Lobos-Plateados/526624"
-  },
-  {
-   "detail": "Jonas Valančiūnas  ~ weight_lb: 699 -> 265",
-   "detected_at": "2026-09-16 22:21:40",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jonas_Valan%C4%8Di%C5%ABnas"
   }
  ],
  "feeds": {
@@ -10279,12 +10290,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 1998,
-   "last": "2026-09-20 09:26:17"
+   "count": 2036,
+   "last": "2026-09-20 18:49:39"
   },
   "SCORES": {
-   "count": 636,
-   "last": "2026-09-20 09:26:21"
+   "count": 647,
+   "last": "2026-09-20 18:49:42"
   },
   "SHEETS": {
    "count": 3904,
@@ -10303,6 +10314,6 @@
    "last": "2026-09-19 19:49:09"
   }
  },
- "generated_at": "2026-09-20T18:48:02",
- "total": 15401
+ "generated_at": "2026-09-20T18:49:44",
+ "total": 15450
 }
