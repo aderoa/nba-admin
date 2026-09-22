@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "~ CHANGED Morez Johnson Jr.  name: Morez Johnson -> Morez Johnson Jr.",
+   "detected_at": "2026-09-22 09:31:55",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "~ CHANGED Morez Johnson  name: Morez Johnson Jr. -> Morez Johnson",
    "detected_at": "2026-09-22 09:30:54",
    "source": "PLAYERS",
@@ -10271,13 +10277,6 @@
    "source": "WIKIWATCH",
    "type": "FIELD",
    "url": "Point guard"
-  },
-  {
-   "detail": "Aaron Holiday  ~ 54843: number -> -",
-   "detected_at": "2026-09-18 17:03:11",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "3"
   }
  ],
  "feeds": {
@@ -10290,8 +10289,8 @@
    "last": "2026-09-19 08:35:02"
   },
   "PLAYERS": {
-   "count": 966,
-   "last": "2026-09-22 09:30:54"
+   "count": 967,
+   "last": "2026-09-22 09:31:55"
   },
   "RATINGS": {
    "count": 950,
@@ -10322,6 +10321,6 @@
    "last": "2026-09-21 18:01:10"
   }
  },
- "generated_at": "2026-09-22T09:31:01",
- "total": 16051
+ "generated_at": "2026-09-22T09:32:05",
+ "total": 16052
 }
