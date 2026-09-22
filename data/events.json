@@ -1,6 +1,18 @@
 {
  "events": [
   {
+   "detail": "2026-09-22  Minnesota Timberwolves waived guard Jalen Crutcher.",
+   "detected_at": "2026-09-22 14:34:55",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-09-22  New Orleans Pelicans waived forward Solomon Washington.",
+   "detected_at": "2026-09-22 14:34:55",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
    "detail": "~ CHANGED Keonte Jones  school: Dayton -> University of Dayton",
    "detected_at": "2026-09-22 14:30:54",
    "source": "PLAYERS",
@@ -10043,20 +10055,6 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Drew_Peterson_(basketball)"
-  },
-  {
-   "detail": "Sergey Karasev  ~ number: 7 -> 8",
-   "detected_at": "2026-09-19 08:43:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Sergey_Karasev"
-  },
-  {
-   "detail": "Markel Brown  ~ league: LBA -> LBA EuroCup",
-   "detected_at": "2026-09-19 08:43:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Markel_Brown"
   }
  ],
  "feeds": {
@@ -10089,8 +10087,8 @@
    "last": "2026-09-22 11:00:00"
   },
   "TRANSACTIONS": {
-   "count": 382,
-   "last": "2026-09-22 14:26:55"
+   "count": 384,
+   "last": "2026-09-22 14:34:55"
   },
   "WIKI": {
    "count": 3873,
@@ -10101,6 +10099,6 @@
    "last": "2026-09-22 14:03:52"
   }
  },
- "generated_at": "2026-09-22T14:34:06",
- "total": 16316
+ "generated_at": "2026-09-22T14:35:02",
+ "total": 16318
 }
