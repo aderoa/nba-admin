@@ -1,6 +1,54 @@
 {
  "events": [
   {
+   "detail": "TOR  + ADDED  Bradley, Jaden",
+   "detected_at": "2026-09-22 09:56:57",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "TOR  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 216422267 -> 217780030, col4: 124324577 -> 126618947, col5: 123271894 -> 125966257, col6: 85221375.6 -> 88139527.6, col9: 549240113.6 -> 558504761.6",
+   "detected_at": "2026-09-22 09:56:57",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "TOR  CHANGED Players Under Contract  -  col3: 203374004 -> 204731767, col4: 124324577 -> 126618947, col5: 123271894 -> 125966257, col6: 85221375.6 -> 88139527.6",
+   "detected_at": "2026-09-22 09:56:57",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "TOR  CHANGED Full Season Contracts  -  col3: 203374004 -> 204731767, col4: 124324577 -> 126618947, col5: 123271894 -> 125966257, col6: 85221375.6 -> 88139527.6",
+   "detected_at": "2026-09-22 09:56:57",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "TOR  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 15 -> 16",
+   "detected_at": "2026-09-22 09:56:57",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col29: 2946004 -> 4303767",
+   "detected_at": "2026-09-22 09:56:57",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 1st Incremental Tax Bracket  -  col29: 2946004 -> 4303767",
+   "detected_at": "2026-09-22 09:56:57",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col29: 2946004 -> 4303767",
+   "detected_at": "2026-09-22 09:56:57",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "2026-27 Rookie Signings  - REMOVED 4 Years for $9,264,648. Second Round Pick Exception. Team option to extend the contract to include the 2029-30 Season. Skill; Injury or Illness; Death. Compensation protection for 2027-28 Season is none but will increase to full if team has not requested waivers on player on or before 7/10/2028. Compensation protection for 2028-29 Season is none but will increase to full if team has not requested waivers on player on or before 7/10/2028. Compensation protection for 2029-30 Season is none. Love of the Game. Physical Exam. Alt. 7(b).",
    "detected_at": "2026-09-22 09:55:56",
    "source": "DOCS",
@@ -10152,62 +10200,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "VTB SuperCup + Erkan Yilmaz → Anadolu Efes",
-   "detected_at": "2026-09-18 21:13:07",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "VTB SuperCup + Fatts Russell → Anadolu Efes",
-   "detected_at": "2026-09-18 21:13:07",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "VTB SuperCup + Erxhan Osmani → Anadolu Efes",
-   "detected_at": "2026-09-18 21:13:07",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "VTB SuperCup + Kai Jones → Anadolu Efes",
-   "detected_at": "2026-09-18 21:13:07",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Turkish BSL + Will Clyburn → Fenerbahce Beko",
-   "detected_at": "2026-09-18 20:12:06",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Turkish BSL + Nicolo Melli → Fenerbahce Beko",
-   "detected_at": "2026-09-18 20:12:06",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Turkish BSL + Shavon Shields → Fenerbahce Beko",
-   "detected_at": "2026-09-18 20:12:06",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Turkish BSL + Wade Baldwin IV → Fenerbahce Beko",
-   "detected_at": "2026-09-18 20:12:06",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10236,8 +10228,8 @@
    "last": "2026-09-22 08:18:47"
   },
   "SHEETS": {
-   "count": 3926,
-   "last": "2026-09-22 09:35:58"
+   "count": 3934,
+   "last": "2026-09-22 09:56:57"
   },
   "TRANSACTIONS": {
    "count": 373,
@@ -10252,6 +10244,6 @@
    "last": "2026-09-21 18:01:10"
   }
  },
- "generated_at": "2026-09-22T09:56:01",
- "total": 16121
+ "generated_at": "2026-09-22T09:57:01",
+ "total": 16129
 }
