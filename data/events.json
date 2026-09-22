@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Sharife Cooper  ~ team: Liaoning Flying Leopards -> Free agent",
+   "detected_at": "2026-09-21 18:13:29",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Sharife_Cooper"
+  },
+  {
+   "detail": "Sharife Cooper  ~ league: CBA -> -",
+   "detected_at": "2026-09-21 18:13:29",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Sharife_Cooper"
+  },
+  {
    "detail": "Sharife Cooper  ~ 117356: team -> Liaoning Flying Leopards",
    "detected_at": "2026-09-21 18:01:10",
    "source": "WIKIWATCH",
@@ -10336,20 +10350,6 @@
    "source": "REALGM",
    "type": "MOVED",
    "url": ""
-  },
-  {
-   "detail": "Basketball Champions League Europe Qualification ~ MOVED Alex Reese → Korfez Mansia (from Manisa Buyuksehir Belediye)",
-   "detected_at": "2026-09-18 08:50:23",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Champions League Europe Qualification ~ MOVED Mert Akay → Korfez Mansia (from Manisa Buyuksehir Belediye)",
-   "detected_at": "2026-09-18 08:50:23",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10386,14 +10386,14 @@
    "last": "2026-09-21 15:36:55"
   },
   "WIKI": {
-   "count": 3845,
-   "last": "2026-09-21 17:50:28"
+   "count": 3847,
+   "last": "2026-09-21 18:13:29"
   },
   "WIKIWATCH": {
    "count": 222,
    "last": "2026-09-21 18:01:10"
   }
  },
- "generated_at": "2026-09-21T18:05:01",
- "total": 15852
+ "generated_at": "2026-09-21T18:13:30",
+ "total": 15854
 }
