@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "+ ADDED   James Johnson (IND)",
+   "detected_at": "2026-09-22 11:52:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
    "detail": "- REMOVED James Johnson (IND)",
    "detected_at": "2026-09-22 11:48:54",
    "source": "PLAYERS",
@@ -10062,13 +10068,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Leonardo_Tot%C3%A8"
-  },
-  {
-   "detail": "Leonardo Totè  ~ position: Power forward / center -> Center / power forward",
-   "detected_at": "2026-09-19 08:43:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Leonardo_Tot%C3%A8"
   }
  ],
  "feeds": {
@@ -10081,8 +10080,8 @@
    "last": "2026-09-19 08:35:02"
   },
   "PLAYERS": {
-   "count": 969,
-   "last": "2026-09-22 11:48:54"
+   "count": 970,
+   "last": "2026-09-22 11:52:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10113,6 +10112,6 @@
    "last": "2026-09-21 18:01:10"
   }
  },
- "generated_at": "2026-09-22T11:52:01",
- "total": 16290
+ "generated_at": "2026-09-22T11:53:03",
+ "total": 16291
 }
