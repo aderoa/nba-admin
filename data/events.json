@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "WNBA Phoenix Mercury 87, Dallas Wings 86",
+   "detected_at": "2026-09-21 23:14:40",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-09-21/Dallas-at-Phoenix/158640"
+  },
+  {
+   "detail": "Mexican LNBP Panteras de Aguascalientes 77, Soles 76",
+   "detected_at": "2026-09-21 23:14:35",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-21/Panteras-de-Aguascalientes-at-Soles/526641"
+  },
+  {
+   "detail": "Mexican LNBP Freseros Irapuato 89, Abejas 83",
+   "detected_at": "2026-09-21 23:14:33",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-21/Freseros-Irapuato-at-Abejas/526638"
+  },
+  {
    "detail": "WNBA Atlanta Dream 95, New York Liberty 84",
    "detected_at": "2026-09-21 21:58:12",
    "source": "SCORES",
@@ -10328,27 +10349,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Czech NBL + Matej Strelba → BK Loko Interconex Plzen",
-   "detected_at": "2026-09-18 08:50:29",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Czech NBL BK Decin 109, BK Loko Interconex Plzen 79",
-   "detected_at": "2026-09-18 08:50:29",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-17/BK-Decin-at-BK-Loko-Interconex-Plzen/525471"
-  },
-  {
-   "detail": "VTB SuperCup CSKA Moscow 92, BC Igokea 81",
-   "detected_at": "2026-09-18 08:50:27",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-17/BC-Igokea-at-CSKA-Moscow/534790"
   }
  ],
  "feeds": {
@@ -10373,8 +10373,8 @@
    "last": "2026-09-21 21:58:05"
   },
   "SCORES": {
-   "count": 681,
-   "last": "2026-09-21 21:58:12"
+   "count": 684,
+   "last": "2026-09-21 23:14:40"
   },
   "SHEETS": {
    "count": 3904,
@@ -10393,6 +10393,6 @@
    "last": "2026-09-21 18:01:10"
   }
  },
- "generated_at": "2026-09-21T22:55:00",
- "total": 15882
+ "generated_at": "2026-09-21T23:14:41",
+ "total": 15885
 }
