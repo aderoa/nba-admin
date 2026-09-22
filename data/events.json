@@ -1,6 +1,42 @@
 {
  "events": [
   {
+   "detail": "2026-27 Rookie Signings  - REMOVED Cameron Hildreth (WAIVED) Indiana Pacers",
+   "detected_at": "2026-09-22 10:01:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Kowacie Reeves Jr. (WAIVED) Indiana Pacers",
+   "detected_at": "2026-09-22 10:01:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  - REMOVED Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($75,000).",
+   "detected_at": "2026-09-22 10:01:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  - REMOVED Execution Date: 9/14/26",
+   "detected_at": "2026-09-22 10:01:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
+   "detected_at": "2026-09-22 10:01:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 9/18/26",
+   "detected_at": "2026-09-22 10:01:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "2026-27 Rookie Signings  - REMOVED Update 1.3 (7/18/26): K. Lopez, K. Diop, J. Bradley, J. Akins, J. Allick, W. Baker, A. Bandaogo, L. Butler, D. Daniels, D. Garcia, C. Grill, J. Hadley, D. Higgs, C. Hildreth, M. Iraldi, N. Jourdain, K. Mangas, M. Mascari, C. McMillian, S. McNeil, I. Milicic, J. Moni, D. Murray, M. Murrell, J. Nelson, J. O’Neil, T. Okani, E. Ralph, D. Rodman, A. Scott, C. Shumate, D. Smith, K. Stewart, W. Taylor, S. Thomas, S. Thompson, C. Tilly, T. Townsend, P. Zilinskas",
    "detected_at": "2026-09-22 10:00:56",
    "source": "DOCS",
@@ -10140,54 +10176,12 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Norwegian BLNO + Sondre Jacobsen → Froya Basket",
-   "detected_at": "2026-09-18 21:13:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Norwegian BLNO + Gabriel Sanford → Froya Basket",
-   "detected_at": "2026-09-18 21:13:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Norwegian BLNO + Johannes Wangensteen → Froya Basket",
-   "detected_at": "2026-09-18 21:13:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Norwegian BLNO + Garrett Denbow → Tromso Storm",
-   "detected_at": "2026-09-18 21:13:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Norwegian BLNO + Trym Engelsen → Tromso Storm",
-   "detected_at": "2026-09-18 21:13:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Norwegian BLNO + Johannes Lange → Tromso Storm",
-   "detected_at": "2026-09-18 21:13:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 2740,
-   "last": "2026-09-22 10:00:56"
+   "count": 2746,
+   "last": "2026-09-22 10:01:56"
   },
   "GLEAGUE": {
    "count": 99,
@@ -10226,6 +10220,6 @@
    "last": "2026-09-21 18:01:10"
   }
  },
- "generated_at": "2026-09-22T10:01:02",
- "total": 16147
+ "generated_at": "2026-09-22T10:02:02",
+ "total": 16153
 }
