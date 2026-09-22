@@ -1,6 +1,18 @@
 {
  "events": [
   {
+   "detail": "2026-27 Rookie Signings  - REMOVED Update 1.3 (7/18/26): K. Lopez, K. Diop, J. Akins, J. Allick, W. Baker, A. Bandaogo, L. Butler, D. Garcia, C. Grill, J. Hadley, D. Higgs, C. Hildreth, M. Iraldi, N. Jourdain, K. Mangas, M. Mascari, C. McMillian, S. McNeil, I. Milicic, J. Moni, D. Murray, M. Murrell, J. Nelson, J. O’Neil, T. Okani, E. Ralph, C. Shumate, D. Smith, K. Stewart, W. Taylor, S. Thomas, S. Thompson, C. Tilly, T. Townsend, P. Zilinskas",
+   "detected_at": "2026-09-22 08:47:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Update 1.3 (7/18/26): K. Lopez, K. Diop, J. Akins, J. Allick, W. Baker, A. Bandaogo, L. Butler, D. Garcia, C. Grill, J. Hadley, D. Higgs, C. Hildreth, M. Iraldi, N. Jourdain, K. Mangas, M. Mascari, C. McMillian, S. McNeil, I. Milicic, J. Moni, D. Murray, M. Murrell, J. Nelson, J. O’Neil, T. Okani, E. Ralph, D. Rodman, C. Shumate, D. Smith, K. Stewart, W. Taylor, S. Thomas, S. Thompson, C. Tilly, T. Townsend, P. Zilinskas",
+   "detected_at": "2026-09-22 08:47:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "+ ADDED   Jalen Crutcher (MIN)",
    "detected_at": "2026-09-22 08:46:54",
    "source": "PLAYERS",
@@ -10289,26 +10301,12 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Giannoulis_Larentzakis"
-  },
-  {
-   "detail": "Basketball Champions League Europe Qualification + Benjamin Granstrom → Salon Vilpas",
-   "detected_at": "2026-09-18 12:01:15",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Champions League Europe Qualification Salon Vilpas 90, Bakken Bears 72",
-   "detected_at": "2026-09-18 12:01:15",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-18/Bakken-Bears-at-Salon-Vilpas/541475"
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 2626,
-   "last": "2026-09-22 08:41:55"
+   "count": 2628,
+   "last": "2026-09-22 08:47:56"
   },
   "GLEAGUE": {
    "count": 99,
@@ -10347,6 +10345,6 @@
    "last": "2026-09-21 18:01:10"
   }
  },
- "generated_at": "2026-09-22T08:47:01",
- "total": 16002
+ "generated_at": "2026-09-22T08:48:01",
+ "total": 16004
 }
