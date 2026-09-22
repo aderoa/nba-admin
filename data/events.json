@@ -1,6 +1,78 @@
 {
  "events": [
   {
+   "detail": "NOL  CHANGED Bey, Saddiq  -  col4: - -> 20108695.0, col5: - -> 18500000.0, col6: - -> 16891305.0, col9: 6557080 -> 62057080",
+   "detected_at": "2026-09-22 08:54:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "NOL  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col4: 165411850.3 -> 185520545.3, col5: 72140270 -> 90640270, col6: 24195628 -> 41086933, col9: 486197419.2 -> 541697419.2",
+   "detected_at": "2026-09-22 08:54:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "NOL  CHANGED Players Under Contract  -  col4: 165411850.3 -> 185520545.3, col5: 72140270 -> 90640270, col6: 24195628 -> 41086933",
+   "detected_at": "2026-09-22 08:54:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "NOL  CHANGED Full Season Contracts  -  col4: 165411850.3 -> 185520545.3, col5: 72140270 -> 90640270, col6: 24195628 -> 41086933",
+   "detected_at": "2026-09-22 08:54:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED Update 1.3 (7/18/26): O. Agbaji, B. Beal, J. Bernard, D. Brooks, K. Brooks, B. Brown, K. Bufkin, J. Butler Jr., K. Caldwell-Pope, D. Carter, M. Cisse, I. Crawford, J. Davison, D. DeRozan, D. Eubanks, T. Fall, A. Gill, D. Green, J. Harden, M. Hezonja, H. Highsmith, C. Houstan, H. Ingram, A. Jackson, L. James, D. Jones, S. Jones, Y. Kawamura, C. Koloko, J. Konchar, J. Kuminga, N. Marshall, B. Mathurin, B. Mbeng, D. Melton, G. Niang, M. Nowell, E. Payton, G. Payton, T. Peter, J. Phillips, D. Plowden, N. Richards, L. Robbins, J. Schakel, B. Simmons, M. Smith, J. Sochan, D. Stockton, J. Tate, D. Terry, A. Thompson, K. Thompson, M. Thybulle, A. Toohey, O. Tshiebwe, M. Wagner, L. Walker, J. Walsh, T. Watford, A. Watson, P. Watson, B. Williams, J. Wiseman, I. Wong",
+   "detected_at": "2026-09-22 08:54:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Update 1.3 (7/18/26): O. Agbaji, B. Beal, J. Bernard, S. Bey, D. Brooks, K. Brooks, B. Brown, K. Bufkin, J. Butler Jr., K. Caldwell-Pope, D. Carter, M. Cisse, I. Crawford, J. Davison, D. DeRozan, D. Eubanks, T. Fall, A. Gill, D. Green, J. Harden, M. Hezonja, H. Highsmith, C. Houstan, H. Ingram, A. Jackson, L. James, D. Jones, S. Jones, Y. Kawamura, C. Koloko, J. Konchar, J. Kuminga, N. Marshall, B. Mathurin, B. Mbeng, D. Melton, G. Niang, M. Nowell, E. Payton, G. Payton, T. Peter, J. Phillips, D. Plowden, N. Richards, L. Robbins, J. Schakel, B. Simmons, M. Smith, J. Sochan, D. Stockton, J. Tate, D. Terry, A. Thompson, K. Thompson, M. Thybulle, A. Toohey, O. Tshiebwe, M. Wagner, L. Walker, J. Walsh, T. Watford, A. Watson, P. Watson, B. Williams, J. Wiseman, I. Wong",
+   "detected_at": "2026-09-22 08:54:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Saddiq Bey NE",
+   "detected_at": "2026-09-22 08:54:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  27-28 $22,530,864",
+   "detected_at": "2026-09-22 08:54:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  28-29 $24,333,333",
+   "detected_at": "2026-09-22 08:54:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  29-30 $26,135,802",
+   "detected_at": "2026-09-22 08:54:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  3 Years for $72,999,999. Veteran Extension. Advance Payment ($500,000). Insurance Premium Reimbursement. Skill; Injury or Illness; Mental.",
+   "detected_at": "2026-09-22 08:54:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 8/8/26",
+   "detected_at": "2026-09-22 08:54:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "2026-27 Rookie Signings  + ADDED  Aaron Scott (WAIVED) Brooklyn Nets",
    "detected_at": "2026-09-22 08:51:56",
    "source": "DOCS",
@@ -10225,84 +10297,12 @@
    "detected_at": "2026-09-18 14:40:54",
    "source": "PLAYERS",
    "type": "REMOVED"
-  },
-  {
-   "detail": "+ ADDED   William Baker (ATL)",
-   "detected_at": "2026-09-18 14:39:54",
-   "source": "PLAYERS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "+ ADDED   Jacksen Moni (GSW)",
-   "detected_at": "2026-09-18 14:39:54",
-   "source": "PLAYERS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "+ ADDED   Anton Watson (LAL)",
-   "detected_at": "2026-09-18 14:39:54",
-   "source": "PLAYERS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "+ ADDED   Jules Bernard (MIN)",
-   "detected_at": "2026-09-18 14:39:54",
-   "source": "PLAYERS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "+ ADDED   David Stockton (PHX)",
-   "detected_at": "2026-09-18 14:39:54",
-   "source": "PLAYERS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "- REMOVED Stephen Thompson (MIN)",
-   "detected_at": "2026-09-18 14:39:54",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "+ ADDED   Stephen Thompson (MIN)",
-   "detected_at": "2026-09-18 14:38:54",
-   "source": "PLAYERS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "- REMOVED David Stockton (PHX)",
-   "detected_at": "2026-09-18 14:38:54",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED William Baker (ATL)",
-   "detected_at": "2026-09-18 14:38:54",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED Anton Watson (LAL)",
-   "detected_at": "2026-09-18 14:38:54",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED Jacksen Moni (GSW)",
-   "detected_at": "2026-09-18 14:38:54",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED Jules Bernard (MIN)",
-   "detected_at": "2026-09-18 14:38:54",
-   "source": "PLAYERS",
-   "type": "REMOVED"
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 2638,
-   "last": "2026-09-22 08:51:56"
+   "count": 2646,
+   "last": "2026-09-22 08:54:56"
   },
   "GLEAGUE": {
    "count": 99,
@@ -10325,8 +10325,8 @@
    "last": "2026-09-22 08:18:47"
   },
   "SHEETS": {
-   "count": 3914,
-   "last": "2026-09-22 08:41:59"
+   "count": 3918,
+   "last": "2026-09-22 08:54:58"
   },
   "TRANSACTIONS": {
    "count": 373,
@@ -10341,6 +10341,6 @@
    "last": "2026-09-21 18:01:10"
   }
  },
- "generated_at": "2026-09-22T08:54:00",
- "total": 16014
+ "generated_at": "2026-09-22T08:55:02",
+ "total": 16026
 }
