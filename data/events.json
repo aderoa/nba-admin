@@ -1,6 +1,78 @@
 {
  "events": [
   {
+   "detail": "LAL  + ADDED  Ross, Chase",
+   "detected_at": "2026-09-22 10:50:59",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "LAL  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 202442622 -> 203800385, col9: 694015158.5 -> 695372921.5",
+   "detected_at": "2026-09-22 10:50:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "LAL  CHANGED Players Under Contract  -  col3: 202442622 -> 203800385",
+   "detected_at": "2026-09-22 10:50:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "LAL  CHANGED Full Season Contracts  -  col3: 202442622 -> 203800385",
+   "detected_at": "2026-09-22 10:50:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "LAL  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 16 -> 17",
+   "detected_at": "2026-09-22 10:50:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col15: 2014622 -> 3372385",
+   "detected_at": "2026-09-22 10:50:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 1st Incremental Tax Bracket  -  col15: 6043866 -> 10117155",
+   "detected_at": "2026-09-22 10:50:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col15: 6043866 -> 10117155",
+   "detected_at": "2026-09-22 10:50:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Chase Ross Los Angeles Lakers",
+   "detected_at": "2026-09-22 10:50:57",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  26-27 $1,357,763",
+   "detected_at": "2026-09-22 10:50:57",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Minimum Salary Exception. Physical Exam. Alt. 7(b). Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
+   "detected_at": "2026-09-22 10:50:57",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 9/18/26",
+   "detected_at": "2026-09-22 10:50:57",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "2026-27 Rookie Signings  - REMOVED Update 1.3 (7/18/26): K. Lopez, K. Diop, J. Bradley, O. Agbim, J. Akins, J. Allick, D. Armstrong, W. Baker, A. Bandaogo, N. Boyd, L. Butler, D. Daniels, D. Garcia, C. Grill, J. Hadley, D. Higgs, C. Hildreth, M. Iraldi, N. Jourdain, M. Keita, K. Mangas, M. Mascari, R. Mast, C. McMillian, S. McNeil, I. Milicic, J. Moni, K. Murphy, D. Murray, M. Murrell, J. Nelson, J. Nunn, J. O’Neil, T. Okani, N. Pringle, E. Ralph, K. Reeves, D. Rodman, A. Scott, C. Shumate, D. Smith, K. Stewart, W. Taylor, S. Thomas, S. Thompson, C. Tilly, T. Townsend, P. Zilinskas",
    "detected_at": "2026-09-22 10:49:55",
    "source": "DOCS",
@@ -10022,84 +10094,12 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Kaleb_Tarczewski"
-  },
-  {
-   "detail": "2026-09-18  Traded: Ricky Council Iv (Magic)",
-   "detected_at": "2026-09-19 08:35:02",
-   "source": "GLEAGUE",
-   "type": "Trade"
-  },
-  {
-   "detail": "2026-09-18  Traded: Phillip Wheeler (Vipers)",
-   "detected_at": "2026-09-19 08:35:02",
-   "source": "GLEAGUE",
-   "type": "Trade"
-  },
-  {
-   "detail": "2026-09-18  Traded: Max Klesmit (Clippers)",
-   "detected_at": "2026-09-19 08:35:02",
-   "source": "GLEAGUE",
-   "type": "Trade"
-  },
-  {
-   "detail": "2026-09-18  Traded: Cameron Mcgriff (Clippers)",
-   "detected_at": "2026-09-19 08:35:02",
-   "source": "GLEAGUE",
-   "type": "Trade"
-  },
-  {
-   "detail": "2026-09-18  Traded: Jaelen House (Stars)",
-   "detected_at": "2026-09-19 08:35:02",
-   "source": "GLEAGUE",
-   "type": "Trade"
-  },
-  {
-   "detail": "2026-09-18  Traded: Carlin Davison (Legends)",
-   "detected_at": "2026-09-19 08:35:02",
-   "source": "GLEAGUE",
-   "type": "Trade"
-  },
-  {
-   "detail": "2026-09-18  Traded: Garrett Denbow (Legends)",
-   "detected_at": "2026-09-19 08:35:02",
-   "source": "GLEAGUE",
-   "type": "Trade"
-  },
-  {
-   "detail": "2026-09-18  Traded: Mark Armstrong (Remix)",
-   "detected_at": "2026-09-19 08:35:02",
-   "source": "GLEAGUE",
-   "type": "Trade"
-  },
-  {
-   "detail": "2026-09-18  Traded: Andrew Carr (Boom)",
-   "detected_at": "2026-09-19 08:35:02",
-   "source": "GLEAGUE",
-   "type": "Trade"
-  },
-  {
-   "detail": "2026-09-18  Traded: Jamiya Neal (Boom)",
-   "detected_at": "2026-09-19 08:35:02",
-   "source": "GLEAGUE",
-   "type": "Trade"
-  },
-  {
-   "detail": "2026-09-18  Traded: Samson Johnson (Remix)",
-   "detected_at": "2026-09-19 08:35:02",
-   "source": "GLEAGUE",
-   "type": "Trade"
-  },
-  {
-   "detail": "2026-09-18  Traded: Drew Peterson (Bulls)",
-   "detected_at": "2026-09-19 08:35:02",
-   "source": "GLEAGUE",
-   "type": "Trade"
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 2802,
-   "last": "2026-09-22 10:49:55"
+   "count": 2806,
+   "last": "2026-09-22 10:50:57"
   },
   "GLEAGUE": {
    "count": 99,
@@ -10122,8 +10122,8 @@
    "last": "2026-09-22 08:18:47"
   },
   "SHEETS": {
-   "count": 3985,
-   "last": "2026-09-22 10:46:58"
+   "count": 3993,
+   "last": "2026-09-22 10:50:59"
   },
   "TRANSACTIONS": {
    "count": 373,
@@ -10138,6 +10138,6 @@
    "last": "2026-09-21 18:01:10"
   }
  },
- "generated_at": "2026-09-22T10:50:01",
- "total": 16253
+ "generated_at": "2026-09-22T10:51:03",
+ "total": 16265
 }
