@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "+ ADDED   James Johnson (IND)",
+   "detected_at": "2026-09-22 11:47:55",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
    "detail": "MIL  + ADDED  Stephens, Jake",
    "detected_at": "2026-09-22 11:00:00",
    "source": "SHEETS",
@@ -10064,13 +10070,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Elvar_M%C3%A1r_Fri%C3%B0riksson"
-  },
-  {
-   "detail": "Mindaugas Girdžiūnas  ~ league: LKL -> LKL EuroCup",
-   "detected_at": "2026-09-19 08:43:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Mindaugas_Gird%C5%BEi%C5%ABnas"
   }
  ],
  "feeds": {
@@ -10083,8 +10082,8 @@
    "last": "2026-09-19 08:35:02"
   },
   "PLAYERS": {
-   "count": 967,
-   "last": "2026-09-22 09:31:55"
+   "count": 968,
+   "last": "2026-09-22 11:47:55"
   },
   "RATINGS": {
    "count": 950,
@@ -10115,6 +10114,6 @@
    "last": "2026-09-21 18:01:10"
   }
  },
- "generated_at": "2026-09-22T11:47:03",
- "total": 16288
+ "generated_at": "2026-09-22T11:48:05",
+ "total": 16289
 }
