@@ -1,6 +1,78 @@
 {
  "events": [
   {
+   "detail": "2026-27 Veteran Signings  - REMOVED Saddiq Bey NE",
+   "detected_at": "2026-09-22 08:55:55",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED 27-28 $22,530,864",
+   "detected_at": "2026-09-22 08:55:55",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED 28-29 $24,333,333",
+   "detected_at": "2026-09-22 08:55:55",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED 29-30 $26,135,802",
+   "detected_at": "2026-09-22 08:55:55",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED 3 Years for $72,999,999. Veteran Extension. Advance Payment ($500,000). Insurance Premium Reimbursement. Skill; Injury or Illness; Mental.",
+   "detected_at": "2026-09-22 08:55:55",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED Execution Date: 8/8/26",
+   "detected_at": "2026-09-22 08:55:55",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Saddiq Bey New Orleans Pelicans",
+   "detected_at": "2026-09-22 08:55:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  27-28 $20,108,695",
+   "detected_at": "2026-09-22 08:55:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  28-29 $18,500,000",
+   "detected_at": "2026-09-22 08:55:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  29-30 $16,891,305",
+   "detected_at": "2026-09-22 08:55:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  3 Years for $55,500,000. Veteran Extension. Insurance Premium Reimbursement. Skill; Injury or Illness; Mental. Trade Kicker (Lesser of $1,000,000 or 15%).",
+   "detected_at": "2026-09-22 08:55:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 9/17/26",
+   "detected_at": "2026-09-22 08:55:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "NOL  CHANGED Bey, Saddiq  -  col4: - -> 20108695.0, col5: - -> 18500000.0, col6: - -> 16891305.0, col9: 6557080 -> 62057080",
    "detected_at": "2026-09-22 08:54:58",
    "source": "SHEETS",
@@ -10219,90 +10291,12 @@
    "source": "WIKIWATCH",
    "type": "FIELD",
    "url": "Center"
-  },
-  {
-   "detail": "Donta Hall  ~ 73160: number -> -",
-   "detected_at": "2026-09-18 15:47:09",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "45"
-  },
-  {
-   "detail": "Donta Hall  ~ 73160: (page changed) -> -",
-   "detected_at": "2026-09-18 15:47:09",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": ""
-  },
-  {
-   "detail": "Cam Whitmore  ~ CAREER  + 2026–present →Grand Rapids Gold",
-   "detected_at": "2026-09-18 15:21:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Cam_Whitmore"
-  },
-  {
-   "detail": "Tristen Newton  ~ team: Free agent -> Stockton Kings",
-   "detected_at": "2026-09-18 15:21:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Tristen_Newton"
-  },
-  {
-   "detail": "Tristen Newton  ~ league: - -> NBA G League",
-   "detected_at": "2026-09-18 15:21:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Tristen_Newton"
-  },
-  {
-   "detail": "Tristen Newton  ~ CAREER  + 2026–present Stockton Kings",
-   "detected_at": "2026-09-18 15:21:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Tristen_Newton"
-  },
-  {
-   "detail": "+ ADDED   Stephen Thompson (MIN)",
-   "detected_at": "2026-09-18 14:40:54",
-   "source": "PLAYERS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "- REMOVED Jules Bernard (MIN)",
-   "detected_at": "2026-09-18 14:40:54",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED Jacksen Moni (GSW)",
-   "detected_at": "2026-09-18 14:40:54",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED William Baker (ATL)",
-   "detected_at": "2026-09-18 14:40:54",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED David Stockton (PHX)",
-   "detected_at": "2026-09-18 14:40:54",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED Anton Watson (LAL)",
-   "detected_at": "2026-09-18 14:40:54",
-   "source": "PLAYERS",
-   "type": "REMOVED"
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 2646,
-   "last": "2026-09-22 08:54:56"
+   "count": 2658,
+   "last": "2026-09-22 08:55:55"
   },
   "GLEAGUE": {
    "count": 99,
@@ -10341,6 +10335,6 @@
    "last": "2026-09-21 18:01:10"
   }
  },
- "generated_at": "2026-09-22T08:55:02",
- "total": 16026
+ "generated_at": "2026-09-22T08:56:01",
+ "total": 16038
 }
