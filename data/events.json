@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Julian Phillips (basketball)  ~ number: - -> 3",
+   "detected_at": "2026-09-22 14:49:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Julian_Phillips_(basketball)"
+  },
+  {
+   "detail": "Oscar Tshiebwe  ~ number: - -> 9",
+   "detected_at": "2026-09-22 14:49:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Oscar_Tshiebwe"
+  },
+  {
    "detail": "2026-09-22  Minnesota Timberwolves waived guard Jalen Crutcher.",
    "detected_at": "2026-09-22 14:34:55",
    "source": "TRANSACTIONS",
@@ -10041,20 +10055,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Drew_Peterson_(basketball)"
-  },
-  {
-   "detail": "Drew Peterson (basketball)  ~ CAREER  + 2026 Motor City Cruise",
-   "detected_at": "2026-09-19 08:43:07",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Drew_Peterson_(basketball)"
-  },
-  {
-   "detail": "Drew Peterson (basketball)  ~ CAREER  + 2026–present Windy City Bulls",
-   "detected_at": "2026-09-19 08:43:07",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Drew_Peterson_(basketball)"
   }
  ],
  "feeds": {
@@ -10091,14 +10091,14 @@
    "last": "2026-09-22 14:34:55"
   },
   "WIKI": {
-   "count": 3873,
-   "last": "2026-09-22 14:03:36"
+   "count": 3875,
+   "last": "2026-09-22 14:49:35"
   },
   "WIKIWATCH": {
    "count": 227,
    "last": "2026-09-22 14:03:52"
   }
  },
- "generated_at": "2026-09-22T14:41:02",
- "total": 16318
+ "generated_at": "2026-09-22T14:49:37",
+ "total": 16320
 }
