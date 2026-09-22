@@ -1,6 +1,42 @@
 {
  "events": [
   {
+   "detail": "2026-27 Rookie Signings  - REMOVED Update 1.3 (7/18/26): K. Lopez, K. Diop, J. Akins, J. Allick, W. Baker, A. Bandaogo, L. Butler, D. Garcia, C. Grill, J. Hadley, D. Higgs, C. Hildreth, M. Iraldi, N. Jourdain, K. Mangas, M. Mascari, C. McMillian, S. McNeil, I. Milicic, D. Murray, M. Murrell, J. Nelson, J. O’Neil, T. Okani, C. Shumate, D. Smith, K. Stewart, W. Taylor, S. Thomas, C. Tilly, T. Townsend, P. Zilinskas",
+   "detected_at": "2026-09-22 08:32:55",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Update 1.3 (7/18/26): K. Lopez, K. Diop, J. Akins, J. Allick, W. Baker, A. Bandaogo, L. Butler, D. Garcia, C. Grill, J. Hadley, D. Higgs, C. Hildreth, M. Iraldi, N. Jourdain, K. Mangas, M. Mascari, C. McMillian, S. McNeil, I. Milicic, J. Moni, D. Murray, M. Murrell, J. Nelson, J. O’Neil, T. Okani, C. Shumate, D. Smith, K. Stewart, W. Taylor, S. Thomas, C. Tilly, T. Townsend, P. Zilinskas",
+   "detected_at": "2026-09-22 08:32:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Jacksen Moni (WAIVED) Golden State Warriors",
+   "detected_at": "2026-09-22 08:32:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  26-27 $1,357,763",
+   "detected_at": "2026-09-22 08:32:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($85,000).",
+   "detected_at": "2026-09-22 08:32:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 9/17/26",
+   "detected_at": "2026-09-22 08:32:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "CHA  - REMOVED Mbeng, Bez",
    "detected_at": "2026-09-22 08:26:59",
    "source": "SHEETS",
@@ -10296,54 +10332,12 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "VTB SuperCup + Makar Konovalov → UNICS Kazan",
-   "detected_at": "2026-09-18 08:50:40",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "VTB SuperCup + Dimitri Uzinskiy → UNICS Kazan",
-   "detected_at": "2026-09-18 08:50:40",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "VTB SuperCup UNICS Kazan 78, Zenit Saint Petersburg 73",
-   "detected_at": "2026-09-18 08:50:40",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-17/Zenit-Saint-Petersburg-at-UNICS-Kazan/526136"
-  },
-  {
-   "detail": "Basketball Champions League Europe Qualification SC Rasta Vechta 98, SL Benfica 88",
-   "detected_at": "2026-09-18 08:50:38",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-17/SC-Rasta-Vechta-at-SL-Benfica/540916"
-  },
-  {
-   "detail": "Basketball Champions League Europe Qualification + Justin Elder-Davis → SC Rasta Vechta",
-   "detected_at": "2026-09-18 08:50:37",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Danish Basketligaen Randers Cimbria 100, Holbaek Stenhus 84",
-   "detected_at": "2026-09-18 08:50:35",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-17/Randers-Cimbria-at-Holbaek-Stenhus/526137"
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 2588,
-   "last": "2026-09-22 08:26:55"
+   "count": 2594,
+   "last": "2026-09-22 08:32:55"
   },
   "GLEAGUE": {
    "count": 99,
@@ -10382,6 +10376,6 @@
    "last": "2026-09-21 18:01:10"
   }
  },
- "generated_at": "2026-09-22T08:32:01",
- "total": 15954
+ "generated_at": "2026-09-22T08:33:01",
+ "total": 15960
 }
