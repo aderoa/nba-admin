@@ -1,6 +1,54 @@
 {
  "events": [
   {
+   "detail": "TOR  - REMOVED Smith, Malachi",
+   "detected_at": "2026-09-22 09:57:59",
+   "source": "SHEETS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "TOR  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 217780030 -> 215594914, col9: 558504761.6 -> 556319645.6",
+   "detected_at": "2026-09-22 09:57:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "TOR  CHANGED Players Under Contract  -  col3: 204731767 -> 202546651",
+   "detected_at": "2026-09-22 09:57:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "TOR  CHANGED Full Season Contracts  -  col3: 204731767 -> 202546651",
+   "detected_at": "2026-09-22 09:57:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "TOR  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 16 -> 15",
+   "detected_at": "2026-09-22 09:57:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col29: 4303767 -> 2118651",
+   "detected_at": "2026-09-22 09:57:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 1st Incremental Tax Bracket  -  col29: 4303767 -> 2118651",
+   "detected_at": "2026-09-22 09:57:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col29: 4303767 -> 2118651",
+   "detected_at": "2026-09-22 09:57:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "TOR  + ADDED  Bradley, Jaden",
    "detected_at": "2026-09-22 09:56:57",
    "source": "SHEETS",
@@ -10144,62 +10192,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-09-18/Anadolu-Efes-at-Zenit-Saint-Petersburg/534791"
-  },
-  {
-   "detail": "VTB SuperCup + Mike James → Anadolu Efes",
-   "detected_at": "2026-09-18 21:13:07",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "VTB SuperCup + Dario Saric → Anadolu Efes",
-   "detected_at": "2026-09-18 21:13:07",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "VTB SuperCup + Jordan Loyd → Anadolu Efes",
-   "detected_at": "2026-09-18 21:13:07",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "VTB SuperCup + Bruno Fernando → Anadolu Efes",
-   "detected_at": "2026-09-18 21:13:07",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "VTB SuperCup + Matthew Strazel → Anadolu Efes",
-   "detected_at": "2026-09-18 21:13:07",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "VTB SuperCup + Malcolm Collins → Anadolu Efes",
-   "detected_at": "2026-09-18 21:13:07",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "VTB SuperCup + Santiago Yusta → Anadolu Efes",
-   "detected_at": "2026-09-18 21:13:07",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "VTB SuperCup + P.J. Dozier → Anadolu Efes",
-   "detected_at": "2026-09-18 21:13:07",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10228,8 +10220,8 @@
    "last": "2026-09-22 08:18:47"
   },
   "SHEETS": {
-   "count": 3934,
-   "last": "2026-09-22 09:56:57"
+   "count": 3942,
+   "last": "2026-09-22 09:57:59"
   },
   "TRANSACTIONS": {
    "count": 373,
@@ -10244,6 +10236,6 @@
    "last": "2026-09-21 18:01:10"
   }
  },
- "generated_at": "2026-09-22T09:57:01",
- "total": 16129
+ "generated_at": "2026-09-22T09:58:03",
+ "total": 16137
 }
