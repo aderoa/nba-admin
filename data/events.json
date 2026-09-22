@@ -1,6 +1,54 @@
 {
  "events": [
   {
+   "detail": "2026-27 Veteran Signings  - REMOVED 28-29 $29,851,852",
+   "detected_at": "2026-09-22 09:50:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED 29-30 $31,000,000",
+   "detected_at": "2026-09-22 09:50:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED 30-31 $32,148,148",
+   "detected_at": "2026-09-22 09:50:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED 31-32 $33,296,296",
+   "detected_at": "2026-09-22 09:50:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  28-29 $29,851,852 ($30,351,852)",
+   "detected_at": "2026-09-22 09:50:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  29-30 $31,000,000 ($31,500,000)",
+   "detected_at": "2026-09-22 09:50:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  30-31 $32,148,148 ($32,648,148)",
+   "detected_at": "2026-09-22 09:50:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  31-32 $33,296,296 ($33,796296)",
+   "detected_at": "2026-09-22 09:50:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "2026-27 Veteran Signings  - REMOVED 27-28 $28,703,704",
    "detected_at": "2026-09-22 09:41:55",
    "source": "DOCS",
@@ -10183,68 +10231,12 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "French Basketball Cup + Hugo Mienandi → Hermine Nantes Atlantique",
-   "detected_at": "2026-09-18 19:11:50",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French Basketball Cup + Dylan Van Eyck → Hermine Nantes Atlantique",
-   "detected_at": "2026-09-18 19:11:50",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French Basketball Cup + Lucas Bourhis → Hermine Nantes Atlantique",
-   "detected_at": "2026-09-18 19:11:50",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French Basketball Cup + Sheyne Koudou → Hermine Nantes Atlantique",
-   "detected_at": "2026-09-18 19:11:50",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French Basketball Cup + Leny Kangudia → Hermine Nantes Atlantique",
-   "detected_at": "2026-09-18 19:11:50",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French Basketball Cup + Gregory Bengaber → Etoile Angers Basket",
-   "detected_at": "2026-09-18 19:11:50",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French Basketball Cup + Sullivan Hernandez → Etoile Angers Basket",
-   "detected_at": "2026-09-18 19:11:50",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French Basketball Cup + Noha Guillaume → Etoile Angers Basket",
-   "detected_at": "2026-09-18 19:11:50",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 2699,
-   "last": "2026-09-22 09:41:55"
+   "count": 2707,
+   "last": "2026-09-22 09:50:56"
   },
   "GLEAGUE": {
    "count": 99,
@@ -10283,6 +10275,6 @@
    "last": "2026-09-21 18:01:10"
   }
  },
- "generated_at": "2026-09-22T09:50:38",
- "total": 16090
+ "generated_at": "2026-09-22T09:51:02",
+ "total": 16098
 }
