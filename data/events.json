@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Mexican LNBP ~ MOVED Tjader Fernandez → Fuerza Regia (from Leones de Ponce)",
+   "detected_at": "2026-09-21 17:42:05",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Mexican LNBP + Julian Torres → Correcaminos",
+   "detected_at": "2026-09-21 17:42:05",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Mexican LNBP Fuerza Regia 94, Correcaminos 83",
+   "detected_at": "2026-09-21 17:42:05",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-20/Fuerza-Regia-at-Correcaminos/526633"
+  },
+  {
    "detail": "Andrea De Nicolao  ~ team: Pallacanestro Cantù -> Victoria Libertas Pesaro",
    "detected_at": "2026-09-21 16:18:35",
    "source": "WIKI",
@@ -10329,27 +10350,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Basketball Champions League Europe Qualification + Rasir Bolton → Rio Breogan",
-   "detected_at": "2026-09-18 08:50:21",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Champions League Europe Qualification + Kayne Henry → Manchester Basketball",
-   "detected_at": "2026-09-18 08:50:21",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Champions League Europe Qualification Rio Breogan 105, Manchester Basketball 84",
-   "detected_at": "2026-09-18 08:50:21",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-17/Rio-Breogan-at-Manchester-Basketball/540914"
   }
  ],
  "feeds": {
@@ -10370,12 +10370,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 2240,
-   "last": "2026-09-21 07:04:09"
+   "count": 2242,
+   "last": "2026-09-21 17:42:05"
   },
   "SCORES": {
-   "count": 672,
-   "last": "2026-09-21 07:04:09"
+   "count": 673,
+   "last": "2026-09-21 17:42:05"
   },
   "SHEETS": {
    "count": 3904,
@@ -10394,6 +10394,6 @@
    "last": "2026-09-21 13:20:46"
   }
  },
- "generated_at": "2026-09-21T17:41:01",
- "total": 15845
+ "generated_at": "2026-09-21T17:42:09",
+ "total": 15848
 }
