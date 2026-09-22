@@ -1,6 +1,54 @@
 {
  "events": [
   {
+   "detail": "IND  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 210934469.6 -> 213649995.6, col9: 510884671.6 -> 513600197.6",
+   "detected_at": "2026-09-22 10:05:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "IND  CHANGED Players Under Contract  -  col3: 206299932.6 -> 209015458.6",
+   "detected_at": "2026-09-22 10:05:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "IND  CHANGED Full Season Contracts  -  col3: 206299932.6 -> 209015458.6",
+   "detected_at": "2026-09-22 10:05:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "IND  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 14 -> 16",
+   "detected_at": "2026-09-22 10:05:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "IND  CHANGED Avg, Salary (Mean) (No 10-Day K's)  -  col6: 1 -> 0",
+   "detected_at": "2026-09-22 10:05:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col13: 5871932.6 -> 8587458.6",
+   "detected_at": "2026-09-22 10:05:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 2nd Incremental Tax Bracket  -  col13: 233665.75 -> 3628073.25",
+   "detected_at": "2026-09-22 10:05:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col13: 5918665.75 -> 9313073.25",
+   "detected_at": "2026-09-22 10:05:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "2026-27 Rookie Signings  - REMOVED Update 1.3 (7/18/26): K. Lopez, K. Diop, J. Bradley, J. Akins, J. Allick, W. Baker, A. Bandaogo, L. Butler, D. Daniels, D. Garcia, C. Grill, J. Hadley, D. Higgs, C. Hildreth, M. Iraldi, N. Jourdain, K. Mangas, M. Mascari, R. Mast, C. McMillian, S. McNeil, I. Milicic, J. Moni, D. Murray, M. Murrell, J. Nelson, J. O’Neil, T. Okani, E. Ralph, K. Reeves, D. Rodman, A. Scott, C. Shumate, D. Smith, K. Stewart, W. Taylor, S. Thomas, S. Thompson, C. Tilly, T. Townsend, P. Zilinskas",
    "detected_at": "2026-09-22 10:04:55",
    "source": "DOCS",
@@ -10102,62 +10150,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Euroleague SuperCup + Alberto Abalde → Real Madrid",
-   "detected_at": "2026-09-18 21:13:12",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Euroleague SuperCup + Timothe Luwawu-Cabarrot → Real Madrid",
-   "detected_at": "2026-09-18 21:13:12",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Euroleague SuperCup + Olivier Sarr → Real Madrid",
-   "detected_at": "2026-09-18 21:13:12",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Euroleague SuperCup + Theo Maledon → Real Madrid",
-   "detected_at": "2026-09-18 21:13:12",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Euroleague SuperCup + Jaime Pradilla → Real Madrid",
-   "detected_at": "2026-09-18 21:13:12",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Euroleague SuperCup + Max Shulga → Real Madrid",
-   "detected_at": "2026-09-18 21:13:12",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Euroleague SuperCup + Mikael Jantunen → Real Madrid",
-   "detected_at": "2026-09-18 21:13:12",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Euroleague SuperCup + Jaron Blossomgame → Dubai",
-   "detected_at": "2026-09-18 21:13:12",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10186,8 +10178,8 @@
    "last": "2026-09-22 08:18:47"
   },
   "SHEETS": {
-   "count": 3942,
-   "last": "2026-09-22 09:57:59"
+   "count": 3950,
+   "last": "2026-09-22 10:05:58"
   },
   "TRANSACTIONS": {
    "count": 373,
@@ -10202,6 +10194,6 @@
    "last": "2026-09-21 18:01:10"
   }
  },
- "generated_at": "2026-09-22T10:05:01",
- "total": 16171
+ "generated_at": "2026-09-22T10:13:28",
+ "total": 16179
 }
