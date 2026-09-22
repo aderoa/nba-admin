@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "2026-09-22  Miami Heat re-signed guard Pelle Larsson to a Veteran Extension.",
+   "detected_at": "2026-09-22 13:43:55",
+   "source": "TRANSACTIONS",
+   "type": "Signing"
+  },
+  {
    "detail": "2026-09-22  Detroit Pistons re-signed guard Ausar Thompson to a Rookie Scale Extension.",
    "detected_at": "2026-09-22 13:31:55",
    "source": "TRANSACTIONS",
@@ -10060,13 +10066,6 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Jordan_Schakel"
-  },
-  {
-   "detail": "Egidijus Mockevičius  ~ team: Free Agent -> Hong Kong Eastern",
-   "detected_at": "2026-09-19 08:43:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Egidijus_Mockevi%C4%8Dius"
   }
  ],
  "feeds": {
@@ -10099,8 +10098,8 @@
    "last": "2026-09-22 11:00:00"
   },
   "TRANSACTIONS": {
-   "count": 374,
-   "last": "2026-09-22 13:31:55"
+   "count": 375,
+   "last": "2026-09-22 13:43:55"
   },
   "WIKI": {
    "count": 3871,
@@ -10111,6 +10110,6 @@
    "last": "2026-09-21 18:01:10"
   }
  },
- "generated_at": "2026-09-22T13:43:07",
- "total": 16299
+ "generated_at": "2026-09-22T13:44:03",
+ "total": 16300
 }
