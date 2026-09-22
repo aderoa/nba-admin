@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "+ ADDED   Jalen Crutcher (MIN)",
+   "detected_at": "2026-09-22 08:46:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
    "detail": "ATL  - REMOVED Baker, William",
    "detected_at": "2026-09-22 08:41:59",
    "source": "SHEETS",
@@ -10297,12 +10303,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-09-18/Bakken-Bears-at-Salon-Vilpas/541475"
-  },
-  {
-   "detail": "~ CHANGED Nick Boyd  name: Nicholas Boyd -> Nick Boyd",
-   "detected_at": "2026-09-18 12:00:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10315,8 +10315,8 @@
    "last": "2026-09-19 08:35:02"
   },
   "PLAYERS": {
-   "count": 963,
-   "last": "2026-09-22 00:06:52"
+   "count": 964,
+   "last": "2026-09-22 08:46:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10347,6 +10347,6 @@
    "last": "2026-09-21 18:01:10"
   }
  },
- "generated_at": "2026-09-22T08:45:59",
- "total": 16001
+ "generated_at": "2026-09-22T08:47:01",
+ "total": 16002
 }
