@@ -1,6 +1,30 @@
 {
  "events": [
   {
+   "detail": "UTH  CHANGED George, Keyonte  -  col4: - -> 28703704.0, col5: - -> 29851852.0, col9: 6563924.64 -> 65119480.64",
+   "detected_at": "2026-09-22 09:34:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "UTH  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col4: 162412495.8 -> 191116199.8, col5: 132691831 -> 162543683, col9: 559957877.1 -> 618513433.1",
+   "detected_at": "2026-09-22 09:34:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "UTH  CHANGED Players Under Contract  -  col4: 162412495.8 -> 191116199.8, col5: 132691831 -> 162543683",
+   "detected_at": "2026-09-22 09:34:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "UTH  CHANGED Full Season Contracts  -  col4: 162412495.8 -> 191116199.8, col5: 132691831 -> 162543683",
+   "detected_at": "2026-09-22 09:34:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "~ CHANGED Morez Johnson Jr.  name: Morez Johnson -> Morez Johnson Jr.",
    "detected_at": "2026-09-22 09:31:55",
    "source": "PLAYERS",
@@ -10249,34 +10273,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Miro_Bilan"
-  },
-  {
-   "detail": "Brynton Lemar  ~ number: - -> 11",
-   "detected_at": "2026-09-18 17:16:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Brynton_Lemar"
-  },
-  {
-   "detail": "Aaron Holiday  ~ 54843: team -> -",
-   "detected_at": "2026-09-18 17:03:11",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "Maxima Roma"
-  },
-  {
-   "detail": "Aaron Holiday  ~ 54843: league -> -",
-   "detected_at": "2026-09-18 17:03:11",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "LBA EuroCup"
-  },
-  {
-   "detail": "Aaron Holiday  ~ 54843: position -> -",
-   "detected_at": "2026-09-18 17:03:11",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "Point guard"
   }
  ],
  "feeds": {
@@ -10305,8 +10301,8 @@
    "last": "2026-09-22 08:18:47"
   },
   "SHEETS": {
-   "count": 3918,
-   "last": "2026-09-22 08:54:58"
+   "count": 3922,
+   "last": "2026-09-22 09:34:59"
   },
   "TRANSACTIONS": {
    "count": 373,
@@ -10321,6 +10317,6 @@
    "last": "2026-09-21 18:01:10"
   }
  },
- "generated_at": "2026-09-22T09:34:00",
- "total": 16052
+ "generated_at": "2026-09-22T09:35:04",
+ "total": 16056
 }
