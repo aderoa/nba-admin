@@ -1,6 +1,72 @@
 {
  "events": [
   {
+   "detail": "MIL  + ADDED  Stephens, Jake",
+   "detected_at": "2026-09-22 11:00:00",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "MIL  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 196402707.2 -> 197760470.2, col9: 492144728.6 -> 493502491.6",
+   "detected_at": "2026-09-22 11:00:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MIL  CHANGED Players Under Contract  -  col3: 170770016.4 -> 172127779.4",
+   "detected_at": "2026-09-22 11:00:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MIL  CHANGED Full Season Contracts  -  col3: 170770016.4 -> 172127779.4",
+   "detected_at": "2026-09-22 11:00:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MIL  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 18 -> 19",
+   "detected_at": "2026-09-22 11:00:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  - REMOVED Update 1.3 (7/18/26): K. Lopez, K. Diop, J. Bradley, O. Agbim, J. Akins, J. Allick, D. Armstrong, W. Baker, A. Bandaogo, N. Boyd, L. Butler, D. Daniels, D. Garcia, C. Grill, J. Hadley, D. Higgs, C. Hildreth, M. Iraldi, N. Jourdain, M. Keita, K. Mangas, M. Mascari, R. Mast, C. McMillian, S. McNeil, I. Milicic, J. Moni, K. Murphy, D. Murray, M. Murrell, J. Nelson, J. Nunn, J. O’Neil, T. Okani, N. Pringle, E. Ralph, K. Reeves, D. Rodman, C. Ross, A. Scott, C. Shumate, D. Smith, K. Stewart, W. Taylor, S. Thomas, S. Thompson, C. Tilly, T. Townsend, P. Zilinskas",
+   "detected_at": "2026-09-22 10:59:57",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Update 1.3 (7/18/26): K. Lopez, K. Diop, J. Bradley, O. Agbim, J. Akins, J. Allick, D. Armstrong, W. Baker, A. Bandaogo, N. Boyd, L. Butler, D. Daniels, D. Garcia, C. Grill, J. Hadley, D. Higgs, C. Hildreth, M. Iraldi, N. Jourdain, M. Keita, K. Mangas, M. Mascari, R. Mast, C. McMillian, S. McNeil, I. Milicic, J. Moni, K. Murphy, D. Murray, M. Murrell, J. Nelson, J. Nunn, J. O’Neil, T. Okani, N. Pringle, E. Ralph, K. Reeves, D. Rodman, C. Ross, A. Scott, C. Shumate, D. Smith, J. Stephens, K. Stewart, W. Taylor, S. Thomas, S. Thompson, C. Tilly, T. Townsend, P. Zilinskas",
+   "detected_at": "2026-09-22 10:59:57",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Jake Stephens Milwaukee Bucks",
+   "detected_at": "2026-09-22 10:59:57",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  26-27 $1,357,763",
+   "detected_at": "2026-09-22 10:59:57",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
+   "detected_at": "2026-09-22 10:59:57",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 9/17/26",
+   "detected_at": "2026-09-22 10:59:57",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "LAL  + ADDED  Johnson, Meechie",
    "detected_at": "2026-09-22 10:51:58",
    "source": "SHEETS",
@@ -10005,89 +10071,12 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Mindaugas_Gird%C5%BEi%C5%ABnas"
-  },
-  {
-   "detail": "Marco Spissu  ~ team: Guerri Napoli -> Napoli Basket",
-   "detected_at": "2026-09-19 08:43:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Marco_Spissu"
-  },
-  {
-   "detail": "Marco Spissu  ~ number: - -> 0",
-   "detected_at": "2026-09-19 08:43:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Marco_Spissu"
-  },
-  {
-   "detail": "Kristupas Žemaitis  ~ number: - -> 13",
-   "detected_at": "2026-09-19 08:43:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Kristupas_%C5%BDemaitis"
-  },
-  {
-   "detail": "Donatas Sabeckis  ~ number: 12 -> 3",
-   "detected_at": "2026-09-19 08:43:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Donatas_Sabeckis"
-  },
-  {
-   "detail": "Martynas Arlauskas  ~ number: - -> 55",
-   "detected_at": "2026-09-19 08:43:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Martynas_Arlauskas"
-  },
-  {
-   "detail": "Donatas Tarolis  ~ league: LKL -> LKL EuroCup",
-   "detected_at": "2026-09-19 08:43:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Donatas_Tarolis"
-  },
-  {
-   "detail": "Gael Bonilla  ~ number: - -> 2",
-   "detected_at": "2026-09-19 08:43:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Gael_Bonilla"
-  },
-  {
-   "detail": "John Petrucelli  ~ team: Guerri Napoli -> Napoli Basket",
-   "detected_at": "2026-09-19 08:43:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/John_Petrucelli"
-  },
-  {
-   "detail": "John Petrucelli  ~ number: - -> 11",
-   "detected_at": "2026-09-19 08:43:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/John_Petrucelli"
-  },
-  {
-   "detail": "Pavlin Ivanov  ~ team: Balkan -> Balkan Botevgrad",
-   "detected_at": "2026-09-19 08:43:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Pavlin_Ivanov"
-  },
-  {
-   "detail": "Pavlin Ivanov  ~ number: 28 -> 10",
-   "detected_at": "2026-09-19 08:43:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Pavlin_Ivanov"
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 2810,
-   "last": "2026-09-22 10:51:55"
+   "count": 2816,
+   "last": "2026-09-22 10:59:57"
   },
   "GLEAGUE": {
    "count": 99,
@@ -10110,8 +10099,8 @@
    "last": "2026-09-22 08:18:47"
   },
   "SHEETS": {
-   "count": 4001,
-   "last": "2026-09-22 10:51:58"
+   "count": 4006,
+   "last": "2026-09-22 11:00:00"
   },
   "TRANSACTIONS": {
    "count": 373,
@@ -10126,6 +10115,6 @@
    "last": "2026-09-21 18:01:10"
   }
  },
- "generated_at": "2026-09-22T10:59:37",
- "total": 16277
+ "generated_at": "2026-09-22T11:00:03",
+ "total": 16288
 }
