@@ -1,6 +1,198 @@
 {
  "events": [
   {
+   "detail": "CHA  + ADDED  Armstrong, DJ",
+   "detected_at": "2026-09-22 10:14:00",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "CHA  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 183511892 -> 184869655, col9: 474619279.4 -> 475977042.4",
+   "detected_at": "2026-09-22 10:14:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "CHA  CHANGED Players Under Contract  -  col3: 181062471 -> 182420234",
+   "detected_at": "2026-09-22 10:14:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "CHA  CHANGED Full Season Contracts  -  col3: 181062471 -> 182420234",
+   "detected_at": "2026-09-22 10:14:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "CHA  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 18 -> 19",
+   "detected_at": "2026-09-22 10:14:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "GOS  + ADDED  Boyd, Nick",
+   "detected_at": "2026-09-22 10:14:00",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "GOS  CHANGED Mannion, Nico  -  col9: 2185116 -> 0",
+   "detected_at": "2026-09-22 10:14:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "GOS  CHANGED Robinson, Jerome  -  col9: 0 -> 2185116",
+   "detected_at": "2026-09-22 10:14:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "GOS  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 256522526.3 -> 257880289.3, col9: 338932211.7 -> 340289974.7",
+   "detected_at": "2026-09-22 10:14:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "GOS  CHANGED Players Under Contract  -  col3: 225472968.3 -> 226830731.3",
+   "detected_at": "2026-09-22 10:14:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "GOS  CHANGED Full Season Contracts  -  col3: 225472968.3 -> 226830731.3",
+   "detected_at": "2026-09-22 10:14:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "GOS  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 17 -> 18",
+   "detected_at": "2026-09-22 10:14:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "IND  + ADDED  Keiba Keta, Mohamed",
+   "detected_at": "2026-09-22 10:14:00",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "IND  + ADDED  Mast, Rienk",
+   "detected_at": "2026-09-22 10:14:00",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "WAS  + ADDED  Murphy, KeShawn",
+   "detected_at": "2026-09-22 10:14:00",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "WAS  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 238630507.5 -> 239988270.5, col9: 601797291.5 -> 603155054.5",
+   "detected_at": "2026-09-22 10:14:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "WAS  CHANGED Players Under Contract  -  col3: 194462515 -> 195820278",
+   "detected_at": "2026-09-22 10:14:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "WAS  CHANGED Full Season Contracts  -  col3: 194462515 -> 195820278",
+   "detected_at": "2026-09-22 10:14:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "WAS  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 15 -> 16",
+   "detected_at": "2026-09-22 10:14:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col11: 25044968.25 -> 26402731.25",
+   "detected_at": "2026-09-22 10:14:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 5th Incremental Tax Bracket  -  col11: 16711019.81 -> 26554801.56",
+   "detected_at": "2026-09-22 10:14:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col11: 121883519.8 -> 131727301.6",
+   "detected_at": "2026-09-22 10:14:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  - REMOVED Update 1.3 (7/18/26): K. Lopez, K. Diop, J. Bradley, J. Akins, J. Allick, W. Baker, A. Bandaogo, L. Butler, D. Daniels, D. Garcia, C. Grill, J. Hadley, D. Higgs, C. Hildreth, M. Iraldi, N. Jourdain, M. Keita, K. Mangas, M. Mascari, R. Mast, C. McMillian, S. McNeil, I. Milicic, J. Moni, D. Murray, M. Murrell, J. Nelson, J. O’Neil, T. Okani, E. Ralph, K. Reeves, D. Rodman, A. Scott, C. Shumate, D. Smith, K. Stewart, W. Taylor, S. Thomas, S. Thompson, C. Tilly, T. Townsend, P. Zilinskas",
+   "detected_at": "2026-09-22 10:13:58",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Update 1.3 (7/18/26): K. Lopez, K. Diop, J. Bradley, J. Akins, J. Allick, D. Armstrong, W. Baker, A. Bandaogo, N. Boyd, L. Butler, D. Daniels, D. Garcia, C. Grill, J. Hadley, D. Higgs, C. Hildreth, M. Iraldi, N. Jourdain, M. Keita, K. Mangas, M. Mascari, R. Mast, C. McMillian, S. McNeil, I. Milicic, J. Moni, K. Murphy, D. Murray, M. Murrell, J. Nelson, J. O’Neil, T. Okani, E. Ralph, K. Reeves, D. Rodman, A. Scott, C. Shumate, D. Smith, K. Stewart, W. Taylor, S. Thomas, S. Thompson, C. Tilly, T. Townsend, P. Zilinskas",
+   "detected_at": "2026-09-22 10:13:58",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Nick Boyd Golden State Warriors",
+   "detected_at": "2026-09-22 10:13:58",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  26-27 $1,357,763",
+   "detected_at": "2026-09-22 10:13:58",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
+   "detected_at": "2026-09-22 10:13:58",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 9/18/26",
+   "detected_at": "2026-09-22 10:13:58",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  KeShawn Murphy Washington Wizards",
+   "detected_at": "2026-09-22 10:13:58",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  26-27 $1,357,763",
+   "detected_at": "2026-09-22 10:13:58",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($70,000).",
+   "detected_at": "2026-09-22 10:13:58",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 9/18/26",
+   "detected_at": "2026-09-22 10:13:58",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "IND  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 210934469.6 -> 213649995.6, col9: 510884671.6 -> 513600197.6",
    "detected_at": "2026-09-22 10:05:58",
    "source": "SHEETS",
@@ -9926,236 +10118,12 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "French NM1 + Hugo Cluysen → Besancon BCD",
-   "detected_at": "2026-09-18 22:15:53",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French NM1 + Auguste Cagnet → Besancon BCD",
-   "detected_at": "2026-09-18 22:15:53",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French NM1 + Augustinas Venckus → Besancon BCD",
-   "detected_at": "2026-09-18 22:15:53",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French NM1 + Nathan Pineau → Besancon BCD",
-   "detected_at": "2026-09-18 22:15:53",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French NM1 + Djiguiba Traore → Besancon BCD",
-   "detected_at": "2026-09-18 22:15:53",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French NM1 + Charly Pontens → Besancon BCD",
-   "detected_at": "2026-09-18 22:15:53",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French NM1 + Celian Eliezer-Vanerot → Besancon BCD",
-   "detected_at": "2026-09-18 22:15:53",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French NM1 Lyonso Basket 73, Besancon BCD 64",
-   "detected_at": "2026-09-18 22:15:53",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-18/Besancon-BCD-at-Lyonso-Basket/527235"
-  },
-  {
-   "detail": "French NM1 AS Loon Plage Basket 102, Etoile Charleville Mezieres 100",
-   "detected_at": "2026-09-18 22:15:50",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-18/Etoile-Charleville-Mezieres-at-AS-Loon-Plage-Basket/527233"
-  },
-  {
-   "detail": "French NM1 + Nick Shogbonyo → JSA Bordeaux Basket",
-   "detected_at": "2026-09-18 22:15:48",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French NM1 Union Tarbes Lourdes Pyrennes Basket 89, JSA Bordeaux Basket 85",
-   "detected_at": "2026-09-18 22:15:48",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-18/JSA-Bordeaux-Basket-at-Union-Tarbes-Lourdes-Pyrennes-Basket/527243"
-  },
-  {
-   "detail": "French NM1 CEP Lorient 82, Laval US 73",
-   "detected_at": "2026-09-18 22:15:45",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-18/Laval-US-at-CEP-Lorient/527245"
-  },
-  {
-   "detail": "German BBL + Alexander Richardson → BV Chemnitz 99",
-   "detected_at": "2026-09-18 21:13:15",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German BBL + Phlandrous Fleming, Jr. → BV Chemnitz 99",
-   "detected_at": "2026-09-18 21:13:15",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German BBL + Martin Hermannsson → ALBA Berlin",
-   "detected_at": "2026-09-18 21:13:15",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German BBL + Joe Wieskamp → ALBA Berlin",
-   "detected_at": "2026-09-18 21:13:15",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German BBL + Jonas Mattisseck → ALBA Berlin",
-   "detected_at": "2026-09-18 21:13:15",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German BBL + Sam Griesel → ALBA Berlin",
-   "detected_at": "2026-09-18 21:13:15",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German BBL + Norris Agbakoko → ALBA Berlin",
-   "detected_at": "2026-09-18 21:13:15",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German BBL + Jordan Ford → ALBA Berlin",
-   "detected_at": "2026-09-18 21:13:15",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German BBL + Justin Bean → ALBA Berlin",
-   "detected_at": "2026-09-18 21:13:15",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German BBL + Malte Delow → ALBA Berlin",
-   "detected_at": "2026-09-18 21:13:15",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German BBL + Julius Boehmer → ALBA Berlin",
-   "detected_at": "2026-09-18 21:13:15",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German BBL + Brandon Angel → ALBA Berlin",
-   "detected_at": "2026-09-18 21:13:15",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German BBL + Jack Kayil → ALBA Berlin",
-   "detected_at": "2026-09-18 21:13:15",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German BBL ALBA Berlin 89, BV Chemnitz 99 82",
-   "detected_at": "2026-09-18 21:13:15",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-18/BV-Chemnitz-99-at-ALBA-Berlin/528067"
-  },
-  {
-   "detail": "Euroleague SuperCup Real Madrid 98, Dubai 95",
-   "detected_at": "2026-09-18 21:13:13",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-18/Real-Madrid-at-Dubai/534732"
-  },
-  {
-   "detail": "Euroleague SuperCup + Gabriel Deck → Real Madrid",
-   "detected_at": "2026-09-18 21:13:12",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Euroleague SuperCup + Edy Tavares → Real Madrid",
-   "detected_at": "2026-09-18 21:13:12",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Euroleague SuperCup + Facundo Campazzo → Real Madrid",
-   "detected_at": "2026-09-18 21:13:12",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Euroleague SuperCup + Andres Feliz → Real Madrid",
-   "detected_at": "2026-09-18 21:13:12",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Euroleague SuperCup + Chuma Okeke → Real Madrid",
-   "detected_at": "2026-09-18 21:13:12",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 2764,
-   "last": "2026-09-22 10:04:55"
+   "count": 2774,
+   "last": "2026-09-22 10:13:58"
   },
   "GLEAGUE": {
    "count": 99,
@@ -10178,8 +10146,8 @@
    "last": "2026-09-22 08:18:47"
   },
   "SHEETS": {
-   "count": 3950,
-   "last": "2026-09-22 10:05:58"
+   "count": 3972,
+   "last": "2026-09-22 10:14:00"
   },
   "TRANSACTIONS": {
    "count": 373,
@@ -10194,6 +10162,6 @@
    "last": "2026-09-21 18:01:10"
   }
  },
- "generated_at": "2026-09-22T10:13:28",
- "total": 16179
+ "generated_at": "2026-09-22T10:14:04",
+ "total": 16211
 }
