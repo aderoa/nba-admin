@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Drew Timme  ~ position: Power Forward/Center -> Power Forward / Center",
+   "detected_at": "2026-09-21 17:50:28",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Drew_Timme"
+  },
+  {
+   "detail": "Malachi Smith (basketball)  ~ CAREER  + 2026–present →Raptors 905",
+   "detected_at": "2026-09-21 17:50:28",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Malachi_Smith_(basketball)"
+  },
+  {
    "detail": "Mexican LNBP ~ MOVED Tjader Fernandez → Fuerza Regia (from Leones de Ponce)",
    "detected_at": "2026-09-21 17:42:05",
    "source": "REALGM",
@@ -10336,20 +10350,6 @@
    "source": "REALGM",
    "type": "MOVED",
    "url": ""
-  },
-  {
-   "detail": "Basketball Champions League Europe Qualification ~ MOVED Matt Mitchell → Korfez Mansia (from Manisa Buyuksehir Belediye)",
-   "detected_at": "2026-09-18 08:50:23",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Champions League Europe Qualification + Dimitrios Poulos → ASP Promitheas Patras",
-   "detected_at": "2026-09-18 08:50:23",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10386,14 +10386,14 @@
    "last": "2026-09-21 15:36:55"
   },
   "WIKI": {
-   "count": 3843,
-   "last": "2026-09-21 16:18:35"
+   "count": 3845,
+   "last": "2026-09-21 17:50:28"
   },
   "WIKIWATCH": {
    "count": 220,
    "last": "2026-09-21 13:20:46"
   }
  },
- "generated_at": "2026-09-21T17:42:09",
- "total": 15848
+ "generated_at": "2026-09-21T17:50:29",
+ "total": 15850
 }
