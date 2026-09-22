@@ -1,6 +1,41 @@
 {
  "events": [
   {
+   "detail": "Nadir Hifi  ~ 171599: team -> -",
+   "detected_at": "2026-09-22 14:03:52",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Paris Basketball"
+  },
+  {
+   "detail": "Nadir Hifi  ~ 171599: league -> -",
+   "detected_at": "2026-09-22 14:03:52",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "LNB Élite EuroLeague"
+  },
+  {
+   "detail": "Nadir Hifi  ~ 171599: position -> -",
+   "detected_at": "2026-09-22 14:03:52",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Shooting guard / point guard"
+  },
+  {
+   "detail": "Nadir Hifi  ~ 171599: number -> -",
+   "detected_at": "2026-09-22 14:03:52",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "2"
+  },
+  {
+   "detail": "Nadir Hifi  ~ 171599: (page changed) -> -",
+   "detected_at": "2026-09-22 14:03:52",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": ""
+  },
+  {
    "detail": "Ryan Nembhard  ~ team: Charlotte Hornets -> Atlanta Hawks",
    "detected_at": "2026-09-22 14:03:36",
    "source": "WIKI",
@@ -10030,41 +10065,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/William_Cunningham_(basketball)"
-  },
-  {
-   "detail": "Jahmi'us Ramsey  ~ team: Guerri Napoli -> Napoli Basket",
-   "detected_at": "2026-09-19 08:43:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jahmi'us_Ramsey"
-  },
-  {
-   "detail": "Jahmi'us Ramsey  ~ league: LBA -> LBA EuroCup",
-   "detected_at": "2026-09-19 08:43:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jahmi'us_Ramsey"
-  },
-  {
-   "detail": "Jahmi'us Ramsey  ~ number: - -> 37",
-   "detected_at": "2026-09-19 08:43:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jahmi'us_Ramsey"
-  },
-  {
-   "detail": "Ulrich Chomche  ~ number: - -> 14",
-   "detected_at": "2026-09-19 08:43:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Ulrich_Chomche"
-  },
-  {
-   "detail": "Jordan Schakel  ~ team: Niners Chemnitz -> Free agent",
-   "detected_at": "2026-09-19 08:43:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jordan_Schakel"
   }
  ],
  "feeds": {
@@ -10105,10 +10105,10 @@
    "last": "2026-09-22 14:03:36"
   },
   "WIKIWATCH": {
-   "count": 222,
-   "last": "2026-09-21 18:01:10"
+   "count": 227,
+   "last": "2026-09-22 14:03:52"
   }
  },
- "generated_at": "2026-09-22T14:03:38",
- "total": 16303
+ "generated_at": "2026-09-22T14:04:05",
+ "total": 16308
 }
