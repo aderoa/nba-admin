@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Ryan Nembhard  ~ team: Charlotte Hornets -> Atlanta Hawks",
+   "detected_at": "2026-09-22 14:03:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Ryan_Nembhard"
+  },
+  {
+   "detail": "Ryan Nembhard  ~ number: - -> 19",
+   "detected_at": "2026-09-22 14:03:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Ryan_Nembhard"
+  },
+  {
    "detail": "+ ADDED   Jordan Riley (DET)",
    "detected_at": "2026-09-22 13:46:04",
    "source": "PLAYERS",
@@ -10051,20 +10065,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Jordan_Schakel"
-  },
-  {
-   "detail": "Jordan Schakel  ~ league: Basketball Bundesliga -> -",
-   "detected_at": "2026-09-19 08:43:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jordan_Schakel"
-  },
-  {
-   "detail": "Jordan Schakel  ~ number: 8 -> -",
-   "detected_at": "2026-09-19 08:43:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jordan_Schakel"
   }
  ],
  "feeds": {
@@ -10101,14 +10101,14 @@
    "last": "2026-09-22 13:43:55"
   },
   "WIKI": {
-   "count": 3871,
-   "last": "2026-09-22 13:17:36"
+   "count": 3873,
+   "last": "2026-09-22 14:03:36"
   },
   "WIKIWATCH": {
    "count": 222,
    "last": "2026-09-21 18:01:10"
   }
  },
- "generated_at": "2026-09-22T13:55:01",
- "total": 16301
+ "generated_at": "2026-09-22T14:03:38",
+ "total": 16303
 }
