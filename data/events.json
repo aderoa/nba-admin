@@ -1,6 +1,72 @@
 {
  "events": [
   {
+   "detail": "BKN  + ADDED  Pringle, Nick",
+   "detected_at": "2026-09-22 10:36:59",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "BKN  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 162505778.5 -> 163863541.5, col9: 345903740.9 -> 347261503.9",
+   "detected_at": "2026-09-22 10:36:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "BKN  CHANGED Players Under Contract  -  col3: 160056357.5 -> 161414120.5",
+   "detected_at": "2026-09-22 10:36:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "BKN  CHANGED Full Season Contracts  -  col3: 160056357.5 -> 161414120.5",
+   "detected_at": "2026-09-22 10:36:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "BKN  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 15 -> 16",
+   "detected_at": "2026-09-22 10:36:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  - REMOVED Update 1.3 (7/18/26): K. Lopez, K. Diop, J. Bradley, J. Akins, J. Allick, D. Armstrong, W. Baker, A. Bandaogo, N. Boyd, L. Butler, D. Daniels, D. Garcia, C. Grill, J. Hadley, D. Higgs, C. Hildreth, M. Iraldi, N. Jourdain, M. Keita, K. Mangas, M. Mascari, R. Mast, C. McMillian, S. McNeil, I. Milicic, J. Moni, K. Murphy, D. Murray, M. Murrell, J. Nelson, J. O’Neil, T. Okani, E. Ralph, K. Reeves, D. Rodman, A. Scott, C. Shumate, D. Smith, K. Stewart, W. Taylor, S. Thomas, S. Thompson, C. Tilly, T. Townsend, P. Zilinskas",
+   "detected_at": "2026-09-22 10:36:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Update 1.3 (7/18/26): K. Lopez, K. Diop, J. Bradley, J. Akins, J. Allick, D. Armstrong, W. Baker, A. Bandaogo, N. Boyd, L. Butler, D. Daniels, D. Garcia, C. Grill, J. Hadley, D. Higgs, C. Hildreth, M. Iraldi, N. Jourdain, M. Keita, K. Mangas, M. Mascari, R. Mast, C. McMillian, S. McNeil, I. Milicic, J. Moni, K. Murphy, D. Murray, M. Murrell, J. Nelson, J. O’Neil, T. Okani, N. Pringle, E. Ralph, K. Reeves, D. Rodman, A. Scott, C. Shumate, D. Smith, K. Stewart, W. Taylor, S. Thomas, S. Thompson, C. Tilly, T. Townsend, P. Zilinskas",
+   "detected_at": "2026-09-22 10:36:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Nick Pringle Brooklyn Nets",
+   "detected_at": "2026-09-22 10:36:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  26-27 $1,357,763",
+   "detected_at": "2026-09-22 10:36:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($35,000).",
+   "detected_at": "2026-09-22 10:36:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 9/21/26",
+   "detected_at": "2026-09-22 10:36:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "Cam Whitmore  ~ number: - -> 00",
    "detected_at": "2026-09-22 10:36:36",
    "source": "WIKI",
@@ -10037,89 +10103,12 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "French NM1 Saint Vallier 64, BC Orchies 61",
-   "detected_at": "2026-09-18 22:15:58",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-18/BC-Orchies-at-Saint-Vallier/527238"
-  },
-  {
-   "detail": "French NM1 + Theo Bouteille → Saint Chamond NM1",
-   "detected_at": "2026-09-18 22:15:55",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French NM1 + Hugo Desseignet → Saint Chamond NM1",
-   "detected_at": "2026-09-18 22:15:55",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French NM1 + Serigne Moustapha Diakhate → Saint Chamond NM1",
-   "detected_at": "2026-09-18 22:15:55",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French NM1 ~ MOVED Zakaria Mechergui → Saint Chamond NM1 (from Saint Chamond Pro B)",
-   "detected_at": "2026-09-18 22:15:55",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
-  },
-  {
-   "detail": "French NM1 + Frederic Missamou → Saint Chamond NM1",
-   "detected_at": "2026-09-18 22:15:55",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French NM1 ~ MOVED Pape Diop → Saint Chamond NM1 (from Saint Chamond Pro B)",
-   "detected_at": "2026-09-18 22:15:55",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
-  },
-  {
-   "detail": "French NM1 + Hugo Cucherat → Saint Chamond NM1",
-   "detected_at": "2026-09-18 22:15:55",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French NM1 + Samuel Mariscal → Saint Chamond NM1",
-   "detected_at": "2026-09-18 22:15:55",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French NM1 + Gabin Lefort → Saint Chamond NM1",
-   "detected_at": "2026-09-18 22:15:55",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French NM1 + Leo Harouard → Saint Chamond NM1",
-   "detected_at": "2026-09-18 22:15:55",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 2778,
-   "last": "2026-09-22 10:14:55"
+   "count": 2784,
+   "last": "2026-09-22 10:36:56"
   },
   "GLEAGUE": {
    "count": 99,
@@ -10142,8 +10131,8 @@
    "last": "2026-09-22 08:18:47"
   },
   "SHEETS": {
-   "count": 3972,
-   "last": "2026-09-22 10:14:00"
+   "count": 3977,
+   "last": "2026-09-22 10:36:59"
   },
   "TRANSACTIONS": {
    "count": 373,
@@ -10158,6 +10147,6 @@
    "last": "2026-09-21 18:01:10"
   }
  },
- "generated_at": "2026-09-22T10:36:37",
- "total": 16216
+ "generated_at": "2026-09-22T10:37:02",
+ "total": 16227
 }
