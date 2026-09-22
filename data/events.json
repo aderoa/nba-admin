@@ -1,6 +1,54 @@
 {
  "events": [
   {
+   "detail": "SAN  + ADDED  Nunn, Jayden",
+   "detected_at": "2026-09-22 10:46:58",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "SAN  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 233359077.5 -> 234716840.5, col9: 607435925.7 -> 608793688.7",
+   "detected_at": "2026-09-22 10:46:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "SAN  CHANGED Players Under Contract  -  col3: 200465082.7 -> 201822845.7",
+   "detected_at": "2026-09-22 10:46:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "SAN  CHANGED Full Season Contracts  -  col3: 200465082.7 -> 201822845.7",
+   "detected_at": "2026-09-22 10:46:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "SAN  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 15 -> 16",
+   "detected_at": "2026-09-22 10:46:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col28: 37082.68 -> 1394845.68",
+   "detected_at": "2026-09-22 10:46:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 1st Incremental Tax Bracket  -  col28: 37082.68 -> 1394845.68",
+   "detected_at": "2026-09-22 10:46:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col28: 37082.68 -> 1394845.68",
+   "detected_at": "2026-09-22 10:46:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "2026-27 Rookie Signings  + ADDED  Jayden Nunn San Antonio Spurs",
    "detected_at": "2026-09-22 10:45:56",
    "source": "DOCS",
@@ -10046,54 +10094,6 @@
    "detected_at": "2026-09-19 08:35:02",
    "source": "GLEAGUE",
    "type": "Trade"
-  },
-  {
-   "detail": "2026-09-18  Traded: Ibrahima Diallo (Stars)",
-   "detected_at": "2026-09-19 08:35:02",
-   "source": "GLEAGUE",
-   "type": "Trade"
-  },
-  {
-   "detail": "2026-09-18  Traded: Mark Sears (Remix)",
-   "detected_at": "2026-09-19 08:35:02",
-   "source": "GLEAGUE",
-   "type": "Trade"
-  },
-  {
-   "detail": "2026-09-18  Traded: Onno Steger (Remix)",
-   "detected_at": "2026-09-19 08:35:02",
-   "source": "GLEAGUE",
-   "type": "Trade"
-  },
-  {
-   "detail": "2026-09-18  Traded: Liam Robbins (Knicks)",
-   "detected_at": "2026-09-19 08:35:02",
-   "source": "GLEAGUE",
-   "type": "Trade"
-  },
-  {
-   "detail": "2026-09-18  Traded: Cameron Parker (Herd)",
-   "detected_at": "2026-09-19 08:35:02",
-   "source": "GLEAGUE",
-   "type": "Trade"
-  },
-  {
-   "detail": "2026-09-18  Traded: Javante Mccoy (Remix)",
-   "detected_at": "2026-09-19 08:35:02",
-   "source": "GLEAGUE",
-   "type": "Trade"
-  },
-  {
-   "detail": "2026-09-18  Traded: Grayson Murphy (Remix)",
-   "detected_at": "2026-09-19 08:35:02",
-   "source": "GLEAGUE",
-   "type": "Trade"
-  },
-  {
-   "detail": "2026-09-18  Traded: Steven Crowl (Gold)",
-   "detected_at": "2026-09-19 08:35:02",
-   "source": "GLEAGUE",
-   "type": "Trade"
   }
  ],
  "feeds": {
@@ -10122,8 +10122,8 @@
    "last": "2026-09-22 08:18:47"
   },
   "SHEETS": {
-   "count": 3977,
-   "last": "2026-09-22 10:36:59"
+   "count": 3985,
+   "last": "2026-09-22 10:46:58"
   },
   "TRANSACTIONS": {
    "count": 373,
@@ -10138,6 +10138,6 @@
    "last": "2026-09-21 18:01:10"
   }
  },
- "generated_at": "2026-09-22T10:46:03",
- "total": 16243
+ "generated_at": "2026-09-22T10:47:01",
+ "total": 16251
 }
