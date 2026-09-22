@@ -1,6 +1,36 @@
 {
  "events": [
   {
+   "detail": "2026-27 Veteran Signings  - REMOVED 31-32 $47,337,931",
+   "detected_at": "2026-09-22 09:40:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED 5 Years for $208,000,000. Rookie Scale Extension. Insurance Premium Reimbursement. Skill; Injury or Illness; Mental. Trade Kicker (10%).",
+   "detected_at": "2026-09-22 09:40:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  31-32 $33,296,296",
+   "detected_at": "2026-09-22 09:40:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  5 Years for $155,000,000 ($157,500,000 w/un",
+   "detected_at": "2026-09-22 09:40:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  . Rookie Scale Extension. Insurance Premium Reimbursement. Skill; Injury or Illness; Mental. Trade Kicker (10%).",
+   "detected_at": "2026-09-22 09:40:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "2026-27 Veteran Signings  - REMOVED Amen Thompson Houston Rockets",
    "detected_at": "2026-09-22 09:39:55",
    "source": "DOCS",
@@ -10214,47 +10244,12 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "French Basketball Cup + Tidiane Naham → Etoile Angers Basket",
-   "detected_at": "2026-09-18 19:11:50",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French Basketball Cup + Mae Brement → Etoile Angers Basket",
-   "detected_at": "2026-09-18 19:11:50",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French Basketball Cup + Raphael Millet → Etoile Angers Basket",
-   "detected_at": "2026-09-18 19:11:50",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French Basketball Cup Etoile Angers Basket 84, Hermine Nantes Atlantique 82",
-   "detected_at": "2026-09-18 19:11:50",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-15/Hermine-Nantes-Atlantique-at-Etoile-Angers-Basket/537214"
-  },
-  {
-   "detail": "Israel BSL Winner Cup + Or Gitta → Maccabi Rishon Lezion",
-   "detected_at": "2026-09-18 19:11:47",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 2689,
-   "last": "2026-09-22 09:39:55"
+   "count": 2694,
+   "last": "2026-09-22 09:40:56"
   },
   "GLEAGUE": {
    "count": 99,
@@ -10293,6 +10288,6 @@
    "last": "2026-09-21 18:01:10"
   }
  },
- "generated_at": "2026-09-22T09:40:01",
- "total": 16080
+ "generated_at": "2026-09-22T09:41:02",
+ "total": 16085
 }
