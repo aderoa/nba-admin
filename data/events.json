@@ -1,6 +1,18 @@
 {
  "events": [
   {
+   "detail": "2026-27 Veteran Signings  - REMOVED Malachi Smith Toronto Raptors",
+   "detected_at": "2026-09-22 09:58:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Malachi Smith (CONVERTED) Toronto Raptors",
+   "detected_at": "2026-09-22 09:58:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "TOR  - REMOVED Smith, Malachi",
    "detected_at": "2026-09-22 09:57:59",
    "source": "SHEETS",
@@ -10178,26 +10190,12 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Norwegian BLNO Froya Basket 100, Tromso Storm 74",
-   "detected_at": "2026-09-18 21:13:10",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-18/Froya-Basket-at-Tromso-Storm/526681"
-  },
-  {
-   "detail": "VTB SuperCup Anadolu Efes 100, Zenit Saint Petersburg 76",
-   "detected_at": "2026-09-18 21:13:08",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-18/Anadolu-Efes-at-Zenit-Saint-Petersburg/534791"
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 2730,
-   "last": "2026-09-22 09:55:56"
+   "count": 2732,
+   "last": "2026-09-22 09:58:56"
   },
   "GLEAGUE": {
    "count": 99,
@@ -10236,6 +10234,6 @@
    "last": "2026-09-21 18:01:10"
   }
  },
- "generated_at": "2026-09-22T09:58:03",
- "total": 16137
+ "generated_at": "2026-09-22T09:59:02",
+ "total": 16139
 }
