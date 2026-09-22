@@ -1,6 +1,30 @@
 {
  "events": [
   {
+   "detail": "UTH  CHANGED George, Keyonte  -  col6: - -> 31000000.0, col7: - -> 32148148.0, col8: - -> 33296296.0, col9: 65119480.64 -> 161563924.6",
+   "detected_at": "2026-09-22 09:35:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "UTH  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col6: 71818333.84 -> 102818333.8, col7: 0 -> 32148148, col8: 0 -> 33296296, col9: 618513433.1 -> 714957877.1",
+   "detected_at": "2026-09-22 09:35:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "UTH  CHANGED Players Under Contract  -  col6: 71818333.84 -> 102818333.8, col7: 0 -> 32148148, col8: 0 -> 33296296",
+   "detected_at": "2026-09-22 09:35:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "UTH  CHANGED Full Season Contracts  -  col6: 71818333.84 -> 102818333.8, col7: 0 -> 32148148, col8: 0 -> 33296296",
+   "detected_at": "2026-09-22 09:35:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "UTH  CHANGED George, Keyonte  -  col4: - -> 28703704.0, col5: - -> 29851852.0, col9: 6563924.64 -> 65119480.64",
    "detected_at": "2026-09-22 09:34:59",
    "source": "SHEETS",
@@ -10245,34 +10269,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Matt_Ryan_(basketball)"
-  },
-  {
-   "detail": "Matt Ryan (basketball)  ~ number: - -> 32",
-   "detected_at": "2026-09-18 17:16:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Matt_Ryan_(basketball)"
-  },
-  {
-   "detail": "Marko Simonović (basketball, born 1999)  ~ league: Basketbol Süper Ligi -> LBA EuroCup",
-   "detected_at": "2026-09-18 17:16:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Marko_Simonovi%C4%87_(basketball,_born_1999)"
-  },
-  {
-   "detail": "Xavier Moon  ~ number: - -> 17",
-   "detected_at": "2026-09-18 17:16:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Xavier_Moon"
-  },
-  {
-   "detail": "Miro Bilan  ~ number: - -> 2",
-   "detected_at": "2026-09-18 17:16:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Miro_Bilan"
   }
  ],
  "feeds": {
@@ -10301,8 +10297,8 @@
    "last": "2026-09-22 08:18:47"
   },
   "SHEETS": {
-   "count": 3922,
-   "last": "2026-09-22 09:34:59"
+   "count": 3926,
+   "last": "2026-09-22 09:35:58"
   },
   "TRANSACTIONS": {
    "count": 373,
@@ -10317,6 +10313,6 @@
    "last": "2026-09-21 18:01:10"
   }
  },
- "generated_at": "2026-09-22T09:35:04",
- "total": 16056
+ "generated_at": "2026-09-22T09:36:01",
+ "total": 16060
 }
