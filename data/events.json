@@ -1,6 +1,18 @@
 {
  "events": [
   {
+   "detail": "2026-27 Rookie Signings  - REMOVED 4 Years for $9,264,648. Second Round Pick Exception. Team option to extend the contract to include the 2029-30 Season. Skill; Injury or Illness; Death. Compensation protection for 2027-28 Season is none but will increase to full if team has not requested waivers on player on or before 7/1/2027. Compensation protection for 2028-29 Season is none but will increase to full if team has not requested waivers on player on or before 7/1/2028. Compensation protection for 2029-30 Season is none but will increase to full if team has not requested waivers on player on or before 7/1/2029. Love of the Game. Alt. 7(b).",
+   "detected_at": "2026-09-22 09:59:55",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  4 Years for $9,264,648. Non-Taxpayer Mid-Level Exception (Partial). Team option to extend the contract to include the 2029-30 Season. Skill; Injury or Illness; Death. Compensation protection for 2027-28 Season is none but will increase to full if team has not requested waivers on player on or before 7/1/2027. Compensation protection for 2028-29 Season is none but will increase to full if team has not requested waivers on player on or before 7/1/2028. Compensation protection for 2029-30 Season is none but will increase to full if team has not requested waivers on player on or before 7/1/2029. Love of the Game. Alt. 7(b).",
+   "detected_at": "2026-09-22 09:59:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "2026-27 Veteran Signings  - REMOVED Malachi Smith Toronto Raptors",
    "detected_at": "2026-09-22 09:58:56",
    "source": "DOCS",
@@ -10176,26 +10188,12 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Norwegian BLNO + Anders Solem → Tromso Storm",
-   "detected_at": "2026-09-18 21:13:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Norwegian BLNO + David Berntsen → Tromso Storm",
-   "detected_at": "2026-09-18 21:13:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 2732,
-   "last": "2026-09-22 09:58:56"
+   "count": 2734,
+   "last": "2026-09-22 09:59:55"
   },
   "GLEAGUE": {
    "count": 99,
@@ -10234,6 +10232,6 @@
    "last": "2026-09-21 18:01:10"
   }
  },
- "generated_at": "2026-09-22T09:59:02",
- "total": 16139
+ "generated_at": "2026-09-22T10:00:01",
+ "total": 16141
 }
