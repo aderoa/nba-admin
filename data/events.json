@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "- REMOVED James Johnson (IND)",
+   "detected_at": "2026-09-22 11:48:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
    "detail": "+ ADDED   James Johnson (IND)",
    "detected_at": "2026-09-22 11:47:55",
    "source": "PLAYERS",
@@ -10063,13 +10069,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Leonardo_Tot%C3%A8"
-  },
-  {
-   "detail": "Elvar Már Friðriksson  ~ number: - -> 10",
-   "detected_at": "2026-09-19 08:43:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Elvar_M%C3%A1r_Fri%C3%B0riksson"
   }
  ],
  "feeds": {
@@ -10082,8 +10081,8 @@
    "last": "2026-09-19 08:35:02"
   },
   "PLAYERS": {
-   "count": 968,
-   "last": "2026-09-22 11:47:55"
+   "count": 969,
+   "last": "2026-09-22 11:48:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10114,6 +10113,6 @@
    "last": "2026-09-21 18:01:10"
   }
  },
- "generated_at": "2026-09-22T11:48:05",
- "total": 16289
+ "generated_at": "2026-09-22T11:49:01",
+ "total": 16290
 }
