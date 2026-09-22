@@ -1,6 +1,78 @@
 {
  "events": [
   {
+   "detail": "LAL  + ADDED  Johnson, Meechie",
+   "detected_at": "2026-09-22 10:51:58",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "LAL  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 203800385 -> 205158148, col9: 695372921.5 -> 696730684.5",
+   "detected_at": "2026-09-22 10:51:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "LAL  CHANGED Players Under Contract  -  col3: 203800385 -> 205158148",
+   "detected_at": "2026-09-22 10:51:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "LAL  CHANGED Full Season Contracts  -  col3: 203800385 -> 205158148",
+   "detected_at": "2026-09-22 10:51:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "LAL  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 17 -> 18",
+   "detected_at": "2026-09-22 10:51:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col15: 3372385 -> 4730148",
+   "detected_at": "2026-09-22 10:51:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 1st Incremental Tax Bracket  -  col15: 10117155 -> 14190444",
+   "detected_at": "2026-09-22 10:51:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col15: 10117155 -> 14190444",
+   "detected_at": "2026-09-22 10:51:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Meechie Johnson Los Angeles Lakers",
+   "detected_at": "2026-09-22 10:51:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  26-27 $1,357,763",
+   "detected_at": "2026-09-22 10:51:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Minimum Salary Exception. Physical Exam. Alt. 7(b). Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
+   "detected_at": "2026-09-22 10:51:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 9/18/26",
+   "detected_at": "2026-09-22 10:51:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "LAL  + ADDED  Ross, Chase",
    "detected_at": "2026-09-22 10:50:59",
    "source": "SHEETS",
@@ -10010,96 +10082,12 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Pavlin_Ivanov"
-  },
-  {
-   "detail": "Lamine Kanté  ~ team: AS Monaco -> -",
-   "detected_at": "2026-09-19 08:43:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Lamine_Kant%C3%A9"
-  },
-  {
-   "detail": "Lamine Kanté  ~ league: LNB Pro A -> -",
-   "detected_at": "2026-09-19 08:43:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Lamine_Kant%C3%A9"
-  },
-  {
-   "detail": "Lamine Kanté  ~ number: 10 -> -",
-   "detected_at": "2026-09-19 08:43:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Lamine_Kant%C3%A9"
-  },
-  {
-   "detail": "Lamine Kanté  ~ career_end: - -> 2020",
-   "detected_at": "2026-09-19 08:43:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Lamine_Kant%C3%A9"
-  },
-  {
-   "detail": "Lamine Kanté  ~ CAREER  + 2015–2016 AS Monaco",
-   "detected_at": "2026-09-19 08:43:07",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Lamine_Kant%C3%A9"
-  },
-  {
-   "detail": "Stefano Gentile  ~ team: Napoli Basket -> Scafati Basket",
-   "detected_at": "2026-09-19 08:43:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Stefano_Gentile"
-  },
-  {
-   "detail": "Stefano Gentile  ~ CAREER  + 2025–2026 Napoli Basket",
-   "detected_at": "2026-09-19 08:43:07",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Stefano_Gentile"
-  },
-  {
-   "detail": "Stefano Gentile  ~ CAREER  + 2026–present Scafati Basket",
-   "detected_at": "2026-09-19 08:43:07",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Stefano_Gentile"
-  },
-  {
-   "detail": "Kaleb Tarczewski  ~ team: Yokohama B-Corsairs -> Napoli Basket",
-   "detected_at": "2026-09-19 08:43:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Kaleb_Tarczewski"
-  },
-  {
-   "detail": "Kaleb Tarczewski  ~ league: B.League -> LBA EuroCup",
-   "detected_at": "2026-09-19 08:43:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Kaleb_Tarczewski"
-  },
-  {
-   "detail": "Kaleb Tarczewski  ~ CAREER  + 2025–2026 Yokohama B-Corsairs",
-   "detected_at": "2026-09-19 08:43:07",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Kaleb_Tarczewski"
-  },
-  {
-   "detail": "Kaleb Tarczewski  ~ CAREER  + 2026–present Napoli Basket",
-   "detected_at": "2026-09-19 08:43:07",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Kaleb_Tarczewski"
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 2806,
-   "last": "2026-09-22 10:50:57"
+   "count": 2810,
+   "last": "2026-09-22 10:51:55"
   },
   "GLEAGUE": {
    "count": 99,
@@ -10122,8 +10110,8 @@
    "last": "2026-09-22 08:18:47"
   },
   "SHEETS": {
-   "count": 3993,
-   "last": "2026-09-22 10:50:59"
+   "count": 4001,
+   "last": "2026-09-22 10:51:58"
   },
   "TRANSACTIONS": {
    "count": 373,
@@ -10138,6 +10126,6 @@
    "last": "2026-09-21 18:01:10"
   }
  },
- "generated_at": "2026-09-22T10:51:03",
- "total": 16265
+ "generated_at": "2026-09-22T10:59:37",
+ "total": 16277
 }
