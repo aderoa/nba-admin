@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "~ CHANGED Keonte Jones  school: Dayton -> University of Dayton",
+   "detected_at": "2026-09-22 14:30:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "2026-09-22  Miami Heat claimed guard Bez Mbeng off waivers.",
    "detected_at": "2026-09-22 14:26:55",
    "source": "TRANSACTIONS",
@@ -10051,13 +10057,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Markel_Brown"
-  },
-  {
-   "detail": "Markel Brown  ~ number: - -> 22",
-   "detected_at": "2026-09-19 08:43:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Markel_Brown"
   }
  ],
  "feeds": {
@@ -10070,8 +10069,8 @@
    "last": "2026-09-19 08:35:02"
   },
   "PLAYERS": {
-   "count": 971,
-   "last": "2026-09-22 13:46:04"
+   "count": 972,
+   "last": "2026-09-22 14:30:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10102,6 +10101,6 @@
    "last": "2026-09-22 14:03:52"
   }
  },
- "generated_at": "2026-09-22T14:30:03",
- "total": 16315
+ "generated_at": "2026-09-22T14:31:00",
+ "total": 16316
 }
