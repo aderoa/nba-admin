@@ -1,6 +1,36 @@
 {
  "events": [
   {
+   "detail": "2026-27 Veteran Signings  - REMOVED 27-28 $28,703,704",
+   "detected_at": "2026-09-22 09:41:55",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  27-28 $28,703,704 ($29,203,704)",
+   "detected_at": "2026-09-22 09:41:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED 5 Years for $155,000,000 ($157,500,000 w/un",
+   "detected_at": "2026-09-22 09:41:55",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED . Rookie Scale Extension. Insurance Premium Reimbursement. Skill; Injury or Illness; Mental. Trade Kicker (10%).",
+   "detected_at": "2026-09-22 09:41:55",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  5 Years for $155,000,000 ($157,500,000 w/unlikely to be earned bonuses). Rookie Scale Extension. Insurance Premium Reimbursement. Skill; Injury or Illness; Mental. Trade Kicker (10%).",
+   "detected_at": "2026-09-22 09:41:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "2026-27 Veteran Signings  - REMOVED 31-32 $47,337,931",
    "detected_at": "2026-09-22 09:40:56",
    "source": "DOCS",
@@ -10209,47 +10239,12 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "French Basketball Cup + Malik Rouamba → Etoile Angers Basket",
-   "detected_at": "2026-09-18 19:11:50",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French Basketball Cup + Gnahore Dali → Etoile Angers Basket",
-   "detected_at": "2026-09-18 19:11:50",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French Basketball Cup + Junior Robinson → Etoile Angers Basket",
-   "detected_at": "2026-09-18 19:11:50",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French Basketball Cup + Abdul Momoh → Etoile Angers Basket",
-   "detected_at": "2026-09-18 19:11:50",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French Basketball Cup + Matteo Vergiat → Etoile Angers Basket",
-   "detected_at": "2026-09-18 19:11:50",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 2694,
-   "last": "2026-09-22 09:40:56"
+   "count": 2699,
+   "last": "2026-09-22 09:41:55"
   },
   "GLEAGUE": {
    "count": 99,
@@ -10288,6 +10283,6 @@
    "last": "2026-09-21 18:01:10"
   }
  },
- "generated_at": "2026-09-22T09:41:02",
- "total": 16085
+ "generated_at": "2026-09-22T09:42:01",
+ "total": 16090
 }
