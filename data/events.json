@@ -1,6 +1,48 @@
 {
  "events": [
   {
+   "detail": "CHA  - REMOVED Mbeng, Bez",
+   "detected_at": "2026-09-22 08:26:59",
+   "source": "SHEETS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "CHA  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 185697008 -> 183511892, col9: 476804395.4 -> 474619279.4",
+   "detected_at": "2026-09-22 08:26:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "CHA  CHANGED Players Under Contract  -  col3: 183247587 -> 181062471",
+   "detected_at": "2026-09-22 08:26:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "CHA  CHANGED Full Season Contracts  -  col3: 183247587 -> 181062471",
+   "detected_at": "2026-09-22 08:26:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "CHA  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 19 -> 18",
+   "detected_at": "2026-09-22 08:26:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED Bez Mbeng Charlotte Hornets",
+   "detected_at": "2026-09-22 08:26:55",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Bez Mbeng (WAIVED) Charlotte Hornets",
+   "detected_at": "2026-09-22 08:26:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "Intercontinental Cup + Jose Vildoza → Boca Juniors",
    "detected_at": "2026-09-22 08:18:47",
    "source": "REALGM",
@@ -10296,61 +10338,12 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-09-17/Randers-Cimbria-at-Holbaek-Stenhus/526137"
-  },
-  {
-   "detail": "Danish Basketligaen + Bakir Serdarevic → Randers Cimbria",
-   "detected_at": "2026-09-18 08:50:34",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Danish Basketligaen + Patrick Renane → Randers Cimbria",
-   "detected_at": "2026-09-18 08:50:34",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Danish Basketligaen + Morten Bulow → Randers Cimbria",
-   "detected_at": "2026-09-18 08:50:34",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Danish Basketligaen + Kaden Sand → Randers Cimbria",
-   "detected_at": "2026-09-18 08:50:34",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Danish Basketligaen + Adama Darboe → Randers Cimbria",
-   "detected_at": "2026-09-18 08:50:34",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Danish Basketligaen + Dibaji Walker → Randers Cimbria",
-   "detected_at": "2026-09-18 08:50:34",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Danish Basketligaen + Sharif Marfo Barfi → Randers Cimbria",
-   "detected_at": "2026-09-18 08:50:34",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 2586,
-   "last": "2026-09-18 08:41:58"
+   "count": 2588,
+   "last": "2026-09-22 08:26:55"
   },
   "GLEAGUE": {
    "count": 99,
@@ -10373,8 +10366,8 @@
    "last": "2026-09-22 08:18:47"
   },
   "SHEETS": {
-   "count": 3904,
-   "last": "2026-09-18 08:42:07"
+   "count": 3909,
+   "last": "2026-09-22 08:26:59"
   },
   "TRANSACTIONS": {
    "count": 373,
@@ -10389,6 +10382,6 @@
    "last": "2026-09-21 18:01:10"
   }
  },
- "generated_at": "2026-09-22T08:26:00",
- "total": 15947
+ "generated_at": "2026-09-22T08:27:02",
+ "total": 15954
 }
