@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "WNBA Portland Fire 90, Golden State Valkyries 82",
+   "detected_at": "2026-09-22 22:41:09",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-09-22/Golden-State-at-Portland/158644"
+  },
+  {
+   "detail": "WNBA Las Vegas Aces 89, Los Angeles Sparks 79",
+   "detected_at": "2026-09-22 22:41:06",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-09-22/LA-Sparks-at-Las-Vegas/158643"
+  },
+  {
    "detail": "WNBA ~ MOVED Kate Martin → Chicago Sky (from Los Angeles Sparks)",
    "detected_at": "2026-09-22 21:40:11",
    "source": "REALGM",
@@ -10001,20 +10015,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Turkish TBL + Orhan Haciyeva → Mersin BSB",
-   "detected_at": "2026-09-19 17:58:59",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Turkish TBL + Kruize Pinkins → Mersin BSB",
-   "detected_at": "2026-09-19 17:58:59",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10039,8 +10039,8 @@
    "last": "2026-09-22 21:40:11"
   },
   "SCORES": {
-   "count": 692,
-   "last": "2026-09-22 21:40:11"
+   "count": 694,
+   "last": "2026-09-22 22:41:09"
   },
   "SHEETS": {
    "count": 4024,
@@ -10059,6 +10059,6 @@
    "last": "2026-09-22 14:03:52"
   }
  },
- "generated_at": "2026-09-22T22:40:01",
- "total": 16428
+ "generated_at": "2026-09-22T22:41:11",
+ "total": 16430
 }
