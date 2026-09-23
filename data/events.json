@@ -1,6 +1,24 @@
 {
  "events": [
   {
+   "detail": "~ CHANGED Buddy Hield  team: ATL -> CHA",
+   "detected_at": "2026-09-22 17:46:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Ryan Nembhard  team: ATL -> CHA",
+   "detected_at": "2026-09-22 17:46:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Dorian Finney-Smith  team: CHA -> ATL",
+   "detected_at": "2026-09-22 17:46:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "ATL  + ADDED  Finney-Smith, Dorian",
    "detected_at": "2026-09-22 17:37:58",
    "source": "SHEETS",
@@ -9998,27 +10016,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "French Super Cup + Mouhamed Faye → Paris Basketball",
-   "detected_at": "2026-09-19 17:58:57",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French Super Cup + Nadir Hifi → Paris Basketball",
-   "detected_at": "2026-09-19 17:58:57",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French Super Cup + Terry Tarpey → Paris Basketball",
-   "detected_at": "2026-09-19 17:58:57",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10031,8 +10028,8 @@
    "last": "2026-09-19 08:35:02"
   },
   "PLAYERS": {
-   "count": 988,
-   "last": "2026-09-22 16:49:54"
+   "count": 991,
+   "last": "2026-09-22 17:46:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10063,6 +10060,6 @@
    "last": "2026-09-22 14:03:52"
   }
  },
- "generated_at": "2026-09-22T17:46:00",
- "total": 16408
+ "generated_at": "2026-09-22T17:47:01",
+ "total": 16411
 }
