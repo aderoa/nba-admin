@@ -1,6 +1,60 @@
 {
  "events": [
   {
+   "detail": "CHA  + ADDED  Hield, Buddy",
+   "detected_at": "2026-09-22 17:36:58",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "CHA  + ADDED  Nembhard, Ryan",
+   "detected_at": "2026-09-22 17:36:58",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "CHA  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 184869655 -> 196679108, col4: 149029940.8 -> 159127500.8, col9: 475977042.4 -> 497884055.4",
+   "detected_at": "2026-09-22 17:36:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "CHA  CHANGED Players Under Contract  -  col3: 182420234 -> 194229687, col4: 149029940.8 -> 159127500.8",
+   "detected_at": "2026-09-22 17:36:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "CHA  CHANGED Full Season Contracts  -  col3: 182420234 -> 194229687, col4: 149029940.8 -> 159127500.8",
+   "detected_at": "2026-09-22 17:36:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "CHA  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 19 -> 21",
+   "detected_at": "2026-09-22 17:36:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "2026-09-22  Atlanta Hawks received forward Dorian Finney-Smith from Charlotte Hornets.",
+   "detected_at": "2026-09-22 17:36:55",
+   "source": "TRANSACTIONS",
+   "type": "Trade"
+  },
+  {
+   "detail": "2026-09-22  Charlotte Hornets received guard Ryan Nembhard from Atlanta Hawks.",
+   "detected_at": "2026-09-22 17:36:55",
+   "source": "TRANSACTIONS",
+   "type": "Trade"
+  },
+  {
+   "detail": "2026-09-22  Charlotte Hornets received guard Buddy Hield from Atlanta Hawks.",
+   "detected_at": "2026-09-22 17:36:55",
+   "source": "TRANSACTIONS",
+   "type": "Trade"
+  },
+  {
    "detail": "Israel BSL Winner Cup + Amari Bailey → Hapoel Beer Sheva",
    "detected_at": "2026-09-22 17:35:44",
    "source": "REALGM",
@@ -9977,69 +10031,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Turkish TBL Goztepe 85, Ormanspor Genc Ankara 73",
-   "detected_at": "2026-09-19 17:58:49",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-19/Goztepe-at-Ormanspor-Genc-Ankara/534363"
-  },
-  {
-   "detail": "Mateo Drežnjak  ~ team: Studentski centar -> Slovan Bratislava",
-   "detected_at": "2026-09-19 17:35:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Mateo_Dre%C5%BEnjak"
-  },
-  {
-   "detail": "Mateo Drežnjak  ~ league: Prva A Liga ABA League -> Slovak Basketball League ABA League",
-   "detected_at": "2026-09-19 17:35:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Mateo_Dre%C5%BEnjak"
-  },
-  {
-   "detail": "Mateo Drežnjak  ~ number: 33 -> 23",
-   "detected_at": "2026-09-19 17:35:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Mateo_Dre%C5%BEnjak"
-  },
-  {
-   "detail": "Mateo Drežnjak  ~ CAREER  + 2025–2026 Studentski centar",
-   "detected_at": "2026-09-19 17:35:46",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Mateo_Dre%C5%BEnjak"
-  },
-  {
-   "detail": "Mateo Drežnjak  ~ CAREER  + 2026–present Slovan Bratislava",
-   "detected_at": "2026-09-19 17:35:46",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Mateo_Dre%C5%BEnjak"
-  },
-  {
-   "detail": "Kendric Davis  ~ 108183: team -> -",
-   "detected_at": "2026-09-19 17:16:10",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "Sydney Kings"
-  },
-  {
-   "detail": "Kendric Davis  ~ 108183: league -> -",
-   "detected_at": "2026-09-19 17:16:10",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "NBL"
-  },
-  {
-   "detail": "Kendric Davis  ~ 108183: position -> -",
-   "detected_at": "2026-09-19 17:16:10",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "Point guard"
   }
  ],
  "feeds": {
@@ -10068,12 +10059,12 @@
    "last": "2026-09-22 17:35:44"
   },
   "SHEETS": {
-   "count": 4006,
-   "last": "2026-09-22 11:00:00"
+   "count": 4012,
+   "last": "2026-09-22 17:36:58"
   },
   "TRANSACTIONS": {
-   "count": 384,
-   "last": "2026-09-22 14:34:55"
+   "count": 387,
+   "last": "2026-09-22 17:36:55"
   },
   "WIKI": {
    "count": 3921,
@@ -10084,6 +10075,6 @@
    "last": "2026-09-22 14:03:52"
   }
  },
- "generated_at": "2026-09-22T17:35:48",
- "total": 16387
+ "generated_at": "2026-09-22T17:37:02",
+ "total": 16396
 }
