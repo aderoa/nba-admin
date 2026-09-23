@@ -1,6 +1,34 @@
 {
  "events": [
   {
+   "detail": "WNBA ~ MOVED Kate Martin → Chicago Sky (from Los Angeles Sparks)",
+   "detected_at": "2026-09-22 21:40:11",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "WNBA Chicago Sky 97, Toronto Tempo 85",
+   "detected_at": "2026-09-22 21:40:11",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-09-22/Toronto-at-Chicago/158693"
+  },
+  {
+   "detail": "WNBA Indiana Fever 96, Minnesota Lynx 77",
+   "detected_at": "2026-09-22 21:40:08",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-09-22/Minnesota-at-Indiana/158642"
+  },
+  {
+   "detail": "WNBA Washington Mystics 79, Connecticut Sun 69",
+   "detected_at": "2026-09-22 21:40:06",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-09-22/Connecticut-at-Washington/158641"
+  },
+  {
    "detail": "Coty Clarke  ~ CAREER  + 2024–2026 Shimane Susanoo Magic",
    "detected_at": "2026-09-22 21:02:36",
    "source": "WIKI",
@@ -9987,34 +10015,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Turkish TBL + Arca Tuluoglu → Mersin BSB",
-   "detected_at": "2026-09-19 17:58:59",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Turkish TBL + Berat Bulut → Mersin BSB",
-   "detected_at": "2026-09-19 17:58:59",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Turkish TBL + Kaan Sariaslan → Mersin BSB",
-   "detected_at": "2026-09-19 17:58:59",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Turkish TBL + Turan Altunbas → Mersin BSB",
-   "detected_at": "2026-09-19 17:58:59",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10035,12 +10035,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 2307,
-   "last": "2026-09-22 17:35:44"
+   "count": 2308,
+   "last": "2026-09-22 21:40:11"
   },
   "SCORES": {
-   "count": 689,
-   "last": "2026-09-22 17:35:44"
+   "count": 692,
+   "last": "2026-09-22 21:40:11"
   },
   "SHEETS": {
    "count": 4024,
@@ -10059,6 +10059,6 @@
    "last": "2026-09-22 14:03:52"
   }
  },
- "generated_at": "2026-09-22T21:39:01",
- "total": 16424
+ "generated_at": "2026-09-22T21:40:12",
+ "total": 16428
 }
