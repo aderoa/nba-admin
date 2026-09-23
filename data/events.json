@@ -1,6 +1,78 @@
 {
  "events": [
   {
+   "detail": "ATL  + ADDED  Finney-Smith, Dorian",
+   "detected_at": "2026-09-22 17:37:58",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "ATL  - REMOVED Hield, Buddy",
+   "detected_at": "2026-09-22 17:37:58",
+   "source": "SHEETS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "ATL  - REMOVED Nembhard, Ryan",
+   "detected_at": "2026-09-22 17:37:58",
+   "source": "SHEETS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "ATL  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 230114791 -> 232502312.4, col4: 135555116 -> 138792556, col5: 112757332 -> 126092332, col9: 553073648.9 -> 572033610.3",
+   "detected_at": "2026-09-22 17:37:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "ATL  CHANGED Players Under Contract  -  col3: 191123911 -> 193511432.4, col4: 135555116 -> 138792556, col5: 112757332 -> 126092332",
+   "detected_at": "2026-09-22 17:37:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "ATL  CHANGED Full Season Contracts  -  col3: 191123911 -> 193511432.4, col4: 135555116 -> 138792556, col5: 112757332 -> 126092332",
+   "detected_at": "2026-09-22 17:37:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "ATL  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 16 -> 15",
+   "detected_at": "2026-09-22 17:37:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "CHA  - REMOVED Finney-Smith, Dorian",
+   "detected_at": "2026-09-22 17:37:58",
+   "source": "SHEETS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "CHA  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 196679108 -> 182482133.6, col4: 159127500.8 -> 145792500.8, col5: 97910545 -> 84575545, col9: 497884055.4 -> 457017081",
+   "detected_at": "2026-09-22 17:37:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "CHA  CHANGED Players Under Contract  -  col3: 194229687 -> 180032712.6, col4: 159127500.8 -> 145792500.8, col5: 97910545 -> 84575545",
+   "detected_at": "2026-09-22 17:37:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "CHA  CHANGED Full Season Contracts  -  col3: 194229687 -> 180032712.6, col4: 159127500.8 -> 145792500.8, col5: 97910545 -> 84575545",
+   "detected_at": "2026-09-22 17:37:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "CHA  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 21 -> 20",
+   "detected_at": "2026-09-22 17:37:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "CHA  + ADDED  Hield, Buddy",
    "detected_at": "2026-09-22 17:36:58",
    "source": "SHEETS",
@@ -9947,90 +10019,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "French Super Cup + Sebastian Herrera → Paris Basketball",
-   "detected_at": "2026-09-19 17:58:57",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French Super Cup + Tyson Etienne → Paris Basketball",
-   "detected_at": "2026-09-19 17:58:57",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French Super Cup + Alize Johnson → Paris Basketball",
-   "detected_at": "2026-09-19 17:58:57",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French Super Cup + Leopold Cavaliere → Paris Basketball",
-   "detected_at": "2026-09-19 17:58:57",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French Super Cup + Allan Julien Dokossi → Paris Basketball",
-   "detected_at": "2026-09-19 17:58:57",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French Super Cup Paris Basketball 95, Nanterre 92 88",
-   "detected_at": "2026-09-19 17:58:57",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-19/Nanterre-92-at-Paris-Basketball/537189"
-  },
-  {
-   "detail": "Turkish TBL + Can Sayin → Aykon TED Kolejliler Ankara",
-   "detected_at": "2026-09-19 17:58:54",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Turkish TBL + Ahmet Karaman → Kahramanmaras Kipas Istiklal",
-   "detected_at": "2026-09-19 17:58:54",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Turkish TBL Kahramanmaras Kipas Istiklal 83, Aykon TED Kolejliler Ankara 72",
-   "detected_at": "2026-09-19 17:58:54",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-19/Aykon-TED-Kolejliler-Ankara-at-Kahramanmaras-Kipas-Istiklal/534366"
-  },
-  {
-   "detail": "Turkish TBL + Mevlut Melih Dogan → Royal Hali Gaziantep",
-   "detected_at": "2026-09-19 17:58:51",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Turkish TBL + Erdem Ilter → Royal Hali Gaziantep",
-   "detected_at": "2026-09-19 17:58:51",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Turkish TBL + Ferhat Seniceli → Goztepe",
-   "detected_at": "2026-09-19 17:58:49",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10059,8 +10047,8 @@
    "last": "2026-09-22 17:35:44"
   },
   "SHEETS": {
-   "count": 4012,
-   "last": "2026-09-22 17:36:58"
+   "count": 4024,
+   "last": "2026-09-22 17:37:58"
   },
   "TRANSACTIONS": {
    "count": 387,
@@ -10075,6 +10063,6 @@
    "last": "2026-09-22 14:03:52"
   }
  },
- "generated_at": "2026-09-22T17:37:02",
- "total": 16396
+ "generated_at": "2026-09-22T17:38:01",
+ "total": 16408
 }
