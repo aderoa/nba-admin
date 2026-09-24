@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "~ CHANGED Nate Santos  school: Dayton -> University of Dayton",
+   "detected_at": "2026-09-24 14:32:55",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "2026-09-24  Atlanta Hawks waived guard Keon Johnson.",
    "detected_at": "2026-09-24 14:27:55",
    "source": "TRANSACTIONS",
@@ -9858,13 +9864,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "German BBL + Vladimir Lucic → Bayern Munich",
-   "detected_at": "2026-09-20 20:52:18",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -9877,8 +9876,8 @@
    "last": "2026-09-24 08:54:04"
   },
   "PLAYERS": {
-   "count": 1027,
-   "last": "2026-09-24 13:52:55"
+   "count": 1028,
+   "last": "2026-09-24 14:32:55"
   },
   "RATINGS": {
    "count": 950,
@@ -9909,6 +9908,6 @@
    "last": "2026-09-24 12:35:10"
   }
  },
- "generated_at": "2026-09-24T14:32:01",
- "total": 16978
+ "generated_at": "2026-09-24T14:33:02",
+ "total": 16979
 }
