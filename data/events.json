@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "+ ADDED   AJ Hoggard (TOR)",
+   "detected_at": "2026-09-24 11:49:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
    "detail": "Julian Reese  ~ team: Free agent -> New Orleans Pelicans",
    "detected_at": "2026-09-24 11:42:37",
    "source": "WIKI",
@@ -9947,13 +9953,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Junior_Etou"
-  },
-  {
-   "detail": "Junior Etou  ~ weight_lb: 240 -> -",
-   "detected_at": "2026-09-20 12:34:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Junior_Etou"
   }
  ],
  "feeds": {
@@ -9966,8 +9965,8 @@
    "last": "2026-09-24 08:54:04"
   },
   "PLAYERS": {
-   "count": 1019,
-   "last": "2026-09-24 09:51:53"
+   "count": 1020,
+   "last": "2026-09-24 11:49:54"
   },
   "RATINGS": {
    "count": 950,
@@ -9998,6 +9997,6 @@
    "last": "2026-09-24 09:03:34"
   }
  },
- "generated_at": "2026-09-24T11:49:00",
- "total": 16852
+ "generated_at": "2026-09-24T11:50:00",
+ "total": 16853
 }
