@@ -1,6 +1,31 @@
 {
  "events": [
   {
+   "detail": "Tyrese Haliburton  ~ birth_date: February 29, 2000 (age 6) -> -",
+   "detected_at": "2026-09-24 14:00:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Tyrese_Haliburton"
+  },
+  {
+   "detail": "+ ADDED   Antonio Reeves (MIN)",
+   "detected_at": "2026-09-24 13:52:55",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "+ ADDED   Tyrone Marshall Jr. (SAC)",
+   "detected_at": "2026-09-24 13:52:55",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "+ ADDED   Gabe Levin (SAC)",
+   "detected_at": "2026-09-24 13:52:55",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
    "detail": "Tyrese Haliburton  ~ birth_date: - -> February 29, 2000 (age 6)",
    "detected_at": "2026-09-24 13:14:38",
    "source": "WIKI",
@@ -9858,34 +9883,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-09-20/Mitteldeutscher-BC-at-EWE-Baskets-Oldenburg/528071"
-  },
-  {
-   "detail": "WNBA + Ndjakalenga Mwenentanda → Los Angeles Sparks",
-   "detected_at": "2026-09-20 19:51:57",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "WNBA Los Angeles Sparks 105, Portland Fire 84",
-   "detected_at": "2026-09-20 19:51:57",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-09-20/Portland-at-LA-Sparks/158637"
-  },
-  {
-   "detail": "Mexican LNBP Dorados de Chihuahua 79, Astros de Jalisco 77",
-   "detected_at": "2026-09-20 19:51:51",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-20/Dorados-de-Chihuahua-at-Astros-de-Jalisco/526635"
-  },
-  {
-   "detail": "WNBA Washington Mystics 93, Indiana Fever 77",
-   "detected_at": "2026-09-20 18:49:42",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-09-20/Washington-at-Indiana/158636"
   }
  ],
  "feeds": {
@@ -9898,8 +9895,8 @@
    "last": "2026-09-24 08:54:04"
   },
   "PLAYERS": {
-   "count": 1024,
-   "last": "2026-09-24 12:52:54"
+   "count": 1027,
+   "last": "2026-09-24 13:52:55"
   },
   "RATINGS": {
    "count": 950,
@@ -9922,14 +9919,14 @@
    "last": "2026-09-24 09:47:55"
   },
   "WIKI": {
-   "count": 4023,
-   "last": "2026-09-24 13:14:38"
+   "count": 4024,
+   "last": "2026-09-24 14:00:37"
   },
   "WIKIWATCH": {
    "count": 246,
    "last": "2026-09-24 12:35:10"
   }
  },
- "generated_at": "2026-09-24T13:52:01",
- "total": 16949
+ "generated_at": "2026-09-24T14:00:38",
+ "total": 16953
 }
