@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Tyrese Haliburton  ~ birth_date: - -> February 29, 2000 (age 6)",
+   "detected_at": "2026-09-24 13:14:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Tyrese_Haliburton"
+  },
+  {
    "detail": "+ ADDED   Nimari Burnett (TOR)",
    "detected_at": "2026-09-24 12:52:54",
    "source": "PLAYERS",
@@ -9879,13 +9886,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/wnba/boxscore/2026-09-20/Washington-at-Indiana/158636"
-  },
-  {
-   "detail": "WNBA + Madi Scott → New York Liberty",
-   "detected_at": "2026-09-20 18:49:39",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -9922,14 +9922,14 @@
    "last": "2026-09-24 09:47:55"
   },
   "WIKI": {
-   "count": 4022,
-   "last": "2026-09-24 12:51:38"
+   "count": 4023,
+   "last": "2026-09-24 13:14:38"
   },
   "WIKIWATCH": {
    "count": 246,
    "last": "2026-09-24 12:35:10"
   }
  },
- "generated_at": "2026-09-24T13:06:01",
- "total": 16948
+ "generated_at": "2026-09-24T13:14:49",
+ "total": 16949
 }
