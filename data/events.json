@@ -1,6 +1,84 @@
 {
  "events": [
   {
+   "detail": "MIA  CHANGED Larsson, Pelle  -  col4: - -> 13500000.0, col5: - -> 14580000.0, col6: - -> 15660000.0, col7: - -> 16260000.0, col9: 2296271 -> 62296271",
+   "detected_at": "2026-09-24 14:01:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MIA  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col4: 176880133 -> 190380133, col5: 92517147 -> 107097147, col6: 16200000 -> 31860000, col7: 0 -> 16260000, col9: 508668178 -> 568668178",
+   "detected_at": "2026-09-24 14:01:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MIA  CHANGED Players Under Contract  -  col4: 176880133 -> 190380133, col5: 92517147 -> 107097147, col6: 16200000 -> 31860000, col7: 0 -> 16260000",
+   "detected_at": "2026-09-24 14:01:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MIA  CHANGED Full Season Contracts  -  col4: 176880133 -> 190380133, col5: 92517147 -> 107097147, col6: 16200000 -> 31860000, col7: 0 -> 16260000",
+   "detected_at": "2026-09-24 14:01:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED Update 1.3 (7/18/26): O. Agbaji, B. Beal, J. Bernard, S. Bey, D. Brooks, K. Brooks, B. Brown, K. Bufkin, J. Butler Jr., K. Caldwell-Pope, D. Carter, M. Cisse, I. Crawford, J. Crutcher, J. Davison, D. DeRozan, D. Eubanks, T. Fall, K. George, A. Gill, D. Green, J. Harden, M. Hezonja, H. Highsmith, C. Houstan, H. Ingram, A. Jackson, L. James, D. Jones, S. Jones, Y. Kawamura, C. Koloko, J. Konchar, J. Kuminga, N. Marshall, B. Mathurin, B. Mbeng, D. Melton, G. Niang, M. Nowell, E. Payton, G. Payton, T. Peter, J. Phillips, D. Plowden, N. Richards, L. Robbins, J. Schakel, B. Simmons, M. Smith, J. Sochan, D. Stockton, J. Tate, D. Terry, A. Thompson, K. Thompson, M. Thybulle, A. Toohey, O. Tshiebwe, M. Wagner, L. Walker, J. Walsh, T. Watford, A. Watson, P. Watson, B. Williams, J. Wiseman, I. Wong",
+   "detected_at": "2026-09-24 14:00:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Update 1.3 (7/18/26): O. Agbaji, B. Beal, J. Bernard, S. Bey, D. Brooks, K. Brooks, B. Brown, K. Bufkin, J. Butler Jr., K. Caldwell-Pope, D. Carter, M. Cisse, I. Crawford, J. Crutcher, J. Davison, D. DeRozan, D. Eubanks, T. Fall, K. George, A. Gill, D. Green, J. Harden, M. Hezonja, H. Highsmith, C. Houstan, H. Ingram, A. Jackson, L. James, D. Jones, S. Jones, Y. Kawamura, C. Koloko, J. Konchar, J. Kuminga, P. Larsson, N. Marshall, B. Mathurin, B. Mbeng, D. Melton, G. Niang, M. Nowell, E. Payton, G. Payton, T. Peter, J. Phillips, D. Plowden, N. Richards, L. Robbins, J. Schakel, B. Simmons, M. Smith, J. Sochan, D. Stockton, J. Tate, D. Terry, A. Thompson, K. Thompson, M. Thybulle, A. Toohey, O. Tshiebwe, M. Wagner, L. Walker, J. Walsh, T. Watford, A. Watson, P. Watson, B. Williams, J. Wiseman, I. Wong",
+   "detected_at": "2026-09-24 14:00:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Pelle Larsson Miami Heat",
+   "detected_at": "2026-09-24 14:00:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  27-28 $13,500,000",
+   "detected_at": "2026-09-24 14:00:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  28-29 $14,580,000",
+   "detected_at": "2026-09-24 14:00:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  29-30 $15,660,000",
+   "detected_at": "2026-09-24 14:00:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  30-31 $16,260,000 (Player/Team Option)",
+   "detected_at": "2026-09-24 14:00:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  4 Years for $60,000,000. Veteran Extension. Advance Payment ($2,000,000). Player or Team option to extend the contract to include the 2030-31 Season. Insurance Premium Reimbursement. Skill; Injury or Illness; Mental. Love of the Game.",
+   "detected_at": "2026-09-24 14:00:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 9/22/26",
+   "detected_at": "2026-09-24 14:00:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "Tyrese Haliburton  ~ birth_date: February 29, 2000 (age 6) -> -",
    "detected_at": "2026-09-24 14:00:37",
    "source": "WIKI",
@@ -9792,103 +9870,12 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "German BBL + Ibi Watson → Ratiopharm Ulm",
-   "detected_at": "2026-09-20 20:52:15",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German BBL + Jaylen Sims → Ratiopharm Ulm",
-   "detected_at": "2026-09-20 20:52:15",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German BBL + Michael Rataj → Ratiopharm Ulm",
-   "detected_at": "2026-09-20 20:52:15",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German BBL + Adam Atamna → Ratiopharm Ulm",
-   "detected_at": "2026-09-20 20:52:15",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German BBL + Devin Schmidt → Ratiopharm Ulm",
-   "detected_at": "2026-09-20 20:52:15",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German BBL + Marvin Heckel → Ratiopharm Ulm",
-   "detected_at": "2026-09-20 20:52:15",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German BBL + Dwayne Koroma → Ratiopharm Ulm",
-   "detected_at": "2026-09-20 20:52:15",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German BBL + Armel Traore → Ratiopharm Ulm",
-   "detected_at": "2026-09-20 20:52:15",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German BBL + Lenny Liedtke → Ratiopharm Ulm",
-   "detected_at": "2026-09-20 20:52:15",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German BBL + Meissa Faye → Ratiopharm Ulm",
-   "detected_at": "2026-09-20 20:52:15",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German BBL + Nil Failenschmid → Ratiopharm Ulm",
-   "detected_at": "2026-09-20 20:52:15",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German BBL Ratiopharm Ulm 86, MHP Riesen 77",
-   "detected_at": "2026-09-20 20:52:15",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-20/MHP-Riesen-at-Ratiopharm-Ulm/528072"
-  },
-  {
-   "detail": "German BBL EWE Baskets Oldenburg 96, Mitteldeutscher BC 81",
-   "detected_at": "2026-09-20 20:52:12",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-20/Mitteldeutscher-BC-at-EWE-Baskets-Oldenburg/528071"
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 2880,
-   "last": "2026-09-24 12:28:55"
+   "count": 2889,
+   "last": "2026-09-24 14:00:56"
   },
   "GLEAGUE": {
    "count": 110,
@@ -9911,8 +9898,8 @@
    "last": "2026-09-24 09:02:59"
   },
   "SHEETS": {
-   "count": 4046,
-   "last": "2026-09-24 12:06:01"
+   "count": 4050,
+   "last": "2026-09-24 14:01:00"
   },
   "TRANSACTIONS": {
    "count": 393,
@@ -9927,6 +9914,6 @@
    "last": "2026-09-24 12:35:10"
   }
  },
- "generated_at": "2026-09-24T14:00:38",
- "total": 16953
+ "generated_at": "2026-09-24T14:01:03",
+ "total": 16966
 }
