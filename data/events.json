@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "- REMOVED AJ Hoggard (TOR)",
+   "detected_at": "2026-09-24 11:51:53",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
    "detail": "+ ADDED   AJ Hoggard (TOR)",
    "detected_at": "2026-09-24 11:49:54",
    "source": "PLAYERS",
@@ -9946,13 +9952,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Junior_Etou"
-  },
-  {
-   "detail": "Junior Etou  ~ height_in: 7 -> -",
-   "detected_at": "2026-09-20 12:34:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Junior_Etou"
   }
  ],
  "feeds": {
@@ -9965,8 +9964,8 @@
    "last": "2026-09-24 08:54:04"
   },
   "PLAYERS": {
-   "count": 1020,
-   "last": "2026-09-24 11:49:54"
+   "count": 1021,
+   "last": "2026-09-24 11:51:53"
   },
   "RATINGS": {
    "count": 950,
@@ -9997,6 +9996,6 @@
    "last": "2026-09-24 09:03:34"
   }
  },
- "generated_at": "2026-09-24T11:51:01",
- "total": 16853
+ "generated_at": "2026-09-24T11:52:00",
+ "total": 16854
 }
