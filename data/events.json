@@ -1,6 +1,36 @@
 {
  "events": [
   {
+   "detail": "2026-09-24  Atlanta Hawks waived guard Keon Johnson.",
+   "detected_at": "2026-09-24 14:27:55",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-09-24  Detroit Pistons waived  Jordan Riley.",
+   "detected_at": "2026-09-24 14:27:55",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-09-24  LA Clippers waived forward Johni Broome.",
+   "detected_at": "2026-09-24 14:27:55",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-09-24  Minnesota Timberwolves waived forward Payton Sandfort.",
+   "detected_at": "2026-09-24 14:27:55",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-09-24  Minnesota Timberwolves waived forward Nate Santos.",
+   "detected_at": "2026-09-24 14:27:55",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
    "detail": "Daishen Nix  ~ team: Rio Grande Valley Vipers -> Beijing Royal Fighters",
    "detected_at": "2026-09-24 14:23:37",
    "source": "WIKI",
@@ -9835,41 +9865,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "German BBL + Andreas Obst → Bayern Munich",
-   "detected_at": "2026-09-20 20:52:18",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German BBL + Justus Hollatz → Bayern Munich",
-   "detected_at": "2026-09-20 20:52:18",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German BBL + Johannes Thiemann → Bayern Munich",
-   "detected_at": "2026-09-20 20:52:18",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German BBL + Oscar da Silva → Bayern Munich",
-   "detected_at": "2026-09-20 20:52:18",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German BBL + Johannes Voigtmann → Bayern Munich",
-   "detected_at": "2026-09-20 20:52:18",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -9902,8 +9897,8 @@
    "last": "2026-09-24 14:01:00"
   },
   "TRANSACTIONS": {
-   "count": 393,
-   "last": "2026-09-24 09:47:55"
+   "count": 398,
+   "last": "2026-09-24 14:27:55"
   },
   "WIKI": {
    "count": 4031,
@@ -9914,6 +9909,6 @@
    "last": "2026-09-24 12:35:10"
   }
  },
- "generated_at": "2026-09-24T14:27:00",
- "total": 16973
+ "generated_at": "2026-09-24T14:28:02",
+ "total": 16978
 }
