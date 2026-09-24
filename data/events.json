@@ -1,6 +1,84 @@
 {
  "events": [
   {
+   "detail": "Mike James (basketball, born 1990)  ~ height_ft: 6 -> -",
+   "detected_at": "2026-09-24 12:05:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Mike_James_(basketball,_born_1990)"
+  },
+  {
+   "detail": "Mike James (basketball, born 1990)  ~ height_in: 0 -> -",
+   "detected_at": "2026-09-24 12:05:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Mike_James_(basketball,_born_1990)"
+  },
+  {
+   "detail": "Marcus Keene  ~ team: Free Agent -> Trabzonspor",
+   "detected_at": "2026-09-24 12:05:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Marcus_Keene"
+  },
+  {
+   "detail": "Marcus Keene  ~ league: - -> Basketbol Süper Ligi FIBA Champions League",
+   "detected_at": "2026-09-24 12:05:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Marcus_Keene"
+  },
+  {
+   "detail": "Marcus Keene  ~ number: - -> 1",
+   "detected_at": "2026-09-24 12:05:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Marcus_Keene"
+  },
+  {
+   "detail": "Marcus Keene  ~ CAREER  + 2026–present Trabzonspor",
+   "detected_at": "2026-09-24 12:05:37",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Marcus_Keene"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  - REMOVED Update 1.3 (7/18/26): K. Lopez, K. Diop, J. Bradley, O. Agbim, J. Akins, J. Allick, D. Armstrong, W. Baker, A. Bandaogo, N. Boyd, L. Butler, D. Daniels, D. Garcia, C. Grill, J. Hadley, D. Higgs, C. Hildreth, M. Iraldi, N. Jourdain, M. Keita, K. Mangas, M. Mascari, R. Mast, C. McMillian, S. McNeil, I. Milicic, B. Miller, J. Moni, K. Murphy, D. Murray, M. Murrell, J. Nelson, J. Nunn, J. O’Neil, T. Okani, N. Pringle, E. Ralph, K. Reeves, D. Rodman, C. Ross, A. Scott, C. Shumate, D. Smith, J. Stephens, K. Stewart, W. Taylor, S. Thomas, S. Thompson, C. Tilly, T. Townsend, P. Zilinskas",
+   "detected_at": "2026-09-24 11:57:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Update 1.3 (7/18/26): K. Lopez, K. Diop, J. Bradley, O. Agbim, J. Akins, J. Allick, D. Armstrong, M. Armstrong, W. Baker, A. Bandaogo, N. Boyd, L. Butler, D. Daniels, D. Garcia, C. Grill, J. Hadley, D. Higgs, C. Hildreth, M. Iraldi, N. Jourdain, M. Keita, K. Mangas, M. Mascari, R. Mast, C. McMillian, S. McNeil, I. Milicic, B. Miller, J. Moni, K. Murphy, D. Murray, M. Murrell, J. Nelson, J. Nunn, J. O’Neil, T. Okani, N. Pringle, E. Ralph, K. Reeves, D. Rodman, C. Ross, A. Scott, C. Shumate, D. Smith, J. Stephens, K. Stewart, W. Taylor, S. Thomas, S. Thompson, C. Tilly, T. Townsend, P. Zilinskas",
+   "detected_at": "2026-09-24 11:57:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Mark Armstrong (WAIVED) Portland Trail Blazers",
+   "detected_at": "2026-09-24 11:57:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  26-27 $1,357,763",
+   "detected_at": "2026-09-24 11:57:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($5,000).",
+   "detected_at": "2026-09-24 11:57:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 9/22/26",
+   "detected_at": "2026-09-24 11:57:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "2026-27 Rookie Signings  + ADDED  Boopie Miller (WAIVED) Denver Nuggets",
    "detected_at": "2026-09-24 11:55:55",
    "source": "DOCS",
@@ -9861,96 +9939,12 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Isma%C3%ABl_Kamagate"
-  },
-  {
-   "detail": "Amedeo Della Valle  ~ team: Pallacanestro Varese -> Openjobmetis Varese",
-   "detected_at": "2026-09-20 15:15:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Amedeo_Della_Valle"
-  },
-  {
-   "detail": "Amedeo Della Valle  ~ league: LBA -> LBA Champions League",
-   "detected_at": "2026-09-20 15:15:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Amedeo_Della_Valle"
-  },
-  {
-   "detail": "Amedeo Della Valle  ~ number: - -> 8",
-   "detected_at": "2026-09-20 15:15:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Amedeo_Della_Valle"
-  },
-  {
-   "detail": "Davide Alviti  ~ team: Pallacanestro Varese -> Openjobmetis Varese",
-   "detected_at": "2026-09-20 15:15:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Davide_Alviti"
-  },
-  {
-   "detail": "Davide Alviti  ~ league: Lega Basket Serie A -> LBA Champions League",
-   "detected_at": "2026-09-20 15:15:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Davide_Alviti"
-  },
-  {
-   "detail": "Stefan Nikolić (basketball, born 1997)  ~ team: Pallacanestro Varese -> Openjobmetis Varese",
-   "detected_at": "2026-09-20 15:15:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Stefan_Nikoli%C4%87_(basketball,_born_1997)"
-  },
-  {
-   "detail": "Stefan Nikolić (basketball, born 1997)  ~ league: LBA -> LBA Champions League",
-   "detected_at": "2026-09-20 15:15:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Stefan_Nikoli%C4%87_(basketball,_born_1997)"
-  },
-  {
-   "detail": "Stefan Nikolić (basketball, born 1997)  ~ number: - -> 11",
-   "detected_at": "2026-09-20 15:15:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Stefan_Nikoli%C4%87_(basketball,_born_1997)"
-  },
-  {
-   "detail": "Jaylen Adams  ~ team: Shijiazhuang Xianglan -> Maccabi Ramat Gan",
-   "detected_at": "2026-09-20 14:52:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jaylen_Adams"
-  },
-  {
-   "detail": "Jaylen Adams  ~ league: Chinese NBL -> Israeli Basketball Premier League",
-   "detected_at": "2026-09-20 14:52:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jaylen_Adams"
-  },
-  {
-   "detail": "Jaylen Adams  ~ number: 10 -> 3",
-   "detected_at": "2026-09-20 14:52:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jaylen_Adams"
-  },
-  {
-   "detail": "Jaylen Adams  ~ height_ft: - -> 6",
-   "detected_at": "2026-09-20 14:52:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jaylen_Adams"
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 2828,
-   "last": "2026-09-24 11:55:55"
+   "count": 2834,
+   "last": "2026-09-24 11:57:56"
   },
   "GLEAGUE": {
    "count": 110,
@@ -9981,14 +9975,14 @@
    "last": "2026-09-24 09:47:55"
   },
   "WIKI": {
-   "count": 4004,
-   "last": "2026-09-24 11:42:37"
+   "count": 4010,
+   "last": "2026-09-24 12:05:37"
   },
   "WIKIWATCH": {
    "count": 241,
    "last": "2026-09-24 11:55:10"
   }
  },
- "generated_at": "2026-09-24T11:56:59",
- "total": 16866
+ "generated_at": "2026-09-24T12:05:38",
+ "total": 16878
 }
