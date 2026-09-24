@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "~ CHANGED Nate Santos  school: University of Dayton -> Dayton",
+   "detected_at": "2026-09-24 14:33:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "~ CHANGED Nate Santos  school: Dayton -> University of Dayton",
    "detected_at": "2026-09-24 14:32:55",
    "source": "PLAYERS",
@@ -9857,13 +9863,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "German BBL + Miles Norris → Bayern Munich",
-   "detected_at": "2026-09-20 20:52:18",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -9876,8 +9875,8 @@
    "last": "2026-09-24 08:54:04"
   },
   "PLAYERS": {
-   "count": 1028,
-   "last": "2026-09-24 14:32:55"
+   "count": 1029,
+   "last": "2026-09-24 14:33:54"
   },
   "RATINGS": {
    "count": 950,
@@ -9908,6 +9907,6 @@
    "last": "2026-09-24 12:35:10"
   }
  },
- "generated_at": "2026-09-24T14:33:02",
- "total": 16979
+ "generated_at": "2026-09-24T14:34:02",
+ "total": 16980
 }
