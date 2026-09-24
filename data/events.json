@@ -1,6 +1,30 @@
 {
  "events": [
   {
+   "detail": "2026-09-23  Orlando Magic waived guard Ace Baldwin.",
+   "detected_at": "2026-09-24 14:46:54",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-09-23  Orlando Magic waived guard Ricky Council IV.",
+   "detected_at": "2026-09-24 14:46:54",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-09-23  Orlando Magic waived guard Jarron Cumberland.",
+   "detected_at": "2026-09-24 14:46:54",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-09-23  Orlando Magic waived guard Au'Diese Toney.",
+   "detected_at": "2026-09-24 14:46:54",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
    "detail": "Harry Giles III  ~ team: Jiangsu Dragons -> Beijing Royal Fighters",
    "detected_at": "2026-09-24 14:46:37",
    "source": "WIKI",
@@ -9823,34 +9847,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Norwegian BLNO + Tobias Overmo → Nidaros Jets",
-   "detected_at": "2026-09-20 20:52:21",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Norwegian BLNO + Per Bertelsen → TNT Towers",
-   "detected_at": "2026-09-20 20:52:21",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Norwegian BLNO + Jan Prus → TNT Towers",
-   "detected_at": "2026-09-20 20:52:21",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Norwegian BLNO + Sindre Christoffersen → TNT Towers",
-   "detected_at": "2026-09-20 20:52:21",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -9883,8 +9879,8 @@
    "last": "2026-09-24 14:01:00"
   },
   "TRANSACTIONS": {
-   "count": 409,
-   "last": "2026-09-24 14:35:55"
+   "count": 413,
+   "last": "2026-09-24 14:46:54"
   },
   "WIKI": {
    "count": 4040,
@@ -9895,6 +9891,6 @@
    "last": "2026-09-24 12:35:10"
   }
  },
- "generated_at": "2026-09-24T14:46:38",
- "total": 17001
+ "generated_at": "2026-09-24T14:47:00",
+ "total": 17005
 }
