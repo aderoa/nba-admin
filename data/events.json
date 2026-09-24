@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Israel BSL Winner Cup + Greg Lee → Hapoel Unet Holon",
+   "detected_at": "2026-09-23 21:39:12",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Israel BSL Winner Cup Hapoel Unet Holon 83, Ironi Ramat Gan 80",
+   "detected_at": "2026-09-23 21:39:12",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-23/Ironi-Ramat-Gan-at-Hapoel-Unet-Holon/541688"
+  },
+  {
+   "detail": "Israel BSL Winner Cup Elitzur Kiryat Ata 99, Hapoel HaEmek 98",
+   "detected_at": "2026-09-23 21:39:10",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-23/Elitzur-Kiryat-Ata-at-Hapoel-HaEmek/541685"
+  },
+  {
    "detail": "~ CHANGED Nate Santos  school: University of Dayton -> Dayton",
    "detected_at": "2026-09-23 18:45:54",
    "source": "PLAYERS",
@@ -9945,27 +9966,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Lithuanian LKL + Brandon Huntley-Hatfield → Juventus",
-   "detected_at": "2026-09-20 09:25:29",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Lithuanian LKL ~ MOVED Tevian Jones → Juventus (from Brampton Honey Badgers)",
-   "detected_at": "2026-09-20 09:25:29",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
-  },
-  {
-   "detail": "Lithuanian LKL + Chase Hunter → Juventus",
-   "detected_at": "2026-09-20 09:25:29",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -9986,12 +9986,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 2389,
-   "last": "2026-09-23 11:17:10"
+   "count": 2390,
+   "last": "2026-09-23 21:39:12"
   },
   "SCORES": {
-   "count": 701,
-   "last": "2026-09-23 11:17:10"
+   "count": 703,
+   "last": "2026-09-23 21:39:12"
   },
   "SHEETS": {
    "count": 4041,
@@ -10010,6 +10010,6 @@
    "last": "2026-09-23 09:30:58"
   }
  },
- "generated_at": "2026-09-23T21:38:02",
- "total": 16605
+ "generated_at": "2026-09-23T21:39:16",
+ "total": 16608
 }
