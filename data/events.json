@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "~ CHANGED Nate Santos  school: University of Dayton -> Dayton",
+   "detected_at": "2026-09-23 18:45:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "~ CHANGED Nate Santos  school: Dayton -> University of Dayton",
    "detected_at": "2026-09-23 18:04:54",
    "source": "PLAYERS",
@@ -9960,13 +9966,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Lithuanian LKL + Laurynas Beliauskas → Juventus",
-   "detected_at": "2026-09-20 09:25:29",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -9979,8 +9978,8 @@
    "last": "2026-09-23 08:58:24"
   },
   "PLAYERS": {
-   "count": 1014,
-   "last": "2026-09-23 18:04:54"
+   "count": 1015,
+   "last": "2026-09-23 18:45:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10011,6 +10010,6 @@
    "last": "2026-09-23 09:30:58"
   }
  },
- "generated_at": "2026-09-23T18:45:29",
- "total": 16604
+ "generated_at": "2026-09-23T18:46:00",
+ "total": 16605
 }
