@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Jamal Shead  ~ number: 23 -> 1",
+   "detected_at": "2026-09-24 15:09:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jamal_Shead"
+  },
+  {
    "detail": "+ ADDED   Jon Elmore (SAS)",
    "detected_at": "2026-09-24 14:52:54",
    "source": "PLAYERS",
@@ -9822,13 +9829,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Danish Basketligaen + Gustav Blauenfeldt → Gladsaxe Basketball Klub",
-   "detected_at": "2026-09-20 20:52:24",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -9865,14 +9865,14 @@
    "last": "2026-09-24 14:46:54"
   },
   "WIKI": {
-   "count": 4040,
-   "last": "2026-09-24 14:46:37"
+   "count": 4041,
+   "last": "2026-09-24 15:09:37"
   },
   "WIKIWATCH": {
    "count": 246,
    "last": "2026-09-24 12:35:10"
   }
  },
- "generated_at": "2026-09-24T15:01:03",
- "total": 17023
+ "generated_at": "2026-09-24T15:09:38",
+ "total": 17024
 }
