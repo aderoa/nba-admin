@@ -1,6 +1,30 @@
 {
  "events": [
   {
+   "detail": "2026-27 Veteran Signings  + ADDED  Jalen Crutcher (WAIVED) Minnesota Timberwolves",
+   "detected_at": "2026-09-24 12:18:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  26-27 $2,185,116",
+   "detected_at": "2026-09-24 12:18:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
+   "detected_at": "2026-09-24 12:18:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 9/21/26",
+   "detected_at": "2026-09-24 12:18:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "2026-27 Veteran Signings  - REMOVED Update 1.3 (7/18/26): O. Agbaji, B. Beal, J. Bernard, S. Bey, D. Brooks, K. Brooks, B. Brown, K. Bufkin, J. Butler Jr., K. Caldwell-Pope, D. Carter, M. Cisse, I. Crawford, J. Davison, D. DeRozan, D. Eubanks, T. Fall, K. George, A. Gill, D. Green, J. Harden, M. Hezonja, H. Highsmith, C. Houstan, H. Ingram, A. Jackson, L. James, D. Jones, S. Jones, Y. Kawamura, C. Koloko, J. Konchar, J. Kuminga, N. Marshall, B. Mathurin, B. Mbeng, D. Melton, G. Niang, M. Nowell, E. Payton, G. Payton, T. Peter, J. Phillips, D. Plowden, N. Richards, L. Robbins, J. Schakel, B. Simmons, M. Smith, J. Sochan, D. Stockton, J. Tate, D. Terry, A. Thompson, K. Thompson, M. Thybulle, A. Toohey, O. Tshiebwe, M. Wagner, L. Walker, J. Walsh, T. Watford, A. Watson, P. Watson, B. Williams, J. Wiseman, I. Wong",
    "detected_at": "2026-09-24 12:07:56",
    "source": "DOCS",
@@ -9880,40 +9904,12 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Super League Basketball + Nazir Williams → Cheshire Phoenix",
-   "detected_at": "2026-09-20 18:49:26",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Champions League Europe Qualification + Timo Lanmuller → SC Rasta Vechta",
-   "detected_at": "2026-09-20 18:49:24",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Champions League Europe Qualification + Linus Trettin → SC Rasta Vechta",
-   "detected_at": "2026-09-20 18:49:24",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Champions League Europe Qualification + Peter Hemschemeier → SC Rasta Vechta",
-   "detected_at": "2026-09-20 18:49:24",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 2860,
-   "last": "2026-09-24 12:07:56"
+   "count": 2864,
+   "last": "2026-09-24 12:18:55"
   },
   "GLEAGUE": {
    "count": 110,
@@ -9952,6 +9948,6 @@
    "last": "2026-09-24 11:55:10"
   }
  },
- "generated_at": "2026-09-24T12:18:01",
- "total": 16909
+ "generated_at": "2026-09-24T12:19:01",
+ "total": 16913
 }
