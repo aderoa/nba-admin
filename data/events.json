@@ -1,6 +1,24 @@
 {
  "events": [
   {
+   "detail": "~ CHANGED Graham Ike  country: - -> USA",
+   "detected_at": "2026-09-25 13:18:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED J'Vonne Hadley  country: - -> USA",
+   "detected_at": "2026-09-25 13:18:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Nicholas Boyd  name: Nick Boyd -> Nicholas Boyd",
+   "detected_at": "2026-09-25 13:18:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "2026-09-21  Golden State Warriors signed forward Graham Ike to a Two-Way Contract.",
    "detected_at": "2026-09-25 13:15:55",
    "source": "TRANSACTIONS",
@@ -9815,27 +9833,6 @@
    "source": "WIKIWATCH",
    "type": "FIELD",
    "url": "Shooting guard / point guard"
-  },
-  {
-   "detail": "Jordan Loyd  ~ 31657: number -> -",
-   "detected_at": "2026-09-21 11:58:08",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "3"
-  },
-  {
-   "detail": "Jordan Loyd  ~ 31657: (page changed) -> -",
-   "detected_at": "2026-09-21 11:58:08",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": ""
-  },
-  {
-   "detail": "Simon Birgander  ~ CAREER  + 2023–2025 UCAM Murcia",
-   "detected_at": "2026-09-21 11:27:39",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Simon_Birgander"
   }
  ],
  "feeds": {
@@ -9848,8 +9845,8 @@
    "last": "2026-09-25 08:50:35"
   },
   "PLAYERS": {
-   "count": 1077,
-   "last": "2026-09-25 12:51:53"
+   "count": 1080,
+   "last": "2026-09-25 13:18:54"
   },
   "RATINGS": {
    "count": 950,
@@ -9880,6 +9877,6 @@
    "last": "2026-09-24 23:45:13"
   }
  },
- "generated_at": "2026-09-25T13:18:00",
- "total": 17273
+ "generated_at": "2026-09-25T13:19:01",
+ "total": 17276
 }
