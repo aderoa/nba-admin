@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Charlie Brown Jr. (basketball)  ~ number: - -> 4",
+   "detected_at": "2026-09-25 09:20:39",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Charlie_Brown_Jr._(basketball)"
+  },
+  {
+   "detail": "Quincy Olivari  ~ number: - -> 8",
+   "detected_at": "2026-09-25 09:20:39",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Quincy_Olivari"
+  },
+  {
+   "detail": "Gradey Dick  ~ number: - -> 9",
+   "detected_at": "2026-09-25 09:20:39",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Gradey_Dick"
+  },
+  {
    "detail": "Euroleague + Jerian Grant → Panathinaikos",
    "detected_at": "2026-09-25 08:58:33",
    "source": "REALGM",
@@ -9812,24 +9833,6 @@
    "detected_at": "2026-09-21 08:49:54",
    "source": "PLAYERS",
    "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED Dwight Powell (DAL)",
-   "detected_at": "2026-09-21 08:49:54",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "~ CHANGED DJ Rodman  school: USC -> Southern California",
-   "detected_at": "2026-09-21 08:49:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Aaron Scott  school: St. John's, N.Y. -> St. John's",
-   "detected_at": "2026-09-21 08:49:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -9866,14 +9869,14 @@
    "last": "2026-09-25 08:50:22"
   },
   "WIKI": {
-   "count": 4087,
-   "last": "2026-09-25 08:57:48"
+   "count": 4090,
+   "last": "2026-09-25 09:20:39"
   },
   "WIKIWATCH": {
    "count": 247,
    "last": "2026-09-24 23:45:13"
   }
  },
- "generated_at": "2026-09-25T09:12:00",
- "total": 17208
+ "generated_at": "2026-09-25T09:20:40",
+ "total": 17211
 }
