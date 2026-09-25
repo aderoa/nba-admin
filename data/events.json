@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "~ CHANGED Emanuel Miller  school: Texas Christian -> TCU",
+   "detected_at": "2026-09-25 12:51:53",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "Caleb Houstan  ~ number: - -> 33",
    "detected_at": "2026-09-25 12:47:37",
    "source": "WIKI",
@@ -9831,13 +9837,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/PJ_Dozier"
-  },
-  {
-   "detail": "PJ Dozier  ~ height_ft: 6 -> -",
-   "detected_at": "2026-09-21 11:04:36",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/PJ_Dozier"
   }
  ],
  "feeds": {
@@ -9850,8 +9849,8 @@
    "last": "2026-09-25 08:50:35"
   },
   "PLAYERS": {
-   "count": 1076,
-   "last": "2026-09-25 12:16:53"
+   "count": 1077,
+   "last": "2026-09-25 12:51:53"
   },
   "RATINGS": {
    "count": 950,
@@ -9882,6 +9881,6 @@
    "last": "2026-09-24 23:45:13"
   }
  },
- "generated_at": "2026-09-25T12:51:00",
- "total": 17267
+ "generated_at": "2026-09-25T12:51:59",
+ "total": 17268
 }
