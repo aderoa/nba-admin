@@ -1,6 +1,36 @@
 {
  "events": [
   {
+   "detail": "+ ADDED   Tyrone Marshall Jr. (SAC)",
+   "detected_at": "2026-09-25 09:50:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "+ ADDED   Norchad Omier (MIN)",
+   "detected_at": "2026-09-25 09:50:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "- REMOVED Samuel Hoiberg (PHX)",
+   "detected_at": "2026-09-25 09:50:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Corey Camper (PHX)",
+   "detected_at": "2026-09-25 09:50:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED John Camden (PHX)",
+   "detected_at": "2026-09-25 09:50:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
    "detail": "Edon Maxhuni  ~ number: - -> 5",
    "detected_at": "2026-09-25 09:43:37",
    "source": "WIKI",
@@ -9804,36 +9834,6 @@
    "detected_at": "2026-09-21 08:49:54",
    "source": "PLAYERS",
    "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED Isaiah Livers (PHX)",
-   "detected_at": "2026-09-21 08:49:54",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED Hayden Gray (UTA)",
-   "detected_at": "2026-09-21 08:49:54",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED Blake Wesley (POR)",
-   "detected_at": "2026-09-21 08:49:54",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED Max Shulga (BOS)",
-   "detected_at": "2026-09-21 08:49:54",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED Aaron Holiday (HOU)",
-   "detected_at": "2026-09-21 08:49:54",
-   "source": "PLAYERS",
-   "type": "REMOVED"
   }
  ],
  "feeds": {
@@ -9846,8 +9846,8 @@
    "last": "2026-09-25 08:50:35"
   },
   "PLAYERS": {
-   "count": 1048,
-   "last": "2026-09-24 14:52:54"
+   "count": 1053,
+   "last": "2026-09-25 09:50:54"
   },
   "RATINGS": {
    "count": 950,
@@ -9878,6 +9878,6 @@
    "last": "2026-09-24 23:45:13"
   }
  },
- "generated_at": "2026-09-25T09:50:04",
- "total": 17215
+ "generated_at": "2026-09-25T09:51:04",
+ "total": 17220
 }
