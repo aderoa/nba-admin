@@ -1,6 +1,24 @@
 {
  "events": [
   {
+   "detail": "2026-09-24  Phoenix Suns waived forward John Camden.",
+   "detected_at": "2026-09-25 09:21:54",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-09-24  Phoenix Suns waived  Corey Camper.",
+   "detected_at": "2026-09-25 09:21:54",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-09-24  Phoenix Suns waived  Samuel Hoiberg.",
+   "detected_at": "2026-09-25 09:21:54",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
    "detail": "Charlie Brown Jr. (basketball)  ~ number: - -> 4",
    "detected_at": "2026-09-25 09:20:39",
    "source": "WIKI",
@@ -9815,24 +9833,6 @@
    "detected_at": "2026-09-21 08:49:54",
    "source": "PLAYERS",
    "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED Xavier Tillman (CHA)",
-   "detected_at": "2026-09-21 08:49:54",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED Amir Coffey (PHX)",
-   "detected_at": "2026-09-21 08:49:54",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED Tony Bradley (ATL)",
-   "detected_at": "2026-09-21 08:49:54",
-   "source": "PLAYERS",
-   "type": "REMOVED"
   }
  ],
  "feeds": {
@@ -9865,8 +9865,8 @@
    "last": "2026-09-24 14:01:00"
   },
   "TRANSACTIONS": {
-   "count": 415,
-   "last": "2026-09-25 08:50:22"
+   "count": 418,
+   "last": "2026-09-25 09:21:54"
   },
   "WIKI": {
    "count": 4090,
@@ -9877,6 +9877,6 @@
    "last": "2026-09-24 23:45:13"
   }
  },
- "generated_at": "2026-09-25T09:21:11",
- "total": 17211
+ "generated_at": "2026-09-25T09:22:02",
+ "total": 17214
 }
