@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "2026-09-19  Golden State Warriors waived forward Elias Ralph.",
+   "detected_at": "2026-09-24 18:24:55",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
    "detail": "Jamal Shead  ~ number: 23 -> 1",
    "detected_at": "2026-09-24 15:09:37",
    "source": "WIKI",
@@ -9822,13 +9828,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Danish Basketligaen + Henry Shannon III → Gladsaxe Basketball Klub",
-   "detected_at": "2026-09-20 20:52:24",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -9861,8 +9860,8 @@
    "last": "2026-09-24 14:01:00"
   },
   "TRANSACTIONS": {
-   "count": 413,
-   "last": "2026-09-24 14:46:54"
+   "count": 414,
+   "last": "2026-09-24 18:24:55"
   },
   "WIKI": {
    "count": 4041,
@@ -9873,6 +9872,6 @@
    "last": "2026-09-24 12:35:10"
   }
  },
- "generated_at": "2026-09-24T18:24:00",
- "total": 17024
+ "generated_at": "2026-09-24T18:25:01",
+ "total": 17025
 }
