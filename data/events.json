@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Edon Maxhuni  ~ number: - -> 5",
+   "detected_at": "2026-09-25 09:43:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Edon_Maxhuni"
+  },
+  {
    "detail": "2026-09-24  Phoenix Suns waived forward John Camden.",
    "detected_at": "2026-09-25 09:21:54",
    "source": "TRANSACTIONS",
@@ -9827,12 +9834,6 @@
    "detected_at": "2026-09-21 08:49:54",
    "source": "PLAYERS",
    "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED Kyle Lowry (PHI)",
-   "detected_at": "2026-09-21 08:49:54",
-   "source": "PLAYERS",
-   "type": "REMOVED"
   }
  ],
  "feeds": {
@@ -9869,14 +9870,14 @@
    "last": "2026-09-25 09:21:54"
   },
   "WIKI": {
-   "count": 4090,
-   "last": "2026-09-25 09:20:39"
+   "count": 4091,
+   "last": "2026-09-25 09:43:37"
   },
   "WIKIWATCH": {
    "count": 247,
    "last": "2026-09-24 23:45:13"
   }
  },
- "generated_at": "2026-09-25T09:35:01",
- "total": 17214
+ "generated_at": "2026-09-25T09:43:38",
+ "total": 17215
 }
