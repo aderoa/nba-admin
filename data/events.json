@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "WNBA Minnesota Lynx 86, Indiana Fever 66",
+   "detected_at": "2026-09-24 21:25:45",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-09-24/Indiana-at-Minnesota/158648"
+  },
+  {
+   "detail": "WNBA Washington Mystics 101, Chicago Sky 93",
+   "detected_at": "2026-09-24 21:25:43",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-09-24/Chicago-at-Washington/158647"
+  },
+  {
    "detail": "Curtis Jones (basketball)  ~ CAREER  + –present Cleveland Cavaliers",
    "detected_at": "2026-09-24 19:07:38",
    "source": "WIKI",
@@ -9814,20 +9828,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Danish Basketligaen + Noah Baker → Vaerlose BBK",
-   "detected_at": "2026-09-20 20:52:24",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Danish Basketligaen + Thomas Brodie → Vaerlose BBK",
-   "detected_at": "2026-09-20 20:52:24",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -9852,8 +9852,8 @@
    "last": "2026-09-24 09:02:59"
   },
   "SCORES": {
-   "count": 726,
-   "last": "2026-09-24 09:02:59"
+   "count": 728,
+   "last": "2026-09-24 21:25:45"
   },
   "SHEETS": {
    "count": 4050,
@@ -9872,6 +9872,6 @@
    "last": "2026-09-24 12:35:10"
   }
  },
- "generated_at": "2026-09-24T21:17:00",
- "total": 17031
+ "generated_at": "2026-09-24T21:25:47",
+ "total": 17033
 }
