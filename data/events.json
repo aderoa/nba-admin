@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "~ CHANGED Emanuel Miller  school: TCU -> Texas Christian",
+   "detected_at": "2026-09-25 12:16:53",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "Garlon Green  ~ team: Antibes Sharks -> -",
    "detected_at": "2026-09-25 12:01:37",
    "source": "WIKI",
@@ -9832,13 +9838,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Dario_%C5%A0ari%C4%87"
-  },
-  {
-   "detail": "Dario Šarić  ~ height_in: 10 -> 11",
-   "detected_at": "2026-09-21 11:04:36",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Dario_%C5%A0ari%C4%87"
   }
  ],
  "feeds": {
@@ -9851,8 +9850,8 @@
    "last": "2026-09-25 08:50:35"
   },
   "PLAYERS": {
-   "count": 1075,
-   "last": "2026-09-25 11:16:53"
+   "count": 1076,
+   "last": "2026-09-25 12:16:53"
   },
   "RATINGS": {
    "count": 950,
@@ -9883,6 +9882,6 @@
    "last": "2026-09-24 23:45:13"
   }
  },
- "generated_at": "2026-09-25T12:16:00",
- "total": 17264
+ "generated_at": "2026-09-25T12:24:30",
+ "total": 17265
 }
