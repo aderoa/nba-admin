@@ -1,6 +1,18 @@
 {
  "events": [
   {
+   "detail": "+ ADDED   Leaky Black (SAC)",
+   "detected_at": "2026-09-25 15:58:55",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "+ ADDED   KJ Martin (MIN)",
+   "detected_at": "2026-09-25 15:58:55",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
    "detail": "Isaac Jones (basketball)  ~ number: - -> 13",
    "detected_at": "2026-09-25 15:51:19",
    "source": "WIKI",
@@ -9811,18 +9823,6 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Jazz_Johnson"
-  },
-  {
-   "detail": "- REMOVED Dominique Daniels, Jr. (NOP)",
-   "detected_at": "2026-09-21 14:41:54",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED Jalen Warley (IND)",
-   "detected_at": "2026-09-21 14:41:54",
-   "source": "PLAYERS",
-   "type": "REMOVED"
   }
  ],
  "feeds": {
@@ -9835,8 +9835,8 @@
    "last": "2026-09-25 08:50:35"
   },
   "PLAYERS": {
-   "count": 1108,
-   "last": "2026-09-25 13:56:53"
+   "count": 1110,
+   "last": "2026-09-25 15:58:55"
   },
   "RATINGS": {
    "count": 950,
@@ -9867,6 +9867,6 @@
    "last": "2026-09-24 23:45:13"
   }
  },
- "generated_at": "2026-09-25T15:58:01",
- "total": 17309
+ "generated_at": "2026-09-25T15:59:04",
+ "total": 17311
 }
