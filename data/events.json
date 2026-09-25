@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "2026-09-25  Dallas Mavericks re-signed forward Dwight Powell to a Contract.",
+   "detected_at": "2026-09-25 10:11:55",
+   "source": "TRANSACTIONS",
+   "type": "Signing"
+  },
+  {
    "detail": "Estonian Latvian Basketball League VEF Riga 104, Latvijas Universitate 66",
    "detected_at": "2026-09-25 10:06:49",
    "source": "SCORES",
@@ -9839,12 +9845,6 @@
    "detected_at": "2026-09-21 08:49:54",
    "source": "PLAYERS",
    "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED Nicolas Batum (LAC)",
-   "detected_at": "2026-09-21 08:49:54",
-   "source": "PLAYERS",
-   "type": "REMOVED"
   }
  ],
  "feeds": {
@@ -9877,8 +9877,8 @@
    "last": "2026-09-24 14:01:00"
   },
   "TRANSACTIONS": {
-   "count": 418,
-   "last": "2026-09-25 09:21:54"
+   "count": 419,
+   "last": "2026-09-25 10:11:55"
   },
   "WIKI": {
    "count": 4091,
@@ -9889,6 +9889,6 @@
    "last": "2026-09-24 23:45:13"
   }
  },
- "generated_at": "2026-09-25T10:11:04",
- "total": 17231
+ "generated_at": "2026-09-25T10:12:01",
+ "total": 17232
 }
