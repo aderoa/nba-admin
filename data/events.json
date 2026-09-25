@@ -1,6 +1,83 @@
 {
  "events": [
   {
+   "detail": "Estonian Latvian Basketball League VEF Riga 104, Latvijas Universitate 66",
+   "detected_at": "2026-09-25 10:06:49",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-23/VEF-Riga-at-Latvijas-Universitate/542362"
+  },
+  {
+   "detail": "Estonian Latvian Basketball League + Rodrigo Jugans → Latvijas Universitate",
+   "detected_at": "2026-09-25 10:06:46",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Estonian Latvian Basketball League + Wayne McKinney III → Latvijas Universitate",
+   "detected_at": "2026-09-25 10:06:46",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Estonian Latvian Basketball League + Ronalds Ginters → Latvijas Universitate",
+   "detected_at": "2026-09-25 10:06:46",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Estonian Latvian Basketball League + P.J. Hayes IV → Latvijas Universitate",
+   "detected_at": "2026-09-25 10:06:46",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Estonian Latvian Basketball League + Liev Koshevatskyi → Latvijas Universitate",
+   "detected_at": "2026-09-25 10:06:46",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Estonian Latvian Basketball League + Martins Piternieks → Latvijas Universitate",
+   "detected_at": "2026-09-25 10:06:46",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Estonian Latvian Basketball League + Pauls Martins Katlaps → Latvijas Universitate",
+   "detected_at": "2026-09-25 10:06:46",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Estonian Latvian Basketball League + Oto Bergmanis → Latvijas Universitate",
+   "detected_at": "2026-09-25 10:06:46",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Estonian Latvian Basketball League + Reggie Thomas → Latvijas Universitate",
+   "detected_at": "2026-09-25 10:06:46",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Estonian Latvian Basketball League + Gustavs Gumbelis → Latvijas Universitate",
+   "detected_at": "2026-09-25 10:06:46",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
    "detail": "+ ADDED   Tyrone Marshall Jr. (SAC)",
    "detected_at": "2026-09-25 09:50:54",
    "source": "PLAYERS",
@@ -9768,72 +9845,6 @@
    "detected_at": "2026-09-21 08:49:54",
    "source": "PLAYERS",
    "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED Jack Kayil (NYK)",
-   "detected_at": "2026-09-21 08:49:54",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED Seth Curry (GSW)",
-   "detected_at": "2026-09-21 08:49:54",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED Norchad Omier (LAC)",
-   "detected_at": "2026-09-21 08:49:54",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED Lajae Jones (GSW)",
-   "detected_at": "2026-09-21 08:49:54",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED MarJon Beauchamp (PHI)",
-   "detected_at": "2026-09-21 08:49:54",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED Keaton Wallace (ATL)",
-   "detected_at": "2026-09-21 08:49:54",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED TyTy Washington Jr. (LAC)",
-   "detected_at": "2026-09-21 08:49:54",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED Wendell Moore Jr. (DET)",
-   "detected_at": "2026-09-21 08:49:54",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED Kevin Love (UTA)",
-   "detected_at": "2026-09-21 08:49:54",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED Curtis Jones (DEN)",
-   "detected_at": "2026-09-21 08:49:54",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED Vsevolod Ishchenko (DAL)",
-   "detected_at": "2026-09-21 08:49:54",
-   "source": "PLAYERS",
-   "type": "REMOVED"
   }
  ],
  "feeds": {
@@ -9854,12 +9865,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 2662,
-   "last": "2026-09-25 08:58:33"
+   "count": 2672,
+   "last": "2026-09-25 10:06:46"
   },
   "SCORES": {
-   "count": 746,
-   "last": "2026-09-25 08:58:33"
+   "count": 747,
+   "last": "2026-09-25 10:06:49"
   },
   "SHEETS": {
    "count": 4050,
@@ -9878,6 +9889,6 @@
    "last": "2026-09-24 23:45:13"
   }
  },
- "generated_at": "2026-09-25T10:06:34",
- "total": 17220
+ "generated_at": "2026-09-25T10:09:09",
+ "total": 17231
 }
