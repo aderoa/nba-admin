@@ -1,6 +1,48 @@
 {
  "events": [
   {
+   "detail": "- REMOVED Emanuel Miller (DEN)",
+   "detected_at": "2026-09-25 10:54:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Coleman Hawkins (DEN)",
+   "detected_at": "2026-09-25 10:54:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Phillip Wheeler (PHX)",
+   "detected_at": "2026-09-25 10:54:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Dane Goodwin (DEN)",
+   "detected_at": "2026-09-25 10:54:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Romeo Weems (DET)",
+   "detected_at": "2026-09-25 10:54:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Brendan Hausen (MEM)",
+   "detected_at": "2026-09-25 10:54:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Dwight Powell (DAL)",
+   "detected_at": "2026-09-25 10:54:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
    "detail": "+ ADDED   Brendan Hausen (MEM)",
    "detected_at": "2026-09-25 10:53:54",
    "source": "PLAYERS",
@@ -9803,48 +9845,6 @@
    "detected_at": "2026-09-21 08:49:54",
    "source": "PLAYERS",
    "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED Malique Lewis (MIL)",
-   "detected_at": "2026-09-21 08:49:54",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED Tyler Nickel (NYK)",
-   "detected_at": "2026-09-21 08:49:54",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED Tyrese Martin (PHI)",
-   "detected_at": "2026-09-21 08:49:54",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED Sharife Cooper (WAS)",
-   "detected_at": "2026-09-21 08:49:54",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED Nate Williams (GSW)",
-   "detected_at": "2026-09-21 08:49:54",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED A.J. Lawson (TOR)",
-   "detected_at": "2026-09-21 08:49:54",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED Jalen Duren (DET)",
-   "detected_at": "2026-09-21 08:49:54",
-   "source": "PLAYERS",
-   "type": "REMOVED"
   }
  ],
  "feeds": {
@@ -9857,8 +9857,8 @@
    "last": "2026-09-25 08:50:35"
   },
   "PLAYERS": {
-   "count": 1060,
-   "last": "2026-09-25 10:53:54"
+   "count": 1067,
+   "last": "2026-09-25 10:54:54"
   },
   "RATINGS": {
    "count": 950,
@@ -9889,6 +9889,6 @@
    "last": "2026-09-24 23:45:13"
   }
  },
- "generated_at": "2026-09-25T10:54:00",
- "total": 17239
+ "generated_at": "2026-09-25T10:55:01",
+ "total": 17246
 }
