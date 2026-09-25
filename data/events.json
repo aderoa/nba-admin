@@ -1,6 +1,48 @@
 {
  "events": [
   {
+   "detail": "Lorenzo Brown  ~ team: Olimpia Milano -> Hapoel Jerusalem",
+   "detected_at": "2026-09-25 11:38:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Lorenzo_Brown"
+  },
+  {
+   "detail": "Lorenzo Brown  ~ league: LBA EuroLeague -> Israeli Basketball Premier League EuroCup",
+   "detected_at": "2026-09-25 11:38:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Lorenzo_Brown"
+  },
+  {
+   "detail": "Lorenzo Brown  ~ number: 4 -> -",
+   "detected_at": "2026-09-25 11:38:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Lorenzo_Brown"
+  },
+  {
+   "detail": "Lorenzo Brown  ~ CAREER  + 2025–2026 Olimpia Milano",
+   "detected_at": "2026-09-25 11:38:38",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Lorenzo_Brown"
+  },
+  {
+   "detail": "Lorenzo Brown  ~ CAREER  + 2026–present →Hapoel Jerusalem",
+   "detected_at": "2026-09-25 11:38:38",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Lorenzo_Brown"
+  },
+  {
+   "detail": "Boriša Simanić  ~ team: Mitteldeutscher -> Mitteldeutscher Basketball Club",
+   "detected_at": "2026-09-25 11:38:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Bori%C5%A1a_Simani%C4%87"
+  },
+  {
    "detail": "~ CHANGED Christoph Tilly  name: Cristoph Tilly -> Christoph Tilly",
    "detected_at": "2026-09-25 11:16:53",
    "source": "PLAYERS",
@@ -9797,48 +9839,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Jovan_Kljaji%C4%87"
-  },
-  {
-   "detail": "Nicolas Batum  ~ team: Free agent -> -",
-   "detected_at": "2026-09-21 09:56:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Nicolas_Batum"
-  },
-  {
-   "detail": "Nicolas Batum  ~ position: Small forward / power forward -> -",
-   "detected_at": "2026-09-21 09:56:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Nicolas_Batum"
-  },
-  {
-   "detail": "Nicolas Batum  ~ career_end: - -> 2026",
-   "detected_at": "2026-09-21 09:56:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Nicolas_Batum"
-  },
-  {
-   "detail": "Nicolas Batum  ~ 782: team -> Free agent",
-   "detected_at": "2026-09-21 09:48:17",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": ""
-  },
-  {
-   "detail": "Nicolas Batum  ~ 782: career_position -> -",
-   "detected_at": "2026-09-21 09:48:17",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "Small forward / power forward"
-  },
-  {
-   "detail": "Nicolas Batum  ~ 782: position -> Small forward / power forward",
-   "detected_at": "2026-09-21 09:48:17",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": ""
   }
  ],
  "feeds": {
@@ -9875,14 +9875,14 @@
    "last": "2026-09-25 10:11:55"
   },
   "WIKI": {
-   "count": 4091,
-   "last": "2026-09-25 09:43:37"
+   "count": 4097,
+   "last": "2026-09-25 11:38:38"
   },
   "WIKIWATCH": {
    "count": 247,
    "last": "2026-09-24 23:45:13"
   }
  },
- "generated_at": "2026-09-25T11:30:01",
- "total": 17254
+ "generated_at": "2026-09-25T11:38:39",
+ "total": 17260
 }
