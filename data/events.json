@@ -1,6 +1,41 @@
 {
  "events": [
   {
+   "detail": "Azuolas Tubelis  ~ 120959: team -> -",
+   "detected_at": "2026-09-26 14:29:58",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Žalgiris Kaunas"
+  },
+  {
+   "detail": "Azuolas Tubelis  ~ 120959: league -> -",
+   "detected_at": "2026-09-26 14:29:58",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "LKL EuroLeague"
+  },
+  {
+   "detail": "Azuolas Tubelis  ~ 120959: position -> -",
+   "detected_at": "2026-09-26 14:29:58",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Power forward / center"
+  },
+  {
+   "detail": "Azuolas Tubelis  ~ 120959: number -> -",
+   "detected_at": "2026-09-26 14:29:58",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "10"
+  },
+  {
+   "detail": "Azuolas Tubelis  ~ 120959: (page changed) -> -",
+   "detected_at": "2026-09-26 14:29:58",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": ""
+  },
+  {
    "detail": "Arijan Lakić  ~ league: KLS ABA League EuroLeague -> Serbian SuperLeague ABA League EuroLeague",
    "detected_at": "2026-09-26 14:29:39",
    "source": "WIKI",
@@ -10128,36 +10163,6 @@
    "detected_at": "2026-09-22 17:36:58",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "CHA  CHANGED Players Under Contract  -  col3: 182420234 -> 194229687, col4: 149029940.8 -> 159127500.8",
-   "detected_at": "2026-09-22 17:36:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "CHA  CHANGED Full Season Contracts  -  col3: 182420234 -> 194229687, col4: 149029940.8 -> 159127500.8",
-   "detected_at": "2026-09-22 17:36:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "CHA  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 19 -> 21",
-   "detected_at": "2026-09-22 17:36:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "2026-09-22  Atlanta Hawks received forward Dorian Finney-Smith from Charlotte Hornets.",
-   "detected_at": "2026-09-22 17:36:55",
-   "source": "TRANSACTIONS",
-   "type": "Trade"
-  },
-  {
-   "detail": "2026-09-22  Charlotte Hornets received guard Ryan Nembhard from Atlanta Hawks.",
-   "detected_at": "2026-09-22 17:36:55",
-   "source": "TRANSACTIONS",
-   "type": "Trade"
   }
  ],
  "feeds": {
@@ -10198,10 +10203,10 @@
    "last": "2026-09-26 14:29:39"
   },
   "WIKIWATCH": {
-   "count": 254,
-   "last": "2026-09-26 09:09:19"
+   "count": 259,
+   "last": "2026-09-26 14:29:58"
   }
  },
- "generated_at": "2026-09-26T14:29:42",
- "total": 17888
+ "generated_at": "2026-09-26T14:31:06",
+ "total": 17893
 }
