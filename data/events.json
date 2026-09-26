@@ -1,6 +1,34 @@
 {
  "events": [
   {
+   "detail": "Devin Carter  ~ team: Free agent -> Boston Celtics",
+   "detected_at": "2026-09-26 11:02:39",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Devin_Carter"
+  },
+  {
+   "detail": "Devin Carter  ~ league: - -> NBA",
+   "detected_at": "2026-09-26 11:02:39",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Devin_Carter"
+  },
+  {
+   "detail": "Devin Carter  ~ number: - -> 26",
+   "detected_at": "2026-09-26 11:02:39",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Devin_Carter"
+  },
+  {
+   "detail": "Devin Carter  ~ CAREER  + –present Boston Celtics",
+   "detected_at": "2026-09-26 11:02:39",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Devin_Carter"
+  },
+  {
    "detail": "Abramo Canka  ~ league: Lega Basket Serie A -> LBA",
    "detected_at": "2026-09-26 10:39:37",
    "source": "WIKI",
@@ -10126,30 +10154,6 @@
    "detected_at": "2026-09-22 14:49:55",
    "source": "PLAYERS",
    "type": "ADDED"
-  },
-  {
-   "detail": "+ ADDED   Mark Armstrong (POR)",
-   "detected_at": "2026-09-22 14:49:55",
-   "source": "PLAYERS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "+ ADDED   Samson Johnson (POR)",
-   "detected_at": "2026-09-22 14:49:55",
-   "source": "PLAYERS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "+ ADDED   Bez Mbeng (MIA)",
-   "detected_at": "2026-09-22 14:49:55",
-   "source": "PLAYERS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "- REMOVED Jalen Crutcher (MIN)",
-   "detected_at": "2026-09-22 14:49:55",
-   "source": "PLAYERS",
-   "type": "REMOVED"
   }
  ],
  "feeds": {
@@ -10186,14 +10190,14 @@
    "last": "2026-09-25 19:47:55"
   },
   "WIKI": {
-   "count": 4162,
-   "last": "2026-09-26 10:39:37"
+   "count": 4166,
+   "last": "2026-09-26 11:02:39"
   },
   "WIKIWATCH": {
    "count": 254,
    "last": "2026-09-26 09:09:19"
   }
  },
- "generated_at": "2026-09-26T10:54:01",
- "total": 17827
+ "generated_at": "2026-09-26T11:02:40",
+ "total": 17831
 }
