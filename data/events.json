@@ -1,6 +1,1993 @@
 {
  "events": [
   {
+   "detail": "German BBL Mitteldeutscher BC 77, Science City Jena 62",
+   "detected_at": "2026-09-26 09:08:37",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-25/Science-City-Jena-at-Mitteldeutscher-BC/528544"
+  },
+  {
+   "detail": "German BBL ~ MOVED Christian Skladanowski → Science City Jena (from sOliver Baskets)",
+   "detected_at": "2026-09-26 09:08:36",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "German BBL EWE Baskets Oldenburg 77, sOliver Baskets 68",
+   "detected_at": "2026-09-26 09:08:34",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-25/EWE-Baskets-Oldenburg-at-sOliver-Baskets/528545"
+  },
+  {
+   "detail": "German BBL Veolia Towers Hamburg 94, BV Chemnitz 99 90",
+   "detected_at": "2026-09-26 09:08:31",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-25/BV-Chemnitz-99-at-Veolia-Towers-Hamburg/528546"
+  },
+  {
+   "detail": "Turkish BSL + Marcus Carr → Virtus Bologna",
+   "detected_at": "2026-09-26 09:08:28",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish BSL + Wendell Moore, Jr. → Virtus Bologna",
+   "detected_at": "2026-09-26 09:08:28",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish BSL + Derrick Alston, Jr. → Virtus Bologna",
+   "detected_at": "2026-09-26 09:08:28",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish BSL + Bobi Klintman → Virtus Bologna",
+   "detected_at": "2026-09-26 09:08:28",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish BSL + Aliou Diarra → Virtus Bologna",
+   "detected_at": "2026-09-26 09:08:28",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish BSL + Daniel Hackett → Virtus Bologna",
+   "detected_at": "2026-09-26 09:08:28",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish BSL + Kessler Edwards → Virtus Bologna",
+   "detected_at": "2026-09-26 09:08:28",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish BSL + Trent Frazier → Virtus Bologna",
+   "detected_at": "2026-09-26 09:08:28",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish BSL + Momo Diouf → Virtus Bologna",
+   "detected_at": "2026-09-26 09:08:28",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish BSL + Rasheed Bello → Virtus Bologna",
+   "detected_at": "2026-09-26 09:08:28",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish BSL + Francesco Ferrari → Virtus Bologna",
+   "detected_at": "2026-09-26 09:08:28",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish BSL Fenerbahce Beko 78, Virtus Bologna 68",
+   "detected_at": "2026-09-26 09:08:28",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-25/Virtus-Bologna-at-Fenerbahce-Beko/526658"
+  },
+  {
+   "detail": "Italian Lega Basket Serie A + Marko Guduric → AX Armani Exchange Milan",
+   "detected_at": "2026-09-26 09:08:25",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Italian Lega Basket Serie A + Devon Hall → AX Armani Exchange Milan",
+   "detected_at": "2026-09-26 09:08:25",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Italian Lega Basket Serie A + Alec Peters → AX Armani Exchange Milan",
+   "detected_at": "2026-09-26 09:08:25",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Italian Lega Basket Serie A + Moses Wright → AX Armani Exchange Milan",
+   "detected_at": "2026-09-26 09:08:25",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Italian Lega Basket Serie A + R.J. Cole → AX Armani Exchange Milan",
+   "detected_at": "2026-09-26 09:08:25",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Italian Lega Basket Serie A + Devin Booker → AX Armani Exchange Milan",
+   "detected_at": "2026-09-26 09:08:25",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Italian Lega Basket Serie A + Diego Flaccadori → AX Armani Exchange Milan",
+   "detected_at": "2026-09-26 09:08:25",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Italian Lega Basket Serie A + Darius Thompson → AX Armani Exchange Milan",
+   "detected_at": "2026-09-26 09:08:25",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Italian Lega Basket Serie A + Jason Burnell → AX Armani Exchange Milan",
+   "detected_at": "2026-09-26 09:08:25",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Italian Lega Basket Serie A + Giampaolo Ricci → AX Armani Exchange Milan",
+   "detected_at": "2026-09-26 09:08:25",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Italian Lega Basket Serie A + Leandro Bolmaro → AX Armani Exchange Milan",
+   "detected_at": "2026-09-26 09:08:25",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Italian Lega Basket Serie A + Derek Willis → KK Partizan",
+   "detected_at": "2026-09-26 09:08:25",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Italian Lega Basket Serie A + Kevarrius Hayes → KK Partizan",
+   "detected_at": "2026-09-26 09:08:25",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Italian Lega Basket Serie A + Lamar Stevens → KK Partizan",
+   "detected_at": "2026-09-26 09:08:25",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Italian Lega Basket Serie A + Ethan Thompson → KK Partizan",
+   "detected_at": "2026-09-26 09:08:25",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Italian Lega Basket Serie A + Carlik Jones → KK Partizan",
+   "detected_at": "2026-09-26 09:08:25",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Italian Lega Basket Serie A + Tonye Jekiri → KK Partizan",
+   "detected_at": "2026-09-26 09:08:25",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Italian Lega Basket Serie A + Luca Vildoza → KK Partizan",
+   "detected_at": "2026-09-26 09:08:25",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Italian Lega Basket Serie A + Nikola Tanaskovic → KK Partizan",
+   "detected_at": "2026-09-26 09:08:25",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Italian Lega Basket Serie A + Alessandro Pajola → KK Partizan",
+   "detected_at": "2026-09-26 09:08:25",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Italian Lega Basket Serie A + Kyle Allman, Jr. → KK Partizan",
+   "detected_at": "2026-09-26 09:08:25",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Italian Lega Basket Serie A + Arijan Lakic → KK Partizan",
+   "detected_at": "2026-09-26 09:08:25",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Italian Lega Basket Serie A KK Partizan 92, AX Armani Exchange Milan 76",
+   "detected_at": "2026-09-26 09:08:25",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-25/AX-Armani-Exchange-Milan-at-KK-Partizan/526659"
+  },
+  {
+   "detail": "Hungarian NBIA + Bogdan Benedek → Oroszlanyi Sporteglet E Lions",
+   "detected_at": "2026-09-26 09:08:22",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Hungarian NBIA + Kedrian Johnson → Oroszlanyi Sporteglet E Lions",
+   "detected_at": "2026-09-26 09:08:22",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Hungarian NBIA + Ray Harrison → Oroszlanyi Sporteglet E Lions",
+   "detected_at": "2026-09-26 09:08:22",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Hungarian NBIA + Dusan Stojicic → Oroszlanyi Sporteglet E Lions",
+   "detected_at": "2026-09-26 09:08:22",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Hungarian NBIA + Adam Balsay → Oroszlanyi Sporteglet E Lions",
+   "detected_at": "2026-09-26 09:08:22",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Hungarian NBIA + Peter Csendes → Oroszlanyi Sporteglet E Lions",
+   "detected_at": "2026-09-26 09:08:22",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Hungarian NBIA + Peter Zsiros → Oroszlanyi Sporteglet E Lions",
+   "detected_at": "2026-09-26 09:08:22",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Hungarian NBIA + Viktor Kristyak → Oroszlanyi Sporteglet E Lions",
+   "detected_at": "2026-09-26 09:08:22",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Hungarian NBIA + Laszlo Levente Kupai → Oroszlanyi Sporteglet E Lions",
+   "detected_at": "2026-09-26 09:08:22",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Hungarian NBIA + Joe Reece → Oroszlanyi Sporteglet E Lions",
+   "detected_at": "2026-09-26 09:08:22",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Hungarian NBIA + Khalil Brantley → NHSZ Szolnoki Olajbanyasz",
+   "detected_at": "2026-09-26 09:08:22",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Hungarian NBIA + Botond Cseh → NHSZ Szolnoki Olajbanyasz",
+   "detected_at": "2026-09-26 09:08:22",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Hungarian NBIA + Chevez Goodwin → NHSZ Szolnoki Olajbanyasz",
+   "detected_at": "2026-09-26 09:08:22",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Hungarian NBIA + Boris Krnjajski → NHSZ Szolnoki Olajbanyasz",
+   "detected_at": "2026-09-26 09:08:22",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Hungarian NBIA + Thor Bjerregard → NHSZ Szolnoki Olajbanyasz",
+   "detected_at": "2026-09-26 09:08:22",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Hungarian NBIA + Josh Pierre-Louis → NHSZ Szolnoki Olajbanyasz",
+   "detected_at": "2026-09-26 09:08:22",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Hungarian NBIA + Auston Barnes → NHSZ Szolnoki Olajbanyasz",
+   "detected_at": "2026-09-26 09:08:22",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Hungarian NBIA + Marton Molnar → NHSZ Szolnoki Olajbanyasz",
+   "detected_at": "2026-09-26 09:08:22",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Hungarian NBIA + Tamas Pallai → NHSZ Szolnoki Olajbanyasz",
+   "detected_at": "2026-09-26 09:08:22",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Hungarian NBIA + Gabor Rudner → NHSZ Szolnoki Olajbanyasz",
+   "detected_at": "2026-09-26 09:08:22",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Hungarian NBIA + David Tamas → NHSZ Szolnoki Olajbanyasz",
+   "detected_at": "2026-09-26 09:08:22",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Hungarian NBIA NHSZ Szolnoki Olajbanyasz 104, Oroszlanyi Sporteglet E Lions 93",
+   "detected_at": "2026-09-26 09:08:22",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-25/Oroszlanyi-Sporteglet-E-Lions-at-NHSZ-Szolnoki-Olajbanyasz/533878"
+  },
+  {
+   "detail": "Hungarian NBIA Alba Fehervar 96, Egis Kormend 77",
+   "detected_at": "2026-09-26 09:08:20",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-25/Egis-Kormend-at-Alba-Fehervar/533882"
+  },
+  {
+   "detail": "Hungarian NBIA + Eric Cohill → Egis Kormend",
+   "detected_at": "2026-09-26 09:08:19",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Hungarian NBIA + Xavier Cork → Egis Kormend",
+   "detected_at": "2026-09-26 09:08:19",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Hungarian NBIA + U.C. Iroegbu → Egis Kormend",
+   "detected_at": "2026-09-26 09:08:19",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Hungarian NBIA + Marques Warrick → Egis Kormend",
+   "detected_at": "2026-09-26 09:08:19",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Hungarian NBIA + Krisztofer Durazi → Egis Kormend",
+   "detected_at": "2026-09-26 09:08:19",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Hungarian NBIA + Zalan Bartik → Egis Kormend",
+   "detected_at": "2026-09-26 09:08:19",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Hungarian NBIA + Kristof Takacs → Egis Kormend",
+   "detected_at": "2026-09-26 09:08:19",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Hungarian NBIA + Matyas Kiss → Egis Kormend",
+   "detected_at": "2026-09-26 09:08:19",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Hungarian NBIA + Ivosev Tamas → Egis Kormend",
+   "detected_at": "2026-09-26 09:08:19",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Hungarian NBIA + Kornel Csuti → Egis Kormend",
+   "detected_at": "2026-09-26 09:08:19",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Hungarian NBIA + Bojan Subotic → Alba Fehervar",
+   "detected_at": "2026-09-26 09:08:19",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Hungarian NBIA + Joshua Scott → Alba Fehervar",
+   "detected_at": "2026-09-26 09:08:19",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Hungarian NBIA + Mladen Vujic → Alba Fehervar",
+   "detected_at": "2026-09-26 09:08:19",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Hungarian NBIA + Marcell Pongo → Alba Fehervar",
+   "detected_at": "2026-09-26 09:08:19",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Hungarian NBIA + Bulcsu Major → Alba Fehervar",
+   "detected_at": "2026-09-26 09:08:19",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Hungarian NBIA + Gergo Meleg → Alba Fehervar",
+   "detected_at": "2026-09-26 09:08:19",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Hungarian NBIA + Stefan Filipovic → Alba Fehervar",
+   "detected_at": "2026-09-26 09:08:19",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Hungarian NBIA + Martin Takacs → Alba Fehervar",
+   "detected_at": "2026-09-26 09:08:19",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Hungarian NBIA + David Vojvoda → Alba Fehervar",
+   "detected_at": "2026-09-26 09:08:19",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Hungarian NBIA + Mate Parkanyi → Alba Fehervar",
+   "detected_at": "2026-09-26 09:08:19",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Hungarian NBIA Sopron KC 100, DEAC 82",
+   "detected_at": "2026-09-26 09:08:17",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-25/DEAC-at-Sopron-KC/533883"
+  },
+  {
+   "detail": "Hungarian NBIA + Jorden Duffy → DEAC",
+   "detected_at": "2026-09-26 09:08:16",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Hungarian NBIA + Zachary Simmons → DEAC",
+   "detected_at": "2026-09-26 09:08:16",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Hungarian NBIA + Dimitrius Underwood → DEAC",
+   "detected_at": "2026-09-26 09:08:16",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Hungarian NBIA + Akos Bence Kovacs → DEAC",
+   "detected_at": "2026-09-26 09:08:16",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Hungarian NBIA + Balint Mocsan → DEAC",
+   "detected_at": "2026-09-26 09:08:16",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Hungarian NBIA + Brandon Horvath → DEAC",
+   "detected_at": "2026-09-26 09:08:16",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Hungarian NBIA + Botond Flasar → DEAC",
+   "detected_at": "2026-09-26 09:08:16",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Hungarian NBIA + Csongor Fekete-Gal → DEAC",
+   "detected_at": "2026-09-26 09:08:16",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Hungarian NBIA + Patrik Hogye → DEAC",
+   "detected_at": "2026-09-26 09:08:16",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Hungarian NBIA + Ferenc Varga → DEAC",
+   "detected_at": "2026-09-26 09:08:16",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Hungarian NBIA + Robert Ford III → Sopron KC",
+   "detected_at": "2026-09-26 09:08:16",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Hungarian NBIA + Peter Hajdu → Sopron KC",
+   "detected_at": "2026-09-26 09:08:16",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Hungarian NBIA + Daniel Kucsera → Sopron KC",
+   "detected_at": "2026-09-26 09:08:16",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Hungarian NBIA + Robert Meszlenyi → Sopron KC",
+   "detected_at": "2026-09-26 09:08:16",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Hungarian NBIA + Thomas Bryant Ragland → Sopron KC",
+   "detected_at": "2026-09-26 09:08:16",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Hungarian NBIA + Domonkos Kelenfoldi → Sopron KC",
+   "detected_at": "2026-09-26 09:08:16",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Hungarian NBIA + Andras Rujak → Sopron KC",
+   "detected_at": "2026-09-26 09:08:16",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Hungarian NBIA + Trey Wertz → Sopron KC",
+   "detected_at": "2026-09-26 09:08:16",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Hungarian NBIA + Bendeguz Keller → Sopron KC",
+   "detected_at": "2026-09-26 09:08:16",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + Nikola Mirotic → Valencia Basket",
+   "detected_at": "2026-09-26 09:08:14",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + Jasiel Rivero → Valencia Basket",
+   "detected_at": "2026-09-26 09:08:14",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + Neal Sako → Valencia Basket",
+   "detected_at": "2026-09-26 09:08:14",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + Ante Zizic → Besiktas Icrypex",
+   "detected_at": "2026-09-26 09:08:14",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + Jaylen Nowell → Besiktas Icrypex",
+   "detected_at": "2026-09-26 09:08:14",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + DaQuan Jeffries → Besiktas Icrypex",
+   "detected_at": "2026-09-26 09:08:14",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + David DeJulius → Besiktas Icrypex",
+   "detected_at": "2026-09-26 09:08:14",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + Eugene Omoruyi → Besiktas Icrypex",
+   "detected_at": "2026-09-26 09:08:14",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + Anthony Brown → Besiktas Icrypex",
+   "detected_at": "2026-09-26 09:08:14",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + Scottie Wilbekin → Besiktas Icrypex",
+   "detected_at": "2026-09-26 09:08:14",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + Berk Ugurlu → Besiktas Icrypex",
+   "detected_at": "2026-09-26 09:08:14",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + Conor Morgan → Besiktas Icrypex",
+   "detected_at": "2026-09-26 09:08:14",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + Wenyen Gabriel → Besiktas Icrypex",
+   "detected_at": "2026-09-26 09:08:14",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + Devon Dotson → Besiktas Icrypex",
+   "detected_at": "2026-09-26 09:08:14",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB Valencia Basket 96, Besiktas Icrypex 94",
+   "detected_at": "2026-09-26 09:08:14",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-25/Valencia-Basket-at-Besiktas-Icrypex/526657"
+  },
+  {
+   "detail": "Estonian Latvian Basketball League + Ivan Tkachenko → Rigas Zelli",
+   "detected_at": "2026-09-26 09:08:11",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Estonian Latvian Basketball League + Isaac Johnson → Rigas Zelli",
+   "detected_at": "2026-09-26 09:08:11",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Estonian Latvian Basketball League + Ben Shungu → Rigas Zelli",
+   "detected_at": "2026-09-26 09:08:11",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Estonian Latvian Basketball League + Kristians Feierbergs → Rigas Zelli",
+   "detected_at": "2026-09-26 09:08:11",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Estonian Latvian Basketball League + Rolands Sulcs → Rigas Zelli",
+   "detected_at": "2026-09-26 09:08:11",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Estonian Latvian Basketball League + Janis Berzins → Rigas Zelli",
+   "detected_at": "2026-09-26 09:08:11",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Estonian Latvian Basketball League + Martynas Varnas → Rigas Zelli",
+   "detected_at": "2026-09-26 09:08:11",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Estonian Latvian Basketball League + Tony Perkins → Rigas Zelli",
+   "detected_at": "2026-09-26 09:08:11",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Estonian Latvian Basketball League + Tyler Wahl → Rigas Zelli",
+   "detected_at": "2026-09-26 09:08:11",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Estonian Latvian Basketball League + Kristers Kikusts → Rigas Zelli",
+   "detected_at": "2026-09-26 09:08:11",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Estonian Latvian Basketball League + Tomas Talcis → Rigas Zelli",
+   "detected_at": "2026-09-26 09:08:11",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Estonian Latvian Basketball League + Ritvars Nikolajevs → Rigas Zelli",
+   "detected_at": "2026-09-26 09:08:11",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Estonian Latvian Basketball League + Rait-Riivo Laane → Keila Coolbet",
+   "detected_at": "2026-09-26 09:08:11",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Estonian Latvian Basketball League + Peteris Salmins → Keila Coolbet",
+   "detected_at": "2026-09-26 09:08:11",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Estonian Latvian Basketball League + Seth Chargois → Keila Coolbet",
+   "detected_at": "2026-09-26 09:08:11",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Estonian Latvian Basketball League + Jordan Tillmon → Keila Coolbet",
+   "detected_at": "2026-09-26 09:08:11",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Estonian Latvian Basketball League + Christopher Lenk → Keila Coolbet",
+   "detected_at": "2026-09-26 09:08:11",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Estonian Latvian Basketball League + Meiko Lindeberg → Keila Coolbet",
+   "detected_at": "2026-09-26 09:08:11",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Estonian Latvian Basketball League + Kermo Sepik → Keila Coolbet",
+   "detected_at": "2026-09-26 09:08:11",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Estonian Latvian Basketball League + Marten Midri → Keila Coolbet",
+   "detected_at": "2026-09-26 09:08:11",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Estonian Latvian Basketball League Rigas Zelli 94, Keila Coolbet 71",
+   "detected_at": "2026-09-26 09:08:11",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-25/Rigas-Zelli-at-Keila-Coolbet/535351"
+  },
+  {
+   "detail": "Estonian Latvian Basketball League + Kristofers Karlsons → BK Ventspils",
+   "detected_at": "2026-09-26 09:08:08",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Estonian Latvian Basketball League + Kristen Kasemets → BK Ventspils",
+   "detected_at": "2026-09-26 09:08:08",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Estonian Latvian Basketball League + Romelle Mansel → BK Ventspils",
+   "detected_at": "2026-09-26 09:08:08",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Estonian Latvian Basketball League + Ronalds Zakis → BK Ventspils",
+   "detected_at": "2026-09-26 09:08:08",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Estonian Latvian Basketball League + Ronnie DeGray III → BK Ventspils",
+   "detected_at": "2026-09-26 09:08:08",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Estonian Latvian Basketball League + Bogdan Brinyuk → BK Ventspils",
+   "detected_at": "2026-09-26 09:08:08",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Estonian Latvian Basketball League + Isaiah Burnett → BK Ventspils",
+   "detected_at": "2026-09-26 09:08:08",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Estonian Latvian Basketball League + Toms Salnajs → BK Ventspils",
+   "detected_at": "2026-09-26 09:08:08",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Estonian Latvian Basketball League + Arturs Ausejs → BK Ventspils",
+   "detected_at": "2026-09-26 09:08:08",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Estonian Latvian Basketball League + Janis Censonis → BK Ventspils",
+   "detected_at": "2026-09-26 09:08:08",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Estonian Latvian Basketball League + Jekabs Graudins → BK Ventspils",
+   "detected_at": "2026-09-26 09:08:08",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Estonian Latvian Basketball League Valmiera Glass Via 98, BK Ventspils 76",
+   "detected_at": "2026-09-26 09:08:08",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-25/BK-Ventspils-at-Valmiera-Glass-Via/535349"
+  },
+  {
+   "detail": "German BBL + Jan Razdevsek → Phoenix Hagen",
+   "detected_at": "2026-09-26 09:08:05",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "German BBL Ratiopharm Ulm 93, Phoenix Hagen 78",
+   "detected_at": "2026-09-26 09:08:05",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-25/Ratiopharm-Ulm-at-Phoenix-Hagen/528543"
+  },
+  {
+   "detail": "German BBL Gladiators Trier 106, Telekom Baskets Bonn 80",
+   "detected_at": "2026-09-26 09:08:03",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-25/Telekom-Baskets-Bonn-at-Gladiators-Trier/528542"
+  },
+  {
+   "detail": "Japanese BLeague + Matt Costello → Chiba Jets",
+   "detected_at": "2026-09-26 09:08:00",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Yuta Watanabe → Chiba Jets",
+   "detected_at": "2026-09-26 09:08:00",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Nate Williams, Jr. → Chiba Jets",
+   "detected_at": "2026-09-26 09:08:00",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Riku Segawa → Chiba Jets",
+   "detected_at": "2026-09-26 09:08:00",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Takumi Sato → Chiba Jets",
+   "detected_at": "2026-09-26 09:08:00",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Nyika Williams → Chiba Jets",
+   "detected_at": "2026-09-26 09:08:00",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Yuki Togashi → Chiba Jets",
+   "detected_at": "2026-09-26 09:08:00",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Shuta Hara → Chiba Jets",
+   "detected_at": "2026-09-26 09:08:00",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Ren Kanechika → Chiba Jets",
+   "detected_at": "2026-09-26 09:08:00",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Luke Maye → Chiba Jets",
+   "detected_at": "2026-09-26 09:08:00",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Josh Hawkinson → Hitachi Sun Rockers",
+   "detected_at": "2026-09-26 09:08:00",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Rawle Alkins → Hitachi Sun Rockers",
+   "detected_at": "2026-09-26 09:08:00",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Bryson Williams → Hitachi Sun Rockers",
+   "detected_at": "2026-09-26 09:08:00",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + John Harper → Hitachi Sun Rockers",
+   "detected_at": "2026-09-26 09:08:00",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Ibu Yamazaki → Hitachi Sun Rockers",
+   "detected_at": "2026-09-26 09:08:00",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Daiki Tanaka → Hitachi Sun Rockers",
+   "detected_at": "2026-09-26 09:08:00",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Donte Grantham → Hitachi Sun Rockers",
+   "detected_at": "2026-09-26 09:08:00",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Leo Vendrame → Hitachi Sun Rockers",
+   "detected_at": "2026-09-26 09:08:00",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Toyo Kano → Hitachi Sun Rockers",
+   "detected_at": "2026-09-26 09:08:00",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Sogo Yamagiwa → Hitachi Sun Rockers",
+   "detected_at": "2026-09-26 09:08:00",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague Chiba Jets 97, Hitachi Sun Rockers 92",
+   "detected_at": "2026-09-26 09:08:00",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-25/Chiba-Jets-at-Hitachi-Sun-Rockers/523880"
+  },
+  {
+   "detail": "Japanese BLeague + Zach Auguste → Shiga Lakestars",
+   "detected_at": "2026-09-26 09:07:57",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Ryan Kriener → Shiga Lakestars",
+   "detected_at": "2026-09-26 09:07:57",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Taiki Okada → Shiga Lakestars",
+   "detected_at": "2026-09-26 09:07:57",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Daichi Nomoto → Shiga Lakestars",
+   "detected_at": "2026-09-26 09:07:57",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Xavier Sneed → Shiga Lakestars",
+   "detected_at": "2026-09-26 09:07:57",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Shintaro Ehara → Shiga Lakestars",
+   "detected_at": "2026-09-26 09:07:57",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + AC Yu → Shiga Lakestars",
+   "detected_at": "2026-09-26 09:07:57",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Hayate Komasawa → Shiga Lakestars",
+   "detected_at": "2026-09-26 09:07:57",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Tyrell Taku Sudo → Shiga Lakestars",
+   "detected_at": "2026-09-26 09:07:57",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Yosei Nishida → Shiga Lakestars",
+   "detected_at": "2026-09-26 09:07:57",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Tahara Takanori → Shiga Lakestars",
+   "detected_at": "2026-09-26 09:07:57",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Charles Jackson → Kyoto Hannaryz",
+   "detected_at": "2026-09-26 09:07:57",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Satoru Maeta → Kyoto Hannaryz",
+   "detected_at": "2026-09-26 09:07:57",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Ryunosuke Watanabe → Kyoto Hannaryz",
+   "detected_at": "2026-09-26 09:07:57",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Angelo Caloiaro → Kyoto Hannaryz",
+   "detected_at": "2026-09-26 09:07:57",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Demetre Rivers → Kyoto Hannaryz",
+   "detected_at": "2026-09-26 09:07:57",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Alex Hall Mone → Kyoto Hannaryz",
+   "detected_at": "2026-09-26 09:07:57",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Kanta Mizuno → Kyoto Hannaryz",
+   "detected_at": "2026-09-26 09:07:57",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Reon Shibuta → Kyoto Hannaryz",
+   "detected_at": "2026-09-26 09:07:57",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Shuma Nishibe → Kyoto Hannaryz",
+   "detected_at": "2026-09-26 09:07:57",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Ryuichi Kishimoto → Kyoto Hannaryz",
+   "detected_at": "2026-09-26 09:07:57",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Hayato Kawashima → Kyoto Hannaryz",
+   "detected_at": "2026-09-26 09:07:57",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Michael Phillips → Kyoto Hannaryz",
+   "detected_at": "2026-09-26 09:07:57",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague Kyoto Hannaryz 95, Shiga Lakestars 94",
+   "detected_at": "2026-09-26 09:07:57",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-25/Shiga-Lakestars-at-Kyoto-Hannaryz/523881"
+  },
+  {
+   "detail": "Japanese BLeague + Chris Smith → Hiroshima Dragonflies",
+   "detected_at": "2026-09-26 09:07:54",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Dwayne Evans → Hiroshima Dragonflies",
+   "detected_at": "2026-09-26 09:07:54",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Kofi Cockburn → Hiroshima Dragonflies",
+   "detected_at": "2026-09-26 09:07:54",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Ryosei Sato → Hiroshima Dragonflies",
+   "detected_at": "2026-09-26 09:07:54",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Nick Mayo → Hiroshima Dragonflies",
+   "detected_at": "2026-09-26 09:07:54",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Ito Tatsuya → Hiroshima Dragonflies",
+   "detected_at": "2026-09-26 09:07:54",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Kaine Roberts → Hiroshima Dragonflies",
+   "detected_at": "2026-09-26 09:07:54",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Ryo Yamazaki → Hiroshima Dragonflies",
+   "detected_at": "2026-09-26 09:07:54",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Haruya Matsuno → Hiroshima Dragonflies",
+   "detected_at": "2026-09-26 09:07:54",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Kevin Hareyama → Hiroshima Dragonflies",
+   "detected_at": "2026-09-26 09:07:54",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Keijiro Mitani → Hiroshima Dragonflies",
+   "detected_at": "2026-09-26 09:07:54",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Dave Dudzinski → Saga Ballooners",
+   "detected_at": "2026-09-26 09:07:54",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Damyean Dotson → Saga Ballooners",
+   "detected_at": "2026-09-26 09:07:54",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Nassir Little → Saga Ballooners",
+   "detected_at": "2026-09-26 09:07:54",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Ryo Abe → Saga Ballooners",
+   "detected_at": "2026-09-26 09:07:54",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Taiki Sumida → Saga Ballooners",
+   "detected_at": "2026-09-26 09:07:54",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Atsuki Kishida → Saga Ballooners",
+   "detected_at": "2026-09-26 09:07:54",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Derrick Xzavierro → Saga Ballooners",
+   "detected_at": "2026-09-26 09:07:54",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Toshiki Tomiyama → Saga Ballooners",
+   "detected_at": "2026-09-26 09:07:54",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Ryota Inoue → Saga Ballooners",
+   "detected_at": "2026-09-26 09:07:54",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Sori Uchio → Saga Ballooners",
+   "detected_at": "2026-09-26 09:07:54",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague Hiroshima Dragonflies 100, Saga Ballooners 87",
+   "detected_at": "2026-09-26 09:07:54",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-25/Hiroshima-Dragonflies-at-Saga-Ballooners/523882"
+  },
+  {
+   "detail": "Japanese BLeague + James McAdoo → Shimane Susanoo Magic",
+   "detected_at": "2026-09-26 09:07:51",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague Shimane Susanoo Magic 85, Nagasaki Velca 78",
+   "detected_at": "2026-09-26 09:07:51",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-25/Shimane-Susanoo-Magic-at-Nagasaki-Velca/523883"
+  },
+  {
+   "detail": "Japanese BLeague Sanen Neophoenix 90, Ibaraki Robots 82",
+   "detected_at": "2026-09-26 09:07:49",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-25/Sanen-Neophoenix-at-Ibaraki-Robots/523879"
+  },
+  {
+   "detail": "Japanese BLeague + Vitto Brown → Sanen Neophoenix",
+   "detected_at": "2026-09-26 09:07:48",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Josh Harrellson → Sanen Neophoenix",
+   "detected_at": "2026-09-26 09:07:48",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Terence Davis → Sanen Neophoenix",
+   "detected_at": "2026-09-26 09:07:48",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Ryusei Sasaki → Sanen Neophoenix",
+   "detected_at": "2026-09-26 09:07:48",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Kazuma Tsuya → Sanen Neophoenix",
+   "detected_at": "2026-09-26 09:07:48",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Jake Van Tubbergen → Sanen Neophoenix",
+   "detected_at": "2026-09-26 09:07:48",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Hikaru Futagami → Sanen Neophoenix",
+   "detected_at": "2026-09-26 09:07:48",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Hayato Wakugawa → Sanen Neophoenix",
+   "detected_at": "2026-09-26 09:07:48",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Tatsumi Yu → Sanen Neophoenix",
+   "detected_at": "2026-09-26 09:07:48",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Dai Nemoto → Sanen Neophoenix",
+   "detected_at": "2026-09-26 09:07:48",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Timothy Soares → Ibaraki Robots",
+   "detected_at": "2026-09-26 09:07:48",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Noboru Hasegawa → Ibaraki Robots",
+   "detected_at": "2026-09-26 09:07:48",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Vic Law → Ibaraki Robots",
+   "detected_at": "2026-09-26 09:07:48",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Hirotaka Yoshii → Ibaraki Robots",
+   "detected_at": "2026-09-26 09:07:48",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Reo Maeda → Ibaraki Robots",
+   "detected_at": "2026-09-26 09:07:48",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Ray Parks → Ibaraki Robots",
+   "detected_at": "2026-09-26 09:07:48",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Finn Delany → Ibaraki Robots",
+   "detected_at": "2026-09-26 09:07:48",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Hyu Watanabe → Ibaraki Robots",
+   "detected_at": "2026-09-26 09:07:48",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Kohei Fukuzawa → Ibaraki Robots",
+   "detected_at": "2026-09-26 09:07:48",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Ruu Jingaoka → Ibaraki Robots",
+   "detected_at": "2026-09-26 09:07:48",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Kento Akama → Ibaraki Robots",
+   "detected_at": "2026-09-26 09:07:48",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Australian NBL Perth 97, New Zealand 93",
+   "detected_at": "2026-09-26 09:07:45",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-26/New-Zealand-at-Perth/524270"
+  },
+  {
+   "detail": "Australian NBL + Marley Sam → Perth",
+   "detected_at": "2026-09-26 09:07:44",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Drew Timme  ~ team: Free agent -> Minnesota Timberwolves",
+   "detected_at": "2026-09-26 09:07:39",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Drew_Timme"
+  },
+  {
+   "detail": "Jahmir Young  ~ team: Free agent -> South Bay Lakers",
+   "detected_at": "2026-09-26 09:07:39",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jahmir_Young"
+  },
+  {
+   "detail": "Jahmir Young  ~ league: - -> NBA G League",
+   "detected_at": "2026-09-26 09:07:39",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jahmir_Young"
+  },
+  {
+   "detail": "Jahmir Young  ~ CAREER  + 2026–present South Bay Lakers",
+   "detected_at": "2026-09-26 09:07:39",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Jahmir_Young"
+  },
+  {
+   "detail": "Miles Kelly  ~ team: Texas Legends -> Santa Cruz Warriors",
+   "detected_at": "2026-09-26 09:07:39",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Miles_Kelly"
+  },
+  {
+   "detail": "Miles Kelly  ~ position: Shooting guard -> Shooting guard / point guard",
+   "detected_at": "2026-09-26 09:07:39",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Miles_Kelly"
+  },
+  {
+   "detail": "Miles Kelly  ~ number: 14 -> -",
+   "detected_at": "2026-09-26 09:07:39",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Miles_Kelly"
+  },
+  {
+   "detail": "Miles Kelly  ~ CAREER  + 2025–2026 Texas Legends",
+   "detected_at": "2026-09-26 09:07:39",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Miles_Kelly"
+  },
+  {
+   "detail": "Miles Kelly  ~ CAREER  + 2026–present Santa Cruz Warriors",
+   "detected_at": "2026-09-26 09:07:39",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Miles_Kelly"
+  },
+  {
+   "detail": "Kylor Kelley  ~ team: Free agent -> Sioux Falls Skyforce",
+   "detected_at": "2026-09-26 09:07:39",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kylor_Kelley"
+  },
+  {
+   "detail": "Kylor Kelley  ~ league: - -> NBA G League",
+   "detected_at": "2026-09-26 09:07:39",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kylor_Kelley"
+  },
+  {
+   "detail": "Kylor Kelley  ~ CAREER  + 2026–present Sioux Falls Skyforce",
+   "detected_at": "2026-09-26 09:07:39",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Kylor_Kelley"
+  },
+  {
+   "detail": "Isaac Bonga  ~ position: Small forward / power forward -> Small forward",
+   "detected_at": "2026-09-26 09:07:39",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Isaac_Bonga"
+  },
+  {
+   "detail": "Quincy Olivari  ~ CAREER  + 2026–present Aquila Basket Trento",
+   "detected_at": "2026-09-26 09:07:39",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Quincy_Olivari"
+  },
+  {
+   "detail": "Tyler Hall (basketball)  ~ height_in: 4 -> 5",
+   "detected_at": "2026-09-26 09:07:39",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Tyler_Hall_(basketball)"
+  },
+  {
+   "detail": "Olivier Hanlan  ~ number: - -> 21",
+   "detected_at": "2026-09-26 09:07:39",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Olivier_Hanlan"
+  },
+  {
+   "detail": "Yiğit Onan  ~ number: - -> 7",
+   "detected_at": "2026-09-26 09:07:39",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Yi%C4%9Fit_Onan"
+  },
+  {
+   "detail": "Gary Browne (basketball)  ~ number: - -> 14",
+   "detected_at": "2026-09-26 09:07:39",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Gary_Browne_(basketball)"
+  },
+  {
+   "detail": "Nelly Junior Joseph  ~ league: Greek Basketball League -> GBL",
+   "detected_at": "2026-09-26 09:07:39",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Nelly_Junior_Joseph"
+  },
+  {
+   "detail": "Nelly Junior Joseph  ~ position: Power forward / center -> Power forward",
+   "detected_at": "2026-09-26 09:07:39",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Nelly_Junior_Joseph"
+  },
+  {
+   "detail": "Lefteris Mantzoukas  ~ CAREER  + 2024 →Aris Thessaloniki",
+   "detected_at": "2026-09-26 09:07:39",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Lefteris_Mantzoukas"
+  },
+  {
+   "detail": "Nikos Diplaros  ~ CAREER  + 2015–2017 Aris Thessaloniki",
+   "detected_at": "2026-09-26 09:07:39",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Nikos_Diplaros"
+  },
+  {
+   "detail": "Nikos Diplaros  ~ CAREER  + 2026—present Promitheas Patras",
+   "detected_at": "2026-09-26 09:07:39",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Nikos_Diplaros"
+  },
+  {
+   "detail": "Donovan Williams (basketball)  ~ CAREER  + 2026 Al Ahly Ly",
+   "detected_at": "2026-09-26 09:07:38",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Donovan_Williams_(basketball)"
+  },
+  {
+   "detail": "Guerschon Yabusele  ~ position: Power forward -> Center / power forward",
+   "detected_at": "2026-09-26 09:07:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Guerschon_Yabusele"
+  },
+  {
+   "detail": "2026-09-25  Traded: Keyontae Johnson (Raptors)",
+   "detected_at": "2026-09-26 09:00:43",
+   "source": "GLEAGUE",
+   "type": "Trade"
+  },
+  {
+   "detail": "2026-09-25  Traded: Jarkel Joiner (Swarm)",
+   "detected_at": "2026-09-26 09:00:43",
+   "source": "GLEAGUE",
+   "type": "Trade"
+  },
+  {
+   "detail": "2026-09-25  Traded: Kylor Kelley (Skyforce)",
+   "detected_at": "2026-09-26 09:00:43",
+   "source": "GLEAGUE",
+   "type": "Trade"
+  },
+  {
+   "detail": "2026-09-25  Traded: Jahmir Young (Lakers)",
+   "detected_at": "2026-09-26 09:00:43",
+   "source": "GLEAGUE",
+   "type": "Trade"
+  },
+  {
+   "detail": "2026-09-25  Traded: Hason Ward (Swarm)",
+   "detected_at": "2026-09-26 09:00:43",
+   "source": "GLEAGUE",
+   "type": "Trade"
+  },
+  {
+   "detail": "2026-09-25  Traded: Pedro Bradshaw (Gold)",
+   "detected_at": "2026-09-26 09:00:43",
+   "source": "GLEAGUE",
+   "type": "Trade"
+  },
+  {
+   "detail": "2026-09-25  Traded: Caleb Grill (Celtics)",
+   "detected_at": "2026-09-26 09:00:43",
+   "source": "GLEAGUE",
+   "type": "Trade"
+  },
+  {
+   "detail": "2026-09-25  Traded: Jaden Seymour (Swarm)",
+   "detected_at": "2026-09-26 09:00:43",
+   "source": "GLEAGUE",
+   "type": "Trade"
+  },
+  {
+   "detail": "2026-09-25  Traded: Giorgi Bezhanishvili (Skyhawks)",
+   "detected_at": "2026-09-26 09:00:43",
+   "source": "GLEAGUE",
+   "type": "Trade"
+  },
+  {
+   "detail": "2026-09-25  Traded: Mouhamadou Gueye (Hustle)",
+   "detected_at": "2026-09-26 09:00:43",
+   "source": "GLEAGUE",
+   "type": "Trade"
+  },
+  {
+   "detail": "2026-09-25  Traded: Ryan Woolridge (Herd)",
+   "detected_at": "2026-09-26 09:00:43",
+   "source": "GLEAGUE",
+   "type": "Trade"
+  },
+  {
+   "detail": "2026-09-25  Traded: Tyler Polley (Bulls)",
+   "detected_at": "2026-09-26 09:00:43",
+   "source": "GLEAGUE",
+   "type": "Trade"
+  },
+  {
+   "detail": "2026-09-25  Traded: Orlando Robinson (Bulls)",
+   "detected_at": "2026-09-26 09:00:43",
+   "source": "GLEAGUE",
+   "type": "Trade"
+  },
+  {
+   "detail": "2026-09-25  Traded: Kira Lewis Jr (Hustle)",
+   "detected_at": "2026-09-26 09:00:43",
+   "source": "GLEAGUE",
+   "type": "Trade"
+  },
+  {
+   "detail": "2026-09-25  Traded: Jordan Bowden (Hustle)",
+   "detected_at": "2026-09-26 09:00:43",
+   "source": "GLEAGUE",
+   "type": "Trade"
+  },
+  {
    "detail": "Tyson Etienne  ~ number: 10 -> 9",
    "detected_at": "2026-09-25 23:08:40",
    "source": "WIKI",
@@ -8150,1737 +10137,6 @@
    "detected_at": "2026-09-22 14:26:55",
    "source": "TRANSACTIONS",
    "type": "Waive"
-  },
-  {
-   "detail": "2026-09-21  Golden State Warriors waived  Obi Agbim.",
-   "detected_at": "2026-09-22 14:26:55",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
-  },
-  {
-   "detail": "Nadir Hifi  ~ 171599: team -> -",
-   "detected_at": "2026-09-22 14:03:52",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "Paris Basketball"
-  },
-  {
-   "detail": "Nadir Hifi  ~ 171599: league -> -",
-   "detected_at": "2026-09-22 14:03:52",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "LNB Élite EuroLeague"
-  },
-  {
-   "detail": "Nadir Hifi  ~ 171599: position -> -",
-   "detected_at": "2026-09-22 14:03:52",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "Shooting guard / point guard"
-  },
-  {
-   "detail": "Nadir Hifi  ~ 171599: number -> -",
-   "detected_at": "2026-09-22 14:03:52",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "2"
-  },
-  {
-   "detail": "Nadir Hifi  ~ 171599: (page changed) -> -",
-   "detected_at": "2026-09-22 14:03:52",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": ""
-  },
-  {
-   "detail": "Ryan Nembhard  ~ team: Charlotte Hornets -> Atlanta Hawks",
-   "detected_at": "2026-09-22 14:03:36",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Ryan_Nembhard"
-  },
-  {
-   "detail": "Ryan Nembhard  ~ number: - -> 19",
-   "detected_at": "2026-09-22 14:03:36",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Ryan_Nembhard"
-  },
-  {
-   "detail": "+ ADDED   Jordan Riley (DET)",
-   "detected_at": "2026-09-22 13:46:04",
-   "source": "PLAYERS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-09-22  Miami Heat re-signed guard Pelle Larsson to a Veteran Extension.",
-   "detected_at": "2026-09-22 13:43:55",
-   "source": "TRANSACTIONS",
-   "type": "Signing"
-  },
-  {
-   "detail": "2026-09-22  Detroit Pistons re-signed guard Ausar Thompson to a Rookie Scale Extension.",
-   "detected_at": "2026-09-22 13:31:55",
-   "source": "TRANSACTIONS",
-   "type": "Signing"
-  },
-  {
-   "detail": "Ryan Nembhard  ~ team: Atlanta Hawks -> Charlotte Hornets",
-   "detected_at": "2026-09-22 13:17:36",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Ryan_Nembhard"
-  },
-  {
-   "detail": "Ryan Nembhard  ~ number: 19 -> -",
-   "detected_at": "2026-09-22 13:17:36",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Ryan_Nembhard"
-  },
-  {
-   "detail": "DaQuan Jeffries  ~ position: Small forward / power forward -> Small forward / shooting guard",
-   "detected_at": "2026-09-22 12:31:36",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/DaQuan_Jeffries"
-  },
-  {
-   "detail": "Cam Whitmore  ~ weight_lb: - -> 230",
-   "detected_at": "2026-09-22 12:31:36",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Cam_Whitmore"
-  },
-  {
-   "detail": "Mario Hezonja  ~ height_ft: - -> 6",
-   "detected_at": "2026-09-22 12:31:36",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Mario_Hezonja"
-  },
-  {
-   "detail": "Mario Hezonja  ~ height_in: - -> 8",
-   "detected_at": "2026-09-22 12:31:36",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Mario_Hezonja"
-  },
-  {
-   "detail": "Mario Hezonja  ~ weight_lb: - -> 220",
-   "detected_at": "2026-09-22 12:31:36",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Mario_Hezonja"
-  },
-  {
-   "detail": "+ ADDED   James Johnson (IND)",
-   "detected_at": "2026-09-22 11:52:54",
-   "source": "PLAYERS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "- REMOVED James Johnson (IND)",
-   "detected_at": "2026-09-22 11:48:54",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "+ ADDED   James Johnson (IND)",
-   "detected_at": "2026-09-22 11:47:55",
-   "source": "PLAYERS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "MIL  + ADDED  Stephens, Jake",
-   "detected_at": "2026-09-22 11:00:00",
-   "source": "SHEETS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "MIL  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 196402707.2 -> 197760470.2, col9: 492144728.6 -> 493502491.6",
-   "detected_at": "2026-09-22 11:00:00",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "MIL  CHANGED Players Under Contract  -  col3: 170770016.4 -> 172127779.4",
-   "detected_at": "2026-09-22 11:00:00",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "MIL  CHANGED Full Season Contracts  -  col3: 170770016.4 -> 172127779.4",
-   "detected_at": "2026-09-22 11:00:00",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "MIL  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 18 -> 19",
-   "detected_at": "2026-09-22 11:00:00",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  - REMOVED Update 1.3 (7/18/26): K. Lopez, K. Diop, J. Bradley, O. Agbim, J. Akins, J. Allick, D. Armstrong, W. Baker, A. Bandaogo, N. Boyd, L. Butler, D. Daniels, D. Garcia, C. Grill, J. Hadley, D. Higgs, C. Hildreth, M. Iraldi, N. Jourdain, M. Keita, K. Mangas, M. Mascari, R. Mast, C. McMillian, S. McNeil, I. Milicic, J. Moni, K. Murphy, D. Murray, M. Murrell, J. Nelson, J. Nunn, J. O’Neil, T. Okani, N. Pringle, E. Ralph, K. Reeves, D. Rodman, C. Ross, A. Scott, C. Shumate, D. Smith, K. Stewart, W. Taylor, S. Thomas, S. Thompson, C. Tilly, T. Townsend, P. Zilinskas",
-   "detected_at": "2026-09-22 10:59:57",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Update 1.3 (7/18/26): K. Lopez, K. Diop, J. Bradley, O. Agbim, J. Akins, J. Allick, D. Armstrong, W. Baker, A. Bandaogo, N. Boyd, L. Butler, D. Daniels, D. Garcia, C. Grill, J. Hadley, D. Higgs, C. Hildreth, M. Iraldi, N. Jourdain, M. Keita, K. Mangas, M. Mascari, R. Mast, C. McMillian, S. McNeil, I. Milicic, J. Moni, K. Murphy, D. Murray, M. Murrell, J. Nelson, J. Nunn, J. O’Neil, T. Okani, N. Pringle, E. Ralph, K. Reeves, D. Rodman, C. Ross, A. Scott, C. Shumate, D. Smith, J. Stephens, K. Stewart, W. Taylor, S. Thomas, S. Thompson, C. Tilly, T. Townsend, P. Zilinskas",
-   "detected_at": "2026-09-22 10:59:57",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Jake Stephens Milwaukee Bucks",
-   "detected_at": "2026-09-22 10:59:57",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  26-27 $1,357,763",
-   "detected_at": "2026-09-22 10:59:57",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
-   "detected_at": "2026-09-22 10:59:57",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 9/17/26",
-   "detected_at": "2026-09-22 10:59:57",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "LAL  + ADDED  Johnson, Meechie",
-   "detected_at": "2026-09-22 10:51:58",
-   "source": "SHEETS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "LAL  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 203800385 -> 205158148, col9: 695372921.5 -> 696730684.5",
-   "detected_at": "2026-09-22 10:51:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "LAL  CHANGED Players Under Contract  -  col3: 203800385 -> 205158148",
-   "detected_at": "2026-09-22 10:51:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "LAL  CHANGED Full Season Contracts  -  col3: 203800385 -> 205158148",
-   "detected_at": "2026-09-22 10:51:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "LAL  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 17 -> 18",
-   "detected_at": "2026-09-22 10:51:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col15: 3372385 -> 4730148",
-   "detected_at": "2026-09-22 10:51:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED 1st Incremental Tax Bracket  -  col15: 10117155 -> 14190444",
-   "detected_at": "2026-09-22 10:51:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col15: 10117155 -> 14190444",
-   "detected_at": "2026-09-22 10:51:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Meechie Johnson Los Angeles Lakers",
-   "detected_at": "2026-09-22 10:51:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  26-27 $1,357,763",
-   "detected_at": "2026-09-22 10:51:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Minimum Salary Exception. Physical Exam. Alt. 7(b). Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
-   "detected_at": "2026-09-22 10:51:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 9/18/26",
-   "detected_at": "2026-09-22 10:51:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "LAL  + ADDED  Ross, Chase",
-   "detected_at": "2026-09-22 10:50:59",
-   "source": "SHEETS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "LAL  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 202442622 -> 203800385, col9: 694015158.5 -> 695372921.5",
-   "detected_at": "2026-09-22 10:50:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "LAL  CHANGED Players Under Contract  -  col3: 202442622 -> 203800385",
-   "detected_at": "2026-09-22 10:50:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "LAL  CHANGED Full Season Contracts  -  col3: 202442622 -> 203800385",
-   "detected_at": "2026-09-22 10:50:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "LAL  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 16 -> 17",
-   "detected_at": "2026-09-22 10:50:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col15: 2014622 -> 3372385",
-   "detected_at": "2026-09-22 10:50:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED 1st Incremental Tax Bracket  -  col15: 6043866 -> 10117155",
-   "detected_at": "2026-09-22 10:50:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col15: 6043866 -> 10117155",
-   "detected_at": "2026-09-22 10:50:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Chase Ross Los Angeles Lakers",
-   "detected_at": "2026-09-22 10:50:57",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  26-27 $1,357,763",
-   "detected_at": "2026-09-22 10:50:57",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Minimum Salary Exception. Physical Exam. Alt. 7(b). Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
-   "detected_at": "2026-09-22 10:50:57",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 9/18/26",
-   "detected_at": "2026-09-22 10:50:57",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  - REMOVED Update 1.3 (7/18/26): K. Lopez, K. Diop, J. Bradley, O. Agbim, J. Akins, J. Allick, D. Armstrong, W. Baker, A. Bandaogo, N. Boyd, L. Butler, D. Daniels, D. Garcia, C. Grill, J. Hadley, D. Higgs, C. Hildreth, M. Iraldi, N. Jourdain, M. Keita, K. Mangas, M. Mascari, R. Mast, C. McMillian, S. McNeil, I. Milicic, J. Moni, K. Murphy, D. Murray, M. Murrell, J. Nelson, J. Nunn, J. O’Neil, T. Okani, N. Pringle, E. Ralph, K. Reeves, D. Rodman, A. Scott, C. Shumate, D. Smith, K. Stewart, W. Taylor, S. Thomas, S. Thompson, C. Tilly, T. Townsend, P. Zilinskas",
-   "detected_at": "2026-09-22 10:49:55",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Update 1.3 (7/18/26): K. Lopez, K. Diop, J. Bradley, O. Agbim, J. Akins, J. Allick, D. Armstrong, W. Baker, A. Bandaogo, N. Boyd, L. Butler, D. Daniels, D. Garcia, C. Grill, J. Hadley, D. Higgs, C. Hildreth, M. Iraldi, N. Jourdain, M. Keita, K. Mangas, M. Mascari, R. Mast, C. McMillian, S. McNeil, I. Milicic, J. Moni, K. Murphy, D. Murray, M. Murrell, J. Nelson, J. Nunn, J. O’Neil, T. Okani, N. Pringle, E. Ralph, K. Reeves, D. Rodman, C. Ross, A. Scott, C. Shumate, D. Smith, K. Stewart, W. Taylor, S. Thomas, S. Thompson, C. Tilly, T. Townsend, P. Zilinskas",
-   "detected_at": "2026-09-22 10:49:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "SAN  + ADDED  Nunn, Jayden",
-   "detected_at": "2026-09-22 10:46:58",
-   "source": "SHEETS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "SAN  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 233359077.5 -> 234716840.5, col9: 607435925.7 -> 608793688.7",
-   "detected_at": "2026-09-22 10:46:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "SAN  CHANGED Players Under Contract  -  col3: 200465082.7 -> 201822845.7",
-   "detected_at": "2026-09-22 10:46:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "SAN  CHANGED Full Season Contracts  -  col3: 200465082.7 -> 201822845.7",
-   "detected_at": "2026-09-22 10:46:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "SAN  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 15 -> 16",
-   "detected_at": "2026-09-22 10:46:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col28: 37082.68 -> 1394845.68",
-   "detected_at": "2026-09-22 10:46:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED 1st Incremental Tax Bracket  -  col28: 37082.68 -> 1394845.68",
-   "detected_at": "2026-09-22 10:46:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col28: 37082.68 -> 1394845.68",
-   "detected_at": "2026-09-22 10:46:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Jayden Nunn San Antonio Spurs",
-   "detected_at": "2026-09-22 10:45:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  26-27 $1,357,763",
-   "detected_at": "2026-09-22 10:45:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Minimum Salary Exception. Physical Exam. Alt. 7(b). Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
-   "detected_at": "2026-09-22 10:45:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 9/18/26",
-   "detected_at": "2026-09-22 10:45:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  - REMOVED Update 1.3 (7/18/26): K. Lopez, K. Diop, J. Bradley, O. Agbim, J. Akins, J. Allick, D. Armstrong, W. Baker, A. Bandaogo, N. Boyd, L. Butler, D. Daniels, D. Garcia, C. Grill, J. Hadley, D. Higgs, C. Hildreth, M. Iraldi, N. Jourdain, M. Keita, K. Mangas, M. Mascari, R. Mast, C. McMillian, S. McNeil, I. Milicic, J. Moni, K. Murphy, D. Murray, M. Murrell, J. Nelson, J. O’Neil, T. Okani, N. Pringle, E. Ralph, K. Reeves, D. Rodman, A. Scott, C. Shumate, D. Smith, K. Stewart, W. Taylor, S. Thomas, S. Thompson, C. Tilly, T. Townsend, P. Zilinskas",
-   "detected_at": "2026-09-22 10:44:55",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Update 1.3 (7/18/26): K. Lopez, K. Diop, J. Bradley, O. Agbim, J. Akins, J. Allick, D. Armstrong, W. Baker, A. Bandaogo, N. Boyd, L. Butler, D. Daniels, D. Garcia, C. Grill, J. Hadley, D. Higgs, C. Hildreth, M. Iraldi, N. Jourdain, M. Keita, K. Mangas, M. Mascari, R. Mast, C. McMillian, S. McNeil, I. Milicic, J. Moni, K. Murphy, D. Murray, M. Murrell, J. Nelson, J. Nunn, J. O’Neil, T. Okani, N. Pringle, E. Ralph, K. Reeves, D. Rodman, A. Scott, C. Shumate, D. Smith, K. Stewart, W. Taylor, S. Thomas, S. Thompson, C. Tilly, T. Townsend, P. Zilinskas",
-   "detected_at": "2026-09-22 10:44:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  - REMOVED Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
-   "detected_at": "2026-09-22 10:39:55",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  - REMOVED Execution Date: 9/18/26",
-   "detected_at": "2026-09-22 10:39:55",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp.",
-   "detected_at": "2026-09-22 10:39:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 9/19/26",
-   "detected_at": "2026-09-22 10:39:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  - REMOVED Update 1.3 (7/18/26): K. Lopez, K. Diop, J. Bradley, J. Akins, J. Allick, D. Armstrong, W. Baker, A. Bandaogo, N. Boyd, L. Butler, D. Daniels, D. Garcia, C. Grill, J. Hadley, D. Higgs, C. Hildreth, M. Iraldi, N. Jourdain, M. Keita, K. Mangas, M. Mascari, R. Mast, C. McMillian, S. McNeil, I. Milicic, J. Moni, K. Murphy, D. Murray, M. Murrell, J. Nelson, J. O’Neil, T. Okani, N. Pringle, E. Ralph, K. Reeves, D. Rodman, A. Scott, C. Shumate, D. Smith, K. Stewart, W. Taylor, S. Thomas, S. Thompson, C. Tilly, T. Townsend, P. Zilinskas",
-   "detected_at": "2026-09-22 10:38:55",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Update 1.3 (7/18/26): K. Lopez, K. Diop, J. Bradley, O. Agbim, J. Akins, J. Allick, D. Armstrong, W. Baker, A. Bandaogo, N. Boyd, L. Butler, D. Daniels, D. Garcia, C. Grill, J. Hadley, D. Higgs, C. Hildreth, M. Iraldi, N. Jourdain, M. Keita, K. Mangas, M. Mascari, R. Mast, C. McMillian, S. McNeil, I. Milicic, J. Moni, K. Murphy, D. Murray, M. Murrell, J. Nelson, J. O’Neil, T. Okani, N. Pringle, E. Ralph, K. Reeves, D. Rodman, A. Scott, C. Shumate, D. Smith, K. Stewart, W. Taylor, S. Thomas, S. Thompson, C. Tilly, T. Townsend, P. Zilinskas",
-   "detected_at": "2026-09-22 10:38:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Obi Agbim Golden State Warriors",
-   "detected_at": "2026-09-22 10:38:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  26-27 $1,357,763",
-   "detected_at": "2026-09-22 10:38:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
-   "detected_at": "2026-09-22 10:38:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 9/18/26",
-   "detected_at": "2026-09-22 10:38:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "BKN  + ADDED  Pringle, Nick",
-   "detected_at": "2026-09-22 10:36:59",
-   "source": "SHEETS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "BKN  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 162505778.5 -> 163863541.5, col9: 345903740.9 -> 347261503.9",
-   "detected_at": "2026-09-22 10:36:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "BKN  CHANGED Players Under Contract  -  col3: 160056357.5 -> 161414120.5",
-   "detected_at": "2026-09-22 10:36:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "BKN  CHANGED Full Season Contracts  -  col3: 160056357.5 -> 161414120.5",
-   "detected_at": "2026-09-22 10:36:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "BKN  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 15 -> 16",
-   "detected_at": "2026-09-22 10:36:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  - REMOVED Update 1.3 (7/18/26): K. Lopez, K. Diop, J. Bradley, J. Akins, J. Allick, D. Armstrong, W. Baker, A. Bandaogo, N. Boyd, L. Butler, D. Daniels, D. Garcia, C. Grill, J. Hadley, D. Higgs, C. Hildreth, M. Iraldi, N. Jourdain, M. Keita, K. Mangas, M. Mascari, R. Mast, C. McMillian, S. McNeil, I. Milicic, J. Moni, K. Murphy, D. Murray, M. Murrell, J. Nelson, J. O’Neil, T. Okani, E. Ralph, K. Reeves, D. Rodman, A. Scott, C. Shumate, D. Smith, K. Stewart, W. Taylor, S. Thomas, S. Thompson, C. Tilly, T. Townsend, P. Zilinskas",
-   "detected_at": "2026-09-22 10:36:56",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Update 1.3 (7/18/26): K. Lopez, K. Diop, J. Bradley, J. Akins, J. Allick, D. Armstrong, W. Baker, A. Bandaogo, N. Boyd, L. Butler, D. Daniels, D. Garcia, C. Grill, J. Hadley, D. Higgs, C. Hildreth, M. Iraldi, N. Jourdain, M. Keita, K. Mangas, M. Mascari, R. Mast, C. McMillian, S. McNeil, I. Milicic, J. Moni, K. Murphy, D. Murray, M. Murrell, J. Nelson, J. O’Neil, T. Okani, N. Pringle, E. Ralph, K. Reeves, D. Rodman, A. Scott, C. Shumate, D. Smith, K. Stewart, W. Taylor, S. Thomas, S. Thompson, C. Tilly, T. Townsend, P. Zilinskas",
-   "detected_at": "2026-09-22 10:36:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Nick Pringle Brooklyn Nets",
-   "detected_at": "2026-09-22 10:36:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  26-27 $1,357,763",
-   "detected_at": "2026-09-22 10:36:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($35,000).",
-   "detected_at": "2026-09-22 10:36:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 9/21/26",
-   "detected_at": "2026-09-22 10:36:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "Cam Whitmore  ~ number: - -> 00",
-   "detected_at": "2026-09-22 10:36:36",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Cam_Whitmore"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  DJ Armstrong Charlotte Hornets",
-   "detected_at": "2026-09-22 10:14:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  26-27 $1,357,763",
-   "detected_at": "2026-09-22 10:14:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($5,000).",
-   "detected_at": "2026-09-22 10:14:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 9/21/26",
-   "detected_at": "2026-09-22 10:14:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "CHA  + ADDED  Armstrong, DJ",
-   "detected_at": "2026-09-22 10:14:00",
-   "source": "SHEETS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "CHA  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 183511892 -> 184869655, col9: 474619279.4 -> 475977042.4",
-   "detected_at": "2026-09-22 10:14:00",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "CHA  CHANGED Players Under Contract  -  col3: 181062471 -> 182420234",
-   "detected_at": "2026-09-22 10:14:00",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "CHA  CHANGED Full Season Contracts  -  col3: 181062471 -> 182420234",
-   "detected_at": "2026-09-22 10:14:00",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "CHA  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 18 -> 19",
-   "detected_at": "2026-09-22 10:14:00",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "GOS  + ADDED  Boyd, Nick",
-   "detected_at": "2026-09-22 10:14:00",
-   "source": "SHEETS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "GOS  CHANGED Mannion, Nico  -  col9: 2185116 -> 0",
-   "detected_at": "2026-09-22 10:14:00",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "GOS  CHANGED Robinson, Jerome  -  col9: 0 -> 2185116",
-   "detected_at": "2026-09-22 10:14:00",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "GOS  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 256522526.3 -> 257880289.3, col9: 338932211.7 -> 340289974.7",
-   "detected_at": "2026-09-22 10:14:00",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "GOS  CHANGED Players Under Contract  -  col3: 225472968.3 -> 226830731.3",
-   "detected_at": "2026-09-22 10:14:00",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "GOS  CHANGED Full Season Contracts  -  col3: 225472968.3 -> 226830731.3",
-   "detected_at": "2026-09-22 10:14:00",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "GOS  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 17 -> 18",
-   "detected_at": "2026-09-22 10:14:00",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "IND  + ADDED  Keiba Keta, Mohamed",
-   "detected_at": "2026-09-22 10:14:00",
-   "source": "SHEETS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "IND  + ADDED  Mast, Rienk",
-   "detected_at": "2026-09-22 10:14:00",
-   "source": "SHEETS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "WAS  + ADDED  Murphy, KeShawn",
-   "detected_at": "2026-09-22 10:14:00",
-   "source": "SHEETS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "WAS  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 238630507.5 -> 239988270.5, col9: 601797291.5 -> 603155054.5",
-   "detected_at": "2026-09-22 10:14:00",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "WAS  CHANGED Players Under Contract  -  col3: 194462515 -> 195820278",
-   "detected_at": "2026-09-22 10:14:00",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "WAS  CHANGED Full Season Contracts  -  col3: 194462515 -> 195820278",
-   "detected_at": "2026-09-22 10:14:00",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "WAS  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 15 -> 16",
-   "detected_at": "2026-09-22 10:14:00",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col11: 25044968.25 -> 26402731.25",
-   "detected_at": "2026-09-22 10:14:00",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED 5th Incremental Tax Bracket  -  col11: 16711019.81 -> 26554801.56",
-   "detected_at": "2026-09-22 10:14:00",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col11: 121883519.8 -> 131727301.6",
-   "detected_at": "2026-09-22 10:14:00",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  - REMOVED Update 1.3 (7/18/26): K. Lopez, K. Diop, J. Bradley, J. Akins, J. Allick, W. Baker, A. Bandaogo, L. Butler, D. Daniels, D. Garcia, C. Grill, J. Hadley, D. Higgs, C. Hildreth, M. Iraldi, N. Jourdain, M. Keita, K. Mangas, M. Mascari, R. Mast, C. McMillian, S. McNeil, I. Milicic, J. Moni, D. Murray, M. Murrell, J. Nelson, J. O’Neil, T. Okani, E. Ralph, K. Reeves, D. Rodman, A. Scott, C. Shumate, D. Smith, K. Stewart, W. Taylor, S. Thomas, S. Thompson, C. Tilly, T. Townsend, P. Zilinskas",
-   "detected_at": "2026-09-22 10:13:58",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Update 1.3 (7/18/26): K. Lopez, K. Diop, J. Bradley, J. Akins, J. Allick, D. Armstrong, W. Baker, A. Bandaogo, N. Boyd, L. Butler, D. Daniels, D. Garcia, C. Grill, J. Hadley, D. Higgs, C. Hildreth, M. Iraldi, N. Jourdain, M. Keita, K. Mangas, M. Mascari, R. Mast, C. McMillian, S. McNeil, I. Milicic, J. Moni, K. Murphy, D. Murray, M. Murrell, J. Nelson, J. O’Neil, T. Okani, E. Ralph, K. Reeves, D. Rodman, A. Scott, C. Shumate, D. Smith, K. Stewart, W. Taylor, S. Thomas, S. Thompson, C. Tilly, T. Townsend, P. Zilinskas",
-   "detected_at": "2026-09-22 10:13:58",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Nick Boyd Golden State Warriors",
-   "detected_at": "2026-09-22 10:13:58",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  26-27 $1,357,763",
-   "detected_at": "2026-09-22 10:13:58",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
-   "detected_at": "2026-09-22 10:13:58",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 9/18/26",
-   "detected_at": "2026-09-22 10:13:58",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  KeShawn Murphy Washington Wizards",
-   "detected_at": "2026-09-22 10:13:58",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  26-27 $1,357,763",
-   "detected_at": "2026-09-22 10:13:58",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($70,000).",
-   "detected_at": "2026-09-22 10:13:58",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 9/18/26",
-   "detected_at": "2026-09-22 10:13:58",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "IND  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 210934469.6 -> 213649995.6, col9: 510884671.6 -> 513600197.6",
-   "detected_at": "2026-09-22 10:05:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "IND  CHANGED Players Under Contract  -  col3: 206299932.6 -> 209015458.6",
-   "detected_at": "2026-09-22 10:05:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "IND  CHANGED Full Season Contracts  -  col3: 206299932.6 -> 209015458.6",
-   "detected_at": "2026-09-22 10:05:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "IND  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 14 -> 16",
-   "detected_at": "2026-09-22 10:05:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "IND  CHANGED Avg, Salary (Mean) (No 10-Day K's)  -  col6: 1 -> 0",
-   "detected_at": "2026-09-22 10:05:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col13: 5871932.6 -> 8587458.6",
-   "detected_at": "2026-09-22 10:05:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED 2nd Incremental Tax Bracket  -  col13: 233665.75 -> 3628073.25",
-   "detected_at": "2026-09-22 10:05:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col13: 5918665.75 -> 9313073.25",
-   "detected_at": "2026-09-22 10:05:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  - REMOVED Update 1.3 (7/18/26): K. Lopez, K. Diop, J. Bradley, J. Akins, J. Allick, W. Baker, A. Bandaogo, L. Butler, D. Daniels, D. Garcia, C. Grill, J. Hadley, D. Higgs, C. Hildreth, M. Iraldi, N. Jourdain, K. Mangas, M. Mascari, R. Mast, C. McMillian, S. McNeil, I. Milicic, J. Moni, D. Murray, M. Murrell, J. Nelson, J. O’Neil, T. Okani, E. Ralph, K. Reeves, D. Rodman, A. Scott, C. Shumate, D. Smith, K. Stewart, W. Taylor, S. Thomas, S. Thompson, C. Tilly, T. Townsend, P. Zilinskas",
-   "detected_at": "2026-09-22 10:04:55",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Update 1.3 (7/18/26): K. Lopez, K. Diop, J. Bradley, J. Akins, J. Allick, W. Baker, A. Bandaogo, L. Butler, D. Daniels, D. Garcia, C. Grill, J. Hadley, D. Higgs, C. Hildreth, M. Iraldi, N. Jourdain, M. Keita, K. Mangas, M. Mascari, R. Mast, C. McMillian, S. McNeil, I. Milicic, J. Moni, D. Murray, M. Murrell, J. Nelson, J. O’Neil, T. Okani, E. Ralph, K. Reeves, D. Rodman, A. Scott, C. Shumate, D. Smith, K. Stewart, W. Taylor, S. Thomas, S. Thompson, C. Tilly, T. Townsend, P. Zilinskas",
-   "detected_at": "2026-09-22 10:04:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Mohamed Keba Keita Indiana Pacers",
-   "detected_at": "2026-09-22 10:04:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  26-27 $1,357,763",
-   "detected_at": "2026-09-22 10:04:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
-   "detected_at": "2026-09-22 10:04:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 9/18/26",
-   "detected_at": "2026-09-22 10:04:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  - REMOVED Jalen Warley (WAIVED) Indiana Pacers",
-   "detected_at": "2026-09-22 10:03:55",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Rienk Mast Indiana Pacers",
-   "detected_at": "2026-09-22 10:03:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  - REMOVED Update 1.3 (7/18/26): K. Lopez, K. Diop, J. Bradley, J. Akins, J. Allick, W. Baker, A. Bandaogo, L. Butler, D. Daniels, D. Garcia, C. Grill, J. Hadley, D. Higgs, C. Hildreth, M. Iraldi, N. Jourdain, K. Mangas, M. Mascari, C. McMillian, S. McNeil, I. Milicic, J. Moni, D. Murray, M. Murrell, J. Nelson, J. O’Neil, T. Okani, E. Ralph, K. Reeves, D. Rodman, A. Scott, C. Shumate, D. Smith, K. Stewart, W. Taylor, S. Thomas, S. Thompson, C. Tilly, T. Townsend, P. Zilinskas",
-   "detected_at": "2026-09-22 10:02:58",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Update 1.3 (7/18/26): K. Lopez, K. Diop, J. Bradley, J. Akins, J. Allick, W. Baker, A. Bandaogo, L. Butler, D. Daniels, D. Garcia, C. Grill, J. Hadley, D. Higgs, C. Hildreth, M. Iraldi, N. Jourdain, K. Mangas, M. Mascari, R. Mast, C. McMillian, S. McNeil, I. Milicic, J. Moni, D. Murray, M. Murrell, J. Nelson, J. O’Neil, T. Okani, E. Ralph, K. Reeves, D. Rodman, A. Scott, C. Shumate, D. Smith, K. Stewart, W. Taylor, S. Thomas, S. Thompson, C. Tilly, T. Townsend, P. Zilinskas",
-   "detected_at": "2026-09-22 10:02:58",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Jalen Warley (WAIVED) Indiana Pacers",
-   "detected_at": "2026-09-22 10:02:58",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  26-27 $1,357,763",
-   "detected_at": "2026-09-22 10:02:58",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
-   "detected_at": "2026-09-22 10:02:58",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 9/18/26",
-   "detected_at": "2026-09-22 10:02:58",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Jalen Warley (WAIVED) Indiana Pacers",
-   "detected_at": "2026-09-22 10:02:58",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  26-27 $1,357,763",
-   "detected_at": "2026-09-22 10:02:58",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
-   "detected_at": "2026-09-22 10:02:58",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 9/18/26",
-   "detected_at": "2026-09-22 10:02:58",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  - REMOVED Cameron Hildreth (WAIVED) Indiana Pacers",
-   "detected_at": "2026-09-22 10:01:56",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Kowacie Reeves Jr. (WAIVED) Indiana Pacers",
-   "detected_at": "2026-09-22 10:01:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  - REMOVED Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($75,000).",
-   "detected_at": "2026-09-22 10:01:56",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  - REMOVED Execution Date: 9/14/26",
-   "detected_at": "2026-09-22 10:01:56",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
-   "detected_at": "2026-09-22 10:01:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 9/18/26",
-   "detected_at": "2026-09-22 10:01:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  - REMOVED Update 1.3 (7/18/26): K. Lopez, K. Diop, J. Bradley, J. Akins, J. Allick, W. Baker, A. Bandaogo, L. Butler, D. Daniels, D. Garcia, C. Grill, J. Hadley, D. Higgs, C. Hildreth, M. Iraldi, N. Jourdain, K. Mangas, M. Mascari, C. McMillian, S. McNeil, I. Milicic, J. Moni, D. Murray, M. Murrell, J. Nelson, J. O’Neil, T. Okani, E. Ralph, D. Rodman, A. Scott, C. Shumate, D. Smith, K. Stewart, W. Taylor, S. Thomas, S. Thompson, C. Tilly, T. Townsend, P. Zilinskas",
-   "detected_at": "2026-09-22 10:00:56",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Update 1.3 (7/18/26): K. Lopez, K. Diop, J. Bradley, J. Akins, J. Allick, W. Baker, A. Bandaogo, L. Butler, D. Daniels, D. Garcia, C. Grill, J. Hadley, D. Higgs, C. Hildreth, M. Iraldi, N. Jourdain, K. Mangas, M. Mascari, C. McMillian, S. McNeil, I. Milicic, J. Moni, D. Murray, M. Murrell, J. Nelson, J. O’Neil, T. Okani, E. Ralph, K. Reeves, D. Rodman, A. Scott, C. Shumate, D. Smith, K. Stewart, W. Taylor, S. Thomas, S. Thompson, C. Tilly, T. Townsend, P. Zilinskas",
-   "detected_at": "2026-09-22 10:00:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Cameron Hildreth (WAIVED) Indiana Pacers",
-   "detected_at": "2026-09-22 10:00:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  26-27 $1,357,763",
-   "detected_at": "2026-09-22 10:00:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($75,000).",
-   "detected_at": "2026-09-22 10:00:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 9/14/26",
-   "detected_at": "2026-09-22 10:00:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  - REMOVED 4 Years for $9,264,648. Second Round Pick Exception. Team option to extend the contract to include the 2029-30 Season. Skill; Injury or Illness; Death. Compensation protection for 2027-28 Season is none but will increase to full if team has not requested waivers on player on or before 7/1/2027. Compensation protection for 2028-29 Season is none but will increase to full if team has not requested waivers on player on or before 7/1/2028. Compensation protection for 2029-30 Season is none but will increase to full if team has not requested waivers on player on or before 7/1/2029. Love of the Game. Alt. 7(b).",
-   "detected_at": "2026-09-22 09:59:55",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  4 Years for $9,264,648. Non-Taxpayer Mid-Level Exception (Partial). Team option to extend the contract to include the 2029-30 Season. Skill; Injury or Illness; Death. Compensation protection for 2027-28 Season is none but will increase to full if team has not requested waivers on player on or before 7/1/2027. Compensation protection for 2028-29 Season is none but will increase to full if team has not requested waivers on player on or before 7/1/2028. Compensation protection for 2029-30 Season is none but will increase to full if team has not requested waivers on player on or before 7/1/2029. Love of the Game. Alt. 7(b).",
-   "detected_at": "2026-09-22 09:59:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Malachi Smith Toronto Raptors",
-   "detected_at": "2026-09-22 09:58:56",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Malachi Smith (CONVERTED) Toronto Raptors",
-   "detected_at": "2026-09-22 09:58:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "TOR  - REMOVED Smith, Malachi",
-   "detected_at": "2026-09-22 09:57:59",
-   "source": "SHEETS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "TOR  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 217780030 -> 215594914, col9: 558504761.6 -> 556319645.6",
-   "detected_at": "2026-09-22 09:57:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "TOR  CHANGED Players Under Contract  -  col3: 204731767 -> 202546651",
-   "detected_at": "2026-09-22 09:57:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "TOR  CHANGED Full Season Contracts  -  col3: 204731767 -> 202546651",
-   "detected_at": "2026-09-22 09:57:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "TOR  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 16 -> 15",
-   "detected_at": "2026-09-22 09:57:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col29: 4303767 -> 2118651",
-   "detected_at": "2026-09-22 09:57:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED 1st Incremental Tax Bracket  -  col29: 4303767 -> 2118651",
-   "detected_at": "2026-09-22 09:57:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col29: 4303767 -> 2118651",
-   "detected_at": "2026-09-22 09:57:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "TOR  + ADDED  Bradley, Jaden",
-   "detected_at": "2026-09-22 09:56:57",
-   "source": "SHEETS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "TOR  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 216422267 -> 217780030, col4: 124324577 -> 126618947, col5: 123271894 -> 125966257, col6: 85221375.6 -> 88139527.6, col9: 549240113.6 -> 558504761.6",
-   "detected_at": "2026-09-22 09:56:57",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "TOR  CHANGED Players Under Contract  -  col3: 203374004 -> 204731767, col4: 124324577 -> 126618947, col5: 123271894 -> 125966257, col6: 85221375.6 -> 88139527.6",
-   "detected_at": "2026-09-22 09:56:57",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "TOR  CHANGED Full Season Contracts  -  col3: 203374004 -> 204731767, col4: 124324577 -> 126618947, col5: 123271894 -> 125966257, col6: 85221375.6 -> 88139527.6",
-   "detected_at": "2026-09-22 09:56:57",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "TOR  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 15 -> 16",
-   "detected_at": "2026-09-22 09:56:57",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col29: 2946004 -> 4303767",
-   "detected_at": "2026-09-22 09:56:57",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED 1st Incremental Tax Bracket  -  col29: 2946004 -> 4303767",
-   "detected_at": "2026-09-22 09:56:57",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col29: 2946004 -> 4303767",
-   "detected_at": "2026-09-22 09:56:57",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  - REMOVED 4 Years for $9,264,648. Second Round Pick Exception. Team option to extend the contract to include the 2029-30 Season. Skill; Injury or Illness; Death. Compensation protection for 2027-28 Season is none but will increase to full if team has not requested waivers on player on or before 7/10/2028. Compensation protection for 2028-29 Season is none but will increase to full if team has not requested waivers on player on or before 7/10/2028. Compensation protection for 2029-30 Season is none. Love of the Game. Physical Exam. Alt. 7(b).",
-   "detected_at": "2026-09-22 09:55:56",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  - REMOVED Execution Date: 7/1/26",
-   "detected_at": "2026-09-22 09:55:56",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  4 Years for $9,264,648. Second Round Pick Exception. Team option to extend the contract to include the 2029-30 Season. Skill; Injury or Illness; Death. Compensation protection for 2027-28 Season is none but will increase to full if team has not requested waivers on player on or before 7/1/2027. Compensation protection for 2028-29 Season is none but will increase to full if team has not requested waivers on player on or before 7/1/2028. Compensation protection for 2029-30 Season is none but will increase to full if team has not requested waivers on player on or before 7/1/2029. Love of the Game. Alt. 7(b).",
-   "detected_at": "2026-09-22 09:55:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 9/21/26",
-   "detected_at": "2026-09-22 09:55:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  - REMOVED #52 Henri Veesaar Atlanta Hawks",
-   "detected_at": "2026-09-22 09:54:56",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  #50 Jaden Bradley Toronto Raptors",
-   "detected_at": "2026-09-22 09:54:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  - REMOVED 4 Years for $9,264,648. Second Round Pick Exception. Team option to extend the contract to include the 2029-30 Season. Insurance Premium Reimbursement. Skill; Injury or Illness. Compensation protection for 2028-29 Season is none but will increase to full if team has not requested waivers on player on or before 7/10/2028. Compensation protection for 2029-30 Season is none. Love of the Game. Physical Exam. Alt. 7(b).",
-   "detected_at": "2026-09-22 09:54:56",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  4 Years for $9,264,648. Second Round Pick Exception. Team option to extend the contract to include the 2029-30 Season. Skill; Injury or Illness; Death. Compensation protection for 2027-28 Season is none but will increase to full if team has not requested waivers on player on or before 7/10/2028. Compensation protection for 2028-29 Season is none but will increase to full if team has not requested waivers on player on or before 7/10/2028. Compensation protection for 2029-30 Season is none. Love of the Game. Physical Exam. Alt. 7(b).",
-   "detected_at": "2026-09-22 09:54:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  - REMOVED Update 1.3 (7/18/26): K. Lopez, K. Diop, J. Akins, J. Allick, W. Baker, A. Bandaogo, L. Butler, D. Daniels, D. Garcia, C. Grill, J. Hadley, D. Higgs, C. Hildreth, M. Iraldi, N. Jourdain, K. Mangas, M. Mascari, C. McMillian, S. McNeil, I. Milicic, J. Moni, D. Murray, M. Murrell, J. Nelson, J. O’Neil, T. Okani, E. Ralph, D. Rodman, A. Scott, C. Shumate, D. Smith, K. Stewart, W. Taylor, S. Thomas, S. Thompson, C. Tilly, T. Townsend, P. Zilinskas",
-   "detected_at": "2026-09-22 09:53:55",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Update 1.3 (7/18/26): K. Lopez, K. Diop, J. Bradley, J. Akins, J. Allick, W. Baker, A. Bandaogo, L. Butler, D. Daniels, D. Garcia, C. Grill, J. Hadley, D. Higgs, C. Hildreth, M. Iraldi, N. Jourdain, K. Mangas, M. Mascari, C. McMillian, S. McNeil, I. Milicic, J. Moni, D. Murray, M. Murrell, J. Nelson, J. O’Neil, T. Okani, E. Ralph, D. Rodman, A. Scott, C. Shumate, D. Smith, K. Stewart, W. Taylor, S. Thomas, S. Thompson, C. Tilly, T. Townsend, P. Zilinskas",
-   "detected_at": "2026-09-22 09:53:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  #52 Henri Veesaar Atlanta Hawks",
-   "detected_at": "2026-09-22 09:53:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  26-27 $1,357,763",
-   "detected_at": "2026-09-22 09:53:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  27-28 $2,294,370",
-   "detected_at": "2026-09-22 09:53:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  28-29 $2,694,363",
-   "detected_at": "2026-09-22 09:53:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  29-30 $2,918,152 (Team Option)",
-   "detected_at": "2026-09-22 09:53:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  4 Years for $9,264,648. Second Round Pick Exception. Team option to extend the contract to include the 2029-30 Season. Insurance Premium Reimbursement. Skill; Injury or Illness. Compensation protection for 2028-29 Season is none but will increase to full if team has not requested waivers on player on or before 7/10/2028. Compensation protection for 2029-30 Season is none. Love of the Game. Physical Exam. Alt. 7(b).",
-   "detected_at": "2026-09-22 09:53:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 7/1/26",
-   "detected_at": "2026-09-22 09:53:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED 31-32 $33,296,296 ($33,796296)",
-   "detected_at": "2026-09-22 09:51:55",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED 5 Years for $155,000,000 ($157,500,000 w/unlikely to be earned bonuses). Rookie Scale Extension. Insurance Premium Reimbursement. Skill; Injury or Illness; Mental. Trade Kicker (10%).",
-   "detected_at": "2026-09-22 09:51:55",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Execution Date: 7/10/26",
-   "detected_at": "2026-09-22 09:51:55",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  31-32 $33,296,296 ($33,796,296)",
-   "detected_at": "2026-09-22 09:51:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  5 Years for $155,000,000 ($157,500,000 w/unlikely to be earned bonuses). Rookie Scale Extension. Insurance Premium Reimbursement. Skill; Injury or Illness; Mental.",
-   "detected_at": "2026-09-22 09:51:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 9/18/26",
-   "detected_at": "2026-09-22 09:51:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED 28-29 $29,851,852",
-   "detected_at": "2026-09-22 09:50:56",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED 29-30 $31,000,000",
-   "detected_at": "2026-09-22 09:50:56",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED 30-31 $32,148,148",
-   "detected_at": "2026-09-22 09:50:56",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED 31-32 $33,296,296",
-   "detected_at": "2026-09-22 09:50:56",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  28-29 $29,851,852 ($30,351,852)",
-   "detected_at": "2026-09-22 09:50:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  29-30 $31,000,000 ($31,500,000)",
-   "detected_at": "2026-09-22 09:50:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  30-31 $32,148,148 ($32,648,148)",
-   "detected_at": "2026-09-22 09:50:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  31-32 $33,296,296 ($33,796296)",
-   "detected_at": "2026-09-22 09:50:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED 27-28 $28,703,704",
-   "detected_at": "2026-09-22 09:41:55",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  27-28 $28,703,704 ($29,203,704)",
-   "detected_at": "2026-09-22 09:41:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED 5 Years for $155,000,000 ($157,500,000 w/un",
-   "detected_at": "2026-09-22 09:41:55",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED . Rookie Scale Extension. Insurance Premium Reimbursement. Skill; Injury or Illness; Mental. Trade Kicker (10%).",
-   "detected_at": "2026-09-22 09:41:55",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  5 Years for $155,000,000 ($157,500,000 w/unlikely to be earned bonuses). Rookie Scale Extension. Insurance Premium Reimbursement. Skill; Injury or Illness; Mental. Trade Kicker (10%).",
-   "detected_at": "2026-09-22 09:41:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED 31-32 $47,337,931",
-   "detected_at": "2026-09-22 09:40:56",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED 5 Years for $208,000,000. Rookie Scale Extension. Insurance Premium Reimbursement. Skill; Injury or Illness; Mental. Trade Kicker (10%).",
-   "detected_at": "2026-09-22 09:40:56",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  31-32 $33,296,296",
-   "detected_at": "2026-09-22 09:40:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  5 Years for $155,000,000 ($157,500,000 w/un",
-   "detected_at": "2026-09-22 09:40:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  . Rookie Scale Extension. Insurance Premium Reimbursement. Skill; Injury or Illness; Mental. Trade Kicker (10%).",
-   "detected_at": "2026-09-22 09:40:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Amen Thompson Houston Rockets",
-   "detected_at": "2026-09-22 09:39:55",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED 27-28 $35,862,069",
-   "detected_at": "2026-09-22 09:39:55",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED 28-29 $38,731,034",
-   "detected_at": "2026-09-22 09:39:55",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED 29-30 $41,600,000",
-   "detected_at": "2026-09-22 09:39:55",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED 30-31 $44,468,966",
-   "detected_at": "2026-09-22 09:39:55",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Keyonte George Utah Jazz",
-   "detected_at": "2026-09-22 09:39:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  27-28 $28,703,704",
-   "detected_at": "2026-09-22 09:39:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  28-29 $29,851,852",
-   "detected_at": "2026-09-22 09:39:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  29-30 $31,000,000",
-   "detected_at": "2026-09-22 09:39:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  30-31 $32,148,148",
-   "detected_at": "2026-09-22 09:39:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Amen Thompson Houston Rockets",
-   "detected_at": "2026-09-22 09:38:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  27-28 $35,862,069",
-   "detected_at": "2026-09-22 09:38:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  28-29 $38,731,034",
-   "detected_at": "2026-09-22 09:38:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  29-30 $41,600,000",
-   "detected_at": "2026-09-22 09:38:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  30-31 $44,468,966",
-   "detected_at": "2026-09-22 09:38:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  31-32 $47,337,931",
-   "detected_at": "2026-09-22 09:38:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  5 Years for $208,000,000. Rookie Scale Extension. Insurance Premium Reimbursement. Skill; Injury or Illness; Mental. Trade Kicker (10%).",
-   "detected_at": "2026-09-22 09:38:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 7/10/26",
-   "detected_at": "2026-09-22 09:38:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Update 1.3 (7/18/26): O. Agbaji, B. Beal, J. Bernard, S. Bey, D. Brooks, K. Brooks, B. Brown, K. Bufkin, J. Butler Jr., K. Caldwell-Pope, D. Carter, M. Cisse, I. Crawford, J. Davison, D. DeRozan, D. Eubanks, T. Fall, A. Gill, D. Green, J. Harden, M. Hezonja, H. Highsmith, C. Houstan, H. Ingram, A. Jackson, L. James, D. Jones, S. Jones, Y. Kawamura, C. Koloko, J. Konchar, J. Kuminga, N. Marshall, B. Mathurin, B. Mbeng, D. Melton, G. Niang, M. Nowell, E. Payton, G. Payton, T. Peter, J. Phillips, D. Plowden, N. Richards, L. Robbins, J. Schakel, B. Simmons, M. Smith, J. Sochan, D. Stockton, J. Tate, D. Terry, A. Thompson, K. Thompson, M. Thybulle, A. Toohey, O. Tshiebwe, M. Wagner, L. Walker, J. Walsh, T. Watford, A. Watson, P. Watson, B. Williams, J. Wiseman, I. Wong",
-   "detected_at": "2026-09-22 09:37:56",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Update 1.3 (7/18/26): O. Agbaji, B. Beal, J. Bernard, S. Bey, D. Brooks, K. Brooks, B. Brown, K. Bufkin, J. Butler Jr., K. Caldwell-Pope, D. Carter, M. Cisse, I. Crawford, J. Davison, D. DeRozan, D. Eubanks, T. Fall, K. George, A. Gill, D. Green, J. Harden, M. Hezonja, H. Highsmith, C. Houstan, H. Ingram, A. Jackson, L. James, D. Jones, S. Jones, Y. Kawamura, C. Koloko, J. Konchar, J. Kuminga, N. Marshall, B. Mathurin, B. Mbeng, D. Melton, G. Niang, M. Nowell, E. Payton, G. Payton, T. Peter, J. Phillips, D. Plowden, N. Richards, L. Robbins, J. Schakel, B. Simmons, M. Smith, J. Sochan, D. Stockton, J. Tate, D. Terry, A. Thompson, K. Thompson, M. Thybulle, A. Toohey, O. Tshiebwe, M. Wagner, L. Walker, J. Walsh, T. Watford, A. Watson, P. Watson, B. Williams, J. Wiseman, I. Wong",
-   "detected_at": "2026-09-22 09:37:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "UTH  CHANGED George, Keyonte  -  col6: - -> 31000000.0, col7: - -> 32148148.0, col8: - -> 33296296.0, col9: 65119480.64 -> 161563924.6",
-   "detected_at": "2026-09-22 09:35:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "UTH  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col6: 71818333.84 -> 102818333.8, col7: 0 -> 32148148, col8: 0 -> 33296296, col9: 618513433.1 -> 714957877.1",
-   "detected_at": "2026-09-22 09:35:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "UTH  CHANGED Players Under Contract  -  col6: 71818333.84 -> 102818333.8, col7: 0 -> 32148148, col8: 0 -> 33296296",
-   "detected_at": "2026-09-22 09:35:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "UTH  CHANGED Full Season Contracts  -  col6: 71818333.84 -> 102818333.8, col7: 0 -> 32148148, col8: 0 -> 33296296",
-   "detected_at": "2026-09-22 09:35:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "UTH  CHANGED George, Keyonte  -  col4: - -> 28703704.0, col5: - -> 29851852.0, col9: 6563924.64 -> 65119480.64",
-   "detected_at": "2026-09-22 09:34:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "UTH  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col4: 162412495.8 -> 191116199.8, col5: 132691831 -> 162543683, col9: 559957877.1 -> 618513433.1",
-   "detected_at": "2026-09-22 09:34:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "UTH  CHANGED Players Under Contract  -  col4: 162412495.8 -> 191116199.8, col5: 132691831 -> 162543683",
-   "detected_at": "2026-09-22 09:34:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "UTH  CHANGED Full Season Contracts  -  col4: 162412495.8 -> 191116199.8, col5: 132691831 -> 162543683",
-   "detected_at": "2026-09-22 09:34:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Morez Johnson Jr.  name: Morez Johnson -> Morez Johnson Jr.",
-   "detected_at": "2026-09-22 09:31:55",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Morez Johnson  name: Morez Johnson Jr. -> Morez Johnson",
-   "detected_at": "2026-09-22 09:30:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Morez Johnson Jr.  name: Morez Johnson -> Morez Johnson Jr.",
-   "detected_at": "2026-09-22 09:29:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "2026-27 Two-Way Signings  - REMOVED Update 1.3 (7/18/26): R. Castro, M. Dia, H. Dickinson, V. Goldin, B. Hopkins, J. Howard, T. Jemison, D. Jones Garcia, K. Johnson, A. Kaluma, D. Mitchell, G. Nelson, S. Pedulla, J. Pickett, J. Pierre, J. Sharp, J. Slawson, B. Smith, J. Tonje, J. Wilson",
-   "detected_at": "2026-09-22 09:04:56",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Two-Way Signings  + ADDED  Update 1.3 (7/18/26): R. Castro, M. Dia, H. Dickinson, V. Goldin, B. Hopkins, J. Howard, T. Jemison, D. Jones Garcia, K. Johnson, A. Kaluma, D. Mitchell, G. Nelson, S. Pedulla, J. Pickett, J. Pierre, J. Sharp, J. Slawson, B. Smith, J. Tonje, C. Whitmore, J. Wilson",
-   "detected_at": "2026-09-22 09:04:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Two-Way Signings  + ADDED  Cam Whitmore Denver Nuggets",
-   "detected_at": "2026-09-22 09:04:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Two-Way Signings  + ADDED  1 Year. Skill; Injury or Illness; Mental; Death. Compensation protection for 2026-27 Season is for $91,000 but will increase to 50% if team has not requested waivers on player on or before the first day of the 2026-27 Regular Season. Love of the Game. Physical Exam. Alt. 7(b).",
-   "detected_at": "2026-09-22 09:04:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Two-Way Signings  + ADDED  Execution Date: 9/18/26",
-   "detected_at": "2026-09-22 09:04:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  - REMOVED Update 1.3 (7/18/26): K. Lopez, K. Diop, J. Akins, J. Allick, W. Baker, A. Bandaogo, L. Butler, D. Garcia, C. Grill, J. Hadley, D. Higgs, C. Hildreth, M. Iraldi, N. Jourdain, K. Mangas, M. Mascari, C. McMillian, S. McNeil, I. Milicic, J. Moni, D. Murray, M. Murrell, J. Nelson, J. O’Neil, T. Okani, E. Ralph, D. Rodman, A. Scott, C. Shumate, D. Smith, K. Stewart, W. Taylor, S. Thomas, S. Thompson, C. Tilly, T. Townsend, P. Zilinskas",
-   "detected_at": "2026-09-22 09:04:56",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Update 1.3 (7/18/26): K. Lopez, K. Diop, J. Akins, J. Allick, W. Baker, A. Bandaogo, L. Butler, D. Daniels, D. Garcia, C. Grill, J. Hadley, D. Higgs, C. Hildreth, M. Iraldi, N. Jourdain, K. Mangas, M. Mascari, C. McMillian, S. McNeil, I. Milicic, J. Moni, D. Murray, M. Murrell, J. Nelson, J. O’Neil, T. Okani, E. Ralph, D. Rodman, A. Scott, C. Shumate, D. Smith, K. Stewart, W. Taylor, S. Thomas, S. Thompson, C. Tilly, T. Townsend, P. Zilinskas",
-   "detected_at": "2026-09-22 09:04:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Dominique Daniels (WAIVED) New Orleans Pelicans",
-   "detected_at": "2026-09-22 09:04:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  26-27 $1,357,763",
-   "detected_at": "2026-09-22 09:04:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($54,000).",
-   "detected_at": "2026-09-22 09:04:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 9/20/26",
-   "detected_at": "2026-09-22 09:04:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Saddiq Bey NE",
-   "detected_at": "2026-09-22 08:55:55",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED 27-28 $22,530,864",
-   "detected_at": "2026-09-22 08:55:55",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED 28-29 $24,333,333",
-   "detected_at": "2026-09-22 08:55:55",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED 29-30 $26,135,802",
-   "detected_at": "2026-09-22 08:55:55",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED 3 Years for $72,999,999. Veteran Extension. Advance Payment ($500,000). Insurance Premium Reimbursement. Skill; Injury or Illness; Mental.",
-   "detected_at": "2026-09-22 08:55:55",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Execution Date: 8/8/26",
-   "detected_at": "2026-09-22 08:55:55",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Saddiq Bey New Orleans Pelicans",
-   "detected_at": "2026-09-22 08:55:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  27-28 $20,108,695",
-   "detected_at": "2026-09-22 08:55:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  28-29 $18,500,000",
-   "detected_at": "2026-09-22 08:55:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  29-30 $16,891,305",
-   "detected_at": "2026-09-22 08:55:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  3 Years for $55,500,000. Veteran Extension. Insurance Premium Reimbursement. Skill; Injury or Illness; Mental. Trade Kicker (Lesser of $1,000,000 or 15%).",
-   "detected_at": "2026-09-22 08:55:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 9/17/26",
-   "detected_at": "2026-09-22 08:55:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "NOL  CHANGED Bey, Saddiq  -  col4: - -> 20108695.0, col5: - -> 18500000.0, col6: - -> 16891305.0, col9: 6557080 -> 62057080",
-   "detected_at": "2026-09-22 08:54:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "NOL  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col4: 165411850.3 -> 185520545.3, col5: 72140270 -> 90640270, col6: 24195628 -> 41086933, col9: 486197419.2 -> 541697419.2",
-   "detected_at": "2026-09-22 08:54:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "NOL  CHANGED Players Under Contract  -  col4: 165411850.3 -> 185520545.3, col5: 72140270 -> 90640270, col6: 24195628 -> 41086933",
-   "detected_at": "2026-09-22 08:54:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -9889,8 +10145,8 @@
    "last": "2026-09-24 14:00:56"
   },
   "GLEAGUE": {
-   "count": 114,
-   "last": "2026-09-25 08:50:35"
+   "count": 129,
+   "last": "2026-09-26 09:00:43"
   },
   "PLAYERS": {
    "count": 1135,
@@ -9901,12 +10157,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 2812,
-   "last": "2026-09-25 21:20:23"
+   "count": 3039,
+   "last": "2026-09-26 09:08:36"
   },
   "SCORES": {
-   "count": 770,
-   "last": "2026-09-25 21:20:29"
+   "count": 789,
+   "last": "2026-09-26 09:08:37"
   },
   "SHEETS": {
    "count": 4050,
@@ -9917,14 +10173,14 @@
    "last": "2026-09-25 19:47:55"
   },
   "WIKI": {
-   "count": 4124,
-   "last": "2026-09-25 23:08:40"
+   "count": 4149,
+   "last": "2026-09-26 09:07:39"
   },
   "WIKIWATCH": {
    "count": 252,
    "last": "2026-09-25 22:45:42"
   }
  },
- "generated_at": "2026-09-26T02:54:02",
- "total": 17523
+ "generated_at": "2026-09-26T09:08:41",
+ "total": 17809
 }
