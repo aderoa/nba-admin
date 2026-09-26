@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "2026-09-25  Golden State Warriors re-signed guard Stephen Curry to a Veteran Extension.",
+   "detected_at": "2026-09-25 19:47:55",
+   "source": "TRANSACTIONS",
+   "type": "Signing"
+  },
+  {
    "detail": "Israel BSL Winner Cup Hapoel Bank Yahav Jerusalem 88, Bnei Herzelia 68",
    "detected_at": "2026-09-25 19:18:45",
    "source": "SCORES",
@@ -9803,13 +9809,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Intercontinental Cup + Huiliu Fan → Beijing BeiKong",
-   "detected_at": "2026-09-22 08:18:47",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -9842,8 +9841,8 @@
    "last": "2026-09-24 14:01:00"
   },
   "TRANSACTIONS": {
-   "count": 426,
-   "last": "2026-09-25 17:24:55"
+   "count": 427,
+   "last": "2026-09-25 19:47:55"
   },
   "WIKI": {
    "count": 4122,
@@ -9854,6 +9853,6 @@
    "last": "2026-09-24 23:45:13"
   }
  },
- "generated_at": "2026-09-25T19:47:02",
- "total": 17430
+ "generated_at": "2026-09-25T19:48:03",
+ "total": 17431
 }
