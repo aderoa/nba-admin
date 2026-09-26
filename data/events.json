@@ -1,6 +1,48 @@
 {
  "events": [
   {
+   "detail": "+ ADDED   Marquel Sutton (CHI)",
+   "detected_at": "2026-09-26 14:54:55",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "+ ADDED   Yuri Collins (MEM)",
+   "detected_at": "2026-09-26 14:54:55",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "+ ADDED   Orlando Robinson (CHI)",
+   "detected_at": "2026-09-26 14:54:55",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "+ ADDED   Seth Lundy (DAL)",
+   "detected_at": "2026-09-26 14:54:55",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "+ ADDED   Brandon Boston (CHI)",
+   "detected_at": "2026-09-26 14:54:55",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "+ ADDED   Hunter Sallis (LAC)",
+   "detected_at": "2026-09-26 14:54:55",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "+ ADDED   Drew Peterson (CHI)",
+   "detected_at": "2026-09-26 14:54:55",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
    "detail": "Azuolas Tubelis  ~ 120959: team -> -",
    "detected_at": "2026-09-26 14:29:58",
    "source": "WIKIWATCH",
@@ -10121,48 +10163,6 @@
    "detected_at": "2026-09-22 17:37:58",
    "source": "SHEETS",
    "type": "REMOVED"
-  },
-  {
-   "detail": "CHA  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 196679108 -> 182482133.6, col4: 159127500.8 -> 145792500.8, col5: 97910545 -> 84575545, col9: 497884055.4 -> 457017081",
-   "detected_at": "2026-09-22 17:37:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "CHA  CHANGED Players Under Contract  -  col3: 194229687 -> 180032712.6, col4: 159127500.8 -> 145792500.8, col5: 97910545 -> 84575545",
-   "detected_at": "2026-09-22 17:37:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "CHA  CHANGED Full Season Contracts  -  col3: 194229687 -> 180032712.6, col4: 159127500.8 -> 145792500.8, col5: 97910545 -> 84575545",
-   "detected_at": "2026-09-22 17:37:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "CHA  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 21 -> 20",
-   "detected_at": "2026-09-22 17:37:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "CHA  + ADDED  Hield, Buddy",
-   "detected_at": "2026-09-22 17:36:58",
-   "source": "SHEETS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "CHA  + ADDED  Nembhard, Ryan",
-   "detected_at": "2026-09-22 17:36:58",
-   "source": "SHEETS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "CHA  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 184869655 -> 196679108, col4: 149029940.8 -> 159127500.8, col9: 475977042.4 -> 497884055.4",
-   "detected_at": "2026-09-22 17:36:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10175,8 +10175,8 @@
    "last": "2026-09-26 09:00:43"
   },
   "PLAYERS": {
-   "count": 1140,
-   "last": "2026-09-26 12:57:54"
+   "count": 1147,
+   "last": "2026-09-26 14:54:55"
   },
   "RATINGS": {
    "count": 950,
@@ -10207,6 +10207,6 @@
    "last": "2026-09-26 14:29:58"
   }
  },
- "generated_at": "2026-09-26T14:54:09",
- "total": 17893
+ "generated_at": "2026-09-26T14:55:06",
+ "total": 17900
 }
