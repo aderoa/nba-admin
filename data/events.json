@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Abramo Canka  ~ league: Lega Basket Serie A -> LBA",
+   "detected_at": "2026-09-26 10:39:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Abramo_Canka"
+  },
+  {
+   "detail": "Abramo Canka  ~ position: Shooting guard / small forward -> Power forward / small forward",
+   "detected_at": "2026-09-26 10:39:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Abramo_Canka"
+  },
+  {
+   "detail": "Abramo Canka  ~ number: - -> 7",
+   "detected_at": "2026-09-26 10:39:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Abramo_Canka"
+  },
+  {
    "detail": "+ ADDED   Zhaire Smith (OKC)",
    "detected_at": "2026-09-26 09:53:54",
    "source": "PLAYERS",
@@ -10129,24 +10150,6 @@
    "detected_at": "2026-09-22 14:49:55",
    "source": "PLAYERS",
    "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED Drake Allen (DET)",
-   "detected_at": "2026-09-22 14:49:55",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED Obi Agbim (GSW)",
-   "detected_at": "2026-09-22 14:49:55",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED Reese Dixon-Waters (DEN)",
-   "detected_at": "2026-09-22 14:49:55",
-   "source": "PLAYERS",
-   "type": "REMOVED"
   }
  ],
  "feeds": {
@@ -10183,14 +10186,14 @@
    "last": "2026-09-25 19:47:55"
   },
   "WIKI": {
-   "count": 4159,
-   "last": "2026-09-26 09:53:38"
+   "count": 4162,
+   "last": "2026-09-26 10:39:37"
   },
   "WIKIWATCH": {
    "count": 254,
    "last": "2026-09-26 09:09:19"
   }
  },
- "generated_at": "2026-09-26T10:31:01",
- "total": 17824
+ "generated_at": "2026-09-26T10:39:38",
+ "total": 17827
 }
