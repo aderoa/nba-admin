@@ -1,6 +1,69 @@
 {
  "events": [
   {
+   "detail": "Lorenzo Brown  ~ league: Israeli Basketball Premier League EuroCup -> Israeli Premier League EuroCup",
+   "detected_at": "2026-09-26 09:30:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Lorenzo_Brown"
+  },
+  {
+   "detail": "Nick Weiler-Babb  ~ position: Small forward / shooting guard -> Point guard / shooting guard",
+   "detected_at": "2026-09-26 09:30:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Nick_Weiler-Babb"
+  },
+  {
+   "detail": "Luka Brajkovic  ~ team: Cedevita Olimpija -> Pallacanestro Trieste",
+   "detected_at": "2026-09-26 09:30:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Luka_Brajkovic"
+  },
+  {
+   "detail": "Luka Brajkovic  ~ league: 1. SKL ABA League EuroCup -> LBA",
+   "detected_at": "2026-09-26 09:30:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Luka_Brajkovic"
+  },
+  {
+   "detail": "Luka Brajkovic  ~ number: 7 -> 17",
+   "detected_at": "2026-09-26 09:30:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Luka_Brajkovic"
+  },
+  {
+   "detail": "Luka Brajkovic  ~ CAREER  + 2025–2026 Cedevita Olimpija",
+   "detected_at": "2026-09-26 09:30:38",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Luka_Brajkovic"
+  },
+  {
+   "detail": "Luka Brajkovic  ~ CAREER  + 2026–present Pallacanestro Trieste",
+   "detected_at": "2026-09-26 09:30:38",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Luka_Brajkovic"
+  },
+  {
+   "detail": "Jasiel Rivero  ~ league: Liga ACB -> Liga ACB EuroLeague",
+   "detected_at": "2026-09-26 09:30:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jasiel_Rivero"
+  },
+  {
+   "detail": "Jasiel Rivero  ~ number: - -> 41",
+   "detected_at": "2026-09-26 09:30:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jasiel_Rivero"
+  },
+  {
    "detail": "+ ADDED   Robert McCray V (OKC)",
    "detected_at": "2026-09-26 09:09:55",
    "source": "PLAYERS",
@@ -10083,62 +10146,6 @@
    "detected_at": "2026-09-22 14:49:55",
    "source": "PLAYERS",
    "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED Tre Carroll (CHA)",
-   "detected_at": "2026-09-22 14:49:55",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED Solomon Washington (NOP)",
-   "detected_at": "2026-09-22 14:49:55",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "Julian Phillips (basketball)  ~ number: - -> 3",
-   "detected_at": "2026-09-22 14:49:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Julian_Phillips_(basketball)"
-  },
-  {
-   "detail": "Oscar Tshiebwe  ~ number: - -> 9",
-   "detected_at": "2026-09-22 14:49:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Oscar_Tshiebwe"
-  },
-  {
-   "detail": "2026-09-22  Minnesota Timberwolves waived guard Jalen Crutcher.",
-   "detected_at": "2026-09-22 14:34:55",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
-  },
-  {
-   "detail": "2026-09-22  New Orleans Pelicans waived forward Solomon Washington.",
-   "detected_at": "2026-09-22 14:34:55",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
-  },
-  {
-   "detail": "~ CHANGED Keonte Jones  school: Dayton -> University of Dayton",
-   "detected_at": "2026-09-22 14:30:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "2026-09-22  Miami Heat claimed guard Bez Mbeng off waivers.",
-   "detected_at": "2026-09-22 14:26:55",
-   "source": "TRANSACTIONS",
-   "type": "AwardOnWaivers"
-  },
-  {
-   "detail": "2026-09-22  Charlotte Hornets waived guard DJ Armstrong.",
-   "detected_at": "2026-09-22 14:26:55",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
   }
  ],
  "feeds": {
@@ -10175,14 +10182,14 @@
    "last": "2026-09-25 19:47:55"
   },
   "WIKI": {
-   "count": 4149,
-   "last": "2026-09-26 09:07:39"
+   "count": 4158,
+   "last": "2026-09-26 09:30:38"
   },
   "WIKIWATCH": {
    "count": 254,
    "last": "2026-09-26 09:09:19"
   }
  },
- "generated_at": "2026-09-26T09:22:00",
- "total": 17813
+ "generated_at": "2026-09-26T09:30:39",
+ "total": 17822
 }
