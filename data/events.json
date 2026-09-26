@@ -1,6 +1,32 @@
 {
  "events": [
   {
+   "detail": "+ ADDED   Robert McCray V (OKC)",
+   "detected_at": "2026-09-26 09:09:55",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "+ ADDED   Andrew Holifield (OKC)",
+   "detected_at": "2026-09-26 09:09:55",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "Guerschon Yabusele  ~ 29646: position -> Power forward",
+   "detected_at": "2026-09-26 09:09:19",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Center / power forward"
+  },
+  {
+   "detail": "Isaac Bonga  ~ 77638: position -> Small forward / power forward",
+   "detected_at": "2026-09-26 09:09:19",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Small forward"
+  },
+  {
    "detail": "German BBL Mitteldeutscher BC 77, Science City Jena 62",
    "detected_at": "2026-09-26 09:08:37",
    "source": "SCORES",
@@ -10113,30 +10139,6 @@
    "detected_at": "2026-09-22 14:26:55",
    "source": "TRANSACTIONS",
    "type": "Waive"
-  },
-  {
-   "detail": "2026-09-22  Charlotte Hornets waived  Tre Carroll.",
-   "detected_at": "2026-09-22 14:26:55",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
-  },
-  {
-   "detail": "2026-09-22  Denver Nuggets waived guard Reese Dixon-Waters.",
-   "detected_at": "2026-09-22 14:26:55",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
-  },
-  {
-   "detail": "2026-09-22  Denver Nuggets waived forward Keonte Jones.",
-   "detected_at": "2026-09-22 14:26:55",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
-  },
-  {
-   "detail": "2026-09-22  Detroit Pistons waived  Drake Allen.",
-   "detected_at": "2026-09-22 14:26:55",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
   }
  ],
  "feeds": {
@@ -10149,8 +10151,8 @@
    "last": "2026-09-26 09:00:43"
   },
   "PLAYERS": {
-   "count": 1135,
-   "last": "2026-09-25 17:49:54"
+   "count": 1137,
+   "last": "2026-09-26 09:09:55"
   },
   "RATINGS": {
    "count": 950,
@@ -10177,10 +10179,10 @@
    "last": "2026-09-26 09:07:39"
   },
   "WIKIWATCH": {
-   "count": 252,
-   "last": "2026-09-25 22:45:42"
+   "count": 254,
+   "last": "2026-09-26 09:09:19"
   }
  },
- "generated_at": "2026-09-26T09:08:41",
- "total": 17809
+ "generated_at": "2026-09-26T09:10:04",
+ "total": 17813
 }
