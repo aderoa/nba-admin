@@ -1,6 +1,55 @@
 {
  "events": [
   {
+   "detail": "French NM1 + Lincoln Rosebush → JSA Bordeaux Basket",
+   "detected_at": "2026-09-25 20:19:13",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French NM1 Etoile Angers Basket 63, JSA Bordeaux Basket 56",
+   "detected_at": "2026-09-25 20:19:13",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-25/Etoile-Angers-Basket-at-JSA-Bordeaux-Basket/534885"
+  },
+  {
+   "detail": "French NM1 Union Tours Metropole Basket 84, CEP Lorient 80",
+   "detected_at": "2026-09-25 20:19:11",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-25/CEP-Lorient-at-Union-Tours-Metropole-Basket/534884"
+  },
+  {
+   "detail": "French NM1 Berck Rang Du Fliers 84, Pays Salonais 64",
+   "detected_at": "2026-09-25 20:19:08",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-25/Pays-Salonais-at-Berck-Rang-Du-Fliers/534878"
+  },
+  {
+   "detail": "French NM1 + Timothe Aimee → Lyonso Basket",
+   "detected_at": "2026-09-25 20:19:05",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French NM1 + Orian Engloo → BC Orchies",
+   "detected_at": "2026-09-25 20:19:05",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French NM1 BC Orchies 100, Lyonso Basket 57",
+   "detected_at": "2026-09-25 20:19:05",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-25/Lyonso-Basket-at-BC-Orchies/534881"
+  },
+  {
    "detail": "2026-09-25  Golden State Warriors re-signed guard Stephen Curry to a Veteran Extension.",
    "detected_at": "2026-09-25 19:47:55",
    "source": "TRANSACTIONS",
@@ -9760,55 +9809,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Intercontinental Cup + Martin Cuello → Boca Juniors",
-   "detected_at": "2026-09-22 08:18:47",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Intercontinental Cup + Zou Yuchen → Beijing BeiKong",
-   "detected_at": "2026-09-22 08:18:47",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Intercontinental Cup + Harry Giles → Beijing BeiKong",
-   "detected_at": "2026-09-22 08:18:47",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Intercontinental Cup + Jin Xin → Beijing BeiKong",
-   "detected_at": "2026-09-22 08:18:47",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Intercontinental Cup + Hanchen Luo → Beijing BeiKong",
-   "detected_at": "2026-09-22 08:18:47",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Intercontinental Cup + Grant Riller → Beijing BeiKong",
-   "detected_at": "2026-09-22 08:18:47",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Intercontinental Cup + Javonte Cooke → Beijing BeiKong",
-   "detected_at": "2026-09-22 08:18:47",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -9829,12 +9829,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 2740,
-   "last": "2026-09-25 19:18:44"
+   "count": 2743,
+   "last": "2026-09-25 20:19:13"
   },
   "SCORES": {
-   "count": 757,
-   "last": "2026-09-25 19:18:45"
+   "count": 761,
+   "last": "2026-09-25 20:19:13"
   },
   "SHEETS": {
    "count": 4050,
@@ -9853,6 +9853,6 @@
    "last": "2026-09-24 23:45:13"
   }
  },
- "generated_at": "2026-09-25T20:18:00",
- "total": 17431
+ "generated_at": "2026-09-25T20:19:17",
+ "total": 17438
 }
