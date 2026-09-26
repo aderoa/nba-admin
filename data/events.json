@@ -1,6 +1,76 @@
 {
  "events": [
   {
+   "detail": "Jahmar Young  ~ team: Hapoel Hevel Modi'in -> -",
+   "detected_at": "2026-09-26 16:30:42",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jahmar_Young"
+  },
+  {
+   "detail": "Jahmar Young  ~ league: Israeli National League -> -",
+   "detected_at": "2026-09-26 16:30:42",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jahmar_Young"
+  },
+  {
+   "detail": "Jahmar Young  ~ position: Shooting guard -> -",
+   "detected_at": "2026-09-26 16:30:42",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jahmar_Young"
+  },
+  {
+   "detail": "Jahmar Young  ~ number: 14 -> -",
+   "detected_at": "2026-09-26 16:30:42",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jahmar_Young"
+  },
+  {
+   "detail": "Jahmar Young  ~ height_ft: - -> 6",
+   "detected_at": "2026-09-26 16:30:42",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jahmar_Young"
+  },
+  {
+   "detail": "Jahmar Young  ~ height_in: - -> 5",
+   "detected_at": "2026-09-26 16:30:42",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jahmar_Young"
+  },
+  {
+   "detail": "Jahmar Young  ~ weight_lb: - -> 185",
+   "detected_at": "2026-09-26 16:30:42",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jahmar_Young"
+  },
+  {
+   "detail": "Jahmar Young  ~ career_end: - -> 2021",
+   "detected_at": "2026-09-26 16:30:42",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jahmar_Young"
+  },
+  {
+   "detail": "Jahmar Young  ~ CAREER  + 2020 Hapoel Eilat",
+   "detected_at": "2026-09-26 16:30:42",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Jahmar_Young"
+  },
+  {
+   "detail": "Jahmar Young  ~ CAREER  + 2020–2021 Klosterneuburg Dukes",
+   "detected_at": "2026-09-26 16:30:42",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Jahmar_Young"
+  },
+  {
    "detail": "Brandon Boston Jr.  ~ team: Windy City Bulls -> Chicago Bulls",
    "detected_at": "2026-09-26 15:17:37",
    "source": "WIKI",
@@ -10104,69 +10174,6 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Keyontae_Johnson"
-  },
-  {
-   "detail": "Bez Mbeng  ~ team: Free agent -> Miami Heat",
-   "detected_at": "2026-09-22 17:58:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Bez_Mbeng"
-  },
-  {
-   "detail": "Bez Mbeng  ~ league: - -> NBA",
-   "detected_at": "2026-09-22 17:58:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Bez_Mbeng"
-  },
-  {
-   "detail": "Bez Mbeng  ~ CAREER  + –present Miami Heat",
-   "detected_at": "2026-09-22 17:58:35",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Bez_Mbeng"
-  },
-  {
-   "detail": "~ CHANGED Buddy Hield  team: ATL -> CHA",
-   "detected_at": "2026-09-22 17:46:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Ryan Nembhard  team: ATL -> CHA",
-   "detected_at": "2026-09-22 17:46:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Dorian Finney-Smith  team: CHA -> ATL",
-   "detected_at": "2026-09-22 17:46:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "ATL  + ADDED  Finney-Smith, Dorian",
-   "detected_at": "2026-09-22 17:37:58",
-   "source": "SHEETS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ATL  - REMOVED Hield, Buddy",
-   "detected_at": "2026-09-22 17:37:58",
-   "source": "SHEETS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "ATL  - REMOVED Nembhard, Ryan",
-   "detected_at": "2026-09-22 17:37:58",
-   "source": "SHEETS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "ATL  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 230114791 -> 232502312.4, col4: 135555116 -> 138792556, col5: 112757332 -> 126092332, col9: 553073648.9 -> 572033610.3",
-   "detected_at": "2026-09-22 17:37:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10203,14 +10210,14 @@
    "last": "2026-09-25 19:47:55"
   },
   "WIKI": {
-   "count": 4225,
-   "last": "2026-09-26 15:17:37"
+   "count": 4235,
+   "last": "2026-09-26 16:30:42"
   },
   "WIKIWATCH": {
    "count": 259,
    "last": "2026-09-26 14:29:58"
   }
  },
- "generated_at": "2026-09-26T16:18:01",
- "total": 17904
+ "generated_at": "2026-09-26T16:30:48",
+ "total": 17914
 }
