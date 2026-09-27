@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Eric Williams (basketball, born 1984)  ~ position: Center -> -",
+   "detected_at": "2026-09-27 16:44:39",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Eric_Williams_(basketball,_born_1984)"
+  },
+  {
+   "detail": "Eric Williams (basketball, born 1984)  ~ career_end: - -> 2018",
+   "detected_at": "2026-09-27 16:44:39",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Eric_Williams_(basketball,_born_1984)"
+  },
+  {
    "detail": "French LNB Espoirs + Julien Taponat → Espoirs Bourg en Bresse",
    "detected_at": "2026-09-27 16:06:16",
    "source": "REALGM",
@@ -10439,20 +10453,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Hikaru Futagami → Sanen Neophoenix",
-   "detected_at": "2026-09-26 09:07:48",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Hayato Wakugawa → Sanen Neophoenix",
-   "detected_at": "2026-09-26 09:07:48",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10489,14 +10489,14 @@
    "last": "2026-09-27 08:39:57"
   },
   "WIKI": {
-   "count": 4371,
-   "last": "2026-09-27 15:51:38"
+   "count": 4373,
+   "last": "2026-09-27 16:44:39"
   },
   "WIKIWATCH": {
    "count": 274,
    "last": "2026-09-27 15:51:49"
   }
  },
- "generated_at": "2026-09-27T16:36:02",
- "total": 19078
+ "generated_at": "2026-09-27T16:44:40",
+ "total": 19080
 }
