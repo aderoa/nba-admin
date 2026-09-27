@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "~ CHANGED Drew Peterson  school: USC -> Southern California",
+   "detected_at": "2026-09-27 09:57:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "+ ADDED   Tyler Nickel (NYK)",
    "detected_at": "2026-09-27 09:54:55",
    "source": "PLAYERS",
@@ -10431,13 +10437,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Turkish BSL + Damien Jefferson → Bordo Sportif Balikesir",
-   "detected_at": "2026-09-25 19:18:31",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10450,8 +10449,8 @@
    "last": "2026-09-27 09:43:40"
   },
   "PLAYERS": {
-   "count": 1165,
-   "last": "2026-09-27 09:54:55"
+   "count": 1166,
+   "last": "2026-09-27 09:57:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10482,6 +10481,6 @@
    "last": "2026-09-27 09:54:16"
   }
  },
- "generated_at": "2026-09-27T09:57:00",
- "total": 18899
+ "generated_at": "2026-09-27T09:58:01",
+ "total": 18900
 }
