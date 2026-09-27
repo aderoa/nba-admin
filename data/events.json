@@ -1,6 +1,734 @@
 {
  "events": [
   {
+   "detail": "French LNB Pro B Champagne Chalons Reims CB 88, Orleans Loiret Basket 84",
+   "detected_at": "2026-09-26 20:36:34",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-26/Champagne-Chalons-Reims-CB-at-Orleans-Loiret-Basket/526771"
+  },
+  {
+   "detail": "French LNB Pro B Antibes 81, Hermine Nantes Atlantique 73",
+   "detected_at": "2026-09-26 20:36:31",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-26/Hermine-Nantes-Atlantique-at-Antibes/526766"
+  },
+  {
+   "detail": "French LNB Pro B + Sahel Mouhri → Hermine Nantes Atlantique",
+   "detected_at": "2026-09-26 20:36:30",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French LNB Pro B + Lenny Nahounou → Antibes",
+   "detected_at": "2026-09-26 20:36:30",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "German Pro A Rhein Stars Koeln 83, BG Gottingen 80",
+   "detected_at": "2026-09-26 20:36:27",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-26/Rhein-Stars-Koeln-at-BG-Gottingen/525441"
+  },
+  {
+   "detail": "German Pro A + Biggie Patterson → Rhein Stars Koeln",
+   "detected_at": "2026-09-26 20:36:26",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "German Pro A + Karl Buhner → Rhein Stars Koeln",
+   "detected_at": "2026-09-26 20:36:26",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "German Pro A + Haris Hujic → Rhein Stars Koeln",
+   "detected_at": "2026-09-26 20:36:26",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "German Pro A + Jasper Gunther → Rhein Stars Koeln",
+   "detected_at": "2026-09-26 20:36:26",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "German Pro A + Bjorn Rohwer → Rhein Stars Koeln",
+   "detected_at": "2026-09-26 20:36:26",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "German Pro A + Kris Monroe → Rhein Stars Koeln",
+   "detected_at": "2026-09-26 20:36:26",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "German Pro A + Nat Diallo → Rhein Stars Koeln",
+   "detected_at": "2026-09-26 20:36:26",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "German Pro A + Maximilian Begue → Rhein Stars Koeln",
+   "detected_at": "2026-09-26 20:36:26",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "German Pro A + Cedric Russell → Rhein Stars Koeln",
+   "detected_at": "2026-09-26 20:36:26",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "German Pro A + Antonio Williams → Rhein Stars Koeln",
+   "detected_at": "2026-09-26 20:36:26",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "German Pro A + Nico Hoellerl → HARKO Merlins Crailsheim",
+   "detected_at": "2026-09-26 20:36:23",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "German Pro A + Marko Dordevic → HARKO Merlins Crailsheim",
+   "detected_at": "2026-09-26 20:36:23",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "German Pro A ~ MOVED Craig Moller → ETB Miners Essen (from Otago Nuggets)",
+   "detected_at": "2026-09-26 20:36:23",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "German Pro A + Marc Friederici → ETB Miners Essen",
+   "detected_at": "2026-09-26 20:36:23",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "German Pro A + Quashawn Lane → ETB Miners Essen",
+   "detected_at": "2026-09-26 20:36:23",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "German Pro A + Darius Dawson → ETB Miners Essen",
+   "detected_at": "2026-09-26 20:36:23",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "German Pro A + Jonathan Almstedt → ETB Miners Essen",
+   "detected_at": "2026-09-26 20:36:23",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "German Pro A + Ronney Ani → ETB Miners Essen",
+   "detected_at": "2026-09-26 20:36:23",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "German Pro A + Jackson Price → ETB Miners Essen",
+   "detected_at": "2026-09-26 20:36:23",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "German Pro A + Isaiah Sanders → ETB Miners Essen",
+   "detected_at": "2026-09-26 20:36:23",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "German Pro A + Ben Uzoma → ETB Miners Essen",
+   "detected_at": "2026-09-26 20:36:23",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "German Pro A + Tre Beard → ETB Miners Essen",
+   "detected_at": "2026-09-26 20:36:23",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "German Pro A + J.J. Mann → ETB Miners Essen",
+   "detected_at": "2026-09-26 20:36:23",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "German Pro A + Niclas Jonathan Sperber → ETB Miners Essen",
+   "detected_at": "2026-09-26 20:36:23",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "German Pro A HARKO Merlins Crailsheim 81, ETB Miners Essen 67",
+   "detected_at": "2026-09-26 20:36:23",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-26/HARKO-Merlins-Crailsheim-at-ETB-Miners-Essen/525443"
+  },
+  {
+   "detail": "German Pro A + Lars Kamp → Walter Tigers Tubingen",
+   "detected_at": "2026-09-26 20:36:20",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "German Pro A + Kristian Sjolund → Walter Tigers Tubingen",
+   "detected_at": "2026-09-26 20:36:20",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "German Pro A + Aiden Warnholtz → Walter Tigers Tubingen",
+   "detected_at": "2026-09-26 20:36:20",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "German Pro A + Melkisedek Moreaux → Walter Tigers Tubingen",
+   "detected_at": "2026-09-26 20:36:20",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "German Pro A + Jesse Chidera Ani → Walter Tigers Tubingen",
+   "detected_at": "2026-09-26 20:36:20",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "German Pro A + Tim Smith, Jr. → Walter Tigers Tubingen",
+   "detected_at": "2026-09-26 20:36:20",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "German Pro A + Nico Santana Mojica → Walter Tigers Tubingen",
+   "detected_at": "2026-09-26 20:36:20",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "German Pro A + Isaac Haney → Walter Tigers Tubingen",
+   "detected_at": "2026-09-26 20:36:20",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "German Pro A + Creighton Morisch → Walter Tigers Tubingen",
+   "detected_at": "2026-09-26 20:36:20",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "German Pro A + Simon Feneberg → Walter Tigers Tubingen",
+   "detected_at": "2026-09-26 20:36:20",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "German Pro A + Aron Heberle → Walter Tigers Tubingen",
+   "detected_at": "2026-09-26 20:36:20",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "German Pro A MLP Academics Heidelberg 83, Walter Tigers Tubingen 75",
+   "detected_at": "2026-09-26 20:36:20",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-26/MLP-Academics-Heidelberg-at-Walter-Tigers-Tubingen/525442"
+  },
+  {
+   "detail": "French Jeep Elite + Thomas Cornely → Pau Orthez",
+   "detected_at": "2026-09-26 20:36:17",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite + Justin Briggs → Pau Orthez",
+   "detected_at": "2026-09-26 20:36:17",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite + Josh Mballa → Pau Orthez",
+   "detected_at": "2026-09-26 20:36:17",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite + Michael Flowers → Pau Orthez",
+   "detected_at": "2026-09-26 20:36:17",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite + Jayvon Maughmer → Pau Orthez",
+   "detected_at": "2026-09-26 20:36:17",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite + Gide Noel → Pau Orthez",
+   "detected_at": "2026-09-26 20:36:17",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite + Bastien Pinault → Pau Orthez",
+   "detected_at": "2026-09-26 20:36:17",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite + Juwan Gary → Pau Orthez",
+   "detected_at": "2026-09-26 20:36:17",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite + Fabio Milanese → Pau Orthez",
+   "detected_at": "2026-09-26 20:36:17",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite + Ben Middlebrooks → Pau Orthez",
+   "detected_at": "2026-09-26 20:36:17",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite Nanterre 92 78, Pau Orthez 64",
+   "detected_at": "2026-09-26 20:36:17",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-26/Pau-Orthez-at-Nanterre-92/537197"
+  },
+  {
+   "detail": "French Jeep Elite + TaShawn Thomas → Le Mans Sarthe Basket",
+   "detected_at": "2026-09-26 20:36:14",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite + Carlos Stewart Jr. → Le Mans Sarthe Basket",
+   "detected_at": "2026-09-26 20:36:14",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite + Melvin Ajinca → Le Mans Sarthe Basket",
+   "detected_at": "2026-09-26 20:36:14",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite + Lucas Dufeal → Le Mans Sarthe Basket",
+   "detected_at": "2026-09-26 20:36:14",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite + Ugo Doumbia → Le Mans Sarthe Basket",
+   "detected_at": "2026-09-26 20:36:14",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite + Wilfried Yeguete → Le Mans Sarthe Basket",
+   "detected_at": "2026-09-26 20:36:14",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite + Moses Wood → Le Mans Sarthe Basket",
+   "detected_at": "2026-09-26 20:36:14",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite + Leopold Delaunay → Le Mans Sarthe Basket",
+   "detected_at": "2026-09-26 20:36:14",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite + Jordan King → Le Mans Sarthe Basket",
+   "detected_at": "2026-09-26 20:36:14",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite + Swann Penda → Le Mans Sarthe Basket",
+   "detected_at": "2026-09-26 20:36:14",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite + Bastien Grasshoff → Le Mans Sarthe Basket",
+   "detected_at": "2026-09-26 20:36:14",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite + Mikael Hopkins → BCM Gravelines",
+   "detected_at": "2026-09-26 20:36:14",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite + Aubrey Dawkins → BCM Gravelines",
+   "detected_at": "2026-09-26 20:36:14",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite + Jaren Lewis → BCM Gravelines",
+   "detected_at": "2026-09-26 20:36:14",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite + Jacob Gilyard → BCM Gravelines",
+   "detected_at": "2026-09-26 20:36:14",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite + Louka Letailleur → BCM Gravelines",
+   "detected_at": "2026-09-26 20:36:14",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite + Soren Bracq → BCM Gravelines",
+   "detected_at": "2026-09-26 20:36:14",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite + Jahel Trefle → BCM Gravelines",
+   "detected_at": "2026-09-26 20:36:14",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite + Moussa Boune → BCM Gravelines",
+   "detected_at": "2026-09-26 20:36:14",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite Le Mans Sarthe Basket 103, BCM Gravelines 97",
+   "detected_at": "2026-09-26 20:36:14",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-26/Le-Mans-Sarthe-Basket-at-BCM-Gravelines/537195"
+  },
+  {
+   "detail": "French Jeep Elite Chorale Roanne Basket 81, Boulazac Basket Dordogne 79",
+   "detected_at": "2026-09-26 20:36:12",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-26/Chorale-Roanne-Basket-at-Boulazac-Basket-Dordogne/537193"
+  },
+  {
+   "detail": "French Jeep Elite + Josh Uduje → Boulazac Basket Dordogne",
+   "detected_at": "2026-09-26 20:36:11",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite + Patrick Beverley → Boulazac Basket Dordogne",
+   "detected_at": "2026-09-26 20:36:11",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite + Thomas Ville → Boulazac Basket Dordogne",
+   "detected_at": "2026-09-26 20:36:11",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite + Obinna Anochili → Boulazac Basket Dordogne",
+   "detected_at": "2026-09-26 20:36:11",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite + Essome Miyem Nwal → Boulazac Basket Dordogne",
+   "detected_at": "2026-09-26 20:36:11",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite + Godwin Ekene Omenaka → Boulazac Basket Dordogne",
+   "detected_at": "2026-09-26 20:36:11",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite + Cyrille Eliezer-Vanerot → Boulazac Basket Dordogne",
+   "detected_at": "2026-09-26 20:36:11",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite + J.T. Shumate → Boulazac Basket Dordogne",
+   "detected_at": "2026-09-26 20:36:11",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite + Antoine Eito → Boulazac Basket Dordogne",
+   "detected_at": "2026-09-26 20:36:11",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite + Aaron Estrada → Boulazac Basket Dordogne",
+   "detected_at": "2026-09-26 20:36:11",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite Chalon Sur Saone 82, CSP Limoges 74",
+   "detected_at": "2026-09-26 20:36:09",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-26/CSP-Limoges-at-Chalon-Sur-Saone/537194"
+  },
+  {
+   "detail": "French Jeep Elite + Nicolas Lang → CSP Limoges",
+   "detected_at": "2026-09-26 20:36:08",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite + Andrew Albicy → CSP Limoges",
+   "detected_at": "2026-09-26 20:36:08",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite + D.J. Horne → CSP Limoges",
+   "detected_at": "2026-09-26 20:36:08",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite + Hugo Invernizzi → CSP Limoges",
+   "detected_at": "2026-09-26 20:36:08",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite + Gavin Ware → CSP Limoges",
+   "detected_at": "2026-09-26 20:36:08",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite + Tai Webster → CSP Limoges",
+   "detected_at": "2026-09-26 20:36:08",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite + Mamadou Guisse → CSP Limoges",
+   "detected_at": "2026-09-26 20:36:08",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite + Louis Labeyrie → CSP Limoges",
+   "detected_at": "2026-09-26 20:36:08",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite + Leon Stergar → CSP Limoges",
+   "detected_at": "2026-09-26 20:36:08",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite + Jeremiah Hill → Chalon Sur Saone",
+   "detected_at": "2026-09-26 20:36:08",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite + Carl Ponsar → Chalon Sur Saone",
+   "detected_at": "2026-09-26 20:36:08",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite + Aher Uguak → Chalon Sur Saone",
+   "detected_at": "2026-09-26 20:36:08",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite + Matheo Leray → Chalon Sur Saone",
+   "detected_at": "2026-09-26 20:36:08",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite + Noa Kouakou-Heugue → Chalon Sur Saone",
+   "detected_at": "2026-09-26 20:36:08",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite + Grant Golden → Chalon Sur Saone",
+   "detected_at": "2026-09-26 20:36:08",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite + Damian Dunn → Chalon Sur Saone",
+   "detected_at": "2026-09-26 20:36:08",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite + Yanis Tonnellier → Chalon Sur Saone",
+   "detected_at": "2026-09-26 20:36:08",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite + Jeriah Horne → Chalon Sur Saone",
+   "detected_at": "2026-09-26 20:36:08",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite + Riley Zizi → Chalon Sur Saone",
+   "detected_at": "2026-09-26 20:36:08",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
    "detail": "Austrian A Bundesliga COLDAMARIS BBC Nord Dragonz 80, BK Klosterneuburg Dukes 74",
    "detected_at": "2026-09-26 19:35:33",
    "source": "SCORES",
@@ -9464,730 +10192,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "FIBA Europe Cup Qualification + Roger Hermet → Parnu Sadam",
-   "detected_at": "2026-09-23 11:17:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "FIBA Europe Cup Qualification + Kaspar Lootus → Parnu Sadam",
-   "detected_at": "2026-09-23 11:17:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "FIBA Europe Cup Qualification + Javeon Jones → Parnu Sadam",
-   "detected_at": "2026-09-23 11:17:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "FIBA Europe Cup Qualification + Milic Starovlah → Neftchi IK",
-   "detected_at": "2026-09-23 11:17:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "FIBA Europe Cup Qualification + Elijah Hawkins → Neftchi IK",
-   "detected_at": "2026-09-23 11:17:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "FIBA Europe Cup Qualification + Shakael Pryce → Neftchi IK",
-   "detected_at": "2026-09-23 11:17:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "FIBA Europe Cup Qualification + Zach Hicks → Neftchi IK",
-   "detected_at": "2026-09-23 11:17:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "FIBA Europe Cup Qualification + Robert Howard, Jr. → Neftchi IK",
-   "detected_at": "2026-09-23 11:17:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "FIBA Europe Cup Qualification + Aleksa Stepanovic → Neftchi IK",
-   "detected_at": "2026-09-23 11:17:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "FIBA Europe Cup Qualification + Jabrayil Akbarov → Neftchi IK",
-   "detected_at": "2026-09-23 11:17:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "FIBA Europe Cup Qualification + Ulas Can Turgut → Neftchi IK",
-   "detected_at": "2026-09-23 11:17:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "FIBA Europe Cup Qualification Neftchi IK 80, Parnu Sadam 67",
-   "detected_at": "2026-09-23 11:17:10",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-23/Parnu-Sadam-at-Neftchi-IK/528581"
-  },
-  {
-   "detail": "Kyle Weems  ~ team: Free Agent -> Free agent",
-   "detected_at": "2026-09-23 11:03:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Kyle_Weems"
-  },
-  {
-   "detail": "Ja'Kobe Walter  ~ height_in: 4 -> 6",
-   "detected_at": "2026-09-23 10:40:37",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Ja'Kobe_Walter"
-  },
-  {
-   "detail": "+ ADDED   Ben Humrichous (BKN)",
-   "detected_at": "2026-09-23 09:53:54",
-   "source": "PLAYERS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "+ ADDED   Nate Santos (MIN)",
-   "detected_at": "2026-09-23 09:53:54",
-   "source": "PLAYERS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "+ ADDED   Dain Dainja (BKN)",
-   "detected_at": "2026-09-23 09:53:54",
-   "source": "PLAYERS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "+ ADDED   Barry Dunning (POR)",
-   "detected_at": "2026-09-23 09:53:54",
-   "source": "PLAYERS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "Lonzo Ball  ~ 59501: team -> -",
-   "detected_at": "2026-09-23 09:30:58",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "Free agent"
-  },
-  {
-   "detail": "Lonzo Ball  ~ 59501: position -> -",
-   "detected_at": "2026-09-23 09:08:57",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "Point guard"
-  },
-  {
-   "detail": "Lonzo Ball  ~ 59501: (page changed) -> -",
-   "detected_at": "2026-09-23 09:08:57",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": ""
-  },
-  {
-   "detail": "Danish Basketligaen + Gustav Suhr-Jessen → Copenhagen Basketball",
-   "detected_at": "2026-09-23 09:08:20",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Danish Basketligaen + Viggo Rimdal → Copenhagen Basketball",
-   "detected_at": "2026-09-23 09:08:20",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Danish Basketligaen + Martin Poulsen → Copenhagen Basketball",
-   "detected_at": "2026-09-23 09:08:20",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Danish Basketligaen + Andrew Ramirez → Copenhagen Basketball",
-   "detected_at": "2026-09-23 09:08:20",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Danish Basketligaen + Thomas Buch Andersen → Copenhagen Basketball",
-   "detected_at": "2026-09-23 09:08:20",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Danish Basketligaen + Oliver Stroh → Copenhagen Basketball",
-   "detected_at": "2026-09-23 09:08:20",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Danish Basketligaen + Kasper Quvang → Copenhagen Basketball",
-   "detected_at": "2026-09-23 09:08:20",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Danish Basketligaen + Anton Bertelsen → Copenhagen Basketball",
-   "detected_at": "2026-09-23 09:08:20",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Danish Basketligaen + Emil Grosse → Copenhagen Basketball",
-   "detected_at": "2026-09-23 09:08:20",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Danish Basketligaen + David Knudsen → Copenhagen Basketball",
-   "detected_at": "2026-09-23 09:08:20",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Danish Basketligaen + Ziggy Poczkaj → Copenhagen Basketball",
-   "detected_at": "2026-09-23 09:08:20",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Danish Basketligaen + Achilles Mistry Strandvik → Copenhagen Basketball",
-   "detected_at": "2026-09-23 09:08:20",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Danish Basketligaen Copenhagen Basketball 88, Vaerlose BBK 74",
-   "detected_at": "2026-09-23 09:08:20",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-22/Vaerlose-BBK-at-Copenhagen-Basketball/541540"
-  },
-  {
-   "detail": "Lithuanian LKL + Aaron Gray → Kedainiai Nevezis",
-   "detected_at": "2026-09-23 09:08:17",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Lithuanian LKL + Javontae Hopkins → Kedainiai Nevezis",
-   "detected_at": "2026-09-23 09:08:17",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Lithuanian LKL + Dylan Andrews → Kedainiai Nevezis",
-   "detected_at": "2026-09-23 09:08:17",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Lithuanian LKL + Jonas Zakas → Kedainiai Nevezis",
-   "detected_at": "2026-09-23 09:08:17",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Lithuanian LKL + Paulius Petrilevicius → Kedainiai Nevezis",
-   "detected_at": "2026-09-23 09:08:17",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Lithuanian LKL + Jacob Wiley → Kedainiai Nevezis",
-   "detected_at": "2026-09-23 09:08:17",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Lithuanian LKL + Nojus Bukauskas → Kedainiai Nevezis",
-   "detected_at": "2026-09-23 09:08:17",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Lithuanian LKL + Danielius Lavrinovicius → Kedainiai Nevezis",
-   "detected_at": "2026-09-23 09:08:17",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Lithuanian LKL + Flynn Raffett → Kedainiai Nevezis",
-   "detected_at": "2026-09-23 09:08:17",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Lithuanian LKL + Modestas Kancleris → Kedainiai Nevezis",
-   "detected_at": "2026-09-23 09:08:17",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Lithuanian LKL + Nojus Raulusevicius → Jonava Jonavos",
-   "detected_at": "2026-09-23 09:08:17",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Lithuanian LKL Jonava Jonavos 85, Kedainiai Nevezis 65",
-   "detected_at": "2026-09-23 09:08:17",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-22/Kedainiai-Nevezis-at-Jonava-Jonavos/530187"
-  },
-  {
-   "detail": "Japanese BLeague + Sota Oura → Ryukyu Golden Kings",
-   "detected_at": "2026-09-23 09:08:14",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Ryo Sadohara → Ryukyu Golden Kings",
-   "detected_at": "2026-09-23 09:08:14",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Yoshiyuki Matsuwaki → Ryukyu Golden Kings",
-   "detected_at": "2026-09-23 09:08:14",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Jack Cooley → Ryukyu Golden Kings",
-   "detected_at": "2026-09-23 09:08:14",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + David Nwaba → Ryukyu Golden Kings",
-   "detected_at": "2026-09-23 09:08:14",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Masahiro Waki → Ryukyu Golden Kings",
-   "detected_at": "2026-09-23 09:08:14",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Shota Onodera → Ryukyu Golden Kings",
-   "detected_at": "2026-09-23 09:08:14",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Kiefer Isaac Ravena → Ryukyu Golden Kings",
-   "detected_at": "2026-09-23 09:08:14",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Kevin Jones → Ryukyu Golden Kings",
-   "detected_at": "2026-09-23 09:08:14",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Ryan Rossiter → Toyota Alvark",
-   "detected_at": "2026-09-23 09:08:14",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + D.J. Hogg → Toyota Alvark",
-   "detected_at": "2026-09-23 09:08:14",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Kai Toews → Toyota Alvark",
-   "detected_at": "2026-09-23 09:08:14",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Ando Shuto → Toyota Alvark",
-   "detected_at": "2026-09-23 09:08:14",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Keyontae Johnson → Toyota Alvark",
-   "detected_at": "2026-09-23 09:08:14",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Gen Hiraiwa → Toyota Alvark",
-   "detected_at": "2026-09-23 09:08:14",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Zack Baranski → Toyota Alvark",
-   "detected_at": "2026-09-23 09:08:14",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Sota Okura → Toyota Alvark",
-   "detected_at": "2026-09-23 09:08:14",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Taiki Osakabe → Toyota Alvark",
-   "detected_at": "2026-09-23 09:08:14",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Lachlan Olbrich → Toyota Alvark",
-   "detected_at": "2026-09-23 09:08:14",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague Toyota Alvark 84, Ryukyu Golden Kings 73",
-   "detected_at": "2026-09-23 09:08:14",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-22/Ryukyu-Golden-Kings-at-Toyota-Alvark/523875"
-  },
-  {
-   "detail": "Intercontinental Cup + Kylor Kelley → NBA G League Elite",
-   "detected_at": "2026-09-23 09:08:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Intercontinental Cup + Lester Quinones → NBA G League Elite",
-   "detected_at": "2026-09-23 09:08:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Intercontinental Cup + Phillip Wheeler → NBA G League Elite",
-   "detected_at": "2026-09-23 09:08:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Intercontinental Cup ~ MOVED Sean East II → NBA G League Elite (from Brampton Honey Badgers)",
-   "detected_at": "2026-09-23 09:08:11",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
-  },
-  {
-   "detail": "Intercontinental Cup + John Ukomadu → NBA G League Elite",
-   "detected_at": "2026-09-23 09:08:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Intercontinental Cup + Jordan Johnson → NBA G League Elite",
-   "detected_at": "2026-09-23 09:08:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Intercontinental Cup + Eric Dixon → NBA G League Elite",
-   "detected_at": "2026-09-23 09:08:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Intercontinental Cup + James Bouknight → NBA G League Elite",
-   "detected_at": "2026-09-23 09:08:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Intercontinental Cup + Yuri Collins → NBA G League Elite",
-   "detected_at": "2026-09-23 09:08:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Intercontinental Cup + Caleb Grill → NBA G League Elite",
-   "detected_at": "2026-09-23 09:08:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Intercontinental Cup + Nick Jourdain → NBA G League Elite",
-   "detected_at": "2026-09-23 09:08:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Intercontinental Cup + Jack Clark → NBA G League Elite",
-   "detected_at": "2026-09-23 09:08:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Intercontinental Cup NBA G League Elite 119, Beijing BeiKong 89",
-   "detected_at": "2026-09-23 09:08:11",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-23/NBA-G-League-Elite-at-Beijing-BeiKong/528761"
-  },
-  {
-   "detail": "Australian NBL Cairns 93, Tasmania 87",
-   "detected_at": "2026-09-23 09:08:08",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-23/Tasmania-at-Cairns/524266"
-  },
-  {
-   "detail": "Intercontinental Cup + Zhenlin Zhang → Shanghai Dongfang",
-   "detected_at": "2026-09-23 09:08:05",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Intercontinental Cup + Brandon Goodwin → Shanghai Dongfang",
-   "detected_at": "2026-09-23 09:08:05",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Intercontinental Cup + Terry Li → Shanghai Dongfang",
-   "detected_at": "2026-09-23 09:08:05",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Intercontinental Cup + Zhelin Wang → Shanghai Dongfang",
-   "detected_at": "2026-09-23 09:08:05",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Intercontinental Cup + Liyongwei Xie → Shanghai Dongfang",
-   "detected_at": "2026-09-23 09:08:05",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Intercontinental Cup + Cui Xiaolong → Shanghai Dongfang",
-   "detected_at": "2026-09-23 09:08:05",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Intercontinental Cup + Lijia Liu → Shanghai Dongfang",
-   "detected_at": "2026-09-23 09:08:05",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Intercontinental Cup + Zheng Liu → Shanghai Dongfang",
-   "detected_at": "2026-09-23 09:08:05",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Intercontinental Cup + Pengfei Yan → Shanghai Dongfang",
-   "detected_at": "2026-09-23 09:08:05",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Intercontinental Cup + Tangwen Yuan → Shanghai Dongfang",
-   "detected_at": "2026-09-23 09:08:05",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Intercontinental Cup RSSB Tigers 117, Shanghai Dongfang 115",
-   "detected_at": "2026-09-23 09:08:05",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-23/RSSB-Tigers-at-Shanghai-Dongfang/528759"
-  },
-  {
-   "detail": "Lonzo Ball  ~ team: Free agent -> -",
-   "detected_at": "2026-09-23 09:07:56",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Lonzo_Ball"
-  },
-  {
-   "detail": "Lonzo Ball  ~ career_end: - -> 2026",
-   "detected_at": "2026-09-23 09:07:56",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Lonzo_Ball"
-  },
-  {
-   "detail": "Phillip Wheeler (basketball)  ~ team: Piratas de Quebradillas -> Rio Grande Valley Vipers",
-   "detected_at": "2026-09-23 09:07:56",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Phillip_Wheeler_(basketball)"
-  },
-  {
-   "detail": "Phillip Wheeler (basketball)  ~ league: Baloncesto Superior Nacional -> NBA G League",
-   "detected_at": "2026-09-23 09:07:56",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Phillip_Wheeler_(basketball)"
-  },
-  {
-   "detail": "Phillip Wheeler (basketball)  ~ position: Small forward / power forward -> Small forward",
-   "detected_at": "2026-09-23 09:07:56",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Phillip_Wheeler_(basketball)"
-  },
-  {
-   "detail": "Phillip Wheeler (basketball)  ~ number: 23 -> -",
-   "detected_at": "2026-09-23 09:07:56",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Phillip_Wheeler_(basketball)"
-  },
-  {
-   "detail": "Phillip Wheeler (basketball)  ~ weight_lb: 185 -> 190",
-   "detected_at": "2026-09-23 09:07:56",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Phillip_Wheeler_(basketball)"
-  },
-  {
-   "detail": "Phillip Wheeler (basketball)  ~ CAREER  + 2025–2026 Piratas de Quebradillas",
-   "detected_at": "2026-09-23 09:07:56",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Phillip_Wheeler_(basketball)"
-  },
-  {
-   "detail": "Phillip Wheeler (basketball)  ~ CAREER  + 2026–present Rio Grande Valley Vipers",
-   "detected_at": "2026-09-23 09:07:56",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Phillip_Wheeler_(basketball)"
-  },
-  {
-   "detail": "Ricky Council IV  ~ team: Rio Grande Valley Vipers -> Osceola Magic",
-   "detected_at": "2026-09-23 09:07:56",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Ricky_Council_IV"
-  },
-  {
-   "detail": "Ricky Council IV  ~ number: 14 -> -",
-   "detected_at": "2026-09-23 09:07:56",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Ricky_Council_IV"
-  },
-  {
-   "detail": "Ricky Council IV  ~ CAREER  + 2025–2026 Rio Grande Valley Vipers",
-   "detected_at": "2026-09-23 09:07:56",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Ricky_Council_IV"
-  },
-  {
-   "detail": "Ricky Council IV  ~ CAREER  + 2026–present Osceola Magic",
-   "detected_at": "2026-09-23 09:07:56",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Ricky_Council_IV"
   }
  ],
  "feeds": {
@@ -10208,12 +10212,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 3057,
-   "last": "2026-09-26 19:35:32"
+   "count": 3152,
+   "last": "2026-09-26 20:36:30"
   },
   "SCORES": {
-   "count": 790,
-   "last": "2026-09-26 19:35:33"
+   "count": 799,
+   "last": "2026-09-26 20:36:34"
   },
   "SHEETS": {
    "count": 4050,
@@ -10232,6 +10236,6 @@
    "last": "2026-09-26 14:29:58"
   }
  },
- "generated_at": "2026-09-26T20:35:05",
- "total": 17952
+ "generated_at": "2026-09-26T20:36:43",
+ "total": 18056
 }
