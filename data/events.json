@@ -1,6 +1,41 @@
 {
  "events": [
   {
+   "detail": "Ethan Thompson  ~ 88903: team -> -",
+   "detected_at": "2026-09-27 15:51:49",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Partizan Belgrade"
+  },
+  {
+   "detail": "Ethan Thompson  ~ 88903: league -> -",
+   "detected_at": "2026-09-27 15:51:49",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Serbian SuperLeague ABA League EuroLeague"
+  },
+  {
+   "detail": "Ethan Thompson  ~ 88903: position -> -",
+   "detected_at": "2026-09-27 15:51:49",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Shooting guard"
+  },
+  {
+   "detail": "Ethan Thompson  ~ 88903: number -> -",
+   "detected_at": "2026-09-27 15:51:49",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "5"
+  },
+  {
+   "detail": "Ethan Thompson  ~ 88903: (page changed) -> -",
+   "detected_at": "2026-09-27 15:51:49",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": ""
+  },
+  {
    "detail": "Devin Carter  ~ number: 26 -> 99",
    "detected_at": "2026-09-27 15:51:38",
    "source": "WIKI",
@@ -10403,41 +10438,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Swedish Basketligan + Oliver Stefanovic → KFUM Nassjo Basket",
-   "detected_at": "2026-09-25 21:20:17",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Swedish Basketligan + Richard Werner Mendes → KFUM Nassjo Basket",
-   "detected_at": "2026-09-25 21:20:17",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Swedish Basketligan + John Brandmark → Boras Basket",
-   "detected_at": "2026-09-25 21:20:17",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Swedish Basketligan + Ludvig Johansson → Boras Basket",
-   "detected_at": "2026-09-25 21:20:17",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Swedish Basketligan + Michael Graham → Boras Basket",
-   "detected_at": "2026-09-25 21:20:17",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10478,10 +10478,10 @@
    "last": "2026-09-27 15:51:38"
   },
   "WIKIWATCH": {
-   "count": 269,
-   "last": "2026-09-27 13:53:08"
+   "count": 274,
+   "last": "2026-09-27 15:51:49"
   }
  },
- "generated_at": "2026-09-27T15:51:39",
- "total": 18969
+ "generated_at": "2026-09-27T15:52:00",
+ "total": 18974
 }
