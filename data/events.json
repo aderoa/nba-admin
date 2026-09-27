@@ -1,6 +1,131 @@
 {
  "events": [
   {
+   "detail": "+ ADDED   Tyler Nickel (NYK)",
+   "detected_at": "2026-09-27 09:54:55",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "+ ADDED   Jarkel Joiner (CHA)",
+   "detected_at": "2026-09-27 09:54:55",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "+ ADDED   Jaden Akins (NYK)",
+   "detected_at": "2026-09-27 09:54:55",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "+ ADDED   Lawson Lovering (MEM)",
+   "detected_at": "2026-09-27 09:54:55",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "+ ADDED   Kevin McCullar Jr. (NYK)",
+   "detected_at": "2026-09-27 09:54:55",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "+ ADDED   N'Faly Dante (NYK)",
+   "detected_at": "2026-09-27 09:54:55",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "- REMOVED Yuri Collins (MEM)",
+   "detected_at": "2026-09-27 09:54:55",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Brendan Hausen (MEM)",
+   "detected_at": "2026-09-27 09:54:55",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Eric Dixon (MEM)",
+   "detected_at": "2026-09-27 09:54:55",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Kira Lewis Jr. (MEM)",
+   "detected_at": "2026-09-27 09:54:55",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Jason Preston (LAC)",
+   "detected_at": "2026-09-27 09:54:55",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Hunter Sallis (LAC)",
+   "detected_at": "2026-09-27 09:54:55",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "~ CHANGED Buddy Hield  team: CHA -> CHI",
+   "detected_at": "2026-09-27 09:54:55",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Drew Peterson  school: Southern California -> USC",
+   "detected_at": "2026-09-27 09:54:55",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Rob Dillingham  team: CHI -> CHA",
+   "detected_at": "2026-09-27 09:54:55",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Andreas Obst  ~ 41616: team -> -",
+   "detected_at": "2026-09-27 09:54:16",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Bayern Munich"
+  },
+  {
+   "detail": "Andreas Obst  ~ 41616: league -> -",
+   "detected_at": "2026-09-27 09:54:16",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "BBL EuroLeague"
+  },
+  {
+   "detail": "Andreas Obst  ~ 41616: position -> -",
+   "detected_at": "2026-09-27 09:54:16",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Shooting guard"
+  },
+  {
+   "detail": "Andreas Obst  ~ 41616: number -> -",
+   "detected_at": "2026-09-27 09:54:16",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "13"
+  },
+  {
+   "detail": "Andreas Obst  ~ 41616: (page changed) -> -",
+   "detected_at": "2026-09-27 09:54:16",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": ""
+  },
+  {
    "detail": "Mexican LNBP Santos de San Luis Potosi 87, Abejas 86",
    "detected_at": "2026-09-27 09:53:27",
    "source": "SCORES",
@@ -10313,146 +10438,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Turkish BSL + Ty Gordon → Bordo Sportif Balikesir",
-   "detected_at": "2026-09-25 19:18:31",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Turkish BSL + Okben Ulubay → Bordo Sportif Balikesir",
-   "detected_at": "2026-09-25 19:18:31",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Turkish BSL + Kadir Bayram → Bordo Sportif Balikesir",
-   "detected_at": "2026-09-25 19:18:31",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Turkish BSL + Edon Maxhuni → Bordo Sportif Balikesir",
-   "detected_at": "2026-09-25 19:18:31",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Turkish BSL + Peyton Aldridge → Bordo Sportif Balikesir",
-   "detected_at": "2026-09-25 19:18:31",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Turkish BSL + Zach Hankins → Bordo Sportif Balikesir",
-   "detected_at": "2026-09-25 19:18:31",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Turkish BSL + Bryce Jones → Tofas SC",
-   "detected_at": "2026-09-25 19:18:31",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Turkish BSL + Gabe Brown → Tofas SC",
-   "detected_at": "2026-09-25 19:18:31",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Turkish BSL + Terrell Carter II → Tofas SC",
-   "detected_at": "2026-09-25 19:18:31",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Turkish BSL + Efe Postel → Tofas SC",
-   "detected_at": "2026-09-25 19:18:31",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Turkish BSL + Yigitcan Saybir → Tofas SC",
-   "detected_at": "2026-09-25 19:18:31",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Turkish BSL + Jamuni McNeace → Tofas SC",
-   "detected_at": "2026-09-25 19:18:31",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Turkish BSL + Zach Nutall → Tofas SC",
-   "detected_at": "2026-09-25 19:18:31",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Turkish BSL + Leon Harun Apaydin → Tofas SC",
-   "detected_at": "2026-09-25 19:18:31",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Turkish BSL + Sadik Kabaca → Tofas SC",
-   "detected_at": "2026-09-25 19:18:31",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Turkish BSL + Shavar Reynolds, Jr. → Tofas SC",
-   "detected_at": "2026-09-25 19:18:31",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Amar Alibegović  ~ team: Covirán Granada -> Derthona Basket",
-   "detected_at": "2026-09-25 18:32:37",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Amar_Alibegovi%C4%87"
-  },
-  {
-   "detail": "Amar Alibegović  ~ league: Liga ACB -> Lega Basket Serie A",
-   "detected_at": "2026-09-25 18:32:37",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Amar_Alibegovi%C4%87"
-  },
-  {
-   "detail": "Amar Alibegović  ~ number: 14 -> -",
-   "detected_at": "2026-09-25 18:32:37",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Amar_Alibegovi%C4%87"
-  },
-  {
-   "detail": "Amar Alibegović  ~ CAREER  + 2026 Granada",
-   "detected_at": "2026-09-25 18:32:37",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Amar_Alibegovi%C4%87"
   }
  ],
  "feeds": {
@@ -10465,8 +10450,8 @@
    "last": "2026-09-27 09:43:40"
   },
   "PLAYERS": {
-   "count": 1150,
-   "last": "2026-09-26 22:52:54"
+   "count": 1165,
+   "last": "2026-09-27 09:54:55"
   },
   "RATINGS": {
    "count": 950,
@@ -10493,10 +10478,10 @@
    "last": "2026-09-27 09:50:59"
   },
   "WIKIWATCH": {
-   "count": 259,
-   "last": "2026-09-26 14:29:58"
+   "count": 264,
+   "last": "2026-09-27 09:54:16"
   }
  },
- "generated_at": "2026-09-27T09:53:31",
- "total": 18879
+ "generated_at": "2026-09-27T09:55:08",
+ "total": 18899
 }
