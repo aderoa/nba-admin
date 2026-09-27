@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Dexter Dennis  ~ CAREER  + 2026 NBA G League United",
+   "detected_at": "2026-09-27 12:12:39",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Dexter_Dennis"
+  },
+  {
+   "detail": "Julius Jenkins  ~ team: Free agent -> -",
+   "detected_at": "2026-09-27 12:12:39",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Julius_Jenkins"
+  },
+  {
+   "detail": "Julius Jenkins  ~ career_end: - -> 2020",
+   "detected_at": "2026-09-27 12:12:39",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Julius_Jenkins"
+  },
+  {
    "detail": "Brady Manek  ~ team: Leones de Ponce -> Trabzonspor",
    "detected_at": "2026-09-27 11:26:39",
    "source": "WIKI",
@@ -10417,27 +10438,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "French NM1 Etoile Angers Basket 63, JSA Bordeaux Basket 56",
-   "detected_at": "2026-09-25 20:19:13",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-25/Etoile-Angers-Basket-at-JSA-Bordeaux-Basket/534885"
-  },
-  {
-   "detail": "French NM1 Union Tours Metropole Basket 84, CEP Lorient 80",
-   "detected_at": "2026-09-25 20:19:11",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-25/CEP-Lorient-at-Union-Tours-Metropole-Basket/534884"
-  },
-  {
-   "detail": "French NM1 Berck Rang Du Fliers 84, Pays Salonais 64",
-   "detected_at": "2026-09-25 20:19:08",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-25/Pays-Salonais-at-Berck-Rang-Du-Fliers/534878"
   }
  ],
  "feeds": {
@@ -10474,14 +10474,14 @@
    "last": "2026-09-27 08:39:57"
   },
   "WIKI": {
-   "count": 4341,
-   "last": "2026-09-27 11:26:39"
+   "count": 4344,
+   "last": "2026-09-27 12:12:39"
   },
   "WIKIWATCH": {
    "count": 264,
    "last": "2026-09-27 09:54:16"
   }
  },
- "generated_at": "2026-09-27T12:04:00",
- "total": 18934
+ "generated_at": "2026-09-27T12:12:40",
+ "total": 18937
 }
