@@ -1,6 +1,69 @@
 {
  "events": [
   {
+   "detail": "Drew Timme  ~ league: - -> NBA",
+   "detected_at": "2026-09-28 04:14:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Drew_Timme"
+  },
+  {
+   "detail": "Drew Timme  ~ number: - -> 17",
+   "detected_at": "2026-09-28 04:14:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Drew_Timme"
+  },
+  {
+   "detail": "Drew Timme  ~ CAREER  + 2025 South Bay Lakers",
+   "detected_at": "2026-09-28 04:14:36",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Drew_Timme"
+  },
+  {
+   "detail": "Drew Timme  ~ CAREER  + –present Minnesota Timberwolves",
+   "detected_at": "2026-09-28 04:14:36",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Drew_Timme"
+  },
+  {
+   "detail": "Kenyon Martin Jr.  ~ team: Ningbo Rockets -> Minnesota Timberwolves",
+   "detected_at": "2026-09-28 04:14:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kenyon_Martin_Jr."
+  },
+  {
+   "detail": "Kenyon Martin Jr.  ~ league: CBA -> NBA",
+   "detected_at": "2026-09-28 04:14:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kenyon_Martin_Jr."
+  },
+  {
+   "detail": "Kenyon Martin Jr.  ~ number: 23 -> 00",
+   "detected_at": "2026-09-28 04:14:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kenyon_Martin_Jr."
+  },
+  {
+   "detail": "Kenyon Martin Jr.  ~ CAREER  + 2025–2026 Ningbo Rockets",
+   "detected_at": "2026-09-28 04:14:36",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Kenyon_Martin_Jr."
+  },
+  {
+   "detail": "Kenyon Martin Jr.  ~ CAREER  + –present Minnesota Timberwolves",
+   "detected_at": "2026-09-28 04:14:36",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Kenyon_Martin_Jr."
+  },
+  {
    "detail": "Italian Lega Basket Serie A Bertram Tortona 101, Tezenis Scaligera Verona 93",
    "detected_at": "2026-09-28 03:57:09",
    "source": "SCORES",
@@ -10415,69 +10478,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Spanish Liga U UCAM Murcia Liga U 95, Bilbao Liga U 66",
-   "detected_at": "2026-09-27 09:52:19",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-26/Bilbao-Liga-U-at-UCAM-Murcia-Liga-U/541699"
-  },
-  {
-   "detail": "Spanish Liga U + Louis Riga → Obradoiro Liga U",
-   "detected_at": "2026-09-27 09:52:16",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Liga U + Miquel Gonzalez → Obradoiro Liga U",
-   "detected_at": "2026-09-27 09:52:16",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Liga U + Malang Adjiba → Obradoiro Liga U",
-   "detected_at": "2026-09-27 09:52:16",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Liga U + Yago Rey Conde → Obradoiro Liga U",
-   "detected_at": "2026-09-27 09:52:16",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Liga U + Alvaro Soneira → Obradoiro Liga U",
-   "detected_at": "2026-09-27 09:52:16",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Liga U + Pedro Baddini → Obradoiro Liga U",
-   "detected_at": "2026-09-27 09:52:16",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Liga U + Illia Butenko → Obradoiro Liga U",
-   "detected_at": "2026-09-27 09:52:16",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Liga U + Pablo Rodriguez Pascual → Obradoiro Liga U",
-   "detected_at": "2026-09-27 09:52:16",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10514,14 +10514,14 @@
    "last": "2026-09-27 08:39:57"
   },
   "WIKI": {
-   "count": 4399,
-   "last": "2026-09-28 03:28:36"
+   "count": 4408,
+   "last": "2026-09-28 04:14:36"
   },
   "WIKIWATCH": {
    "count": 274,
    "last": "2026-09-27 15:51:49"
   }
  },
- "generated_at": "2026-09-28T04:06:01",
- "total": 20050
+ "generated_at": "2026-09-28T04:14:37",
+ "total": 20059
 }
