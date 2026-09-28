@@ -1,6 +1,48 @@
 {
  "events": [
   {
+   "detail": "BKN  - REMOVED Pringle, Nick",
+   "detected_at": "2026-09-28 06:21:58",
+   "source": "SHEETS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "BKN  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 163863541.5 -> 162505778.5, col9: 347261503.9 -> 345903740.9",
+   "detected_at": "2026-09-28 06:21:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "BKN  CHANGED Players Under Contract  -  col3: 161414120.5 -> 160056357.5",
+   "detected_at": "2026-09-28 06:21:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "BKN  CHANGED Full Season Contracts  -  col3: 161414120.5 -> 160056357.5",
+   "detected_at": "2026-09-28 06:21:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "BKN  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 16 -> 15",
+   "detected_at": "2026-09-28 06:21:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  - REMOVED Nick Pringle Brooklyn Nets",
+   "detected_at": "2026-09-28 06:21:55",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Nick Pringle (WAIVED) Brooklyn Nets",
+   "detected_at": "2026-09-28 06:21:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "DET  CHANGED Harris, Gary  -  TEAM SALARY CAP REPORT\n       -  DETROIT PISTONS: 1 - FULL SEASON -> 7 - WAIVED",
    "detected_at": "2026-09-28 06:20:58",
    "source": "SHEETS",
@@ -10402,61 +10444,12 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Spanish ACB + Owen Aquino → MoraBanc Andorra",
-   "detected_at": "2026-09-27 09:52:47",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish ACB + J.D. Notae → BAXI Manresa",
-   "detected_at": "2026-09-27 09:52:45",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish ACB + Hugo Benitez → BAXI Manresa",
-   "detected_at": "2026-09-27 09:52:45",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish ACB + Chibuzo Agbo → BAXI Manresa",
-   "detected_at": "2026-09-27 09:52:45",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish ACB + Nick Ongenda → BAXI Manresa",
-   "detected_at": "2026-09-27 09:52:45",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish ACB + Pablo Tamba → BAXI Manresa",
-   "detected_at": "2026-09-27 09:52:45",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish ACB + Ferran Bassas → BAXI Manresa",
-   "detected_at": "2026-09-27 09:52:45",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 2889,
-   "last": "2026-09-24 14:00:56"
+   "count": 2891,
+   "last": "2026-09-28 06:21:55"
   },
   "GLEAGUE": {
    "count": 134,
@@ -10479,8 +10472,8 @@
    "last": "2026-09-28 06:01:22"
   },
   "SHEETS": {
-   "count": 4077,
-   "last": "2026-09-28 06:20:58"
+   "count": 4082,
+   "last": "2026-09-28 06:21:58"
   },
   "TRANSACTIONS": {
    "count": 437,
@@ -10495,6 +10488,6 @@
    "last": "2026-09-27 15:51:49"
   }
  },
- "generated_at": "2026-09-28T06:21:01",
- "total": 20234
+ "generated_at": "2026-09-28T06:22:00",
+ "total": 20241
 }
