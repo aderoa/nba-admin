@@ -1,6 +1,48 @@
 {
  "events": [
   {
+   "detail": "WAS  - REMOVED Murphy, KeShawn",
+   "detected_at": "2026-09-28 06:40:58",
+   "source": "SHEETS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "WAS  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 239988270.5 -> 238630507.5, col9: 603155054.5 -> 601797291.5",
+   "detected_at": "2026-09-28 06:40:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "WAS  CHANGED Players Under Contract  -  col3: 195820278 -> 194462515",
+   "detected_at": "2026-09-28 06:40:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "WAS  CHANGED Full Season Contracts  -  col3: 195820278 -> 194462515",
+   "detected_at": "2026-09-28 06:40:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "WAS  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 16 -> 15",
+   "detected_at": "2026-09-28 06:40:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  - REMOVED KeShawn Murphy Washington Wizards",
+   "detected_at": "2026-09-28 06:40:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  KeShawn Murphy (WAIVED) Washington Wizards",
+   "detected_at": "2026-09-28 06:40:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "GOS  - REMOVED Boyd, Nick",
    "detected_at": "2026-09-28 06:39:58",
    "source": "SHEETS",
@@ -10340,61 +10382,12 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Danish Basketligaen + Silas Richter Braikia → BMS Herlev Wolfpack",
-   "detected_at": "2026-09-27 09:52:59",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Danish Basketligaen BK Vejen 106, BMS Herlev Wolfpack 95",
-   "detected_at": "2026-09-27 09:52:59",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-26/BK-Vejen-at-BMS-Herlev-Wolfpack/527317"
-  },
-  {
-   "detail": "Danish Basketligaen + Tyree Campbell → Svendborg Rabbits",
-   "detected_at": "2026-09-27 09:52:56",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Danish Basketligaen Svendborg Rabbits 86, Holbaek Stenhus 75",
-   "detected_at": "2026-09-27 09:52:56",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-26/Holbaek-Stenhus-at-Svendborg-Rabbits/527316"
-  },
-  {
-   "detail": "Spanish Primera FEB Grupo Alega Cantabria Estela 69, Basquet Menorca 68",
-   "detected_at": "2026-09-27 09:52:54",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-26/Basquet-Menorca-at-Grupo-Alega-Cantabria-Estela/526746"
-  },
-  {
-   "detail": "Spanish Primera FEB + Kyle Greeley → Basquet Menorca",
-   "detected_at": "2026-09-27 09:52:53",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Primera FEB + Adam Kejval → Basquet Menorca",
-   "detected_at": "2026-09-27 09:52:53",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 2920,
-   "last": "2026-09-28 06:39:55"
+   "count": 2922,
+   "last": "2026-09-28 06:40:56"
   },
   "GLEAGUE": {
    "count": 134,
@@ -10417,8 +10410,8 @@
    "last": "2026-09-28 06:01:22"
   },
   "SHEETS": {
-   "count": 4108,
-   "last": "2026-09-28 06:39:58"
+   "count": 4113,
+   "last": "2026-09-28 06:40:58"
   },
   "TRANSACTIONS": {
    "count": 437,
@@ -10433,6 +10426,6 @@
    "last": "2026-09-27 15:51:49"
   }
  },
- "generated_at": "2026-09-28T06:40:00",
- "total": 20296
+ "generated_at": "2026-09-28T06:41:00",
+ "total": 20303
 }
