@@ -1,6 +1,36 @@
 {
  "events": [
   {
+   "detail": "POR  + ADDED  Sears, Mark",
+   "detected_at": "2026-09-28 09:40:59",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "POR  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 209804267.3 -> 211989383.3, col9: 505351674.4 -> 507536790.4",
+   "detected_at": "2026-09-28 09:40:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "POR  CHANGED Players Under Contract  -  col3: 195632624.6 -> 197817740.6",
+   "detected_at": "2026-09-28 09:40:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "POR  CHANGED Full Season Contracts  -  col3: 195632624.6 -> 197817740.6",
+   "detected_at": "2026-09-28 09:40:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "POR  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 16 -> 17",
+   "detected_at": "2026-09-28 09:40:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "2026-27 Veteran Signings  + ADDED  Payton Sandfort Minnesota Timberwolves",
    "detected_at": "2026-09-28 09:39:55",
    "source": "DOCS",
@@ -10044,41 +10074,6 @@
    "source": "REALGM",
    "type": "MOVED",
    "url": ""
-  },
-  {
-   "detail": "German Pro B + Benedict Baumgarth → Seawolves Academy",
-   "detected_at": "2026-09-27 21:12:56",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Pro B + Bruno Loll → Seawolves Academy",
-   "detected_at": "2026-09-27 21:12:56",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Pro B + Milo Murray → Seawolves Academy",
-   "detected_at": "2026-09-27 21:12:56",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Pro B + Gerrit Ruhling → Seawolves Academy",
-   "detected_at": "2026-09-27 21:12:56",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Pro B + Jussi Knorr → Seawolves Academy",
-   "detected_at": "2026-09-27 21:12:56",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10107,8 +10102,8 @@
    "last": "2026-09-28 09:06:16"
   },
   "SHEETS": {
-   "count": 4237,
-   "last": "2026-09-28 09:38:58"
+   "count": 4242,
+   "last": "2026-09-28 09:40:59"
   },
   "TRANSACTIONS": {
    "count": 437,
@@ -10123,6 +10118,6 @@
    "last": "2026-09-27 15:51:49"
   }
  },
- "generated_at": "2026-09-28T09:40:01",
- "total": 20729
+ "generated_at": "2026-09-28T09:41:02",
+ "total": 20734
 }
