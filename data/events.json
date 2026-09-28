@@ -1,6 +1,42 @@
 {
  "events": [
   {
+   "detail": "2026-27 Rookie Signings  - REMOVED Romeo Weems (WAIVED) Detroit",
+   "detected_at": "2026-09-28 10:51:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Romeo Weems (WAIVED) Detroit Pistons",
+   "detected_at": "2026-09-28 10:51:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  - REMOVED Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
+   "detected_at": "2026-09-28 10:51:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  - REMOVED Execution Date: 9/18/26",
+   "detected_at": "2026-09-28 10:51:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($25,000).",
+   "detected_at": "2026-09-28 10:51:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 9/24/26",
+   "detected_at": "2026-09-28 10:51:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "2026-27 Rookie Signings  + ADDED  Romeo Weems (WAIVED) Detroit",
    "detected_at": "2026-09-28 10:50:55",
    "source": "DOCS",
@@ -9905,54 +9941,12 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "German Pro B + Mathias Johansen → SG Braunschweig",
-   "detected_at": "2026-09-27 23:22:03",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Pro B + Liam Zwanbun → SG Braunschweig",
-   "detected_at": "2026-09-27 23:22:03",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Pro B + Andre Fox → SG Braunschweig",
-   "detected_at": "2026-09-27 23:22:03",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Pro B + Leonhard Lukas Laar → SG Braunschweig",
-   "detected_at": "2026-09-27 23:22:03",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Pro B + Lennart Till Romer → SG Braunschweig",
-   "detected_at": "2026-09-27 23:22:03",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Pro B + Cavit Gurbuzer → SG Braunschweig",
-   "detected_at": "2026-09-27 23:22:03",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 3114,
-   "last": "2026-09-28 10:50:55"
+   "count": 3120,
+   "last": "2026-09-28 10:51:56"
   },
   "GLEAGUE": {
    "count": 137,
@@ -9991,6 +9985,6 @@
    "last": "2026-09-28 10:47:46"
   }
  },
- "generated_at": "2026-09-28T10:51:01",
- "total": 20934
+ "generated_at": "2026-09-28T10:52:01",
+ "total": 20940
 }
