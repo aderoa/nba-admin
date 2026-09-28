@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "2026-09-24  Detroit Pistons waived guard Jordan Riley.",
+   "detected_at": "2026-09-28 12:05:55",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
    "detail": "2026-09-22  Detroit Pistons waived guard Drake Allen.",
    "detected_at": "2026-09-28 11:56:55",
    "source": "TRANSACTIONS",
@@ -9879,13 +9885,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Hungarian NBIA + Laszlo Komma → NKA Universitas Pecs",
-   "detected_at": "2026-09-27 23:22:16",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -9918,8 +9917,8 @@
    "last": "2026-09-28 10:06:59"
   },
   "TRANSACTIONS": {
-   "count": 438,
-   "last": "2026-09-28 11:56:55"
+   "count": 439,
+   "last": "2026-09-28 12:05:55"
   },
   "WIKI": {
    "count": 4468,
@@ -9930,6 +9929,6 @@
    "last": "2026-09-28 10:47:46"
   }
  },
- "generated_at": "2026-09-28T12:05:01",
- "total": 21013
+ "generated_at": "2026-09-28T12:06:00",
+ "total": 21014
 }
