@@ -1,6 +1,24 @@
 {
  "events": [
   {
+   "detail": "~ CHANGED Alpha Diallo  school: - -> Providence",
+   "detected_at": "2026-09-28 08:51:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Alpha Diallo  country: - -> USA",
+   "detected_at": "2026-09-28 08:51:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Dennis Schroder  name: Dennis Schröder -> Dennis Schroder",
+   "detected_at": "2026-09-28 08:51:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "Mohammad Amini  ~ league: - -> LNB Élite",
    "detected_at": "2026-09-28 08:51:36",
    "source": "WIKI",
@@ -10136,27 +10154,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "French LNB Espoirs + David Daux → Espoirs Nanterre",
-   "detected_at": "2026-09-27 21:12:45",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French LNB Espoirs + Jayden Njany → Espoirs Nanterre",
-   "detected_at": "2026-09-27 21:12:45",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French LNB Espoirs Espoirs Pau Lacq Orthez 93, Espoirs Nanterre 91",
-   "detected_at": "2026-09-27 21:12:45",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-26/Espoirs-Pau-Lacq-Orthez-at-Espoirs-Nanterre/537230"
   }
  ],
  "feeds": {
@@ -10169,8 +10166,8 @@
    "last": "2026-09-28 07:02:00"
   },
   "PLAYERS": {
-   "count": 1187,
-   "last": "2026-09-28 08:31:54"
+   "count": 1190,
+   "last": "2026-09-28 08:51:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10201,6 +10198,6 @@
    "last": "2026-09-27 15:51:49"
   }
  },
- "generated_at": "2026-09-28T08:51:37",
- "total": 20632
+ "generated_at": "2026-09-28T08:52:01",
+ "total": 20635
 }
