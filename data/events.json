@@ -1,6 +1,60 @@
 {
  "events": [
   {
+   "detail": "+ ADDED   Blake Wesley (LAC)",
+   "detected_at": "2026-09-28 07:54:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "+ ADDED   William Kyle (LAL)",
+   "detected_at": "2026-09-28 07:54:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "+ ADDED   Fletcher Loyer (LAC)",
+   "detected_at": "2026-09-28 07:54:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "+ ADDED   Cole Swider (LAL)",
+   "detected_at": "2026-09-28 07:54:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "+ ADDED   John Ukomadu (DET)",
+   "detected_at": "2026-09-28 07:54:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "~ CHANGED Ian Schieffelin  number: - -> 20",
+   "detected_at": "2026-09-28 07:54:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Ian Schieffelin  position: - -> F",
+   "detected_at": "2026-09-28 07:54:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Ian Schieffelin  height: - -> 6-8",
+   "detected_at": "2026-09-28 07:54:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Ian Schieffelin  weight: - -> 240",
+   "detected_at": "2026-09-28 07:54:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "~ CHANGED Ian Schieffelin  country: - -> USA",
    "detected_at": "2026-09-28 07:49:54",
    "source": "PLAYERS",
@@ -10106,69 +10160,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Czech NBL + Martin Cech → Basket Brno",
-   "detected_at": "2026-09-27 21:12:37",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Czech NBL SK Slavia Praha ERA NBK 108, Basket Brno 96",
-   "detected_at": "2026-09-27 21:12:37",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-26/SK-Slavia-Praha-ERA-NBK-at-Basket-Brno/527312"
-  },
-  {
-   "detail": "Nike Sibande  ~ team: Niners Chemnitz -> Ironi Kiryat Ata",
-   "detected_at": "2026-09-27 18:26:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Nike_Sibande"
-  },
-  {
-   "detail": "Nike Sibande  ~ league: Basketball Bundesliga -> Israeli Basketball Premier League",
-   "detected_at": "2026-09-27 18:26:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Nike_Sibande"
-  },
-  {
-   "detail": "Nike Sibande  ~ number: 2 -> 1",
-   "detected_at": "2026-09-27 18:26:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Nike_Sibande"
-  },
-  {
-   "detail": "Nike Sibande  ~ height_ft: - -> 6",
-   "detected_at": "2026-09-27 18:26:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Nike_Sibande"
-  },
-  {
-   "detail": "Nike Sibande  ~ height_in: - -> 4",
-   "detected_at": "2026-09-27 18:26:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Nike_Sibande"
-  },
-  {
-   "detail": "Nike Sibande  ~ CAREER  + 2025–2026 Niners Chemnitz",
-   "detected_at": "2026-09-27 18:26:38",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Nike_Sibande"
-  },
-  {
-   "detail": "Nike Sibande  ~ CAREER  + 2026–present Ironi Kiryat Ata",
-   "detected_at": "2026-09-27 18:26:38",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Nike_Sibande"
   }
  ],
  "feeds": {
@@ -10181,8 +10172,8 @@
    "last": "2026-09-28 07:02:00"
   },
   "PLAYERS": {
-   "count": 1175,
-   "last": "2026-09-28 07:49:54"
+   "count": 1184,
+   "last": "2026-09-28 07:54:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10213,6 +10204,6 @@
    "last": "2026-09-27 15:51:49"
   }
  },
- "generated_at": "2026-09-28T07:54:01",
- "total": 20590
+ "generated_at": "2026-09-28T07:55:00",
+ "total": 20599
 }
