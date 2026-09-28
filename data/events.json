@@ -1,6 +1,24 @@
 {
  "events": [
   {
+   "detail": "~ CHANGED Bryce Hopkins  school: St. John's -> St. John's, N.Y.",
+   "detected_at": "2026-09-28 08:31:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Bryce Hopkins  country: - -> USA",
+   "detected_at": "2026-09-28 08:31:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Dillon Mitchell  school: St. John's -> St. John's, N.Y.",
+   "detected_at": "2026-09-28 08:31:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "Croatian A 1 Liga + Mate Kalajzic → KK Cedevita Junior Zagreb",
    "detected_at": "2026-09-28 08:05:54",
    "source": "REALGM",
@@ -10139,27 +10157,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "French LNB Espoirs + Alex Ondze → Espoirs Paris Basketball",
-   "detected_at": "2026-09-27 21:12:43",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French LNB Espoirs + Keelyan Nzapakete → Espoirs Paris Basketball",
-   "detected_at": "2026-09-27 21:12:43",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French LNB Espoirs + Myles Barry → Espoirs Paris Basketball",
-   "detected_at": "2026-09-27 21:12:43",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10172,8 +10169,8 @@
    "last": "2026-09-28 07:02:00"
   },
   "PLAYERS": {
-   "count": 1184,
-   "last": "2026-09-28 07:54:54"
+   "count": 1187,
+   "last": "2026-09-28 08:31:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10204,6 +10201,6 @@
    "last": "2026-09-27 15:51:49"
   }
  },
- "generated_at": "2026-09-28T08:31:00",
- "total": 20624
+ "generated_at": "2026-09-28T08:32:00",
+ "total": 20627
 }
