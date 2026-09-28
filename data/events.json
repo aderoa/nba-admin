@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Brandon Ingram  ~ number: - -> 7",
+   "detected_at": "2026-09-28 09:38:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Brandon_Ingram"
+  },
+  {
    "detail": "Danish Basketligaen + Mads Ziegler → Bakken Bears",
    "detected_at": "2026-09-28 09:06:16",
    "source": "REALGM",
@@ -10086,13 +10093,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "German Pro B Art Giants Dusseldorf 86, Seawolves Academy 80",
-   "detected_at": "2026-09-27 21:12:56",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-26/Seawolves-Academy-at-Art-Giants-Dusseldorf/525450"
   }
  ],
  "feeds": {
@@ -10129,14 +10129,14 @@
    "last": "2026-09-27 08:39:57"
   },
   "WIKI": {
-   "count": 4431,
-   "last": "2026-09-28 08:51:36"
+   "count": 4432,
+   "last": "2026-09-28 09:38:35"
   },
   "WIKIWATCH": {
    "count": 274,
    "last": "2026-09-27 15:51:49"
   }
  },
- "generated_at": "2026-09-28T09:30:02",
- "total": 20714
+ "generated_at": "2026-09-28T09:38:36",
+ "total": 20715
 }
