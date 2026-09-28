@@ -1,6 +1,2071 @@
 {
  "events": [
   {
+   "detail": "WNBA Golden State Valkyries 104, Dallas Wings 80",
+   "detected_at": "2026-09-28 02:56:05",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-09-27/Dallas-at-Golden-State/161662"
+  },
+  {
+   "detail": "WNBA Atlanta Dream 92, Washington Mystics 77",
+   "detected_at": "2026-09-28 02:56:03",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-09-27/Washington-at-Atlanta/161664"
+  },
+  {
+   "detail": "WNBA Las Vegas Aces 102, Indiana Fever 85",
+   "detected_at": "2026-09-28 02:56:00",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-09-27/Indiana-at-Las-Vegas/161663"
+  },
+  {
+   "detail": "WNBA New York Liberty 91, Minnesota Lynx 75",
+   "detected_at": "2026-09-28 02:55:58",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-09-27/New-York-at-Minnesota/161661"
+  },
+  {
+   "detail": "Austrian A Bundesliga Arkadia Traiskirchen Lions 122, BC Hallmann Vienna 37",
+   "detected_at": "2026-09-28 02:55:51",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-26/BC-Hallmann-Vienna-at-Arkadia-Traiskirchen-Lions/525500"
+  },
+  {
+   "detail": "Austrian A Bundesliga + Benjamin Kerschbaumer → BC Hallmann Vienna",
+   "detected_at": "2026-09-28 02:55:50",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Austrian A Bundesliga + Godfrey Asuke → BC Hallmann Vienna",
+   "detected_at": "2026-09-28 02:55:50",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Austrian A Bundesliga + Kwemtochuckwu Asuzu → BC Hallmann Vienna",
+   "detected_at": "2026-09-28 02:55:50",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Austrian A Bundesliga + Robert Grizelj → BC Hallmann Vienna",
+   "detected_at": "2026-09-28 02:55:50",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Austrian A Bundesliga + Armin Karian → BC Hallmann Vienna",
+   "detected_at": "2026-09-28 02:55:50",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Austrian A Bundesliga + Clinton Ogbevoen → BC Hallmann Vienna",
+   "detected_at": "2026-09-28 02:55:50",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Austrian A Bundesliga + Filip Vasic → BC Hallmann Vienna",
+   "detected_at": "2026-09-28 02:55:50",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Austrian A Bundesliga + Filip Vukovljak → BC Hallmann Vienna",
+   "detected_at": "2026-09-28 02:55:50",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Austrian A Bundesliga + Kerem Yilmazer → BC Hallmann Vienna",
+   "detected_at": "2026-09-28 02:55:50",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Austrian A Bundesliga + Osayande Brian Aifuwa → BC Hallmann Vienna",
+   "detected_at": "2026-09-28 02:55:50",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Austrian A Bundesliga + T.J. Gadsden → Arkadia Traiskirchen Lions",
+   "detected_at": "2026-09-28 02:55:50",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Austrian A Bundesliga + Jalen Hill → Arkadia Traiskirchen Lions",
+   "detected_at": "2026-09-28 02:55:50",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Austrian A Bundesliga + Mikale Stevenson → Arkadia Traiskirchen Lions",
+   "detected_at": "2026-09-28 02:55:50",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Austrian A Bundesliga + David Hofstadter → Arkadia Traiskirchen Lions",
+   "detected_at": "2026-09-28 02:55:50",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Austrian A Bundesliga + Erik Dietz → Arkadia Traiskirchen Lions",
+   "detected_at": "2026-09-28 02:55:50",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Austrian A Bundesliga + Marcell Toth → Arkadia Traiskirchen Lions",
+   "detected_at": "2026-09-28 02:55:50",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Austrian A Bundesliga + Nathaniel Kress → Arkadia Traiskirchen Lions",
+   "detected_at": "2026-09-28 02:55:50",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Austrian A Bundesliga + Nikias Schoenerstedt → Arkadia Traiskirchen Lions",
+   "detected_at": "2026-09-28 02:55:50",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Austrian A Bundesliga + Mathias Mailath-Pokorny → Arkadia Traiskirchen Lions",
+   "detected_at": "2026-09-28 02:55:50",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Austrian A Bundesliga + Mykyta Bitkin → Arkadia Traiskirchen Lions",
+   "detected_at": "2026-09-28 02:55:50",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Austrian A Bundesliga + Edi Patekar → Arkadia Traiskirchen Lions",
+   "detected_at": "2026-09-28 02:55:50",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Austrian A Bundesliga + Brian Taylor II → Arkadia Traiskirchen Lions",
+   "detected_at": "2026-09-28 02:55:50",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Austrian A Bundesliga + Zach Laput → Raiffeisen Flyers Wels",
+   "detected_at": "2026-09-28 02:55:48",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Austrian A Bundesliga + Dejan Kovacevic → Raiffeisen Flyers Wels",
+   "detected_at": "2026-09-28 02:55:48",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Austrian A Bundesliga + Christian Fintel → Raiffeisen Flyers Wels",
+   "detected_at": "2026-09-28 02:55:48",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Austrian A Bundesliga + Elvir Jakupovic → Raiffeisen Flyers Wels",
+   "detected_at": "2026-09-28 02:55:48",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Austrian A Bundesliga + Dragan Bjeletic → Raiffeisen Flyers Wels",
+   "detected_at": "2026-09-28 02:55:48",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Austrian A Bundesliga + Massal Diouf → Raiffeisen Flyers Wels",
+   "detected_at": "2026-09-28 02:55:48",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Austrian A Bundesliga + Lennox Lasinger → Raiffeisen Flyers Wels",
+   "detected_at": "2026-09-28 02:55:48",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Austrian A Bundesliga + Eris Javaragic → Raiffeisen Flyers Wels",
+   "detected_at": "2026-09-28 02:55:48",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Austrian A Bundesliga + Starlin Inoa Gil → Raiffeisen Flyers Wels",
+   "detected_at": "2026-09-28 02:55:48",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Austrian A Bundesliga + Matas Narvilas → Raiffeisen Flyers Wels",
+   "detected_at": "2026-09-28 02:55:48",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Austrian A Bundesliga + Paul Lammer → Raiffeisen Flyers Wels",
+   "detected_at": "2026-09-28 02:55:48",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Austrian A Bundesliga + Vitaliy Zotov → ece bulls Kapfenberg",
+   "detected_at": "2026-09-28 02:55:48",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Austrian A Bundesliga + Daniel Koppel → ece bulls Kapfenberg",
+   "detected_at": "2026-09-28 02:55:48",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Austrian A Bundesliga + Mwani Wilkinson → ece bulls Kapfenberg",
+   "detected_at": "2026-09-28 02:55:48",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Austrian A Bundesliga + Alec Oglesby → ece bulls Kapfenberg",
+   "detected_at": "2026-09-28 02:55:48",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Austrian A Bundesliga + Daniel Grgic → ece bulls Kapfenberg",
+   "detected_at": "2026-09-28 02:55:48",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Austrian A Bundesliga + Jalen Cooper → ece bulls Kapfenberg",
+   "detected_at": "2026-09-28 02:55:48",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Austrian A Bundesliga + Zaccheus Darko-Kelly → ece bulls Kapfenberg",
+   "detected_at": "2026-09-28 02:55:48",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Austrian A Bundesliga + Mizra Bajramovic → ece bulls Kapfenberg",
+   "detected_at": "2026-09-28 02:55:48",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Austrian A Bundesliga + Nemanja Krstic → ece bulls Kapfenberg",
+   "detected_at": "2026-09-28 02:55:48",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Austrian A Bundesliga + Zalan Vincze → ece bulls Kapfenberg",
+   "detected_at": "2026-09-28 02:55:48",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Austrian A Bundesliga + Tobias Schrittwieser → ece bulls Kapfenberg",
+   "detected_at": "2026-09-28 02:55:48",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Austrian A Bundesliga + David Votsch → ece bulls Kapfenberg",
+   "detected_at": "2026-09-28 02:55:48",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Austrian A Bundesliga ece bulls Kapfenberg 101, Raiffeisen Flyers Wels 78",
+   "detected_at": "2026-09-28 02:55:48",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-26/Raiffeisen-Flyers-Wels-at-ece-bulls-Kapfenberg/525499"
+  },
+  {
+   "detail": "Austrian A Bundesliga + Jonathan Knessl → UBSC Raiffeisen Graz",
+   "detected_at": "2026-09-28 02:55:45",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Austrian A Bundesliga + Josiah Shackleford → UBSC Raiffeisen Graz",
+   "detected_at": "2026-09-28 02:55:45",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Austrian A Bundesliga + Makai Richards → UBSC Raiffeisen Graz",
+   "detected_at": "2026-09-28 02:55:45",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Austrian A Bundesliga + Jamison Guerra → UBSC Raiffeisen Graz",
+   "detected_at": "2026-09-28 02:55:45",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Austrian A Bundesliga + DeAngelo Epps → UBSC Raiffeisen Graz",
+   "detected_at": "2026-09-28 02:55:45",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Austrian A Bundesliga + Alan Derado → UBSC Raiffeisen Graz",
+   "detected_at": "2026-09-28 02:55:45",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Austrian A Bundesliga + Cobie Barnes → UBSC Raiffeisen Graz",
+   "detected_at": "2026-09-28 02:55:45",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Austrian A Bundesliga + Valentin Pasterk → UBSC Raiffeisen Graz",
+   "detected_at": "2026-09-28 02:55:45",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Austrian A Bundesliga + Jose Placer → Kufstein Towers",
+   "detected_at": "2026-09-28 02:55:45",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Austrian A Bundesliga + Duje Putnik → Kufstein Towers",
+   "detected_at": "2026-09-28 02:55:45",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Austrian A Bundesliga + Felix Angerbauer → Kufstein Towers",
+   "detected_at": "2026-09-28 02:55:45",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Austrian A Bundesliga + Raphael Gay → Kufstein Towers",
+   "detected_at": "2026-09-28 02:55:45",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Austrian A Bundesliga + Vegas Evans → Kufstein Towers",
+   "detected_at": "2026-09-28 02:55:45",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Austrian A Bundesliga + Maxi Girschik → Kufstein Towers",
+   "detected_at": "2026-09-28 02:55:45",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Austrian A Bundesliga + Pauls Miglinieks → Kufstein Towers",
+   "detected_at": "2026-09-28 02:55:45",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Austrian A Bundesliga + Daniele Claudio Kuchar → Kufstein Towers",
+   "detected_at": "2026-09-28 02:55:45",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Austrian A Bundesliga + Andrija Videnov → Kufstein Towers",
+   "detected_at": "2026-09-28 02:55:45",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Austrian A Bundesliga + Marvin Hylton → Kufstein Towers",
+   "detected_at": "2026-09-28 02:55:45",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Austrian A Bundesliga + Alejandro Cybak → Kufstein Towers",
+   "detected_at": "2026-09-28 02:55:45",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Austrian A Bundesliga UBSC Raiffeisen Graz 96, Kufstein Towers 87",
+   "detected_at": "2026-09-28 02:55:45",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-26/UBSC-Raiffeisen-Graz-at-Kufstein-Towers/525498"
+  },
+  {
+   "detail": "French Jeep Elite ~ MOVED Tyrese Samuel → JL Bourg en Bresse (from Vancouver Bandits)",
+   "detected_at": "2026-09-28 02:55:42",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite + Lionel Gaudoux → JL Bourg en Bresse",
+   "detected_at": "2026-09-28 02:55:42",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite + Keith Jordan, Jr. → JL Bourg en Bresse",
+   "detected_at": "2026-09-28 02:55:42",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite + Assemian Moulare → JL Bourg en Bresse",
+   "detected_at": "2026-09-28 02:55:42",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite + Antony Labanca → JL Bourg en Bresse",
+   "detected_at": "2026-09-28 02:55:42",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite + Trey Woodbury → JL Bourg en Bresse",
+   "detected_at": "2026-09-28 02:55:42",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite + Nathan Soliman → JL Bourg en Bresse",
+   "detected_at": "2026-09-28 02:55:42",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite + Kadin Shedrick → JL Bourg en Bresse",
+   "detected_at": "2026-09-28 02:55:42",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite + Adrian Nelson → JL Bourg en Bresse",
+   "detected_at": "2026-09-28 02:55:42",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite ~ MOVED Leni Monnet → JL Bourg en Bresse (from Espoirs Bourg en Bresse)",
+   "detected_at": "2026-09-28 02:55:42",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite + Jean-Philippe Dally → Saint Quentin Basketball",
+   "detected_at": "2026-09-28 02:55:42",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite ~ MOVED Matthew Cleveland → Saint Quentin Basketball (from Ottawa Blackjacks)",
+   "detected_at": "2026-09-28 02:55:42",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite + Erick Neal → Saint Quentin Basketball",
+   "detected_at": "2026-09-28 02:55:42",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite + Ousman Krubally → Saint Quentin Basketball",
+   "detected_at": "2026-09-28 02:55:42",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite + Paul Rigot → Saint Quentin Basketball",
+   "detected_at": "2026-09-28 02:55:42",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite + Taevion Kinsey → Saint Quentin Basketball",
+   "detected_at": "2026-09-28 02:55:42",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite ~ MOVED Romain Berthelin → Saint Quentin Basketball (from Espoirs Saint Quentin)",
+   "detected_at": "2026-09-28 02:55:42",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite + Shekinah Munanga → Saint Quentin Basketball",
+   "detected_at": "2026-09-28 02:55:42",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite + Karvel Anderson → Saint Quentin Basketball",
+   "detected_at": "2026-09-28 02:55:42",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite + Alex Gavrilovic → Saint Quentin Basketball",
+   "detected_at": "2026-09-28 02:55:42",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite Saint Quentin Basketball 106, JL Bourg en Bresse 103",
+   "detected_at": "2026-09-28 02:55:42",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-26/JL-Bourg-en-Bresse-at-Saint-Quentin-Basketball/537196"
+  },
+  {
+   "detail": "Japanese BLeague + Yori Iwaya → Akita Northern Happinets",
+   "detected_at": "2026-09-28 02:55:40",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Akaho Raita → Akita Northern Happinets",
+   "detected_at": "2026-09-28 02:55:40",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Yanni Wetzell → Akita Northern Happinets",
+   "detected_at": "2026-09-28 02:55:40",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Mark Smith → Akita Northern Happinets",
+   "detected_at": "2026-09-28 02:55:40",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Reid Travis → Akita Northern Happinets",
+   "detected_at": "2026-09-28 02:55:40",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Naohide Hotta → Akita Northern Happinets",
+   "detected_at": "2026-09-28 02:55:40",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Troy Murphy, Jr. → Akita Northern Happinets",
+   "detected_at": "2026-09-28 02:55:40",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Tsubasa Kurihara → Akita Northern Happinets",
+   "detected_at": "2026-09-28 02:55:40",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Shigehiro Taguchi → Akita Northern Happinets",
+   "detected_at": "2026-09-28 02:55:40",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Baiqing Zhao → Akita Northern Happinets",
+   "detected_at": "2026-09-28 02:55:40",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Taiyo Motoda → Akita Northern Happinets",
+   "detected_at": "2026-09-28 02:55:40",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Nathan Boothe → Sendai 89ers",
+   "detected_at": "2026-09-28 02:55:40",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Seiya Funyu → Sendai 89ers",
+   "detected_at": "2026-09-28 02:55:40",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Jarrett Culver → Sendai 89ers",
+   "detected_at": "2026-09-28 02:55:40",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Sergio El Darwich → Sendai 89ers",
+   "detected_at": "2026-09-28 02:55:40",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Jake Layman → Sendai 89ers",
+   "detected_at": "2026-09-28 02:55:40",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Avi Schafer → Sendai 89ers",
+   "detected_at": "2026-09-28 02:55:40",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Masato Abe → Sendai 89ers",
+   "detected_at": "2026-09-28 02:55:40",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Kazuma Okajima → Sendai 89ers",
+   "detected_at": "2026-09-28 02:55:40",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Yusei Sugiura → Sendai 89ers",
+   "detected_at": "2026-09-28 02:55:40",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Watanabe Shota → Sendai 89ers",
+   "detected_at": "2026-09-28 02:55:40",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Ryota Hanzawa → Sendai 89ers",
+   "detected_at": "2026-09-28 02:55:40",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Kosei Niinuma → Sendai 89ers",
+   "detected_at": "2026-09-28 02:55:40",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Masaharu Kataoka → Sendai 89ers",
+   "detected_at": "2026-09-28 02:55:40",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague Sendai 89ers 81, Akita Northern Happinets 55",
+   "detected_at": "2026-09-28 02:55:40",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-26/Akita-Northern-Happinets-at-Sendai-89ers/523885"
+  },
+  {
+   "detail": "Japanese BLeague + Song Kyo-Chang → Osaka Evessa",
+   "detected_at": "2026-09-28 02:55:37",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Kaisei Takahashi → Osaka Evessa",
+   "detected_at": "2026-09-28 02:55:37",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Sebastian Saiz → Osaka Evessa",
+   "detected_at": "2026-09-28 02:55:37",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Joji Takeuchi → Osaka Evessa",
+   "detected_at": "2026-09-28 02:55:37",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + James Palmer, Jr. → Osaka Evessa",
+   "detected_at": "2026-09-28 02:55:37",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Yoshiya Uematsu → Osaka Evessa",
+   "detected_at": "2026-09-28 02:55:37",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Makoto Kinoshita → Osaka Evessa",
+   "detected_at": "2026-09-28 02:55:37",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Seiga Sakamoto → Osaka Evessa",
+   "detected_at": "2026-09-28 02:55:37",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Damonte Dodd → Osaka Evessa",
+   "detected_at": "2026-09-28 02:55:37",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Takeshi Sato → Osaka Evessa",
+   "detected_at": "2026-09-28 02:55:37",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Yoeli Childs → Kobe Storks",
+   "detected_at": "2026-09-28 02:55:37",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Ryuya Kaneda → Kobe Storks",
+   "detected_at": "2026-09-28 02:55:37",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Fardaws Aimaq → Kobe Storks",
+   "detected_at": "2026-09-28 02:55:37",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Shuto Terazono → Kobe Storks",
+   "detected_at": "2026-09-28 02:55:37",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Hayato Yamaguchi → Kobe Storks",
+   "detected_at": "2026-09-28 02:55:37",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Jalen McDaniels → Kobe Storks",
+   "detected_at": "2026-09-28 02:55:37",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Lucas Saleh → Kobe Storks",
+   "detected_at": "2026-09-28 02:55:37",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Nakano Tsukasa → Kobe Storks",
+   "detected_at": "2026-09-28 02:55:37",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Keigo Kimura → Kobe Storks",
+   "detected_at": "2026-09-28 02:55:37",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Aren Hachimura → Kobe Storks",
+   "detected_at": "2026-09-28 02:55:37",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague + Asato Ogawa → Kobe Storks",
+   "detected_at": "2026-09-28 02:55:37",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague Osaka Evessa 79, Kobe Storks 69",
+   "detected_at": "2026-09-28 02:55:37",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-26/Osaka-Evessa-at-Kobe-Storks/523890"
+  },
+  {
+   "detail": "Swedish Basketligan Uppsala Basket 89, Sloga Uppsala 76",
+   "detected_at": "2026-09-28 02:55:32",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-27/Uppsala-Basket-at-Sloga-Uppsala/524261"
+  },
+  {
+   "detail": "Spanish Primera FEB Movistar Estudiantes 78, Caja 87 65",
+   "detected_at": "2026-09-28 02:55:30",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-27/Caja-87-at-Movistar-Estudiantes/526747"
+  },
+  {
+   "detail": "Spanish Primera FEB + Nedim Dedovic → Caja 87",
+   "detected_at": "2026-09-28 02:55:29",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish Primera FEB + Unai Mendicote → Caja 87",
+   "detected_at": "2026-09-28 02:55:29",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish Primera FEB + Aanen Moody → Caja 87",
+   "detected_at": "2026-09-28 02:55:29",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish Primera FEB + Kobe Webster → Caja 87",
+   "detected_at": "2026-09-28 02:55:29",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish Primera FEB + Archange Izaw Bolavie → Caja 87",
+   "detected_at": "2026-09-28 02:55:29",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish Primera FEB + Ramon Vila → Caja 87",
+   "detected_at": "2026-09-28 02:55:29",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish Primera FEB + Nacho Arroyo → Caja 87",
+   "detected_at": "2026-09-28 02:55:29",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish Primera FEB + Sergio Cecilia → Caja 87",
+   "detected_at": "2026-09-28 02:55:29",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish Primera FEB + Ezekiel Alley → Caja 87",
+   "detected_at": "2026-09-28 02:55:29",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish Primera FEB + Rafael Garcia → Caja 87",
+   "detected_at": "2026-09-28 02:55:29",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish Primera FEB + Adrian Latorre → Caja 87",
+   "detected_at": "2026-09-28 02:55:29",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish Primera FEB + Mamadou Niang → Movistar Estudiantes",
+   "detected_at": "2026-09-28 02:55:29",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish Primera FEB + Kaspar Treier → Movistar Estudiantes",
+   "detected_at": "2026-09-28 02:55:29",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish Primera FEB + Travis Munnings → Movistar Estudiantes",
+   "detected_at": "2026-09-28 02:55:29",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish Primera FEB + Jordan Walker → Movistar Estudiantes",
+   "detected_at": "2026-09-28 02:55:29",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish Primera FEB + Micah Speight → Movistar Estudiantes",
+   "detected_at": "2026-09-28 02:55:29",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish Primera FEB + Juan Vaulet → Movistar Estudiantes",
+   "detected_at": "2026-09-28 02:55:29",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish Primera FEB + Jehyve Floyd → Movistar Estudiantes",
+   "detected_at": "2026-09-28 02:55:29",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish Primera FEB + Millan Jimenez → Movistar Estudiantes",
+   "detected_at": "2026-09-28 02:55:29",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish Primera FEB + Omar Silverio → Movistar Estudiantes",
+   "detected_at": "2026-09-28 02:55:29",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish Primera FEB + Lucas Giovanetti → Movistar Estudiantes",
+   "detected_at": "2026-09-28 02:55:29",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish Primera FEB + Miguel Sola Isidru → Movistar Estudiantes",
+   "detected_at": "2026-09-28 02:55:29",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish Primera FEB + Lysander Bracey → FIBWI Palma",
+   "detected_at": "2026-09-28 02:55:27",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish Primera FEB + Sergi Huguet → FIBWI Palma",
+   "detected_at": "2026-09-28 02:55:27",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish Primera FEB + Adria Moncanut → FIBWI Palma",
+   "detected_at": "2026-09-28 02:55:27",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish Primera FEB + Dorde Simeunovic → FIBWI Palma",
+   "detected_at": "2026-09-28 02:55:27",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish Primera FEB + Garmine Kande Kieli → FIBWI Palma",
+   "detected_at": "2026-09-28 02:55:27",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish Primera FEB + Hugo Ferreira → FIBWI Palma",
+   "detected_at": "2026-09-28 02:55:27",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish Primera FEB + Shilo Jackson → FIBWI Palma",
+   "detected_at": "2026-09-28 02:55:27",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish Primera FEB + Jaume Lobo → FIBWI Palma",
+   "detected_at": "2026-09-28 02:55:27",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish Primera FEB + Alex Scariolo → FIBWI Palma",
+   "detected_at": "2026-09-28 02:55:27",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish Primera FEB + Osvaldas Matulionis → FIBWI Palma",
+   "detected_at": "2026-09-28 02:55:27",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish Primera FEB + Niklas Wimberg → Palma Basquet Mallorca",
+   "detected_at": "2026-09-28 02:55:27",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish Primera FEB + Emil Stoilov → Palma Basquet Mallorca",
+   "detected_at": "2026-09-28 02:55:27",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish Primera FEB + Octavio Brito → Palma Basquet Mallorca",
+   "detected_at": "2026-09-28 02:55:27",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish Primera FEB + Kevin Torres Cuevas → Palma Basquet Mallorca",
+   "detected_at": "2026-09-28 02:55:27",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish Primera FEB + Dezayne Mingo → Palma Basquet Mallorca",
+   "detected_at": "2026-09-28 02:55:27",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish Primera FEB + Angel Comendador → Palma Basquet Mallorca",
+   "detected_at": "2026-09-28 02:55:27",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish Primera FEB + D'Moi Hodge → Palma Basquet Mallorca",
+   "detected_at": "2026-09-28 02:55:27",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish Primera FEB + Milos Nenadic → Palma Basquet Mallorca",
+   "detected_at": "2026-09-28 02:55:27",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish Primera FEB + Vlad Salaridze → Palma Basquet Mallorca",
+   "detected_at": "2026-09-28 02:55:27",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish Primera FEB + Alex Blanco → Palma Basquet Mallorca",
+   "detected_at": "2026-09-28 02:55:27",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish Primera FEB Palma Basquet Mallorca 95, FIBWI Palma 94",
+   "detected_at": "2026-09-28 02:55:27",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-27/FIBWI-Palma-at-Palma-Basquet-Mallorca/526751"
+  },
+  {
+   "detail": "VTB United League + Alexander Gankevich → CSKA Moscow",
+   "detected_at": "2026-09-28 02:55:24",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "VTB United League + Vladislav Trushkin → MBA Moscow",
+   "detected_at": "2026-09-28 02:55:24",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "VTB United League + Alexander Khomenko → MBA Moscow",
+   "detected_at": "2026-09-28 02:55:24",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "VTB United League + Aleksandr Platunov → MBA Moscow",
+   "detected_at": "2026-09-28 02:55:24",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "VTB United League + Andrei Malinin → MBA Moscow",
+   "detected_at": "2026-09-28 02:55:24",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "VTB United League + Artem Pivtsaikin → MBA Moscow",
+   "detected_at": "2026-09-28 02:55:24",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "VTB United League + Dmitriy Khvostov → MBA Moscow",
+   "detected_at": "2026-09-28 02:55:24",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "VTB United League + Dmitry Sonko → MBA Moscow",
+   "detected_at": "2026-09-28 02:55:24",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "VTB United League + Maksim Ogarkov → MBA Moscow",
+   "detected_at": "2026-09-28 02:55:24",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "VTB United League + Matvey Padius → MBA Moscow",
+   "detected_at": "2026-09-28 02:55:24",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "VTB United League + Danil Pevnev → MBA Moscow",
+   "detected_at": "2026-09-28 02:55:24",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "VTB United League + Mikhail Chernyshev → MBA Moscow",
+   "detected_at": "2026-09-28 02:55:24",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "VTB United League + Ivan Karpenko → MBA Moscow",
+   "detected_at": "2026-09-28 02:55:24",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "VTB United League CSKA Moscow 82, MBA Moscow 65",
+   "detected_at": "2026-09-28 02:55:24",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-27/CSKA-Moscow-at-MBA-Moscow/532297"
+  },
+  {
+   "detail": "VTB United League Lokomotiv Kuban 81, Enisey Krasnoyarsk 66",
+   "detected_at": "2026-09-28 02:55:22",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-27/Enisey-Krasnoyarsk-at-Lokomotiv-Kuban/532298"
+  },
+  {
+   "detail": "VTB United League + Evgeniy Belyankov → Enisey Krasnoyarsk",
+   "detected_at": "2026-09-28 02:55:21",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "VTB United League + Charles Callison → Enisey Krasnoyarsk",
+   "detected_at": "2026-09-28 02:55:21",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "VTB United League + Mike Young → Enisey Krasnoyarsk",
+   "detected_at": "2026-09-28 02:55:21",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "VTB United League + Nikita Evdokimov → Enisey Krasnoyarsk",
+   "detected_at": "2026-09-28 02:55:21",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "VTB United League + Egor Vanin → Enisey Krasnoyarsk",
+   "detected_at": "2026-09-28 02:55:21",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "VTB United League + Ivan Belousov → Enisey Krasnoyarsk",
+   "detected_at": "2026-09-28 02:55:21",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "VTB United League + Danil Sheyanov → Enisey Krasnoyarsk",
+   "detected_at": "2026-09-28 02:55:21",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "VTB United League + Jordan Tucker → Enisey Krasnoyarsk",
+   "detected_at": "2026-09-28 02:55:21",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "VTB United League + Grigory Motovilov → Enisey Krasnoyarsk",
+   "detected_at": "2026-09-28 02:55:21",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "VTB United League + Daniil Kasatkin → Enisey Krasnoyarsk",
+   "detected_at": "2026-09-28 02:55:21",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "VTB United League + Artem Shlegel → Enisey Krasnoyarsk",
+   "detected_at": "2026-09-28 02:55:21",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "VTB United League + Sergey Dolinin → Enisey Krasnoyarsk",
+   "detected_at": "2026-09-28 02:55:21",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "VTB United League + Roman Vorsulev → Lokomotiv Kuban",
+   "detected_at": "2026-09-28 02:55:21",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Super League Basketball + Deante Johnson → Leicester Riders",
+   "detected_at": "2026-09-28 02:55:19",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Super League Basketball + T.J. Hurley → Leicester Riders",
+   "detected_at": "2026-09-28 02:55:19",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Super League Basketball + Bernard Pelote → Leicester Riders",
+   "detected_at": "2026-09-28 02:55:19",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Super League Basketball + J.J. White → Leicester Riders",
+   "detected_at": "2026-09-28 02:55:19",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Super League Basketball + Blair Thompson → Leicester Riders",
+   "detected_at": "2026-09-28 02:55:19",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Super League Basketball + Victor Ndoukou → Leicester Riders",
+   "detected_at": "2026-09-28 02:55:19",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Super League Basketball + Tomide Akinsiku → Leicester Riders",
+   "detected_at": "2026-09-28 02:55:19",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Super League Basketball ~ MOVED Trent Johnson → Leicester Riders (from Montreal Alliance)",
+   "detected_at": "2026-09-28 02:55:19",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Super League Basketball + Julian Mackey → Leicester Riders",
+   "detected_at": "2026-09-28 02:55:19",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Super League Basketball + Taryn Todd → Leicester Riders",
+   "detected_at": "2026-09-28 02:55:19",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Super League Basketball Cheshire Phoenix 108, Leicester Riders 94",
+   "detected_at": "2026-09-28 02:55:19",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-27/Leicester-Riders-at-Cheshire-Phoenix/532408"
+  },
+  {
+   "detail": "Spanish ACB + Melvin Ejim → Forca Lleida CE",
+   "detected_at": "2026-09-28 02:55:16",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + Darius McGhee → Forca Lleida CE",
+   "detected_at": "2026-09-28 02:55:16",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + Oriol Pauli → Forca Lleida CE",
+   "detected_at": "2026-09-28 02:55:16",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + Zacharie Perrin → Forca Lleida CE",
+   "detected_at": "2026-09-28 02:55:16",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + Mark Hughes → Forca Lleida CE",
+   "detected_at": "2026-09-28 02:55:16",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + Adria Rodriguez → Forca Lleida CE",
+   "detected_at": "2026-09-28 02:55:16",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + James Batemon III → Forca Lleida CE",
+   "detected_at": "2026-09-28 02:55:16",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + Mikel Sanz → Forca Lleida CE",
+   "detected_at": "2026-09-28 02:55:16",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + Daniel Garcia → Forca Lleida CE",
+   "detected_at": "2026-09-28 02:55:16",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + John Shurna → Forca Lleida CE",
+   "detected_at": "2026-09-28 02:55:16",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + Kur Kuath → Forca Lleida CE",
+   "detected_at": "2026-09-28 02:55:16",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB Forca Lleida CE 105, Valencia Basket 100",
+   "detected_at": "2026-09-28 02:55:16",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-27/Forca-Lleida-CE-at-Valencia-Basket/532397"
+  },
+  {
+   "detail": "Spanish ACB + Sander Raieste → UCAM Murcia CB",
+   "detected_at": "2026-09-28 02:55:13",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + Juani Marcos → UCAM Murcia CB",
+   "detected_at": "2026-09-28 02:55:13",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + Jean-Marc Pansa → UCAM Murcia CB",
+   "detected_at": "2026-09-28 02:55:13",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + Souley Boum → UCAM Murcia CB",
+   "detected_at": "2026-09-28 02:55:13",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + Marcis Steinbergs → UCAM Murcia CB",
+   "detected_at": "2026-09-28 02:55:13",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + Dylan Ennis → UCAM Murcia CB",
+   "detected_at": "2026-09-28 02:55:13",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + Emanuel Cate → UCAM Murcia CB",
+   "detected_at": "2026-09-28 02:55:13",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + Toni Nakic → UCAM Murcia CB",
+   "detected_at": "2026-09-28 02:55:13",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + Jonah Radebaugh → UCAM Murcia CB",
+   "detected_at": "2026-09-28 02:55:13",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + Michael Forrest → UCAM Murcia CB",
+   "detected_at": "2026-09-28 02:55:13",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + Wilhelm Falk → UCAM Murcia CB",
+   "detected_at": "2026-09-28 02:55:13",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + Andrzej Pluta → CB Girona",
+   "detected_at": "2026-09-28 02:55:13",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + Pep Busquets → CB Girona",
+   "detected_at": "2026-09-28 02:55:13",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + Sergi Martinez → CB Girona",
+   "detected_at": "2026-09-28 02:55:13",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + Martin Geben → CB Girona",
+   "detected_at": "2026-09-28 02:55:13",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + Mac McClung → CB Girona",
+   "detected_at": "2026-09-28 02:55:13",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + Stanley Whittaker → CB Girona",
+   "detected_at": "2026-09-28 02:55:13",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + David N'Guessan → CB Girona",
+   "detected_at": "2026-09-28 02:55:13",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + Nikola Maric → CB Girona",
+   "detected_at": "2026-09-28 02:55:13",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + Dominykas Stenionis → CB Girona",
+   "detected_at": "2026-09-28 02:55:13",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB ~ MOVED Jassel Perez → CB Girona (from Vaqueros de Bayamon)",
+   "detected_at": "2026-09-28 02:55:13",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB CB Girona 84, UCAM Murcia CB 77",
+   "detected_at": "2026-09-28 02:55:13",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-27/UCAM-Murcia-CB-at-CB-Girona/532396"
+  },
+  {
+   "detail": "Spanish ACB Casademont Zaragoza 81, Lenovo Tenerife 80",
+   "detected_at": "2026-09-28 02:55:11",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-27/Casademont-Zaragoza-at-Lenovo-Tenerife/532395"
+  },
+  {
+   "detail": "Spanish ACB + Roberts Blumbergs → Casademont Zaragoza",
+   "detected_at": "2026-09-28 02:55:10",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + Justin Jaworski → Casademont Zaragoza",
+   "detected_at": "2026-09-28 02:55:10",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + Trae Bell-Haynes → Casademont Zaragoza",
+   "detected_at": "2026-09-28 02:55:10",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + Miguel Gonzalez → Casademont Zaragoza",
+   "detected_at": "2026-09-28 02:55:10",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + Gabriel Olaseni → Casademont Zaragoza",
+   "detected_at": "2026-09-28 02:55:10",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + Nicolas Brussino → Casademont Zaragoza",
+   "detected_at": "2026-09-28 02:55:10",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + Sergi Garcia → Casademont Zaragoza",
+   "detected_at": "2026-09-28 02:55:10",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + Caleb Homesley → Casademont Zaragoza",
+   "detected_at": "2026-09-28 02:55:10",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + Guillem Vives → Casademont Zaragoza",
+   "detected_at": "2026-09-28 02:55:10",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + Laurynas Birutis → Casademont Zaragoza",
+   "detected_at": "2026-09-28 02:55:10",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + Jaime Fernandez → Casademont Zaragoza",
+   "detected_at": "2026-09-28 02:55:10",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + Ethan Happ → Lenovo Tenerife",
+   "detected_at": "2026-09-28 02:55:10",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + Kyle Guy → Lenovo Tenerife",
+   "detected_at": "2026-09-28 02:55:10",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + Aaron Doornekamp → Lenovo Tenerife",
+   "detected_at": "2026-09-28 02:55:10",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + Xabier Lopez-Arostegui → Lenovo Tenerife",
+   "detected_at": "2026-09-28 02:55:10",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + Bruno Fitipaldo → Lenovo Tenerife",
+   "detected_at": "2026-09-28 02:55:10",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + Marcelinho Huertas → Lenovo Tenerife",
+   "detected_at": "2026-09-28 02:55:10",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + T.J. Bamba → Lenovo Tenerife",
+   "detected_at": "2026-09-28 02:55:10",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + Jaime Fernandez → Lenovo Tenerife",
+   "detected_at": "2026-09-28 02:55:10",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + Giorgi Shermadini → Lenovo Tenerife",
+   "detected_at": "2026-09-28 02:55:10",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + Tim Abromaitis → Lenovo Tenerife",
+   "detected_at": "2026-09-28 02:55:10",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + Arturs Kurucs → Lenovo Tenerife",
+   "detected_at": "2026-09-28 02:55:10",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + Andersson Garcia → Rio Breogan",
+   "detected_at": "2026-09-28 02:55:08",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB Rio Breogan 110, Joventut Badalona 104",
+   "detected_at": "2026-09-28 02:55:08",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-27/Joventut-Badalona-at-Rio-Breogan/532393"
+  },
+  {
+   "detail": "Spanish ACB + D.J. Steward → Siblo San Pablo Burgos",
+   "detected_at": "2026-09-28 02:55:05",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + Balsa Koprivica → Siblo San Pablo Burgos",
+   "detected_at": "2026-09-28 02:55:05",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + Dusan Radosavljevic → Siblo San Pablo Burgos",
+   "detected_at": "2026-09-28 02:55:05",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + Raul Lobaco → Siblo San Pablo Burgos",
+   "detected_at": "2026-09-28 02:55:05",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB ~ MOVED Sekou Doumbouya → Siblo San Pablo Burgos (from Sagesse Al Hekmeh Beirut)",
+   "detected_at": "2026-09-28 02:55:05",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + Ziga Samar → Siblo San Pablo Burgos",
+   "detected_at": "2026-09-28 02:55:05",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + Christian Sengfelder → Siblo San Pablo Burgos",
+   "detected_at": "2026-09-28 02:55:05",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + Pablo Almazan → Siblo San Pablo Burgos",
+   "detected_at": "2026-09-28 02:55:05",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + Chase Audige → Siblo San Pablo Burgos",
+   "detected_at": "2026-09-28 02:55:05",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + Daniel Diez → Siblo San Pablo Burgos",
+   "detected_at": "2026-09-28 02:55:05",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + Ruben Guerrero → Siblo San Pablo Burgos",
+   "detected_at": "2026-09-28 02:55:05",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB + Joaquin Taboada → Siblo San Pablo Burgos",
+   "detected_at": "2026-09-28 02:55:05",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB Baskonia 98, Siblo San Pablo Burgos 97",
+   "detected_at": "2026-09-28 02:55:05",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-27/Baskonia-at-Siblo-San-Pablo-Burgos/532394"
+  },
+  {
    "detail": "VTB United League + Octavius Ellis → Uralmash",
    "detected_at": "2026-09-28 01:54:54",
    "source": "REALGM",
@@ -8413,2071 +10478,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Spanish Liga U + Rhys Selby → Real Madrid Liga U",
-   "detected_at": "2026-09-27 09:52:13",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Liga U + Osagioduwa Owol Adegbite → Real Madrid Liga U",
-   "detected_at": "2026-09-27 09:52:13",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Liga U + Toni Garma → Real Madrid Liga U",
-   "detected_at": "2026-09-27 09:52:13",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Liga U + Pablo Mera → Real Madrid Liga U",
-   "detected_at": "2026-09-27 09:52:13",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Liga U + Ikponmwosa Marvis → Real Madrid Liga U",
-   "detected_at": "2026-09-27 09:52:13",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Liga U + Hugo Moreno Celdran → Real Madrid Liga U",
-   "detected_at": "2026-09-27 09:52:13",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Liga U + Jaime Roman Viveros → Real Madrid Liga U",
-   "detected_at": "2026-09-27 09:52:13",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Liga U + Mohamed Dabone → Barca Liga U",
-   "detected_at": "2026-09-27 09:52:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Liga U + Oriol Filba → Barca Liga U",
-   "detected_at": "2026-09-27 09:52:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Liga U + Nil Poza Cervantes → Barca Liga U",
-   "detected_at": "2026-09-27 09:52:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Liga U + Jan Cerdan Palacios → Barca Liga U",
-   "detected_at": "2026-09-27 09:52:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Liga U + Jakob Siftar → Barca Liga U",
-   "detected_at": "2026-09-27 09:52:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Liga U + Abdrahamane Kone → Barca Liga U",
-   "detected_at": "2026-09-27 09:52:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Liga U + Diego Ferreras → Barca Liga U",
-   "detected_at": "2026-09-27 09:52:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Liga U + Pau Bermejo → Barca Liga U",
-   "detected_at": "2026-09-27 09:52:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Liga U + Eric Montaner Garcia → Barca Liga U",
-   "detected_at": "2026-09-27 09:52:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Liga U + Jan Martin Lopez → Barca Liga U",
-   "detected_at": "2026-09-27 09:52:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Liga U + Pau Cruz → Barca Liga U",
-   "detected_at": "2026-09-27 09:52:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Liga U + Sergi Kemu → Burgos Liga U",
-   "detected_at": "2026-09-27 09:52:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Liga U + Marcos Bella Cabanas → Burgos Liga U",
-   "detected_at": "2026-09-27 09:52:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Liga U + Ramiro Rodriguez → Burgos Liga U",
-   "detected_at": "2026-09-27 09:52:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Liga U + Eneko Fraco → Burgos Liga U",
-   "detected_at": "2026-09-27 09:52:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Liga U + Nouhou Mahamane → Burgos Liga U",
-   "detected_at": "2026-09-27 09:52:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Liga U + Gega Tsulaia → Burgos Liga U",
-   "detected_at": "2026-09-27 09:52:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Liga U + Daniel Rodriguez Ramos → Burgos Liga U",
-   "detected_at": "2026-09-27 09:52:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Liga U + Alfonso Agreda → Burgos Liga U",
-   "detected_at": "2026-09-27 09:52:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Liga U + Liam Krispin → Burgos Liga U",
-   "detected_at": "2026-09-27 09:52:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Liga U + Manuel Perez Gundin → Burgos Liga U",
-   "detected_at": "2026-09-27 09:52:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Liga U + Samuel Martin Diaz → Burgos Liga U",
-   "detected_at": "2026-09-27 09:52:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Liga U + Leo Aramburu → Burgos Liga U",
-   "detected_at": "2026-09-27 09:52:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Liga U Barca Liga U 112, Burgos Liga U 103",
-   "detected_at": "2026-09-27 09:52:11",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-26/Barca-Liga-U-at-Burgos-Liga-U/534401"
-  },
-  {
-   "detail": "Croatian A 1 Liga + Darko Bajo → KK Split",
-   "detected_at": "2026-09-27 09:52:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga + Trenton McLaughlin → KK Split",
-   "detected_at": "2026-09-27 09:52:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga + Lovre Runjic → KK Split",
-   "detected_at": "2026-09-27 09:52:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga + Mindaugas Kacinas → KK Split",
-   "detected_at": "2026-09-27 09:52:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga + Vito Kucic → KK Split",
-   "detected_at": "2026-09-27 09:52:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga + Ivan Gulin → KK Split",
-   "detected_at": "2026-09-27 09:52:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga + Tonko Vuko → KK Split",
-   "detected_at": "2026-09-27 09:52:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga + Martin Salamunic → KK Split",
-   "detected_at": "2026-09-27 09:52:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga + Benedikt Turudic → KK Split",
-   "detected_at": "2026-09-27 09:52:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga + Vito Palavra → KK Split",
-   "detected_at": "2026-09-27 09:52:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga + Matic Rebec → KK Split",
-   "detected_at": "2026-09-27 09:52:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga + Lovro Pjevic → KK Split",
-   "detected_at": "2026-09-27 09:52:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga + Marko Loncovic → KK Dubrovnik",
-   "detected_at": "2026-09-27 09:52:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga + Petar Dubelj → KK Dubrovnik",
-   "detected_at": "2026-09-27 09:52:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga + Filip Vujicic → KK Dubrovnik",
-   "detected_at": "2026-09-27 09:52:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga + Viktor Tashovski → KK Dubrovnik",
-   "detected_at": "2026-09-27 09:52:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga + Toni Josipovic → KK Dubrovnik",
-   "detected_at": "2026-09-27 09:52:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga + Luksa Andric → KK Dubrovnik",
-   "detected_at": "2026-09-27 09:52:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga + Nikola Dosen → KK Dubrovnik",
-   "detected_at": "2026-09-27 09:52:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga + Ivan Vodopija → KK Dubrovnik",
-   "detected_at": "2026-09-27 09:52:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga + David Pavin → KK Dubrovnik",
-   "detected_at": "2026-09-27 09:52:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga + Luka Francesevic → KK Dubrovnik",
-   "detected_at": "2026-09-27 09:52:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga + Luka Gulan → KK Dubrovnik",
-   "detected_at": "2026-09-27 09:52:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga + Ivano Prlj → KK Dubrovnik",
-   "detected_at": "2026-09-27 09:52:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga KK Split 81, KK Dubrovnik 66",
-   "detected_at": "2026-09-27 09:52:08",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-26/KK-Split-at-KK-Dubrovnik/534714"
-  },
-  {
-   "detail": "Croatian A 1 Liga + Toni Jelenkovic → KK Skrljevo",
-   "detected_at": "2026-09-27 09:52:05",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga + Davor Konjevic → KK Skrljevo",
-   "detected_at": "2026-09-27 09:52:05",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga + Patrik Jambrovic → KK Skrljevo",
-   "detected_at": "2026-09-27 09:52:05",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga + Luka Mrsic → KK Skrljevo",
-   "detected_at": "2026-09-27 09:52:05",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga + Arkim Robertson → KK Skrljevo",
-   "detected_at": "2026-09-27 09:52:05",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga + Luka Anzulovic → KK Skrljevo",
-   "detected_at": "2026-09-27 09:52:05",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga + Fran Pilepic → KK Skrljevo",
-   "detected_at": "2026-09-27 09:52:05",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga + Bismark Nsiah → KK Skrljevo",
-   "detected_at": "2026-09-27 09:52:05",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga + Timon Petrovic → KK Skrljevo",
-   "detected_at": "2026-09-27 09:52:05",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga + Luka Cvitanovic → KK Dubrava Zagreb",
-   "detected_at": "2026-09-27 09:52:05",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga + Pavao Paic → KK Dubrava Zagreb",
-   "detected_at": "2026-09-27 09:52:05",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga + Karlo Uljarevic → KK Dubrava Zagreb",
-   "detected_at": "2026-09-27 09:52:05",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga + Leonard Dixon → KK Dubrava Zagreb",
-   "detected_at": "2026-09-27 09:52:05",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga + Matej Perkovic → KK Dubrava Zagreb",
-   "detected_at": "2026-09-27 09:52:05",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga + Niko Rimac → KK Dubrava Zagreb",
-   "detected_at": "2026-09-27 09:52:05",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga + Matej Akrap → KK Dubrava Zagreb",
-   "detected_at": "2026-09-27 09:52:05",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga + Kenan Karahodzic → KK Dubrava Zagreb",
-   "detected_at": "2026-09-27 09:52:05",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga + Martin Klepo → KK Dubrava Zagreb",
-   "detected_at": "2026-09-27 09:52:05",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga + Duje Lisica → KK Dubrava Zagreb",
-   "detected_at": "2026-09-27 09:52:05",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga + Andrija Gluhak → KK Dubrava Zagreb",
-   "detected_at": "2026-09-27 09:52:05",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga KK Skrljevo 81, KK Dubrava Zagreb 72",
-   "detected_at": "2026-09-27 09:52:05",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-26/KK-Skrljevo-at-KK-Dubrava-Zagreb/534713"
-  },
-  {
-   "detail": "Croatian A 1 Liga + Luka Babic → KK Zabok",
-   "detected_at": "2026-09-27 09:52:02",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga + Dino Cinac → KK Zabok",
-   "detected_at": "2026-09-27 09:52:02",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga + Ante Perkusic → KK Zabok",
-   "detected_at": "2026-09-27 09:52:02",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga + Toni Torbarina → KK Zabok",
-   "detected_at": "2026-09-27 09:52:02",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga + Noa Svoboda → KK Zabok",
-   "detected_at": "2026-09-27 09:52:02",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga + Manuel Dundovic → KK Zabok",
-   "detected_at": "2026-09-27 09:52:02",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga + Petar Ogrizovic → KK Zabok",
-   "detected_at": "2026-09-27 09:52:02",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga + Antonio Crnjevic → KK Zabok",
-   "detected_at": "2026-09-27 09:52:02",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga + Emir Sabic → KK Zabok",
-   "detected_at": "2026-09-27 09:52:02",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga + Filip Kraljevic → KK Zabok",
-   "detected_at": "2026-09-27 09:52:02",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga + Emil Savic → KK Dinamo",
-   "detected_at": "2026-09-27 09:52:02",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga + Matej Rudan → KK Dinamo",
-   "detected_at": "2026-09-27 09:52:02",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga + Filip Bjelanovic → KK Dinamo",
-   "detected_at": "2026-09-27 09:52:02",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga + Karlo Krizanac → KK Dinamo",
-   "detected_at": "2026-09-27 09:52:02",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga ~ MOVED Taye Donald → KK Dinamo (from Edmonton Stingers)",
-   "detected_at": "2026-09-27 09:52:02",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga + Mateo Vidovic → KK Dinamo",
-   "detected_at": "2026-09-27 09:52:02",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga + Frane Antic → KK Dinamo",
-   "detected_at": "2026-09-27 09:52:02",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga + Andrej Matic → KK Dinamo",
-   "detected_at": "2026-09-27 09:52:02",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga KK Dinamo 80, KK Zabok 78",
-   "detected_at": "2026-09-27 09:52:02",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-26/KK-Zabok-at-KK-Dinamo/534712"
-  },
-  {
-   "detail": "Kosovo FBK KB Peja 87, KB Trepca Mitrovice 81",
-   "detected_at": "2026-09-27 09:52:00",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-26/KB-Peja-at-KB-Trepca-Mitrovice/534707"
-  },
-  {
-   "detail": "Kosovo FBK + Dion Haxhosaj → KB Peja",
-   "detected_at": "2026-09-27 09:51:59",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Estonian Latvian Basketball League + Oliver Metsalu → TalTech ALEXELA",
-   "detected_at": "2026-09-27 09:51:57",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Estonian Latvian Basketball League + Siim-Markus Post → TalTech ALEXELA",
-   "detected_at": "2026-09-27 09:51:57",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Estonian Latvian Basketball League + Taavi Jurkatamm → TalTech ALEXELA",
-   "detected_at": "2026-09-27 09:51:57",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Estonian Latvian Basketball League + Tormi Metsla → TalTech ALEXELA",
-   "detected_at": "2026-09-27 09:51:57",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Estonian Latvian Basketball League + Oliver Suurorg → TalTech ALEXELA",
-   "detected_at": "2026-09-27 09:51:57",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Estonian Latvian Basketball League + Tormi Niits → TalTech ALEXELA",
-   "detected_at": "2026-09-27 09:51:57",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Estonian Latvian Basketball League + Jaan Puidet → TalTech ALEXELA",
-   "detected_at": "2026-09-27 09:51:57",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Estonian Latvian Basketball League + Simon Sutt → TalTech ALEXELA",
-   "detected_at": "2026-09-27 09:51:57",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Estonian Latvian Basketball League + Jorgen Rikberg → TalTech ALEXELA",
-   "detected_at": "2026-09-27 09:51:57",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Estonian Latvian Basketball League + Gregor Ilves → TalTech ALEXELA",
-   "detected_at": "2026-09-27 09:51:57",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Estonian Latvian Basketball League Rigas Zelli 79, TalTech ALEXELA 73",
-   "detected_at": "2026-09-27 09:51:57",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-26/Rigas-Zelli-at-TalTech-ALEXELA/535352"
-  },
-  {
-   "detail": "Estonian Latvian Basketball League + Edgars Lasenbergs → BK Liepaja",
-   "detected_at": "2026-09-27 09:51:54",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Estonian Latvian Basketball League + Rodijs Macoha → BK Liepaja",
-   "detected_at": "2026-09-27 09:51:54",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Estonian Latvian Basketball League + Rokas Jocius → BK Liepaja",
-   "detected_at": "2026-09-27 09:51:54",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Estonian Latvian Basketball League + Edvards Egle → BK Liepaja",
-   "detected_at": "2026-09-27 09:51:54",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Estonian Latvian Basketball League + Ivo Tamm → BK Liepaja",
-   "detected_at": "2026-09-27 09:51:54",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Estonian Latvian Basketball League + Reinis Avotins → BK Liepaja",
-   "detected_at": "2026-09-27 09:51:54",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Estonian Latvian Basketball League + Henriks Bajars → BK Liepaja",
-   "detected_at": "2026-09-27 09:51:54",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Estonian Latvian Basketball League + Reds Martinsons → BK Liepaja",
-   "detected_at": "2026-09-27 09:51:54",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Estonian Latvian Basketball League + Kristians Sulcs → BK Liepaja",
-   "detected_at": "2026-09-27 09:51:54",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Estonian Latvian Basketball League + Francis Neilands → BK Liepaja",
-   "detected_at": "2026-09-27 09:51:54",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Estonian Latvian Basketball League + Jesper Roman → Parnu Sadam",
-   "detected_at": "2026-09-27 09:51:54",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Estonian Latvian Basketball League Parnu Sadam 76, BK Liepaja 73",
-   "detected_at": "2026-09-27 09:51:54",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-26/BK-Liepaja-at-Parnu-Sadam/535353"
-  },
-  {
-   "detail": "Norwegian BLNO + Brage Engelsen → Tromso Storm",
-   "detected_at": "2026-09-27 09:51:51",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Norwegian BLNO + Hakon Skog → Tromso Storm",
-   "detected_at": "2026-09-27 09:51:51",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Norwegian BLNO + Nicolas Gundersen Ballone → Flyyingen BBK",
-   "detected_at": "2026-09-27 09:51:51",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Norwegian BLNO + Evert Dahlberg → Flyyingen BBK",
-   "detected_at": "2026-09-27 09:51:51",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Norwegian BLNO + Intele Lomboto → Flyyingen BBK",
-   "detected_at": "2026-09-27 09:51:51",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Norwegian BLNO Flyyingen BBK 110, Tromso Storm 68",
-   "detected_at": "2026-09-27 09:51:51",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-26/Tromso-Storm-at-Flyyingen-BBK/527328"
-  },
-  {
-   "detail": "Norwegian BLNO Baerum Basket 96, Nidaros Jets 82",
-   "detected_at": "2026-09-27 09:51:49",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-26/Baerum-Basket-at-Nidaros-Jets/527329"
-  },
-  {
-   "detail": "Norwegian BLNO + Jakob Ellingsen → Baerum Basket",
-   "detected_at": "2026-09-27 09:51:48",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Norwegian BLNO + Stian Mjoes → Baerum Basket",
-   "detected_at": "2026-09-27 09:51:48",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Norwegian BLNO + Pau Tendero → Baerum Basket",
-   "detected_at": "2026-09-27 09:51:48",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Norwegian BLNO + Filip Rypdal Overas → Baerum Basket",
-   "detected_at": "2026-09-27 09:51:48",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Norwegian BLNO + Dante Olsen → Baerum Basket",
-   "detected_at": "2026-09-27 09:51:48",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Norwegian BLNO + Kevin Austria → Baerum Basket",
-   "detected_at": "2026-09-27 09:51:48",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Norwegian BLNO + Benjamin Dyve → Baerum Basket",
-   "detected_at": "2026-09-27 09:51:48",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Norwegian BLNO + Marius Mjos → Baerum Basket",
-   "detected_at": "2026-09-27 09:51:48",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Norwegian BLNO + William Kristiansen → Baerum Basket",
-   "detected_at": "2026-09-27 09:51:48",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Czech NBL + Premysl Dubovy → BK Opava",
-   "detected_at": "2026-09-27 09:51:46",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Czech NBL BK Opava 83, BK Decin 76",
-   "detected_at": "2026-09-27 09:51:46",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-26/BK-Decin-at-BK-Opava/527311"
-  },
-  {
-   "detail": "Lithuanian LKL + Ugnius Gervinas → Gargzdu Gargzdai",
-   "detected_at": "2026-09-27 09:51:43",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Lithuanian LKL Gargzdu Gargzdai 87, Neptunas 78",
-   "detected_at": "2026-09-27 09:51:43",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-26/Neptunas-at-Gargzdu-Gargzdai/532707"
-  },
-  {
-   "detail": "Czech NBL SLUNETA Usti nad Labem 89, USK Praha 80",
-   "detected_at": "2026-09-27 09:51:40",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-26/SLUNETA-Usti-nad-Labem-at-USK-Praha/527310"
-  },
-  {
-   "detail": "Czech NBL BK JIP Pardubice 88, BK GAPA Hradec Kralove 78",
-   "detected_at": "2026-09-27 09:51:38",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-26/BK-JIP-Pardubice-at-BK-GAPA-Hradec-Kralove/527313"
-  },
-  {
-   "detail": "Lithuanian LKL 7Bet Lietkabelis Panevezys 85, Taurages 79",
-   "detected_at": "2026-09-27 09:51:35",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-26/Taurages-at-7Bet-Lietkabelis-Panevezys/532706"
-  },
-  {
-   "detail": "Spanish Liga U + Pol Salo Blaya → Joventut Liga U",
-   "detected_at": "2026-09-27 09:51:32",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Liga U + Diego Niebla → Joventut Liga U",
-   "detected_at": "2026-09-27 09:51:32",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Liga U + Ferran Mauri Guillen → Joventut Liga U",
-   "detected_at": "2026-09-27 09:51:32",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Liga U + Humberto Ruiz → Joventut Liga U",
-   "detected_at": "2026-09-27 09:51:32",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Liga U + Pau Batlle → Joventut Liga U",
-   "detected_at": "2026-09-27 09:51:32",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Liga U + Pau Majoral → Joventut Liga U",
-   "detected_at": "2026-09-27 09:51:32",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Liga U + Eduard Coll Comabella → Joventut Liga U",
-   "detected_at": "2026-09-27 09:51:32",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Liga U + Roger Torras → Joventut Liga U",
-   "detected_at": "2026-09-27 09:51:32",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Liga U + Sebastian Petru Lapuste → Joventut Liga U",
-   "detected_at": "2026-09-27 09:51:32",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Liga U + Gregory Graae Barbosa → Joventut Liga U",
-   "detected_at": "2026-09-27 09:51:32",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Liga U + Izan Perez Vasco → Joventut Liga U",
-   "detected_at": "2026-09-27 09:51:32",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Liga U + Jan Pumarola → BAXI Manresa Liga U",
-   "detected_at": "2026-09-27 09:51:32",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Liga U + Guillem Naspler → BAXI Manresa Liga U",
-   "detected_at": "2026-09-27 09:51:32",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Liga U + Lucas Sanchez → BAXI Manresa Liga U",
-   "detected_at": "2026-09-27 09:51:32",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Liga U + Alex Muncunill → BAXI Manresa Liga U",
-   "detected_at": "2026-09-27 09:51:32",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Liga U + Ryan Osabohien → BAXI Manresa Liga U",
-   "detected_at": "2026-09-27 09:51:32",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Liga U + Marc Rosell → BAXI Manresa Liga U",
-   "detected_at": "2026-09-27 09:51:32",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Liga U + Gerard Fernandez → BAXI Manresa Liga U",
-   "detected_at": "2026-09-27 09:51:32",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Liga U + Guillem Ecker Albert → BAXI Manresa Liga U",
-   "detected_at": "2026-09-27 09:51:32",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Liga U + Mouhamed Ndiaye → BAXI Manresa Liga U",
-   "detected_at": "2026-09-27 09:51:32",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Liga U + Jordi Salo → BAXI Manresa Liga U",
-   "detected_at": "2026-09-27 09:51:32",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Liga U + Roger Treserras → BAXI Manresa Liga U",
-   "detected_at": "2026-09-27 09:51:32",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Liga U + Gustav Drejer → BAXI Manresa Liga U",
-   "detected_at": "2026-09-27 09:51:32",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Liga U BAXI Manresa Liga U 93, Joventut Liga U 80",
-   "detected_at": "2026-09-27 09:51:32",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-26/Joventut-Liga-U-at-BAXI-Manresa-Liga-U/541700"
-  },
-  {
-   "detail": "Japanese BLeague + Davante Gardner → Aishin Sea Horses",
-   "detected_at": "2026-09-27 09:51:29",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Sean O'Mara → Aishin Sea Horses",
-   "detected_at": "2026-09-27 09:51:29",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Yudai Nishida → Aishin Sea Horses",
-   "detected_at": "2026-09-27 09:51:29",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Yutaroh Suda → Aishin Sea Horses",
-   "detected_at": "2026-09-27 09:51:29",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Yoshiaki Kubota → Aishin Sea Horses",
-   "detected_at": "2026-09-27 09:51:29",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Thomas Kennedy → Aishin Sea Horses",
-   "detected_at": "2026-09-27 09:51:29",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Aaron White → Aishin Sea Horses",
-   "detected_at": "2026-09-27 09:51:29",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Ryogo Sumino → Aishin Sea Horses",
-   "detected_at": "2026-09-27 09:51:29",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Nagano Satoshi → Aishin Sea Horses",
-   "detected_at": "2026-09-27 09:51:29",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Marques Bolden → Levanga Hokkaido",
-   "detected_at": "2026-09-27 09:51:29",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Gary Clark → Levanga Hokkaido",
-   "detected_at": "2026-09-27 09:51:29",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Dwight Ramos → Levanga Hokkaido",
-   "detected_at": "2026-09-27 09:51:29",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Keisei Tominaga → Levanga Hokkaido",
-   "detected_at": "2026-09-27 09:51:29",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Ren Shimatani → Levanga Hokkaido",
-   "detected_at": "2026-09-27 09:51:29",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + John Harrar → Levanga Hokkaido",
-   "detected_at": "2026-09-27 09:51:29",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Hiroki Matsuzaki → Levanga Hokkaido",
-   "detected_at": "2026-09-27 09:51:29",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Yu Kibayashi → Levanga Hokkaido",
-   "detected_at": "2026-09-27 09:51:29",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Yuta Osaki → Levanga Hokkaido",
-   "detected_at": "2026-09-27 09:51:29",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Kohei Sekino → Levanga Hokkaido",
-   "detected_at": "2026-09-27 09:51:29",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Teruchika Naito → Levanga Hokkaido",
-   "detected_at": "2026-09-27 09:51:29",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Hiroto Kikuchi → Levanga Hokkaido",
-   "detected_at": "2026-09-27 09:51:29",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Shuto Ichiba → Levanga Hokkaido",
-   "detected_at": "2026-09-27 09:51:29",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague Levanga Hokkaido 106, Aishin Sea Horses 97",
-   "detected_at": "2026-09-27 09:51:29",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-26/Aishin-Sea-Horses-at-Levanga-Hokkaido/523884"
-  },
-  {
-   "detail": "Japanese BLeague + Maik Kotsar → Yokohama B Corsairs",
-   "detected_at": "2026-09-27 09:51:26",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Kameron McGusty → Yokohama B Corsairs",
-   "detected_at": "2026-09-27 09:51:26",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Gakuto Arai → Yokohama B Corsairs",
-   "detected_at": "2026-09-27 09:51:26",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Kenta Morii → Yokohama B Corsairs",
-   "detected_at": "2026-09-27 09:51:26",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Isaiah Livers → Yokohama B Corsairs",
-   "detected_at": "2026-09-27 09:51:26",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Kyle Richardson → Yokohama B Corsairs",
-   "detected_at": "2026-09-27 09:51:26",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Kanta Maeno → Yokohama B Corsairs",
-   "detected_at": "2026-09-27 09:51:26",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Takuma Sato → Yokohama B Corsairs",
-   "detected_at": "2026-09-27 09:51:26",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Kai King → Yokohama B Corsairs",
-   "detected_at": "2026-09-27 09:51:26",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Kenta Whitaker → Yokohama B Corsairs",
-   "detected_at": "2026-09-27 09:51:26",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Narito Namizato → Yokohama B Corsairs",
-   "detected_at": "2026-09-27 09:51:26",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Gavin Edwards → Link Tochigi Brex",
-   "detected_at": "2026-09-27 09:51:26",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Makoto Hiejima → Link Tochigi Brex",
-   "detected_at": "2026-09-27 09:51:26",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Isaac Fotu → Link Tochigi Brex",
-   "detected_at": "2026-09-27 09:51:26",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Trey Kell → Link Tochigi Brex",
-   "detected_at": "2026-09-27 09:51:26",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Shinji Takashima → Link Tochigi Brex",
-   "detected_at": "2026-09-27 09:51:26",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Kosuke Takeuchi → Link Tochigi Brex",
-   "detected_at": "2026-09-27 09:51:26",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Hiroki Watanabe → Link Tochigi Brex",
-   "detected_at": "2026-09-27 09:51:26",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Sean Hinkley → Link Tochigi Brex",
-   "detected_at": "2026-09-27 09:51:26",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Seiji Ikaruga → Link Tochigi Brex",
-   "detected_at": "2026-09-27 09:51:26",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Yuseke Endo → Link Tochigi Brex",
-   "detected_at": "2026-09-27 09:51:26",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Atsuya Ogawa → Link Tochigi Brex",
-   "detected_at": "2026-09-27 09:51:26",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Hayate Arakawa → Link Tochigi Brex",
-   "detected_at": "2026-09-27 09:51:26",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague Link Tochigi Brex 88, Yokohama B Corsairs 78",
-   "detected_at": "2026-09-27 09:51:26",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-26/Yokohama-B-Corsairs-at-Link-Tochigi-Brex/523886"
-  },
-  {
-   "detail": "Japanese BLeague + Yuya Nagayoshi → Hitachi Sun Rockers",
-   "detected_at": "2026-09-27 09:51:23",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague Hitachi Sun Rockers 95, Chiba Jets 79",
-   "detected_at": "2026-09-27 09:51:23",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-26/Chiba-Jets-at-Hitachi-Sun-Rockers/523887"
-  },
-  {
-   "detail": "Japanese BLeague + Scott Eatherton → Nagoya Diamond Dolphins",
-   "detected_at": "2026-09-27 09:51:21",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Ryan Luther → Nagoya Diamond Dolphins",
-   "detected_at": "2026-09-27 09:51:21",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Aaron Henry → Nagoya Diamond Dolphins",
-   "detected_at": "2026-09-27 09:51:21",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Takumi Saito → Nagoya Diamond Dolphins",
-   "detected_at": "2026-09-27 09:51:21",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Keita Imamura → Nagoya Diamond Dolphins",
-   "detected_at": "2026-09-27 09:51:21",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Tenketsu Harimoto → Nagoya Diamond Dolphins",
-   "detected_at": "2026-09-27 09:51:21",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Taito Nakahigashi → Nagoya Diamond Dolphins",
-   "detected_at": "2026-09-27 09:51:21",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Quentin Millora-Brown → Nagoya Diamond Dolphins",
-   "detected_at": "2026-09-27 09:51:21",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Isaiah Murphy → Nagoya Diamond Dolphins",
-   "detected_at": "2026-09-27 09:51:21",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Jake Holtz → Nagoya Diamond Dolphins",
-   "detected_at": "2026-09-27 09:51:21",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Hiyuu Ozawa → Nagoya Diamond Dolphins",
-   "detected_at": "2026-09-27 09:51:21",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Taketo Kato → Nagoya Diamond Dolphins",
-   "detected_at": "2026-09-27 09:51:21",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Alex Kirk → Kawasaki Brave Thunders",
-   "detected_at": "2026-09-27 09:51:21",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Matt Bonds → Kawasaki Brave Thunders",
-   "detected_at": "2026-09-27 09:51:21",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Jaedon LeDee → Kawasaki Brave Thunders",
-   "detected_at": "2026-09-27 09:51:21",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Hirohide Araya → Kawasaki Brave Thunders",
-   "detected_at": "2026-09-27 09:51:21",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Reoto Yonesu → Kawasaki Brave Thunders",
-   "detected_at": "2026-09-27 09:51:21",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Ryusei Shinoyama → Kawasaki Brave Thunders",
-   "detected_at": "2026-09-27 09:51:21",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Takumi Hasegawa → Kawasaki Brave Thunders",
-   "detected_at": "2026-09-27 09:51:21",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Shota Tsuyama → Kawasaki Brave Thunders",
-   "detected_at": "2026-09-27 09:51:21",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Shun Matsuyama → Kawasaki Brave Thunders",
-   "detected_at": "2026-09-27 09:51:21",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Jaheru Yamauchi → Kawasaki Brave Thunders",
-   "detected_at": "2026-09-27 09:51:21",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Roy Igwe → Kawasaki Brave Thunders",
-   "detected_at": "2026-09-27 09:51:21",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague Nagoya Diamond Dolphins 93, Kawasaki Brave Thunders 63",
-   "detected_at": "2026-09-27 09:51:21",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-26/Nagoya-Diamond-Dolphins-at-Kawasaki-Brave-Thunders/523888"
-  },
-  {
-   "detail": "Japanese BLeague + Braian Angola-Rodas → Toyama Grouses",
-   "detected_at": "2026-09-27 09:51:18",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Darral Willis → Toyama Grouses",
-   "detected_at": "2026-09-27 09:51:18",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Thirdy Ravena → Toyama Grouses",
-   "detected_at": "2026-09-27 09:51:18",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Yuzo Okada → Toyama Grouses",
-   "detected_at": "2026-09-27 09:51:18",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Naoki Uto → Toyama Grouses",
-   "detected_at": "2026-09-27 09:51:18",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Rashid Faraz → Toyama Grouses",
-   "detected_at": "2026-09-27 09:51:18",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Kaito Morizane → Toyama Grouses",
-   "detected_at": "2026-09-27 09:51:18",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Kazuki Miyamoto → Toyama Grouses",
-   "detected_at": "2026-09-27 09:51:18",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Haruaki Tanaka → Toyama Grouses",
-   "detected_at": "2026-09-27 09:51:18",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Yoshiyuki Nozaki → Toyama Grouses",
-   "detected_at": "2026-09-27 09:51:18",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Daichi Kuzuhara → Toyama Grouses",
-   "detected_at": "2026-09-27 09:51:18",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Kevon Harris → Shinshu Brave Warriors",
-   "detected_at": "2026-09-27 09:51:18",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Takatoshi Furukawa → Shinshu Brave Warriors",
-   "detected_at": "2026-09-27 09:51:18",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Marcus Lee → Shinshu Brave Warriors",
-   "detected_at": "2026-09-27 09:51:18",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Kyosuke Hoshino → Shinshu Brave Warriors",
-   "detected_at": "2026-09-27 09:51:18",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Mike Daum → Shinshu Brave Warriors",
-   "detected_at": "2026-09-27 09:51:18",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Daniel Kato → Shinshu Brave Warriors",
-   "detected_at": "2026-09-27 09:51:18",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Eliet Donley → Shinshu Brave Warriors",
-   "detected_at": "2026-09-27 09:51:18",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Daiki Tsuchiya → Shinshu Brave Warriors",
-   "detected_at": "2026-09-27 09:51:18",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Tshilidzi Nephawe → Shinshu Brave Warriors",
-   "detected_at": "2026-09-27 09:51:18",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Marcus Tobin → Shinshu Brave Warriors",
-   "detected_at": "2026-09-27 09:51:18",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Susumu Tokairin → Shinshu Brave Warriors",
-   "detected_at": "2026-09-27 09:51:18",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague Toyama Grouses 99, Shinshu Brave Warriors 85",
-   "detected_at": "2026-09-27 09:51:18",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-26/Toyama-Grouses-at-Shinshu-Brave-Warriors/523889"
-  },
-  {
-   "detail": "Japanese BLeague + Tomoya Hasegawa → Altiri Chiba",
-   "detected_at": "2026-09-27 09:51:15",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Daichi Taniguchi → Gunma Crane Thunders",
-   "detected_at": "2026-09-27 09:51:15",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Keita Tsurumaki → Gunma Crane Thunders",
-   "detected_at": "2026-09-27 09:51:15",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague Gunma Crane Thunders 91, Altiri Chiba 59",
-   "detected_at": "2026-09-27 09:51:15",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-26/Altiri-Chiba-at-Gunma-Crane-Thunders/523891"
-  },
-  {
-   "detail": "Kosovo FBK KB Bashkimi Prizren 100, KB Rahoveci 84",
-   "detected_at": "2026-09-27 09:51:11",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-27/KB-Bashkimi-Prizren-at-KB-Rahoveci/534710"
-  },
-  {
-   "detail": "Kosovo FBK + Elif Haxhimurati → KB Rahoveci",
-   "detected_at": "2026-09-27 09:51:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Kosovo FBK + Albion Imeri → KB Rahoveci",
-   "detected_at": "2026-09-27 09:51:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Australian NBL Sydney 121, Illawarra 100",
-   "detected_at": "2026-09-27 09:51:08",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-27/Illawarra-at-Sydney/524272"
-  },
-  {
-   "detail": "Australian NBL + Brodie McGregor → Illawarra",
-   "detected_at": "2026-09-27 09:51:07",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Australian NBL + Fletcher MacDonald → Illawarra",
-   "detected_at": "2026-09-27 09:51:07",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Australian NBL + Bailey Hanson → Sydney",
-   "detected_at": "2026-09-27 09:51:07",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Australian NBL Adelaide 83, Cairns 69",
-   "detected_at": "2026-09-27 09:51:05",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-27/Cairns-at-Adelaide/524271"
-  },
-  {
-   "detail": "Buddy Hield  ~ number: - -> 7",
-   "detected_at": "2026-09-27 09:50:59",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Buddy_Hield"
-  },
-  {
-   "detail": "Miles Norris  ~ team: FC Bayern Munich -> Bayern Munich",
-   "detected_at": "2026-09-27 09:50:59",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Miles_Norris"
-  },
-  {
-   "detail": "Drew Peterson (basketball)  ~ team: Windy City Bulls -> Chicago Bulls",
-   "detected_at": "2026-09-27 09:50:59",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Drew_Peterson_(basketball)"
-  },
-  {
-   "detail": "Drew Peterson (basketball)  ~ league: NBA G League -> NBA",
-   "detected_at": "2026-09-27 09:50:59",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Drew_Peterson_(basketball)"
-  },
-  {
-   "detail": "Drew Peterson (basketball)  ~ number: - -> 21",
-   "detected_at": "2026-09-27 09:50:59",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Drew_Peterson_(basketball)"
-  },
-  {
-   "detail": "Drew Peterson (basketball)  ~ CAREER  + –present Chicago Bulls",
-   "detected_at": "2026-09-27 09:50:59",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Drew_Peterson_(basketball)"
-  },
-  {
-   "detail": "Chris Chiozza  ~ team: Pallacanestro Cantù -> Free agent",
-   "detected_at": "2026-09-27 09:50:59",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Chris_Chiozza"
-  },
-  {
-   "detail": "Chris Chiozza  ~ league: Lega Basket Serie A -> -",
-   "detected_at": "2026-09-27 09:50:59",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Chris_Chiozza"
-  },
-  {
-   "detail": "Chris Chiozza  ~ number: 3 -> -",
-   "detected_at": "2026-09-27 09:50:59",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Chris_Chiozza"
-  },
-  {
-   "detail": "Chris Chiozza  ~ CAREER  + 2026 Cantù",
-   "detected_at": "2026-09-27 09:50:59",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Chris_Chiozza"
-  },
-  {
-   "detail": "Rob Dillingham  ~ number: 7 -> -",
-   "detected_at": "2026-09-27 09:50:59",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Rob_Dillingham"
-  },
-  {
-   "detail": "Matt Thomas (basketball)  ~ league: Liga ACB EuroCup -> Liga ACB BCL",
-   "detected_at": "2026-09-27 09:50:59",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Matt_Thomas_(basketball)"
-  },
-  {
-   "detail": "Duane Washington Jr.  ~ team: FC Bayern Munich -> Bayern Munich",
-   "detected_at": "2026-09-27 09:50:59",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Duane_Washington_Jr."
-  },
-  {
-   "detail": "Duane Washington Jr.  ~ CAREER  + 2026–present Bayern Munich",
-   "detected_at": "2026-09-27 09:50:59",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Duane_Washington_Jr."
-  },
-  {
-   "detail": "Joshua Primo  ~ number: - -> 12",
-   "detected_at": "2026-09-27 09:50:59",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Joshua_Primo"
-  },
-  {
-   "detail": "Orlando Robinson  ~ team: Windy City Bulls -> Chicago Bulls",
-   "detected_at": "2026-09-27 09:50:59",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Orlando_Robinson"
-  },
-  {
-   "detail": "Orlando Robinson  ~ league: NBA G League -> NBA",
-   "detected_at": "2026-09-27 09:50:59",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Orlando_Robinson"
-  },
-  {
-   "detail": "Orlando Robinson  ~ number: - -> 00",
-   "detected_at": "2026-09-27 09:50:59",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Orlando_Robinson"
-  },
-  {
-   "detail": "Orlando Robinson  ~ CAREER  + –present Chicago Bulls",
-   "detected_at": "2026-09-27 09:50:59",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Orlando_Robinson"
   }
  ],
  "feeds": {
@@ -10498,12 +10498,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 4506,
-   "last": "2026-09-28 01:54:54"
+   "count": 4780,
+   "last": "2026-09-28 02:55:50"
   },
   "SCORES": {
-   "count": 913,
-   "last": "2026-09-28 01:54:54"
+   "count": 934,
+   "last": "2026-09-28 02:56:05"
   },
   "SHEETS": {
    "count": 4050,
@@ -10522,6 +10522,6 @@
    "last": "2026-09-27 15:51:49"
   }
  },
- "generated_at": "2026-09-28T02:54:00",
- "total": 19722
+ "generated_at": "2026-09-28T02:56:07",
+ "total": 20017
 }
