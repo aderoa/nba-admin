@@ -1,6 +1,30 @@
 {
  "events": [
   {
+   "detail": "- REMOVED Viktor Lakhin (SAC)",
+   "detected_at": "2026-09-28 13:54:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Cameron Corhen (ATL)",
+   "detected_at": "2026-09-28 13:54:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Kobe Johnson (ATL)",
+   "detected_at": "2026-09-28 13:54:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Carson Cooper (MEM)",
+   "detected_at": "2026-09-28 13:54:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
    "detail": "+ ADDED   Carson Cooper (MEM)",
    "detected_at": "2026-09-28 13:53:54",
    "source": "PLAYERS",
@@ -9852,34 +9876,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "German Pro B + Robert Serbenov → FC Bayern Munchen II",
-   "detected_at": "2026-09-28 00:45:45",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Pro B + William Miklic → FC Bayern Munchen II",
-   "detected_at": "2026-09-28 00:45:45",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Pro B FC Bayern Munchen II 83, Dresden Titans 80",
-   "detected_at": "2026-09-28 00:45:45",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-27/Dresden-Titans-at-FC-Bayern-Munchen-II/525458"
-  },
-  {
-   "detail": "Bryant Dunston  ~ team: Free agent -> Olympiacos",
-   "detected_at": "2026-09-28 00:45:37",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Bryant_Dunston"
   }
  ],
  "feeds": {
@@ -9892,8 +9888,8 @@
    "last": "2026-09-28 07:02:00"
   },
   "PLAYERS": {
-   "count": 1255,
-   "last": "2026-09-28 13:53:54"
+   "count": 1259,
+   "last": "2026-09-28 13:54:54"
   },
   "RATINGS": {
    "count": 950,
@@ -9924,6 +9920,6 @@
    "last": "2026-09-28 10:47:46"
   }
  },
- "generated_at": "2026-09-28T13:54:01",
- "total": 21025
+ "generated_at": "2026-09-28T13:55:02",
+ "total": 21029
 }
