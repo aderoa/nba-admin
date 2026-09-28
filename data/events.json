@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "ORL  + ADDED  Cumberland, Jarron",
+   "detected_at": "2026-09-28 09:47:58",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
    "detail": "ORL  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 229848120 -> 232033236, col9: 802917896.6 -> 805103012.6",
    "detected_at": "2026-09-28 09:47:00",
    "source": "SHEETS",
@@ -10020,13 +10026,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-09-26/Phoenix-MT-Fot-at-Falco-Vulcano-Energia-KC-Szombathely/533618"
-  },
-  {
-   "detail": "German Pro B Culture City Weimar 81, Fraport Skyliners Juniors 77",
-   "detected_at": "2026-09-27 21:13:03",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-26/Fraport-Skyliners-Juniors-at-Culture-City-Weimar/525455"
   }
  ],
  "feeds": {
@@ -10055,8 +10054,8 @@
    "last": "2026-09-28 09:06:16"
   },
   "SHEETS": {
-   "count": 4257,
-   "last": "2026-09-28 09:47:00"
+   "count": 4258,
+   "last": "2026-09-28 09:47:58"
   },
   "TRANSACTIONS": {
    "count": 437,
@@ -10071,6 +10070,6 @@
    "last": "2026-09-27 15:51:49"
   }
  },
- "generated_at": "2026-09-28T09:47:03",
- "total": 20781
+ "generated_at": "2026-09-28T09:48:01",
+ "total": 20782
 }
