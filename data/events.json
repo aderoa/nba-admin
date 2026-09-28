@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "~ CHANGED Nicholas Boyd  name: Nick Boyd -> Nicholas Boyd",
+   "detected_at": "2026-09-28 16:33:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "2026-09-27  Brooklyn Nets waived forward Nick Pringle.",
    "detected_at": "2026-09-28 16:32:55",
    "source": "TRANSACTIONS",
@@ -9858,13 +9864,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-09-27/Maccabi-Ashdod-at-Hapoel-Eilat/541689"
-  },
-  {
-   "detail": "Mexican LNBP Mineros de Zacatecas 84, Lobos Plateados 81",
-   "detected_at": "2026-09-28 00:46:01",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-27/Mineros-de-Zacatecas-at-Lobos-Plateados/542274"
   }
  ],
  "feeds": {
@@ -9877,8 +9876,8 @@
    "last": "2026-09-28 07:02:00"
   },
   "PLAYERS": {
-   "count": 1263,
-   "last": "2026-09-28 13:56:54"
+   "count": 1264,
+   "last": "2026-09-28 16:33:54"
   },
   "RATINGS": {
    "count": 950,
@@ -9909,6 +9908,6 @@
    "last": "2026-09-28 15:24:10"
   }
  },
- "generated_at": "2026-09-28T16:33:01",
- "total": 21138
+ "generated_at": "2026-09-28T16:34:00",
+ "total": 21139
 }
