@@ -1,6 +1,66 @@
 {
  "events": [
   {
+   "detail": "MIN  + ADDED  Sandfort, Payton",
+   "detected_at": "2026-09-28 09:38:58",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "MIN  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 256445657 -> 258630773, col9: 692644980.6 -> 694830096.6",
+   "detected_at": "2026-09-28 09:38:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MIN  CHANGED Players Under Contract  -  col3: 216683139 -> 218868255",
+   "detected_at": "2026-09-28 09:38:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MIN  CHANGED Full Season Contracts  -  col3: 216683139 -> 218868255",
+   "detected_at": "2026-09-28 09:38:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MIN  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 16 -> 17",
+   "detected_at": "2026-09-28 09:38:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col19: 18310139 -> 20495255",
+   "detected_at": "2026-09-28 09:38:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 4th Incremental Tax Bracket  -  col19: 5961910.25 -> 16341211.25",
+   "detected_at": "2026-09-28 09:38:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col19: 38650660.25 -> 49029961.25",
+   "detected_at": "2026-09-28 09:38:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED Update 1.3 (7/18/26): O. Agbaji, B. Beal, J. Bernard, S. Bey, D. Brooks, K. Brooks, B. Brown, K. Bufkin, J. Butler Jr., K. Caldwell-Pope, D. Carter, M. Cisse, I. Crawford, J. Crutcher, J. Davison, D. DeRozan, D. Eubanks, T. Fall, K. George, A. Gill, H. Gray, D. Green, J. Harden, M. Hezonja, H. Highsmith, C. Houstan, H. Ingram, A. Jackson, L. James, J. Johnson, K. Johnson, D. Jones, S. Jones, Y. Kawamura, K. Knox, C. Koloko, J. Konchar, J. Kuminga, P. Larsson, K. Leonard, N. Marshall, B. Mathurin, B. Mbeng, G. McGlothan, D. Melton, G. Niang, M. Nowell, E. Payton, G. Payton, T. Peter, J. Phillips, D. Plowden, N. Richards, A. Reeves, L. Robbins, J. Schakel, B. Simmons, M. Smith, J. Sochan, D. Stockton, J. Tate, D. Terry, A. Thompson, A. Thompson, K. Thompson, M. Thybulle, A. Toohey, O. Tshiebwe, M. Wagner, L. Walker, J. Walsh, T. Watford, A. Watson, P. Watson, B. Williams, J. Wiseman, I. Wong",
+   "detected_at": "2026-09-28 09:38:55",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Update 1.3 (7/18/26): O. Agbaji, B. Beal, J. Bernard, S. Bey, D. Brooks, K. Brooks, B. Brown, K. Bufkin, J. Butler Jr., K. Caldwell-Pope, D. Carter, M. Cisse, I. Crawford, J. Crutcher, J. Davison, D. DeRozan, D. Eubanks, T. Fall, K. George, A. Gill, H. Gray, D. Green, J. Harden, M. Hezonja, H. Highsmith, C. Houstan, H. Ingram, A. Jackson, L. James, J. Johnson, K. Johnson, D. Jones, S. Jones, Y. Kawamura, K. Knox, C. Koloko, J. Konchar, J. Kuminga, P. Larsson, K. Leonard, N. Marshall, B. Mathurin, B. Mbeng, G. McGlothan, D. Melton, G. Niang, M. Nowell, E. Payton, G. Payton, T. Peter, J. Phillips, D. Plowden, N. Richards, A. Reeves, L. Robbins, P. Sandfort, J. Schakel, B. Simmons, M. Smith, J. Sochan, D. Stockton, J. Tate, D. Terry, A. Thompson, A. Thompson, K. Thompson, M. Thybulle, A. Toohey, O. Tshiebwe, M. Wagner, L. Walker, J. Walsh, T. Watford, A. Watson, P. Watson, B. Williams, J. Wiseman, I. Wong",
+   "detected_at": "2026-09-28 09:38:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "Brandon Ingram  ~ number: - -> 7",
    "detected_at": "2026-09-28 09:38:35",
    "source": "WIKI",
@@ -10023,82 +10083,12 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "German Pro B + Ron Mvouika → Art Giants Dusseldorf",
-   "detected_at": "2026-09-27 21:12:56",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Pro B + Aime Olma → Art Giants Dusseldorf",
-   "detected_at": "2026-09-27 21:12:56",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Pro B + Timothy Nehemiah → Art Giants Dusseldorf",
-   "detected_at": "2026-09-27 21:12:56",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Pro B + Yurii Kondrakov → Art Giants Dusseldorf",
-   "detected_at": "2026-09-27 21:12:56",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Pro B + Lars Kremer → Art Giants Dusseldorf",
-   "detected_at": "2026-09-27 21:12:56",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Pro B + Alejandro Ruano Garayoa → Art Giants Dusseldorf",
-   "detected_at": "2026-09-27 21:12:56",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Pro B + John Joseph Saigge → Art Giants Dusseldorf",
-   "detected_at": "2026-09-27 21:12:56",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Pro B + Ogechi Nebo → Art Giants Dusseldorf",
-   "detected_at": "2026-09-27 21:12:56",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Pro B + Lagui Diallo → Art Giants Dusseldorf",
-   "detected_at": "2026-09-27 21:12:56",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Pro B + Rupee Kolawole → Art Giants Dusseldorf",
-   "detected_at": "2026-09-27 21:12:56",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 3028,
-   "last": "2026-09-28 07:32:56"
+   "count": 3030,
+   "last": "2026-09-28 09:38:55"
   },
   "GLEAGUE": {
    "count": 137,
@@ -10121,8 +10111,8 @@
    "last": "2026-09-28 09:06:16"
   },
   "SHEETS": {
-   "count": 4229,
-   "last": "2026-09-28 07:29:58"
+   "count": 4237,
+   "last": "2026-09-28 09:38:58"
   },
   "TRANSACTIONS": {
    "count": 437,
@@ -10137,6 +10127,6 @@
    "last": "2026-09-27 15:51:49"
   }
  },
- "generated_at": "2026-09-28T09:38:36",
- "total": 20715
+ "generated_at": "2026-09-28T09:39:01",
+ "total": 20725
 }
