@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Cole Swider  ~ team: Free agent -> Los Angeles Lakers",
+   "detected_at": "2026-09-27 22:44:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Cole_Swider"
+  },
+  {
+   "detail": "Cole Swider  ~ league: - -> NBA",
+   "detected_at": "2026-09-27 22:44:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Cole_Swider"
+  },
+  {
    "detail": "German Pro B + Jasper Brand → CATL Basketball Lowen",
    "detected_at": "2026-09-27 22:21:47",
    "source": "REALGM",
@@ -10446,20 +10460,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Ryan_Nembhard"
-  },
-  {
-   "detail": "Cleanthony Early  ~ team: - -> Indian Railways",
-   "detected_at": "2026-09-26 18:25:37",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Cleanthony_Early"
-  },
-  {
-   "detail": "Cleanthony Early  ~ league: - -> INBL WASL",
-   "detected_at": "2026-09-26 18:25:37",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Cleanthony_Early"
   }
  ],
  "feeds": {
@@ -10496,14 +10496,14 @@
    "last": "2026-09-27 08:39:57"
   },
   "WIKI": {
-   "count": 4394,
-   "last": "2026-09-27 21:58:39"
+   "count": 4396,
+   "last": "2026-09-27 22:44:38"
   },
   "WIKIWATCH": {
    "count": 274,
    "last": "2026-09-27 15:51:49"
   }
  },
- "generated_at": "2026-09-27T22:36:02",
- "total": 19429
+ "generated_at": "2026-09-27T22:44:39",
+ "total": 19431
 }
