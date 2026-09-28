@@ -1,6 +1,93 @@
 {
  "events": [
   {
+   "detail": "Bandja Sy  ~ team: Free agent -> Partizan",
+   "detected_at": "2026-09-28 06:56:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Bandja_Sy"
+  },
+  {
+   "detail": "Bandja Sy  ~ league: - -> EuroLeague, ABA League",
+   "detected_at": "2026-09-28 06:56:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Bandja_Sy"
+  },
+  {
+   "detail": "Bandja Sy  ~ number: - -> 95",
+   "detected_at": "2026-09-28 06:56:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Bandja_Sy"
+  },
+  {
+   "detail": "SAN  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 233359077.5 -> 234716840.5, col9: 607435925.7 -> 608793688.7",
+   "detected_at": "2026-09-28 06:48:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "SAN  CHANGED Players Under Contract  -  col3: 200465082.7 -> 201822845.7",
+   "detected_at": "2026-09-28 06:48:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "SAN  CHANGED Full Season Contracts  -  col3: 200465082.7 -> 201822845.7",
+   "detected_at": "2026-09-28 06:48:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "SAN  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 15 -> 16",
+   "detected_at": "2026-09-28 06:48:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col28: 37082.68 -> 1394845.68",
+   "detected_at": "2026-09-28 06:48:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 1st Incremental Tax Bracket  -  col28: 37082.68 -> 1394845.68",
+   "detected_at": "2026-09-28 06:48:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col28: 37082.68 -> 1394845.68",
+   "detected_at": "2026-09-28 06:48:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Peter Suder Chicago Bulls",
+   "detected_at": "2026-09-28 06:48:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  26-27 $1,357,763",
+   "detected_at": "2026-09-28 06:48:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
+   "detected_at": "2026-09-28 06:48:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 9/21/26",
+   "detected_at": "2026-09-28 06:48:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "CHI  + ADDED  Suder, Peter",
    "detected_at": "2026-09-28 06:47:58",
    "source": "SHEETS",
@@ -10257,110 +10344,12 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Swedish Basketligan + Milutin Vujicic → Sloga Uppsala",
-   "detected_at": "2026-09-27 09:53:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Swedish Basketligan + K.J. Debrick → Sloga Uppsala",
-   "detected_at": "2026-09-27 09:53:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Swedish Basketligan + Milos Bajic → Sloga Uppsala",
-   "detected_at": "2026-09-27 09:53:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Swedish Basketligan + Niklas Larsson → Sloga Uppsala",
-   "detected_at": "2026-09-27 09:53:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Swedish Basketligan + Marko Dujkovic → Sloga Uppsala",
-   "detected_at": "2026-09-27 09:53:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Swedish Basketligan + Alan Zekovic → Sloga Uppsala",
-   "detected_at": "2026-09-27 09:53:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Swedish Basketligan + Maximus Karamouzis → Sloga Uppsala",
-   "detected_at": "2026-09-27 09:53:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Swedish Basketligan + Timur Grinev → Sloga Uppsala",
-   "detected_at": "2026-09-27 09:53:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Swedish Basketligan + Filip Milivojevic → Sloga Uppsala",
-   "detected_at": "2026-09-27 09:53:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Swedish Basketligan + Leo Ryott → Sloga Uppsala",
-   "detected_at": "2026-09-27 09:53:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Swedish Basketligan + Romeo Myrthil → Sodertalje",
-   "detected_at": "2026-09-27 09:53:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Swedish Basketligan + Nick Spires → Sodertalje",
-   "detected_at": "2026-09-27 09:53:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Swedish Basketligan + Noel Rask → Sodertalje",
-   "detected_at": "2026-09-27 09:53:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Swedish Basketligan + Andrew Rohde → Sodertalje",
-   "detected_at": "2026-09-27 09:53:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 2939,
-   "last": "2026-09-28 06:47:55"
+   "count": 2943,
+   "last": "2026-09-28 06:48:55"
   },
   "GLEAGUE": {
    "count": 134,
@@ -10383,22 +10372,22 @@
    "last": "2026-09-28 06:01:22"
   },
   "SHEETS": {
-   "count": 4123,
-   "last": "2026-09-28 06:47:58"
+   "count": 4130,
+   "last": "2026-09-28 06:48:58"
   },
   "TRANSACTIONS": {
    "count": 437,
    "last": "2026-09-27 08:39:57"
   },
   "WIKI": {
-   "count": 4421,
-   "last": "2026-09-28 06:10:36"
+   "count": 4424,
+   "last": "2026-09-28 06:56:35"
   },
   "WIKIWATCH": {
    "count": 274,
    "last": "2026-09-27 15:51:49"
   }
  },
- "generated_at": "2026-09-28T06:48:01",
- "total": 20330
+ "generated_at": "2026-09-28T06:56:36",
+ "total": 20344
 }
