@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "2026-09-22  Detroit Pistons waived guard Drake Allen.",
+   "detected_at": "2026-09-28 11:56:55",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
    "detail": "Donatas Motiejūnas  ~ team: PAOK BC -> PAOK Thessaloniki",
    "detected_at": "2026-09-28 11:56:36",
    "source": "WIKI",
@@ -9880,13 +9886,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Hungarian NBIA + Kalif Young → Atomeromu SE",
-   "detected_at": "2026-09-27 23:22:16",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -9919,8 +9918,8 @@
    "last": "2026-09-28 10:06:59"
   },
   "TRANSACTIONS": {
-   "count": 437,
-   "last": "2026-09-27 08:39:57"
+   "count": 438,
+   "last": "2026-09-28 11:56:55"
   },
   "WIKI": {
    "count": 4468,
@@ -9931,6 +9930,6 @@
    "last": "2026-09-28 10:47:46"
   }
  },
- "generated_at": "2026-09-28T11:56:37",
- "total": 21012
+ "generated_at": "2026-09-28T11:57:00",
+ "total": 21013
 }
