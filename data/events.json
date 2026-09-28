@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "~ CHANGED Ian Schieffelin  country: - -> USA",
+   "detected_at": "2026-09-28 07:49:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "~ CHANGED Ian Schieffelin  school: - -> Clemson",
    "detected_at": "2026-09-28 07:42:54",
    "source": "PLAYERS",
@@ -10163,13 +10169,6 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Nike_Sibande"
-  },
-  {
-   "detail": "Milić Starovlah  ~ team: Šibenka -> Neftçi",
-   "detected_at": "2026-09-27 18:03:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Mili%C4%87_Starovlah"
   }
  ],
  "feeds": {
@@ -10182,8 +10181,8 @@
    "last": "2026-09-28 07:02:00"
   },
   "PLAYERS": {
-   "count": 1174,
-   "last": "2026-09-28 07:42:54"
+   "count": 1175,
+   "last": "2026-09-28 07:49:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10214,6 +10213,6 @@
    "last": "2026-09-27 15:51:49"
   }
  },
- "generated_at": "2026-09-28T07:49:01",
- "total": 20589
+ "generated_at": "2026-09-28T07:50:00",
+ "total": 20590
 }
