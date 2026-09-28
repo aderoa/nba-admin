@@ -1,6 +1,72 @@
 {
  "events": [
   {
+   "detail": "CHA  CHANGED Nembhard, Ryan  -  TEAM SALARY CAP REPORT\n       -  CHARLOTTE HORNETS: 1 - FULL SEASON -> 7 - WAIVED",
+   "detected_at": "2026-09-28 06:18:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "CHA  CHANGED Players Under Contract  -  col3: 178674949.6 -> 176524032.6",
+   "detected_at": "2026-09-28 06:18:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "CHA  CHANGED Full Season Contracts  -  col3: 178674949.6 -> 176524032.6",
+   "detected_at": "2026-09-28 06:18:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "CHA  CHANGED Waived Contracts  -  col3: 0 -> 2150917",
+   "detected_at": "2026-09-28 06:18:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "CHA  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 19 -> 18",
+   "detected_at": "2026-09-28 06:18:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "CHI  + ADDED  Hield, Buddy",
+   "detected_at": "2026-09-28 06:18:58",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "CHI  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 163000867 -> 172659403, col4: 141926697.8 -> 152024257.8, col9: 396612075.9 -> 416368171.9",
+   "detected_at": "2026-09-28 06:18:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "CHI  CHANGED Players Under Contract  -  col3: 161925408 -> 171583944, col4: 141926697.8 -> 152024257.8",
+   "detected_at": "2026-09-28 06:18:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "CHI  CHANGED Full Season Contracts  -  col3: 161925408 -> 171583944, col4: 141926697.8 -> 152024257.8",
+   "detected_at": "2026-09-28 06:18:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "CHI  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 14 -> 15",
+   "detected_at": "2026-09-28 06:18:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "CHI  CHANGED Avg, Salary (Mean) (No 10-Day K's)  -  col6: 1 -> 0",
+   "detected_at": "2026-09-28 06:18:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "Norris Cole  ~ team: Free agent -> Sioux Falls Skyforce",
    "detected_at": "2026-09-28 06:10:36",
    "source": "WIKI",
@@ -10401,83 +10467,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Spanish ACB Bilbao Basket 107, BAXI Manresa 92",
-   "detected_at": "2026-09-27 09:52:45",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-26/BAXI-Manresa-at-Bilbao-Basket/532390"
-  },
-  {
-   "detail": "Spanish Primera FEB + Spencer Littleson → Palencia Baloncesto",
-   "detected_at": "2026-09-27 09:52:42",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Primera FEB + Ingus Jakovics → Palencia Baloncesto",
-   "detected_at": "2026-09-27 09:52:42",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Primera FEB + Josip Vrankic → Palencia Baloncesto",
-   "detected_at": "2026-09-27 09:52:42",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Primera FEB + Alvaro Martinez Clariana → Palencia Baloncesto",
-   "detected_at": "2026-09-27 09:52:42",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Primera FEB + Vasilije Vucetic → Palencia Baloncesto",
-   "detected_at": "2026-09-27 09:52:42",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Primera FEB + Tanor Ngom → Palencia Baloncesto",
-   "detected_at": "2026-09-27 09:52:42",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Primera FEB + Dani Perez → Palencia Baloncesto",
-   "detected_at": "2026-09-27 09:52:42",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Primera FEB + Alvaro Munoz → Palencia Baloncesto",
-   "detected_at": "2026-09-27 09:52:42",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Primera FEB + Tobias Borg → Palencia Baloncesto",
-   "detected_at": "2026-09-27 09:52:42",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Primera FEB + Alex Jorda → Palencia Baloncesto",
-   "detected_at": "2026-09-27 09:52:42",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10506,8 +10495,8 @@
    "last": "2026-09-28 06:01:22"
   },
   "SHEETS": {
-   "count": 4050,
-   "last": "2026-09-24 14:01:00"
+   "count": 4061,
+   "last": "2026-09-28 06:18:58"
   },
   "TRANSACTIONS": {
    "count": 437,
@@ -10522,6 +10511,6 @@
    "last": "2026-09-27 15:51:49"
   }
  },
- "generated_at": "2026-09-28T06:18:00",
- "total": 20207
+ "generated_at": "2026-09-28T06:19:01",
+ "total": 20218
 }
