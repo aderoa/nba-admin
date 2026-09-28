@@ -1,6 +1,36 @@
 {
  "events": [
   {
+   "detail": "BKN  + ADDED  Dainja, Dain",
+   "detected_at": "2026-09-28 07:06:58",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "BKN  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 163863541.5 -> 165221304.5, col9: 347261503.9 -> 348619266.9",
+   "detected_at": "2026-09-28 07:06:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "BKN  CHANGED Players Under Contract  -  col3: 161414120.5 -> 162771883.5",
+   "detected_at": "2026-09-28 07:06:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "BKN  CHANGED Full Season Contracts  -  col3: 161414120.5 -> 162771883.5",
+   "detected_at": "2026-09-28 07:06:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "BKN  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 16 -> 17",
+   "detected_at": "2026-09-28 07:06:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "2026-27 Rookie Signings  + ADDED  Dain Dainja Brooklyn Nets",
    "detected_at": "2026-09-28 07:04:55",
    "source": "DOCS",
@@ -10251,41 +10281,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "French LNB Espoirs + Theo Guedegbe → Espoirs Chalon Saone",
-   "detected_at": "2026-09-27 16:06:06",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French LNB Espoirs + Sohann Mendy → Espoirs Chalon Saone",
-   "detected_at": "2026-09-27 16:06:06",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French LNB Espoirs + Yves Botsombo Zanga → Espoirs Chalon Saone",
-   "detected_at": "2026-09-27 16:06:06",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French LNB Espoirs Espoirs Chalon Saone 101, Espoirs Limoges 81",
-   "detected_at": "2026-09-27 16:06:06",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-26/Espoirs-Limoges-at-Espoirs-Chalon-Saone/537223"
-  },
-  {
-   "detail": "Ethan Thompson  ~ 88903: team -> -",
-   "detected_at": "2026-09-27 15:51:49",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "Partizan Belgrade"
   }
  ],
  "feeds": {
@@ -10314,8 +10309,8 @@
    "last": "2026-09-28 07:02:19"
   },
   "SHEETS": {
-   "count": 4167,
-   "last": "2026-09-28 07:01:58"
+   "count": 4172,
+   "last": "2026-09-28 07:06:58"
   },
   "TRANSACTIONS": {
    "count": 437,
@@ -10330,6 +10325,6 @@
    "last": "2026-09-27 15:51:49"
   }
  },
- "generated_at": "2026-09-28T07:06:02",
- "total": 20473
+ "generated_at": "2026-09-28T07:07:01",
+ "total": 20478
 }
