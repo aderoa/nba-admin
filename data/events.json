@@ -1,6 +1,66 @@
 {
  "events": [
   {
+   "detail": "CHA  + ADDED  Dillingham, Rob",
+   "detected_at": "2026-09-28 06:19:58",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "CHA  - REMOVED Hield, Buddy",
+   "detected_at": "2026-09-28 06:19:58",
+   "source": "SHEETS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "CHA  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 181124370.6 -> 178355154.6, col4: 145792500.8 -> 144458155.9, col9: 455659318 -> 451555757",
+   "detected_at": "2026-09-28 06:19:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "CHA  CHANGED Players Under Contract  -  col3: 176524032.6 -> 173754816.6, col4: 145792500.8 -> 144458155.9",
+   "detected_at": "2026-09-28 06:19:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "CHA  CHANGED Full Season Contracts  -  col3: 176524032.6 -> 173754816.6, col4: 145792500.8 -> 144458155.9",
+   "detected_at": "2026-09-28 06:19:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MEM  CHANGED Russell, D'Angelo  -  TEAM SALARY CAP REPORT\n       -  MEMPHIS GRIZZLIES: 1 - FULL SEASON -> 7 - WAIVED",
+   "detected_at": "2026-09-28 06:19:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MEM  CHANGED Players Under Contract  -  col3: 139883633.8 -> 133914383.8",
+   "detected_at": "2026-09-28 06:19:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MEM  CHANGED Full Season Contracts  -  col3: 139883633.8 -> 133914383.8",
+   "detected_at": "2026-09-28 06:19:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MEM  CHANGED Waived Contracts  -  col3: 21909021 -> 27878271",
+   "detected_at": "2026-09-28 06:19:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MEM  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 19 -> 18",
+   "detected_at": "2026-09-28 06:19:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "CHA  CHANGED Nembhard, Ryan  -  TEAM SALARY CAP REPORT\n       -  CHARLOTTE HORNETS: 1 - FULL SEASON -> 7 - WAIVED",
    "detected_at": "2026-09-28 06:18:58",
    "source": "SHEETS",
@@ -10397,76 +10457,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Spanish ACB + Martin Krampelj → Bilbao Basket",
-   "detected_at": "2026-09-27 09:52:45",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish ACB + Harald Frey → Bilbao Basket",
-   "detected_at": "2026-09-27 09:52:45",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish ACB + Margiris Normantas → Bilbao Basket",
-   "detected_at": "2026-09-27 09:52:45",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish ACB + Bastien Vautier → Bilbao Basket",
-   "detected_at": "2026-09-27 09:52:45",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish ACB + Luke Petrasek → Bilbao Basket",
-   "detected_at": "2026-09-27 09:52:45",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish ACB + Aleix Font → Bilbao Basket",
-   "detected_at": "2026-09-27 09:52:45",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish ACB + Tryggvi Hlinason → Bilbao Basket",
-   "detected_at": "2026-09-27 09:52:45",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish ACB + Adam Somogyi → Bilbao Basket",
-   "detected_at": "2026-09-27 09:52:45",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish ACB + Nate Darling → Bilbao Basket",
-   "detected_at": "2026-09-27 09:52:45",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish ACB + Manex Ansorregui → Bilbao Basket",
-   "detected_at": "2026-09-27 09:52:45",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10495,8 +10485,8 @@
    "last": "2026-09-28 06:01:22"
   },
   "SHEETS": {
-   "count": 4061,
-   "last": "2026-09-28 06:18:58"
+   "count": 4071,
+   "last": "2026-09-28 06:19:58"
   },
   "TRANSACTIONS": {
    "count": 437,
@@ -10511,6 +10501,6 @@
    "last": "2026-09-27 15:51:49"
   }
  },
- "generated_at": "2026-09-28T06:19:01",
- "total": 20218
+ "generated_at": "2026-09-28T06:20:00",
+ "total": 20228
 }
