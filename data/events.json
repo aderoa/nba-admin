@@ -1,6 +1,30 @@
 {
  "events": [
   {
+   "detail": "2026-27 Rookie Signings  + ADDED  Houston Mallette (WAIVED) Chicago Bulls",
+   "detected_at": "2026-09-28 06:34:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  26-27 $1,357,763",
+   "detected_at": "2026-09-28 06:34:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp.",
+   "detected_at": "2026-09-28 06:34:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 9/21/26",
+   "detected_at": "2026-09-28 06:34:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "DET  CHANGED Thompson, Ausar  -  col4: - -> 26724138.0, col5: - -> 28862069.0, col6: - -> 31000000.0, col7: - -> 33137931.0, col8: - -> 35275862.0, col9: 11117925 -> 166117925",
    "detected_at": "2026-09-28 06:33:58",
    "source": "SHEETS",
@@ -10377,40 +10401,12 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Spanish Primera FEB + Samuel Rodriguez → Grupo Alega Cantabria Estela",
-   "detected_at": "2026-09-27 09:52:53",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Primera FEB + German Martinez → Grupo Alega Cantabria Estela",
-   "detected_at": "2026-09-27 09:52:53",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Primera FEB + Diego Alderete → Grupo Alega Cantabria Estela",
-   "detected_at": "2026-09-27 09:52:53",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Primera FEB + Guillem Ferrando → Grupo Alega Cantabria Estela",
-   "detected_at": "2026-09-27 09:52:53",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 2914,
-   "last": "2026-09-28 06:33:56"
+   "count": 2918,
+   "last": "2026-09-28 06:34:55"
   },
   "GLEAGUE": {
    "count": 134,
@@ -10449,6 +10445,6 @@
    "last": "2026-09-27 15:51:49"
   }
  },
- "generated_at": "2026-09-28T06:34:01",
- "total": 20280
+ "generated_at": "2026-09-28T06:35:00",
+ "total": 20284
 }
