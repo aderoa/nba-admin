@@ -1,6 +1,78 @@
 {
  "events": [
   {
+   "detail": "PHX  + ADDED  Camper, Corey",
+   "detected_at": "2026-09-28 06:58:58",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "PHX  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 241020258.5 -> 242378021.5, col9: 754454283.4 -> 755812046.4",
+   "detected_at": "2026-09-28 06:58:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "PHX  CHANGED Players Under Contract  -  col3: 194386218 -> 195743981",
+   "detected_at": "2026-09-28 06:58:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "PHX  CHANGED Full Season Contracts  -  col3: 194386218 -> 195743981",
+   "detected_at": "2026-09-28 06:58:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "PHX  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 16 -> 17",
+   "detected_at": "2026-09-28 06:58:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col25: 17155268.52 -> 18513031.52",
+   "detected_at": "2026-09-28 06:58:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 4th Incremental Tax Bracket  -  col25: 676812.5357 -> 9841712.786",
+   "detected_at": "2026-09-28 06:58:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col25: 67475562.54 -> 76640462.79",
+   "detected_at": "2026-09-28 06:58:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Corey Camper Phoenix Suns",
+   "detected_at": "2026-09-28 06:58:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  26-27 $1,357,763",
+   "detected_at": "2026-09-28 06:58:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
+   "detected_at": "2026-09-28 06:58:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 9/22/26",
+   "detected_at": "2026-09-28 06:58:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "DET  + ADDED  Riley, Jordan",
    "detected_at": "2026-09-28 06:56:58",
    "source": "SHEETS",
@@ -10232,92 +10304,12 @@
    "detected_at": "2026-09-27 09:54:55",
    "source": "PLAYERS",
    "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED Hunter Sallis (LAC)",
-   "detected_at": "2026-09-27 09:54:55",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "~ CHANGED Buddy Hield  team: CHA -> CHI",
-   "detected_at": "2026-09-27 09:54:55",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Drew Peterson  school: Southern California -> USC",
-   "detected_at": "2026-09-27 09:54:55",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Rob Dillingham  team: CHI -> CHA",
-   "detected_at": "2026-09-27 09:54:55",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Andreas Obst  ~ 41616: team -> -",
-   "detected_at": "2026-09-27 09:54:16",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "Bayern Munich"
-  },
-  {
-   "detail": "Andreas Obst  ~ 41616: league -> -",
-   "detected_at": "2026-09-27 09:54:16",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "BBL EuroLeague"
-  },
-  {
-   "detail": "Andreas Obst  ~ 41616: position -> -",
-   "detected_at": "2026-09-27 09:54:16",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "Shooting guard"
-  },
-  {
-   "detail": "Andreas Obst  ~ 41616: number -> -",
-   "detected_at": "2026-09-27 09:54:16",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "13"
-  },
-  {
-   "detail": "Andreas Obst  ~ 41616: (page changed) -> -",
-   "detected_at": "2026-09-27 09:54:16",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": ""
-  },
-  {
-   "detail": "Mexican LNBP Santos de San Luis Potosi 87, Abejas 86",
-   "detected_at": "2026-09-27 09:53:27",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-25/Santos-de-San-Luis-Potosi-at-Abejas/542197"
-  },
-  {
-   "detail": "Mexican LNBP Soles 98, Dorados de Chihuahua 81",
-   "detected_at": "2026-09-27 09:53:24",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-25/Soles-at-Dorados-de-Chihuahua/542198"
-  },
-  {
-   "detail": "Mexican LNBP Panteras de Aguascalientes 94, Freseros Irapuato 87",
-   "detected_at": "2026-09-27 09:53:21",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-25/Panteras-de-Aguascalientes-at-Freseros-Irapuato/542199"
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 2957,
-   "last": "2026-09-28 06:56:55"
+   "count": 2961,
+   "last": "2026-09-28 06:58:55"
   },
   "GLEAGUE": {
    "count": 134,
@@ -10340,8 +10332,8 @@
    "last": "2026-09-28 06:01:22"
   },
   "SHEETS": {
-   "count": 4146,
-   "last": "2026-09-28 06:56:58"
+   "count": 4154,
+   "last": "2026-09-28 06:58:58"
   },
   "TRANSACTIONS": {
    "count": 437,
@@ -10356,6 +10348,6 @@
    "last": "2026-09-27 15:51:49"
   }
  },
- "generated_at": "2026-09-28T06:58:00",
- "total": 20376
+ "generated_at": "2026-09-28T06:59:00",
+ "total": 20388
 }
