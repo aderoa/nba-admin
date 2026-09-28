@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Ethan Thompson  ~ 88903: league -> Serbian SuperLeague ABA League EuroLeague",
+   "detected_at": "2026-09-28 14:51:08",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "KLS ABA League EuroLeague"
+  },
+  {
    "detail": "Rob Dillingham  ~ team: Charlotte Hornets -> Free agent",
    "detected_at": "2026-09-28 14:37:35",
    "source": "WIKI",
@@ -9865,13 +9872,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "German Pro B + Wisdom Uboh → Dresden Titans",
-   "detected_at": "2026-09-28 00:45:45",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -9912,10 +9912,10 @@
    "last": "2026-09-28 14:37:35"
   },
   "WIKIWATCH": {
-   "count": 285,
-   "last": "2026-09-28 14:14:55"
+   "count": 286,
+   "last": "2026-09-28 14:51:08"
   }
  },
- "generated_at": "2026-09-28T14:51:00",
- "total": 21043
+ "generated_at": "2026-09-28T14:52:00",
+ "total": 21044
 }
