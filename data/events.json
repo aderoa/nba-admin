@@ -1,6 +1,30 @@
 {
  "events": [
   {
+   "detail": "2026-09-28  Charlotte Hornets waived guard Rob Dillingham.",
+   "detected_at": "2026-09-28 16:38:55",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-09-28  Memphis Grizzlies waived center Lawson Lovering.",
+   "detected_at": "2026-09-28 16:38:55",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-09-27  Los Angeles Lakers waived guard Meechie Johnson.",
+   "detected_at": "2026-09-28 16:38:55",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-09-27  Los Angeles Lakers waived  Chase Ross.",
+   "detected_at": "2026-09-28 16:38:55",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
    "detail": "~ CHANGED Nicholas Boyd  name: Nick Boyd -> Nicholas Boyd",
    "detected_at": "2026-09-28 16:33:54",
    "source": "PLAYERS",
@@ -9836,34 +9860,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-09-26/Unieuro-Forli-at-UEB-Gesteco-Cividale/528082"
-  },
-  {
-   "detail": "Israel BSL Winner Cup + Shawn Dawson → Maccabi Ashdod",
-   "detected_at": "2026-09-28 00:46:04",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Israel BSL Winner Cup + Opal Bacchar → Maccabi Ashdod",
-   "detected_at": "2026-09-28 00:46:04",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Israel BSL Winner Cup + Brandon Lieb → Hapoel Eilat",
-   "detected_at": "2026-09-28 00:46:04",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Israel BSL Winner Cup Hapoel Eilat 75, Maccabi Ashdod 55",
-   "detected_at": "2026-09-28 00:46:04",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-27/Maccabi-Ashdod-at-Hapoel-Eilat/541689"
   }
  ],
  "feeds": {
@@ -9896,8 +9892,8 @@
    "last": "2026-09-28 10:06:59"
   },
   "TRANSACTIONS": {
-   "count": 447,
-   "last": "2026-09-28 16:32:55"
+   "count": 451,
+   "last": "2026-09-28 16:38:55"
   },
   "WIKI": {
    "count": 4516,
@@ -9908,6 +9904,6 @@
    "last": "2026-09-28 15:24:10"
   }
  },
- "generated_at": "2026-09-28T16:38:02",
- "total": 21139
+ "generated_at": "2026-09-28T16:39:02",
+ "total": 21143
 }
