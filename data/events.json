@@ -1,6 +1,24 @@
 {
  "events": [
   {
+   "detail": "POR  - REMOVED Wesley, Blake",
+   "detected_at": "2026-09-28 09:41:59",
+   "source": "SHEETS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "POR  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 211989383.3 -> 209539962.3, col9: 507536790.4 -> 505087369.4",
+   "detected_at": "2026-09-28 09:41:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "POR  CHANGED Cap Holds  -  col3: 13903611 -> 11454190",
+   "detected_at": "2026-09-28 09:41:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "POR  + ADDED  Sears, Mark",
    "detected_at": "2026-09-28 09:40:59",
    "source": "SHEETS",
@@ -10053,27 +10071,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "German Pro B WWU Baskets Muenster 98, SC Itzehoe Eagles 79",
-   "detected_at": "2026-09-27 21:12:59",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-26/SC-Itzehoe-Eagles-at-WWU-Baskets-Muenster/525451"
-  },
-  {
-   "detail": "German Pro B + Mika Freitag → Seawolves Academy",
-   "detected_at": "2026-09-27 21:12:56",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Pro B ~ MOVED Matthes Tilsen → Seawolves Academy (from Rostock Seawolves)",
-   "detected_at": "2026-09-27 21:12:56",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10102,8 +10099,8 @@
    "last": "2026-09-28 09:06:16"
   },
   "SHEETS": {
-   "count": 4242,
-   "last": "2026-09-28 09:40:59"
+   "count": 4245,
+   "last": "2026-09-28 09:41:59"
   },
   "TRANSACTIONS": {
    "count": 437,
@@ -10118,6 +10115,6 @@
    "last": "2026-09-27 15:51:49"
   }
  },
- "generated_at": "2026-09-28T09:41:02",
- "total": 20734
+ "generated_at": "2026-09-28T09:42:02",
+ "total": 20737
 }
