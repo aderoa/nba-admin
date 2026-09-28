@@ -1,6 +1,30 @@
 {
  "events": [
   {
+   "detail": "2026-27 Veteran Signings  - REMOVED Kadary Rchmond (WAIVED) Minnesota Timberwolves",
+   "detected_at": "2026-09-28 10:02:55",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Kadary Richmond Cleveland Cavaliers",
+   "detected_at": "2026-09-28 10:02:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED Execution Date: 9/17/26",
+   "detected_at": "2026-09-28 10:02:55",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 9/23/26",
+   "detected_at": "2026-09-28 10:02:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "CLE  + ADDED  Richmond, Kadary",
    "detected_at": "2026-09-28 10:01:58",
    "source": "SHEETS",
@@ -9951,40 +9975,12 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Spanish Primera FEB + Romaro Gill → HLA Alicante",
-   "detected_at": "2026-09-27 21:13:14",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Primera FEB + Arnau Parrado → HLA Alicante",
-   "detected_at": "2026-09-27 21:13:14",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Primera FEB ~ MOVED Tamenang Choh → HLA Alicante (from Canterbury Rams)",
-   "detected_at": "2026-09-27 21:13:14",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Primera FEB + Mikhail Mikhailov → HLA Alicante",
-   "detected_at": "2026-09-27 21:13:14",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 3088,
-   "last": "2026-09-28 10:01:55"
+   "count": 3092,
+   "last": "2026-09-28 10:02:55"
   },
   "GLEAGUE": {
    "count": 137,
@@ -10023,6 +10019,6 @@
    "last": "2026-09-27 15:51:49"
   }
  },
- "generated_at": "2026-09-28T10:02:01",
- "total": 20832
+ "generated_at": "2026-09-28T10:03:00",
+ "total": 20836
 }
