@@ -1,6 +1,36 @@
 {
  "events": [
   {
+   "detail": "UTH  + ADDED  Santos, Nate",
+   "detected_at": "2026-09-28 07:10:58",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "UTH  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 193035216.4 -> 194392979.4, col9: 714957877.1 -> 716315640.1",
+   "detected_at": "2026-09-28 07:10:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "UTH  CHANGED Players Under Contract  -  col3: 182965100.4 -> 184322863.4",
+   "detected_at": "2026-09-28 07:10:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "UTH  CHANGED Full Season Contracts  -  col3: 182965100.4 -> 184322863.4",
+   "detected_at": "2026-09-28 07:10:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "UTH  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 15 -> 16",
+   "detected_at": "2026-09-28 07:10:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "2026-27 Rookie Signings  + ADDED  Nate Santos Minnesota Timberwolves",
    "detected_at": "2026-09-28 07:08:56",
    "source": "DOCS",
@@ -10231,41 +10261,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "French LNB Espoirs + Seth Nkou Beuchet → Espoirs Dijon",
-   "detected_at": "2026-09-27 16:06:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French LNB Espoirs + Jordan Monroc-Omiscar → Espoirs Dijon",
-   "detected_at": "2026-09-27 16:06:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French LNB Espoirs + Theo Balima → Espoirs Limoges",
-   "detected_at": "2026-09-27 16:06:06",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French LNB Espoirs + Valentin Delenclos → Espoirs Limoges",
-   "detected_at": "2026-09-27 16:06:06",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French LNB Espoirs + Nathan Doumaye → Espoirs Limoges",
-   "detected_at": "2026-09-27 16:06:06",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10294,8 +10289,8 @@
    "last": "2026-09-28 07:02:19"
   },
   "SHEETS": {
-   "count": 4181,
-   "last": "2026-09-28 07:07:58"
+   "count": 4186,
+   "last": "2026-09-28 07:10:58"
   },
   "TRANSACTIONS": {
    "count": 437,
@@ -10310,6 +10305,6 @@
    "last": "2026-09-27 15:51:49"
   }
  },
- "generated_at": "2026-09-28T07:10:30",
- "total": 20493
+ "generated_at": "2026-09-28T07:11:01",
+ "total": 20498
 }
