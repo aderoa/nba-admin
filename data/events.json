@@ -1,6 +1,18 @@
 {
  "events": [
   {
+   "detail": "2026-27 Veteran Signings  - REMOVED Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($60,000).",
+   "detected_at": "2026-09-28 09:50:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
+   "detected_at": "2026-09-28 09:50:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "2026-27 Veteran Signings  + ADDED  Ricky Council IV Orlando Magic",
    "detected_at": "2026-09-28 09:49:55",
    "source": "DOCS",
@@ -9999,26 +10011,12 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Hungarian NBIA + Shereef Mitchell → Phoenix MT Fot",
-   "detected_at": "2026-09-27 21:13:06",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Hungarian NBIA + Boubacar Coulibaly → Phoenix MT Fot",
-   "detected_at": "2026-09-27 21:13:06",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 3070,
-   "last": "2026-09-28 09:49:55"
+   "count": 3072,
+   "last": "2026-09-28 09:50:56"
   },
   "GLEAGUE": {
    "count": 137,
@@ -10057,6 +10055,6 @@
    "last": "2026-09-27 15:51:49"
   }
  },
- "generated_at": "2026-09-28T09:50:01",
- "total": 20795
+ "generated_at": "2026-09-28T09:51:00",
+ "total": 20797
 }
