@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "2026-09-28  Memphis Grizzlies signed  Carson Cooper to a Two-Way Contract.",
+   "detected_at": "2026-09-28 13:16:55",
+   "source": "TRANSACTIONS",
+   "type": "Signing"
+  },
+  {
    "detail": "Malik Williams  ~ team: Mets de Guaynabo -> San Antonio Spurs",
    "detected_at": "2026-09-28 12:19:36",
    "source": "WIKI",
@@ -9878,13 +9884,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Hungarian NBIA + Barna Gergo Buglyo → NKA Universitas Pecs",
-   "detected_at": "2026-09-27 23:22:16",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -9917,8 +9916,8 @@
    "last": "2026-09-28 10:06:59"
   },
   "TRANSACTIONS": {
-   "count": 439,
-   "last": "2026-09-28 12:05:55"
+   "count": 440,
+   "last": "2026-09-28 13:16:55"
   },
   "WIKI": {
    "count": 4474,
@@ -9929,6 +9928,6 @@
    "last": "2026-09-28 10:47:46"
   }
  },
- "generated_at": "2026-09-28T13:16:06",
- "total": 21020
+ "generated_at": "2026-09-28T13:17:03",
+ "total": 21021
 }
