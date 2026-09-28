@@ -1,6 +1,60 @@
 {
  "events": [
   {
+   "detail": "MIN  + ADDED  Reeves, Antonio",
+   "detected_at": "2026-09-28 07:25:58",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "MIN  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 253996236 -> 256445657, col9: 690195559.6 -> 692644980.6",
+   "detected_at": "2026-09-28 07:25:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MIN  CHANGED Players Under Contract  -  col3: 214233718 -> 216683139",
+   "detected_at": "2026-09-28 07:25:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MIN  CHANGED Full Season Contracts  -  col3: 214233718 -> 216683139",
+   "detected_at": "2026-09-28 07:25:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MIN  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 15 -> 16",
+   "detected_at": "2026-09-28 07:25:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col19: 15860718 -> 18310139",
+   "detected_at": "2026-09-28 07:25:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 3rd Incremental Tax Bracket  -  col19: 15717513 -> 19897500",
+   "detected_at": "2026-09-28 07:25:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 4th Incremental Tax Bracket  -  col19: 0 -> 5961910.25",
+   "detected_at": "2026-09-28 07:25:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col19: 28508763 -> 38650660.25",
+   "detected_at": "2026-09-28 07:25:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "2026-27 Veteran Signings  + ADDED  Antonio Reeves Minnesota Timberwolves",
    "detected_at": "2026-09-28 07:24:55",
    "source": "DOCS",
@@ -10138,69 +10192,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "French LNB Espoirs + Salah Kone → Espoirs Saint Quentin",
-   "detected_at": "2026-09-27 16:06:16",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French LNB Espoirs + Nael Loubibet → Espoirs Saint Quentin",
-   "detected_at": "2026-09-27 16:06:16",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French LNB Espoirs + Dimitri Azema → Espoirs Saint Quentin",
-   "detected_at": "2026-09-27 16:06:16",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French LNB Espoirs + Romain Berthelin → Espoirs Saint Quentin",
-   "detected_at": "2026-09-27 16:06:16",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French LNB Espoirs + Charles Kracher → Espoirs Saint Quentin",
-   "detected_at": "2026-09-27 16:06:16",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French LNB Espoirs + Amadou Diallo → Espoirs Saint Quentin",
-   "detected_at": "2026-09-27 16:06:16",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French LNB Espoirs + Bastien Dupuy → Espoirs Saint Quentin",
-   "detected_at": "2026-09-27 16:06:16",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French LNB Espoirs + Lenzo Rambur → Espoirs Saint Quentin",
-   "detected_at": "2026-09-27 16:06:16",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French LNB Espoirs + Noa Mani → Espoirs Saint Quentin",
-   "detected_at": "2026-09-27 16:06:16",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10229,8 +10220,8 @@
    "last": "2026-09-28 07:02:19"
   },
   "SHEETS": {
-   "count": 4212,
-   "last": "2026-09-28 07:19:59"
+   "count": 4221,
+   "last": "2026-09-28 07:25:58"
   },
   "TRANSACTIONS": {
    "count": 437,
@@ -10245,6 +10236,6 @@
    "last": "2026-09-27 15:51:49"
   }
  },
- "generated_at": "2026-09-28T07:25:00",
- "total": 20558
+ "generated_at": "2026-09-28T07:26:02",
+ "total": 20567
 }
