@@ -1,6 +1,42 @@
 {
  "events": [
   {
+   "detail": "2026-27 Veteran Signings  - REMOVED Hunter Sallis Cleveland Cavaliers",
+   "detected_at": "2026-09-28 11:19:58",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Hunter Sallis (WAIVED) Los Angeles Clippers",
+   "detected_at": "2026-09-28 11:19:58",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED Minimum Salary Exception. Love of the Game. Physical Exam. Alt. 7(b). Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
+   "detected_at": "2026-09-28 11:19:58",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED Execution Date: 9/23/26",
+   "detected_at": "2026-09-28 11:19:58",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
+   "detected_at": "2026-09-28 11:19:58",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 9/25/26",
+   "detected_at": "2026-09-28 11:19:58",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "2026-27 Veteran Signings  + ADDED  Hunter Sallis Cleveland Cavaliers",
    "detected_at": "2026-09-28 11:18:56",
    "source": "DOCS",
@@ -9889,54 +9925,12 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Austrian A Bundesliga + Coltie Young → Allianz Swans Gmunden",
-   "detected_at": "2026-09-27 23:22:09",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Austrian A Bundesliga Allianz Swans Gmunden 90, Redwell Gunners Oberwart 88",
-   "detected_at": "2026-09-27 23:22:09",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-27/Redwell-Gunners-Oberwart-at-Allianz-Swans-Gmunden/525501"
-  },
-  {
-   "detail": "French Jeep Elite ASVEL Basket 97, Cholet Basket 85",
-   "detected_at": "2026-09-27 23:22:07",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-27/ASVEL-Basket-at-Cholet-Basket/537199"
-  },
-  {
-   "detail": "French Jeep Elite + Miralem Halilovic → Cholet Basket",
-   "detected_at": "2026-09-27 23:22:06",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French Jeep Elite + Tony Snell → Cholet Basket",
-   "detected_at": "2026-09-27 23:22:06",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French Jeep Elite + Malcolm Cazalon → Cholet Basket",
-   "detected_at": "2026-09-27 23:22:06",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 3130,
-   "last": "2026-09-28 11:18:56"
+   "count": 3136,
+   "last": "2026-09-28 11:19:58"
   },
   "GLEAGUE": {
    "count": 137,
@@ -9975,6 +9969,6 @@
    "last": "2026-09-28 10:47:46"
   }
  },
- "generated_at": "2026-09-28T11:19:02",
- "total": 20961
+ "generated_at": "2026-09-28T11:20:09",
+ "total": 20967
 }
