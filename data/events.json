@@ -1,6 +1,42 @@
 {
  "events": [
   {
+   "detail": "DET  CHANGED Harris, Gary  -  TEAM SALARY CAP REPORT\n       -  DETROIT PISTONS: 1 - FULL SEASON -> 7 - WAIVED",
+   "detected_at": "2026-09-28 06:20:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "DET  CHANGED Players Under Contract  -  col3: 154337535 -> 150521674",
+   "detected_at": "2026-09-28 06:20:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "DET  CHANGED Full Season Contracts  -  col3: 154337535 -> 150521674",
+   "detected_at": "2026-09-28 06:20:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "DET  CHANGED Waived Contracts  -  col3: 0 -> 3815861",
+   "detected_at": "2026-09-28 06:20:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "DET  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 15 -> 14",
+   "detected_at": "2026-09-28 06:20:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "DET  CHANGED Avg, Salary (Mean) (No 10-Day K's)  -  col6: 0 -> 1",
+   "detected_at": "2026-09-28 06:20:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "CHA  + ADDED  Dillingham, Rob",
    "detected_at": "2026-09-28 06:19:58",
    "source": "SHEETS",
@@ -10415,48 +10451,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Spanish ACB + Yordan Minchev → BAXI Manresa",
-   "detected_at": "2026-09-27 09:52:45",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish ACB + Lukasz Kolenda → BAXI Manresa",
-   "detected_at": "2026-09-27 09:52:45",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish ACB + Eric Vila → BAXI Manresa",
-   "detected_at": "2026-09-27 09:52:45",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish ACB + Lucas Beaufort → BAXI Manresa",
-   "detected_at": "2026-09-27 09:52:45",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish ACB + Rafael Villar → BAXI Manresa",
-   "detected_at": "2026-09-27 09:52:45",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish ACB + Darrun Hilliard → Bilbao Basket",
-   "detected_at": "2026-09-27 09:52:45",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10485,8 +10479,8 @@
    "last": "2026-09-28 06:01:22"
   },
   "SHEETS": {
-   "count": 4071,
-   "last": "2026-09-28 06:19:58"
+   "count": 4077,
+   "last": "2026-09-28 06:20:58"
   },
   "TRANSACTIONS": {
    "count": 437,
@@ -10501,6 +10495,6 @@
    "last": "2026-09-27 15:51:49"
   }
  },
- "generated_at": "2026-09-28T06:20:00",
- "total": 20228
+ "generated_at": "2026-09-28T06:21:01",
+ "total": 20234
 }
