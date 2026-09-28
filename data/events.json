@@ -1,6 +1,36 @@
 {
  "events": [
   {
+   "detail": "ATL  + ADDED  McKneely, Isaac",
+   "detected_at": "2026-09-28 06:41:58",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "ATL  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 232502312.4 -> 233860075.4, col9: 572033610.3 -> 573391373.3",
+   "detected_at": "2026-09-28 06:41:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "ATL  CHANGED Players Under Contract  -  col3: 193511432.4 -> 194869195.4",
+   "detected_at": "2026-09-28 06:41:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "ATL  CHANGED Full Season Contracts  -  col3: 193511432.4 -> 194869195.4",
+   "detected_at": "2026-09-28 06:41:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "ATL  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 15 -> 16",
+   "detected_at": "2026-09-28 06:41:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "WAS  - REMOVED Murphy, KeShawn",
    "detected_at": "2026-09-28 06:40:58",
    "source": "SHEETS",
@@ -10347,41 +10377,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Danish Basketligaen + Oscar Weiergang → BK Vejen",
-   "detected_at": "2026-09-27 09:52:59",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Danish Basketligaen + Marius Larsen → BK Vejen",
-   "detected_at": "2026-09-27 09:52:59",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Danish Basketligaen + Mubarik Hersi → BK Vejen",
-   "detected_at": "2026-09-27 09:52:59",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Danish Basketligaen + Jhaylon Martinez → BK Vejen",
-   "detected_at": "2026-09-27 09:52:59",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Danish Basketligaen + Nikolaos Gkigkaouri → BK Vejen",
-   "detected_at": "2026-09-27 09:52:59",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10410,8 +10405,8 @@
    "last": "2026-09-28 06:01:22"
   },
   "SHEETS": {
-   "count": 4113,
-   "last": "2026-09-28 06:40:58"
+   "count": 4118,
+   "last": "2026-09-28 06:41:58"
   },
   "TRANSACTIONS": {
    "count": 437,
@@ -10426,6 +10421,6 @@
    "last": "2026-09-27 15:51:49"
   }
  },
- "generated_at": "2026-09-28T06:41:00",
- "total": 20303
+ "generated_at": "2026-09-28T06:42:00",
+ "total": 20308
 }
