@@ -1,6 +1,30 @@
 {
  "events": [
   {
+   "detail": "+ ADDED   Kobe Johnson (ATL)",
+   "detected_at": "2026-09-28 13:56:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "+ ADDED   Carson Cooper (MEM)",
+   "detected_at": "2026-09-28 13:56:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "+ ADDED   Cameron Corhen (ATL)",
+   "detected_at": "2026-09-28 13:56:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "+ ADDED   Viktor Lakhin (SAC)",
+   "detected_at": "2026-09-28 13:56:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
    "detail": "- REMOVED Viktor Lakhin (SAC)",
    "detected_at": "2026-09-28 13:54:54",
    "source": "PLAYERS",
@@ -9848,34 +9872,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "German Pro B + Desmond Yiamu → FC Bayern Munchen II",
-   "detected_at": "2026-09-28 00:45:45",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Pro B + Kilian Duck → FC Bayern Munchen II",
-   "detected_at": "2026-09-28 00:45:45",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Pro B + Kilian Fischer → FC Bayern Munchen II",
-   "detected_at": "2026-09-28 00:45:45",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Pro B + Nick Cevizovic → FC Bayern Munchen II",
-   "detected_at": "2026-09-28 00:45:45",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -9888,8 +9884,8 @@
    "last": "2026-09-28 07:02:00"
   },
   "PLAYERS": {
-   "count": 1259,
-   "last": "2026-09-28 13:54:54"
+   "count": 1263,
+   "last": "2026-09-28 13:56:54"
   },
   "RATINGS": {
    "count": 950,
@@ -9920,6 +9916,6 @@
    "last": "2026-09-28 10:47:46"
   }
  },
- "generated_at": "2026-09-28T13:56:00",
- "total": 21029
+ "generated_at": "2026-09-28T13:57:01",
+ "total": 21033
 }
