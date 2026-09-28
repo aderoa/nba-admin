@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "~ CHANGED Ian Schieffelin  school: - -> Clemson",
+   "detected_at": "2026-09-28 07:42:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "2026-27 Veteran Signings  - REMOVED 26-27 $2,449,421",
    "detected_at": "2026-09-28 07:32:56",
    "source": "DOCS",
@@ -10164,13 +10170,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Mili%C4%87_Starovlah"
-  },
-  {
-   "detail": "Milić Starovlah  ~ league: Croatian League ABA League Second Division -> Azerbaijan Basketball League",
-   "detected_at": "2026-09-27 18:03:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Mili%C4%87_Starovlah"
   }
  ],
  "feeds": {
@@ -10183,8 +10182,8 @@
    "last": "2026-09-28 07:02:00"
   },
   "PLAYERS": {
-   "count": 1173,
-   "last": "2026-09-28 06:56:54"
+   "count": 1174,
+   "last": "2026-09-28 07:42:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10215,6 +10214,6 @@
    "last": "2026-09-27 15:51:49"
   }
  },
- "generated_at": "2026-09-28T07:42:37",
- "total": 20588
+ "generated_at": "2026-09-28T07:43:02",
+ "total": 20589
 }
