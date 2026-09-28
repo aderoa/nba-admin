@@ -1,6 +1,84 @@
 {
  "events": [
   {
+   "detail": "ORL  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 229848120 -> 232033236, col9: 802917896.6 -> 805103012.6",
+   "detected_at": "2026-09-28 09:47:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "ORL  CHANGED Players Under Contract  -  col3: 217213583 -> 219398699",
+   "detected_at": "2026-09-28 09:47:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "ORL  CHANGED Full Season Contracts  -  col3: 217213583 -> 219398699",
+   "detected_at": "2026-09-28 09:47:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "ORL  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 17 -> 18",
+   "detected_at": "2026-09-28 09:47:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col23: 24785583.04 -> 26970699.04",
+   "detected_at": "2026-09-28 09:47:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 5th Incremental Tax Bracket  -  col23: 10739310.96 -> 22211169.96",
+   "detected_at": "2026-09-28 09:47:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col23: 70431810.96 -> 81903669.96",
+   "detected_at": "2026-09-28 09:47:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED Update 1.3 (7/18/26): O. Agbaji, B. Beal, J. Bernard, S. Bey, D. Brooks, K. Brooks, B. Brown, K. Bufkin, J. Butler Jr., K. Caldwell-Pope, D. Carter, M. Cisse, I. Crawford, J. Crutcher, J. Davison, D. DeRozan, D. Eubanks, T. Fall, K. George, A. Gill, H. Gray, D. Green, J. Harden, M. Hezonja, H. Highsmith, C. Houstan, H. Ingram, A. Jackson, L. James, J. Johnson, K. Johnson, D. Jones, S. Jones, Y. Kawamura, K. Knox, C. Koloko, J. Konchar, J. Kuminga, P. Larsson, K. Leonard, N. Marshall, B. Mathurin, B. Mbeng, G. McGlothan, D. Melton, G. Niang, M. Nowell, E. Payton, G. Payton, T. Peter, J. Phillips, D. Plowden, N. Richards, A. Reeves, L. Robbins, P. Sandfort, J. Schakel, M. Sears, B. Simmons, M. Smith, J. Sochan, D. Stockton, J. Tate, D. Terry, A. Thompson, A. Thompson, K. Thompson, M. Thybulle, A. Toohey, O. Tshiebwe, M. Wagner, L. Walker, J. Walsh, T. Watford, A. Watson, P. Watson, B. Williams, J. Wiseman, I. Wong",
+   "detected_at": "2026-09-28 09:46:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Update 1.3 (7/18/26): O. Agbaji, B. Beal, J. Bernard, S. Bey, D. Brooks, K. Brooks, B. Brown, K. Bufkin, J. Butler Jr., K. Caldwell-Pope, D. Carter, M. Cisse, I. Crawford, J. Crutcher, J. Cumberland, J. Davison, D. DeRozan, D. Eubanks, T. Fall, K. George, A. Gill, H. Gray, D. Green, J. Harden, M. Hezonja, H. Highsmith, C. Houstan, H. Ingram, A. Jackson, L. James, J. Johnson, K. Johnson, D. Jones, S. Jones, Y. Kawamura, K. Knox, C. Koloko, J. Konchar, J. Kuminga, P. Larsson, K. Leonard, N. Marshall, B. Mathurin, B. Mbeng, G. McGlothan, D. Melton, G. Niang, M. Nowell, E. Payton, G. Payton, T. Peter, J. Phillips, D. Plowden, N. Richards, A. Reeves, L. Robbins, P. Sandfort, J. Schakel, M. Sears, B. Simmons, M. Smith, J. Sochan, D. Stockton, J. Tate, D. Terry, A. Thompson, A. Thompson, K. Thompson, M. Thybulle, A. Toohey, O. Tshiebwe, M. Wagner, L. Walker, J. Walsh, T. Watford, A. Watson, P. Watson, B. Williams, J. Wiseman, I. Wong",
+   "detected_at": "2026-09-28 09:46:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Jarron Cumberland Orlando Magic",
+   "detected_at": "2026-09-28 09:46:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  26-27 $2,185,116",
+   "detected_at": "2026-09-28 09:46:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($60,000).",
+   "detected_at": "2026-09-28 09:46:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 9/23/26",
+   "detected_at": "2026-09-28 09:46:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "2026-27 Veteran Signings  - REMOVED Update 1.3 (7/18/26): O. Agbaji, B. Beal, J. Bernard, S. Bey, D. Brooks, K. Brooks, B. Brown, K. Bufkin, J. Butler Jr., K. Caldwell-Pope, D. Carter, M. Cisse, I. Crawford, J. Crutcher, J. Davison, D. DeRozan, D. Eubanks, T. Fall, K. George, A. Gill, H. Gray, D. Green, J. Harden, M. Hezonja, H. Highsmith, C. Houstan, H. Ingram, A. Jackson, L. James, J. Johnson, K. Johnson, D. Jones, S. Jones, Y. Kawamura, K. Knox, C. Koloko, J. Konchar, J. Kuminga, P. Larsson, K. Leonard, N. Marshall, B. Mathurin, B. Mbeng, G. McGlothan, D. Melton, G. Niang, M. Nowell, E. Payton, G. Payton, T. Peter, J. Phillips, D. Plowden, N. Richards, A. Reeves, L. Robbins, P. Sandfort, J. Schakel, B. Simmons, M. Smith, J. Sochan, D. Stockton, J. Tate, D. Terry, A. Thompson, A. Thompson, K. Thompson, M. Thybulle, A. Toohey, O. Tshiebwe, M. Wagner, L. Walker, J. Walsh, T. Watford, A. Watson, P. Watson, B. Williams, J. Wiseman, I. Wong",
    "detected_at": "2026-09-28 09:45:55",
    "source": "DOCS",
@@ -9949,103 +10027,12 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-09-26/Fraport-Skyliners-Juniors-at-Culture-City-Weimar/525455"
-  },
-  {
-   "detail": "German Pro B + Moses Poelking → Fraport Skyliners Juniors",
-   "detected_at": "2026-09-27 21:13:02",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Pro B + Alvin Onyia → Fraport Skyliners Juniors",
-   "detected_at": "2026-09-27 21:13:02",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Pro B + Leif Zentgraf → Fraport Skyliners Juniors",
-   "detected_at": "2026-09-27 21:13:02",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Pro B + Lukas Smazak → Fraport Skyliners Juniors",
-   "detected_at": "2026-09-27 21:13:02",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Pro B ~ MOVED Ivan Crnjac → Fraport Skyliners Juniors (from Fraport Skyliners)",
-   "detected_at": "2026-09-27 21:13:02",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
-  },
-  {
-   "detail": "German Pro B + Dusan Nikolic → Fraport Skyliners Juniors",
-   "detected_at": "2026-09-27 21:13:02",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Pro B + Joscha Zentgraf → Fraport Skyliners Juniors",
-   "detected_at": "2026-09-27 21:13:02",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Pro B + Florian Dietrich → Fraport Skyliners Juniors",
-   "detected_at": "2026-09-27 21:13:02",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Pro B + Max Peters → Fraport Skyliners Juniors",
-   "detected_at": "2026-09-27 21:13:02",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Pro B + Lenny Benczak → Fraport Skyliners Juniors",
-   "detected_at": "2026-09-27 21:13:02",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Pro B + Peter Beier → Culture City Weimar",
-   "detected_at": "2026-09-27 21:13:02",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Pro B ~ MOVED Daniel Biel → Culture City Weimar (from Science City Jena)",
-   "detected_at": "2026-09-27 21:13:02",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
-  },
-  {
-   "detail": "German Pro B + Maxim Bader → Culture City Weimar",
-   "detected_at": "2026-09-27 21:13:02",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 3060,
-   "last": "2026-09-28 09:45:55"
+   "count": 3066,
+   "last": "2026-09-28 09:46:56"
   },
   "GLEAGUE": {
    "count": 137,
@@ -10068,8 +10055,8 @@
    "last": "2026-09-28 09:06:16"
   },
   "SHEETS": {
-   "count": 4250,
-   "last": "2026-09-28 09:43:58"
+   "count": 4257,
+   "last": "2026-09-28 09:47:00"
   },
   "TRANSACTIONS": {
    "count": 437,
@@ -10084,6 +10071,6 @@
    "last": "2026-09-27 15:51:49"
   }
  },
- "generated_at": "2026-09-28T09:46:01",
- "total": 20768
+ "generated_at": "2026-09-28T09:47:03",
+ "total": 20781
 }
