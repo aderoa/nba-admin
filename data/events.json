@@ -1,6 +1,60 @@
 {
  "events": [
   {
+   "detail": "ORL  + ADDED  Council, Ricky",
+   "detected_at": "2026-09-28 09:48:58",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "ORL  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 232033236 -> 234482657, col9: 805103012.6 -> 807552433.6",
+   "detected_at": "2026-09-28 09:48:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "ORL  CHANGED Players Under Contract  -  col3: 219398699 -> 221848120",
+   "detected_at": "2026-09-28 09:48:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "ORL  CHANGED Full Season Contracts  -  col3: 219398699 -> 221848120",
+   "detected_at": "2026-09-28 09:48:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "ORL  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 18 -> 19",
+   "detected_at": "2026-09-28 09:48:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col23: 26970699.04 -> 29420120.04",
+   "detected_at": "2026-09-28 09:48:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 5th Incremental Tax Bracket  -  col23: 22211169.96 -> 29846250",
+   "detected_at": "2026-09-28 09:48:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 6th Incremental Tax Bracket  -  col23: 0 -> 5721940.23",
+   "detected_at": "2026-09-28 09:48:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col23: 81903669.96 -> 95260690.23",
+   "detected_at": "2026-09-28 09:48:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "ORL  + ADDED  Cumberland, Jarron",
    "detected_at": "2026-09-28 09:47:58",
    "source": "SHEETS",
@@ -9963,69 +10017,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Hungarian NBIA + Dez Andras Tanoh → Falco Vulcano Energia KC Szombathely",
-   "detected_at": "2026-09-27 21:13:06",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Hungarian NBIA + Benedek Varadi → Falco Vulcano Energia KC Szombathely",
-   "detected_at": "2026-09-27 21:13:06",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Hungarian NBIA + Uros Rosic → Falco Vulcano Energia KC Szombathely",
-   "detected_at": "2026-09-27 21:13:06",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Hungarian NBIA + Darrion Trammell → Falco Vulcano Energia KC Szombathely",
-   "detected_at": "2026-09-27 21:13:06",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Hungarian NBIA + Salamon Herger → Falco Vulcano Energia KC Szombathely",
-   "detected_at": "2026-09-27 21:13:06",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Hungarian NBIA + Kristof Bognar → Falco Vulcano Energia KC Szombathely",
-   "detected_at": "2026-09-27 21:13:06",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Hungarian NBIA + Akos Keller → Falco Vulcano Energia KC Szombathely",
-   "detected_at": "2026-09-27 21:13:06",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Hungarian NBIA + Zoltan Perl → Falco Vulcano Energia KC Szombathely",
-   "detected_at": "2026-09-27 21:13:06",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Hungarian NBIA Falco Vulcano Energia KC Szombathely 94, Phoenix MT Fot 75",
-   "detected_at": "2026-09-27 21:13:06",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-26/Phoenix-MT-Fot-at-Falco-Vulcano-Energia-KC-Szombathely/533618"
   }
  ],
  "feeds": {
@@ -10054,8 +10045,8 @@
    "last": "2026-09-28 09:06:16"
   },
   "SHEETS": {
-   "count": 4258,
-   "last": "2026-09-28 09:47:58"
+   "count": 4267,
+   "last": "2026-09-28 09:48:58"
   },
   "TRANSACTIONS": {
    "count": 437,
@@ -10070,6 +10061,6 @@
    "last": "2026-09-27 15:51:49"
   }
  },
- "generated_at": "2026-09-28T09:48:01",
- "total": 20782
+ "generated_at": "2026-09-28T09:49:01",
+ "total": 20791
 }
