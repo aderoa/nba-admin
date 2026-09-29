@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "~ CHANGED Cameron Corhen  country: - -> USA",
+   "detected_at": "2026-09-28 18:30:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "~ CHANGED Isaac McKneely  country: - -> USA",
    "detected_at": "2026-09-28 18:27:54",
    "source": "PLAYERS",
@@ -9836,13 +9842,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Spanish ACB + Sergi Garcia → Casademont Zaragoza",
-   "detected_at": "2026-09-28 02:55:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -9855,8 +9854,8 @@
    "last": "2026-09-28 07:02:00"
   },
   "PLAYERS": {
-   "count": 1278,
-   "last": "2026-09-28 18:27:54"
+   "count": 1279,
+   "last": "2026-09-28 18:30:54"
   },
   "RATINGS": {
    "count": 950,
@@ -9887,6 +9886,6 @@
    "last": "2026-09-28 15:24:10"
   }
  },
- "generated_at": "2026-09-28T18:30:02",
- "total": 21252
+ "generated_at": "2026-09-28T18:31:01",
+ "total": 21253
 }
