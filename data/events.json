@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "~ CHANGED Isaac McKneely  country: - -> USA",
+   "detected_at": "2026-09-28 18:18:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "2026-09-24  Portland Trail Blazers waived guard Barry Dunning.",
    "detected_at": "2026-09-28 18:09:55",
    "source": "TRANSACTIONS",
@@ -9839,13 +9845,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Spanish ACB + Laurynas Birutis → Casademont Zaragoza",
-   "detected_at": "2026-09-28 02:55:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -9858,8 +9857,8 @@
    "last": "2026-09-28 07:02:00"
   },
   "PLAYERS": {
-   "count": 1275,
-   "last": "2026-09-28 16:59:54"
+   "count": 1276,
+   "last": "2026-09-28 18:18:54"
   },
   "RATINGS": {
    "count": 950,
@@ -9890,6 +9889,6 @@
    "last": "2026-09-28 15:24:10"
   }
  },
- "generated_at": "2026-09-28T18:18:01",
- "total": 21249
+ "generated_at": "2026-09-28T18:19:00",
+ "total": 21250
 }
