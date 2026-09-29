@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "2026-09-24  Portland Trail Blazers waived guard Barry Dunning.",
+   "detected_at": "2026-09-28 18:09:55",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
    "detail": "Israeli BSL + Evitar Cohen → Elitzur Kiryat Ata",
    "detected_at": "2026-09-28 17:18:59",
    "source": "REALGM",
@@ -9840,13 +9846,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Spanish ACB + Jaime Fernandez → Casademont Zaragoza",
-   "detected_at": "2026-09-28 02:55:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -9879,8 +9878,8 @@
    "last": "2026-09-28 10:06:59"
   },
   "TRANSACTIONS": {
-   "count": 453,
-   "last": "2026-09-28 17:08:55"
+   "count": 454,
+   "last": "2026-09-28 18:09:55"
   },
   "WIKI": {
    "count": 4520,
@@ -9891,6 +9890,6 @@
    "last": "2026-09-28 15:24:10"
   }
  },
- "generated_at": "2026-09-28T18:09:00",
- "total": 21248
+ "generated_at": "2026-09-28T18:10:00",
+ "total": 21249
 }
