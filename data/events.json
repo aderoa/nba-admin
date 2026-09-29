@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "~ CHANGED Isaac McKneely  country: - -> USA",
+   "detected_at": "2026-09-28 18:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "~ CHANGED Isaac McKneely  country: USA -> -",
    "detected_at": "2026-09-28 18:19:54",
    "source": "PLAYERS",
@@ -9837,13 +9843,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Spanish ACB + Caleb Homesley → Casademont Zaragoza",
-   "detected_at": "2026-09-28 02:55:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -9856,8 +9855,8 @@
    "last": "2026-09-28 07:02:00"
   },
   "PLAYERS": {
-   "count": 1277,
-   "last": "2026-09-28 18:19:54"
+   "count": 1278,
+   "last": "2026-09-28 18:27:54"
   },
   "RATINGS": {
    "count": 950,
@@ -9888,6 +9887,6 @@
    "last": "2026-09-28 15:24:10"
   }
  },
- "generated_at": "2026-09-28T18:27:36",
- "total": 21251
+ "generated_at": "2026-09-28T18:28:02",
+ "total": 21252
 }
