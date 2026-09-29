@@ -1,6 +1,42 @@
 {
  "events": [
   {
+   "detail": "~ CHANGED Isaac McKneely  position: - -> G",
+   "detected_at": "2026-09-28 18:57:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Isaac McKneely  height: - -> 6-4",
+   "detected_at": "2026-09-28 18:57:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Isaac McKneely  weight: - -> 193",
+   "detected_at": "2026-09-28 18:57:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Cameron Corhen  position: - -> F",
+   "detected_at": "2026-09-28 18:57:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Cameron Corhen  height: - -> 6-10",
+   "detected_at": "2026-09-28 18:57:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Cameron Corhen  weight: - -> 235",
+   "detected_at": "2026-09-28 18:57:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "~ CHANGED Cameron Corhen  country: - -> USA",
    "detected_at": "2026-09-28 18:30:54",
    "source": "PLAYERS",
@@ -9800,48 +9836,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-09-27/Casademont-Zaragoza-at-Lenovo-Tenerife/532395"
-  },
-  {
-   "detail": "Spanish ACB + Roberts Blumbergs → Casademont Zaragoza",
-   "detected_at": "2026-09-28 02:55:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish ACB + Justin Jaworski → Casademont Zaragoza",
-   "detected_at": "2026-09-28 02:55:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish ACB + Trae Bell-Haynes → Casademont Zaragoza",
-   "detected_at": "2026-09-28 02:55:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish ACB + Miguel Gonzalez → Casademont Zaragoza",
-   "detected_at": "2026-09-28 02:55:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish ACB + Gabriel Olaseni → Casademont Zaragoza",
-   "detected_at": "2026-09-28 02:55:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish ACB + Nicolas Brussino → Casademont Zaragoza",
-   "detected_at": "2026-09-28 02:55:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -9854,8 +9848,8 @@
    "last": "2026-09-28 07:02:00"
   },
   "PLAYERS": {
-   "count": 1279,
-   "last": "2026-09-28 18:30:54"
+   "count": 1285,
+   "last": "2026-09-28 18:57:54"
   },
   "RATINGS": {
    "count": 950,
@@ -9886,6 +9880,6 @@
    "last": "2026-09-28 15:24:10"
   }
  },
- "generated_at": "2026-09-28T18:57:04",
- "total": 21253
+ "generated_at": "2026-09-28T18:58:03",
+ "total": 21259
 }
