@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Chris Czerapowicz  ~ number: 15 -> 35",
+   "detected_at": "2026-09-29 15:35:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Chris_Czerapowicz"
+  },
+  {
+   "detail": "Chris Czerapowicz  ~ CAREER  + 2016–2017 MOSiR Krosno",
+   "detected_at": "2026-09-29 15:35:38",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Chris_Czerapowicz"
+  },
+  {
    "detail": "Kevarrius Hayes  ~ CAREER  + 2026–present Partizan",
    "detected_at": "2026-09-29 14:48:37",
    "source": "WIKI",
@@ -9597,20 +9611,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga + Marjan Cakarun → KK Cibona",
-   "detected_at": "2026-09-28 07:02:13",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga + Vigo Bart → KK Cibona",
-   "detected_at": "2026-09-28 07:02:13",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -9647,14 +9647,14 @@
    "last": "2026-09-29 10:05:05"
   },
   "WIKI": {
-   "count": 4595,
-   "last": "2026-09-29 14:48:37"
+   "count": 4597,
+   "last": "2026-09-29 15:35:38"
   },
   "WIKIWATCH": {
    "count": 287,
    "last": "2026-09-28 15:24:10"
   }
  },
- "generated_at": "2026-09-29T15:27:01",
- "total": 21925
+ "generated_at": "2026-09-29T15:35:39",
+ "total": 21927
 }
