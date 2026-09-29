@@ -1,6 +1,55 @@
 {
  "events": [
   {
+   "detail": "Gary Harris  ~ team: Detroit Pistons -> -",
+   "detected_at": "2026-09-29 10:58:39",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Gary_Harris"
+  },
+  {
+   "detail": "Gary Harris  ~ league: NBA -> -",
+   "detected_at": "2026-09-29 10:58:39",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Gary_Harris"
+  },
+  {
+   "detail": "Gary Harris  ~ number: 14 -> -",
+   "detected_at": "2026-09-29 10:58:39",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Gary_Harris"
+  },
+  {
+   "detail": "Filip Kraljević  ~ team: Dinamo -> KK Dinamo",
+   "detected_at": "2026-09-29 10:58:39",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Filip_Kraljevi%C4%87"
+  },
+  {
+   "detail": "Filip Kraljević  ~ league: Croatian League Alpe Adria Cup -> Premijer liga Alpe Adria Cup",
+   "detected_at": "2026-09-29 10:58:39",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Filip_Kraljevi%C4%87"
+  },
+  {
+   "detail": "Filip Kraljević  ~ number: - -> 47",
+   "detected_at": "2026-09-29 10:58:39",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Filip_Kraljevi%C4%87"
+  },
+  {
+   "detail": "Filip Kraljević  ~ CAREER  + 2023–present KK Dinamo",
+   "detected_at": "2026-09-29 10:58:39",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Filip_Kraljevi%C4%87"
+  },
+  {
    "detail": "Italian Serie A2 Basket + Diego Monaldi → Banco di Sardegna Sassari",
    "detected_at": "2026-09-29 10:14:07",
    "source": "REALGM",
@@ -9563,55 +9612,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga ~ MOVED Markus Harding → KK Alkar (from Saskatoon Mamba)",
-   "detected_at": "2026-09-28 07:02:13",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga + Borna Jurela → KK Alkar",
-   "detected_at": "2026-09-28 07:02:13",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga + Emanuel Domazet → KK Alkar",
-   "detected_at": "2026-09-28 07:02:13",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga + Pavle Marcinkovic → KK Alkar",
-   "detected_at": "2026-09-28 07:02:13",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga KK Cibona 84, KK Alkar 78",
-   "detected_at": "2026-09-28 07:02:13",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-27/KK-Cibona-at-KK-Alkar/534711"
-  },
-  {
-   "detail": "German BBL + Marcus Foster → Telekom Baskets Bonn",
-   "detected_at": "2026-09-28 07:02:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German BBL Telekom Baskets Bonn 77, Mitteldeutscher BC 72",
-   "detected_at": "2026-09-28 07:02:10",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-27/Mitteldeutscher-BC-at-Telekom-Baskets-Bonn/528564"
   }
  ],
  "feeds": {
@@ -9648,14 +9648,14 @@
    "last": "2026-09-29 10:05:05"
   },
   "WIKI": {
-   "count": 4584,
-   "last": "2026-09-29 10:12:57"
+   "count": 4591,
+   "last": "2026-09-29 10:58:39"
   },
   "WIKIWATCH": {
    "count": 287,
    "last": "2026-09-28 15:24:10"
   }
  },
- "generated_at": "2026-09-29T10:50:02",
- "total": 21913
+ "generated_at": "2026-09-29T10:58:40",
+ "total": 21920
 }
