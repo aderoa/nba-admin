@@ -1,6 +1,48 @@
 {
  "events": [
   {
+   "detail": "CHA  + ADDED  Fricks, Wyatt",
+   "detected_at": "2026-09-30 12:29:58",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "CHA  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 179712917.6 -> 181070680.6, col9: 444150305 -> 445508068",
+   "detected_at": "2026-09-30 12:29:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "CHA  CHANGED Players Under Contract  -  col3: 168223259.6 -> 169581022.6",
+   "detected_at": "2026-09-30 12:29:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "CHA  CHANGED Full Season Contracts  -  col3: 168223259.6 -> 169581022.6",
+   "detected_at": "2026-09-30 12:29:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "CHA  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 18 -> 19",
+   "detected_at": "2026-09-30 12:29:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  - REMOVED Update 1.3 (7/18/26): K. Lopez, K. Diop, J. Bradley, O. Agbim, R. Agee, J. Aidoo, J. Akins, J. Akins, D. Allen, J. Allick, D. Armstrong, M. Armstrong, Z. Austin, W. Baker, A. Baldwin, A. Bandaogo, M. Barnstable, K. Boone, N. Boyd, T. Brown, N. Burnett, L. Butler, J. Camden, C. Camper, T. Carroll, D. Dainja, D. Daniels, E. Dixon, R. Dixon-Waters, B. Dunning, J. Elmore, D. Garcia, D. Goodwin, C. Grill, J. Hadley, J. Harmon, B. Hausen, D. Higgs, C. Hildreth, A. Hoggard, S. Hoiberg, A. Holifield, J. House, B. Humrichous, M. Iraldi, S. Johnson, J. Joiner, J. Joiner, K. Jones, N. Jourdain, M. Keita, W. Kyle, V. Lakhin, G. Levin, F. Loyer, H. Mallettte, K. Mangas, T. Marshall, M. Mascari, R. Mast, R. McCray, I. McKneely, C. McMillian, S. McNeil, I. Milicic, B. Miller, J. Moni, K. Murphy, D. Murray, M. Murrell, J. Nelson, J. Nunn, J. O’Neil, T. Okani, N. Pringle, E. Ralph, K. Reeves, J. Riley, D. Rodman, C. Ross, N. Santos, I. Schieffelin, A. Scott, W. Settle, C. Shumate, D. Smith, J. Stephens, K. Stewart, P. Suder, M. Sutton, W. Taylor, S. Thomas, S. Thompson, C. Tilly, T. Townsend, J. Ukomadu, B. Warren, S. Washington, R. Weems, B. Williams, P. Zilinskas",
+   "detected_at": "2026-09-30 12:29:55",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Update 1.3 (7/18/26): K. Lopez, K. Diop, J. Bradley, O. Agbim, R. Agee, J. Aidoo, J. Akins, J. Akins, D. Allen, J. Allick, D. Armstrong, M. Armstrong, Z. Austin, W. Baker, A. Baldwin, A. Bandaogo, M. Barnstable, K. Boone, N. Boyd, T. Brown, N. Burnett, L. Butler, J. Camden, C. Camper, T. Carroll, D. Dainja, D. Daniels, E. Dixon, R. Dixon-Waters, B. Dunning, J. Elmore, W. Fricks, D. Garcia, D. Goodwin, C. Grill, J. Hadley, J. Harmon, B. Hausen, D. Higgs, C. Hildreth, A. Hoggard, S. Hoiberg, A. Holifield, J. House, B. Humrichous, M. Iraldi, S. Johnson, J. Joiner, J. Joiner, K. Jones, N. Jourdain, M. Keita, W. Kyle, V. Lakhin, G. Levin, F. Loyer, H. Mallettte, K. Mangas, T. Marshall, M. Mascari, R. Mast, R. McCray, I. McKneely, C. McMillian, S. McNeil, I. Milicic, B. Miller, J. Moni, K. Murphy, D. Murray, M. Murrell, J. Nelson, J. Nunn, J. O’Neil, T. Okani, N. Pringle, E. Ralph, K. Reeves, J. Riley, D. Rodman, C. Ross, N. Santos, I. Schieffelin, A. Scott, W. Settle, C. Shumate, D. Smith, J. Stephens, K. Stewart, P. Suder, M. Sutton, W. Taylor, S. Thomas, S. Thompson, C. Tilly, T. Townsend, J. Ukomadu, B. Warren, S. Washington, R. Weems, B. Williams, P. Zilinskas",
+   "detected_at": "2026-09-30 12:29:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "SAC  + ADDED  Lakhin, Viktor",
    "detected_at": "2026-09-30 12:28:58",
    "source": "SHEETS",
@@ -9683,54 +9725,12 @@
    "detected_at": "2026-09-28 08:54:54",
    "source": "PLAYERS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Jordan Hawkins  number: 24 -> 19",
-   "detected_at": "2026-09-28 08:54:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Miles Bridges  number: 0 -> 22",
-   "detected_at": "2026-09-28 08:54:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Kyle Anderson  number: 12 -> 13",
-   "detected_at": "2026-09-28 08:54:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Chaz Lanier  number: 20 -> 8",
-   "detected_at": "2026-09-28 08:54:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Bryce Hopkins  number: - -> 13",
-   "detected_at": "2026-09-28 08:54:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Bryce Hopkins  position: - -> F",
-   "detected_at": "2026-09-28 08:54:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Bryce Hopkins  height: - -> 6-7",
-   "detected_at": "2026-09-28 08:54:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 3440,
-   "last": "2026-09-30 12:27:55"
+   "count": 3442,
+   "last": "2026-09-30 12:29:55"
   },
   "GLEAGUE": {
    "count": 144,
@@ -9753,8 +9753,8 @@
    "last": "2026-09-30 11:41:23"
   },
   "SHEETS": {
-   "count": 4459,
-   "last": "2026-09-30 12:28:58"
+   "count": 4464,
+   "last": "2026-09-30 12:29:58"
   },
   "TRANSACTIONS": {
    "count": 457,
@@ -9769,6 +9769,6 @@
    "last": "2026-09-30 10:48:49"
   }
  },
- "generated_at": "2026-09-30T12:29:01",
- "total": 22172
+ "generated_at": "2026-09-30T12:30:01",
+ "total": 22179
 }
