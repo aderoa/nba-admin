@@ -1,6 +1,36 @@
 {
  "events": [
   {
+   "detail": "+ ADDED   Jaden Akins (NYK)",
+   "detected_at": "2026-09-30 08:59:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "+ ADDED   Tony Bradley (NYK)",
+   "detected_at": "2026-09-30 08:59:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "+ ADDED   Toby Okani (NYK)",
+   "detected_at": "2026-09-30 08:59:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "+ ADDED   Jaylen Martin (POR)",
+   "detected_at": "2026-09-30 08:59:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "~ CHANGED Klay Thompson  position: G -> G-F",
+   "detected_at": "2026-09-30 08:59:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "- REMOVED Tony Bradley (NYK)",
    "detected_at": "2026-09-30 08:55:54",
    "source": "PLAYERS",
@@ -9681,36 +9711,6 @@
    "detected_at": "2026-09-28 07:54:54",
    "source": "PLAYERS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Ian Schieffelin  position: - -> F",
-   "detected_at": "2026-09-28 07:54:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Ian Schieffelin  height: - -> 6-8",
-   "detected_at": "2026-09-28 07:54:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Ian Schieffelin  weight: - -> 240",
-   "detected_at": "2026-09-28 07:54:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Ian Schieffelin  country: - -> USA",
-   "detected_at": "2026-09-28 07:49:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Ian Schieffelin  school: - -> Clemson",
-   "detected_at": "2026-09-28 07:42:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -9723,8 +9723,8 @@
    "last": "2026-09-30 07:13:19"
   },
   "PLAYERS": {
-   "count": 1323,
-   "last": "2026-09-30 08:55:54"
+   "count": 1328,
+   "last": "2026-09-30 08:59:54"
   },
   "RATINGS": {
    "count": 950,
@@ -9755,6 +9755,6 @@
    "last": "2026-09-30 07:54:14"
   }
  },
- "generated_at": "2026-09-30T08:59:01",
- "total": 22088
+ "generated_at": "2026-09-30T09:00:01",
+ "total": 22093
 }
