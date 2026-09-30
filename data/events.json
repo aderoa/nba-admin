@@ -1,6 +1,34 @@
 {
  "events": [
   {
+   "detail": "FIBA Europe Cup Qualification Parnu Sadam 73, Neftchi IK 61",
+   "detected_at": "2026-09-30 11:41:23",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-30/Neftchi-IK-at-Parnu-Sadam/528585"
+  },
+  {
+   "detail": "FIBA Europe Cup Qualification + Vlad-Alexandru Borcan → CS Dinamo Bucuresti",
+   "detected_at": "2026-09-30 11:41:20",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "FIBA Europe Cup Qualification + David Andrei Iordachescu → CS Dinamo Bucuresti",
+   "detected_at": "2026-09-30 11:41:20",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "FIBA Europe Cup Qualification CS Dinamo Bucuresti 105, KB Peja 83",
+   "detected_at": "2026-09-30 11:41:20",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-30/KB-Peja-at-CS-Dinamo-Bucuresti/528584"
+  },
+  {
    "detail": "Max Heidegger  ~ CAREER  + 2020–2021 Maccabi Tel Aviv",
    "detected_at": "2026-09-30 11:34:38",
    "source": "WIKI",
@@ -9693,30 +9721,6 @@
    "detected_at": "2026-09-28 08:54:54",
    "source": "PLAYERS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Alpha Diallo  height: - -> 6-7",
-   "detected_at": "2026-09-28 08:54:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Alpha Diallo  weight: - -> 210",
-   "detected_at": "2026-09-28 08:54:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Alpha Diallo  school: - -> Providence",
-   "detected_at": "2026-09-28 08:51:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Alpha Diallo  country: - -> USA",
-   "detected_at": "2026-09-28 08:51:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -9737,12 +9741,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 5409,
-   "last": "2026-09-30 07:22:42"
+   "count": 5411,
+   "last": "2026-09-30 11:41:20"
   },
   "SCORES": {
-   "count": 1028,
-   "last": "2026-09-30 07:22:43"
+   "count": 1030,
+   "last": "2026-09-30 11:41:23"
   },
   "SHEETS": {
    "count": 4451,
@@ -9761,6 +9765,6 @@
    "last": "2026-09-30 10:48:49"
   }
  },
- "generated_at": "2026-09-30T11:40:01",
- "total": 22133
+ "generated_at": "2026-09-30T11:41:31",
+ "total": 22137
 }
