@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "2026-09-30  Denver Nuggets signed guard Ryan Nembhard to a Two-Way Contract.",
+   "detected_at": "2026-09-30 15:09:55",
+   "source": "TRANSACTIONS",
+   "type": "Signing"
+  },
+  {
    "detail": "- REMOVED Lee Hyun-jung (POR)",
    "detected_at": "2026-09-30 15:01:54",
    "source": "PLAYERS",
@@ -9730,12 +9736,6 @@
    "detected_at": "2026-09-28 10:01:58",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "ORL  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 19 -> 21",
-   "detected_at": "2026-09-28 10:01:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -9768,8 +9768,8 @@
    "last": "2026-09-30 12:51:58"
   },
   "TRANSACTIONS": {
-   "count": 463,
-   "last": "2026-09-30 14:18:55"
+   "count": 464,
+   "last": "2026-09-30 15:09:55"
   },
   "WIKI": {
    "count": 4672,
@@ -9780,6 +9780,6 @@
    "last": "2026-09-30 13:39:10"
   }
  },
- "generated_at": "2026-09-30T15:09:00",
- "total": 22320
+ "generated_at": "2026-09-30T15:10:01",
+ "total": 22321
 }
