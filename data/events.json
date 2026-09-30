@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "WNBA New York Liberty 87, Minnesota Lynx 71",
+   "detected_at": "2026-09-29 21:37:19",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-09-29/Minnesota-at-New-York/161653"
+  },
+  {
+   "detail": "WNBA Indiana Fever 99, Las Vegas Aces 89",
+   "detected_at": "2026-09-29 21:37:16",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-09-29/Las-Vegas-at-Indiana/161654"
+  },
+  {
    "detail": "Bismack Biyombo  ~ team: Free agent -> Free agent (former team “ San Antonio Spurs”)",
    "detected_at": "2026-09-29 20:13:37",
    "source": "WIKI",
@@ -9597,20 +9611,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Italian Lega Basket Serie A + Michele Ruzzier → Pallacanestro Trieste 2004",
-   "detected_at": "2026-09-28 07:02:16",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Italian Lega Basket Serie A + Abramo Canka → Pallacanestro Trieste 2004",
-   "detected_at": "2026-09-28 07:02:16",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -9635,8 +9635,8 @@
    "last": "2026-09-29 19:34:19"
   },
   "SCORES": {
-   "count": 994,
-   "last": "2026-09-29 19:34:19"
+   "count": 996,
+   "last": "2026-09-29 21:37:19"
   },
   "SHEETS": {
    "count": 4451,
@@ -9655,6 +9655,6 @@
    "last": "2026-09-29 19:35:54"
   }
  },
- "generated_at": "2026-09-29T21:36:01",
- "total": 21940
+ "generated_at": "2026-09-29T21:37:21",
+ "total": 21942
 }
