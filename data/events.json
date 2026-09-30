@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Leaky Black  ~ number: - -> 19",
+   "detected_at": "2026-09-30 15:47:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Leaky_Black"
+  },
+  {
+   "detail": "Tristen Newton  ~ number: - -> 00",
+   "detected_at": "2026-09-30 15:47:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Tristen_Newton"
+  },
+  {
    "detail": "Lonnie Walker IV  ~ team: Denver Nuggets -> Free agent",
    "detected_at": "2026-09-30 15:24:38",
    "source": "WIKI",
@@ -9727,18 +9741,6 @@
    "detected_at": "2026-09-28 10:01:58",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "ORL  + ADDED  Baldwin, Ace",
-   "detected_at": "2026-09-28 10:01:58",
-   "source": "SHEETS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "ORL  + ADDED  Toney, Au'Diese",
-   "detected_at": "2026-09-28 10:01:58",
-   "source": "SHEETS",
-   "type": "ADDED"
   }
  ],
  "feeds": {
@@ -9775,14 +9777,14 @@
    "last": "2026-09-30 15:09:55"
   },
   "WIKI": {
-   "count": 4675,
-   "last": "2026-09-30 15:24:38"
+   "count": 4677,
+   "last": "2026-09-30 15:47:37"
   },
   "WIKIWATCH": {
    "count": 306,
    "last": "2026-09-30 13:39:10"
   }
  },
- "generated_at": "2026-09-30T15:39:01",
- "total": 22324
+ "generated_at": "2026-09-30T15:47:38",
+ "total": 22326
 }
