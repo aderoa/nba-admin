@@ -1,6 +1,42 @@
 {
  "events": [
   {
+   "detail": "2026-27 Two-Way Signings  - REMOVED Ca Sacramento Kings",
+   "detected_at": "2026-09-30 12:04:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Two-Way Signings  - REMOVED 2 Years. Skill; Injury or Illness; Mental; Death. Compensation protection for 2026-27 Season is for $91,000 but will increase to 50% if team has not requested waivers on player on or before the first day of the 2026-27 Regular Season. Compensation protection for 2027-28 Season is for the Maximum Two-Way Protection Amount but will increase to 50% if team has not requested waivers on player on or before the first day of the 2027-28 Regular Season. Love of the Game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-09-30 12:04:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Two-Way Signings  - REMOVED Execution Date: 7/1/26",
+   "detected_at": "2026-09-30 12:04:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Two-Way Signings  + ADDED  Carson Cooper Memphis Grizzlies",
+   "detected_at": "2026-09-30 12:04:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Two-Way Signings  + ADDED  2 Years. Advance Payment ($45,500). Skill; Injury or Illness; Mental. Compensation protection for 2026-27 Season is for $91,000 but will increase to 50% if team has not requested waivers on player on or before the first day of the 2026-27 Regular Season. Compensation protection for 2027-28 Season is for the Maximum Two-Way Protection Amount but will increase to 50% if team has not requested waivers on player on or before the first day of the 2027-28 Regular Season. Love of the Game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-09-30 12:04:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Two-Way Signings  + ADDED  Execution Date: 9/28/26",
+   "detected_at": "2026-09-30 12:04:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "2026-27 Two-Way Signings  - REMOVED Update 1.3 (7/18/26): R. Castro, M. Dia, H. Dickinson, V. Goldin, B. Hopkins, J. Howard, G. Ike, T. Jemison, D. Jones Garcia, K. Johnson, A. Kaluma, D. Mitchell, K. McCullar, G. Nelson, T. Nickel, S. Pedulla, J. Pickett, J. Pierre, J. Reese, J. Sharp, J. Slawson, B. Smith, J. Tonje, C. Whitmore, J. Wilson",
    "detected_at": "2026-09-30 12:03:55",
    "source": "DOCS",
@@ -9689,48 +9725,12 @@
    "detected_at": "2026-09-28 08:54:54",
    "source": "PLAYERS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Tyler Nickel  number: - -> 55",
-   "detected_at": "2026-09-28 08:54:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Mo Bamba  number: 11 -> 44",
-   "detected_at": "2026-09-28 08:54:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Jaden Bradley  number: - -> 8",
-   "detected_at": "2026-09-28 08:54:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Micah Peavy  number: 14 -> 7",
-   "detected_at": "2026-09-28 08:54:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Ja Morant  number: 12 -> 1",
-   "detected_at": "2026-09-28 08:54:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Luke Kennard  number: 10 -> 8",
-   "detected_at": "2026-09-28 08:54:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 3422,
-   "last": "2026-09-30 12:03:55"
+   "count": 3428,
+   "last": "2026-09-30 12:04:56"
   },
   "GLEAGUE": {
    "count": 144,
@@ -9769,6 +9769,6 @@
    "last": "2026-09-30 10:48:49"
   }
  },
- "generated_at": "2026-09-30T12:04:02",
- "total": 22146
+ "generated_at": "2026-09-30T12:05:01",
+ "total": 22152
 }
