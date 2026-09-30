@@ -1,6 +1,78 @@
 {
  "events": [
   {
+   "detail": "NYK  + ADDED  Brown, Bruce #2",
+   "detected_at": "2026-09-30 12:51:58",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "NYK  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 233108758 -> 235558179, col9: 655625793 -> 658075214",
+   "detected_at": "2026-09-30 12:51:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "NYK  CHANGED Players Under Contract  -  col3: 230659337 -> 233108758",
+   "detected_at": "2026-09-30 12:51:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "NYK  CHANGED Full Season Contracts  -  col3: 230659337 -> 233108758",
+   "detected_at": "2026-09-30 12:51:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "NYK  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 18 -> 19",
+   "detected_at": "2026-09-30 12:51:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col21: 30231337 -> 32680758",
+   "detected_at": "2026-09-30 12:51:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 6th Incremental Tax Bracket  -  col21: 10386437.75 -> 24470608.5",
+   "detected_at": "2026-09-30 12:51:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col21: 99925187.75 -> 114009358.5",
+   "detected_at": "2026-09-30 12:51:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Toby Okani (WAIVED) New York Knicks",
+   "detected_at": "2026-09-30 12:51:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  26-27 $2,185,116",
+   "detected_at": "2026-09-30 12:51:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Minimum Salary Exception. Physical Exam. Exh. 10 - Affiliate Player ($25,000).",
+   "detected_at": "2026-09-30 12:51:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 9/30/26",
+   "detected_at": "2026-09-30 12:51:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "2026-27 Veteran Signings  - REMOVED Update 1.3 (7/18/26): O. Agbaji, B. Beal, J. Bernard, R. Beekman, S. Bey, L. Black, B. Boston, D. Brooks, K. Brooks, B. Brown, K. Bufkin, J. Butler Jr., K. Caldwell-Pope, D. Carter, K. Chandler, M. Cisse, Y. Collins, I. Crawford, J. Crutcher, J. Cumberland, S. Curry, N. Dante, J. Davison, D. DeRozan, D. Eubanks, T. Fall, K. George, A. Gill, H. Gray, D. Green, J. Harden, M. Hezonja, H. Highsmith, C. Houstan, H. Ingram, A. Jackson, L. James, J. Johnson, K. Johnson, C. Jones D. Jones, S. Jones, Y. Kawamura, T. Keels, M. Kelly, K. Knox, C. Koloko, J. Konchar, J. Kuminga, P. Larsson, K. Leonard, K. Lewis, C. Livingston, L. Lovering, S. Lundy, N. Marshall, K. Martin, B. Mathurin, B. Mbeng, G. McGlothan, D. Melton, E. Miller, T. Newton, G. Niang, M. Nowell, N. Omier, E. Payton, G. Payton, T. Peter, D. Peterson, J. Phillips, D. Plowden, D. Powell, J. Preston, L. Quinones, D. Reath, N. Richards, K. Richmond, A. Reeves, L. Robbins, O. Robinson, H. Sallis, P. Sandfort, J. Schakel, M. Sears, B. Simmons, M. Smith, Z. Smith, J. Sochan, D. Stockton, C. Swider, J. Tate, D. Terry, A. Thompson, A. Thompson, K. Thompson, M. Thybulle, D. Timme, A. Toohey, O. Tshiebwe, M. Wagner, L. Walker, J. Walsh, T. Watford, A. Watson, P. Watson, B. Wesley, P. Wheeler, B. Williams, M. Williams, J. Wiseman, I. Wong",
    "detected_at": "2026-09-30 12:50:55",
    "source": "DOCS",
@@ -9638,84 +9710,12 @@
    "detected_at": "2026-09-28 09:46:56",
    "source": "DOCS",
    "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  26-27 $2,185,116",
-   "detected_at": "2026-09-28 09:46:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($60,000).",
-   "detected_at": "2026-09-28 09:46:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 9/23/26",
-   "detected_at": "2026-09-28 09:46:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Update 1.3 (7/18/26): O. Agbaji, B. Beal, J. Bernard, S. Bey, D. Brooks, K. Brooks, B. Brown, K. Bufkin, J. Butler Jr., K. Caldwell-Pope, D. Carter, M. Cisse, I. Crawford, J. Crutcher, J. Davison, D. DeRozan, D. Eubanks, T. Fall, K. George, A. Gill, H. Gray, D. Green, J. Harden, M. Hezonja, H. Highsmith, C. Houstan, H. Ingram, A. Jackson, L. James, J. Johnson, K. Johnson, D. Jones, S. Jones, Y. Kawamura, K. Knox, C. Koloko, J. Konchar, J. Kuminga, P. Larsson, K. Leonard, N. Marshall, B. Mathurin, B. Mbeng, G. McGlothan, D. Melton, G. Niang, M. Nowell, E. Payton, G. Payton, T. Peter, J. Phillips, D. Plowden, N. Richards, A. Reeves, L. Robbins, P. Sandfort, J. Schakel, B. Simmons, M. Smith, J. Sochan, D. Stockton, J. Tate, D. Terry, A. Thompson, A. Thompson, K. Thompson, M. Thybulle, A. Toohey, O. Tshiebwe, M. Wagner, L. Walker, J. Walsh, T. Watford, A. Watson, P. Watson, B. Williams, J. Wiseman, I. Wong",
-   "detected_at": "2026-09-28 09:45:55",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Update 1.3 (7/18/26): O. Agbaji, B. Beal, J. Bernard, S. Bey, D. Brooks, K. Brooks, B. Brown, K. Bufkin, J. Butler Jr., K. Caldwell-Pope, D. Carter, M. Cisse, I. Crawford, J. Crutcher, J. Davison, D. DeRozan, D. Eubanks, T. Fall, K. George, A. Gill, H. Gray, D. Green, J. Harden, M. Hezonja, H. Highsmith, C. Houstan, H. Ingram, A. Jackson, L. James, J. Johnson, K. Johnson, D. Jones, S. Jones, Y. Kawamura, K. Knox, C. Koloko, J. Konchar, J. Kuminga, P. Larsson, K. Leonard, N. Marshall, B. Mathurin, B. Mbeng, G. McGlothan, D. Melton, G. Niang, M. Nowell, E. Payton, G. Payton, T. Peter, J. Phillips, D. Plowden, N. Richards, A. Reeves, L. Robbins, P. Sandfort, J. Schakel, M. Sears, B. Simmons, M. Smith, J. Sochan, D. Stockton, J. Tate, D. Terry, A. Thompson, A. Thompson, K. Thompson, M. Thybulle, A. Toohey, O. Tshiebwe, M. Wagner, L. Walker, J. Walsh, T. Watford, A. Watson, P. Watson, B. Williams, J. Wiseman, I. Wong",
-   "detected_at": "2026-09-28 09:45:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Tucker DeVries Boston Celtics",
-   "detected_at": "2026-09-28 09:44:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  26-27 $1,357,763",
-   "detected_at": "2026-09-28 09:44:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
-   "detected_at": "2026-09-28 09:44:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 7/14/26",
-   "detected_at": "2026-09-28 09:44:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  - REMOVED Tucker DeVries Boston Celtics",
-   "detected_at": "2026-09-28 09:44:56",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Barry Dunning Portland Trail Blazers",
-   "detected_at": "2026-09-28 09:44:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  - REMOVED Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
-   "detected_at": "2026-09-28 09:44:56",
-   "source": "DOCS",
-   "type": "REMOVED"
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 3478,
-   "last": "2026-09-30 12:50:55"
+   "count": 3482,
+   "last": "2026-09-30 12:51:55"
   },
   "GLEAGUE": {
    "count": 144,
@@ -9738,8 +9738,8 @@
    "last": "2026-09-30 12:43:58"
   },
   "SHEETS": {
-   "count": 4504,
-   "last": "2026-09-30 12:49:58"
+   "count": 4512,
+   "last": "2026-09-30 12:51:58"
   },
   "TRANSACTIONS": {
    "count": 457,
@@ -9754,6 +9754,6 @@
    "last": "2026-09-30 10:48:49"
   }
  },
- "generated_at": "2026-09-30T12:51:01",
- "total": 22259
+ "generated_at": "2026-09-30T12:52:02",
+ "total": 22271
 }
