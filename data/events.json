@@ -1,6 +1,41 @@
 {
  "events": [
   {
+   "detail": "Kostas Sloukas  ~ 25007: team -> -",
+   "detected_at": "2026-09-30 16:33:49",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Panathinaikos"
+  },
+  {
+   "detail": "Kostas Sloukas  ~ 25007: league -> -",
+   "detected_at": "2026-09-30 16:33:49",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Greek Basketball League EuroLeague"
+  },
+  {
+   "detail": "Kostas Sloukas  ~ 25007: position -> -",
+   "detected_at": "2026-09-30 16:33:49",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Point guard / shooting guard"
+  },
+  {
+   "detail": "Kostas Sloukas  ~ 25007: number -> -",
+   "detected_at": "2026-09-30 16:33:49",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "10"
+  },
+  {
+   "detail": "Kostas Sloukas  ~ 25007: (page changed) -> -",
+   "detected_at": "2026-09-30 16:33:49",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": ""
+  },
+  {
    "detail": "Ryan Nembhard  ~ league: - -> NBA",
    "detected_at": "2026-09-30 16:33:38",
    "source": "WIKI",
@@ -9718,36 +9753,6 @@
    "detected_at": "2026-09-28 10:04:56",
    "source": "DOCS",
    "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Zach Austin Portland Trail Blazers",
-   "detected_at": "2026-09-28 10:03:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  26-27 $1,357,763",
-   "detected_at": "2026-09-28 10:03:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Minimum Salary Exception. Love of the Game. Physical Exam. Alt. 7(b). Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
-   "detected_at": "2026-09-28 10:03:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 9/23/26",
-   "detected_at": "2026-09-28 10:03:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Kadary Rchmond (WAIVED) Minnesota Timberwolves",
-   "detected_at": "2026-09-28 10:02:55",
-   "source": "DOCS",
-   "type": "REMOVED"
   }
  ],
  "feeds": {
@@ -9788,10 +9793,10 @@
    "last": "2026-09-30 16:33:38"
   },
   "WIKIWATCH": {
-   "count": 306,
-   "last": "2026-09-30 13:39:10"
+   "count": 311,
+   "last": "2026-09-30 16:33:49"
   }
  },
- "generated_at": "2026-09-30T16:33:39",
- "total": 22335
+ "generated_at": "2026-09-30T16:34:04",
+ "total": 22340
 }
