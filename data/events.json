@@ -1,6 +1,55 @@
 {
  "events": [
   {
+   "detail": "D'Angelo Russell  ~ number: 35 -> -",
+   "detected_at": "2026-09-30 11:11:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/D'Angelo_Russell"
+  },
+  {
+   "detail": "Kendall Brown (basketball)  ~ team: Free Agent -> Free agent",
+   "detected_at": "2026-09-30 11:11:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kendall_Brown_(basketball)"
+  },
+  {
+   "detail": "Markel Starks  ~ team: Free Agent -> Karşıyaka Basket",
+   "detected_at": "2026-09-30 11:11:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Markel_Starks"
+  },
+  {
+   "detail": "Markel Starks  ~ league: - -> BSL",
+   "detected_at": "2026-09-30 11:11:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Markel_Starks"
+  },
+  {
+   "detail": "Markel Starks  ~ CAREER  + 2024–2025 Büyükçekmece",
+   "detected_at": "2026-09-30 11:11:38",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Markel_Starks"
+  },
+  {
+   "detail": "Markel Starks  ~ CAREER  + 2026 Manisa",
+   "detected_at": "2026-09-30 11:11:38",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Markel_Starks"
+  },
+  {
+   "detail": "Markel Starks  ~ CAREER  + 2026–present Karşıyaka",
+   "detected_at": "2026-09-30 11:11:38",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Markel_Starks"
+  },
+  {
    "detail": "D'Angelo Russell  ~ 41490: number -> 35",
    "detected_at": "2026-09-30 10:48:49",
    "source": "WIKIWATCH",
@@ -9667,53 +9716,6 @@
    "detected_at": "2026-09-28 08:51:54",
    "source": "PLAYERS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "Mohammad Amini  ~ league: - -> LNB Élite",
-   "detected_at": "2026-09-28 08:51:36",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Mohammad_Amini"
-  },
-  {
-   "detail": "Mohammad Amini  ~ position: Guard -> Shooting guard",
-   "detected_at": "2026-09-28 08:51:36",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Mohammad_Amini"
-  },
-  {
-   "detail": "Mohammad Amini  ~ height_ft: 6 -> -",
-   "detected_at": "2026-09-28 08:51:36",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Mohammad_Amini"
-  },
-  {
-   "detail": "Mohammad Amini  ~ height_in: 8 -> -",
-   "detected_at": "2026-09-28 08:51:36",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Mohammad_Amini"
-  },
-  {
-   "detail": "Mohammad Amini  ~ weight_lb: 196 -> -",
-   "detected_at": "2026-09-28 08:51:36",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Mohammad_Amini"
-  },
-  {
-   "detail": "~ CHANGED Bryce Hopkins  school: St. John's -> St. John's, N.Y.",
-   "detected_at": "2026-09-28 08:31:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Bryce Hopkins  country: - -> USA",
-   "detected_at": "2026-09-28 08:31:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -9750,14 +9752,14 @@
    "last": "2026-09-30 08:43:55"
   },
   "WIKI": {
-   "count": 4636,
-   "last": "2026-09-30 10:48:38"
+   "count": 4643,
+   "last": "2026-09-30 11:11:38"
   },
   "WIKIWATCH": {
    "count": 301,
    "last": "2026-09-30 10:48:49"
   }
  },
- "generated_at": "2026-09-30T11:03:02",
- "total": 22125
+ "generated_at": "2026-09-30T11:11:39",
+ "total": 22132
 }
