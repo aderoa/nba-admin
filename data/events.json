@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Saliou Niang  ~ 174547: team -> LSU Tigers",
+   "detected_at": "2026-09-30 07:25:17",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": ""
+  },
+  {
+   "detail": "Saliou Niang  ~ 174547: league -> SEC",
+   "detected_at": "2026-09-30 07:25:17",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": ""
+  },
+  {
+   "detail": "Saliou Niang  ~ 174547: position -> Small forward",
+   "detected_at": "2026-09-30 07:25:17",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": ""
+  },
+  {
    "detail": "D'Angelo Russell  ~ 41490: team -> Free agent",
    "detected_at": "2026-09-30 07:24:10",
    "source": "WIKIWATCH",
@@ -9680,24 +9701,6 @@
    "detected_at": "2026-09-28 07:25:58",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col19: 15860718 -> 18310139",
-   "detected_at": "2026-09-28 07:25:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED 3rd Incremental Tax Bracket  -  col19: 15717513 -> 19897500",
-   "detected_at": "2026-09-28 07:25:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED 4th Incremental Tax Bracket  -  col19: 0 -> 5961910.25",
-   "detected_at": "2026-09-28 07:25:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -9738,10 +9741,10 @@
    "last": "2026-09-30 07:21:18"
   },
   "WIKIWATCH": {
-   "count": 291,
-   "last": "2026-09-30 07:24:10"
+   "count": 294,
+   "last": "2026-09-30 07:25:17"
   }
  },
- "generated_at": "2026-09-30T07:25:08",
- "total": 22059
+ "generated_at": "2026-09-30T07:26:02",
+ "total": 22062
 }
