@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "D'Angelo Russell  ~ 41490: number -> 35",
+   "detected_at": "2026-09-30 10:48:49",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": ""
+  },
+  {
    "detail": "Sharife Cooper  ~ team: Free agent -> Liaoning Flying Leopards",
    "detected_at": "2026-09-30 10:48:38",
    "source": "WIKI",
@@ -9707,12 +9714,6 @@
    "detected_at": "2026-09-28 08:31:54",
    "source": "PLAYERS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Dillon Mitchell  school: St. John's -> St. John's, N.Y.",
-   "detected_at": "2026-09-28 08:31:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -9753,10 +9754,10 @@
    "last": "2026-09-30 10:48:38"
   },
   "WIKIWATCH": {
-   "count": 300,
-   "last": "2026-09-30 10:27:12"
+   "count": 301,
+   "last": "2026-09-30 10:48:49"
   }
  },
- "generated_at": "2026-09-30T10:48:40",
- "total": 22124
+ "generated_at": "2026-09-30T10:49:04",
+ "total": 22125
 }
