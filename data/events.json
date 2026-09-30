@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Sharife Cooper  ~ 117356: team -> Free agent",
+   "detected_at": "2026-09-30 10:27:12",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Liaoning Flying Leopards"
+  },
+  {
+   "detail": "Sharife Cooper  ~ 117356: league -> -",
+   "detected_at": "2026-09-30 10:27:12",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "CBA"
+  },
+  {
+   "detail": "Sharife Cooper  ~ 117356: number -> -",
+   "detected_at": "2026-09-30 10:27:12",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "0"
+  },
+  {
    "detail": "Josep Puerto  ~ league: Liga ACB -> Liga ACB EuroLeague",
    "detected_at": "2026-09-30 10:25:38",
    "source": "WIKI",
@@ -9692,27 +9713,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga + Josip Batinic → KK Kvarner 2010",
-   "detected_at": "2026-09-28 08:05:54",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga + Fran Strahija → KK Kvarner 2010",
-   "detected_at": "2026-09-28 08:05:54",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga KK Cedevita Junior Zagreb 96, KK Kvarner 2010 93",
-   "detected_at": "2026-09-28 08:05:54",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-27/KK-Cedevita-Junior-Zagreb-at-KK-Kvarner-2010/534715"
   }
  ],
  "feeds": {
@@ -9753,10 +9753,10 @@
    "last": "2026-09-30 10:25:38"
   },
   "WIKIWATCH": {
-   "count": 297,
-   "last": "2026-09-30 07:54:14"
+   "count": 300,
+   "last": "2026-09-30 10:27:12"
   }
  },
- "generated_at": "2026-09-30T10:27:00",
- "total": 22106
+ "generated_at": "2026-09-30T10:28:00",
+ "total": 22109
 }
