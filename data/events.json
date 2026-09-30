@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Saliou Niang  ~ number: 7 -> -",
+   "detected_at": "2026-09-29 19:50:39",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Saliou_Niang"
+  },
+  {
    "detail": "Saliou Niang  ~ 174547: number -> 7",
    "detected_at": "2026-09-29 19:35:54",
    "source": "WIKIWATCH",
@@ -9604,13 +9611,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Italian Lega Basket Serie A + Nicola Akele → AX Armani Exchange Milan",
-   "detected_at": "2026-09-28 07:02:16",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -9647,14 +9647,14 @@
    "last": "2026-09-29 10:05:05"
   },
   "WIKI": {
-   "count": 4597,
-   "last": "2026-09-29 15:35:38"
+   "count": 4598,
+   "last": "2026-09-29 19:50:39"
   },
   "WIKIWATCH": {
    "count": 288,
    "last": "2026-09-29 19:35:54"
   }
  },
- "generated_at": "2026-09-29T19:42:02",
- "total": 21938
+ "generated_at": "2026-09-29T19:50:40",
+ "total": 21939
 }
