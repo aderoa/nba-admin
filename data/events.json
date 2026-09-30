@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "2026-09-30  New York Knicks signed guard Jaden Akins to a Two-Way Contract.",
+   "detected_at": "2026-09-30 08:43:55",
+   "source": "TRANSACTIONS",
+   "type": "Signing"
+  },
+  {
    "detail": "~ CHANGED Ernest Udeh, Jr.  number: 39 -> 88",
    "detected_at": "2026-09-30 07:59:55",
    "source": "PLAYERS",
@@ -9705,12 +9711,6 @@
    "detected_at": "2026-09-28 07:29:58",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "ATL  CHANGED Players Under Contract  -  col3: 194869195.4 -> 197318616.4",
-   "detected_at": "2026-09-28 07:29:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -9743,8 +9743,8 @@
    "last": "2026-09-29 10:05:27"
   },
   "TRANSACTIONS": {
-   "count": 456,
-   "last": "2026-09-29 10:05:05"
+   "count": 457,
+   "last": "2026-09-30 08:43:55"
   },
   "WIKI": {
    "count": 4612,
@@ -9755,6 +9755,6 @@
    "last": "2026-09-30 07:54:14"
   }
  },
- "generated_at": "2026-09-30T08:43:02",
- "total": 22077
+ "generated_at": "2026-09-30T08:44:01",
+ "total": 22078
 }
