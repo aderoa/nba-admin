@@ -1,6 +1,36 @@
 {
  "events": [
   {
+   "detail": "- REMOVED Tony Bradley (NYK)",
+   "detected_at": "2026-09-30 08:55:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Jaden Akins (NYK)",
+   "detected_at": "2026-09-30 08:55:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Jaylen Martin (POR)",
+   "detected_at": "2026-09-30 08:55:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Toby Okani (NYK)",
+   "detected_at": "2026-09-30 08:55:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "~ CHANGED Klay Thompson  position: G-F -> G",
+   "detected_at": "2026-09-30 08:55:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "+ ADDED   Jaden Akins (NYK)",
    "detected_at": "2026-09-30 08:53:55",
    "source": "PLAYERS",
@@ -9681,36 +9711,6 @@
    "detected_at": "2026-09-28 07:42:54",
    "source": "PLAYERS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED 26-27 $2,449,421",
-   "detected_at": "2026-09-28 07:32:56",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  26-27 $2,625,627",
-   "detected_at": "2026-09-28 07:32:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Update 1.3 (7/18/26): O. Agbaji, B. Beal, J. Bernard, S. Bey, D. Brooks, K. Brooks, B. Brown, K. Bufkin, J. Butler Jr., K. Caldwell-Pope, D. Carter, M. Cisse, I. Crawford, J. Crutcher, J. Davison, D. DeRozan, D. Eubanks, T. Fall, K. George, A. Gill, H. Gray, D. Green, J. Harden, M. Hezonja, H. Highsmith, C. Houstan, H. Ingram, A. Jackson, L. James, J. Johnson, D. Jones, S. Jones, Y. Kawamura, K. Knox, C. Koloko, J. Konchar, J. Kuminga, P. Larsson, K. Leonard, N. Marshall, B. Mathurin, B. Mbeng, G. McGlothan, D. Melton, G. Niang, M. Nowell, E. Payton, G. Payton, T. Peter, J. Phillips, D. Plowden, N. Richards, A. Reeves, L. Robbins, J. Schakel, B. Simmons, M. Smith, J. Sochan, D. Stockton, J. Tate, D. Terry, A. Thompson, A. Thompson, K. Thompson, M. Thybulle, A. Toohey, O. Tshiebwe, M. Wagner, L. Walker, J. Walsh, T. Watford, A. Watson, P. Watson, B. Williams, J. Wiseman, I. Wong",
-   "detected_at": "2026-09-28 07:31:56",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Update 1.3 (7/18/26): O. Agbaji, B. Beal, J. Bernard, S. Bey, D. Brooks, K. Brooks, B. Brown, K. Bufkin, J. Butler Jr., K. Caldwell-Pope, D. Carter, M. Cisse, I. Crawford, J. Crutcher, J. Davison, D. DeRozan, D. Eubanks, T. Fall, K. George, A. Gill, H. Gray, D. Green, J. Harden, M. Hezonja, H. Highsmith, C. Houstan, H. Ingram, A. Jackson, L. James, J. Johnson, K. Johnson, D. Jones, S. Jones, Y. Kawamura, K. Knox, C. Koloko, J. Konchar, J. Kuminga, P. Larsson, K. Leonard, N. Marshall, B. Mathurin, B. Mbeng, G. McGlothan, D. Melton, G. Niang, M. Nowell, E. Payton, G. Payton, T. Peter, J. Phillips, D. Plowden, N. Richards, A. Reeves, L. Robbins, J. Schakel, B. Simmons, M. Smith, J. Sochan, D. Stockton, J. Tate, D. Terry, A. Thompson, A. Thompson, K. Thompson, M. Thybulle, A. Toohey, O. Tshiebwe, M. Wagner, L. Walker, J. Walsh, T. Watford, A. Watson, P. Watson, B. Williams, J. Wiseman, I. Wong",
-   "detected_at": "2026-09-28 07:31:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Keon Johnson Atlanta Hawks",
-   "detected_at": "2026-09-28 07:31:56",
-   "source": "DOCS",
-   "type": "ADDED"
   }
  ],
  "feeds": {
@@ -9723,8 +9723,8 @@
    "last": "2026-09-30 07:13:19"
   },
   "PLAYERS": {
-   "count": 1318,
-   "last": "2026-09-30 08:53:55"
+   "count": 1323,
+   "last": "2026-09-30 08:55:54"
   },
   "RATINGS": {
    "count": 950,
@@ -9755,6 +9755,6 @@
    "last": "2026-09-30 07:54:14"
   }
  },
- "generated_at": "2026-09-30T08:55:03",
- "total": 22083
+ "generated_at": "2026-09-30T08:56:03",
+ "total": 22088
 }
