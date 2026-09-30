@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Ryan Nembhard  ~ 133796: team -> Free agent",
+   "detected_at": "2026-09-30 16:40:12",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Denver Nuggets"
+  },
+  {
+   "detail": "Ryan Nembhard  ~ 133796: league -> -",
+   "detected_at": "2026-09-30 16:40:12",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "NBA"
+  },
+  {
    "detail": "Kostas Sloukas  ~ 25007: team -> -",
    "detected_at": "2026-09-30 16:33:49",
    "source": "WIKIWATCH",
@@ -9741,18 +9755,6 @@
    "detected_at": "2026-09-28 10:04:56",
    "source": "DOCS",
    "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Minimum Salary Exception. Love of the Game. Physical Exam. Alt. 7(b). Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
-   "detected_at": "2026-09-28 10:04:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 9/23/26",
-   "detected_at": "2026-09-28 10:04:56",
-   "source": "DOCS",
-   "type": "ADDED"
   }
  ],
  "feeds": {
@@ -9793,10 +9795,10 @@
    "last": "2026-09-30 16:33:38"
   },
   "WIKIWATCH": {
-   "count": 311,
-   "last": "2026-09-30 16:33:49"
+   "count": 313,
+   "last": "2026-09-30 16:40:12"
   }
  },
- "generated_at": "2026-09-30T16:40:03",
- "total": 22340
+ "generated_at": "2026-09-30T16:41:02",
+ "total": 22342
 }
