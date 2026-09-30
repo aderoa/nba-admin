@@ -1,6 +1,48 @@
 {
  "events": [
   {
+   "detail": "Eurocup Hapoel Bank Yahav Jerusalem 94, Rostock Seawolves 73",
+   "detected_at": "2026-09-29 22:37:55",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-29/Rostock-Seawolves-at-Hapoel-Bank-Yahav-Jerusalem/526673"
+  },
+  {
+   "detail": "Eurocup ~ RETURN Matthes Tilsen → Rostock Seawolves (from Seawolves Academy)",
+   "detected_at": "2026-09-29 22:37:54",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "Eurocup Tofas SC 82, BV Chemnitz 99 69",
+   "detected_at": "2026-09-29 22:37:52",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-29/BV-Chemnitz-99-at-Tofas-SC/526661"
+  },
+  {
+   "detail": "Eurocup + Tre'Shawn Thurman → Tofas SC",
+   "detected_at": "2026-09-29 22:37:51",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Eurocup Dolomiti Energia Trento 76, Neptunas 73",
+   "detected_at": "2026-09-29 22:37:49",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-29/Dolomiti-Energia-Trento-at-Neptunas/526660"
+  },
+  {
+   "detail": "Lachlan Olbrich  ~ number: 18 -> 47",
+   "detected_at": "2026-09-29 22:37:39",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Lachlan_Olbrich"
+  },
+  {
    "detail": "WNBA New York Liberty 87, Minnesota Lynx 71",
    "detected_at": "2026-09-29 21:37:19",
    "source": "SCORES",
@@ -9569,48 +9611,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Italian Lega Basket Serie A + Langston Galloway → Pallacanestro Trieste 2004",
-   "detected_at": "2026-09-28 07:02:16",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Italian Lega Basket Serie A + Sean McDermott → Pallacanestro Trieste 2004",
-   "detected_at": "2026-09-28 07:02:16",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Italian Lega Basket Serie A + Francesco Candussi → Pallacanestro Trieste 2004",
-   "detected_at": "2026-09-28 07:02:16",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Italian Lega Basket Serie A + Colbey Ross → Pallacanestro Trieste 2004",
-   "detected_at": "2026-09-28 07:02:16",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Italian Lega Basket Serie A + Lajae Jones → Pallacanestro Trieste 2004",
-   "detected_at": "2026-09-28 07:02:16",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Italian Lega Basket Serie A + Davide Paiano → Pallacanestro Trieste 2004",
-   "detected_at": "2026-09-28 07:02:16",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -9631,12 +9631,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 5340,
-   "last": "2026-09-29 19:34:19"
+   "count": 5342,
+   "last": "2026-09-29 22:37:54"
   },
   "SCORES": {
-   "count": 996,
-   "last": "2026-09-29 21:37:19"
+   "count": 999,
+   "last": "2026-09-29 22:37:55"
   },
   "SHEETS": {
    "count": 4451,
@@ -9647,14 +9647,14 @@
    "last": "2026-09-29 10:05:05"
   },
   "WIKI": {
-   "count": 4599,
-   "last": "2026-09-29 20:13:37"
+   "count": 4600,
+   "last": "2026-09-29 22:37:39"
   },
   "WIKIWATCH": {
    "count": 288,
    "last": "2026-09-29 19:35:54"
   }
  },
- "generated_at": "2026-09-29T22:29:02",
- "total": 21942
+ "generated_at": "2026-09-29T22:38:00",
+ "total": 21948
 }
