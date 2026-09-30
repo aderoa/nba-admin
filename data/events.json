@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "SAC  + ADDED  Lakhin, Viktor",
+   "detected_at": "2026-09-30 12:28:58",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
    "detail": "SAC  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 220981452.3 -> 222339215.3, col9: 484935482.6 -> 486293245.6",
    "detected_at": "2026-09-30 12:27:58",
    "source": "SHEETS",
@@ -9719,12 +9725,6 @@
    "detected_at": "2026-09-28 08:54:54",
    "source": "PLAYERS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Bryce Hopkins  weight: - -> 225",
-   "detected_at": "2026-09-28 08:54:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -9753,8 +9753,8 @@
    "last": "2026-09-30 11:41:23"
   },
   "SHEETS": {
-   "count": 4458,
-   "last": "2026-09-30 12:27:58"
+   "count": 4459,
+   "last": "2026-09-30 12:28:58"
   },
   "TRANSACTIONS": {
    "count": 457,
@@ -9769,6 +9769,6 @@
    "last": "2026-09-30 10:48:49"
   }
  },
- "generated_at": "2026-09-30T12:28:02",
- "total": 22171
+ "generated_at": "2026-09-30T12:29:01",
+ "total": 22172
 }
