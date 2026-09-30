@@ -1,6 +1,54 @@
 {
  "events": [
   {
+   "detail": "MIA  + ADDED  Quinones, Lester",
+   "detected_at": "2026-09-30 12:34:58",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "MIA  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 224428661 -> 226878082, col9: 570025941 -> 572475362",
+   "detected_at": "2026-09-30 12:34:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MIA  CHANGED Players Under Contract  -  col3: 207547019 -> 209996440",
+   "detected_at": "2026-09-30 12:34:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MIA  CHANGED Full Season Contracts  -  col3: 207547019 -> 209996440",
+   "detected_at": "2026-09-30 12:34:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MIA  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 15 -> 16",
+   "detected_at": "2026-09-30 12:34:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col17: 7119019 -> 9568440",
+   "detected_at": "2026-09-30 12:34:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 2nd Incremental Tax Bracket  -  col17: 1792523.75 -> 4854300",
+   "detected_at": "2026-09-30 12:34:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col17: 7477523.75 -> 10539300",
+   "detected_at": "2026-09-30 12:34:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "SAC  + ADDED  East, Sean",
    "detected_at": "2026-09-30 12:33:58",
    "source": "SHEETS",
@@ -9667,62 +9715,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Danish Basketligaen + Frederik Lauritzen → EBAA Bears Academy",
-   "detected_at": "2026-09-28 09:06:16",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Danish Basketligaen + Tobias Vester → EBAA Bears Academy",
-   "detected_at": "2026-09-28 09:06:16",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Danish Basketligaen + Johannes Theilgaard Botfeldt → EBAA Bears Academy",
-   "detected_at": "2026-09-28 09:06:16",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Danish Basketligaen + Jeppe Pallesen → EBAA Bears Academy",
-   "detected_at": "2026-09-28 09:06:16",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Danish Basketligaen + Aske Saugstrup → EBAA Bears Academy",
-   "detected_at": "2026-09-28 09:06:16",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Danish Basketligaen Bakken Bears 108, EBAA Bears Academy 84",
-   "detected_at": "2026-09-28 09:06:16",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-27/Bakken-Bears-at-EBAA-Bears-Academy/527319"
-  },
-  {
-   "detail": "Danish Basketligaen Team FOG Naestved 101, Horsens IC 73",
-   "detected_at": "2026-09-28 09:06:13",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-27/Team-FOG-Naestved-at-Horsens-IC/527320"
-  },
-  {
-   "detail": "Danish Basketligaen Randers Cimbria 89, Vaerlose BBK 85",
-   "detected_at": "2026-09-28 09:06:10",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-27/Randers-Cimbria-at-Vaerlose-BBK/527321"
   }
  ],
  "feeds": {
@@ -9751,8 +9743,8 @@
    "last": "2026-09-30 11:41:23"
   },
   "SHEETS": {
-   "count": 4473,
-   "last": "2026-09-30 12:33:58"
+   "count": 4481,
+   "last": "2026-09-30 12:34:58"
   },
   "TRANSACTIONS": {
    "count": 457,
@@ -9767,6 +9759,6 @@
    "last": "2026-09-30 10:48:49"
   }
  },
- "generated_at": "2026-09-30T12:34:01",
- "total": 22198
+ "generated_at": "2026-09-30T12:35:01",
+ "total": 22206
 }
