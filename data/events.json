@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "2026-09-27  Los Angeles Lakers waived guard Chase Ross.",
+   "detected_at": "2026-10-01 12:59:55",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
    "detail": "JaVale McGee  ~ team: Free agent -> Shanghai Sharks",
    "detected_at": "2026-10-01 12:59:37",
    "source": "WIKI",
@@ -9883,13 +9889,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Nemanja_Nenadi%C4%87"
-  },
-  {
-   "detail": "Nemanja Nenadić  ~ number: 20 -> 28",
-   "detected_at": "2026-09-28 23:51:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Nemanja_Nenadi%C4%87"
   }
  ],
  "feeds": {
@@ -9922,8 +9921,8 @@
    "last": "2026-09-30 12:51:58"
   },
   "TRANSACTIONS": {
-   "count": 465,
-   "last": "2026-10-01 12:36:55"
+   "count": 466,
+   "last": "2026-10-01 12:59:55"
   },
   "WIKI": {
    "count": 4754,
@@ -9934,6 +9933,6 @@
    "last": "2026-10-01 10:22:13"
   }
  },
- "generated_at": "2026-10-01T12:59:38",
- "total": 22767
+ "generated_at": "2026-10-01T13:00:03",
+ "total": 22768
 }
