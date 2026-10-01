@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Matic Rebec  ~ number: - -> 00",
+   "detected_at": "2026-10-01 12:13:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Matic_Rebec"
+  },
+  {
+   "detail": "Matic Rebec  ~ draft_year: - -> 2017",
+   "detected_at": "2026-10-01 12:13:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Matic_Rebec"
+  },
+  {
    "detail": "RJ Nembhard  ~ team: Free agent -> BCM Gravelines-Dunkerque",
    "detected_at": "2026-10-01 11:27:36",
    "source": "WIKI",
@@ -9877,19 +9891,6 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Kevin_McCullar_Jr."
-  },
-  {
-   "detail": "Kevin McCullar Jr.  ~ CAREER  + 2024–present →Westchester Knicks",
-   "detected_at": "2026-09-28 20:22:39",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Kevin_McCullar_Jr."
-  },
-  {
-   "detail": "~ CHANGED Isaac McKneely  position: - -> G",
-   "detected_at": "2026-09-28 18:57:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -9926,14 +9927,14 @@
    "last": "2026-09-30 15:09:55"
   },
   "WIKI": {
-   "count": 4746,
-   "last": "2026-10-01 11:27:36"
+   "count": 4748,
+   "last": "2026-10-01 12:13:37"
   },
   "WIKIWATCH": {
    "count": 315,
    "last": "2026-10-01 10:22:13"
   }
  },
- "generated_at": "2026-10-01T12:05:01",
- "total": 22758
+ "generated_at": "2026-10-01T12:13:38",
+ "total": 22760
 }
