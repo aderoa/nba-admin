@@ -1,6 +1,30 @@
 {
  "events": [
   {
+   "detail": "- REMOVED Rafael Castro (HOU)",
+   "detected_at": "2026-10-01 14:59:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Jaelen House (UTA)",
+   "detected_at": "2026-10-01 14:59:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Peter Suder (CHI)",
+   "detected_at": "2026-10-01 14:59:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Marquel Sutton (CHI)",
+   "detected_at": "2026-10-01 14:59:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
    "detail": "Charlie Brown Jr. (basketball)  ~ team: Aquila Basket Trento -> Dolomiti Energia Trento",
    "detected_at": "2026-10-01 14:55:37",
    "source": "WIKI",
@@ -9855,34 +9879,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Argentinian Liga A + Lucas Andujar → Lanus",
-   "detected_at": "2026-09-29 00:43:19",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Argentinian Liga A + Rob Whitfield → Lanus",
-   "detected_at": "2026-09-29 00:43:19",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Argentinian Liga A + Joaquin Celiz → Lanus",
-   "detected_at": "2026-09-29 00:43:19",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Argentinian Liga A + Edgar Merchant → Lanus",
-   "detected_at": "2026-09-29 00:43:19",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -9895,8 +9891,8 @@
    "last": "2026-10-01 07:01:01"
   },
   "PLAYERS": {
-   "count": 1340,
-   "last": "2026-10-01 14:35:54"
+   "count": 1344,
+   "last": "2026-10-01 14:59:54"
   },
   "RATINGS": {
    "count": 950,
@@ -9927,6 +9923,6 @@
    "last": "2026-10-01 10:22:13"
   }
  },
- "generated_at": "2026-10-01T14:59:01",
- "total": 22776
+ "generated_at": "2026-10-01T15:00:00",
+ "total": 22780
 }
