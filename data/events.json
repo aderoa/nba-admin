@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Reggie Perry (basketball)  ~ number: - -> 11",
+   "detected_at": "2026-09-30 18:28:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Reggie_Perry_(basketball)"
+  },
+  {
+   "detail": "Adin Vrabac  ~ number: - -> 7",
+   "detected_at": "2026-09-30 18:28:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Adin_Vrabac"
+  },
+  {
    "detail": "Ryan Nembhard  ~ 133796: team -> Free agent",
    "detected_at": "2026-09-30 16:40:12",
    "source": "WIKIWATCH",
@@ -9743,18 +9757,6 @@
    "detected_at": "2026-09-28 10:04:56",
    "source": "DOCS",
    "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Rashaun Agee Portland Trail Blazers",
-   "detected_at": "2026-09-28 10:04:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  26-27 $1,357,763",
-   "detected_at": "2026-09-28 10:04:56",
-   "source": "DOCS",
-   "type": "ADDED"
   }
  ],
  "feeds": {
@@ -9791,14 +9793,14 @@
    "last": "2026-09-30 15:09:55"
   },
   "WIKI": {
-   "count": 4684,
-   "last": "2026-09-30 16:33:38"
+   "count": 4686,
+   "last": "2026-09-30 18:28:37"
   },
   "WIKIWATCH": {
    "count": 313,
    "last": "2026-09-30 16:40:12"
   }
  },
- "generated_at": "2026-09-30T18:20:01",
- "total": 22342
+ "generated_at": "2026-09-30T18:28:38",
+ "total": 22344
 }
