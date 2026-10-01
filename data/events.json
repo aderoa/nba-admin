@@ -1,6 +1,69 @@
 {
  "events": [
   {
+   "detail": "Czech NBL + Vojtech Sykora → Sokol Srsni Pisek",
+   "detected_at": "2026-10-01 07:36:49",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Czech NBL BK JIP Pardubice 92, Sokol Srsni Pisek 82",
+   "detected_at": "2026-10-01 07:36:49",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-30/BK-JIP-Pardubice-at-Sokol-Srsni-Pisek/527350"
+  },
+  {
+   "detail": "Czech NBL Nova Hut Ostrava 89, BK GAPA Hradec Kralove 82",
+   "detected_at": "2026-10-01 07:36:47",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-30/BK-GAPA-Hradec-Kralove-at-Nova-Hut-Ostrava/527351"
+  },
+  {
+   "detail": "Czech NBL + Radovan Mrazek → SK Slavia Praha ERA NBK",
+   "detected_at": "2026-10-01 07:36:44",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Czech NBL SK Slavia Praha ERA NBK 88, Olomoucko Prostejov 62",
+   "detected_at": "2026-10-01 07:36:44",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-30/Olomoucko-Prostejov-at-SK-Slavia-Praha-ERA-NBK/527352"
+  },
+  {
+   "detail": "Czech NBL + Matej Rychtecky → Basket Brno",
+   "detected_at": "2026-10-01 07:36:41",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Czech NBL BK Decin 86, Basket Brno 78",
+   "detected_at": "2026-10-01 07:36:41",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-30/Basket-Brno-at-BK-Decin/527353"
+  },
+  {
+   "detail": "Czech NBL + Michael Christmas → USK Praha",
+   "detected_at": "2026-10-01 07:36:38",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Czech NBL USK Praha 84, BK Loko Interconex Plzen 81",
+   "detected_at": "2026-10-01 07:36:38",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-30/USK-Praha-at-BK-Loko-Interconex-Plzen/527355"
+  },
+  {
    "detail": "2026-09-30  Traded: Eric Ayala (Blue)",
    "detected_at": "2026-10-01 07:01:01",
    "source": "GLEAGUE",
@@ -9817,69 +9880,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Israeli BSL Maccabi FOX Tel Aviv 109, Elitzur Kiryat Ata 61",
-   "detected_at": "2026-09-28 17:18:59",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-27/Elitzur-Kiryat-Ata-at-Maccabi-FOX-Tel-Aviv/542874"
-  },
-  {
-   "detail": "German Pro A + Collin Metcalf → BBC Bayreuth",
-   "detected_at": "2026-09-28 17:18:56",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Pro A + Joshua Bonga → BBC Bayreuth",
-   "detected_at": "2026-09-28 17:18:56",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Pro A + Taje' Kelly → BBC Bayreuth",
-   "detected_at": "2026-09-28 17:18:56",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Pro A + Glen Abram → BBC Bayreuth",
-   "detected_at": "2026-09-28 17:18:56",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Pro A + Kevin Wohlrath → BBC Bayreuth",
-   "detected_at": "2026-09-28 17:18:56",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Pro A ~ MOVED Simon Hildebrandt → BBC Bayreuth (from Winnipeg Sea Bears)",
-   "detected_at": "2026-09-28 17:18:56",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
-  },
-  {
-   "detail": "German Pro A + Chris Wurmseher → BBC Bayreuth",
-   "detected_at": "2026-09-28 17:18:56",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Pro A + Emanuel Prospere II → BBC Bayreuth",
-   "detected_at": "2026-09-28 17:18:56",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -9900,12 +9900,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 5716,
-   "last": "2026-10-01 06:33:10"
+   "count": 5720,
+   "last": "2026-10-01 07:36:49"
   },
   "SCORES": {
-   "count": 1070,
-   "last": "2026-10-01 06:33:10"
+   "count": 1075,
+   "last": "2026-10-01 07:36:49"
   },
   "SHEETS": {
    "count": 4512,
@@ -9924,6 +9924,6 @@
    "last": "2026-09-30 16:40:12"
   }
  },
- "generated_at": "2026-10-01T07:28:05",
- "total": 22736
+ "generated_at": "2026-10-01T07:36:54",
+ "total": 22745
 }
