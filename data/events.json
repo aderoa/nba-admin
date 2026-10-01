@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "2026-09-26  Memphis Grizzlies waived guard Brendan Hausen.",
+   "detected_at": "2026-10-01 12:36:55",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
    "detail": "Maxime Raynaud  ~ weight_lb: 250 -> 240",
    "detected_at": "2026-10-01 12:36:37",
    "source": "WIKI",
@@ -9884,13 +9890,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Kevin_McCullar_Jr."
-  },
-  {
-   "detail": "Kevin McCullar Jr.  ~ number: - -> 9",
-   "detected_at": "2026-09-28 20:22:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Kevin_McCullar_Jr."
   }
  ],
  "feeds": {
@@ -9923,8 +9922,8 @@
    "last": "2026-09-30 12:51:58"
   },
   "TRANSACTIONS": {
-   "count": 464,
-   "last": "2026-09-30 15:09:55"
+   "count": 465,
+   "last": "2026-10-01 12:36:55"
   },
   "WIKI": {
    "count": 4749,
@@ -9935,6 +9934,6 @@
    "last": "2026-10-01 10:22:13"
   }
  },
- "generated_at": "2026-10-01T12:36:38",
- "total": 22761
+ "generated_at": "2026-10-01T12:37:02",
+ "total": 22762
 }
