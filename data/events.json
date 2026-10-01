@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Czech NBL + Krystof Kavan → BK Opava",
+   "detected_at": "2026-10-01 06:33:10",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Czech NBL SLUNETA Usti nad Labem 86, BK Opava 76",
+   "detected_at": "2026-10-01 06:33:10",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-30/BK-Opava-at-SLUNETA-Usti-nad-Labem/527354"
+  },
+  {
    "detail": "Michael Foster Jr.  ~ team: Scarborough Shooting Stars -> Free agent",
    "detected_at": "2026-10-01 06:27:37",
    "source": "WIKI",
@@ -9868,20 +9882,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "German Pro A ~ MOVED Mason Kraus → EPG GUARDIANS Koblenz (from Winnipeg Sea Bears)",
-   "detected_at": "2026-09-28 17:18:56",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
-  },
-  {
-   "detail": "German Pro A + Alexander Moeller → EPG GUARDIANS Koblenz",
-   "detected_at": "2026-09-28 17:18:56",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -9902,12 +9902,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 5715,
-   "last": "2026-10-01 05:32:11"
+   "count": 5716,
+   "last": "2026-10-01 06:33:10"
   },
   "SCORES": {
-   "count": 1069,
-   "last": "2026-10-01 05:32:12"
+   "count": 1070,
+   "last": "2026-10-01 06:33:10"
   },
   "SHEETS": {
    "count": 4512,
@@ -9926,6 +9926,6 @@
    "last": "2026-09-30 16:40:12"
   }
  },
- "generated_at": "2026-10-01T06:32:01",
- "total": 22732
+ "generated_at": "2026-10-01T06:33:16",
+ "total": 22734
 }
