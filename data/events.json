@@ -1,6 +1,748 @@
 {
  "events": [
   {
+   "detail": "WNBA Dallas Wings 108, Golden State Valkyries 100",
+   "detected_at": "2026-09-30 22:20:14",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-09-30/Golden-State-at-Dallas/161655"
+  },
+  {
+   "detail": "WNBA Atlanta Dream 93, Washington Mystics 75",
+   "detected_at": "2026-09-30 22:20:12",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-09-30/Atlanta-at-Washington/161656"
+  },
+  {
+   "detail": "Israel BSL Winner Cup + Idan Zalmanson → Maccabi Rishon Lezion",
+   "detected_at": "2026-09-30 22:20:05",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Israel BSL Winner Cup Hapoel HaEmek 80, Maccabi Rishon Lezion 59",
+   "detected_at": "2026-09-30 22:20:05",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-29/Maccabi-Rishon-Lezion-at-Hapoel-HaEmek/542875"
+  },
+  {
+   "detail": "Swiss LNA + Dylan Kalecyezi Schommer → Zurich",
+   "detected_at": "2026-09-30 22:20:02",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA + Nicolas Hulliger → Zurich",
+   "detected_at": "2026-09-30 22:20:02",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA + Andrea Mausli → Zurich",
+   "detected_at": "2026-09-30 22:20:02",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA + Malik Bajo → Zurich",
+   "detected_at": "2026-09-30 22:20:02",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA + Nate West → Zurich",
+   "detected_at": "2026-09-30 22:20:02",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA + Henri Chokote → Zurich",
+   "detected_at": "2026-09-30 22:20:02",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA + Mihajlo Mitrovic → Zurich",
+   "detected_at": "2026-09-30 22:20:02",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA + Savo Vuckovic → Zurich",
+   "detected_at": "2026-09-30 22:20:02",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA + Mila Wachter → Zurich",
+   "detected_at": "2026-09-30 22:20:02",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA + Marvin Aegerter → Zurich",
+   "detected_at": "2026-09-30 22:20:02",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA + Naim Bajo → Zurich",
+   "detected_at": "2026-09-30 22:20:02",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA + Noe Perino → Zurich",
+   "detected_at": "2026-09-30 22:20:02",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA Les Lions de Geneve 109, Zurich 46",
+   "detected_at": "2026-09-30 22:20:02",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-29/Les-Lions-de-Geneve-at-Zurich/526728"
+  },
+  {
+   "detail": "Swedish Basketligan + Andreas Person → Hogsbo",
+   "detected_at": "2026-09-30 22:19:59",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swedish Basketligan + Charles Barton → Hogsbo",
+   "detected_at": "2026-09-30 22:19:59",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swedish Basketligan + Jesper Hallberg → Hogsbo",
+   "detected_at": "2026-09-30 22:19:59",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swedish Basketligan + Tomas Bjarkason → Hogsbo",
+   "detected_at": "2026-09-30 22:19:59",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swedish Basketligan + Stan Okoye → Hogsbo",
+   "detected_at": "2026-09-30 22:19:59",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swedish Basketligan + John Karras → Hogsbo",
+   "detected_at": "2026-09-30 22:19:59",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swedish Basketligan + Isaiah Hill → Hogsbo",
+   "detected_at": "2026-09-30 22:19:59",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swedish Basketligan + Oliver Cupan → Hogsbo",
+   "detected_at": "2026-09-30 22:19:59",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swedish Basketligan + Ephraim Bahati → Hogsbo",
+   "detected_at": "2026-09-30 22:19:59",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swedish Basketligan + Anes Zekovic → Hogsbo",
+   "detected_at": "2026-09-30 22:19:59",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swedish Basketligan Hogsbo 96, Boras Basket 90",
+   "detected_at": "2026-09-30 22:19:59",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-29/Boras-Basket-at-Hogsbo/524262"
+  },
+  {
+   "detail": "French NM1 CEP Lorient 70, Aurore de Vitre 63",
+   "detected_at": "2026-09-30 22:19:56",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-29/Aurore-de-Vitre-at-CEP-Lorient/535119"
+  },
+  {
+   "detail": "Finnish Korisliiga Joensuun Kataja 102, Helsinki Seagulls 83",
+   "detected_at": "2026-09-30 22:19:54",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-29/Helsinki-Seagulls-at-Joensuun-Kataja/532399"
+  },
+  {
+   "detail": "Finnish Korisliiga + Lassi Nikkarinen → Helsinki Seagulls",
+   "detected_at": "2026-09-30 22:19:53",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Finnish Korisliiga + Tyrese Williams → Helsinki Seagulls",
+   "detected_at": "2026-09-30 22:19:53",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Finnish Korisliiga ~ MOVED Keonte Kennedy → Helsinki Seagulls (from Niagara River Lions)",
+   "detected_at": "2026-09-30 22:19:53",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Finnish Korisliiga + Victor Iwuakor → Helsinki Seagulls",
+   "detected_at": "2026-09-30 22:19:53",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Finnish Korisliiga ~ MOVED Rene Rougeau → Helsinki Seagulls (from Canterbury Rams)",
+   "detected_at": "2026-09-30 22:19:53",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Finnish Korisliiga + Remu Raitanen → Helsinki Seagulls",
+   "detected_at": "2026-09-30 22:19:53",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Finnish Korisliiga + Vili Vesterinen → Helsinki Seagulls",
+   "detected_at": "2026-09-30 22:19:53",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Finnish Korisliiga + Lenni Hervola → Helsinki Seagulls",
+   "detected_at": "2026-09-30 22:19:53",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Finnish Korisliiga + Samatar Abokar → Helsinki Seagulls",
+   "detected_at": "2026-09-30 22:19:53",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Finnish Korisliiga + Timi Puittinen → Helsinki Seagulls",
+   "detected_at": "2026-09-30 22:19:53",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Finnish Korisliiga + Stevie Strong → Joensuun Kataja",
+   "detected_at": "2026-09-30 22:19:53",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Finnish Korisliiga + Josiah Harris → Joensuun Kataja",
+   "detected_at": "2026-09-30 22:19:53",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Finnish Korisliiga + Topias Palmi → Joensuun Kataja",
+   "detected_at": "2026-09-30 22:19:53",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Finnish Korisliiga + Richie Springs → Joensuun Kataja",
+   "detected_at": "2026-09-30 22:19:53",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Finnish Korisliiga + Joonas Timonen → Joensuun Kataja",
+   "detected_at": "2026-09-30 22:19:53",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Finnish Korisliiga + Teemu Knihtinen → Joensuun Kataja",
+   "detected_at": "2026-09-30 22:19:53",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Finnish Korisliiga + Thomas Ronnholm → Joensuun Kataja",
+   "detected_at": "2026-09-30 22:19:53",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Finnish Korisliiga + Jalen Lake → Joensuun Kataja",
+   "detected_at": "2026-09-30 22:19:53",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Finnish Korisliiga + Aatu Aropelto → Joensuun Kataja",
+   "detected_at": "2026-09-30 22:19:53",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Finnish Korisliiga + Valtteri Pokela → Joensuun Kataja",
+   "detected_at": "2026-09-30 22:19:53",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Finnish Korisliiga + Teemu Suokas → Joensuun Kataja",
+   "detected_at": "2026-09-30 22:19:53",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA + Marko Aleksic → Starwings Basket Regio Basel",
+   "detected_at": "2026-09-30 22:19:50",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA + Zachary Biku → Starwings Basket Regio Basel",
+   "detected_at": "2026-09-30 22:19:50",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA + Cameron Clark → Starwings Basket Regio Basel",
+   "detected_at": "2026-09-30 22:19:50",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA + Jaylen McManus → Starwings Basket Regio Basel",
+   "detected_at": "2026-09-30 22:19:50",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA + Matteo Da Silva → Starwings Basket Regio Basel",
+   "detected_at": "2026-09-30 22:19:50",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA + Jaron Kibrom Gaim → Starwings Basket Regio Basel",
+   "detected_at": "2026-09-30 22:19:50",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA + Makil Okoyeze → Starwings Basket Regio Basel",
+   "detected_at": "2026-09-30 22:19:50",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA + Dennis Fasnacht → Starwings Basket Regio Basel",
+   "detected_at": "2026-09-30 22:19:50",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA + Yohannes Eyob → Starwings Basket Regio Basel",
+   "detected_at": "2026-09-30 22:19:50",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA + Isai Ikenna Heuberger → Starwings Basket Regio Basel",
+   "detected_at": "2026-09-30 22:19:50",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA + Axel Ugurtas → BBC Nyon",
+   "detected_at": "2026-09-30 22:19:50",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA BBC Nyon 95, Starwings Basket Regio Basel 83",
+   "detected_at": "2026-09-30 22:19:50",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-30/Starwings-Basket-Regio-Basel-at-BBC-Nyon/526732"
+  },
+  {
+   "detail": "Swiss LNA + Dequan Morris → BBC Lausanne",
+   "detected_at": "2026-09-30 22:19:47",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA + Brendan Favre → BBC Lausanne",
+   "detected_at": "2026-09-30 22:19:47",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA + Joanis Maquiesse → BBC Lausanne",
+   "detected_at": "2026-09-30 22:19:47",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA + Lukas Keredzin → BBC Lausanne",
+   "detected_at": "2026-09-30 22:19:47",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA + Liam Rietschin → BBC Lausanne",
+   "detected_at": "2026-09-30 22:19:47",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA + Antonio Ballard → BBC Lausanne",
+   "detected_at": "2026-09-30 22:19:47",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA + Gaspard Walther → BBC Lausanne",
+   "detected_at": "2026-09-30 22:19:47",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA + Elijah Dessarzin → BBC Lausanne",
+   "detected_at": "2026-09-30 22:19:47",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA + Pedro Fernandez Santamarta → BBC Lausanne",
+   "detected_at": "2026-09-30 22:19:47",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA + Solo Bailey → BBC Lausanne",
+   "detected_at": "2026-09-30 22:19:47",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA + Kevin Bernardinello → SAM Basket Massagno",
+   "detected_at": "2026-09-30 22:19:47",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA + Andrea Broggi → SAM Basket Massagno",
+   "detected_at": "2026-09-30 22:19:47",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA + Milos Jankovic → SAM Basket Massagno",
+   "detected_at": "2026-09-30 22:19:47",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA + Corey Tripp → SAM Basket Massagno",
+   "detected_at": "2026-09-30 22:19:47",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA + Zarique Nutter → SAM Basket Massagno",
+   "detected_at": "2026-09-30 22:19:47",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA + Edin Karabasic → SAM Basket Massagno",
+   "detected_at": "2026-09-30 22:19:47",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA + Dusan Mladjan → SAM Basket Massagno",
+   "detected_at": "2026-09-30 22:19:47",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA + Ahmed Deme → SAM Basket Massagno",
+   "detected_at": "2026-09-30 22:19:47",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA SAM Basket Massagno 90, BBC Lausanne 84",
+   "detected_at": "2026-09-30 22:19:47",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-30/BBC-Lausanne-at-SAM-Basket-Massagno/526731"
+  },
+  {
+   "detail": "Swiss LNA Union Neuchatel Basket 69, Lugano Tigers 61",
+   "detected_at": "2026-09-30 22:19:45",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-30/Lugano-Tigers-at-Union-Neuchatel-Basket/526730"
+  },
+  {
+   "detail": "Swiss LNA + Jeameril Wilson → Lugano Tigers",
+   "detected_at": "2026-09-30 22:19:44",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA + Simone Togni → Lugano Tigers",
+   "detected_at": "2026-09-30 22:19:44",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA + Daniel Andjelkovic → Lugano Tigers",
+   "detected_at": "2026-09-30 22:19:44",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA + Andre Donnelly → Lugano Tigers",
+   "detected_at": "2026-09-30 22:19:44",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA + Nathan Claerbaut → Lugano Tigers",
+   "detected_at": "2026-09-30 22:19:44",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA + Michele Bernaschina → Lugano Tigers",
+   "detected_at": "2026-09-30 22:19:44",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA + Andrea Bracelli → Lugano Tigers",
+   "detected_at": "2026-09-30 22:19:44",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA + Adrian Montanari → Lugano Tigers",
+   "detected_at": "2026-09-30 22:19:44",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA + Riccardo Picarelli → Lugano Tigers",
+   "detected_at": "2026-09-30 22:19:44",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA + Jonas Argenti → Union Neuchatel Basket",
+   "detected_at": "2026-09-30 22:19:44",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA + Loic Wyttenbach → Union Neuchatel Basket",
+   "detected_at": "2026-09-30 22:19:44",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA + Xzavier Long → BBC Monthey",
+   "detected_at": "2026-09-30 22:19:42",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA + Nilan Rungasamy → BBC Monthey",
+   "detected_at": "2026-09-30 22:19:42",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA + Liban Aadan Nuux → BBC Monthey",
+   "detected_at": "2026-09-30 22:19:42",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA + Anton Mendy → BBC Monthey",
+   "detected_at": "2026-09-30 22:19:42",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA + Enzo Oudart → BBC Monthey",
+   "detected_at": "2026-09-30 22:19:42",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA + Davi Davis → BBC Monthey",
+   "detected_at": "2026-09-30 22:19:42",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA + Abraham Johnson → BBC Monthey",
+   "detected_at": "2026-09-30 22:19:42",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA + Thomas Fritschi → BBC Monthey",
+   "detected_at": "2026-09-30 22:19:42",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA + Cristian Pottier → BBC Monthey",
+   "detected_at": "2026-09-30 22:19:42",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA + Dylan Gomwalk → BBC Monthey",
+   "detected_at": "2026-09-30 22:19:42",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA + Matthieu Tindom → BBC Monthey",
+   "detected_at": "2026-09-30 22:19:42",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA Fribourg Olympic 78, BBC Monthey 73",
+   "detected_at": "2026-09-30 22:19:42",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-30/Fribourg-Olympic-at-BBC-Monthey/526729"
+  },
+  {
    "detail": "Israel BSL Winner Cup Hapoel Unet Holon 87, Hapoel Eilat 85",
    "detected_at": "2026-09-30 21:10:07",
    "source": "SCORES",
@@ -9115,679 +9857,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Lester_Qui%C3%B1ones"
-  },
-  {
-   "detail": "Lester Quiñones  ~ CAREER  + 2025–2026 Osceola Magic",
-   "detected_at": "2026-09-28 15:00:35",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Lester_Qui%C3%B1ones"
-  },
-  {
-   "detail": "Lester Quiñones  ~ CAREER  + 2026–present Sioux Falls Skyforce",
-   "detected_at": "2026-09-28 15:00:35",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Lester_Qui%C3%B1ones"
-  },
-  {
-   "detail": "Ethan Thompson  ~ league: Serbian SuperLeague ABA League EuroLeague -> KLS ABA League EuroLeague",
-   "detected_at": "2026-09-28 15:00:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Ethan_Thompson"
-  },
-  {
-   "detail": "Isaiah Stevens  ~ team: Free agent -> Windy City Bulls",
-   "detected_at": "2026-09-28 15:00:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Isaiah_Stevens"
-  },
-  {
-   "detail": "Isaiah Stevens  ~ league: - -> NBA G League",
-   "detected_at": "2026-09-28 15:00:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Isaiah_Stevens"
-  },
-  {
-   "detail": "Isaiah Stevens  ~ CAREER  + 2026–present Windy City Bulls",
-   "detected_at": "2026-09-28 15:00:35",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Isaiah_Stevens"
-  },
-  {
-   "detail": "Malaki Branham  ~ number: - -> 12",
-   "detected_at": "2026-09-28 15:00:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Malaki_Branham"
-  },
-  {
-   "detail": "Tonye Jekiri  ~ league: Serbian SuperLeague ABA League EuroLeague -> KLS ABA League EuroLeague",
-   "detected_at": "2026-09-28 15:00:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Tonye_Jekiri"
-  },
-  {
-   "detail": "Tonye Jekiri  ~ CAREER  + 2023–2026 CSKA Moscow",
-   "detected_at": "2026-09-28 15:00:35",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Tonye_Jekiri"
-  },
-  {
-   "detail": "Kevarrius Hayes  ~ league: Serbian SuperLeague ABA League EuroLeague -> KLS ABA League EuroLeague",
-   "detected_at": "2026-09-28 15:00:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Kevarrius_Hayes"
-  },
-  {
-   "detail": "Kyle Allman Jr.  ~ league: Serbian SuperLeague ABA League EuroLeague -> KLS ABA League EuroLeague",
-   "detected_at": "2026-09-28 15:00:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Kyle_Allman_Jr."
-  },
-  {
-   "detail": "Nikola Tanasković  ~ league: Serbian SuperLeague ABA League EuroLeague -> KLS ABA League EuroLeague",
-   "detected_at": "2026-09-28 15:00:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Nikola_Tanaskovi%C4%87"
-  },
-  {
-   "detail": "Arijan Lakić  ~ league: Serbian SuperLeague ABA League EuroLeague -> KLS ABA League EuroLeague",
-   "detected_at": "2026-09-28 15:00:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Arijan_Laki%C4%87"
-  },
-  {
-   "detail": "Ethan Thompson  ~ 88903: league -> Serbian SuperLeague ABA League EuroLeague",
-   "detected_at": "2026-09-28 14:51:08",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "KLS ABA League EuroLeague"
-  },
-  {
-   "detail": "Rob Dillingham  ~ team: Charlotte Hornets -> Free agent",
-   "detected_at": "2026-09-28 14:37:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Rob_Dillingham"
-  },
-  {
-   "detail": "Rob Dillingham  ~ league: NBA -> -",
-   "detected_at": "2026-09-28 14:37:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Rob_Dillingham"
-  },
-  {
-   "detail": "D'Angelo Russell  ~ 41490: team -> Memphis Grizzlies",
-   "detected_at": "2026-09-28 14:14:55",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "Free agent"
-  },
-  {
-   "detail": "D'Angelo Russell  ~ 41490: league -> NBA",
-   "detected_at": "2026-09-28 14:14:55",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": ""
-  },
-  {
-   "detail": "Rob Dillingham  ~ 162009: team -> Chicago Bulls",
-   "detected_at": "2026-09-28 14:14:55",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "Free agent"
-  },
-  {
-   "detail": "Rob Dillingham  ~ 162009: league -> NBA",
-   "detected_at": "2026-09-28 14:14:55",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": ""
-  },
-  {
-   "detail": "Rob Dillingham  ~ 162009: number -> 7",
-   "detected_at": "2026-09-28 14:14:55",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": ""
-  },
-  {
-   "detail": "Ryan Nembhard  ~ 133796: team -> Atlanta Hawks",
-   "detected_at": "2026-09-28 14:14:55",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "Free agent"
-  },
-  {
-   "detail": "Ryan Nembhard  ~ 133796: league -> NBA",
-   "detected_at": "2026-09-28 14:14:55",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": ""
-  },
-  {
-   "detail": "Ryan Nembhard  ~ 133796: number -> 19",
-   "detected_at": "2026-09-28 14:14:55",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": ""
-  },
-  {
-   "detail": "+ ADDED   Kobe Johnson (ATL)",
-   "detected_at": "2026-09-28 13:56:54",
-   "source": "PLAYERS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "+ ADDED   Carson Cooper (MEM)",
-   "detected_at": "2026-09-28 13:56:54",
-   "source": "PLAYERS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "+ ADDED   Cameron Corhen (ATL)",
-   "detected_at": "2026-09-28 13:56:54",
-   "source": "PLAYERS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "+ ADDED   Viktor Lakhin (SAC)",
-   "detected_at": "2026-09-28 13:56:54",
-   "source": "PLAYERS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "- REMOVED Viktor Lakhin (SAC)",
-   "detected_at": "2026-09-28 13:54:54",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED Cameron Corhen (ATL)",
-   "detected_at": "2026-09-28 13:54:54",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED Kobe Johnson (ATL)",
-   "detected_at": "2026-09-28 13:54:54",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED Carson Cooper (MEM)",
-   "detected_at": "2026-09-28 13:54:54",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "+ ADDED   Carson Cooper (MEM)",
-   "detected_at": "2026-09-28 13:53:54",
-   "source": "PLAYERS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "+ ADDED   Kobe Johnson (ATL)",
-   "detected_at": "2026-09-28 13:53:54",
-   "source": "PLAYERS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "+ ADDED   Viktor Lakhin (SAC)",
-   "detected_at": "2026-09-28 13:53:54",
-   "source": "PLAYERS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "+ ADDED   Cameron Corhen (ATL)",
-   "detected_at": "2026-09-28 13:53:54",
-   "source": "PLAYERS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-09-28  Memphis Grizzlies signed  Carson Cooper to a Two-Way Contract.",
-   "detected_at": "2026-09-28 13:16:55",
-   "source": "TRANSACTIONS",
-   "type": "Signing"
-  },
-  {
-   "detail": "Malik Williams  ~ team: Mets de Guaynabo -> San Antonio Spurs",
-   "detected_at": "2026-09-28 12:19:36",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Malik_Williams"
-  },
-  {
-   "detail": "Malik Williams  ~ league: Baloncesto Superior Nacional -> NBA",
-   "detected_at": "2026-09-28 12:19:36",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Malik_Williams"
-  },
-  {
-   "detail": "Malik Williams  ~ number: 7 -> 35",
-   "detected_at": "2026-09-28 12:19:36",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Malik_Williams"
-  },
-  {
-   "detail": "Malik Williams  ~ CAREER  + 2026 Mets de Guaynabo",
-   "detected_at": "2026-09-28 12:19:36",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Malik_Williams"
-  },
-  {
-   "detail": "Malik Williams  ~ CAREER  + –present San Antonio Spurs",
-   "detected_at": "2026-09-28 12:19:36",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Malik_Williams"
-  },
-  {
-   "detail": "Bez Mbeng  ~ number: - -> 19",
-   "detected_at": "2026-09-28 12:19:36",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Bez_Mbeng"
-  },
-  {
-   "detail": "2026-09-24  Detroit Pistons waived guard Jordan Riley.",
-   "detected_at": "2026-09-28 12:05:55",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
-  },
-  {
-   "detail": "2026-09-22  Detroit Pistons waived guard Drake Allen.",
-   "detected_at": "2026-09-28 11:56:55",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
-  },
-  {
-   "detail": "Donatas Motiejūnas  ~ team: PAOK BC -> PAOK Thessaloniki",
-   "detected_at": "2026-09-28 11:56:36",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Donatas_Motiej%C5%ABnas"
-  },
-  {
-   "detail": "Donatas Motiejūnas  ~ league: Greek Basket league GBL -> Greek Basketball League GBL",
-   "detected_at": "2026-09-28 11:56:36",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Donatas_Motiej%C5%ABnas"
-  },
-  {
-   "detail": "Donatas Motiejūnas  ~ CAREER  + 2026-Present PAOK Thessaloniki",
-   "detected_at": "2026-09-28 11:56:36",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Donatas_Motiej%C5%ABnas"
-  },
-  {
-   "detail": "Taelon Peter  ~ number: - -> 8",
-   "detected_at": "2026-09-28 11:56:36",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Taelon_Peter"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Update 1.3 (7/18/26): O. Agbaji, B. Beal, J. Bernard, S. Bey, D. Brooks, K. Brooks, B. Brown, K. Bufkin, J. Butler Jr., K. Caldwell-Pope, D. Carter, M. Cisse, Y. Collins, I. Crawford, J. Crutcher, J. Cumberland, J. Davison, D. DeRozan, D. Eubanks, T. Fall, K. George, A. Gill, H. Gray, D. Green, J. Harden, M. Hezonja, H. Highsmith, C. Houstan, H. Ingram, A. Jackson, L. James, J. Johnson, K. Johnson, C. Jones D. Jones, S. Jones, Y. Kawamura, K. Knox, C. Koloko, J. Konchar, J. Kuminga, P. Larsson, K. Leonard, N. Marshall, B. Mathurin, B. Mbeng, G. McGlothan, D. Melton, G. Niang, M. Nowell, E. Payton, G. Payton, T. Peter, J. Phillips, D. Plowden, J. Preston, N. Richards, K. Richmond, A. Reeves, L. Robbins, H. Sallis, P. Sandfort, J. Schakel, M. Sears, B. Simmons, M. Smith, J. Sochan, D. Stockton, J. Tate, D. Terry, A. Thompson, A. Thompson, K. Thompson, M. Thybulle, A. Toohey, O. Tshiebwe, M. Wagner, L. Walker, J. Walsh, T. Watford, A. Watson, P. Watson, B. Williams, J. Wiseman, I. Wong",
-   "detected_at": "2026-09-28 11:36:55",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Update 1.3 (7/18/26): O. Agbaji, B. Beal, J. Bernard, S. Bey, D. Brooks, K. Brooks, B. Brown, K. Bufkin, J. Butler Jr., K. Caldwell-Pope, D. Carter, M. Cisse, Y. Collins, I. Crawford, J. Crutcher, J. Cumberland, J. Davison, D. DeRozan, D. Eubanks, T. Fall, K. George, A. Gill, H. Gray, D. Green, J. Harden, M. Hezonja, H. Highsmith, C. Houstan, H. Ingram, A. Jackson, L. James, J. Johnson, K. Johnson, C. Jones D. Jones, S. Jones, Y. Kawamura, K. Knox, C. Koloko, J. Konchar, J. Kuminga, P. Larsson, K. Leonard, K. Lewis, N. Marshall, B. Mathurin, B. Mbeng, G. McGlothan, D. Melton, G. Niang, M. Nowell, E. Payton, G. Payton, T. Peter, J. Phillips, D. Plowden, J. Preston, N. Richards, K. Richmond, A. Reeves, L. Robbins, H. Sallis, P. Sandfort, J. Schakel, M. Sears, B. Simmons, M. Smith, J. Sochan, D. Stockton, J. Tate, D. Terry, A. Thompson, A. Thompson, K. Thompson, M. Thybulle, A. Toohey, O. Tshiebwe, M. Wagner, L. Walker, J. Walsh, T. Watford, A. Watson, P. Watson, B. Williams, J. Wiseman, I. Wong",
-   "detected_at": "2026-09-28 11:36:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Kira Lewis Jr. (WAIVED) Memphis Grizzlies",
-   "detected_at": "2026-09-28 11:36:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  26-27 $2,185,116",
-   "detected_at": "2026-09-28 11:36:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Minimum Salary Exception. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($50,000).",
-   "detected_at": "2026-09-28 11:36:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 9/26/26",
-   "detected_at": "2026-09-28 11:36:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Update 1.3 (7/18/26): O. Agbaji, B. Beal, J. Bernard, S. Bey, D. Brooks, K. Brooks, B. Brown, K. Bufkin, J. Butler Jr., K. Caldwell-Pope, D. Carter, M. Cisse, I. Crawford, J. Crutcher, J. Cumberland, J. Davison, D. DeRozan, D. Eubanks, T. Fall, K. George, A. Gill, H. Gray, D. Green, J. Harden, M. Hezonja, H. Highsmith, C. Houstan, H. Ingram, A. Jackson, L. James, J. Johnson, K. Johnson, C. Jones D. Jones, S. Jones, Y. Kawamura, K. Knox, C. Koloko, J. Konchar, J. Kuminga, P. Larsson, K. Leonard, N. Marshall, B. Mathurin, B. Mbeng, G. McGlothan, D. Melton, G. Niang, M. Nowell, E. Payton, G. Payton, T. Peter, J. Phillips, D. Plowden, J. Preston, N. Richards, K. Richmond, A. Reeves, L. Robbins, H. Sallis, P. Sandfort, J. Schakel, M. Sears, B. Simmons, M. Smith, J. Sochan, D. Stockton, J. Tate, D. Terry, A. Thompson, A. Thompson, K. Thompson, M. Thybulle, A. Toohey, O. Tshiebwe, M. Wagner, L. Walker, J. Walsh, T. Watford, A. Watson, P. Watson, B. Williams, J. Wiseman, I. Wong",
-   "detected_at": "2026-09-28 11:35:56",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Update 1.3 (7/18/26): O. Agbaji, B. Beal, J. Bernard, S. Bey, D. Brooks, K. Brooks, B. Brown, K. Bufkin, J. Butler Jr., K. Caldwell-Pope, D. Carter, M. Cisse, Y. Collins, I. Crawford, J. Crutcher, J. Cumberland, J. Davison, D. DeRozan, D. Eubanks, T. Fall, K. George, A. Gill, H. Gray, D. Green, J. Harden, M. Hezonja, H. Highsmith, C. Houstan, H. Ingram, A. Jackson, L. James, J. Johnson, K. Johnson, C. Jones D. Jones, S. Jones, Y. Kawamura, K. Knox, C. Koloko, J. Konchar, J. Kuminga, P. Larsson, K. Leonard, N. Marshall, B. Mathurin, B. Mbeng, G. McGlothan, D. Melton, G. Niang, M. Nowell, E. Payton, G. Payton, T. Peter, J. Phillips, D. Plowden, J. Preston, N. Richards, K. Richmond, A. Reeves, L. Robbins, H. Sallis, P. Sandfort, J. Schakel, M. Sears, B. Simmons, M. Smith, J. Sochan, D. Stockton, J. Tate, D. Terry, A. Thompson, A. Thompson, K. Thompson, M. Thybulle, A. Toohey, O. Tshiebwe, M. Wagner, L. Walker, J. Walsh, T. Watford, A. Watson, P. Watson, B. Williams, J. Wiseman, I. Wong",
-   "detected_at": "2026-09-28 11:35:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Yuri Collins (WAIVED) Memphis Grizzlies",
-   "detected_at": "2026-09-28 11:35:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  26-27 $2,185,116",
-   "detected_at": "2026-09-28 11:35:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Minimum Salary Exception. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
-   "detected_at": "2026-09-28 11:35:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 9/26/26",
-   "detected_at": "2026-09-28 11:35:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  - REMOVED Update 1.3 (7/18/26): K. Lopez, K. Diop, J. Bradley, O. Agbim, R. Agee, J. Akins, D. Allen, J. Allick, D. Armstrong, M. Armstrong, Z. Austin, W. Baker, A. Baldwin, A. Bandaogo, M. Barnstable, K. Boone, N. Boyd, L. Butler, J. Camden, C. Camper, T. Carroll, D. Dainja, D. Daniels, R. Dixon-Waters, B. Dunning, D. Garcia, C. Grill, J. Hadley, J. Harmon, B. Hausen, D. Higgs, C. Hildreth, M. Iraldi, S. Johnson, K. Jones, N. Jourdain, M. Keita, H. Mallettte, K. Mangas, M. Mascari, R. Mast, I. McKneely, C. McMillian, S. McNeil, I. Milicic, B. Miller, J. Moni, K. Murphy, D. Murray, M. Murrell, J. Nelson, J. Nunn, J. O’Neil, T. Okani, N. Pringle, E. Ralph, K. Reeves, J. Riley, D. Rodman, C. Ross, N. Santos, A. Scott, C. Shumate, D. Smith, J. Stephens, K. Stewart, P. Suder, W. Taylor, S. Thomas, S. Thompson, C. Tilly, T. Townsend, B. Warren, S. Washington, R. Weems, P. Zilinskas",
-   "detected_at": "2026-09-28 11:34:55",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Update 1.3 (7/18/26): K. Lopez, K. Diop, J. Bradley, O. Agbim, R. Agee, J. Akins, D. Allen, J. Allick, D. Armstrong, M. Armstrong, Z. Austin, W. Baker, A. Baldwin, A. Bandaogo, M. Barnstable, K. Boone, N. Boyd, L. Butler, J. Camden, C. Camper, T. Carroll, D. Dainja, D. Daniels, E. Dixon, R. Dixon-Waters, B. Dunning, D. Garcia, C. Grill, J. Hadley, J. Harmon, B. Hausen, D. Higgs, C. Hildreth, M. Iraldi, S. Johnson, K. Jones, N. Jourdain, M. Keita, H. Mallettte, K. Mangas, M. Mascari, R. Mast, I. McKneely, C. McMillian, S. McNeil, I. Milicic, B. Miller, J. Moni, K. Murphy, D. Murray, M. Murrell, J. Nelson, J. Nunn, J. O’Neil, T. Okani, N. Pringle, E. Ralph, K. Reeves, J. Riley, D. Rodman, C. Ross, N. Santos, A. Scott, C. Shumate, D. Smith, J. Stephens, K. Stewart, P. Suder, W. Taylor, S. Thomas, S. Thompson, C. Tilly, T. Townsend, B. Warren, S. Washington, R. Weems, P. Zilinskas",
-   "detected_at": "2026-09-28 11:34:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  - REMOVED Eric Dixo (WAIVED) Memphis Grizzlies",
-   "detected_at": "2026-09-28 11:34:55",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Eric Dixon (WAIVED) Memphis Grizzlies",
-   "detected_at": "2026-09-28 11:34:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  - REMOVED Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
-   "detected_at": "2026-09-28 11:34:55",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  - REMOVED Execution Date: 9/25/26",
-   "detected_at": "2026-09-28 11:34:55",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Minimum Salary Exception. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
-   "detected_at": "2026-09-28 11:34:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 9/26/26",
-   "detected_at": "2026-09-28 11:34:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  - REMOVED Update 1.3 (7/18/26): K. Lopez, K. Diop, J. Bradley, O. Agbim, R. Agee, J. Akins, D. Allen, J. Allick, D. Armstrong, M. Armstrong, Z. Austin, W. Baker, A. Baldwin, A. Bandaogo, M. Barnstable, K. Boone, N. Boyd, L. Butler, J. Camden, C. Camper, T. Carroll, D. Dainja, D. Daniels, R. Dixon-Waters, B. Dunning, D. Garcia, C. Grill, J. Hadley, J. Harmon, D. Higgs, C. Hildreth, M. Iraldi, S. Johnson, K. Jones, N. Jourdain, M. Keita, H. Mallettte, K. Mangas, M. Mascari, R. Mast, I. McKneely, C. McMillian, S. McNeil, I. Milicic, B. Miller, J. Moni, K. Murphy, D. Murray, M. Murrell, J. Nelson, J. Nunn, J. O’Neil, T. Okani, N. Pringle, E. Ralph, K. Reeves, J. Riley, D. Rodman, C. Ross, N. Santos, A. Scott, C. Shumate, D. Smith, J. Stephens, K. Stewart, P. Suder, W. Taylor, S. Thomas, S. Thompson, C. Tilly, T. Townsend, B. Warren, S. Washington, R. Weems, P. Zilinskas",
-   "detected_at": "2026-09-28 11:33:56",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Update 1.3 (7/18/26): K. Lopez, K. Diop, J. Bradley, O. Agbim, R. Agee, J. Akins, D. Allen, J. Allick, D. Armstrong, M. Armstrong, Z. Austin, W. Baker, A. Baldwin, A. Bandaogo, M. Barnstable, K. Boone, N. Boyd, L. Butler, J. Camden, C. Camper, T. Carroll, D. Dainja, D. Daniels, R. Dixon-Waters, B. Dunning, D. Garcia, C. Grill, J. Hadley, J. Harmon, B. Hausen, D. Higgs, C. Hildreth, M. Iraldi, S. Johnson, K. Jones, N. Jourdain, M. Keita, H. Mallettte, K. Mangas, M. Mascari, R. Mast, I. McKneely, C. McMillian, S. McNeil, I. Milicic, B. Miller, J. Moni, K. Murphy, D. Murray, M. Murrell, J. Nelson, J. Nunn, J. O’Neil, T. Okani, N. Pringle, E. Ralph, K. Reeves, J. Riley, D. Rodman, C. Ross, N. Santos, A. Scott, C. Shumate, D. Smith, J. Stephens, K. Stewart, P. Suder, W. Taylor, S. Thomas, S. Thompson, C. Tilly, T. Townsend, B. Warren, S. Washington, R. Weems, P. Zilinskas",
-   "detected_at": "2026-09-28 11:33:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Eric Dixo (WAIVED) Memphis Grizzlies",
-   "detected_at": "2026-09-28 11:33:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  26-27 $1,357,763",
-   "detected_at": "2026-09-28 11:33:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
-   "detected_at": "2026-09-28 11:33:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 9/25/26",
-   "detected_at": "2026-09-28 11:33:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Brendan Hausen (WAIVED) Memphis Grizzlies",
-   "detected_at": "2026-09-28 11:33:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  26-27 $1,357,763",
-   "detected_at": "2026-09-28 11:33:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
-   "detected_at": "2026-09-28 11:33:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 9/25/26",
-   "detected_at": "2026-09-28 11:33:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "Donatas Motiejūnas  ~ team: PAOK -> PAOK BC",
-   "detected_at": "2026-09-28 11:33:36",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Donatas_Motiej%C5%ABnas"
-  },
-  {
-   "detail": "Donatas Motiejūnas  ~ league: - -> Greek Basket league GBL",
-   "detected_at": "2026-09-28 11:33:36",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Donatas_Motiej%C5%ABnas"
-  },
-  {
-   "detail": "Bandja Sy  ~ team: Partizan -> Partizan Belgrade",
-   "detected_at": "2026-09-28 11:33:36",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Bandja_Sy"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Update 1.3 (7/18/26): O. Agbaji, B. Beal, J. Bernard, S. Bey, D. Brooks, K. Brooks, B. Brown, K. Bufkin, J. Butler Jr., K. Caldwell-Pope, D. Carter, M. Cisse, I. Crawford, J. Crutcher, J. Cumberland, J. Davison, D. DeRozan, D. Eubanks, T. Fall, K. George, A. Gill, H. Gray, D. Green, J. Harden, M. Hezonja, H. Highsmith, C. Houstan, H. Ingram, A. Jackson, L. James, J. Johnson, K. Johnson, C. Jones D. Jones, S. Jones, Y. Kawamura, K. Knox, C. Koloko, J. Konchar, J. Kuminga, P. Larsson, K. Leonard, N. Marshall, B. Mathurin, B. Mbeng, G. McGlothan, D. Melton, G. Niang, M. Nowell, E. Payton, G. Payton, T. Peter, J. Phillips, D. Plowden, J. Preston, N. Richards, K. Richmond, A. Reeves, L. Robbins, P. Sandfort, J. Schakel, M. Sears, B. Simmons, M. Smith, J. Sochan, D. Stockton, J. Tate, D. Terry, A. Thompson, A. Thompson, K. Thompson, M. Thybulle, A. Toohey, O. Tshiebwe, M. Wagner, L. Walker, J. Walsh, T. Watford, A. Watson, P. Watson, B. Williams, J. Wiseman, I. Wong",
-   "detected_at": "2026-09-28 11:22:55",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Update 1.3 (7/18/26): O. Agbaji, B. Beal, J. Bernard, S. Bey, D. Brooks, K. Brooks, B. Brown, K. Bufkin, J. Butler Jr., K. Caldwell-Pope, D. Carter, M. Cisse, I. Crawford, J. Crutcher, J. Cumberland, J. Davison, D. DeRozan, D. Eubanks, T. Fall, K. George, A. Gill, H. Gray, D. Green, J. Harden, M. Hezonja, H. Highsmith, C. Houstan, H. Ingram, A. Jackson, L. James, J. Johnson, K. Johnson, C. Jones D. Jones, S. Jones, Y. Kawamura, K. Knox, C. Koloko, J. Konchar, J. Kuminga, P. Larsson, K. Leonard, N. Marshall, B. Mathurin, B. Mbeng, G. McGlothan, D. Melton, G. Niang, M. Nowell, E. Payton, G. Payton, T. Peter, J. Phillips, D. Plowden, J. Preston, N. Richards, K. Richmond, A. Reeves, L. Robbins, H. Sallis, P. Sandfort, J. Schakel, M. Sears, B. Simmons, M. Smith, J. Sochan, D. Stockton, J. Tate, D. Terry, A. Thompson, A. Thompson, K. Thompson, M. Thybulle, A. Toohey, O. Tshiebwe, M. Wagner, L. Walker, J. Walsh, T. Watford, A. Watson, P. Watson, B. Williams, J. Wiseman, I. Wong",
-   "detected_at": "2026-09-28 11:22:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Update 1.3 (7/18/26): O. Agbaji, B. Beal, J. Bernard, S. Bey, D. Brooks, K. Brooks, B. Brown, K. Bufkin, J. Butler Jr., K. Caldwell-Pope, D. Carter, M. Cisse, I. Crawford, J. Crutcher, J. Cumberland, J. Davison, D. DeRozan, D. Eubanks, T. Fall, K. George, A. Gill, H. Gray, D. Green, J. Harden, M. Hezonja, H. Highsmith, C. Houstan, H. Ingram, A. Jackson, L. James, J. Johnson, K. Johnson, C. Jones D. Jones, S. Jones, Y. Kawamura, K. Knox, C. Koloko, J. Konchar, J. Kuminga, P. Larsson, K. Leonard, N. Marshall, B. Mathurin, B. Mbeng, G. McGlothan, D. Melton, G. Niang, M. Nowell, E. Payton, G. Payton, T. Peter, J. Phillips, D. Plowden, N. Richards, K. Richmond, A. Reeves, L. Robbins, P. Sandfort, J. Schakel, M. Sears, B. Simmons, M. Smith, J. Sochan, D. Stockton, J. Tate, D. Terry, A. Thompson, A. Thompson, K. Thompson, M. Thybulle, A. Toohey, O. Tshiebwe, M. Wagner, L. Walker, J. Walsh, T. Watford, A. Watson, P. Watson, B. Williams, J. Wiseman, I. Wong",
-   "detected_at": "2026-09-28 11:21:56",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Update 1.3 (7/18/26): O. Agbaji, B. Beal, J. Bernard, S. Bey, D. Brooks, K. Brooks, B. Brown, K. Bufkin, J. Butler Jr., K. Caldwell-Pope, D. Carter, M. Cisse, I. Crawford, J. Crutcher, J. Cumberland, J. Davison, D. DeRozan, D. Eubanks, T. Fall, K. George, A. Gill, H. Gray, D. Green, J. Harden, M. Hezonja, H. Highsmith, C. Houstan, H. Ingram, A. Jackson, L. James, J. Johnson, K. Johnson, C. Jones D. Jones, S. Jones, Y. Kawamura, K. Knox, C. Koloko, J. Konchar, J. Kuminga, P. Larsson, K. Leonard, N. Marshall, B. Mathurin, B. Mbeng, G. McGlothan, D. Melton, G. Niang, M. Nowell, E. Payton, G. Payton, T. Peter, J. Phillips, D. Plowden, J. Preston, N. Richards, K. Richmond, A. Reeves, L. Robbins, P. Sandfort, J. Schakel, M. Sears, B. Simmons, M. Smith, J. Sochan, D. Stockton, J. Tate, D. Terry, A. Thompson, A. Thompson, K. Thompson, M. Thybulle, A. Toohey, O. Tshiebwe, M. Wagner, L. Walker, J. Walsh, T. Watford, A. Watson, P. Watson, B. Williams, J. Wiseman, I. Wong",
-   "detected_at": "2026-09-28 11:21:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Jason Preston (WAIVED) Los Angeles Clippers",
-   "detected_at": "2026-09-28 11:20:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  26-27 $2,625,627",
-   "detected_at": "2026-09-28 11:20:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
-   "detected_at": "2026-09-28 11:20:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 9/25/26",
-   "detected_at": "2026-09-28 11:20:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Hunter Sallis Cleveland Cavaliers",
-   "detected_at": "2026-09-28 11:19:58",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Hunter Sallis (WAIVED) Los Angeles Clippers",
-   "detected_at": "2026-09-28 11:19:58",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Minimum Salary Exception. Love of the Game. Physical Exam. Alt. 7(b). Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
-   "detected_at": "2026-09-28 11:19:58",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Execution Date: 9/23/26",
-   "detected_at": "2026-09-28 11:19:58",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
-   "detected_at": "2026-09-28 11:19:58",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 9/25/26",
-   "detected_at": "2026-09-28 11:19:58",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Hunter Sallis Cleveland Cavaliers",
-   "detected_at": "2026-09-28 11:18:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  26-27 $2,185,116",
-   "detected_at": "2026-09-28 11:18:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Minimum Salary Exception. Love of the Game. Physical Exam. Alt. 7(b). Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
-   "detected_at": "2026-09-28 11:18:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 9/23/26",
-   "detected_at": "2026-09-28 11:18:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  - REMOVED Update 1.3 (7/18/26): K. Lopez, K. Diop, J. Bradley, O. Agbim, R. Agee, J. Akins, D. Allen, J. Allick, D. Armstrong, M. Armstrong, Z. Austin, W. Baker, A. Baldwin, A. Bandaogo, M. Barnstable, K. Boone, N. Boyd, L. Butler, J. Camden, C. Camper, T. Carroll, D. Dainja, D. Daniels, R. Dixon-Waters, B. Dunning, D. Garcia, C. Grill, J. Hadley, J. Harmon, D. Higgs, C. Hildreth, M. Iraldi, S. Johnson, K. Jones, N. Jourdain, M. Keita, H. Mallettte, K. Mangas, M. Mascari, R. Mast, I. McKneely, C. McMillian, S. McNeil, I. Milicic, B. Miller, J. Moni, K. Murphy, D. Murray, M. Murrell, J. Nelson, J. Nunn, J. O’Neil, T. Okani, N. Pringle, E. Ralph, K. Reeves, J. Riley, D. Rodman, C. Ross, N. Santos, A. Scott, C. Shumate, D. Smith, J. Stephens, K. Stewart, P. Suder, W. Taylor, S. Thomas, S. Thompson, C. Tilly, T. Townsend, S. Washington, R. Weems, P. Zilinskas",
-   "detected_at": "2026-09-28 11:17:55",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Update 1.3 (7/18/26): K. Lopez, K. Diop, J. Bradley, O. Agbim, R. Agee, J. Akins, D. Allen, J. Allick, D. Armstrong, M. Armstrong, Z. Austin, W. Baker, A. Baldwin, A. Bandaogo, M. Barnstable, K. Boone, N. Boyd, L. Butler, J. Camden, C. Camper, T. Carroll, D. Dainja, D. Daniels, R. Dixon-Waters, B. Dunning, D. Garcia, C. Grill, J. Hadley, J. Harmon, D. Higgs, C. Hildreth, M. Iraldi, S. Johnson, K. Jones, N. Jourdain, M. Keita, H. Mallettte, K. Mangas, M. Mascari, R. Mast, I. McKneely, C. McMillian, S. McNeil, I. Milicic, B. Miller, J. Moni, K. Murphy, D. Murray, M. Murrell, J. Nelson, J. Nunn, J. O’Neil, T. Okani, N. Pringle, E. Ralph, K. Reeves, J. Riley, D. Rodman, C. Ross, N. Santos, A. Scott, C. Shumate, D. Smith, J. Stephens, K. Stewart, P. Suder, W. Taylor, S. Thomas, S. Thompson, C. Tilly, T. Townsend, B. Warren, S. Washington, R. Weems, P. Zilinskas",
-   "detected_at": "2026-09-28 11:17:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Bryson Warren (WAIVED) Detroit Pistons",
-   "detected_at": "2026-09-28 11:17:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  26-27 $1,357,763",
-   "detected_at": "2026-09-28 11:17:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
-   "detected_at": "2026-09-28 11:17:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 9/27/26",
-   "detected_at": "2026-09-28 11:17:55",
-   "source": "DOCS",
-   "type": "ADDED"
   }
  ],
  "feeds": {
@@ -9808,12 +9877,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 5508,
-   "last": "2026-09-30 21:10:03"
+   "count": 5603,
+   "last": "2026-09-30 22:20:05"
   },
   "SCORES": {
-   "count": 1042,
-   "last": "2026-09-30 21:10:07"
+   "count": 1053,
+   "last": "2026-09-30 22:20:14"
   },
   "SHEETS": {
    "count": 4512,
@@ -9832,6 +9901,6 @@
    "last": "2026-09-30 16:40:12"
   }
  },
- "generated_at": "2026-09-30T22:09:06",
- "total": 22451
+ "generated_at": "2026-09-30T22:20:16",
+ "total": 22557
 }
