@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Talen Horton-Tucker  ~ 121522: position -> Point guard / shooting guard",
+   "detected_at": "2026-10-01 10:22:13",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Shooting guard / point guard"
+  },
+  {
    "detail": "Will Clyburn  ~ 22382: position -> Shooting guard / Small forward",
    "detected_at": "2026-10-01 10:19:10",
    "source": "WIKIWATCH",
@@ -9874,12 +9881,6 @@
    "detected_at": "2026-09-28 18:18:54",
    "source": "PLAYERS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "2026-09-24  Portland Trail Blazers waived guard Barry Dunning.",
-   "detected_at": "2026-09-28 18:09:55",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
   }
  ],
  "feeds": {
@@ -9920,10 +9921,10 @@
    "last": "2026-10-01 10:18:37"
   },
   "WIKIWATCH": {
-   "count": 314,
-   "last": "2026-10-01 10:19:10"
+   "count": 315,
+   "last": "2026-10-01 10:22:13"
   }
  },
- "generated_at": "2026-10-01T10:22:03",
- "total": 22748
+ "generated_at": "2026-10-01T10:23:04",
+ "total": 22749
 }
