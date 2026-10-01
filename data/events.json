@@ -1,6 +1,18 @@
 {
  "events": [
   {
+   "detail": "2026-10-01  Chicago Bulls waived guard Peter Suder.",
+   "detected_at": "2026-10-01 14:18:55",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-01  Chicago Bulls waived  Marquel Sutton.",
+   "detected_at": "2026-10-01 14:18:55",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
    "detail": "2026-10-01  Toronto Raptors re-signed guard Jamal Shead to a Veteran Extension.",
    "detected_at": "2026-10-01 14:09:55",
    "source": "TRANSACTIONS",
@@ -9874,20 +9886,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Bohdan_Blyzniuk"
-  },
-  {
-   "detail": "Bohdan Blyzniuk  ~ number: 32 -> -",
-   "detected_at": "2026-09-28 23:51:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Bohdan_Blyzniuk"
-  },
-  {
-   "detail": "Nemanja Nenadić  ~ team: Gaziantep Basketbol -> New Taipei CTBC DEA",
-   "detected_at": "2026-09-28 23:51:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Nemanja_Nenadi%C4%87"
   }
  ],
  "feeds": {
@@ -9920,8 +9918,8 @@
    "last": "2026-09-30 12:51:58"
   },
   "TRANSACTIONS": {
-   "count": 467,
-   "last": "2026-10-01 14:09:55"
+   "count": 469,
+   "last": "2026-10-01 14:18:55"
   },
   "WIKI": {
    "count": 4754,
@@ -9932,6 +9930,6 @@
    "last": "2026-10-01 10:22:13"
   }
  },
- "generated_at": "2026-10-01T14:18:00",
- "total": 22769
+ "generated_at": "2026-10-01T14:19:01",
+ "total": 22771
 }
