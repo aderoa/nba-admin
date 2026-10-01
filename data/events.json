@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Maxime Raynaud  ~ weight_lb: 250 -> 240",
+   "detected_at": "2026-10-01 12:36:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Maxime_Raynaud"
+  },
+  {
    "detail": "Matic Rebec  ~ number: - -> 00",
    "detected_at": "2026-10-01 12:13:37",
    "source": "WIKI",
@@ -9884,13 +9891,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Kevin_McCullar_Jr."
-  },
-  {
-   "detail": "Kevin McCullar Jr.  ~ CAREER  + –present New York Knicks",
-   "detected_at": "2026-09-28 20:22:39",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Kevin_McCullar_Jr."
   }
  ],
  "feeds": {
@@ -9927,14 +9927,14 @@
    "last": "2026-09-30 15:09:55"
   },
   "WIKI": {
-   "count": 4748,
-   "last": "2026-10-01 12:13:37"
+   "count": 4749,
+   "last": "2026-10-01 12:36:37"
   },
   "WIKIWATCH": {
    "count": 315,
    "last": "2026-10-01 10:22:13"
   }
  },
- "generated_at": "2026-10-01T12:28:00",
- "total": 22760
+ "generated_at": "2026-10-01T12:36:38",
+ "total": 22761
 }
