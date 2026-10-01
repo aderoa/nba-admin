@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Coty Clarke  ~ team: Shimane Susanoo Magic -> Free Agent",
+   "detected_at": "2026-09-30 20:23:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Coty_Clarke"
+  },
+  {
+   "detail": "Coty Clarke  ~ number: 1 -> -",
+   "detected_at": "2026-09-30 20:23:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Coty_Clarke"
+  },
+  {
    "detail": "Eurocup Rigas Zelli 86, Bertram Tortona 84",
    "detected_at": "2026-09-30 20:01:03",
    "source": "SCORES",
@@ -9758,18 +9772,6 @@
    "detected_at": "2026-09-28 10:05:58",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "CLE  CHANGED Players Under Contract  -  col3: 208910962 -> 213811604",
-   "detected_at": "2026-09-28 10:05:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "CLE  CHANGED Full Season Contracts  -  col3: 208910962 -> 213811604",
-   "detected_at": "2026-09-28 10:05:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -9806,14 +9808,14 @@
    "last": "2026-09-30 15:09:55"
   },
   "WIKI": {
-   "count": 4686,
-   "last": "2026-09-30 18:28:37"
+   "count": 4688,
+   "last": "2026-09-30 20:23:38"
   },
   "WIKIWATCH": {
    "count": 313,
    "last": "2026-09-30 16:40:12"
   }
  },
- "generated_at": "2026-09-30T20:15:01",
- "total": 22357
+ "generated_at": "2026-09-30T20:23:40",
+ "total": 22359
 }
