@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Charlie Brown Jr. (basketball)  ~ team: Aquila Basket Trento -> Dolomiti Energia Trento",
+   "detected_at": "2026-10-01 14:55:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Charlie_Brown_Jr._(basketball)"
+  },
+  {
+   "detail": "Quincy Olivari  ~ team: Aquila Basket Trento -> Dolomiti Energia Trento",
+   "detected_at": "2026-10-01 14:55:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Quincy_Olivari"
+  },
+  {
    "detail": "~ CHANGED Peter Suder  school: Miami (Ohio) -> Miami, Ohio",
    "detected_at": "2026-10-01 14:35:54",
    "source": "PLAYERS",
@@ -9869,20 +9883,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Argentinian Liga A + Alejo Sacchi → Lanus",
-   "detected_at": "2026-09-29 00:43:19",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Argentinian Liga A Gimnasia Indalo 92, Lanus 74",
-   "detected_at": "2026-09-29 00:43:19",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-28/Gimnasia-Indalo-at-Lanus/539268"
   }
  ],
  "feeds": {
@@ -9919,14 +9919,14 @@
    "last": "2026-10-01 14:32:55"
   },
   "WIKI": {
-   "count": 4754,
-   "last": "2026-10-01 12:59:37"
+   "count": 4756,
+   "last": "2026-10-01 14:55:37"
   },
   "WIKIWATCH": {
    "count": 315,
    "last": "2026-10-01 10:22:13"
   }
  },
- "generated_at": "2026-10-01T14:47:00",
- "total": 22774
+ "generated_at": "2026-10-01T14:55:38",
+ "total": 22776
 }
