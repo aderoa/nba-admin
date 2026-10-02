@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "WNBA Las Vegas Aces 94, Indiana Fever 83",
+   "detected_at": "2026-10-01 21:59:29",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-10-01/Indiana-at-Las-Vegas/161658"
+  },
+  {
+   "detail": "Mexican LNBP Santos de San Luis Potosi 96, Freseros Irapuato 81",
+   "detected_at": "2026-10-01 21:59:21",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-01/Freseros-Irapuato-at-Santos-de-San-Luis-Potosi/542843"
+  },
+  {
+   "detail": "Mexican LNBP Mineros de Zacatecas 90, Abejas 78",
+   "detected_at": "2026-10-01 21:59:17",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-01/Abejas-at-Mineros-de-Zacatecas/542844"
+  },
+  {
    "detail": "Isaac Jones (basketball)  ~ number: 13 -> 3",
    "detected_at": "2026-10-01 21:56:47",
    "source": "WIKI",
@@ -9938,24 +9959,6 @@
    "detected_at": "2026-09-29 10:05:07",
    "source": "DOCS",
    "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Minimum Salary Exception. Love of the Game. Physical Exam. Alt. 7(b). Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($70,000).",
-   "detected_at": "2026-09-29 10:05:07",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 9/25/26",
-   "detected_at": "2026-09-29 10:05:07",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  - REMOVED Meechie Johnson Los Angeles Lakers",
-   "detected_at": "2026-09-29 10:05:07",
-   "source": "DOCS",
-   "type": "REMOVED"
   }
  ],
  "feeds": {
@@ -9980,8 +9983,8 @@
    "last": "2026-10-01 18:54:18"
   },
   "SCORES": {
-   "count": 1081,
-   "last": "2026-10-01 20:58:12"
+   "count": 1084,
+   "last": "2026-10-01 21:59:29"
   },
   "SHEETS": {
    "count": 4512,
@@ -10000,6 +10003,6 @@
    "last": "2026-10-01 21:46:34"
   }
  },
- "generated_at": "2026-10-01T21:58:04",
- "total": 22873
+ "generated_at": "2026-10-01T21:59:31",
+ "total": 22876
 }
