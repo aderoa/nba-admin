@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Mexican LNBP Diablos Rojos 93, Soles 84",
+   "detected_at": "2026-10-02 01:04:50",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-01/Diablos-Rojos-at-Soles/542846"
+  },
+  {
    "detail": "WNBA Las Vegas Aces 94, Indiana Fever 83",
    "detected_at": "2026-10-01 21:59:29",
    "source": "SCORES",
@@ -9953,12 +9960,6 @@
    "detected_at": "2026-09-29 10:05:07",
    "source": "DOCS",
    "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  26-27 $1,357,763",
-   "detected_at": "2026-09-29 10:05:07",
-   "source": "DOCS",
-   "type": "ADDED"
   }
  ],
  "feeds": {
@@ -9983,8 +9984,8 @@
    "last": "2026-10-01 18:54:18"
   },
   "SCORES": {
-   "count": 1084,
-   "last": "2026-10-01 21:59:29"
+   "count": 1085,
+   "last": "2026-10-02 01:04:50"
   },
   "SHEETS": {
    "count": 4512,
@@ -10003,6 +10004,6 @@
    "last": "2026-10-01 21:46:34"
   }
  },
- "generated_at": "2026-10-02T00:05:02",
- "total": 22876
+ "generated_at": "2026-10-02T01:04:57",
+ "total": 22877
 }
