@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Jalen Duren  ~ team: Free agent -> Detroit Pistons",
+   "detected_at": "2026-10-01 19:57:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jalen_Duren"
+  },
+  {
+   "detail": "Jalen Duren  ~ CAREER  + –present Detroit Pistons",
+   "detected_at": "2026-10-01 19:57:35",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Jalen_Duren"
+  },
+  {
    "detail": "Elena Buenavida  ~ number: - -> 6",
    "detected_at": "2026-10-01 19:34:36",
    "source": "WIKI",
@@ -9936,18 +9950,6 @@
    "detected_at": "2026-09-29 10:05:07",
    "source": "DOCS",
    "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  26-27 $1,357,763",
-   "detected_at": "2026-09-29 10:05:07",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Minimum Salary Exception. Love of the Game. Physical Exam. Alt. 7(b). Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
-   "detected_at": "2026-09-29 10:05:07",
-   "source": "DOCS",
-   "type": "ADDED"
   }
  ],
  "feeds": {
@@ -9984,14 +9986,14 @@
    "last": "2026-10-01 14:32:55"
   },
   "WIKI": {
-   "count": 4777,
-   "last": "2026-10-01 19:34:36"
+   "count": 4779,
+   "last": "2026-10-01 19:57:35"
   },
   "WIKIWATCH": {
    "count": 315,
    "last": "2026-10-01 10:22:13"
   }
  },
- "generated_at": "2026-10-01T19:49:00",
- "total": 22865
+ "generated_at": "2026-10-01T19:57:50",
+ "total": 22867
 }
