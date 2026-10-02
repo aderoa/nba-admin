@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Jalen Duren  ~ 137931: team -> Free agent",
+   "detected_at": "2026-10-01 20:09:09",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Detroit Pistons"
+  },
+  {
    "detail": "Jalen Duren  ~ team: Free agent -> Detroit Pistons",
    "detected_at": "2026-10-01 19:57:35",
    "source": "WIKI",
@@ -9944,12 +9951,6 @@
    "detected_at": "2026-09-29 10:05:07",
    "source": "DOCS",
    "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  William Kyle Los Angeles Lakers",
-   "detected_at": "2026-09-29 10:05:07",
-   "source": "DOCS",
-   "type": "ADDED"
   }
  ],
  "feeds": {
@@ -9990,10 +9991,10 @@
    "last": "2026-10-01 19:57:35"
   },
   "WIKIWATCH": {
-   "count": 315,
-   "last": "2026-10-01 10:22:13"
+   "count": 316,
+   "last": "2026-10-01 20:09:09"
   }
  },
- "generated_at": "2026-10-01T20:09:01",
- "total": 22867
+ "generated_at": "2026-10-01T20:10:00",
+ "total": 22868
 }
