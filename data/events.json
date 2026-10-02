@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "D'Angelo Russell  ~ 41490: number -> -",
+   "detected_at": "2026-10-02 01:34:00",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "23"
+  },
+  {
    "detail": "Mexican LNBP Diablos Rojos 93, Soles 84",
    "detected_at": "2026-10-02 01:04:50",
    "source": "SCORES",
@@ -9954,12 +9961,6 @@
    "detected_at": "2026-09-29 10:05:07",
    "source": "DOCS",
    "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Jaelen House Utah Jazz",
-   "detected_at": "2026-09-29 10:05:07",
-   "source": "DOCS",
-   "type": "ADDED"
   }
  ],
  "feeds": {
@@ -10000,10 +10001,10 @@
    "last": "2026-10-01 21:56:47"
   },
   "WIKIWATCH": {
-   "count": 317,
-   "last": "2026-10-01 21:46:34"
+   "count": 318,
+   "last": "2026-10-02 01:34:00"
   }
  },
- "generated_at": "2026-10-02T01:32:02",
- "total": 22877
+ "generated_at": "2026-10-02T01:35:02",
+ "total": 22878
 }
