@@ -1,6 +1,34 @@
 {
  "events": [
   {
+   "detail": "Australian NBL + Austin Shelley → Melbourne",
+   "detected_at": "2026-10-01 17:53:12",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Australian NBL + Kody Stattmann → Tasmania",
+   "detected_at": "2026-10-01 17:53:12",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Australian NBL + Biwali Bayles → Tasmania",
+   "detected_at": "2026-10-01 17:53:12",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Australian NBL Tasmania 84, Melbourne 82",
+   "detected_at": "2026-10-01 17:53:12",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-01/Melbourne-at-Tasmania/524389"
+  },
+  {
    "detail": "Alfonzo McKinnie  ~ team: Free agent -> Dorados de Chihuahua",
    "detected_at": "2026-10-01 16:52:40",
    "source": "WIKI",
@@ -9854,31 +9882,6 @@
    "detected_at": "2026-09-29 01:26:18",
    "source": "PLAYERS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Giannis Antetokounmpo  weight: 243 -> 250",
-   "detected_at": "2026-09-29 01:26:18",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Bam Adebayo  weight: 255 -> 260",
-   "detected_at": "2026-09-29 01:26:18",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Miles Kelly  number: 14 -> 26",
-   "detected_at": "2026-09-29 01:26:18",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Argentinian Liga A + Emiliano Toretta → Gimnasia Indalo",
-   "detected_at": "2026-09-29 00:43:19",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -9899,12 +9902,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 5720,
-   "last": "2026-10-01 07:36:49"
+   "count": 5723,
+   "last": "2026-10-01 17:53:12"
   },
   "SCORES": {
-   "count": 1075,
-   "last": "2026-10-01 07:36:49"
+   "count": 1076,
+   "last": "2026-10-01 17:53:12"
   },
   "SHEETS": {
    "count": 4512,
@@ -9923,6 +9926,6 @@
    "last": "2026-10-01 10:22:13"
   }
  },
- "generated_at": "2026-10-01T17:52:03",
- "total": 22795
+ "generated_at": "2026-10-01T17:53:20",
+ "total": 22799
 }
