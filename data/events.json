@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Luca Illeș  ~ number: 41 -> 88",
+   "detected_at": "2026-10-02 10:56:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Luca_Ille%C8%99"
+  },
+  {
    "detail": "Markel Starks  ~ number: - -> 4",
    "detected_at": "2026-10-02 10:33:37",
    "source": "WIKI",
@@ -10037,12 +10044,6 @@
    "detected_at": "2026-09-29 10:05:07",
    "source": "DOCS",
    "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 9/25/26",
-   "detected_at": "2026-09-29 10:05:07",
-   "source": "DOCS",
-   "type": "ADDED"
   }
  ],
  "feeds": {
@@ -10079,14 +10080,14 @@
    "last": "2026-10-01 14:32:55"
   },
   "WIKI": {
-   "count": 4801,
-   "last": "2026-10-02 10:33:37"
+   "count": 4802,
+   "last": "2026-10-02 10:56:38"
   },
   "WIKIWATCH": {
    "count": 318,
    "last": "2026-10-02 01:34:00"
   }
  },
- "generated_at": "2026-10-02T10:48:01",
- "total": 23006
+ "generated_at": "2026-10-02T10:56:38",
+ "total": 23007
 }
