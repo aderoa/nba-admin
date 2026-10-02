@@ -1,6 +1,41 @@
 {
  "events": [
   {
+   "detail": "Kendrick Nunn  ~ 24684: team -> -",
+   "detected_at": "2026-10-02 13:17:36",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Panathinaikos"
+  },
+  {
+   "detail": "Kendrick Nunn  ~ 24684: league -> -",
+   "detected_at": "2026-10-02 13:17:36",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "GBL EuroLeague"
+  },
+  {
+   "detail": "Kendrick Nunn  ~ 24684: position -> -",
+   "detected_at": "2026-10-02 13:17:36",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Shooting guard"
+  },
+  {
+   "detail": "Kendrick Nunn  ~ 24684: number -> -",
+   "detected_at": "2026-10-02 13:17:36",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "25"
+  },
+  {
+   "detail": "Kendrick Nunn  ~ 24684: (page changed) -> -",
+   "detected_at": "2026-10-02 13:17:36",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": ""
+  },
+  {
    "detail": "Erkan Yılmaz  ~ position: Small forward -> Point guard / shooting guard",
    "detected_at": "2026-10-02 12:29:37",
    "source": "WIKI",
@@ -10016,36 +10051,6 @@
    "detected_at": "2026-09-29 10:05:07",
    "source": "DOCS",
    "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Lawson Lovering (WAIVED) Memphis Grizzlies",
-   "detected_at": "2026-09-29 10:05:07",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  26-27 $2,185,116",
-   "detected_at": "2026-09-29 10:05:07",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Minimum Salary Exception. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
-   "detected_at": "2026-09-29 10:05:07",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 9/16/26",
-   "detected_at": "2026-09-29 10:05:07",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Seth Lundy Dallas Mavericks",
-   "detected_at": "2026-09-29 10:05:07",
-   "source": "DOCS",
-   "type": "ADDED"
   }
  ],
  "feeds": {
@@ -10086,10 +10091,10 @@
    "last": "2026-10-02 12:29:37"
   },
   "WIKIWATCH": {
-   "count": 318,
-   "last": "2026-10-02 01:34:00"
+   "count": 323,
+   "last": "2026-10-02 13:17:36"
   }
  },
- "generated_at": "2026-10-02T13:15:38",
- "total": 23009
+ "generated_at": "2026-10-02T13:18:05",
+ "total": 23014
 }
