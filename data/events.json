@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Isaac Jones (basketball)  ~ number: 13 -> 3",
+   "detected_at": "2026-10-01 21:56:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Isaac_Jones_(basketball)"
+  },
+  {
+   "detail": "Elijah Harkless  ~ number: 94 -> 16",
+   "detected_at": "2026-10-01 21:56:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Elijah_Harkless"
+  },
+  {
    "detail": "Jalen Duren  ~ 137931: number -> -",
    "detected_at": "2026-10-01 21:46:34",
    "source": "WIKIWATCH",
@@ -9942,18 +9956,6 @@
    "detected_at": "2026-09-29 10:05:07",
    "source": "DOCS",
    "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Meechie Johnson (WAIVED) Los Angeles Lakers",
-   "detected_at": "2026-09-29 10:05:07",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Jarkel Joiner Charlotte Hornets",
-   "detected_at": "2026-09-29 10:05:07",
-   "source": "DOCS",
-   "type": "ADDED"
   }
  ],
  "feeds": {
@@ -9990,14 +9992,14 @@
    "last": "2026-10-01 14:32:55"
   },
   "WIKI": {
-   "count": 4780,
-   "last": "2026-10-01 21:33:40"
+   "count": 4782,
+   "last": "2026-10-01 21:56:47"
   },
   "WIKIWATCH": {
    "count": 317,
    "last": "2026-10-01 21:46:34"
   }
  },
- "generated_at": "2026-10-01T21:48:01",
- "total": 22871
+ "generated_at": "2026-10-01T21:57:00",
+ "total": 22873
 }
