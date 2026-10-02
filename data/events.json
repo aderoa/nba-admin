@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Kendrick Ray  ~ number: - -> 0",
+   "detected_at": "2026-10-02 16:52:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kendrick_Ray"
+  },
+  {
    "detail": "BNXT League Kangoeroes Basket Willebroek 109, HUBO Limburg United 100",
    "detected_at": "2026-10-02 16:34:21",
    "source": "SCORES",
@@ -10142,12 +10149,6 @@
    "detected_at": "2026-09-29 10:05:27",
    "source": "SHEETS",
    "type": "REMOVED"
-  },
-  {
-   "detail": "POR  - REMOVED Boone, Keylan",
-   "detected_at": "2026-09-29 10:05:27",
-   "source": "SHEETS",
-   "type": "REMOVED"
   }
  ],
  "feeds": {
@@ -10184,14 +10185,14 @@
    "last": "2026-10-02 14:47:55"
   },
   "WIKI": {
-   "count": 4832,
-   "last": "2026-10-02 16:19:37"
+   "count": 4833,
+   "last": "2026-10-02 16:52:37"
   },
   "WIKIWATCH": {
    "count": 325,
    "last": "2026-10-02 14:24:49"
   }
  },
- "generated_at": "2026-10-02T16:34:29",
- "total": 23113
+ "generated_at": "2026-10-02T16:52:38",
+ "total": 23114
 }
