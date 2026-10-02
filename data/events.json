@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Mexican LNBP Lobos Plateados 97, Correcaminos 75",
+   "detected_at": "2026-10-01 20:58:12",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-01/Lobos-Plateados-at-Correcaminos/542841"
+  },
+  {
    "detail": "Jalen Duren  ~ 137931: team -> Free agent",
    "detected_at": "2026-10-01 20:09:09",
    "source": "WIKIWATCH",
@@ -9945,12 +9952,6 @@
    "detected_at": "2026-09-29 10:05:07",
    "source": "DOCS",
    "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 9/26/26",
-   "detected_at": "2026-09-29 10:05:07",
-   "source": "DOCS",
-   "type": "ADDED"
   }
  ],
  "feeds": {
@@ -9975,8 +9976,8 @@
    "last": "2026-10-01 18:54:18"
   },
   "SCORES": {
-   "count": 1080,
-   "last": "2026-10-01 18:54:18"
+   "count": 1081,
+   "last": "2026-10-01 20:58:12"
   },
   "SHEETS": {
    "count": 4512,
@@ -9995,6 +9996,6 @@
    "last": "2026-10-01 20:09:09"
   }
  },
- "generated_at": "2026-10-01T20:57:02",
- "total": 22868
+ "generated_at": "2026-10-01T20:58:19",
+ "total": 22869
 }
