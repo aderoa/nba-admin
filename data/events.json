@@ -1,6 +1,41 @@
 {
  "events": [
   {
+   "detail": "Cameron Payne  ~ team: Free agent -> Anadolu Efes",
+   "detected_at": "2026-10-03 02:18:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Cameron_Payne"
+  },
+  {
+   "detail": "Cameron Payne  ~ league: - -> BSL EuroLeague",
+   "detected_at": "2026-10-03 02:18:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Cameron_Payne"
+  },
+  {
+   "detail": "Cameron Payne  ~ CAREER  + 2026–present Anadolu Efes",
+   "detected_at": "2026-10-03 02:18:38",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Cameron_Payne"
+  },
+  {
+   "detail": "Cameron Payne  ~ 57476: team -> Free agent",
+   "detected_at": "2026-10-03 02:10:23",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Anadolu Efes"
+  },
+  {
+   "detail": "Cameron Payne  ~ 57476: league -> -",
+   "detected_at": "2026-10-03 02:10:23",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "BSL EuroLeague"
+  },
+  {
    "detail": "Mexican LNBP El Calor de Cancun 82, Gambusinos 71",
    "detected_at": "2026-10-03 01:05:50",
    "source": "SCORES",
@@ -10220,41 +10255,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Italian Serie A2 Basket + Mattia Palumbo → Sidigas Avellino",
-   "detected_at": "2026-09-29 10:14:04",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Italian Serie A2 Basket + Blake Francis → Sidigas Avellino",
-   "detected_at": "2026-09-29 10:14:04",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Italian Serie A2 Basket + Marco Mollura → Sidigas Avellino",
-   "detected_at": "2026-09-29 10:14:04",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Italian Serie A2 Basket + Tariq Owens → Sidigas Avellino",
-   "detected_at": "2026-09-29 10:14:04",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Italian Serie A2 Basket + Gianluca Della Rosa → Sidigas Avellino",
-   "detected_at": "2026-09-29 10:14:04",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10291,14 +10291,14 @@
    "last": "2026-10-02 14:47:55"
   },
   "WIKI": {
-   "count": 4839,
-   "last": "2026-10-02 18:49:36"
+   "count": 4842,
+   "last": "2026-10-03 02:18:38"
   },
   "WIKIWATCH": {
-   "count": 325,
-   "last": "2026-10-02 14:24:49"
+   "count": 327,
+   "last": "2026-10-03 02:10:23"
   }
  },
- "generated_at": "2026-10-03T02:08:18",
- "total": 23377
+ "generated_at": "2026-10-03T02:18:39",
+ "total": 23382
 }
