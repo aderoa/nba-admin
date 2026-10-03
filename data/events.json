@@ -1,6 +1,54 @@
 {
  "events": [
   {
+   "detail": "2026-10-02  Traded: Miller Kopp (Herd)",
+   "detected_at": "2026-10-03 07:02:00",
+   "source": "GLEAGUE",
+   "type": "Trade"
+  },
+  {
+   "detail": "2026-10-02  Traded: Kalifa Sakho (Herd)",
+   "detected_at": "2026-10-03 07:02:00",
+   "source": "GLEAGUE",
+   "type": "Trade"
+  },
+  {
+   "detail": "2026-10-02  Traded: Justyn Hamilton (Charge)",
+   "detected_at": "2026-10-03 07:02:00",
+   "source": "GLEAGUE",
+   "type": "Trade"
+  },
+  {
+   "detail": "2026-10-02  Traded: Solomon Young (Squadron)",
+   "detected_at": "2026-10-03 07:02:00",
+   "source": "GLEAGUE",
+   "type": "Trade"
+  },
+  {
+   "detail": "2026-10-02  Traded: Cheikh Mbacke Diong (Lakers)",
+   "detected_at": "2026-10-03 07:02:00",
+   "source": "GLEAGUE",
+   "type": "Trade"
+  },
+  {
+   "detail": "2026-10-02  Traded: Raequan Battle (Blue)",
+   "detected_at": "2026-10-03 07:02:00",
+   "source": "GLEAGUE",
+   "type": "Trade"
+  },
+  {
+   "detail": "2026-10-02  Traded: Kameron Warrens (Blue)",
+   "detected_at": "2026-10-03 07:02:00",
+   "source": "GLEAGUE",
+   "type": "Trade"
+  },
+  {
+   "detail": "2026-10-02  Traded: Logan Johnson (Celtics)",
+   "detected_at": "2026-10-03 07:02:00",
+   "source": "GLEAGUE",
+   "type": "Trade"
+  },
+  {
    "detail": "Marial Shayok  ~ number: 11 -> 1",
    "detected_at": "2026-10-03 06:54:38",
    "source": "WIKI",
@@ -10209,60 +10257,6 @@
    "detected_at": "2026-09-30 07:59:55",
    "source": "PLAYERS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Kam Jones  number: 7 -> 19",
-   "detected_at": "2026-09-30 07:59:55",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Jake Stephens  number: - -> 88",
-   "detected_at": "2026-09-30 07:59:55",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "John Konchar  ~ 81496: team -> Free agent",
-   "detected_at": "2026-09-30 07:54:14",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "New York Knicks"
-  },
-  {
-   "detail": "John Konchar  ~ 81496: league -> -",
-   "detected_at": "2026-09-30 07:54:14",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "NBA"
-  },
-  {
-   "detail": "John Konchar  ~ 81496: number -> -",
-   "detected_at": "2026-09-30 07:54:14",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "14"
-  },
-  {
-   "detail": "Saliou Niang  ~ team: LSU Tigers -> -",
-   "detected_at": "2026-09-30 07:44:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Saliou_Niang"
-  },
-  {
-   "detail": "Saliou Niang  ~ league: SEC -> -",
-   "detected_at": "2026-09-30 07:44:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Saliou_Niang"
-  },
-  {
-   "detail": "Saliou Niang  ~ position: Small forward -> -",
-   "detected_at": "2026-09-30 07:44:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Saliou_Niang"
   }
  ],
  "feeds": {
@@ -10271,8 +10265,8 @@
    "last": "2026-10-02 08:07:55"
   },
   "GLEAGUE": {
-   "count": 153,
-   "last": "2026-10-02 08:08:00"
+   "count": 161,
+   "last": "2026-10-03 07:02:00"
   },
   "PLAYERS": {
    "count": 1346,
@@ -10307,6 +10301,6 @@
    "last": "2026-10-03 03:19:34"
   }
  },
- "generated_at": "2026-10-03T07:01:02",
- "total": 23566
+ "generated_at": "2026-10-03T07:02:01",
+ "total": 23574
 }
