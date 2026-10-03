@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Hunter Tyson  ~ number: - -> 4",
+   "detected_at": "2026-10-03 15:22:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Hunter_Tyson"
+  },
+  {
    "detail": "Kelly Olynyk  ~ team: Free agent -> BC Roma",
    "detected_at": "2026-10-03 12:18:37",
    "source": "WIKI",
@@ -10268,12 +10275,6 @@
    "detected_at": "2026-09-30 08:59:54",
    "source": "PLAYERS",
    "type": "ADDED"
-  },
-  {
-   "detail": "+ ADDED   Tony Bradley (NYK)",
-   "detected_at": "2026-09-30 08:59:54",
-   "source": "PLAYERS",
-   "type": "ADDED"
   }
  ],
  "feeds": {
@@ -10310,14 +10311,14 @@
    "last": "2026-10-02 14:47:55"
   },
   "WIKI": {
-   "count": 4907,
-   "last": "2026-10-03 12:18:37"
+   "count": 4908,
+   "last": "2026-10-03 15:22:37"
   },
   "WIKIWATCH": {
    "count": 334,
    "last": "2026-10-03 11:55:53"
   }
  },
- "generated_at": "2026-10-03T15:14:01",
- "total": 23591
+ "generated_at": "2026-10-03T15:22:38",
+ "total": 23592
 }
