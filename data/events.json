@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Vernon Carey Jr.  ~ team: Maxima Roma -> Free Agent",
+   "detected_at": "2026-10-03 07:18:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Vernon_Carey_Jr."
+  },
+  {
+   "detail": "Vernon Carey Jr.  ~ league: LBA EuroCup -> -",
+   "detected_at": "2026-10-03 07:18:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Vernon_Carey_Jr."
+  },
+  {
+   "detail": "Vernon Carey Jr.  ~ number: 1 -> -",
+   "detected_at": "2026-10-03 07:18:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Vernon_Carey_Jr."
+  },
+  {
    "detail": "2026-10-02  Traded: Miller Kopp (Herd)",
    "detected_at": "2026-10-03 07:02:00",
    "source": "GLEAGUE",
@@ -10239,24 +10260,6 @@
    "detected_at": "2026-09-30 08:43:55",
    "source": "TRANSACTIONS",
    "type": "Signing"
-  },
-  {
-   "detail": "~ CHANGED Ernest Udeh, Jr.  number: 39 -> 88",
-   "detected_at": "2026-09-30 07:59:55",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Nate Ament  number: - -> 15",
-   "detected_at": "2026-09-30 07:59:55",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED John Butler Jr.  number: 19 -> 27",
-   "detected_at": "2026-09-30 07:59:55",
-   "source": "PLAYERS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10293,14 +10296,14 @@
    "last": "2026-10-02 14:47:55"
   },
   "WIKI": {
-   "count": 4892,
-   "last": "2026-10-03 06:54:38"
+   "count": 4895,
+   "last": "2026-10-03 07:18:38"
   },
   "WIKIWATCH": {
    "count": 332,
    "last": "2026-10-03 03:19:34"
   }
  },
- "generated_at": "2026-10-03T07:08:02",
- "total": 23574
+ "generated_at": "2026-10-03T07:18:39",
+ "total": 23577
 }
