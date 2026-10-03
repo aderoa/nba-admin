@@ -1,6 +1,335 @@
 {
  "events": [
   {
+   "detail": "Mexican LNBP El Calor de Cancun 82, Gambusinos 71",
+   "detected_at": "2026-10-03 01:05:50",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-01/Gambusinos-at-El-Calor-de-Cancun/542842"
+  },
+  {
+   "detail": "Mexican LNBP Panteras de Aguascalientes 91, Dorados de Chihuahua 85",
+   "detected_at": "2026-10-03 01:05:47",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-01/Dorados-de-Chihuahua-at-Panteras-de-Aguascalientes/542845"
+  },
+  {
+   "detail": "Ukrainian Superleague BC Kyiv 89, Stariy Lutsk Volyn 82",
+   "detected_at": "2026-10-03 01:05:44",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-01/BC-Kyiv-at-Stariy-Lutsk-Volyn/541704"
+  },
+  {
+   "detail": "Ukrainian Superleague + Roman Trotsyk → Stariy Lutsk Volyn",
+   "detected_at": "2026-10-03 01:05:43",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Ukrainian Superleague + Yevhenii Sorochan → Dnipro Dnipropetrovsk",
+   "detected_at": "2026-10-03 01:05:40",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Ukrainian Superleague + Ivan Koldomasov → Dnipro Dnipropetrovsk",
+   "detected_at": "2026-10-03 01:05:40",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Ukrainian Superleague + Stanislav Tymofeyenko → Dnipro Dnipropetrovsk",
+   "detected_at": "2026-10-03 01:05:40",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Ukrainian Superleague + Michael Gorobchenko → Dnipro Dnipropetrovsk",
+   "detected_at": "2026-10-03 01:05:40",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Ukrainian Superleague + Daniil Sypalo → Dnipro Dnipropetrovsk",
+   "detected_at": "2026-10-03 01:05:40",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Ukrainian Superleague + Artem Smitiukh → Dnipro Dnipropetrovsk",
+   "detected_at": "2026-10-03 01:05:40",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Ukrainian Superleague + Roman Bondarchuk → Dnipro Dnipropetrovsk",
+   "detected_at": "2026-10-03 01:05:40",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Ukrainian Superleague + Maksym Zakurdaiev → Dnipro Dnipropetrovsk",
+   "detected_at": "2026-10-03 01:05:40",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Ukrainian Superleague + Sergiy Zagreba → Dnipro Dnipropetrovsk",
+   "detected_at": "2026-10-03 01:05:40",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Ukrainian Superleague + Volodymyr Koniev → Dnipro Dnipropetrovsk",
+   "detected_at": "2026-10-03 01:05:40",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Ukrainian Superleague + Dmitriy Lypovtsev → BC Khmelnytskyi",
+   "detected_at": "2026-10-03 01:05:40",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Ukrainian Superleague + Derick Newton → BC Khmelnytskyi",
+   "detected_at": "2026-10-03 01:05:40",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Ukrainian Superleague + Luqman Lundy → BC Khmelnytskyi",
+   "detected_at": "2026-10-03 01:05:40",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Ukrainian Superleague + Zach Loveday → BC Khmelnytskyi",
+   "detected_at": "2026-10-03 01:05:40",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Ukrainian Superleague + Mykola Bachurin → BC Khmelnytskyi",
+   "detected_at": "2026-10-03 01:05:40",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Ukrainian Superleague + Lev Ostroverkh → BC Khmelnytskyi",
+   "detected_at": "2026-10-03 01:05:40",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Ukrainian Superleague + Roman Potieiev → BC Khmelnytskyi",
+   "detected_at": "2026-10-03 01:05:40",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Ukrainian Superleague + Maxim Gulya → BC Khmelnytskyi",
+   "detected_at": "2026-10-03 01:05:40",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Ukrainian Superleague + Rodion Kuzmin → BC Khmelnytskyi",
+   "detected_at": "2026-10-03 01:05:40",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Ukrainian Superleague + Vladyslav Melnyk → BC Khmelnytskyi",
+   "detected_at": "2026-10-03 01:05:40",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Ukrainian Superleague Dnipro Dnipropetrovsk 83, BC Khmelnytskyi 67",
+   "detected_at": "2026-10-03 01:05:40",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-02/Dnipro-Dnipropetrovsk-at-BC-Khmelnytskyi/541708"
+  },
+  {
+   "detail": "Ukrainian Superleague + Anton Buts → Ferro ZNTU Zaporozhye",
+   "detected_at": "2026-10-03 01:05:37",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Ukrainian Superleague + Dmytro Martynov → Ferro ZNTU Zaporozhye",
+   "detected_at": "2026-10-03 01:05:37",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Ukrainian Superleague + Josiah Johnson → Ferro ZNTU Zaporozhye",
+   "detected_at": "2026-10-03 01:05:37",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Ukrainian Superleague + Julian Powell → Ferro ZNTU Zaporozhye",
+   "detected_at": "2026-10-03 01:05:37",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Ukrainian Superleague + Vladyslav Nikolaichuk → Ferro ZNTU Zaporozhye",
+   "detected_at": "2026-10-03 01:05:37",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Ukrainian Superleague + Vyacheslav Kiktev → Ferro ZNTU Zaporozhye",
+   "detected_at": "2026-10-03 01:05:37",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Ukrainian Superleague + Oleksandr Petrenko → Ferro ZNTU Zaporozhye",
+   "detected_at": "2026-10-03 01:05:37",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Ukrainian Superleague + Andriy Velichko → Ferro ZNTU Zaporozhye",
+   "detected_at": "2026-10-03 01:05:37",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Ukrainian Superleague + Jonathan Ileleji → Ferro ZNTU Zaporozhye",
+   "detected_at": "2026-10-03 01:05:37",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Ukrainian Superleague + Arseny Rybakov → Ferro ZNTU Zaporozhye",
+   "detected_at": "2026-10-03 01:05:37",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Ukrainian Superleague + Stepan Lesyk → BC Goverla",
+   "detected_at": "2026-10-03 01:05:37",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Ukrainian Superleague + Sergey Startsev → BC Goverla",
+   "detected_at": "2026-10-03 01:05:37",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Ukrainian Superleague + Roman Morozov → BC Goverla",
+   "detected_at": "2026-10-03 01:05:37",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Ukrainian Superleague + Alexander Dupin → BC Goverla",
+   "detected_at": "2026-10-03 01:05:37",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Ukrainian Superleague + Raylon Howard → BC Goverla",
+   "detected_at": "2026-10-03 01:05:37",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Ukrainian Superleague + Kevin Major → BC Goverla",
+   "detected_at": "2026-10-03 01:05:37",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Ukrainian Superleague + Sergiy Kuznetsov → BC Goverla",
+   "detected_at": "2026-10-03 01:05:37",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Ukrainian Superleague + Taras Dobosh → BC Goverla",
+   "detected_at": "2026-10-03 01:05:37",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Ukrainian Superleague + Illya Chuhunov → BC Goverla",
+   "detected_at": "2026-10-03 01:05:37",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Ukrainian Superleague + Volodymyr Drozdov → BC Goverla",
+   "detected_at": "2026-10-03 01:05:37",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Ukrainian Superleague + Ilya Dmytrenko → BC Goverla",
+   "detected_at": "2026-10-03 01:05:37",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Ukrainian Superleague Ferro ZNTU Zaporozhye 95, BC Goverla 70",
+   "detected_at": "2026-10-03 01:05:37",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-02/Ferro-ZNTU-Zaporozhye-at-BC-Goverla/541707"
+  },
+  {
    "detail": "Swedish Basketligan Boras Basket 89, Koping Stars 80",
    "detected_at": "2026-10-02 23:55:39",
    "source": "SCORES",
@@ -9926,335 +10255,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Italian Serie A2 Basket + Luca Campogrande → Sidigas Avellino",
-   "detected_at": "2026-09-29 10:14:04",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Italian Serie A2 Basket + Lucas Fresno → Sidigas Avellino",
-   "detected_at": "2026-09-29 10:14:04",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Italian Serie A2 Basket + Giacomo Dell'Agnello → Sidigas Avellino",
-   "detected_at": "2026-09-29 10:14:04",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Italian Serie A2 Basket + Emidio Zuccardi → Sidigas Avellino",
-   "detected_at": "2026-09-29 10:14:04",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Italian Serie A2 Basket Sidigas Avellino 87, Elachem Vigevano 69",
-   "detected_at": "2026-09-29 10:14:04",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-27/Elachem-Vigevano-at-Sidigas-Avellino/528084"
-  },
-  {
-   "detail": "Italian Serie A2 Basket + Andrea De Nicolao → Carpegna Prosciutto Basket Pesaro",
-   "detected_at": "2026-09-29 10:14:01",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Italian Serie A2 Basket + Niccolo De Vico → Carpegna Prosciutto Basket Pesaro",
-   "detected_at": "2026-09-29 10:14:01",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Italian Serie A2 Basket + Regimantas Miniotas → Carpegna Prosciutto Basket Pesaro",
-   "detected_at": "2026-09-29 10:14:01",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Italian Serie A2 Basket + Gabe Stefanini → Carpegna Prosciutto Basket Pesaro",
-   "detected_at": "2026-09-29 10:14:01",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Italian Serie A2 Basket + Tevin Mack → Carpegna Prosciutto Basket Pesaro",
-   "detected_at": "2026-09-29 10:14:01",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Italian Serie A2 Basket + Dut Mabor → Carpegna Prosciutto Basket Pesaro",
-   "detected_at": "2026-09-29 10:14:01",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Italian Serie A2 Basket + Stefano Trucchetti → Carpegna Prosciutto Basket Pesaro",
-   "detected_at": "2026-09-29 10:14:01",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Italian Serie A2 Basket + Matteo Accorsi → Carpegna Prosciutto Basket Pesaro",
-   "detected_at": "2026-09-29 10:14:01",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Italian Serie A2 Basket + Pietro Reginato → Carpegna Prosciutto Basket Pesaro",
-   "detected_at": "2026-09-29 10:14:01",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Italian Serie A2 Basket + Yaya Sissoko → Carpegna Prosciutto Basket Pesaro",
-   "detected_at": "2026-09-29 10:14:01",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Italian Serie A2 Basket + Riccardo Leonardi → Carpegna Prosciutto Basket Pesaro",
-   "detected_at": "2026-09-29 10:14:01",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Italian Serie A2 Basket + Samuelle Moretti → Sella Cento",
-   "detected_at": "2026-09-29 10:14:01",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Italian Serie A2 Basket + Darryl Woodson → Sella Cento",
-   "detected_at": "2026-09-29 10:14:01",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Italian Serie A2 Basket + Stacy Davis → Sella Cento",
-   "detected_at": "2026-09-29 10:14:01",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Italian Serie A2 Basket + Luca Conti → Sella Cento",
-   "detected_at": "2026-09-29 10:14:01",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Italian Serie A2 Basket + Matteo Montano → Sella Cento",
-   "detected_at": "2026-09-29 10:14:01",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Italian Serie A2 Basket + Michele Munari → Sella Cento",
-   "detected_at": "2026-09-29 10:14:01",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Italian Serie A2 Basket + Axel Piccirilli → Sella Cento",
-   "detected_at": "2026-09-29 10:14:01",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Italian Serie A2 Basket + Nicolas Tanfoglio → Sella Cento",
-   "detected_at": "2026-09-29 10:14:01",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Italian Serie A2 Basket + Gabriele Tarallo → Sella Cento",
-   "detected_at": "2026-09-29 10:14:01",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Italian Serie A2 Basket + Yannick Giombini → Sella Cento",
-   "detected_at": "2026-09-29 10:14:01",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Italian Serie A2 Basket Carpegna Prosciutto Basket Pesaro 96, Sella Cento 81",
-   "detected_at": "2026-09-29 10:14:01",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-27/Carpegna-Prosciutto-Basket-Pesaro-at-Sella-Cento/528086"
-  },
-  {
-   "detail": "Italian Serie A2 Basket + Dustin Hogue → Crifo Wines Ruvo di Puglia",
-   "detected_at": "2026-09-29 10:13:58",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Italian Serie A2 Basket + Jazz Johnson → Crifo Wines Ruvo di Puglia",
-   "detected_at": "2026-09-29 10:13:58",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Italian Serie A2 Basket + Riccardo Chinellato → Crifo Wines Ruvo di Puglia",
-   "detected_at": "2026-09-29 10:13:58",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Italian Serie A2 Basket + Vincenzo Guaiana → Crifo Wines Ruvo di Puglia",
-   "detected_at": "2026-09-29 10:13:58",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Italian Serie A2 Basket + Matteo Bogliardi → Crifo Wines Ruvo di Puglia",
-   "detected_at": "2026-09-29 10:13:58",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Italian Serie A2 Basket + Thomas Reale → Crifo Wines Ruvo di Puglia",
-   "detected_at": "2026-09-29 10:13:58",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Italian Serie A2 Basket + Leonardo Valesin → Crifo Wines Ruvo di Puglia",
-   "detected_at": "2026-09-29 10:13:58",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Italian Serie A2 Basket + Prince Lumena → Crifo Wines Ruvo di Puglia",
-   "detected_at": "2026-09-29 10:13:58",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Italian Serie A2 Basket + Mouhammed Mbacke → Crifo Wines Ruvo di Puglia",
-   "detected_at": "2026-09-29 10:13:58",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Italian Serie A2 Basket + Paulius Sorokas → Fortituto Kontatto Bologna",
-   "detected_at": "2026-09-29 10:13:58",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Italian Serie A2 Basket + Tommaso Guariglia → Fortituto Kontatto Bologna",
-   "detected_at": "2026-09-29 10:13:58",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Italian Serie A2 Basket + Jamel Morris → Fortituto Kontatto Bologna",
-   "detected_at": "2026-09-29 10:13:58",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Italian Serie A2 Basket + Alessandro Zanelli → Fortituto Kontatto Bologna",
-   "detected_at": "2026-09-29 10:13:58",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Italian Serie A2 Basket + Simon Anumba → Fortituto Kontatto Bologna",
-   "detected_at": "2026-09-29 10:13:58",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Italian Serie A2 Basket + Valerio Mazzola → Fortituto Kontatto Bologna",
-   "detected_at": "2026-09-29 10:13:58",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Italian Serie A2 Basket + Todor Radonjic → Fortituto Kontatto Bologna",
-   "detected_at": "2026-09-29 10:13:58",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Italian Serie A2 Basket + Matteo Fantinelli → Fortituto Kontatto Bologna",
-   "detected_at": "2026-09-29 10:13:58",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Italian Serie A2 Basket + Alvise Sarto → Fortituto Kontatto Bologna",
-   "detected_at": "2026-09-29 10:13:58",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Italian Serie A2 Basket + Armin Korlatovic → Fortituto Kontatto Bologna",
-   "detected_at": "2026-09-29 10:13:58",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Italian Serie A2 Basket + Massimiliano Moretti → Fortituto Kontatto Bologna",
-   "detected_at": "2026-09-29 10:13:58",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10275,12 +10275,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 6059,
-   "last": "2026-10-02 23:55:38"
+   "count": 6101,
+   "last": "2026-10-03 01:05:43"
   },
   "SCORES": {
-   "count": 1145,
-   "last": "2026-10-02 23:55:39"
+   "count": 1150,
+   "last": "2026-10-03 01:05:50"
   },
   "SHEETS": {
    "count": 4538,
@@ -10299,6 +10299,6 @@
    "last": "2026-10-02 14:24:49"
   }
  },
- "generated_at": "2026-10-03T00:55:02",
- "total": 23330
+ "generated_at": "2026-10-03T01:06:04",
+ "total": 23377
 }
