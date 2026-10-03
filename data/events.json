@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Kelly Olynyk  ~ team: Free agent -> BC Roma",
+   "detected_at": "2026-10-03 12:18:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kelly_Olynyk"
+  },
+  {
+   "detail": "Kelly Olynyk  ~ league: - -> Lega Basket Serie A",
+   "detected_at": "2026-10-03 12:18:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kelly_Olynyk"
+  },
+  {
+   "detail": "Kelly Olynyk  ~ CAREER  + 2026–present BC Roma",
+   "detected_at": "2026-10-03 12:18:37",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Kelly_Olynyk"
+  },
+  {
    "detail": "Kelly Olynyk  ~ 8330: team -> Free agent",
    "detected_at": "2026-10-03 11:55:53",
    "source": "WIKIWATCH",
@@ -10253,24 +10274,6 @@
    "detected_at": "2026-09-30 08:59:54",
    "source": "PLAYERS",
    "type": "ADDED"
-  },
-  {
-   "detail": "+ ADDED   Toby Okani (NYK)",
-   "detected_at": "2026-09-30 08:59:54",
-   "source": "PLAYERS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "+ ADDED   Jaylen Martin (POR)",
-   "detected_at": "2026-09-30 08:59:54",
-   "source": "PLAYERS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "~ CHANGED Klay Thompson  position: G -> G-F",
-   "detected_at": "2026-09-30 08:59:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10307,14 +10310,14 @@
    "last": "2026-10-02 14:47:55"
   },
   "WIKI": {
-   "count": 4904,
-   "last": "2026-10-03 11:55:41"
+   "count": 4907,
+   "last": "2026-10-03 12:18:37"
   },
   "WIKIWATCH": {
    "count": 334,
    "last": "2026-10-03 11:55:53"
   }
  },
- "generated_at": "2026-10-03T12:10:01",
- "total": 23588
+ "generated_at": "2026-10-03T12:18:38",
+ "total": 23591
 }
