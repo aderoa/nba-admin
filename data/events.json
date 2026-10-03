@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Jordan McRae  ~ number: 52 -> 7",
+   "detected_at": "2026-10-03 08:51:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jordan_McRae"
+  },
+  {
    "detail": "Orlando Robinson  ~ number: 00 -> 7",
    "detected_at": "2026-10-03 08:28:37",
    "source": "WIKI",
@@ -10261,12 +10268,6 @@
    "detected_at": "2026-09-30 08:55:54",
    "source": "PLAYERS",
    "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED Toby Okani (NYK)",
-   "detected_at": "2026-09-30 08:55:54",
-   "source": "PLAYERS",
-   "type": "REMOVED"
   }
  ],
  "feeds": {
@@ -10303,14 +10304,14 @@
    "last": "2026-10-02 14:47:55"
   },
   "WIKI": {
-   "count": 4902,
-   "last": "2026-10-03 08:28:37"
+   "count": 4903,
+   "last": "2026-10-03 08:51:37"
   },
   "WIKIWATCH": {
    "count": 332,
    "last": "2026-10-03 03:19:34"
   }
  },
- "generated_at": "2026-10-03T08:43:20",
- "total": 23584
+ "generated_at": "2026-10-03T08:51:38",
+ "total": 23585
 }
