@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Jordan Hawkins  ~ team: Memphis Grizzlies -> Free Agent",
+   "detected_at": "2026-10-02 18:49:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jordan_Hawkins"
+  },
+  {
+   "detail": "Jordan Hawkins  ~ number: 19 -> -",
+   "detected_at": "2026-10-02 18:49:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jordan_Hawkins"
+  },
+  {
    "detail": "French LNB Pro B + Alexis Yetna → Union La Rochelle",
    "detected_at": "2026-10-02 18:39:09",
    "source": "REALGM",
@@ -10168,18 +10182,6 @@
    "detected_at": "2026-09-29 10:05:27",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "MIN  CHANGED Full Season Contracts  -  col3: 218868255 -> 224858755",
-   "detected_at": "2026-09-29 10:05:27",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "MIN  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 17 -> 19",
-   "detected_at": "2026-09-29 10:05:27",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10216,14 +10218,14 @@
    "last": "2026-10-02 14:47:55"
   },
   "WIKI": {
-   "count": 4837,
-   "last": "2026-10-02 18:24:37"
+   "count": 4839,
+   "last": "2026-10-02 18:49:36"
   },
   "WIKIWATCH": {
    "count": 325,
    "last": "2026-10-02 14:24:49"
   }
  },
- "generated_at": "2026-10-02T18:39:19",
- "total": 23145
+ "generated_at": "2026-10-02T18:49:37",
+ "total": 23147
 }
