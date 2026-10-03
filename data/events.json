@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Orlando Robinson  ~ number: 00 -> 7",
+   "detected_at": "2026-10-03 08:28:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Orlando_Robinson"
+  },
+  {
    "detail": "Brandon Boston Jr.  ~ number: 13 -> 11",
    "detected_at": "2026-10-03 08:05:37",
    "source": "WIKI",
@@ -10260,12 +10267,6 @@
    "detected_at": "2026-09-30 08:55:54",
    "source": "PLAYERS",
    "type": "REMOVED"
-  },
-  {
-   "detail": "~ CHANGED Klay Thompson  position: G-F -> G",
-   "detected_at": "2026-09-30 08:55:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10302,14 +10303,14 @@
    "last": "2026-10-02 14:47:55"
   },
   "WIKI": {
-   "count": 4901,
-   "last": "2026-10-03 08:05:37"
+   "count": 4902,
+   "last": "2026-10-03 08:28:37"
   },
   "WIKIWATCH": {
    "count": 332,
    "last": "2026-10-03 03:19:34"
   }
  },
- "generated_at": "2026-10-03T08:20:02",
- "total": 23583
+ "generated_at": "2026-10-03T08:28:39",
+ "total": 23584
 }
