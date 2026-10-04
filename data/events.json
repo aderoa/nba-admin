@@ -1,6 +1,55 @@
 {
  "events": [
   {
+   "detail": "Turkish BSL Esenler Erokspor 96, Socar Petkimspor 87",
+   "detected_at": "2026-10-03 22:05:53",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-03/Socar-Petkimspor-at-Esenler-Erokspor/534760"
+  },
+  {
+   "detail": "Turkish BSL + Ozan Yilmaz → Socar Petkimspor",
+   "detected_at": "2026-10-03 22:05:51",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish BSL Turk Telekom 78, Bursaspor 69",
+   "detected_at": "2026-10-03 22:05:48",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-03/Turk-Telekom-at-Bursaspor/534751"
+  },
+  {
+   "detail": "Turkish BSL + Tony Taylor → Turk Telekom",
+   "detected_at": "2026-10-03 22:05:47",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish BSL Merkezefendi Belediyesi Denizli Basket 101, Tofas SC 87",
+   "detected_at": "2026-10-03 22:05:45",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-03/Tofas-SC-at-Merkezefendi-Belediyesi-Denizli-Basket/534755"
+  },
+  {
+   "detail": "Kelly Olynyk  ~ league: Lega Basket Serie A -> LBA EuroCup",
+   "detected_at": "2026-10-03 22:05:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kelly_Olynyk"
+  },
+  {
+   "detail": "Kelly Olynyk  ~ number: - -> 22",
+   "detected_at": "2026-10-03 22:05:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kelly_Olynyk"
+  },
+  {
    "detail": "Kelly Olynyk  ~ 8330: league -> Lega Basket Serie A",
    "detected_at": "2026-10-03 21:47:11",
    "source": "WIKIWATCH",
@@ -10380,55 +10429,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Eurocup + Giovanni Emejuru → Roma SPQR",
-   "detected_at": "2026-09-30 20:00:59",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Eurocup + Erik Stevenson → Roma SPQR",
-   "detected_at": "2026-09-30 20:00:59",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Eurocup + Paul Watson → Roma SPQR",
-   "detected_at": "2026-09-30 20:00:59",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Eurocup + Mike Iuzzolino → Roma SPQR",
-   "detected_at": "2026-09-30 20:00:59",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Eurocup + Corey Davis → Roma SPQR",
-   "detected_at": "2026-09-30 20:00:59",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Eurocup Siauliai 74, London Lions 71",
-   "detected_at": "2026-09-30 20:00:57",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-30/London-Lions-at-Siauliai/526663"
-  },
-  {
-   "detail": "Reggie Perry (basketball)  ~ number: - -> 11",
-   "detected_at": "2026-09-30 18:28:37",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Reggie_Perry_(basketball)"
   }
  ],
  "feeds": {
@@ -10449,12 +10449,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 6384,
-   "last": "2026-10-03 20:59:36"
+   "count": 6386,
+   "last": "2026-10-03 22:05:51"
   },
   "SCORES": {
-   "count": 1219,
-   "last": "2026-10-03 20:59:37"
+   "count": 1222,
+   "last": "2026-10-03 22:05:53"
   },
   "SHEETS": {
    "count": 4538,
@@ -10465,14 +10465,14 @@
    "last": "2026-10-02 14:47:55"
   },
   "WIKI": {
-   "count": 4934,
-   "last": "2026-10-03 18:56:38"
+   "count": 4936,
+   "last": "2026-10-03 22:05:38"
   },
   "WIKIWATCH": {
    "count": 336,
    "last": "2026-10-03 21:47:11"
   }
  },
- "generated_at": "2026-10-03T21:57:00",
- "total": 23843
+ "generated_at": "2026-10-03T22:06:14",
+ "total": 23850
 }
