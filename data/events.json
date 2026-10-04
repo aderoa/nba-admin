@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Jalen Lecque  ~ number: - -> 0",
+   "detected_at": "2026-10-04 07:50:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jalen_Lecque"
+  },
+  {
    "detail": "Ethan Thompson  ~ 88903: position -> Shooting guard",
    "detected_at": "2026-10-04 07:34:04",
    "source": "WIKIWATCH",
@@ -10482,13 +10489,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Markel_Starks"
-  },
-  {
-   "detail": "Amar Alibegović  ~ league: Lega Basket Serie A -> Lega Basket Serie A EuroCup",
-   "detected_at": "2026-10-02 09:47:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Amar_Alibegovi%C4%87"
   }
  ],
  "feeds": {
@@ -10525,14 +10525,14 @@
    "last": "2026-10-02 14:47:55"
   },
   "WIKI": {
-   "count": 4950,
-   "last": "2026-10-04 07:26:38"
+   "count": 4951,
+   "last": "2026-10-04 07:50:37"
   },
   "WIKIWATCH": {
    "count": 337,
    "last": "2026-10-04 07:34:04"
   }
  },
- "generated_at": "2026-10-04T07:39:02",
- "total": 24504
+ "generated_at": "2026-10-04T07:50:38",
+ "total": 24505
 }
