@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Kelly Olynyk  ~ 8330: league -> Lega Basket Serie A",
+   "detected_at": "2026-10-03 21:47:11",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "LBA EuroCup"
+  },
+  {
+   "detail": "Kelly Olynyk  ~ 8330: number -> -",
+   "detected_at": "2026-10-03 21:47:11",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "22"
+  },
+  {
    "detail": "Israel BSL Winner Cup Hapoel Tel Aviv 79, Ironi Nes Ziona 76",
    "detected_at": "2026-10-03 20:59:37",
    "source": "SCORES",
@@ -10415,20 +10429,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Reggie_Perry_(basketball)"
-  },
-  {
-   "detail": "Adin Vrabac  ~ number: - -> 7",
-   "detected_at": "2026-09-30 18:28:37",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Adin_Vrabac"
-  },
-  {
-   "detail": "Ryan Nembhard  ~ 133796: team -> Free agent",
-   "detected_at": "2026-09-30 16:40:12",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "Denver Nuggets"
   }
  ],
  "feeds": {
@@ -10469,10 +10469,10 @@
    "last": "2026-10-03 18:56:38"
   },
   "WIKIWATCH": {
-   "count": 334,
-   "last": "2026-10-03 11:55:53"
+   "count": 336,
+   "last": "2026-10-03 21:47:11"
   }
  },
- "generated_at": "2026-10-03T21:47:02",
- "total": 23841
+ "generated_at": "2026-10-03T21:48:01",
+ "total": 23843
 }
