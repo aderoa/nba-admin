@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Ethan Thompson  ~ 88903: position -> Shooting guard",
+   "detected_at": "2026-10-04 07:34:04",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Shooting guard / small forward"
+  },
+  {
    "detail": "Danish Basketligaen Horsens IC 99, Vaerlose BBK 79",
    "detected_at": "2026-10-04 07:29:59",
    "source": "SCORES",
@@ -10482,13 +10489,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Amar_Alibegovi%C4%87"
-  },
-  {
-   "detail": "Amar Alibegović  ~ number: - -> 7",
-   "detected_at": "2026-10-02 09:47:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Amar_Alibegovi%C4%87"
   }
  ],
  "feeds": {
@@ -10529,10 +10529,10 @@
    "last": "2026-10-04 07:26:38"
   },
   "WIKIWATCH": {
-   "count": 336,
-   "last": "2026-10-03 21:47:11"
+   "count": 337,
+   "last": "2026-10-04 07:34:04"
   }
  },
- "generated_at": "2026-10-04T07:30:20",
- "total": 24503
+ "generated_at": "2026-10-04T07:35:06",
+ "total": 24504
 }
