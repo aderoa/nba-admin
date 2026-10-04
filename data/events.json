@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Michalis Tsairelis  ~ number: 9 -> 6",
+   "detected_at": "2026-10-03 22:52:01",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Michalis_Tsairelis"
+  },
+  {
+   "detail": "Nikos Arsenopoulos  ~ number: - -> 7",
+   "detected_at": "2026-10-03 22:52:01",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Nikos_Arsenopoulos"
+  },
+  {
+   "detail": "Vassilis Christidis  ~ number: - -> 14",
+   "detected_at": "2026-10-03 22:52:01",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Vassilis_Christidis"
+  },
+  {
    "detail": "Turkish BSL Esenler Erokspor 96, Socar Petkimspor 87",
    "detected_at": "2026-10-03 22:05:53",
    "source": "SCORES",
@@ -10408,27 +10429,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Eurocup + Andrea Mezzanotte → Roma SPQR",
-   "detected_at": "2026-09-30 20:00:59",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Eurocup + Arturs Strautins → Roma SPQR",
-   "detected_at": "2026-09-30 20:00:59",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Eurocup + Marko Simonovic → Roma SPQR",
-   "detected_at": "2026-09-30 20:00:59",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10465,14 +10465,14 @@
    "last": "2026-10-02 14:47:55"
   },
   "WIKI": {
-   "count": 4936,
-   "last": "2026-10-03 22:05:38"
+   "count": 4939,
+   "last": "2026-10-03 22:52:01"
   },
   "WIKIWATCH": {
    "count": 336,
    "last": "2026-10-03 21:47:11"
   }
  },
- "generated_at": "2026-10-03T22:43:01",
- "total": 23850
+ "generated_at": "2026-10-03T22:52:02",
+ "total": 23853
 }
