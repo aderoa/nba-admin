@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Ethan Thompson  ~ 88903: position -> Shooting guard / small forward",
+   "detected_at": "2026-10-04 13:49:11",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Shooting guard"
+  },
+  {
    "detail": "Davide Moretti  ~ CAREER  + 2026–present Acqua S.Bernardo Cantù",
    "detected_at": "2026-10-04 13:37:36",
    "source": "WIKI",
@@ -10483,13 +10490,6 @@
    "source": "WIKIWATCH",
    "type": "FIELD",
    "url": "Point guard / shooting guard"
-  },
-  {
-   "detail": "Shavon Shields  ~ 42333: position -> Shooting guard",
-   "detected_at": "2026-10-02 14:24:49",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "Small forward"
   }
  ],
  "feeds": {
@@ -10530,10 +10530,10 @@
    "last": "2026-10-04 13:37:36"
   },
   "WIKIWATCH": {
-   "count": 337,
-   "last": "2026-10-04 07:34:04"
+   "count": 338,
+   "last": "2026-10-04 13:49:11"
   }
  },
- "generated_at": "2026-10-04T13:49:01",
- "total": 24526
+ "generated_at": "2026-10-04T13:50:00",
+ "total": 24527
 }
