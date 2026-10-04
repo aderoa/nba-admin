@@ -1,6 +1,55 @@
 {
  "events": [
   {
+   "detail": "Turkish TBL Royal Hali Gaziantep 70, Harem Spor 67",
+   "detected_at": "2026-10-03 23:16:56",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-03/Harem-Spor-at-Royal-Hali-Gaziantep/534736"
+  },
+  {
+   "detail": "Turkish TBL Kahramanmaras Kipas Istiklal 85, Kecioren Baglum 72",
+   "detected_at": "2026-10-03 23:16:53",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-03/Kecioren-Baglum-at-Kahramanmaras-Kipas-Istiklal/534733"
+  },
+  {
+   "detail": "Turkish TBL + Mert Konuk → Kecioren Baglum",
+   "detected_at": "2026-10-03 23:16:52",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL Balikesir Buyuksehir Belediysepor 91, Aykon TED Kolejliler Ankara 85",
+   "detected_at": "2026-10-03 23:16:50",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-03/Balikesir-Buyuksehir-Belediysepor-at-Aykon-TED-Kolejliler-Ankara/534740"
+  },
+  {
+   "detail": "Turkish TBL + Eren Karakaya → Aykon TED Kolejliler Ankara",
+   "detected_at": "2026-10-03 23:16:49",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL Cedi Osman Spor Kulubu 81, Fenerbache Koleji 2nd Team 68",
+   "detected_at": "2026-10-03 23:16:47",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-03/Cedi-Osman-Spor-Kulubu-at-Fenerbache-Koleji-2nd-Team/534735"
+  },
+  {
+   "detail": "Turkish TBL ~ RETURN Yigit Yanci → Fenerbache Koleji 2nd Team (from Fenerbahce Beko)",
+   "detected_at": "2026-10-03 23:16:46",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
    "detail": "Michalis Tsairelis  ~ number: 9 -> 6",
    "detected_at": "2026-10-03 22:52:01",
    "source": "WIKI",
@@ -10380,55 +10429,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Finnish Korisliiga + Kion Williams → Korihait",
-   "detected_at": "2026-09-30 21:09:45",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Coty Clarke  ~ team: Shimane Susanoo Magic -> Free Agent",
-   "detected_at": "2026-09-30 20:23:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Coty_Clarke"
-  },
-  {
-   "detail": "Coty Clarke  ~ number: 1 -> -",
-   "detected_at": "2026-09-30 20:23:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Coty_Clarke"
-  },
-  {
-   "detail": "Eurocup Rigas Zelli 86, Bertram Tortona 84",
-   "detected_at": "2026-09-30 20:01:03",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-30/Bertram-Tortona-at-Rigas-Zelli/526674"
-  },
-  {
-   "detail": "Eurocup Bahcesehir Koleji 91, Roma SPQR 78",
-   "detected_at": "2026-09-30 20:01:00",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-09-30/Roma-SPQR-at-Bahcesehir-Koleji/526664"
-  },
-  {
-   "detail": "Eurocup + Gerald Ayayi → Roma SPQR",
-   "detected_at": "2026-09-30 20:00:59",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Eurocup + Nico Mannion → Roma SPQR",
-   "detected_at": "2026-09-30 20:00:59",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10449,12 +10449,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 6386,
-   "last": "2026-10-03 22:05:51"
+   "count": 6389,
+   "last": "2026-10-03 23:16:52"
   },
   "SCORES": {
-   "count": 1222,
-   "last": "2026-10-03 22:05:53"
+   "count": 1226,
+   "last": "2026-10-03 23:16:56"
   },
   "SHEETS": {
    "count": 4538,
@@ -10473,6 +10473,6 @@
    "last": "2026-10-03 21:47:11"
   }
  },
- "generated_at": "2026-10-03T23:05:02",
- "total": 23853
+ "generated_at": "2026-10-03T23:17:15",
+ "total": 23860
 }
