@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Frank Ntilikina  ~ number: - -> 5",
+   "detected_at": "2026-10-03 17:17:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Frank_Ntilikina"
+  },
+  {
    "detail": "Hungarian NBIA Budapesti Honved Se 93, DEAC 88",
    "detected_at": "2026-10-03 16:54:53",
    "source": "SCORES",
@@ -10303,12 +10310,6 @@
    "detected_at": "2026-09-30 12:28:58",
    "source": "SHEETS",
    "type": "ADDED"
-  },
-  {
-   "detail": "SAC  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 220981452.3 -> 222339215.3, col9: 484935482.6 -> 486293245.6",
-   "detected_at": "2026-09-30 12:27:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10345,14 +10346,14 @@
    "last": "2026-10-02 14:47:55"
   },
   "WIKI": {
-   "count": 4922,
-   "last": "2026-10-03 16:54:36"
+   "count": 4923,
+   "last": "2026-10-03 17:17:37"
   },
   "WIKIWATCH": {
    "count": 334,
    "last": "2026-10-03 11:55:53"
   }
  },
- "generated_at": "2026-10-03T17:09:02",
- "total": 23670
+ "generated_at": "2026-10-03T17:17:37",
+ "total": 23671
 }
