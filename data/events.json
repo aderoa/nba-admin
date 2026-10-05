@@ -1,6 +1,66 @@
 {
  "events": [
   {
+   "detail": "WAS  + ADDED  Gortman, Jazian",
+   "detected_at": "2026-10-05 06:44:58",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "WAS  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 245714465.5 -> 247899581.5, col9: 608881249.5 -> 611066365.5",
+   "detected_at": "2026-10-05 06:44:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "WAS  CHANGED Players Under Contract  -  col3: 201546473 -> 203731589",
+   "detected_at": "2026-10-05 06:44:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "WAS  CHANGED Full Season Contracts  -  col3: 201546473 -> 203731589",
+   "detected_at": "2026-10-05 06:44:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "WAS  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 18 -> 19",
+   "detected_at": "2026-10-05 06:44:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col31: 1118473 -> 3303589",
+   "detected_at": "2026-10-05 06:44:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 1st Incremental Tax Bracket  -  col31: 1118473 -> 3303589",
+   "detected_at": "2026-10-05 06:44:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col31: 1118473 -> 3303589",
+   "detected_at": "2026-10-05 06:44:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED Update 1.3 (7/18/26): O. Agbaji, B. Beal, J. Bernard, R. Beekman, S. Bey, L. Black, B. Boston, T. Bradley, D. Brooks, K. Brooks, B. Brown, K. Bufkin, J. Butler Jr., K. Caldwell-Pope, D. Carter, K. Chandler, M. Cisse, Y. Collins, I. Crawford, J. Crutcher, J. Cumberland, S. Curry, N. Dante, J. Davison, D. DeRozan, J. Duren, D. Eubanks, T. Fall, K. George, A. Gill, H. Gray, D. Green, J. Harden, M. Hezonja, H. Highsmith, C. Houstan, H. Ingram, A. Jackson, L. James, J. Johnson, K. Johnson, C. Jones D. Jones, S. Jones, Y. Kawamura, T. Keels, M. Kelly, K. Knox, C. Koloko, J. Konchar, J. Kuminga, P. Larsson, K. Leonard, K. Lewis, C. Livingston, L. Lovering, S. Lundy, N. Marshall, K. Martin, B. Mathurin, B. Mbeng, G. McGlothan, D. Melton, E. Miller, T. Newton, G. Niang, M. Nowell, T. Okani, N. Omier, E. Payton, G. Payton, T. Peter, D. Peterson, J. Phillips, D. Plowden, D. Powell, J. Preston, L. Quinones, D. Reath, N. Richards, K. Richmond, A. Reeves, L. Robbins, O. Robinson, H. Sallis, P. Sandfort, J. Schakel, M. Sears, J. Shead, B. Simmons, M. Smith, Z. Smith, J. Sochan, D. Stockton, C. Swider, J. Tate, D. Terry, A. Thompson, A. Thompson, K. Thompson, M. Thybulle, D. Timme, A. Toohey, O. Tshiebwe, M. Wagner, L. Walker, J. Walsh, T. Watford, A. Watson, P. Watson, B. Wesley, P. Wheeler, B. Williams, M. Williams, J. Wiseman, I. Wong",
+   "detected_at": "2026-10-05 06:44:55",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Update 1.3 (7/18/26): O. Agbaji, B. Beal, J. Bernard, R. Beekman, S. Bey, L. Black, B. Boston, T. Bradley, D. Brooks, K. Brooks, B. Brown, K. Bufkin, J. Butler Jr., K. Caldwell-Pope, D. Carter, K. Chandler, M. Cisse, Y. Collins, I. Crawford, J. Crutcher, J. Cumberland, S. Curry, N. Dante, J. Davison, D. DeRozan, J. Duren, D. Eubanks, T. Fall, K. George, A. Gill, J. Gortman, H. Gray, D. Green, J. Harden, M. Hezonja, H. Highsmith, C. Houstan, H. Ingram, A. Jackson, L. James, J. Johnson, K. Johnson, C. Jones D. Jones, S. Jones, Y. Kawamura, T. Keels, M. Kelly, K. Knox, C. Koloko, J. Konchar, J. Kuminga, P. Larsson, K. Leonard, K. Lewis, C. Livingston, L. Lovering, S. Lundy, N. Marshall, K. Martin, B. Mathurin, B. Mbeng, G. McGlothan, D. Melton, E. Miller, T. Newton, G. Niang, M. Nowell, T. Okani, N. Omier, E. Payton, G. Payton, T. Peter, D. Peterson, J. Phillips, D. Plowden, D. Powell, J. Preston, L. Quinones, D. Reath, N. Richards, K. Richmond, A. Reeves, L. Robbins, O. Robinson, H. Sallis, P. Sandfort, J. Schakel, M. Sears, J. Shead, B. Simmons, M. Smith, Z. Smith, J. Sochan, D. Stockton, C. Swider, J. Tate, D. Terry, A. Thompson, A. Thompson, K. Thompson, M. Thybulle, D. Timme, A. Toohey, O. Tshiebwe, M. Wagner, L. Walker, J. Walsh, T. Watford, A. Watson, P. Watson, B. Wesley, P. Wheeler, B. Williams, M. Williams, J. Wiseman, I. Wong",
+   "detected_at": "2026-10-05 06:44:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "DET  CHANGED Duren, Jalen  -  col9: 116064259 -> 200000000",
    "detected_at": "2026-10-05 06:38:58",
    "source": "SHEETS",
@@ -10356,82 +10416,12 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-10-03/Sencur-Gorenjska-Gradbena-Druzba-Kranj-at-KK-Tajfun-Sentjur/536757"
-  },
-  {
-   "detail": "Slovenian SKL + Tine Kotnik → Sencur Gorenjska Gradbena Druzba Kranj",
-   "detected_at": "2026-10-03 18:57:15",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Slovenian SKL + Daniel Hornbuckle → KK Tajfun Sentjur",
-   "detected_at": "2026-10-03 18:57:15",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Slovenian SKL + Urban Durnik → KK Tajfun Sentjur",
-   "detected_at": "2026-10-03 18:57:15",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Slovenian SKL + Domen Mocnik → KK Tajfun Sentjur",
-   "detected_at": "2026-10-03 18:57:15",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French Jeep Elite ~ MOVED Erwan Djoni → Nancy Basket (from Espoirs Nancy)",
-   "detected_at": "2026-10-03 18:57:12",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
-  },
-  {
-   "detail": "French Jeep Elite Cholet Basket 85, Nancy Basket 76",
-   "detected_at": "2026-10-03 18:57:12",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-03/Cholet-Basket-at-Nancy-Basket/538571"
-  },
-  {
-   "detail": "French Jeep Elite ~ MOVED Emrys Dadeke → JDA Dijon Basket (from Espoirs Dijon)",
-   "detected_at": "2026-10-03 18:57:09",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
-  },
-  {
-   "detail": "French Jeep Elite JDA Dijon Basket 89, Pau Orthez 61",
-   "detected_at": "2026-10-03 18:57:09",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-03/JDA-Dijon-Basket-at-Pau-Orthez/538574"
-  },
-  {
-   "detail": "French Jeep Elite + Jacob Grandison → Chalon Sur Saone",
-   "detected_at": "2026-10-03 18:57:06",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French Jeep Elite + Clarence Nadolny → Chalon Sur Saone",
-   "detected_at": "2026-10-03 18:57:06",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 3530,
-   "last": "2026-10-05 06:38:55"
+   "count": 3532,
+   "last": "2026-10-05 06:44:55"
   },
   "GLEAGUE": {
    "count": 161,
@@ -10454,8 +10444,8 @@
    "last": "2026-10-05 05:49:07"
   },
   "SHEETS": {
-   "count": 4576,
-   "last": "2026-10-05 06:38:58"
+   "count": 4584,
+   "last": "2026-10-05 06:44:58"
   },
   "TRANSACTIONS": {
    "count": 476,
@@ -10470,6 +10460,6 @@
    "last": "2026-10-04 22:09:12"
   }
  },
- "generated_at": "2026-10-05T06:41:01",
- "total": 25227
+ "generated_at": "2026-10-05T06:45:01",
+ "total": 25237
 }
