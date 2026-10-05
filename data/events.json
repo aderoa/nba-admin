@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "+ ADDED   Taylor Funk (UTA)",
+   "detected_at": "2026-10-05 11:06:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
    "detail": "+ ADDED   Tyson Degenhart (TOR)",
    "detected_at": "2026-10-05 09:11:54",
    "source": "PLAYERS",
@@ -10368,13 +10374,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Austrian A Bundesliga + Jonas Bekto → Redwell Gunners Oberwart",
-   "detected_at": "2026-10-04 01:26:54",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10387,8 +10386,8 @@
    "last": "2026-10-03 07:02:00"
   },
   "PLAYERS": {
-   "count": 1352,
-   "last": "2026-10-05 09:11:54"
+   "count": 1353,
+   "last": "2026-10-05 11:06:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10419,6 +10418,6 @@
    "last": "2026-10-04 22:09:12"
   }
  },
- "generated_at": "2026-10-05T11:06:04",
- "total": 25430
+ "generated_at": "2026-10-05T11:07:02",
+ "total": 25431
 }
