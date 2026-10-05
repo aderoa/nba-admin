@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Jordan Hawkins  ~ team: Free Agent -> Free agent",
+   "detected_at": "2026-10-05 07:22:40",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jordan_Hawkins"
+  },
+  {
+   "detail": "Jalen Bridges  ~ CAREER  + 2026–present Windy City Bulls-->",
+   "detected_at": "2026-10-05 07:22:40",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Jalen_Bridges"
+  },
+  {
+   "detail": "Kadary Richmond  ~ CAREER  + 2026–present Cleveland Charge-->",
+   "detected_at": "2026-10-05 07:22:40",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Kadary_Richmond"
+  },
+  {
    "detail": "CHI  + ADDED  Bridges, Jalen",
    "detected_at": "2026-10-05 07:06:59",
    "source": "SHEETS",
@@ -10356,27 +10377,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Ukrainian Superleague ~ MOVED Jamir Simpson → MBC Mykolaiv (from Correcaminos)",
-   "detected_at": "2026-10-04 01:26:30",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
-  },
-  {
-   "detail": "Ukrainian Superleague + Oleksandr Garbar → MBC Mykolaiv",
-   "detected_at": "2026-10-04 01:26:30",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Ukrainian Superleague + Maksym Safonov → MBC Mykolaiv",
-   "detected_at": "2026-10-04 01:26:30",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10413,14 +10413,14 @@
    "last": "2026-10-04 21:14:55"
   },
   "WIKI": {
-   "count": 4988,
-   "last": "2026-10-05 04:15:39"
+   "count": 4991,
+   "last": "2026-10-05 07:22:40"
   },
   "WIKIWATCH": {
    "count": 340,
    "last": "2026-10-04 22:09:12"
   }
  },
- "generated_at": "2026-10-05T07:14:01",
- "total": 25375
+ "generated_at": "2026-10-05T07:22:41",
+ "total": 25378
 }
