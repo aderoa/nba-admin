@@ -1,6 +1,18 @@
 {
  "events": [
   {
+   "detail": "2026-27 Rookie Signings  - REMOVED Sean East Sacramento Kings",
+   "detected_at": "2026-10-05 06:17:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Sean East (WAIVED) Sacramento Kings",
+   "detected_at": "2026-10-05 06:17:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "Italian Lega Basket Serie A Roma SPQR 108, Bertram Tortona 70",
    "detected_at": "2026-10-05 05:49:07",
    "source": "SCORES",
@@ -10477,26 +10489,12 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Hungarian NBIA + Kristof Simon → Budapesti Honved Se",
-   "detected_at": "2026-10-03 16:54:52",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Hungarian NBIA + Ivan Keller → Budapesti Honved Se",
-   "detected_at": "2026-10-03 16:54:52",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 3503,
-   "last": "2026-10-02 08:07:55"
+   "count": 3505,
+   "last": "2026-10-05 06:17:56"
   },
   "GLEAGUE": {
    "count": 161,
@@ -10535,6 +10533,6 @@
    "last": "2026-10-04 22:09:12"
   }
  },
- "generated_at": "2026-10-05T06:17:00",
- "total": 25162
+ "generated_at": "2026-10-05T06:18:02",
+ "total": 25164
 }
