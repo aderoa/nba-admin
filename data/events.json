@@ -1,6 +1,126 @@
 {
  "events": [
   {
+   "detail": "CHI  + ADDED  Bridges, Jalen",
+   "detected_at": "2026-10-05 07:06:59",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "CHI  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 175567767 -> 177752883, col9: 410513320.9 -> 412698436.9",
+   "detected_at": "2026-10-05 07:06:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "CHI  CHANGED Players Under Contract  -  col3: 174492308 -> 176677424",
+   "detected_at": "2026-10-05 07:06:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "CHI  CHANGED Full Season Contracts  -  col3: 174492308 -> 176677424",
+   "detected_at": "2026-10-05 07:06:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "CHI  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 18 -> 19",
+   "detected_at": "2026-10-05 07:06:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "POR  + ADDED  Martin, Jaylen",
+   "detected_at": "2026-10-05 07:06:59",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "POR  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 205997083.3 -> 208446504.3, col9: 501544490.4 -> 503993911.4",
+   "detected_at": "2026-10-05 07:06:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "POR  CHANGED Players Under Contract  -  col3: 194274861.6 -> 196724282.6",
+   "detected_at": "2026-10-05 07:06:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "POR  CHANGED Full Season Contracts  -  col3: 194274861.6 -> 196724282.6",
+   "detected_at": "2026-10-05 07:06:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "POR  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 15 -> 16",
+   "detected_at": "2026-10-05 07:06:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED Update 1.3 (7/18/26): O. Agbaji, B. Beal, J. Bernard, R. Beekman, S. Bey, L. Black, B. Boston, T. Bradley, J. Bridges, D. Brooks, K. Brooks, B. Brown, K. Bufkin, J. Butler Jr., K. Caldwell-Pope, D. Carter, K. Chandler, M. Cisse, Y. Collins, I. Crawford, J. Crutcher, J. Cumberland, S. Curry, N. Dante, J. Davison, D. DeRozan, J. Duren, D. Eubanks, T. Fall, K. George, A. Gill, J. Gortman, H. Gray, D. Green, J. Harden, M. Hezonja, H. Highsmith, C. Houstan, H. Ingram, A. Jackson, L. James, J. Johnson, K. Johnson, C. Jones D. Jones, S. Jones, Y. Kawamura, T. Keels, M. Kelly, K. Knox, C. Koloko, J. Konchar, J. Kuminga, P. Larsson, K. Leonard, K. Lewis, C. Livingston, L. Lovering, S. Lundy, N. Marshall, K. Martin, B. Mathurin, B. Mbeng, G. McGlothan, D. Melton, E. Miller, T. Newton, G. Niang, M. Nowell, T. Okani, N. Omier, E. Payton, G. Payton, T. Peter, D. Peterson, J. Phillips, D. Plowden, D. Powell, J. Preston, L. Quinones, D. Reath, N. Richards, K. Richmond, A. Reeves, L. Robbins, O. Robinson, H. Sallis, P. Sandfort, J. Schakel, M. Sears, J. Shead, B. Simmons, M. Smith, Z. Smith, J. Sochan, I. Stevens, D. Stockton, C. Swider, J. Tate, D. Terry, A. Thompson, A. Thompson, K. Thompson, M. Thybulle, D. Timme, A. Toohey, O. Tshiebwe, M. Wagner, L. Walker, J. Walsh, T. Watford, A. Watson, P. Watson, B. Wesley, P. Wheeler, B. Williams, M. Williams, J. Wiseman, I. Wong",
+   "detected_at": "2026-10-05 07:06:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Update 1.3 (7/18/26): O. Agbaji, B. Beal, J. Bernard, R. Beekman, S. Bey, L. Black, B. Boston, T. Bradley, J. Bridges, D. Brooks, K. Brooks, B. Brown, K. Bufkin, J. Butler Jr., K. Caldwell-Pope, D. Carter, K. Chandler, M. Cisse, Y. Collins, I. Crawford, J. Crutcher, J. Cumberland, S. Curry, N. Dante, J. Davison, D. DeRozan, J. Duren, D. Eubanks, T. Fall, K. George, A. Gill, J. Gortman, H. Gray, D. Green, J. Harden, M. Hezonja, H. Highsmith, C. Houstan, H. Ingram, A. Jackson, L. James, J. Johnson, K. Johnson, C. Jones D. Jones, S. Jones, Y. Kawamura, T. Keels, M. Kelly, K. Knox, C. Koloko, J. Konchar, J. Kuminga, P. Larsson, K. Leonard, K. Lewis, C. Livingston, L. Lovering, S. Lundy, N. Marshall, J. Martin, K. Martin, B. Mathurin, B. Mbeng, G. McGlothan, D. Melton, E. Miller, T. Newton, G. Niang, M. Nowell, T. Okani, N. Omier, E. Payton, G. Payton, T. Peter, D. Peterson, J. Phillips, D. Plowden, D. Powell, J. Preston, L. Quinones, D. Reath, N. Richards, K. Richmond, A. Reeves, L. Robbins, O. Robinson, H. Sallis, P. Sandfort, J. Schakel, M. Sears, J. Shead, B. Simmons, M. Smith, Z. Smith, J. Sochan, I. Stevens, D. Stockton, C. Swider, J. Tate, D. Terry, A. Thompson, A. Thompson, K. Thompson, M. Thybulle, D. Timme, A. Toohey, O. Tshiebwe, M. Wagner, L. Walker, J. Walsh, T. Watford, A. Watson, P. Watson, B. Wesley, P. Wheeler, B. Williams, M. Williams, J. Wiseman, I. Wong",
+   "detected_at": "2026-10-05 07:06:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Jalen Bridges Chicago Bulls",
+   "detected_at": "2026-10-05 07:06:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  26-27 $2,185,116",
+   "detected_at": "2026-10-05 07:06:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
+   "detected_at": "2026-10-05 07:06:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 10/126",
+   "detected_at": "2026-10-05 07:06:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Jaylen Martin Portland Trail Blazers",
+   "detected_at": "2026-10-05 07:06:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  26-27 $2,449,421",
+   "detected_at": "2026-10-05 07:06:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Minimum Salary Exception. Love of the Game. Physical Exam. Alt. 7(b). Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($45,000).",
+   "detected_at": "2026-10-05 07:06:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 9/30/26",
+   "detected_at": "2026-10-05 07:06:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "Italian Serie A2 Basket + Gaeta Filippo → Akern Libertas Livorno",
    "detected_at": "2026-10-05 07:01:33",
    "source": "REALGM",
@@ -10257,152 +10377,12 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Ukrainian Superleague + Bohdan Lukian → MBC Mykolaiv",
-   "detected_at": "2026-10-04 01:26:30",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Ukrainian Superleague + Yehor Ryzhkov → MBC Mykolaiv",
-   "detected_at": "2026-10-04 01:26:30",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Ukrainian Superleague + Michael Wright → MBC Mykolaiv",
-   "detected_at": "2026-10-04 01:26:30",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Ukrainian Superleague + Artem Vodolazskyi → MBC Mykolaiv",
-   "detected_at": "2026-10-04 01:26:30",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Ukrainian Superleague + Danylo Stryzhak → MBC Mykolaiv",
-   "detected_at": "2026-10-04 01:26:30",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Ukrainian Superleague + Nikita Besheita → MBC Mykolaiv",
-   "detected_at": "2026-10-04 01:26:30",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Ukrainian Superleague + Vitaly Volodin → MBC Mykolaiv",
-   "detected_at": "2026-10-04 01:26:30",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Ukrainian Superleague SK Cherkasy Monkeys 89, MBC Mykolaiv 71",
-   "detected_at": "2026-10-04 01:26:30",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-03/SK-Cherkasy-Monkeys-at-MBC-Mykolaiv/541709"
-  },
-  {
-   "detail": "Spanish Liga U Joventut Liga U 101, Unicaja Liga U 59",
-   "detected_at": "2026-10-04 00:27:08",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-02/Unicaja-Liga-U-at-Joventut-Liga-U/541883"
-  },
-  {
-   "detail": "French NM1 Berck Rang Du Fliers 87, Val De Seine 69",
-   "detected_at": "2026-10-04 00:27:03",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-03/Val-De-Seine-at-Berck-Rang-Du-Fliers/535130"
-  },
-  {
-   "detail": "French NM1 AS Loon Plage Basket 81, Saint Chamond NM1 73",
-   "detected_at": "2026-10-04 00:27:00",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-03/AS-Loon-Plage-Basket-at-Saint-Chamond-NM1/535131"
-  },
-  {
-   "detail": "French NM1 Vendee Challans Basket 89, Laval US 87",
-   "detected_at": "2026-10-04 00:26:57",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-03/Vendee-Challans-Basket-at-Laval-US/535134"
-  },
-  {
-   "detail": "Romanian Divizia A CS Dinamo Bucuresti 87, CS Rapid Bucuresti 62",
-   "detected_at": "2026-10-04 00:26:54",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-03/CS-Dinamo-Bucuresti-at-CS-Rapid-Bucuresti/535751"
-  },
-  {
-   "detail": "Romanian Divizia A CSM Oradea 101, CSM Phoenix Galati 74",
-   "detected_at": "2026-10-04 00:26:50",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-03/CSM-Oradea-at-CSM-Phoenix-Galati/535750"
-  },
-  {
-   "detail": "Romanian Divizia A SCM CSU Craiova 113, CSM Corona Brasov 98",
-   "detected_at": "2026-10-04 00:26:46",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-03/SCM-CSU-Craiova-at-CSM-Corona-Brasov/535749"
-  },
-  {
-   "detail": "Turkish TBL Royal Hali Gaziantep 70, Harem Spor 67",
-   "detected_at": "2026-10-03 23:16:56",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-03/Harem-Spor-at-Royal-Hali-Gaziantep/534736"
-  },
-  {
-   "detail": "Turkish TBL Kahramanmaras Kipas Istiklal 85, Kecioren Baglum 72",
-   "detected_at": "2026-10-03 23:16:53",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-03/Kecioren-Baglum-at-Kahramanmaras-Kipas-Istiklal/534733"
-  },
-  {
-   "detail": "Turkish TBL + Mert Konuk → Kecioren Baglum",
-   "detected_at": "2026-10-03 23:16:52",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Turkish TBL Balikesir Buyuksehir Belediysepor 91, Aykon TED Kolejliler Ankara 85",
-   "detected_at": "2026-10-03 23:16:50",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-03/Balikesir-Buyuksehir-Belediysepor-at-Aykon-TED-Kolejliler-Ankara/534740"
-  },
-  {
-   "detail": "Turkish TBL + Eren Karakaya → Aykon TED Kolejliler Ankara",
-   "detected_at": "2026-10-03 23:16:49",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 3546,
-   "last": "2026-10-05 06:50:56"
+   "count": 3556,
+   "last": "2026-10-05 07:06:56"
   },
   "GLEAGUE": {
    "count": 161,
@@ -10425,8 +10405,8 @@
    "last": "2026-10-05 07:01:33"
   },
   "SHEETS": {
-   "count": 4589,
-   "last": "2026-10-05 06:47:00"
+   "count": 4599,
+   "last": "2026-10-05 07:06:59"
   },
   "TRANSACTIONS": {
    "count": 476,
@@ -10441,6 +10421,6 @@
    "last": "2026-10-04 22:09:12"
   }
  },
- "generated_at": "2026-10-05T07:01:58",
- "total": 25355
+ "generated_at": "2026-10-05T07:07:03",
+ "total": 25375
 }
