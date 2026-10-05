@@ -1,6 +1,30 @@
 {
  "events": [
   {
+   "detail": "2026-10-05  Chicago Bulls waived guard Isaiah Stevens.",
+   "detected_at": "2026-10-05 14:50:55",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-05  Orlando Magic waived guard Mike Sharavjamts.",
+   "detected_at": "2026-10-05 14:50:55",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-05  Toronto Raptors waived guard Andre Jackson Jr..",
+   "detected_at": "2026-10-05 14:50:55",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-05  Washington Wizards waived guard Jazian Gortman.",
+   "detected_at": "2026-10-05 14:50:55",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
    "detail": "Luka Bozic  ~ 41579: number -> -",
    "detected_at": "2026-10-05 14:47:11",
    "source": "WIKIWATCH",
@@ -10345,34 +10369,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Ethan_Thompson"
-  },
-  {
-   "detail": "Brandon Boston Jr.  ~ number: 11 -> 13",
-   "detected_at": "2026-10-04 07:26:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Brandon_Boston_Jr."
-  },
-  {
-   "detail": "Kadary Richmond  ~ CAREER  + –present Cleveland Cavaliers",
-   "detected_at": "2026-10-04 07:26:38",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Kadary_Richmond"
-  },
-  {
-   "detail": "Rihards Lomažs  ~ team: Free Agent -> Cedevita Olimpija",
-   "detected_at": "2026-10-04 07:26:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Rihards_Loma%C5%BEs"
-  },
-  {
-   "detail": "Rihards Lomažs  ~ league: - -> Slovenian League ABA League EuroCup",
-   "detected_at": "2026-10-04 07:26:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Rihards_Loma%C5%BEs"
   }
  ],
  "feeds": {
@@ -10405,8 +10401,8 @@
    "last": "2026-10-05 07:06:59"
   },
   "TRANSACTIONS": {
-   "count": 477,
-   "last": "2026-10-05 14:42:55"
+   "count": 481,
+   "last": "2026-10-05 14:50:55"
   },
   "WIKI": {
    "count": 5000,
@@ -10417,6 +10413,6 @@
    "last": "2026-10-05 14:47:11"
   }
  },
- "generated_at": "2026-10-05T14:50:01",
- "total": 25442
+ "generated_at": "2026-10-05T14:51:02",
+ "total": 25446
 }
