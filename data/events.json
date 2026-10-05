@@ -1,6 +1,36 @@
 {
  "events": [
   {
+   "detail": "CHI  + ADDED  Steven, Isaiah",
+   "detected_at": "2026-10-05 06:47:00",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "CHI  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 173118346 -> 175567767, col9: 408063899.9 -> 410513320.9",
+   "detected_at": "2026-10-05 06:47:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "CHI  CHANGED Players Under Contract  -  col3: 172042887 -> 174492308",
+   "detected_at": "2026-10-05 06:47:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "CHI  CHANGED Full Season Contracts  -  col3: 172042887 -> 174492308",
+   "detected_at": "2026-10-05 06:47:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "CHI  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 17 -> 18",
+   "detected_at": "2026-10-05 06:47:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "2026-27 Veteran Signings  + ADDED  Jazian Gortman Washington Wizards",
    "detected_at": "2026-10-05 06:45:55",
    "source": "DOCS",
@@ -10377,41 +10407,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "BNXT League + Sebastian Thomas → Stella Artois Leuven Bears",
-   "detected_at": "2026-10-03 18:57:18",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "BNXT League + Roel Bucumi → Stella Artois Leuven Bears",
-   "detected_at": "2026-10-03 18:57:18",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "BNXT League + Jonas Visser → Stella Artois Leuven Bears",
-   "detected_at": "2026-10-03 18:57:18",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "BNXT League + Tim Waerniers → Stella Artois Leuven Bears",
-   "detected_at": "2026-10-03 18:57:18",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "BNXT League + Vasileios Kazamias → Stella Artois Leuven Bears",
-   "detected_at": "2026-10-03 18:57:18",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10440,8 +10435,8 @@
    "last": "2026-10-05 05:49:07"
   },
   "SHEETS": {
-   "count": 4584,
-   "last": "2026-10-05 06:44:58"
+   "count": 4589,
+   "last": "2026-10-05 06:47:00"
   },
   "TRANSACTIONS": {
    "count": 476,
@@ -10456,6 +10451,6 @@
    "last": "2026-10-04 22:09:12"
   }
  },
- "generated_at": "2026-10-05T06:46:01",
- "total": 25241
+ "generated_at": "2026-10-05T06:47:03",
+ "total": 25246
 }
