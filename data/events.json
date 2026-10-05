@@ -1,6 +1,30 @@
 {
  "events": [
   {
+   "detail": "- REMOVED Jordan Hawkins (MEM)",
+   "detected_at": "2026-10-04 22:04:55",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Steve Settle III (WAS)",
+   "detected_at": "2026-10-04 22:04:55",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Sean East II (SAC)",
+   "detected_at": "2026-10-04 22:04:55",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Viktor Lakhin (SAC)",
+   "detected_at": "2026-10-04 22:04:55",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
    "detail": "Marvin Jones (basketball)  ~ height_ft: 7 -> -",
    "detected_at": "2026-10-04 21:32:30",
    "source": "WIKI",
@@ -10459,34 +10483,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-10-02/Antibes-at-Alliance-Sport-Alsace/527342"
-  },
-  {
-   "detail": "French LNB Pro B + Dimitri Radnic → Champagne Chalons Reims CB",
-   "detected_at": "2026-10-02 19:40:25",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French LNB Pro B Denain ASC Voltaire 80, Champagne Chalons Reims CB 55",
-   "detected_at": "2026-10-02 19:40:25",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-02/Denain-ASC-Voltaire-at-Champagne-Chalons-Reims-CB/527343"
-  },
-  {
-   "detail": "French LNB Pro B + Garlon Green → Fos Sur Mer Byers",
-   "detected_at": "2026-10-02 19:40:22",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French LNB Pro B ALM Evreux Basket 95, Fos Sur Mer Byers 77",
-   "detected_at": "2026-10-02 19:40:22",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-02/Fos-Sur-Mer-Byers-at-ALM-Evreux-Basket/527344"
   }
  ],
  "feeds": {
@@ -10499,8 +10495,8 @@
    "last": "2026-10-03 07:02:00"
   },
   "PLAYERS": {
-   "count": 1346,
-   "last": "2026-10-02 14:01:54"
+   "count": 1350,
+   "last": "2026-10-04 22:04:55"
   },
   "RATINGS": {
    "count": 950,
@@ -10531,6 +10527,6 @@
    "last": "2026-10-04 17:11:39"
   }
  },
- "generated_at": "2026-10-04T22:04:08",
- "total": 24663
+ "generated_at": "2026-10-04T22:05:05",
+ "total": 24667
 }
