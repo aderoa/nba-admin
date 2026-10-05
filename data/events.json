@@ -1,6 +1,42 @@
 {
  "events": [
   {
+   "detail": "MEM  CHANGED Hawkins, Jordan  -  TEAM SALARY CAP REPORT\n       -  MEMPHIS GRIZZLIES: 1 - FULL SEASON -> 7 - WAIVED, col3: 7021894.919999999 -> 6343013.0, col9: 7021894.92 -> 6343013",
+   "detected_at": "2026-10-05 06:23:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MEM  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 161792654.8 -> 161113772.9, col9: 350065876.1 -> 349386994.2",
+   "detected_at": "2026-10-05 06:23:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MEM  CHANGED Players Under Contract  -  col3: 133914383.8 -> 126892488.9",
+   "detected_at": "2026-10-05 06:23:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MEM  CHANGED Full Season Contracts  -  col3: 133914383.8 -> 126892488.9",
+   "detected_at": "2026-10-05 06:23:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MEM  CHANGED Waived Contracts  -  col3: 27878271 -> 34221284",
+   "detected_at": "2026-10-05 06:23:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MEM  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 18 -> 17",
+   "detected_at": "2026-10-05 06:23:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "SAC  - REMOVED East, Sean",
    "detected_at": "2026-10-05 06:18:58",
    "source": "SHEETS",
@@ -10438,48 +10474,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Greek HEBA A1 + Micah Parrish → AE Doxa Lefkadas",
-   "detected_at": "2026-10-03 17:55:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Greek HEBA A1 + Marios Poulianitis → AE Doxa Lefkadas",
-   "detected_at": "2026-10-03 17:55:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Greek HEBA A1 + Michalis Tsairelis → AE Doxa Lefkadas",
-   "detected_at": "2026-10-03 17:55:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Greek HEBA A1 + JaKeenan Gant → AE Doxa Lefkadas",
-   "detected_at": "2026-10-03 17:55:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Greek HEBA A1 + Ioannis Chatzinikolas → AE Doxa Lefkadas",
-   "detected_at": "2026-10-03 17:55:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Greek HEBA A1 + Denver Jones → AE Doxa Lefkadas",
-   "detected_at": "2026-10-03 17:55:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10508,8 +10502,8 @@
    "last": "2026-10-05 05:49:07"
   },
   "SHEETS": {
-   "count": 4547,
-   "last": "2026-10-05 06:18:58"
+   "count": 4553,
+   "last": "2026-10-05 06:23:58"
   },
   "TRANSACTIONS": {
    "count": 476,
@@ -10524,6 +10518,6 @@
    "last": "2026-10-04 22:09:12"
   }
  },
- "generated_at": "2026-10-05T06:23:02",
- "total": 25173
+ "generated_at": "2026-10-05T06:24:01",
+ "total": 25179
 }
