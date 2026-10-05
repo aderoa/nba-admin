@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Luka Božić  ~ number: - -> 29",
+   "detected_at": "2026-10-05 15:05:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Luka_Bo%C5%BEi%C4%87"
+  },
+  {
    "detail": "2026-10-05  Chicago Bulls waived guard Isaiah Stevens.",
    "detected_at": "2026-10-05 14:50:55",
    "source": "TRANSACTIONS",
@@ -10362,13 +10369,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-10-04/Illawarra-at-South-East-Melbourne/524394"
-  },
-  {
-   "detail": "Ethan Thompson  ~ position: Shooting guard -> Shooting guard / small forward",
-   "detected_at": "2026-10-04 07:26:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Ethan_Thompson"
   }
  ],
  "feeds": {
@@ -10405,14 +10405,14 @@
    "last": "2026-10-05 14:50:55"
   },
   "WIKI": {
-   "count": 5000,
-   "last": "2026-10-05 14:42:39"
+   "count": 5001,
+   "last": "2026-10-05 15:05:37"
   },
   "WIKIWATCH": {
    "count": 341,
    "last": "2026-10-05 14:47:11"
   }
  },
- "generated_at": "2026-10-05T14:57:02",
- "total": 25446
+ "generated_at": "2026-10-05T15:05:38",
+ "total": 25447
 }
