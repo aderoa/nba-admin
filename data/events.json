@@ -1,6 +1,60 @@
 {
  "events": [
   {
+   "detail": "SAC  - REMOVED East, Sean",
+   "detected_at": "2026-10-05 06:18:58",
+   "source": "SHEETS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "SAC  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 223696978.3 -> 222339215.3, col9: 487651008.6 -> 486293245.6",
+   "detected_at": "2026-10-05 06:18:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "SAC  CHANGED Players Under Contract  -  col3: 204010613 -> 202652850",
+   "detected_at": "2026-10-05 06:18:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "SAC  CHANGED Full Season Contracts  -  col3: 204010613 -> 202652850",
+   "detected_at": "2026-10-05 06:18:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "SAC  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 19 -> 18",
+   "detected_at": "2026-10-05 06:18:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col27: 6915946.333 -> 5558183.333",
+   "detected_at": "2026-10-05 06:18:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 1st Incremental Tax Bracket  -  col27: 5685000 -> 5558183.333",
+   "detected_at": "2026-10-05 06:18:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 2nd Incremental Tax Bracket  -  col27: 1538682.917 -> 0",
+   "detected_at": "2026-10-05 06:18:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col27: 7223682.917 -> 5558183.333",
+   "detected_at": "2026-10-05 06:18:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "2026-27 Rookie Signings  - REMOVED Sean East Sacramento Kings",
    "detected_at": "2026-10-05 06:17:56",
    "source": "DOCS",
@@ -10426,69 +10480,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Greek HEBA A1 + Vassilis Christidis → Kolossos Rodou BC",
-   "detected_at": "2026-10-03 17:55:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Greek HEBA A1 Kolossos Rodou BC 91, AE Doxa Lefkadas 75",
-   "detected_at": "2026-10-03 17:55:10",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-03/AE-Doxa-Lefkadas-at-Kolossos-Rodou-BC/542879"
-  },
-  {
-   "detail": "Frank Ntilikina  ~ number: - -> 5",
-   "detected_at": "2026-10-03 17:17:37",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Frank_Ntilikina"
-  },
-  {
-   "detail": "Hungarian NBIA Budapesti Honved Se 93, DEAC 88",
-   "detected_at": "2026-10-03 16:54:53",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-02/Budapesti-Honved-Se-at-DEAC/533889"
-  },
-  {
-   "detail": "Hungarian NBIA + Vincent Valerio-Bodon → Budapesti Honved Se",
-   "detected_at": "2026-10-03 16:54:52",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Hungarian NBIA + Kevin Baker → Budapesti Honved Se",
-   "detected_at": "2026-10-03 16:54:52",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Hungarian NBIA + Jarvis Moss → Budapesti Honved Se",
-   "detected_at": "2026-10-03 16:54:52",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Hungarian NBIA + Mate Reizinger → Budapesti Honved Se",
-   "detected_at": "2026-10-03 16:54:52",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Hungarian NBIA + Istvan Koszti → Budapesti Honved Se",
-   "detected_at": "2026-10-03 16:54:52",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10517,8 +10508,8 @@
    "last": "2026-10-05 05:49:07"
   },
   "SHEETS": {
-   "count": 4538,
-   "last": "2026-10-02 08:07:58"
+   "count": 4547,
+   "last": "2026-10-05 06:18:58"
   },
   "TRANSACTIONS": {
    "count": 476,
@@ -10533,6 +10524,6 @@
    "last": "2026-10-04 22:09:12"
   }
  },
- "generated_at": "2026-10-05T06:18:02",
- "total": 25164
+ "generated_at": "2026-10-05T06:19:00",
+ "total": 25173
 }
