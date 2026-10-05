@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Marvin Jones (basketball)  ~ height_ft: 7 -> -",
+   "detected_at": "2026-10-04 21:32:30",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Marvin_Jones_(basketball)"
+  },
+  {
+   "detail": "Marvin Jones (basketball)  ~ height_in: 0 -> -",
+   "detected_at": "2026-10-04 21:32:30",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Marvin_Jones_(basketball)"
+  },
+  {
+   "detail": "Marvin Jones (basketball)  ~ weight_lb: 220 -> -",
+   "detected_at": "2026-10-04 21:32:30",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Marvin_Jones_(basketball)"
+  },
+  {
    "detail": "2026-10-04  Sacramento Kings waived guard Sean East II.",
    "detected_at": "2026-10-04 21:14:55",
    "source": "TRANSACTIONS",
@@ -10466,27 +10487,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-10-02/Fos-Sur-Mer-Byers-at-ALM-Evreux-Basket/527344"
-  },
-  {
-   "detail": "French LNB Pro B + Emerson Galbrun → JA Vichy",
-   "detected_at": "2026-10-02 19:40:19",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French LNB Pro B Levallois Sport Club 87, JA Vichy 86",
-   "detected_at": "2026-10-02 19:40:19",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-02/JA-Vichy-at-Levallois-Sport-Club/527346"
-  },
-  {
-   "detail": "French LNB Pro B + Yauhen Massalski → Hermine Nantes Atlantique",
-   "detected_at": "2026-10-02 19:40:16",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10523,14 +10523,14 @@
    "last": "2026-10-04 21:14:55"
   },
   "WIKI": {
-   "count": 4982,
-   "last": "2026-10-04 20:21:36"
+   "count": 4985,
+   "last": "2026-10-04 21:32:30"
   },
   "WIKIWATCH": {
    "count": 339,
    "last": "2026-10-04 17:11:39"
   }
  },
- "generated_at": "2026-10-04T21:23:04",
- "total": 24660
+ "generated_at": "2026-10-04T21:33:24",
+ "total": 24663
 }
