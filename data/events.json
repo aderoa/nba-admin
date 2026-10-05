@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "James Johnson (basketball, born 1987)  ~ team: Free agent -> Indiana Pacers",
+   "detected_at": "2026-10-05 02:41:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/James_Johnson_(basketball,_born_1987)"
+  },
+  {
    "detail": "BNXT League + Jacari White → Port of Antwerp Giants",
    "detected_at": "2026-10-05 02:30:24",
    "source": "REALGM",
@@ -10476,13 +10483,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-09-30/KK-Cibona-at-KK-Zabok/534722"
-  },
-  {
-   "detail": "Croatian A 1 Liga KK Cedevita Junior Zagreb 89, KK Dubrava Zagreb 84",
-   "detected_at": "2026-10-03 06:31:55",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-02/KK-Dubrava-Zagreb-at-KK-Cedevita-Junior-Zagreb/534717"
   }
  ],
  "feeds": {
@@ -10519,14 +10519,14 @@
    "last": "2026-10-04 21:14:55"
   },
   "WIKI": {
-   "count": 4985,
-   "last": "2026-10-04 21:32:30"
+   "count": 4986,
+   "last": "2026-10-05 02:41:38"
   },
   "WIKIWATCH": {
    "count": 340,
    "last": "2026-10-04 22:09:12"
   }
  },
- "generated_at": "2026-10-05T02:30:43",
- "total": 25053
+ "generated_at": "2026-10-05T02:41:39",
+ "total": 25054
 }
