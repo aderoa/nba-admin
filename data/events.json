@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Luka Bozic  ~ 41579: number -> -",
+   "detected_at": "2026-10-05 14:47:11",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "29"
+  },
+  {
    "detail": "2026-10-02  Memphis Grizzlies waived guard Jordan Hawkins.",
    "detected_at": "2026-10-05 14:42:55",
    "source": "TRANSACTIONS",
@@ -10366,13 +10373,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Rihards_Loma%C5%BEs"
-  },
-  {
-   "detail": "Rihards Lomažs  ~ number: - -> 6",
-   "detected_at": "2026-10-04 07:26:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Rihards_Loma%C5%BEs"
   }
  ],
  "feeds": {
@@ -10413,10 +10413,10 @@
    "last": "2026-10-05 14:42:39"
   },
   "WIKIWATCH": {
-   "count": 340,
-   "last": "2026-10-04 22:09:12"
+   "count": 341,
+   "last": "2026-10-05 14:47:11"
   }
  },
- "generated_at": "2026-10-05T14:47:02",
- "total": 25441
+ "generated_at": "2026-10-05T14:48:00",
+ "total": 25442
 }
