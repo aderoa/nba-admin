@@ -1,6 +1,24 @@
 {
  "events": [
   {
+   "detail": "2026-10-04  Sacramento Kings waived guard Sean East II.",
+   "detected_at": "2026-10-04 21:14:55",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-04  Sacramento Kings waived forward Viktor Lakhin.",
+   "detected_at": "2026-10-04 21:14:55",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-03  Memphis Grizzlies waived guard Jordan Hawkins.",
+   "detected_at": "2026-10-04 21:14:55",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
    "detail": "Italian Serie A2 Basket + Toni Perkovic → Unieuro Forli",
    "detected_at": "2026-10-04 21:10:19",
    "source": "REALGM",
@@ -10469,27 +10487,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "French LNB Pro B Hermine Nantes Atlantique 76, Quimper 62",
-   "detected_at": "2026-10-02 19:40:16",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-02/Quimper-at-Hermine-Nantes-Atlantique/527347"
-  },
-  {
-   "detail": "French LNB Pro B ~ RETURN Pape Diop → Saint Chamond Pro B (from Saint Chamond NM1)",
-   "detected_at": "2026-10-02 19:40:13",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "French LNB Pro B + Sebastien Cape → Saint Chamond Pro B",
-   "detected_at": "2026-10-02 19:40:13",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10522,8 +10519,8 @@
    "last": "2026-10-02 08:07:58"
   },
   "TRANSACTIONS": {
-   "count": 473,
-   "last": "2026-10-04 21:08:55"
+   "count": 476,
+   "last": "2026-10-04 21:14:55"
   },
   "WIKI": {
    "count": 4982,
@@ -10534,6 +10531,6 @@
    "last": "2026-10-04 17:11:39"
   }
  },
- "generated_at": "2026-10-04T21:10:41",
- "total": 24657
+ "generated_at": "2026-10-04T21:15:03",
+ "total": 24660
 }
