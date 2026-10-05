@@ -1,6 +1,36 @@
 {
  "events": [
   {
+   "detail": "+ ADDED   Skal Labissiere (WAS)",
+   "detected_at": "2026-10-05 15:07:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "- REMOVED Andre Jackson Jr. (TOR)",
+   "detected_at": "2026-10-05 15:07:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Isaiah Stevens (CHI)",
+   "detected_at": "2026-10-05 15:07:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Jazian Gortman (WAS)",
+   "detected_at": "2026-10-05 15:07:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Mike Sharavjamts (ORL)",
+   "detected_at": "2026-10-05 15:07:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
    "detail": "Luka Božić  ~ number: - -> 29",
    "detected_at": "2026-10-05 15:05:37",
    "source": "WIKI",
@@ -10334,41 +10364,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Japanese BLeague + Kai Sotto → Altiri Chiba",
-   "detected_at": "2026-10-04 07:26:53",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Australian NBL New Zealand 91, Adelaide 72",
-   "detected_at": "2026-10-04 07:26:48",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-04/New-Zealand-at-Adelaide/524395"
-  },
-  {
-   "detail": "Australian NBL + Makur Maker → Illawarra",
-   "detected_at": "2026-10-04 07:26:45",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Australian NBL ~ MOVED Ellis Biggar → South East Melbourne (from Franklin Bulls)",
-   "detected_at": "2026-10-04 07:26:45",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
-  },
-  {
-   "detail": "Australian NBL South East Melbourne 113, Illawarra 96",
-   "detected_at": "2026-10-04 07:26:45",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-04/Illawarra-at-South-East-Melbourne/524394"
   }
  ],
  "feeds": {
@@ -10381,8 +10376,8 @@
    "last": "2026-10-03 07:02:00"
   },
   "PLAYERS": {
-   "count": 1353,
-   "last": "2026-10-05 11:06:54"
+   "count": 1358,
+   "last": "2026-10-05 15:07:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10413,6 +10408,6 @@
    "last": "2026-10-05 14:47:11"
   }
  },
- "generated_at": "2026-10-05T15:07:01",
- "total": 25447
+ "generated_at": "2026-10-05T15:08:03",
+ "total": 25452
 }
