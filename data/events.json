@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Ziaire Williams  ~ height_in: 9 -> 10",
+   "detected_at": "2026-10-05 16:14:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Ziaire_Williams"
+  },
+  {
+   "detail": "Mathias Lessort  ~ CAREER  + 2018–2019 Unicaja Málaga",
+   "detected_at": "2026-10-05 16:14:35",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Mathias_Lessort"
+  },
+  {
    "detail": "+ ADDED   Skal Labissiere (WAS)",
    "detected_at": "2026-10-05 15:07:54",
    "source": "PLAYERS",
@@ -10350,20 +10364,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Japanese BLeague Altiri Chiba 99, Kawasaki Brave Thunders 90",
-   "detected_at": "2026-10-04 07:26:54",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-03/Kawasaki-Brave-Thunders-at-Altiri-Chiba/524168"
-  },
-  {
-   "detail": "Japanese BLeague + Muhammad-Ali Abdur-Rahkman → Kawasaki Brave Thunders",
-   "detected_at": "2026-10-04 07:26:53",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10400,14 +10400,14 @@
    "last": "2026-10-05 14:50:55"
   },
   "WIKI": {
-   "count": 5001,
-   "last": "2026-10-05 15:05:37"
+   "count": 5003,
+   "last": "2026-10-05 16:14:35"
   },
   "WIKIWATCH": {
    "count": 341,
    "last": "2026-10-05 14:47:11"
   }
  },
- "generated_at": "2026-10-05T16:06:02",
- "total": 25452
+ "generated_at": "2026-10-05T16:14:36",
+ "total": 25454
 }
