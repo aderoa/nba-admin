@@ -1,6 +1,55 @@
 {
  "events": [
   {
+   "detail": "Italian Serie A2 Basket + Toni Perkovic → Unieuro Forli",
+   "detected_at": "2026-10-04 21:10:19",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Italian Serie A2 Basket Unieuro Forli 80, Sella Cento 73",
+   "detected_at": "2026-10-04 21:10:19",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-03/Sella-Cento-at-Unieuro-Forli/529797"
+  },
+  {
+   "detail": "VTB United League + Malik Newman → Zenit Saint Petersburg",
+   "detected_at": "2026-10-04 21:10:13",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "VTB United League UNICS Kazan 95, Zenit Saint Petersburg 60",
+   "detected_at": "2026-10-04 21:10:13",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-04/Zenit-Saint-Petersburg-at-UNICS-Kazan/532303"
+  },
+  {
+   "detail": "VTB United League Dynamo Vladivostok 98, Samara 84",
+   "detected_at": "2026-10-04 21:10:10",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-04/Dynamo-Vladivostok-at-Samara/532304"
+  },
+  {
+   "detail": "VTB United League + Danila Chikarev → Samara",
+   "detected_at": "2026-10-04 21:10:09",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB UCAM Murcia CB 100, Barca 94",
+   "detected_at": "2026-10-04 21:10:07",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-04/Barca-at-UCAM-Murcia-CB/533427"
+  },
+  {
    "detail": "2026-10-02  Washington Wizards waived forward Steve Settle III.",
    "detected_at": "2026-10-04 21:08:55",
    "source": "TRANSACTIONS",
@@ -10441,55 +10490,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "French LNB Pro B Caen Basket Calvados 115, Saint Chamond Pro B 111",
-   "detected_at": "2026-10-02 19:40:13",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-02/Caen-Basket-Calvados-at-Saint-Chamond-Pro-B/527349"
-  },
-  {
-   "detail": "German Pro A PS Karlsruhe Lions 89, BBC Bayreuth 79",
-   "detected_at": "2026-10-02 19:40:11",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-02/PS-Karlsruhe-Lions-at-BBC-Bayreuth/525462"
-  },
-  {
-   "detail": "German Pro A + Wesley Oba → PS Karlsruhe Lions",
-   "detected_at": "2026-10-02 19:40:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Pro A + Matt Frierson → BBC Bayreuth",
-   "detected_at": "2026-10-02 19:40:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Pro A + Dominick Von-Waaden → Nurnberg Falcons BC",
-   "detected_at": "2026-10-02 19:40:07",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Pro A Artland Dragons 81, BG Gottingen 69",
-   "detected_at": "2026-10-02 19:40:05",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-02/BG-Gottingen-at-Artland-Dragons/525465"
-  },
-  {
-   "detail": "German Pro A + Emil Bode → BG Gottingen",
-   "detected_at": "2026-10-02 19:40:04",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10510,12 +10510,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 7024,
-   "last": "2026-10-04 20:08:55"
+   "count": 7027,
+   "last": "2026-10-04 21:10:19"
   },
   "SCORES": {
-   "count": 1334,
-   "last": "2026-10-04 20:08:58"
+   "count": 1338,
+   "last": "2026-10-04 21:10:19"
   },
   "SHEETS": {
    "count": 4538,
@@ -10534,6 +10534,6 @@
    "last": "2026-10-04 17:11:39"
   }
  },
- "generated_at": "2026-10-04T21:09:02",
- "total": 24650
+ "generated_at": "2026-10-04T21:10:41",
+ "total": 24657
 }
