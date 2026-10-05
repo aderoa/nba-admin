@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Lonzo Ball  ~ 59501: league -> NBA",
+   "detected_at": "2026-10-04 22:09:12",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": ""
+  },
+  {
    "detail": "- REMOVED Jordan Hawkins (MEM)",
    "detected_at": "2026-10-04 22:04:55",
    "source": "PLAYERS",
@@ -10476,13 +10483,6 @@
    "source": "REALGM",
    "type": "MOVED",
    "url": ""
-  },
-  {
-   "detail": "French LNB Pro B Alliance Sport Alsace 85, Antibes 74",
-   "detected_at": "2026-10-02 19:40:28",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-02/Antibes-at-Alliance-Sport-Alsace/527342"
   }
  ],
  "feeds": {
@@ -10523,10 +10523,10 @@
    "last": "2026-10-04 21:32:30"
   },
   "WIKIWATCH": {
-   "count": 339,
-   "last": "2026-10-04 17:11:39"
+   "count": 340,
+   "last": "2026-10-04 22:09:12"
   }
  },
- "generated_at": "2026-10-04T22:09:01",
- "total": 24667
+ "generated_at": "2026-10-04T22:10:04",
+ "total": 24668
 }
