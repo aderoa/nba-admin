@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Emanuel Miller (basketball)  ~ team: Grand Rapids Gold -> Denver Nuggets",
+   "detected_at": "2026-10-04 20:21:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Emanuel_Miller_(basketball)"
+  },
+  {
+   "detail": "Emanuel Miller (basketball)  ~ league: NBA G League -> NBA",
+   "detected_at": "2026-10-04 20:21:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Emanuel_Miller_(basketball)"
+  },
+  {
+   "detail": "Emanuel Miller (basketball)  ~ CAREER  + –present Denver Nuggets",
+   "detected_at": "2026-10-04 20:21:36",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Emanuel_Miller_(basketball)"
+  },
+  {
    "detail": "Czech NBL BK JIP Pardubice 110, Nova Hut Ostrava 98",
    "detected_at": "2026-10-04 20:08:58",
    "source": "SCORES",
@@ -10470,27 +10491,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "German Pro A ~ RETURN Dominik Dolic → Artland Dragons (from SC Rasta Vechta)",
-   "detected_at": "2026-10-02 19:40:04",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "German Pro A + Danas Kazakevicius → Artland Dragons",
-   "detected_at": "2026-10-02 19:40:04",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Jordan Hawkins  ~ team: Memphis Grizzlies -> Free Agent",
-   "detected_at": "2026-10-02 18:49:36",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jordan_Hawkins"
   }
  ],
  "feeds": {
@@ -10527,14 +10527,14 @@
    "last": "2026-10-02 14:47:55"
   },
   "WIKI": {
-   "count": 4979,
-   "last": "2026-10-04 15:59:35"
+   "count": 4982,
+   "last": "2026-10-04 20:21:36"
   },
   "WIKIWATCH": {
    "count": 339,
    "last": "2026-10-04 17:11:39"
   }
  },
- "generated_at": "2026-10-04T20:09:17",
- "total": 24646
+ "generated_at": "2026-10-04T20:21:37",
+ "total": 24649
 }
