@@ -1,6 +1,42 @@
 {
  "events": [
   {
+   "detail": "DET  CHANGED Duren, Jalen  -  TEAM SALARY CAP REPORT\n       -  DETROIT PISTONS: 4 - CAP HOLD -> 1 - FULL SEASON, col9: 200000000 -> 116064259",
+   "detected_at": "2026-10-05 06:25:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "DET  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col9: 803765378.2 -> 719829637.2",
+   "detected_at": "2026-10-05 06:25:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "DET  CHANGED Players Under Contract  -  col3: 153237200 -> 193397843, col4: 151484525.2 -> 188432317.2, col5: 119802290 -> 158758114, col6: 99811708.96 -> 140775565, col7: 33137931 -> 76109816",
+   "detected_at": "2026-10-05 06:25:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "DET  CHANGED Full Season Contracts  -  col3: 153237200 -> 193397843, col4: 151484525.2 -> 188432317.2, col5: 119802290 -> 158758114, col6: 99811708.96 -> 140775565, col7: 33137931 -> 76109816",
+   "detected_at": "2026-10-05 06:25:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "DET  CHANGED Cap Holds  -  col3: 47360643 -> 7200000, col4: 36947792 -> 0, col5: 38955824 -> 0, col6: 40963856 -> 0, col7: 42971885 -> 0",
+   "detected_at": "2026-10-05 06:25:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "DET  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 16 -> 17",
+   "detected_at": "2026-10-05 06:25:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "DET  CHANGED Duren, Jalen  -  col3: 19449433.080000002 -> 40160643.0, col4: - -> 36947792.0, col5: - -> 38955824.0, col6: - -> 40963856.0, col7: - -> 42971885.0, col9: 19449433.08 -> 200000000",
    "detected_at": "2026-10-05 06:25:00",
    "source": "SHEETS",
@@ -10429,48 +10465,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Greek HEBA A1 + Justin Turner → AS Karditsas",
-   "detected_at": "2026-10-03 17:55:13",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Greek HEBA A1 + Nikos Gkikas → AS Karditsas",
-   "detected_at": "2026-10-03 17:55:13",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Greek HEBA A1 + Jordan McRae → AS Karditsas",
-   "detected_at": "2026-10-03 17:55:13",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Greek HEBA A1 + Ja'Vier Francis → AS Karditsas",
-   "detected_at": "2026-10-03 17:55:13",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Greek HEBA A1 + Apostolos Roumoglou → AS Karditsas",
-   "detected_at": "2026-10-03 17:55:13",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Greek HEBA A1 AS Karditsas 74, Aris Midea Thessaloniki 68",
-   "detected_at": "2026-10-03 17:55:13",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-03/Aris-Midea-Thessaloniki-at-AS-Karditsas/542882"
   }
  ],
  "feeds": {
@@ -10499,8 +10493,8 @@
    "last": "2026-10-05 05:49:07"
   },
   "SHEETS": {
-   "count": 4556,
-   "last": "2026-10-05 06:25:00"
+   "count": 4562,
+   "last": "2026-10-05 06:25:58"
   },
   "TRANSACTIONS": {
    "count": 476,
@@ -10515,6 +10509,6 @@
    "last": "2026-10-04 22:09:12"
   }
  },
- "generated_at": "2026-10-05T06:25:03",
- "total": 25182
+ "generated_at": "2026-10-05T06:26:00",
+ "total": 25188
 }
