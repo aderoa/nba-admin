@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "2026-10-02  Washington Wizards waived forward Steve Settle III.",
+   "detected_at": "2026-10-04 21:08:55",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
    "detail": "Emanuel Miller (basketball)  ~ team: Grand Rapids Gold -> Denver Nuggets",
    "detected_at": "2026-10-04 20:21:36",
    "source": "WIKI",
@@ -10484,13 +10490,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "German Pro A + Zac Watson → BG Gottingen",
-   "detected_at": "2026-10-02 19:40:04",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10523,8 +10522,8 @@
    "last": "2026-10-02 08:07:58"
   },
   "TRANSACTIONS": {
-   "count": 472,
-   "last": "2026-10-02 14:47:55"
+   "count": 473,
+   "last": "2026-10-04 21:08:55"
   },
   "WIKI": {
    "count": 4982,
@@ -10535,6 +10534,6 @@
    "last": "2026-10-04 17:11:39"
   }
  },
- "generated_at": "2026-10-04T21:08:28",
- "total": 24649
+ "generated_at": "2026-10-04T21:09:02",
+ "total": 24650
 }
