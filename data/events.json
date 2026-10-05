@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "2026-10-02  Memphis Grizzlies waived guard Jordan Hawkins.",
+   "detected_at": "2026-10-05 14:42:55",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
    "detail": "Tahjere McCall  ~ league: Chinese Basketball Association -> CBA",
    "detected_at": "2026-10-05 14:42:39",
    "source": "WIKI",
@@ -10367,13 +10373,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Rihards_Loma%C5%BEs"
-  },
-  {
-   "detail": "Rihards Lomažs  ~ CAREER  + 2026–present Cedevita Olimpija",
-   "detected_at": "2026-10-04 07:26:38",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Rihards_Loma%C5%BEs"
   }
  ],
  "feeds": {
@@ -10406,8 +10405,8 @@
    "last": "2026-10-05 07:06:59"
   },
   "TRANSACTIONS": {
-   "count": 476,
-   "last": "2026-10-04 21:14:55"
+   "count": 477,
+   "last": "2026-10-05 14:42:55"
   },
   "WIKI": {
    "count": 5000,
@@ -10418,6 +10417,6 @@
    "last": "2026-10-04 22:09:12"
   }
  },
- "generated_at": "2026-10-05T14:42:40",
- "total": 25440
+ "generated_at": "2026-10-05T14:43:02",
+ "total": 25441
 }
