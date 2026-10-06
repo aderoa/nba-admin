@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "~ CHANGED Karlo Matkovic  name: Karlo Matković -> Karlo Matkovic",
+   "detected_at": "2026-10-06 11:31:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "South Korean KBL Changwon LG Sakers 103, Jeonju KCC Egis 68",
    "detected_at": "2026-10-06 10:22:48",
    "source": "SCORES",
@@ -10331,13 +10337,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Portuguese LPB + Miguel Correia → Braga",
-   "detected_at": "2026-10-04 07:28:48",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10350,8 +10349,8 @@
    "last": "2026-10-06 10:13:54"
   },
   "PLAYERS": {
-   "count": 1361,
-   "last": "2026-10-06 03:21:43"
+   "count": 1362,
+   "last": "2026-10-06 11:31:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10382,6 +10381,6 @@
    "last": "2026-10-05 14:47:11"
   }
  },
- "generated_at": "2026-10-06T11:31:29",
- "total": 25777
+ "generated_at": "2026-10-06T11:32:05",
+ "total": 25778
 }
