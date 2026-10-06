@@ -1,6 +1,36 @@
 {
  "events": [
   {
+   "detail": "- REMOVED Fletcher Loyer (LAC)",
+   "detected_at": "2026-10-06 15:12:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Terrell Brown Jr. (UTA)",
+   "detected_at": "2026-10-06 15:12:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Johnell Davis (ORL)",
+   "detected_at": "2026-10-06 15:12:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Robert McCray V (OKC)",
+   "detected_at": "2026-10-06 15:12:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED John Butler Jr. (MIL)",
+   "detected_at": "2026-10-06 15:12:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
    "detail": "2026-10-06  Oklahoma City Thunder waived guard Robert McCray V.",
    "detected_at": "2026-10-06 14:22:56",
    "source": "TRANSACTIONS",
@@ -10267,41 +10297,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Carlos Hurtado → Clinica Ponferrada SDP",
-   "detected_at": "2026-10-04 07:28:58",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Antonio Morales → Clinica Ponferrada SDP",
-   "detected_at": "2026-10-04 07:28:58",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Kyrylo Skutyelnik → Clinica Ponferrada SDP",
-   "detected_at": "2026-10-04 07:28:58",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Miguel Yimbo → Clinica Ponferrada SDP",
-   "detected_at": "2026-10-04 07:28:58",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Diego Soarez → Clinica Ponferrada SDP",
-   "detected_at": "2026-10-04 07:28:58",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10314,8 +10309,8 @@
    "last": "2026-10-06 10:13:54"
   },
   "PLAYERS": {
-   "count": 1393,
-   "last": "2026-10-06 13:09:54"
+   "count": 1398,
+   "last": "2026-10-06 15:12:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10346,6 +10341,6 @@
    "last": "2026-10-05 14:47:11"
   }
  },
- "generated_at": "2026-10-06T15:12:02",
- "total": 25829
+ "generated_at": "2026-10-06T15:20:38",
+ "total": 25834
 }
