@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "+ ADDED   Anthony Pritchard (OKC)",
+   "detected_at": "2026-10-06 13:09:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
    "detail": "Johni Broome  ~ team: Free agent -> Milwaukee Bucks",
    "detected_at": "2026-10-06 13:02:39",
    "source": "WIKI",
@@ -10300,13 +10306,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Matteo Strikker → Melilla Ciudad Del Deporte",
-   "detected_at": "2026-10-04 07:28:55",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10319,8 +10318,8 @@
    "last": "2026-10-06 10:13:54"
   },
   "PLAYERS": {
-   "count": 1392,
-   "last": "2026-10-06 12:17:54"
+   "count": 1393,
+   "last": "2026-10-06 13:09:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10351,6 +10350,6 @@
    "last": "2026-10-05 14:47:11"
   }
  },
- "generated_at": "2026-10-06T13:09:02",
- "total": 25824
+ "generated_at": "2026-10-06T13:10:01",
+ "total": 25825
 }
