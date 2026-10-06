@@ -1,6 +1,30 @@
 {
  "events": [
   {
+   "detail": "2026-10-06  Oklahoma City Thunder waived guard Robert McCray V.",
+   "detected_at": "2026-10-06 14:22:56",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-06  Orlando Magic waived guard Johnell Davis.",
+   "detected_at": "2026-10-06 14:22:56",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-06  Utah Jazz waived guard Terrell Brown Jr..",
+   "detected_at": "2026-10-06 14:22:56",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-05  Milwaukee Bucks waived forward John Butler Jr..",
+   "detected_at": "2026-10-06 14:22:56",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
    "detail": "+ ADDED   Anthony Pritchard (OKC)",
    "detected_at": "2026-10-06 13:09:54",
    "source": "PLAYERS",
@@ -10278,34 +10302,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Nnamdi Shockley-Okeke → Clinica Ponferrada SDP",
-   "detected_at": "2026-10-04 07:28:58",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Jacco Fritz → Melilla Ciudad Del Deporte",
-   "detected_at": "2026-10-04 07:28:55",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Pamor Diene → Melilla Ciudad Del Deporte",
-   "detected_at": "2026-10-04 07:28:55",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Jahvaughn Powell → Melilla Ciudad Del Deporte",
-   "detected_at": "2026-10-04 07:28:55",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10338,8 +10334,8 @@
    "last": "2026-10-06 10:13:52"
   },
   "TRANSACTIONS": {
-   "count": 484,
-   "last": "2026-10-05 20:06:55"
+   "count": 488,
+   "last": "2026-10-06 14:22:56"
   },
   "WIKI": {
    "count": 5089,
@@ -10350,6 +10346,6 @@
    "last": "2026-10-05 14:47:11"
   }
  },
- "generated_at": "2026-10-06T14:22:14",
- "total": 25825
+ "generated_at": "2026-10-06T14:23:03",
+ "total": 25829
 }
