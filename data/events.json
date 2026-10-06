@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "2026-09-25  Chicago Bulls waived guard Houston Mallette.",
+   "detected_at": "2026-10-05 20:06:55",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
    "detail": "2026-10-01  Chicago Bulls waived forward Marquel Sutton.",
    "detected_at": "2026-10-05 19:55:55",
    "source": "TRANSACTIONS",
@@ -10356,13 +10362,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Greek HEBA A1 ~ MOVED Jake Forrester → ASP Promitheas Patras (from Strasbourg IG)",
-   "detected_at": "2026-10-04 07:27:47",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10395,8 +10394,8 @@
    "last": "2026-10-05 07:06:59"
   },
   "TRANSACTIONS": {
-   "count": 482,
-   "last": "2026-10-05 19:55:55"
+   "count": 483,
+   "last": "2026-10-05 20:06:55"
   },
   "WIKI": {
    "count": 5050,
@@ -10407,6 +10406,6 @@
    "last": "2026-10-05 14:47:11"
   }
  },
- "generated_at": "2026-10-05T20:03:39",
- "total": 25522
+ "generated_at": "2026-10-05T20:07:41",
+ "total": 25523
 }
