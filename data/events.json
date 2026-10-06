@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Tony Bradley (basketball)  ~ number: - -> 18",
+   "detected_at": "2026-10-05 18:32:03",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Tony_Bradley_(basketball)"
+  },
+  {
    "detail": "Jazian Gortman  ~ team: Washington Wizards -> Free agent",
    "detected_at": "2026-10-05 18:09:38",
    "source": "WIKI",
@@ -10357,13 +10364,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Greek HEBA A1 + DeAndre Pinckney → AEK Athens",
-   "detected_at": "2026-10-04 07:27:31",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10400,14 +10400,14 @@
    "last": "2026-10-05 14:50:55"
   },
   "WIKI": {
-   "count": 5049,
-   "last": "2026-10-05 18:09:38"
+   "count": 5050,
+   "last": "2026-10-05 18:32:03"
   },
   "WIKIWATCH": {
    "count": 341,
    "last": "2026-10-05 14:47:11"
   }
  },
- "generated_at": "2026-10-05T18:24:01",
- "total": 25500
+ "generated_at": "2026-10-05T18:32:04",
+ "total": 25501
 }
