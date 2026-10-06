@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Dario Šarić  ~ height_in: 11 -> 10",
+   "detected_at": "2026-10-06 02:01:39",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Dario_%C5%A0ari%C4%87"
+  },
+  {
+   "detail": "Malik Williams  ~ career_start: 2022 -> 2023",
+   "detected_at": "2026-10-06 02:01:39",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Malik_Williams"
+  },
+  {
    "detail": "Amath M'Baye  ~ team: Paris Basketball -> CSKA Moscow",
    "detected_at": "2026-10-06 00:36:28",
    "source": "WIKI",
@@ -10348,20 +10362,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Georgian Super Liga + Shamarkus Kennedy → Rustavi",
-   "detected_at": "2026-10-04 07:28:13",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Georgian Super Liga + Luka Liklikadze → Tbilisi State University",
-   "detected_at": "2026-10-04 07:28:13",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10398,14 +10398,14 @@
    "last": "2026-10-05 20:06:55"
   },
   "WIKI": {
-   "count": 5055,
-   "last": "2026-10-06 00:36:28"
+   "count": 5057,
+   "last": "2026-10-06 02:01:39"
   },
   "WIKIWATCH": {
    "count": 341,
    "last": "2026-10-05 14:47:11"
   }
  },
- "generated_at": "2026-10-06T00:48:03",
- "total": 25576
+ "generated_at": "2026-10-06T02:02:42",
+ "total": 25578
 }
