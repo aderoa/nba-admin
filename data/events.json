@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "2026-10-01  Chicago Bulls waived forward Marquel Sutton.",
+   "detected_at": "2026-10-05 19:55:55",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
    "detail": "BNXT League + J.J. Harper → Heroes Den Bosch",
    "detected_at": "2026-10-05 19:51:43",
    "source": "REALGM",
@@ -10357,13 +10363,6 @@
    "source": "REALGM",
    "type": "MOVED",
    "url": ""
-  },
-  {
-   "detail": "Greek HEBA A1 + Apostolos Nikolaidis → ASP Promitheas Patras",
-   "detected_at": "2026-10-04 07:27:47",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10396,8 +10395,8 @@
    "last": "2026-10-05 07:06:59"
   },
   "TRANSACTIONS": {
-   "count": 481,
-   "last": "2026-10-05 14:50:55"
+   "count": 482,
+   "last": "2026-10-05 19:55:55"
   },
   "WIKI": {
    "count": 5050,
@@ -10408,6 +10407,6 @@
    "last": "2026-10-05 14:47:11"
   }
  },
- "generated_at": "2026-10-05T19:52:21",
- "total": 25521
+ "generated_at": "2026-10-05T20:03:39",
+ "total": 25522
 }
