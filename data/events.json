@@ -1,6 +1,48 @@
 {
  "events": [
   {
+   "detail": "Robert Franks (basketball)  ~ team: Ibaraki Robots -> Nanjing Monkey Kings",
+   "detected_at": "2026-10-05 17:46:29",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Robert_Franks_(basketball)"
+  },
+  {
+   "detail": "Robert Franks (basketball)  ~ league: B.League -> CBA",
+   "detected_at": "2026-10-05 17:46:29",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Robert_Franks_(basketball)"
+  },
+  {
+   "detail": "Robert Franks (basketball)  ~ number: 0 -> -",
+   "detected_at": "2026-10-05 17:46:29",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Robert_Franks_(basketball)"
+  },
+  {
+   "detail": "Robert Franks (basketball)  ~ CAREER  + 2024–2026 Ibaraki Robots",
+   "detected_at": "2026-10-05 17:46:29",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Robert_Franks_(basketball)"
+  },
+  {
+   "detail": "Robert Franks (basketball)  ~ CAREER  + 2026–present Nanjing Monkey Kings",
+   "detected_at": "2026-10-05 17:46:29",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Robert_Franks_(basketball)"
+  },
+  {
+   "detail": "Youssoupha Fall  ~ number: - -> 19",
+   "detected_at": "2026-10-05 17:46:29",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Youssoupha_Fall"
+  },
+  {
    "detail": "Eric Moreland  ~ team: Liaoning Flying Leopards -> Free agent",
    "detected_at": "2026-10-05 17:23:38",
    "source": "WIKI",
@@ -10322,48 +10364,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Greek HEBA A1 + Ronnie Harrell → Mykonos",
-   "detected_at": "2026-10-04 07:27:28",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Greek HEBA A1 + Vassilis Kavvadas → Mykonos",
-   "detected_at": "2026-10-04 07:27:28",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Greek HEBA A1 + Devin Cannady → Mykonos",
-   "detected_at": "2026-10-04 07:27:28",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Greek HEBA A1 + Giannis Sidiroilias → Mykonos",
-   "detected_at": "2026-10-04 07:27:28",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Greek HEBA A1 + Filippos Tigkas → Mykonos",
-   "detected_at": "2026-10-04 07:27:28",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Greek HEBA A1 + Elijah Childs → Mykonos",
-   "detected_at": "2026-10-04 07:27:28",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10400,14 +10400,14 @@
    "last": "2026-10-05 14:50:55"
   },
   "WIKI": {
-   "count": 5026,
-   "last": "2026-10-05 17:23:38"
+   "count": 5032,
+   "last": "2026-10-05 17:46:29"
   },
   "WIKIWATCH": {
    "count": 341,
    "last": "2026-10-05 14:47:11"
   }
  },
- "generated_at": "2026-10-05T17:38:01",
- "total": 25477
+ "generated_at": "2026-10-05T17:47:00",
+ "total": 25483
 }
