@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Israel BSL Winner Cup Maccabi Ashdod 89, Ironi Ramat Gan 84",
+   "detected_at": "2026-10-05 23:58:13",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-05/Maccabi-Ashdod-at-Ironi-Ramat-Gan/542877"
+  },
+  {
+   "detail": "Israel BSL Winner Cup + Jaylen Adams → Ironi Ramat Gan",
+   "detected_at": "2026-10-05 23:58:12",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish BSL Besiktas Icrypex 90, Trabzonspor 81",
+   "detected_at": "2026-10-05 23:58:09",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-05/Trabzonspor-at-Besiktas-Icrypex/534749"
+  },
+  {
    "detail": "French LNB Espoirs Espoirs Strasbourg 76, Espoirs Boulazac 56",
    "detected_at": "2026-10-05 20:53:50",
    "source": "SCORES",
@@ -10341,27 +10362,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Georgian Super Liga + Luka Gorashvili → Tbilisi State University",
-   "detected_at": "2026-10-04 07:28:13",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Georgian Super Liga + Revaz Tavartkiladze → Tbilisi State University",
-   "detected_at": "2026-10-04 07:28:13",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Georgian Super Liga + Dallas Howell → Tbilisi State University",
-   "detected_at": "2026-10-04 07:28:13",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10382,12 +10382,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 7637,
-   "last": "2026-10-05 20:53:47"
+   "count": 7638,
+   "last": "2026-10-05 23:58:12"
   },
   "SCORES": {
-   "count": 1433,
-   "last": "2026-10-05 20:53:50"
+   "count": 1435,
+   "last": "2026-10-05 23:58:13"
   },
   "SHEETS": {
    "count": 4599,
@@ -10406,6 +10406,6 @@
    "last": "2026-10-05 14:47:11"
   }
  },
- "generated_at": "2026-10-05T23:57:02",
- "total": 25568
+ "generated_at": "2026-10-05T23:58:41",
+ "total": 25571
 }
