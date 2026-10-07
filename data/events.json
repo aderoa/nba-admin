@@ -1,6 +1,118 @@
 {
  "events": [
   {
+   "detail": "FIBA Europe Cup SL Benfica 91, Bakken Bears 81",
+   "detected_at": "2026-10-07 13:39:10",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-07/SL-Benfica-at-Bakken-Bears/541907"
+  },
+  {
+   "detail": "FIBA Europe Cup + Sergio Sousa → SL Benfica",
+   "detected_at": "2026-10-07 13:39:09",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Basketball Champions League Europe Telekom Baskets Bonn 78, FC Porto Ferpinta 74",
+   "detected_at": "2026-10-07 13:39:06",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-07/FC-Porto-Ferpinta-at-Telekom-Baskets-Bonn/528600"
+  },
+  {
+   "detail": "Basketball Champions League Europe + James Woodard → FC Porto Ferpinta",
+   "detected_at": "2026-10-07 13:39:05",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Basketball Champions League Europe Port of Antwerp Giants 99, Falco Vulcano Energia KC Szombathely 93",
+   "detected_at": "2026-10-07 13:39:02",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-07/Falco-Vulcano-Energia-KC-Szombathely-at-Port-of-Antwerp-Giants/528604"
+  },
+  {
+   "detail": "Basketball Champions League Europe Unicaja 105, Juventus 69",
+   "detected_at": "2026-10-07 13:38:58",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-07/Unicaja-at-Juventus/528606"
+  },
+  {
+   "detail": "Basketball Champions League Europe + Tyler Kalinoski → Unicaja",
+   "detected_at": "2026-10-07 13:38:57",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Basketball Champions League Europe KK Spartak Subotica 96, SC Rasta Vechta 64",
+   "detected_at": "2026-10-07 13:38:55",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-07/SC-Rasta-Vechta-at-KK-Spartak-Subotica/528607"
+  },
+  {
+   "detail": "Basketball Champions League Europe + Matt Coleman III → KK Spartak Subotica",
+   "detected_at": "2026-10-07 13:38:54",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Basketball Champions League Europe + Boris Bodrozic → KK Spartak Subotica",
+   "detected_at": "2026-10-07 13:38:54",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "FIBA Europe Cup Gladiators Trier 92, Batumi RSU 59",
+   "detected_at": "2026-10-07 13:38:51",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-07/Batumi-RSU-at-Gladiators-Trier/541933"
+  },
+  {
+   "detail": "FIBA Europe Cup + Nikoloz Ochkhikidze → Batumi RSU",
+   "detected_at": "2026-10-07 13:38:50",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "FIBA Europe Cup ASP Promitheas Patras 91, KB Trepca Mitrovice 77",
+   "detected_at": "2026-10-07 13:38:47",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-07/ASP-Promitheas-Patras-at-KB-Trepca-Mitrovice/541926"
+  },
+  {
+   "detail": "Basketball Champions League Europe Trabzonspor 93, Nanterre 92 83",
+   "detected_at": "2026-10-07 13:38:44",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-07/Nanterre-92-at-Trabzonspor/528602"
+  },
+  {
+   "detail": "Basketball Champions League Europe + Yigit Hamsa Mestoglu → Trabzonspor",
+   "detected_at": "2026-10-07 13:38:43",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Giannis Antetokounmpo  ~ weight_lb: 243 -> 250",
+   "detected_at": "2026-10-07 13:38:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Giannis_Antetokounmpo"
+  },
+  {
    "detail": "+ ADDED   Trhae Mitchell (SAC)",
    "detected_at": "2026-10-07 13:16:54",
    "source": "PLAYERS",
@@ -10138,118 +10250,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Andrew Young → CB Zaragoza",
-   "detected_at": "2026-10-05 00:21:18",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Alejandro Sistac → CB Zaragoza",
-   "detected_at": "2026-10-05 00:21:18",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS Radnicki 1950 Kragujevac 93, Zlatibor Cajetina 88",
-   "detected_at": "2026-10-05 00:21:16",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-04/Zlatibor-Cajetina-at-Radnicki-1950-Kragujevac/544109"
-  },
-  {
-   "detail": "Serbian KLS + Stefan Lakic → Zlatibor Cajetina",
-   "detected_at": "2026-10-05 00:21:15",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Brandon Sly → Zlatibor Cajetina",
-   "detected_at": "2026-10-05 00:21:15",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Stefan Savic → Zlatibor Cajetina",
-   "detected_at": "2026-10-05 00:21:15",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Lazar Joksimovic → Zlatibor Cajetina",
-   "detected_at": "2026-10-05 00:21:15",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Terrence Whitfield → Zlatibor Cajetina",
-   "detected_at": "2026-10-05 00:21:15",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Adi Zahiragic → Zlatibor Cajetina",
-   "detected_at": "2026-10-05 00:21:15",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Mario Lacy, Jr. → Zlatibor Cajetina",
-   "detected_at": "2026-10-05 00:21:15",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Nemanja Protic → Zlatibor Cajetina",
-   "detected_at": "2026-10-05 00:21:15",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Luka Kulundzic → Zlatibor Cajetina",
-   "detected_at": "2026-10-05 00:21:15",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Konstantin Karapetrovic → Zlatibor Cajetina",
-   "detected_at": "2026-10-05 00:21:15",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Ivan Smiljanic → Zlatibor Cajetina",
-   "detected_at": "2026-10-05 00:21:15",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Kintavious Dozier → Radnicki 1950 Kragujevac",
-   "detected_at": "2026-10-05 00:21:15",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Marcus Randolph → Radnicki 1950 Kragujevac",
-   "detected_at": "2026-10-05 00:21:15",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10270,12 +10270,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 8116,
-   "last": "2026-10-07 12:30:38"
+   "count": 8123,
+   "last": "2026-10-07 13:39:09"
   },
   "SCORES": {
-   "count": 1517,
-   "last": "2026-10-07 12:30:39"
+   "count": 1525,
+   "last": "2026-10-07 13:39:10"
   },
   "SHEETS": {
    "count": 4635,
@@ -10286,14 +10286,14 @@
    "last": "2026-10-06 14:22:56"
   },
   "WIKI": {
-   "count": 5112,
-   "last": "2026-10-07 12:52:39"
+   "count": 5113,
+   "last": "2026-10-07 13:38:38"
   },
   "WIKIWATCH": {
    "count": 346,
    "last": "2026-10-06 20:58:13"
   }
  },
- "generated_at": "2026-10-07T13:30:02",
- "total": 26319
+ "generated_at": "2026-10-07T13:39:48",
+ "total": 26335
 }
