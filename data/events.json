@@ -1,6 +1,55 @@
 {
  "events": [
   {
+   "detail": "Swiss LNA BBC Lausanne 90, Zurich 55",
+   "detected_at": "2026-10-07 15:55:57",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-25/Zurich-at-BBC-Lausanne/526723"
+  },
+  {
+   "detail": "Swiss LNA + Mamadou Diop → SAM Basket Massagno",
+   "detected_at": "2026-10-07 15:55:54",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA + Axel Manzambi → SAM Basket Massagno",
+   "detected_at": "2026-10-07 15:55:54",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA + Kian Picco → SAM Basket Massagno",
+   "detected_at": "2026-10-07 15:55:54",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA + Emmanuel Gervasoni → SAM Basket Massagno",
+   "detected_at": "2026-10-07 15:55:54",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA + Aven Abrham → Starwings Basket Regio Basel",
+   "detected_at": "2026-10-07 15:55:54",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA SAM Basket Massagno 91, Starwings Basket Regio Basel 73",
+   "detected_at": "2026-10-07 15:55:54",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-09-25/SAM-Basket-Massagno-at-Starwings-Basket-Regio-Basel/526724"
+  },
+  {
    "detail": "Braian Angola  ~ number: - -> 6",
    "detected_at": "2026-10-07 15:32:38",
    "source": "WIKI",
@@ -10191,55 +10240,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Norwegian BLNO + Emmaric Kalawa → Nidaros Jets",
-   "detected_at": "2026-10-05 01:28:00",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Norwegian BLNO + Mikkel Thorso → Nidaros Jets",
-   "detected_at": "2026-10-05 01:28:00",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Lithuanian LKL Juventus 93, Taurages 77",
-   "detected_at": "2026-10-05 01:27:58",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-04/Taurages-at-Juventus/532714"
-  },
-  {
-   "detail": "Lithuanian LKL + Kornelijus Zikas → Taurages",
-   "detected_at": "2026-10-05 01:27:57",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Lithuanian LKL Zalgiris 97, 7Bet Lietkabelis Panevezys 68",
-   "detected_at": "2026-10-05 01:27:54",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-04/7Bet-Lietkabelis-Panevezys-at-Zalgiris/532713"
-  },
-  {
-   "detail": "German BBL Fraport Skyliners 93, Phoenix Hagen 88",
-   "detected_at": "2026-10-05 01:27:51",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-04/Fraport-Skyliners-at-Phoenix-Hagen/528573"
-  },
-  {
-   "detail": "Spanish Segunda FEB CB Zaragoza 93, Sol Girones Bisbal Basquet 71",
-   "detected_at": "2026-10-05 00:21:19",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-04/Sol-Girones-Bisbal-Basquet-at-CB-Zaragoza/527227"
   }
  ],
  "feeds": {
@@ -10260,12 +10260,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 8123,
-   "last": "2026-10-07 13:39:09"
+   "count": 8128,
+   "last": "2026-10-07 15:55:54"
   },
   "SCORES": {
-   "count": 1525,
-   "last": "2026-10-07 13:39:10"
+   "count": 1527,
+   "last": "2026-10-07 15:55:57"
   },
   "SHEETS": {
    "count": 4635,
@@ -10284,6 +10284,6 @@
    "last": "2026-10-06 20:58:13"
   }
  },
- "generated_at": "2026-10-07T15:47:01",
- "total": 26353
+ "generated_at": "2026-10-07T15:56:21",
+ "total": 26360
 }
