@@ -1,6 +1,18 @@
 {
  "events": [
   {
+   "detail": "~ CHANGED Jett Howard  number: 9 -> 13",
+   "detected_at": "2026-10-07 14:08:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Seth Lundy  number: 31 -> 5",
+   "detected_at": "2026-10-07 14:08:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "~ CHANGED Jett Howard  number: 13 -> 9",
    "detected_at": "2026-10-07 14:07:54",
    "source": "PLAYERS",
@@ -10234,20 +10246,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Daniel Munoz Samatan → CB Zaragoza",
-   "detected_at": "2026-10-05 00:21:18",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Eduard Gatell → CB Zaragoza",
-   "detected_at": "2026-10-05 00:21:18",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10260,8 +10258,8 @@
    "last": "2026-10-06 10:13:54"
   },
   "PLAYERS": {
-   "count": 1406,
-   "last": "2026-10-07 14:07:54"
+   "count": 1408,
+   "last": "2026-10-07 14:08:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10292,6 +10290,6 @@
    "last": "2026-10-06 20:58:13"
   }
  },
- "generated_at": "2026-10-07T14:08:32",
- "total": 26337
+ "generated_at": "2026-10-07T14:09:04",
+ "total": 26339
 }
