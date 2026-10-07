@@ -1,6 +1,433 @@
 {
  "events": [
   {
+   "detail": "Lithuanian NKL Olimpas Palangos 86, Mazeikiai 70",
+   "detected_at": "2026-10-07 10:09:03",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-01/Mazeikiai-at-Olimpas-Palangos/543801"
+  },
+  {
+   "detail": "Lithuanian NKL + Armandas Plintauskas → Mazeikiai",
+   "detected_at": "2026-10-07 10:09:02",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian NKL + Artem Lopukhov → Mazeikiai",
+   "detected_at": "2026-10-07 10:09:02",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian NKL + Royce Williams → Mazeikiai",
+   "detected_at": "2026-10-07 10:09:02",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian NKL + Laurynas Klimas → Mazeikiai",
+   "detected_at": "2026-10-07 10:09:02",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian NKL + Lukas Prongos → Mazeikiai",
+   "detected_at": "2026-10-07 10:09:02",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian NKL + Domas Urbaitis → Mazeikiai",
+   "detected_at": "2026-10-07 10:09:02",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian NKL + Gvidas Juodis → Mazeikiai",
+   "detected_at": "2026-10-07 10:09:02",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian NKL + Amandas Mickus → Mazeikiai",
+   "detected_at": "2026-10-07 10:09:02",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian NKL + Edgaras Preibys → Mazeikiai",
+   "detected_at": "2026-10-07 10:09:02",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian NKL + Arvydas Gydra → Mazeikiai",
+   "detected_at": "2026-10-07 10:09:02",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian NKL + Asa Kone → Mazeikiai",
+   "detected_at": "2026-10-07 10:09:02",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian NKL + William Jenkins → Olimpas Palangos",
+   "detected_at": "2026-10-07 10:09:02",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian NKL + Gediminas Lesciauskas → Olimpas Palangos",
+   "detected_at": "2026-10-07 10:09:02",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian NKL + Titas Janusevicius → Olimpas Palangos",
+   "detected_at": "2026-10-07 10:09:02",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian NKL + Antanas Udras → Olimpas Palangos",
+   "detected_at": "2026-10-07 10:09:02",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian NKL + Armin Cane → Olimpas Palangos",
+   "detected_at": "2026-10-07 10:09:02",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian NKL ~ MOVED Motiejus Maziliauskas → Olimpas Palangos (from Plunges Olimpas)",
+   "detected_at": "2026-10-07 10:09:02",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian NKL + Hubertas Pivorius → Olimpas Palangos",
+   "detected_at": "2026-10-07 10:09:02",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian NKL + Julius Jucikas → Olimpas Palangos",
+   "detected_at": "2026-10-07 10:09:02",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian NKL + Rokas Uzas → Olimpas Palangos",
+   "detected_at": "2026-10-07 10:09:02",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian NKL + Laurynas Kaveckis → Telsiai",
+   "detected_at": "2026-10-07 10:08:59",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian NKL + Kevon Voyles → Telsiai",
+   "detected_at": "2026-10-07 10:08:59",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian NKL + Ovidijus Kaminskis → Telsiai",
+   "detected_at": "2026-10-07 10:08:59",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian NKL + Julius Kazakauskas → Telsiai",
+   "detected_at": "2026-10-07 10:08:59",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian NKL + Quinton Morton-Robertson → Telsiai",
+   "detected_at": "2026-10-07 10:08:59",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian NKL + Vilius Pocius → Telsiai",
+   "detected_at": "2026-10-07 10:08:59",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian NKL + Tadas Budrys → Telsiai",
+   "detected_at": "2026-10-07 10:08:59",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian NKL + Tomas Rimsa → Telsiai",
+   "detected_at": "2026-10-07 10:08:59",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian NKL + Deividas Rasys → Telsiai",
+   "detected_at": "2026-10-07 10:08:59",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian NKL + Ignas Martinkus → Telsiai",
+   "detected_at": "2026-10-07 10:08:59",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian NKL + Kaloyan Balkandzhiev → Lietuvos Rytas II",
+   "detected_at": "2026-10-07 10:08:59",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian NKL + Mantas Liutkevicius → Lietuvos Rytas II",
+   "detected_at": "2026-10-07 10:08:59",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian NKL + Adomas Pocius → Lietuvos Rytas II",
+   "detected_at": "2026-10-07 10:08:59",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian NKL + Erikas Sirgedas → Lietuvos Rytas II",
+   "detected_at": "2026-10-07 10:08:59",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian NKL + Vincentas Adomaitis → Lietuvos Rytas II",
+   "detected_at": "2026-10-07 10:08:59",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian NKL + Jonas Trivokas → Lietuvos Rytas II",
+   "detected_at": "2026-10-07 10:08:59",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian NKL + Kornelijus Snitka → Lietuvos Rytas II",
+   "detected_at": "2026-10-07 10:08:59",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian NKL + Simas Rascius → Lietuvos Rytas II",
+   "detected_at": "2026-10-07 10:08:59",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian NKL + Martynas Kancevicius → Lietuvos Rytas II",
+   "detected_at": "2026-10-07 10:08:59",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian NKL Telsiai 91, Lietuvos Rytas II 77",
+   "detected_at": "2026-10-07 10:08:59",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-01/Telsiai-at-Lietuvos-Rytas-II/543802"
+  },
+  {
+   "detail": "Lithuanian NKL Silute 92, Plunges Olimpas 85",
+   "detected_at": "2026-10-07 10:08:56",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-01/Silute-at-Plunges-Olimpas/543803"
+  },
+  {
+   "detail": "Lithuanian NKL + Nojus Jankunas → Silute",
+   "detected_at": "2026-10-07 10:08:55",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian NKL + Martynas Zigmantavicius → Silute",
+   "detected_at": "2026-10-07 10:08:55",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian NKL + Gerrale Gates → Silute",
+   "detected_at": "2026-10-07 10:08:55",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian NKL + Rokas Jocys → Silute",
+   "detected_at": "2026-10-07 10:08:55",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian NKL + Augustinas Mikstas → Silute",
+   "detected_at": "2026-10-07 10:08:55",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian NKL + Vitoldas Gavenia → Silute",
+   "detected_at": "2026-10-07 10:08:55",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian NKL + Anatoliy Shundel → Silute",
+   "detected_at": "2026-10-07 10:08:55",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian NKL + Lukas Kazlauskas → Silute",
+   "detected_at": "2026-10-07 10:08:55",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian NKL + Demarco Bethea → Silute",
+   "detected_at": "2026-10-07 10:08:55",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian NKL + Ignas Razutis → Plunges Olimpas",
+   "detected_at": "2026-10-07 10:08:55",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian NKL + Thomas Miles → Plunges Olimpas",
+   "detected_at": "2026-10-07 10:08:55",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian NKL + Vladyslav Mustiatsa → Plunges Olimpas",
+   "detected_at": "2026-10-07 10:08:55",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian NKL + Matas Macijauskas → Plunges Olimpas",
+   "detected_at": "2026-10-07 10:08:55",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian NKL + Emmanuel Byrd → Plunges Olimpas",
+   "detected_at": "2026-10-07 10:08:55",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian NKL + Modestas Jurkaitis → Plunges Olimpas",
+   "detected_at": "2026-10-07 10:08:55",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian NKL + Najeeb Muhammad → Plunges Olimpas",
+   "detected_at": "2026-10-07 10:08:55",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian NKL + Zygimantas Bartasius → Plunges Olimpas",
+   "detected_at": "2026-10-07 10:08:55",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian NKL + Motiejus Maziliauskas → Plunges Olimpas",
+   "detected_at": "2026-10-07 10:08:55",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian NKL + Orestas Seputis → Plunges Olimpas",
+   "detected_at": "2026-10-07 10:08:55",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
    "detail": "UTH  - REMOVED Brown, Terrell",
    "detected_at": "2026-10-07 09:28:59",
    "source": "SHEETS",
@@ -9842,433 +10269,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Petar Dilparic → BKK Radnicki Beograd",
-   "detected_at": "2026-10-04 23:20:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Milivoje Mijovic → BKK Radnicki Beograd",
-   "detected_at": "2026-10-04 23:20:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Nisa Zaric → BKK Radnicki Beograd",
-   "detected_at": "2026-10-04 23:20:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Marko Stevanovic → BKK Radnicki Beograd",
-   "detected_at": "2026-10-04 23:20:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Janko Dukic → BKK Radnicki Beograd",
-   "detected_at": "2026-10-04 23:20:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Andrej Bozic → BKK Radnicki Beograd",
-   "detected_at": "2026-10-04 23:20:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Sava Duric → BKK Radnicki Beograd",
-   "detected_at": "2026-10-04 23:20:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Aleksandar Jovcic → BKK Radnicki Beograd",
-   "detected_at": "2026-10-04 23:20:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS KK Kolubara LA 2003 77, BKK Radnicki Beograd 75",
-   "detected_at": "2026-10-04 23:20:11",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-04/KK-Kolubara-LA-2003-at-BKK-Radnicki-Beograd/544107"
-  },
-  {
-   "detail": "Serbian KLS + Julien Soumaoro → KK Mladost Admiral Zemun",
-   "detected_at": "2026-10-04 23:20:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Jalen Weaver → KK Mladost Admiral Zemun",
-   "detected_at": "2026-10-04 23:20:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Cedomir Matic → KK Mladost Admiral Zemun",
-   "detected_at": "2026-10-04 23:20:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Marko Kljajevic → KK Mladost Admiral Zemun",
-   "detected_at": "2026-10-04 23:20:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Luka Aksentijevic → KK Mladost Admiral Zemun",
-   "detected_at": "2026-10-04 23:20:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Rade Todorovic → KK Mladost Admiral Zemun",
-   "detected_at": "2026-10-04 23:20:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Marko Milenkovic → KK Mladost Admiral Zemun",
-   "detected_at": "2026-10-04 23:20:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Ognjen Matovic → KK Mladost Admiral Zemun",
-   "detected_at": "2026-10-04 23:20:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Marko Gutalj → KK Mladost Admiral Zemun",
-   "detected_at": "2026-10-04 23:20:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Andrija Radojevic → KK Mladost Admiral Zemun",
-   "detected_at": "2026-10-04 23:20:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Dusan Tanaskovic → KK Vojvodina Novi Sad",
-   "detected_at": "2026-10-04 23:20:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Uros Banjac → KK Vojvodina Novi Sad",
-   "detected_at": "2026-10-04 23:20:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Novak Music → KK Vojvodina Novi Sad",
-   "detected_at": "2026-10-04 23:20:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Duro Dautovic → KK Vojvodina Novi Sad",
-   "detected_at": "2026-10-04 23:20:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Aleksandar Zecevic → KK Vojvodina Novi Sad",
-   "detected_at": "2026-10-04 23:20:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Imran Subasic → KK Vojvodina Novi Sad",
-   "detected_at": "2026-10-04 23:20:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Marko Vukcevic → KK Vojvodina Novi Sad",
-   "detected_at": "2026-10-04 23:20:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Jaksa Draskovic → KK Vojvodina Novi Sad",
-   "detected_at": "2026-10-04 23:20:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Danilo Labovic → KK Vojvodina Novi Sad",
-   "detected_at": "2026-10-04 23:20:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Aleksandar Bursac → KK Vojvodina Novi Sad",
-   "detected_at": "2026-10-04 23:20:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS KK Vojvodina Novi Sad 79, KK Mladost Admiral Zemun 77",
-   "detected_at": "2026-10-04 23:20:08",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-04/KK-Mladost-Admiral-Zemun-at-KK-Vojvodina-Novi-Sad/544106"
-  },
-  {
-   "detail": "Ukrainian Superleague BC Khmelnytskyi 75, Ferro ZNTU Zaporozhye 72",
-   "detected_at": "2026-10-04 23:20:05",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-04/Ferro-ZNTU-Zaporozhye-at-BC-Khmelnytskyi/541710"
-  },
-  {
-   "detail": "Hungarian NBIA + Nandor Turcsanyi → Egis Kormend",
-   "detected_at": "2026-10-04 22:18:54",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Hungarian NBIA Atomeromu SE 95, Egis Kormend 84",
-   "detected_at": "2026-10-04 22:18:54",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-03/Atomeromu-SE-at-Egis-Kormend/533888"
-  },
-  {
-   "detail": "Hungarian NBIA NHSZ Szolnoki Olajbanyasz 74, NKA Universitas Pecs 70",
-   "detected_at": "2026-10-04 22:18:51",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-03/NHSZ-Szolnoki-Olajbanyasz-at-NKA-Universitas-Pecs/533886"
-  },
-  {
-   "detail": "Hungarian NBIA SZTE Szedeak 77, Phoenix MT Fot 71",
-   "detected_at": "2026-10-04 22:18:48",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-03/Phoenix-MT-Fot-at-SZTE-Szedeak/533885"
-  },
-  {
-   "detail": "Spanish Segunda FEB Caceres Patrimonio La Humanidad 82, Club Baloncesto Toledo Basketball 66",
-   "detected_at": "2026-10-04 22:18:42",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-04/Caceres-Patrimonio-La-Humanidad-at-Club-Baloncesto-Toledo-Basketball/527219"
-  },
-  {
-   "detail": "Spanish Segunda FEB + Albert Lafuente → Caceres Patrimonio La Humanidad",
-   "detected_at": "2026-10-04 22:18:41",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Juan Santos → Caceres Patrimonio La Humanidad",
-   "detected_at": "2026-10-04 22:18:41",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Kobe Newton → Caceres Patrimonio La Humanidad",
-   "detected_at": "2026-10-04 22:18:41",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Antonio Burgos → Caceres Patrimonio La Humanidad",
-   "detected_at": "2026-10-04 22:18:41",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Jose Nve Maleva → Caceres Patrimonio La Humanidad",
-   "detected_at": "2026-10-04 22:18:41",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Volodymyr Orlov → Caceres Patrimonio La Humanidad",
-   "detected_at": "2026-10-04 22:18:41",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + James Potier → Caceres Patrimonio La Humanidad",
-   "detected_at": "2026-10-04 22:18:41",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Erikas Kalinicenko → Caceres Patrimonio La Humanidad",
-   "detected_at": "2026-10-04 22:18:41",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Pol Campeny Lloveras → Caceres Patrimonio La Humanidad",
-   "detected_at": "2026-10-04 22:18:41",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Hugo Vazquez Garcia → Caceres Patrimonio La Humanidad",
-   "detected_at": "2026-10-04 22:18:41",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Thierry Sagna → Caceres Patrimonio La Humanidad",
-   "detected_at": "2026-10-04 22:18:41",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Riley Hayes → Club Baloncesto Toledo Basketball",
-   "detected_at": "2026-10-04 22:18:41",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Gerard Blat → Club Baloncesto Toledo Basketball",
-   "detected_at": "2026-10-04 22:18:41",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Daniel Abreu → Club Baloncesto Toledo Basketball",
-   "detected_at": "2026-10-04 22:18:41",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Alejandro Harguindey → Club Baloncesto Toledo Basketball",
-   "detected_at": "2026-10-04 22:18:41",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Albert Garrido → Club Baloncesto Toledo Basketball",
-   "detected_at": "2026-10-04 22:18:41",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Luis Garcia → Club Baloncesto Toledo Basketball",
-   "detected_at": "2026-10-04 22:18:41",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Miguel Serrano → Club Baloncesto Toledo Basketball",
-   "detected_at": "2026-10-04 22:18:41",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Hannibal Salomon → Club Baloncesto Toledo Basketball",
-   "detected_at": "2026-10-04 22:18:41",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Fernando Sierra → Club Baloncesto Toledo Basketball",
-   "detected_at": "2026-10-04 22:18:41",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Berthold Eluku-a Nongo → Club Baloncesto Toledo Basketball",
-   "detected_at": "2026-10-04 22:18:41",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Nahuel Pena → Club Baloncesto Toledo Basketball",
-   "detected_at": "2026-10-04 22:18:41",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish ACB Real Madrid 114, Monbus Obradoiro 107",
-   "detected_at": "2026-10-04 22:18:39",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-04/Real-Madrid-at-Monbus-Obradoiro/533424"
-  },
-  {
-   "detail": "Spanish ACB Valencia Basket 97, Casademont Zaragoza 82",
-   "detected_at": "2026-10-04 22:18:36",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-04/Valencia-Basket-at-Casademont-Zaragoza/533425"
-  },
-  {
-   "detail": "Spanish ACB + Aljaz Kunc → CB Girona",
-   "detected_at": "2026-10-04 22:18:32",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10289,12 +10289,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 8009,
-   "last": "2026-10-07 09:01:39"
+   "count": 8067,
+   "last": "2026-10-07 10:09:02"
   },
   "SCORES": {
-   "count": 1498,
-   "last": "2026-10-07 09:01:40"
+   "count": 1501,
+   "last": "2026-10-07 10:09:03"
   },
   "SHEETS": {
    "count": 4635,
@@ -10313,6 +10313,6 @@
    "last": "2026-10-06 20:58:13"
   }
  },
- "generated_at": "2026-10-07T09:52:03",
- "total": 26171
+ "generated_at": "2026-10-07T10:09:31",
+ "total": 26232
 }
