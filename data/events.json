@@ -1,6 +1,108 @@
 {
  "events": [
   {
+   "detail": "MIL  - REMOVED Butler Jr., John",
+   "detected_at": "2026-10-07 09:14:58",
+   "source": "SHEETS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "MIL  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 197760470.2 -> 195311049.2, col9: 493502491.6 -> 491053070.6",
+   "detected_at": "2026-10-07 09:14:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MIL  CHANGED Players Under Contract  -  col3: 172127779.4 -> 169678358.4",
+   "detected_at": "2026-10-07 09:14:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MIL  CHANGED Full Season Contracts  -  col3: 172127779.4 -> 169678358.4",
+   "detected_at": "2026-10-07 09:14:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "MIL  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 19 -> 18",
+   "detected_at": "2026-10-07 09:14:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "OKC  - REMOVED McCray, Robert",
+   "detected_at": "2026-10-07 09:14:58",
+   "source": "SHEETS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "OKC  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 222987318 -> 221629555, col9: 791386746.8 -> 790028983.8",
+   "detected_at": "2026-10-07 09:14:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "OKC  CHANGED Players Under Contract  -  col3: 220802202 -> 219444439",
+   "detected_at": "2026-10-07 09:14:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "OKC  CHANGED Full Season Contracts  -  col3: 220802202 -> 219444439",
+   "detected_at": "2026-10-07 09:14:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "OKC  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 18 -> 17",
+   "detected_at": "2026-10-07 09:14:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col22: 20374202 -> 19016439",
+   "detected_at": "2026-10-07 09:14:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 4th Incremental Tax Bracket  -  col22: 15766209.5 -> 9316835.25",
+   "detected_at": "2026-10-07 09:14:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col22: 48454959.5 -> 42005585.25",
+   "detected_at": "2026-10-07 09:14:58",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED John Butler Jr. Milwaukee Bucks",
+   "detected_at": "2026-10-07 09:14:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  John Butler Jr. (WAIVED) Milwaukee Bucks",
+   "detected_at": "2026-10-07 09:14:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  - REMOVED Robert McCray Oklahoma City Thunder",
+   "detected_at": "2026-10-07 09:14:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Robert McCray (WAIVED) Oklahoma City Thunder",
+   "detected_at": "2026-10-07 09:14:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "LAC  - REMOVED Loyer, Fletcher",
    "detected_at": "2026-10-07 09:13:59",
    "source": "SHEETS",
@@ -10170,127 +10272,12 @@
    "detected_at": "2026-10-04 22:04:55",
    "source": "PLAYERS",
    "type": "REMOVED"
-  },
-  {
-   "detail": "Marvin Jones (basketball)  ~ height_ft: 7 -> -",
-   "detected_at": "2026-10-04 21:32:30",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Marvin_Jones_(basketball)"
-  },
-  {
-   "detail": "Marvin Jones (basketball)  ~ height_in: 0 -> -",
-   "detected_at": "2026-10-04 21:32:30",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Marvin_Jones_(basketball)"
-  },
-  {
-   "detail": "Marvin Jones (basketball)  ~ weight_lb: 220 -> -",
-   "detected_at": "2026-10-04 21:32:30",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Marvin_Jones_(basketball)"
-  },
-  {
-   "detail": "2026-10-04  Sacramento Kings waived guard Sean East II.",
-   "detected_at": "2026-10-04 21:14:55",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
-  },
-  {
-   "detail": "2026-10-04  Sacramento Kings waived forward Viktor Lakhin.",
-   "detected_at": "2026-10-04 21:14:55",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
-  },
-  {
-   "detail": "2026-10-03  Memphis Grizzlies waived guard Jordan Hawkins.",
-   "detected_at": "2026-10-04 21:14:55",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
-  },
-  {
-   "detail": "Italian Serie A2 Basket + Toni Perkovic → Unieuro Forli",
-   "detected_at": "2026-10-04 21:10:19",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Italian Serie A2 Basket Unieuro Forli 80, Sella Cento 73",
-   "detected_at": "2026-10-04 21:10:19",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-03/Sella-Cento-at-Unieuro-Forli/529797"
-  },
-  {
-   "detail": "VTB United League + Malik Newman → Zenit Saint Petersburg",
-   "detected_at": "2026-10-04 21:10:13",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "VTB United League UNICS Kazan 95, Zenit Saint Petersburg 60",
-   "detected_at": "2026-10-04 21:10:13",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-04/Zenit-Saint-Petersburg-at-UNICS-Kazan/532303"
-  },
-  {
-   "detail": "VTB United League Dynamo Vladivostok 98, Samara 84",
-   "detected_at": "2026-10-04 21:10:10",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-04/Dynamo-Vladivostok-at-Samara/532304"
-  },
-  {
-   "detail": "VTB United League + Danila Chikarev → Samara",
-   "detected_at": "2026-10-04 21:10:09",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish ACB UCAM Murcia CB 100, Barca 94",
-   "detected_at": "2026-10-04 21:10:07",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-04/Barca-at-UCAM-Murcia-CB/533427"
-  },
-  {
-   "detail": "2026-10-02  Washington Wizards waived forward Steve Settle III.",
-   "detected_at": "2026-10-04 21:08:55",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
-  },
-  {
-   "detail": "Emanuel Miller (basketball)  ~ team: Grand Rapids Gold -> Denver Nuggets",
-   "detected_at": "2026-10-04 20:21:36",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Emanuel_Miller_(basketball)"
-  },
-  {
-   "detail": "Emanuel Miller (basketball)  ~ league: NBA G League -> NBA",
-   "detected_at": "2026-10-04 20:21:36",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Emanuel_Miller_(basketball)"
-  },
-  {
-   "detail": "Emanuel Miller (basketball)  ~ CAREER  + –present Denver Nuggets",
-   "detected_at": "2026-10-04 20:21:36",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Emanuel_Miller_(basketball)"
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 3558,
-   "last": "2026-10-07 09:13:56"
+   "count": 3562,
+   "last": "2026-10-07 09:14:56"
   },
   "GLEAGUE": {
    "count": 169,
@@ -10313,8 +10300,8 @@
    "last": "2026-10-07 09:01:40"
   },
   "SHEETS": {
-   "count": 4617,
-   "last": "2026-10-07 09:13:59"
+   "count": 4630,
+   "last": "2026-10-07 09:14:58"
   },
   "TRANSACTIONS": {
    "count": 488,
@@ -10329,6 +10316,6 @@
    "last": "2026-10-06 20:58:13"
   }
  },
- "generated_at": "2026-10-07T09:14:03",
- "total": 26147
+ "generated_at": "2026-10-07T09:22:41",
+ "total": 26164
 }
