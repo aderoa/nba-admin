@@ -1,6 +1,461 @@
 {
  "events": [
   {
+   "detail": "FIBA Europe Cup Iraklis BC 64, MZT Skopje Aerodrom 59",
+   "detected_at": "2026-10-07 12:30:39",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-06/Iraklis-BC-at-MZT-Skopje-Aerodrom/528589"
+  },
+  {
+   "detail": "FIBA Europe Cup + Vasilis Mouratos → Iraklis BC",
+   "detected_at": "2026-10-07 12:30:38",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "FIBA Europe Cup + Dimitrije Nikolic → MZT Skopje Aerodrom",
+   "detected_at": "2026-10-07 12:30:38",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "FIBA Europe Cup + Noah Farrakhan → MZT Skopje Aerodrom",
+   "detected_at": "2026-10-07 12:30:38",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "FIBA Europe Cup Nancy Basket 66, BC Hallmann Vienna 65",
+   "detected_at": "2026-10-07 12:30:35",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-06/BC-Hallmann-Vienna-at-Nancy-Basket/528590"
+  },
+  {
+   "detail": "FIBA Europe Cup ~ MOVED Axel Villain → Nancy Basket (from Espoirs Nancy)",
+   "detected_at": "2026-10-07 12:30:34",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "FIBA Europe Cup ~ RETURN Erwan Djoni → Nancy Basket (from Espoirs Nancy)",
+   "detected_at": "2026-10-07 12:30:34",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "FIBA Europe Cup Mykonos 78, Neftchi IK 58",
+   "detected_at": "2026-10-07 12:30:32",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-06/Neftchi-IK-at-Mykonos/528591"
+  },
+  {
+   "detail": "FIBA Europe Cup + Nijat Nasirov → Neftchi IK",
+   "detected_at": "2026-10-07 12:30:31",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "FIBA Europe Cup + Konstantinos Iatridis → Mykonos",
+   "detected_at": "2026-10-07 12:30:31",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "FIBA Europe Cup Dziki Warszawa 103, Tartu Ulikool MaksMoorits 76",
+   "detected_at": "2026-10-07 12:30:28",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-06/Dziki-Warszawa-at-Tartu-Ulikool-MaksMoorits/528588"
+  },
+  {
+   "detail": "Basketball Champions League Europe ALBA Berlin 110, SK Slavia Praha ERA NBK 86",
+   "detected_at": "2026-10-07 12:30:24",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-07/ALBA-Berlin-at-SK-Slavia-Praha-ERA-NBK/528605"
+  },
+  {
+   "detail": "Basketball Champions League Europe ~ MOVED Anton Nufer → ALBA Berlin (from SSV lok Bernau Alba)",
+   "detected_at": "2026-10-07 12:30:23",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Basketball Champions League Europe ~ RETURN Richard Schmitt → ALBA Berlin (from SSV lok Bernau Alba)",
+   "detected_at": "2026-10-07 12:30:23",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "FIBA Europe Cup CSM Oradea 93, Fribourg Olympic 67",
+   "detected_at": "2026-10-07 12:30:20",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-07/Fribourg-Olympic-at-CSM-Oradea/541909"
+  },
+  {
+   "detail": "FIBA Europe Cup + Devearl Ramsey → Lokomotiv Plovdiv",
+   "detected_at": "2026-10-07 12:30:17",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "FIBA Europe Cup + Jordan Dallas → Lokomotiv Plovdiv",
+   "detected_at": "2026-10-07 12:30:17",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "FIBA Europe Cup + Tomislav Minkov → Lokomotiv Plovdiv",
+   "detected_at": "2026-10-07 12:30:17",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "FIBA Europe Cup + Jomaru Brown → Lokomotiv Plovdiv",
+   "detected_at": "2026-10-07 12:30:17",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "FIBA Europe Cup + Isaiah Thompson → Lokomotiv Plovdiv",
+   "detected_at": "2026-10-07 12:30:17",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "FIBA Europe Cup + Evgeni Hadzhirusev → Lokomotiv Plovdiv",
+   "detected_at": "2026-10-07 12:30:17",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "FIBA Europe Cup + Mihail Moldov → Lokomotiv Plovdiv",
+   "detected_at": "2026-10-07 12:30:17",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "FIBA Europe Cup + Saiquan Jamison → Lokomotiv Plovdiv",
+   "detected_at": "2026-10-07 12:30:17",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "FIBA Europe Cup + Ioannis Kikrilis → Lokomotiv Plovdiv",
+   "detected_at": "2026-10-07 12:30:17",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "FIBA Europe Cup + Georgi Kenderov → Lokomotiv Plovdiv",
+   "detected_at": "2026-10-07 12:30:17",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "FIBA Europe Cup VEF Riga 106, Lokomotiv Plovdiv 83",
+   "detected_at": "2026-10-07 12:30:17",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-07/Lokomotiv-Plovdiv-at-VEF-Riga/541910"
+  },
+  {
+   "detail": "FIBA Europe Cup KB Bashkimi Prizren 79, Valmiera Glass Via 77",
+   "detected_at": "2026-10-07 12:30:14",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-07/Valmiera-Glass-Via-at-KB-Bashkimi-Prizren/541932"
+  },
+  {
+   "detail": "FIBA Europe Cup + Lance Thomas → KB Bashkimi Prizren",
+   "detected_at": "2026-10-07 12:30:13",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "FIBA Europe Cup BC Kalev Cramo 86, Korfez Mansia 78",
+   "detected_at": "2026-10-07 12:30:11",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-07/Korfez-Mansia-at-BC-Kalev-Cramo/541931"
+  },
+  {
+   "detail": "FIBA Europe Cup + Atahan Demirtas → Korfez Mansia",
+   "detected_at": "2026-10-07 12:30:10",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "FIBA Europe Cup King Szczecin 88, Nitra Blue Wings 81",
+   "detected_at": "2026-10-07 12:30:05",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-07/Nitra-Blue-Wings-at-King-Szczecin/541929"
+  },
+  {
+   "detail": "FIBA Europe Cup + Isaiah Mucius → AEK Larnaca",
+   "detected_at": "2026-10-07 12:30:01",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "FIBA Europe Cup AEK Larnaca 73, sOliver Baskets 65",
+   "detected_at": "2026-10-07 12:30:01",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-07/sOliver-Baskets-at-AEK-Larnaca/541930"
+  },
+  {
+   "detail": "FIBA Europe Cup KK Split 74, BK Opava 68",
+   "detected_at": "2026-10-07 12:29:58",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-07/KK-Split-at-BK-Opava/541925"
+  },
+  {
+   "detail": "FIBA Europe Cup + Nick Johnson → KK Split",
+   "detected_at": "2026-10-07 12:29:57",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "FIBA Europe Cup Esenler Erokspor 92, Gence BC 63",
+   "detected_at": "2026-10-07 12:29:55",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-07/Gence-BC-at-Esenler-Erokspor/541927"
+  },
+  {
+   "detail": "FIBA Europe Cup + Jarvis Garrett → Gence BC",
+   "detected_at": "2026-10-07 12:29:54",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "FIBA Europe Cup + Montavious Murphy → Gence BC",
+   "detected_at": "2026-10-07 12:29:54",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "FIBA Europe Cup + Xavier Rhodes → Gence BC",
+   "detected_at": "2026-10-07 12:29:54",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "FIBA Europe Cup + Latavious Mitchell → Gence BC",
+   "detected_at": "2026-10-07 12:29:54",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "FIBA Europe Cup + Kobe MaGee → Gence BC",
+   "detected_at": "2026-10-07 12:29:54",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "FIBA Europe Cup + Fikrat Alakbarov → Gence BC",
+   "detected_at": "2026-10-07 12:29:54",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "FIBA Europe Cup + Brandon Ellington → Gence BC",
+   "detected_at": "2026-10-07 12:29:54",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "FIBA Europe Cup + Tariel Yusifzada → Gence BC",
+   "detected_at": "2026-10-07 12:29:54",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "FIBA Europe Cup + Alibay Mammadli → Gence BC",
+   "detected_at": "2026-10-07 12:29:54",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "FIBA Europe Cup + Aydin Ibrahimov → Gence BC",
+   "detected_at": "2026-10-07 12:29:54",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "FIBA Europe Cup + Ataberk Aksu → Esenler Erokspor",
+   "detected_at": "2026-10-07 12:29:54",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "FIBA Europe Cup Keravnos Strovolou 88, Parnu Sadam 70",
+   "detected_at": "2026-10-07 12:29:52",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-07/Parnu-Sadam-at-Keravnos-Strovolou/541928"
+  },
+  {
+   "detail": "FIBA Europe Cup + Nate Grimes → Keravnos Strovolou",
+   "detected_at": "2026-10-07 12:29:51",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "FIBA Europe Cup ~ MOVED Shamar Givance → Keravnos Strovolou (from Vancouver Bandits)",
+   "detected_at": "2026-10-07 12:29:51",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "FIBA Europe Cup + Simon Michail → Keravnos Strovolou",
+   "detected_at": "2026-10-07 12:29:51",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "FIBA Europe Cup + Tyrn Flowers → Keravnos Strovolou",
+   "detected_at": "2026-10-07 12:29:51",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "FIBA Europe Cup + Tre'von Allen → Keravnos Strovolou",
+   "detected_at": "2026-10-07 12:29:51",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "FIBA Europe Cup + Jaye Crockett → Keravnos Strovolou",
+   "detected_at": "2026-10-07 12:29:51",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "FIBA Europe Cup + Charalampos Giannaras → Keravnos Strovolou",
+   "detected_at": "2026-10-07 12:29:51",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "FIBA Europe Cup + Ioannis Pashialis → Keravnos Strovolou",
+   "detected_at": "2026-10-07 12:29:51",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "FIBA Europe Cup + Nikos Stylianou → Keravnos Strovolou",
+   "detected_at": "2026-10-07 12:29:51",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "FIBA Europe Cup + Michalis Koumis → Keravnos Strovolou",
+   "detected_at": "2026-10-07 12:29:51",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "FIBA Europe Cup + Michail Karagiannis → Keravnos Strovolou",
+   "detected_at": "2026-10-07 12:29:51",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "FIBA Europe Cup + Stefanos Tigkas → Keravnos Strovolou",
+   "detected_at": "2026-10-07 12:29:51",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "FIBA Europe Cup + Alexandros Kalaitzakis → Kolossos Rodou BC",
+   "detected_at": "2026-10-07 12:29:48",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "FIBA Europe Cup Kolossos Rodou BC 77, SCM CSU Craiova 65",
+   "detected_at": "2026-10-07 12:29:48",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-07/SCM-CSU-Craiova-at-Kolossos-Rodou-BC/541922"
+  },
+  {
+   "detail": "FIBA Europe Cup Les Lions de Geneve 105, Landau Lions 83",
+   "detected_at": "2026-10-07 12:29:45",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-07/Les-Lions-de-Geneve-at-Landau-Lions/541924"
+  },
+  {
+   "detail": "FIBA Europe Cup + Nijat Mammadli → Landau Lions",
+   "detected_at": "2026-10-07 12:29:44",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "FIBA Europe Cup + Ercan Yildiz Donat → Landau Lions",
+   "detected_at": "2026-10-07 12:29:44",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
    "detail": "Lithuanian NKL Olimpas Palangos 86, Mazeikiai 70",
    "detected_at": "2026-10-07 10:09:03",
    "source": "SCORES",
@@ -9814,461 +10269,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Alonso Grela Rojas → Culturaly Y Deportiva Leonesa",
-   "detected_at": "2026-10-04 23:20:26",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Rodrigo Martinez → Culturaly Y Deportiva Leonesa",
-   "detected_at": "2026-10-04 23:20:26",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Wilber Burgos → Culturaly Y Deportiva Leonesa",
-   "detected_at": "2026-10-04 23:20:26",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Raymond Baka → Culturaly Y Deportiva Leonesa",
-   "detected_at": "2026-10-04 23:20:26",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Oscar Siquier → Culturaly Y Deportiva Leonesa",
-   "detected_at": "2026-10-04 23:20:26",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Diego Castillo → Culturaly Y Deportiva Leonesa",
-   "detected_at": "2026-10-04 23:20:26",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Alvaro Gonzalez → Culturaly Y Deportiva Leonesa",
-   "detected_at": "2026-10-04 23:20:26",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Alonso Reyes Abad → Culturaly Y Deportiva Leonesa",
-   "detected_at": "2026-10-04 23:20:26",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB CB Prat 81, Reina Proteinas Clavijo 63",
-   "detected_at": "2026-10-04 23:20:24",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-04/CB-Prat-at-Reina-Proteinas-Clavijo/527226"
-  },
-  {
-   "detail": "Spanish Segunda FEB + Sergi Costa → CB Prat",
-   "detected_at": "2026-10-04 23:20:23",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Jose Nogues → CB Prat",
-   "detected_at": "2026-10-04 23:20:23",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Thomas Smallwood → CB Prat",
-   "detected_at": "2026-10-04 23:20:23",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Quim Salvans → CB Prat",
-   "detected_at": "2026-10-04 23:20:23",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Adria Codinachs → CB Prat",
-   "detected_at": "2026-10-04 23:20:23",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Raimon Carrasco → CB Prat",
-   "detected_at": "2026-10-04 23:20:23",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Brian Amabilino Perez → CB Prat",
-   "detected_at": "2026-10-04 23:20:23",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Pau Carreno → CB Prat",
-   "detected_at": "2026-10-04 23:20:23",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Kevin Keliki → CB Prat",
-   "detected_at": "2026-10-04 23:20:23",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Solomon Campbell → CB Prat",
-   "detected_at": "2026-10-04 23:20:23",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Guillem Garcia → CB Prat",
-   "detected_at": "2026-10-04 23:20:23",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Joan Pardina → Reina Proteinas Clavijo",
-   "detected_at": "2026-10-04 23:20:23",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Pedro Ianguas → Reina Proteinas Clavijo",
-   "detected_at": "2026-10-04 23:20:23",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Seydou Traore → Reina Proteinas Clavijo",
-   "detected_at": "2026-10-04 23:20:23",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Pol Rios Cadenas → Reina Proteinas Clavijo",
-   "detected_at": "2026-10-04 23:20:23",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Kamdyn Curfman → Reina Proteinas Clavijo",
-   "detected_at": "2026-10-04 23:20:23",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Robinson Idehen → Reina Proteinas Clavijo",
-   "detected_at": "2026-10-04 23:20:23",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Miguel de Pablo → Reina Proteinas Clavijo",
-   "detected_at": "2026-10-04 23:20:23",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Omar Thiam → Reina Proteinas Clavijo",
-   "detected_at": "2026-10-04 23:20:23",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Pablo Harguindey Maneiro → Reina Proteinas Clavijo",
-   "detected_at": "2026-10-04 23:20:23",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Iker Sama Perez → Reina Proteinas Clavijo",
-   "detected_at": "2026-10-04 23:20:23",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Macedonian Superleague KK Pelister Sport Bitola 78, TFT Skopje 70",
-   "detected_at": "2026-10-04 23:20:21",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-04/TFT-Skopje-at-KK-Pelister-Sport-Bitola/539935"
-  },
-  {
-   "detail": "Macedonian Superleague + Sekou Sylla → TFT Skopje",
-   "detected_at": "2026-10-04 23:20:20",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Macedonian Superleague + Strahil Nikolov → TFT Skopje",
-   "detected_at": "2026-10-04 23:20:20",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Macedonian Superleague + Dimitar Ivanov → TFT Skopje",
-   "detected_at": "2026-10-04 23:20:20",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Macedonian Superleague ~ MOVED Alain Louis → TFT Skopje (from Otago Nuggets)",
-   "detected_at": "2026-10-04 23:20:20",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
-  },
-  {
-   "detail": "Macedonian Superleague + Gjorgji Cvetkovski → TFT Skopje",
-   "detected_at": "2026-10-04 23:20:20",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Macedonian Superleague + Georgi Zafirov → TFT Skopje",
-   "detected_at": "2026-10-04 23:20:20",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Macedonian Superleague + Nakavieon White → TFT Skopje",
-   "detected_at": "2026-10-04 23:20:20",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Macedonian Superleague + Toma Stojanoski → TFT Skopje",
-   "detected_at": "2026-10-04 23:20:20",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Macedonian Superleague + Grigorij Gjorgjevikj → TFT Skopje",
-   "detected_at": "2026-10-04 23:20:20",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Macedonian Superleague + Matej Mitrevski → TFT Skopje",
-   "detected_at": "2026-10-04 23:20:20",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Macedonian Superleague + Roosevelt Wheeler → KK Pelister Sport Bitola",
-   "detected_at": "2026-10-04 23:20:20",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Macedonian Superleague + C.J. Wilson → KK Pelister Sport Bitola",
-   "detected_at": "2026-10-04 23:20:20",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Macedonian Superleague + Kosta Kjirilovski → KK Pelister Sport Bitola",
-   "detected_at": "2026-10-04 23:20:20",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Macedonian Superleague + Cam McDowell → KK Pelister Sport Bitola",
-   "detected_at": "2026-10-04 23:20:20",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Macedonian Superleague + Alonzo Range → KK Pelister Sport Bitola",
-   "detected_at": "2026-10-04 23:20:20",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Macedonian Superleague + Luka Savicevic → KK Pelister Sport Bitola",
-   "detected_at": "2026-10-04 23:20:20",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Macedonian Superleague + Viktor Zlatevski → KK Pelister Sport Bitola",
-   "detected_at": "2026-10-04 23:20:20",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Macedonian Superleague + Blagoj Dimitriev → KK Pelister Sport Bitola",
-   "detected_at": "2026-10-04 23:20:20",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Macedonian Superleague + Bojan Dimitriev → KK Pelister Sport Bitola",
-   "detected_at": "2026-10-04 23:20:20",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Macedonian Superleague + Ivan Sapundjiev → KK Pelister Sport Bitola",
-   "detected_at": "2026-10-04 23:20:20",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Swiss LNA Starwings Basket Regio Basel 81, Zurich 73",
-   "detected_at": "2026-10-04 23:20:17",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-04/Zurich-at-Starwings-Basket-Regio-Basel/534107"
-  },
-  {
-   "detail": "Swiss LNA + Zachary Harvey-Seutcheu → BBC Nyon",
-   "detected_at": "2026-10-04 23:20:14",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Swiss LNA BBC Nyon 77, Lugano Tigers 70",
-   "detected_at": "2026-10-04 23:20:14",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-04/BBC-Nyon-at-Lugano-Tigers/534106"
-  },
-  {
-   "detail": "Serbian KLS + Justin Wright → KK Kolubara LA 2003",
-   "detected_at": "2026-10-04 23:20:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Lazar Vasic → KK Kolubara LA 2003",
-   "detected_at": "2026-10-04 23:20:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Aleksandar Topalovic → KK Kolubara LA 2003",
-   "detected_at": "2026-10-04 23:20:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Cam Morris III → KK Kolubara LA 2003",
-   "detected_at": "2026-10-04 23:20:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Djordje Djordjevic → KK Kolubara LA 2003",
-   "detected_at": "2026-10-04 23:20:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Matija Zuzic → KK Kolubara LA 2003",
-   "detected_at": "2026-10-04 23:20:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Aleksandar Sokolovic → KK Kolubara LA 2003",
-   "detected_at": "2026-10-04 23:20:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Ilija Radonjic → KK Kolubara LA 2003",
-   "detected_at": "2026-10-04 23:20:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Nemanja Reljic → KK Kolubara LA 2003",
-   "detected_at": "2026-10-04 23:20:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Mateja Lazic → KK Kolubara LA 2003",
-   "detected_at": "2026-10-04 23:20:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Mateja Todoric → BKK Radnicki Beograd",
-   "detected_at": "2026-10-04 23:20:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10289,12 +10289,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 8067,
-   "last": "2026-10-07 10:09:02"
+   "count": 8116,
+   "last": "2026-10-07 12:30:38"
   },
   "SCORES": {
-   "count": 1501,
-   "last": "2026-10-07 10:09:03"
+   "count": 1517,
+   "last": "2026-10-07 12:30:39"
   },
   "SHEETS": {
    "count": 4635,
@@ -10313,6 +10313,6 @@
    "last": "2026-10-06 20:58:13"
   }
  },
- "generated_at": "2026-10-07T12:21:02",
- "total": 26232
+ "generated_at": "2026-10-07T12:31:13",
+ "total": 26297
 }
