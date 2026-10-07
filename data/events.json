@@ -1,6 +1,48 @@
 {
  "events": [
   {
+   "detail": "UTH  - REMOVED Brown, Terrell",
+   "detected_at": "2026-10-07 09:28:59",
+   "source": "SHEETS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "UTH  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 193565626.4 -> 192207863.4, col9: 715488287.1 -> 714130524.1",
+   "detected_at": "2026-10-07 09:28:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "UTH  CHANGED Players Under Contract  -  col3: 185680626.4 -> 184322863.4",
+   "detected_at": "2026-10-07 09:28:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "UTH  CHANGED Full Season Contracts  -  col3: 185680626.4 -> 184322863.4",
+   "detected_at": "2026-10-07 09:28:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "UTH  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 17 -> 16",
+   "detected_at": "2026-10-07 09:28:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  - REMOVED Terrell Brown Jr. Utah Jazz",
+   "detected_at": "2026-10-07 09:28:55",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Terrell Brown Jr. (WAIVED) Utah Jazz",
+   "detected_at": "2026-10-07 09:28:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "MIL  - REMOVED Butler Jr., John",
    "detected_at": "2026-10-07 09:14:58",
    "source": "SHEETS",
@@ -10227,57 +10269,12 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Spanish ACB + Khory Brunot → CB Girona",
-   "detected_at": "2026-10-04 22:18:32",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish ACB Baskonia 118, CB Girona 78",
-   "detected_at": "2026-10-04 22:18:32",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-04/CB-Girona-at-Baskonia/533426"
-  },
-  {
-   "detail": "Lonzo Ball  ~ 59501: league -> NBA",
-   "detected_at": "2026-10-04 22:09:12",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": ""
-  },
-  {
-   "detail": "- REMOVED Jordan Hawkins (MEM)",
-   "detected_at": "2026-10-04 22:04:55",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED Steve Settle III (WAS)",
-   "detected_at": "2026-10-04 22:04:55",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED Sean East II (SAC)",
-   "detected_at": "2026-10-04 22:04:55",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED Viktor Lakhin (SAC)",
-   "detected_at": "2026-10-04 22:04:55",
-   "source": "PLAYERS",
-   "type": "REMOVED"
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 3562,
-   "last": "2026-10-07 09:14:56"
+   "count": 3564,
+   "last": "2026-10-07 09:28:55"
   },
   "GLEAGUE": {
    "count": 169,
@@ -10300,8 +10297,8 @@
    "last": "2026-10-07 09:01:40"
   },
   "SHEETS": {
-   "count": 4630,
-   "last": "2026-10-07 09:14:58"
+   "count": 4635,
+   "last": "2026-10-07 09:28:59"
   },
   "TRANSACTIONS": {
    "count": 488,
@@ -10316,6 +10313,6 @@
    "last": "2026-10-06 20:58:13"
   }
  },
- "generated_at": "2026-10-07T09:22:41",
- "total": 26164
+ "generated_at": "2026-10-07T09:29:04",
+ "total": 26171
 }
