@@ -1,6 +1,55 @@
 {
  "events": [
   {
+   "detail": "French Basketball Cup Antibes 80, Chorale Roanne Basket 78",
+   "detected_at": "2026-10-06 23:33:36",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-06/Chorale-Roanne-Basket-at-Antibes/541670"
+  },
+  {
+   "detail": "French Basketball Cup ~ RETURN Anthony Bria → Chorale Roanne Basket (from Espoirs Roanne)",
+   "detected_at": "2026-10-06 23:33:35",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "Mexican LNBP Mineros de Zacatecas 96, Santos de San Luis Potosi 75",
+   "detected_at": "2026-10-06 23:33:32",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-06/Santos-de-San-Luis-Potosi-at-Mineros-de-Zacatecas/542858"
+  },
+  {
+   "detail": "Mexican LNBP Astros de Jalisco 96, Gambusinos 89",
+   "detected_at": "2026-10-06 23:33:29",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-06/Gambusinos-at-Astros-de-Jalisco/542859"
+  },
+  {
+   "detail": "Mexican LNBP Panteras de Aguascalientes 77, Diablos Rojos 76",
+   "detected_at": "2026-10-06 23:33:26",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-06/Diablos-Rojos-at-Panteras-de-Aguascalientes/542860"
+  },
+  {
+   "detail": "Mexican LNBP Soles 88, Fuerza Regia 86",
+   "detected_at": "2026-10-06 23:33:23",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-06/Fuerza-Regia-at-Soles/542861"
+  },
+  {
+   "detail": "Mexican LNBP Dorados de Chihuahua 105, Freseros Irapuato 85",
+   "detected_at": "2026-10-06 23:33:19",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-06/Dorados-de-Chihuahua-at-Freseros-Irapuato/542857"
+  },
+  {
    "detail": "Eurocup WKS Slask Wroclaw 94, Dolomiti Energia Trento 81",
    "detected_at": "2026-10-06 21:30:54",
    "source": "SCORES",
@@ -10248,55 +10297,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Daniel Stefanuto → Lobe Huesca La Magia",
-   "detected_at": "2026-10-04 07:29:04",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Samuel Franco Garcia → Lobe Huesca La Magia",
-   "detected_at": "2026-10-04 07:29:04",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Salvador Gallego Mogro → Lobe Huesca La Magia",
-   "detected_at": "2026-10-04 07:29:04",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Alex Almenta Macias → Lobe Huesca La Magia",
-   "detected_at": "2026-10-04 07:29:04",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Jordan Rogers → Club Esportiu Basquet Lliria",
-   "detected_at": "2026-10-04 07:29:04",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Luis Garcia Perez → Club Esportiu Basquet Lliria",
-   "detected_at": "2026-10-04 07:29:04",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Ezichi Kalu → Club Esportiu Basquet Lliria",
-   "detected_at": "2026-10-04 07:29:04",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10317,12 +10317,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 7813,
-   "last": "2026-10-06 21:30:52"
+   "count": 7814,
+   "last": "2026-10-06 23:33:35"
   },
   "SCORES": {
-   "count": 1463,
-   "last": "2026-10-06 21:30:54"
+   "count": 1469,
+   "last": "2026-10-06 23:33:36"
   },
   "SHEETS": {
    "count": 4612,
@@ -10341,6 +10341,6 @@
    "last": "2026-10-06 20:58:13"
   }
  },
- "generated_at": "2026-10-06T23:32:01",
- "total": 25884
+ "generated_at": "2026-10-06T23:34:08",
+ "total": 25891
 }
