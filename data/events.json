@@ -1,6 +1,48 @@
 {
  "events": [
   {
+   "detail": "LAC  - REMOVED Loyer, Fletcher",
+   "detected_at": "2026-10-07 09:13:59",
+   "source": "SHEETS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "LAC  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 205985466.1 -> 204627703.1, col9: 391724550.3 -> 390366787.3",
+   "detected_at": "2026-10-07 09:13:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "LAC  CHANGED Players Under Contract  -  col3: 189468511.1 -> 188110748.1",
+   "detected_at": "2026-10-07 09:13:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "LAC  CHANGED Full Season Contracts  -  col3: 189468511.1 -> 188110748.1",
+   "detected_at": "2026-10-07 09:13:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "LAC  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 19 -> 18",
+   "detected_at": "2026-10-07 09:13:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  - REMOVED Fletcher Loyer Los Angeles Clippers",
+   "detected_at": "2026-10-07 09:13:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Fletcher Loyer (WAIVED) Los Angeles Clippers",
+   "detected_at": "2026-10-07 09:13:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "Lithuanian NKL Omega Tauras Kauno 127, Kedainiu SC 89",
    "detected_at": "2026-10-07 09:01:40",
    "source": "SCORES",
@@ -10243,61 +10285,12 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Emanuel_Miller_(basketball)"
-  },
-  {
-   "detail": "Czech NBL BK JIP Pardubice 110, Nova Hut Ostrava 98",
-   "detected_at": "2026-10-04 20:08:58",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-03/Nova-Hut-Ostrava-at-BK-JIP-Pardubice/527359"
-  },
-  {
-   "detail": "Czech NBL + Roman Vejrazka → BK GAPA Hradec Kralove",
-   "detected_at": "2026-10-04 20:08:55",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Czech NBL SK Slavia Praha ERA NBK 101, BK GAPA Hradec Kralove 75",
-   "detected_at": "2026-10-04 20:08:55",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-03/SK-Slavia-Praha-ERA-NBK-at-BK-GAPA-Hradec-Kralove/527358"
-  },
-  {
-   "detail": "Czech NBL USK Praha 105, Sokol Srsni Pisek 89",
-   "detected_at": "2026-10-04 20:08:52",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-03/Sokol-Srsni-Pisek-at-USK-Praha/527356"
-  },
-  {
-   "detail": "Czech NBL BK Opava 92, BK Loko Interconex Plzen 82",
-   "detected_at": "2026-10-04 20:08:49",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-03/BK-Loko-Interconex-Plzen-at-BK-Opava/527357"
-  },
-  {
-   "detail": "Israel BSL Winner Cup Maccabi FOX Tel Aviv 88, Hapoel Bank Yahav Jerusalem 71",
-   "detected_at": "2026-10-04 20:08:43",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-04/Hapoel-Bank-Yahav-Jerusalem-at-Maccabi-FOX-Tel-Aviv/543795"
-  },
-  {
-   "detail": "Italian Lega Basket Serie A OpenJobMetis Varese 85, Givova Scafati 77",
-   "detected_at": "2026-10-04 20:08:40",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-04/OpenJobMetis-Varese-at-Givova-Scafati/529570"
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 3556,
-   "last": "2026-10-05 07:06:56"
+   "count": 3558,
+   "last": "2026-10-07 09:13:56"
   },
   "GLEAGUE": {
    "count": 169,
@@ -10320,8 +10313,8 @@
    "last": "2026-10-07 09:01:40"
   },
   "SHEETS": {
-   "count": 4612,
-   "last": "2026-10-06 10:13:52"
+   "count": 4617,
+   "last": "2026-10-07 09:13:59"
   },
   "TRANSACTIONS": {
    "count": 488,
@@ -10336,6 +10329,6 @@
    "last": "2026-10-06 20:58:13"
   }
  },
- "generated_at": "2026-10-07T09:08:02",
- "total": 26140
+ "generated_at": "2026-10-07T09:14:03",
+ "total": 26147
 }
