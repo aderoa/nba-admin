@@ -1,6 +1,18 @@
 {
  "events": [
   {
+   "detail": "~ CHANGED Jett Howard  number: 13 -> 9",
+   "detected_at": "2026-10-07 14:07:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Seth Lundy  number: 5 -> 31",
+   "detected_at": "2026-10-07 14:07:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "FIBA Europe Cup SL Benfica 91, Bakken Bears 81",
    "detected_at": "2026-10-07 13:39:10",
    "source": "SCORES",
@@ -10236,20 +10248,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Federico Agustin Copes → CB Zaragoza",
-   "detected_at": "2026-10-05 00:21:18",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Jay Medor → CB Zaragoza",
-   "detected_at": "2026-10-05 00:21:18",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10262,8 +10260,8 @@
    "last": "2026-10-06 10:13:54"
   },
   "PLAYERS": {
-   "count": 1404,
-   "last": "2026-10-07 13:16:54"
+   "count": 1406,
+   "last": "2026-10-07 14:07:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10294,6 +10292,6 @@
    "last": "2026-10-06 20:58:13"
   }
  },
- "generated_at": "2026-10-07T14:04:01",
- "total": 26335
+ "generated_at": "2026-10-07T14:08:32",
+ "total": 26337
 }
