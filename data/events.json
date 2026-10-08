@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Basketball Champions League Europe AEK Athens 95, Salon Vilpas 93",
+   "detected_at": "2026-10-08 12:47:49",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-07/Salon-Vilpas-at-AEK-Athens/528603"
+  },
+  {
+   "detail": "Basketball Champions League Europe + Dimitrios Katsivelis → AEK Athens",
+   "detected_at": "2026-10-08 12:47:48",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
    "detail": "Basketball Champions League Europe UCAM Murcia CB 85, OpenJobMetis Varese 58",
    "detected_at": "2026-10-08 11:42:42",
    "source": "SCORES",
@@ -10236,20 +10250,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Bosnian BiH Liga + Eman Medunjanin → KK Igman Burch Ilidza",
-   "detected_at": "2026-10-05 07:01:22",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Bosnian BiH Liga + Lazar Egeljic → KK Igman Burch Ilidza",
-   "detected_at": "2026-10-05 07:01:22",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10270,12 +10270,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 8381,
-   "last": "2026-10-08 11:42:41"
+   "count": 8382,
+   "last": "2026-10-08 12:47:48"
   },
   "SCORES": {
-   "count": 1589,
-   "last": "2026-10-08 11:42:42"
+   "count": 1590,
+   "last": "2026-10-08 12:47:49"
   },
   "SHEETS": {
    "count": 4675,
@@ -10294,6 +10294,6 @@
    "last": "2026-10-08 08:38:02"
   }
  },
- "generated_at": "2026-10-08T12:34:19",
- "total": 26813
+ "generated_at": "2026-10-08T12:48:32",
+ "total": 26815
 }
