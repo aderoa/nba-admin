@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "2026-10-07  Sacramento Kings waived guard Trhae Mitchell.",
+   "detected_at": "2026-10-07 21:25:55",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
    "detail": "2026-10-07  Portland Trail Blazers waived guard Jaylen Martin.",
    "detected_at": "2026-10-07 21:24:55",
    "source": "TRANSACTIONS",
@@ -10232,13 +10238,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "German BBL Gladiators Trier 94, MHP Riesen 80",
-   "detected_at": "2026-10-05 02:29:33",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-04/Gladiators-Trier-at-MHP-Riesen/528576"
   }
  ],
  "feeds": {
@@ -10271,8 +10270,8 @@
    "last": "2026-10-07 09:28:59"
   },
   "TRANSACTIONS": {
-   "count": 489,
-   "last": "2026-10-07 21:24:55"
+   "count": 490,
+   "last": "2026-10-07 21:25:55"
   },
   "WIKI": {
    "count": 5135,
@@ -10283,6 +10282,6 @@
    "last": "2026-10-06 20:58:13"
   }
  },
- "generated_at": "2026-10-07T21:25:04",
- "total": 26453
+ "generated_at": "2026-10-07T21:26:02",
+ "total": 26454
 }
