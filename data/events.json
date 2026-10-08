@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Japanese BLeague Gunma Crane Thunders 76, Ryukyu Golden Kings 65",
+   "detected_at": "2026-10-08 09:36:35",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-08/Gunma-Crane-Thunders-at-Ryukyu-Golden-Kings/524283"
+  },
+  {
+   "detail": "Japanese BLeague Nagasaki Velca 74, Shinshu Brave Warriors 71",
+   "detected_at": "2026-10-08 09:36:32",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-08/Shinshu-Brave-Warriors-at-Nagasaki-Velca/524282"
+  },
+  {
+   "detail": "Japanese BLeague + Pablo Aguilar → Nagasaki Velca",
+   "detected_at": "2026-10-08 09:36:31",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
    "detail": "Travis Leslie  ~ team: CS Maristes -> -",
    "detected_at": "2026-10-08 08:54:38",
    "source": "WIKI",
@@ -10230,27 +10251,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Bosnian BiH Liga + Velibor Milovanovic → Drina Princip",
-   "detected_at": "2026-10-05 07:01:22",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Bosnian BiH Liga + Andrej Jankovic → Drina Princip",
-   "detected_at": "2026-10-05 07:01:22",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Bosnian BiH Liga + Bosko Mihajlovic → Drina Princip",
-   "detected_at": "2026-10-05 07:01:22",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10271,12 +10271,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 8376,
-   "last": "2026-10-08 08:33:41"
+   "count": 8377,
+   "last": "2026-10-08 09:36:31"
   },
   "SCORES": {
-   "count": 1584,
-   "last": "2026-10-08 08:33:42"
+   "count": 1586,
+   "last": "2026-10-08 09:36:35"
   },
   "SHEETS": {
    "count": 4675,
@@ -10295,6 +10295,6 @@
    "last": "2026-10-08 08:38:02"
   }
  },
- "generated_at": "2026-10-08T09:29:21",
- "total": 26802
+ "generated_at": "2026-10-08T09:37:13",
+ "total": 26805
 }
