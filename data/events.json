@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Johni Broome  ~ number: 22 -> 17",
+   "detected_at": "2026-10-07 17:52:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Johni_Broome"
+  },
+  {
    "detail": "Swiss LNA BBC Lausanne 90, Zurich 55",
    "detected_at": "2026-10-07 15:55:57",
    "source": "SCORES",
@@ -10233,13 +10240,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-10-04/Nidaros-Jets-at-Ammerud-Basket/527338"
-  },
-  {
-   "detail": "Norwegian BLNO + Mats Bergsjordet → Nidaros Jets",
-   "detected_at": "2026-10-05 01:28:00",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10276,14 +10276,14 @@
    "last": "2026-10-06 14:22:56"
   },
   "WIKI": {
-   "count": 5121,
-   "last": "2026-10-07 15:32:38"
+   "count": 5122,
+   "last": "2026-10-07 17:52:38"
   },
   "WIKIWATCH": {
    "count": 346,
    "last": "2026-10-06 20:58:13"
   }
  },
- "generated_at": "2026-10-07T17:44:01",
- "total": 26360
+ "generated_at": "2026-10-07T17:52:39",
+ "total": 26361
 }
