@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Cameron Payne  ~ number: - -> 22",
+   "detected_at": "2026-10-08 14:21:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Cameron_Payne"
+  },
+  {
    "detail": "Cameron Payne  ~ 57476: number -> -",
    "detected_at": "2026-10-08 14:10:31",
    "source": "WIKIWATCH",
@@ -10243,13 +10250,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Bosnian BiH Liga + Amar Kozar → KK Igman Burch Ilidza",
-   "detected_at": "2026-10-05 07:01:22",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10286,14 +10286,14 @@
    "last": "2026-10-08 09:51:13"
   },
   "WIKI": {
-   "count": 5173,
-   "last": "2026-10-08 13:35:42"
+   "count": 5174,
+   "last": "2026-10-08 14:21:38"
   },
   "WIKIWATCH": {
    "count": 350,
    "last": "2026-10-08 14:10:31"
   }
  },
- "generated_at": "2026-10-08T14:13:21",
- "total": 26817
+ "generated_at": "2026-10-08T14:21:39",
+ "total": 26818
 }
