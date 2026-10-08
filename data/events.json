@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Saliou Niang  ~ 174547: team -> -",
+   "detected_at": "2026-10-08 08:38:02",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "LSU Tigers"
+  },
+  {
+   "detail": "Saliou Niang  ~ 174547: league -> -",
+   "detected_at": "2026-10-08 08:38:02",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "SEC"
+  },
+  {
+   "detail": "Saliou Niang  ~ 174547: position -> -",
+   "detected_at": "2026-10-08 08:38:02",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Small forward"
+  },
+  {
    "detail": "Lithuanian NKL Olimpas Palangos 94, Kedainiu SC 75",
    "detected_at": "2026-10-08 08:33:42",
    "source": "SCORES",
@@ -10230,27 +10251,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Italian Serie A2 Basket UEB Gesteco Cividale 86, Crifo Wines Ruvo di Puglia 83",
-   "detected_at": "2026-10-05 07:01:11",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-04/UEB-Gesteco-Cividale-at-Crifo-Wines-Ruvo-di-Puglia/529799"
-  },
-  {
-   "detail": "Italian Serie A2 Basket Sidigas Avellino 73, RivieraBanca Rimini 72",
-   "detected_at": "2026-10-05 07:01:07",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-04/Sidigas-Avellino-at-RivieraBanca-Rimini/529798"
-  },
-  {
-   "detail": "Italian Serie A2 Basket Montecatini 81, Banco di Sardegna Sassari 72",
-   "detected_at": "2026-10-05 07:01:04",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-04/Montecatini-at-Banco-di-Sardegna-Sassari/529801"
   }
  ],
  "feeds": {
@@ -10291,10 +10291,10 @@
    "last": "2026-10-08 08:32:10"
   },
   "WIKIWATCH": {
-   "count": 346,
-   "last": "2026-10-06 20:58:13"
+   "count": 349,
+   "last": "2026-10-08 08:38:02"
   }
  },
- "generated_at": "2026-10-08T08:34:13",
- "total": 26794
+ "generated_at": "2026-10-08T08:39:19",
+ "total": 26797
 }
