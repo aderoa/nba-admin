@@ -1,6 +1,18 @@
 {
  "events": [
   {
+   "detail": "- REMOVED Trhae Mitchell (SAC)",
+   "detected_at": "2026-10-07 22:18:55",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Jaylen Martin (POR)",
+   "detected_at": "2026-10-07 22:18:55",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
    "detail": "Jaylen Martin  ~ number: - -> 18",
    "detected_at": "2026-10-07 21:42:38",
    "source": "WIKI",
@@ -10224,20 +10236,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-10-04/KK-Alkar-at-Samobor/534719"
-  },
-  {
-   "detail": "Ukrainian Superleague Dnipro Dnipropetrovsk 84, BC Goverla 70",
-   "detected_at": "2026-10-05 02:29:36",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-04/Dnipro-Dnipropetrovsk-at-BC-Goverla/541711"
-  },
-  {
-   "detail": "Ukrainian Superleague + Pavlo Horobchenko → BC Goverla",
-   "detected_at": "2026-10-05 02:29:35",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10250,8 +10248,8 @@
    "last": "2026-10-06 10:13:54"
   },
   "PLAYERS": {
-   "count": 1414,
-   "last": "2026-10-07 14:13:55"
+   "count": 1416,
+   "last": "2026-10-07 22:18:55"
   },
   "RATINGS": {
    "count": 950,
@@ -10282,6 +10280,6 @@
    "last": "2026-10-06 20:58:13"
   }
  },
- "generated_at": "2026-10-07T22:18:06",
- "total": 26455
+ "generated_at": "2026-10-07T22:19:06",
+ "total": 26457
 }
