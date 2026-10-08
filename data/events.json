@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Cameron Payne  ~ 57476: number -> -",
+   "detected_at": "2026-10-08 14:10:31",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "22"
+  },
+  {
    "detail": "Speedy Smith  ~ number: - -> 44",
    "detected_at": "2026-10-08 13:35:42",
    "source": "WIKI",
@@ -10243,13 +10250,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Bosnian BiH Liga + Ismet Sejfic → KK Igman Burch Ilidza",
-   "detected_at": "2026-10-05 07:01:22",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10290,10 +10290,10 @@
    "last": "2026-10-08 13:35:42"
   },
   "WIKIWATCH": {
-   "count": 349,
-   "last": "2026-10-08 08:38:02"
+   "count": 350,
+   "last": "2026-10-08 14:10:31"
   }
  },
- "generated_at": "2026-10-08T14:10:20",
- "total": 26816
+ "generated_at": "2026-10-08T14:11:20",
+ "total": 26817
 }
