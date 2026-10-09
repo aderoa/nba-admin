@@ -1,6 +1,48 @@
 {
  "events": [
   {
+   "detail": "Euroleague Virtus Bologna 94, Bayern Munich 87",
+   "detected_at": "2026-10-08 22:05:38",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-08/Virtus-Bologna-at-Bayern-Munich/526802"
+  },
+  {
+   "detail": "Euroleague + Kevin Kokila → Virtus Bologna",
+   "detected_at": "2026-10-08 22:05:37",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL Mersin BSB 92, Royal Hali Gaziantep 70",
+   "detected_at": "2026-10-08 22:05:35",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-08/Royal-Hali-Gaziantep-at-Mersin-BSB/534743"
+  },
+  {
+   "detail": "Turkish TBL + Jarmar Gulley → Royal Hali Gaziantep",
+   "detected_at": "2026-10-08 22:05:34",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Euroleague KK Crvena Zvezda 77, Dubai 58",
+   "detected_at": "2026-10-08 22:05:31",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-08/KK-Crvena-Zvezda-at-Dubai/526804"
+  },
+  {
+   "detail": "Euroleague Maccabi FOX Tel Aviv 97, AX Armani Exchange Milan 79",
+   "detected_at": "2026-10-08 22:05:27",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-08/AX-Armani-Exchange-Milan-at-Maccabi-FOX-Tel-Aviv/526799"
+  },
+  {
    "detail": "Isaac Jones (basketball)  ~ number: 13 -> 3",
    "detected_at": "2026-10-08 20:41:37",
    "source": "WIKI",
@@ -10208,48 +10250,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Italian Serie A2 Basket + Matt Tiby → Akern Libertas Livorno",
-   "detected_at": "2026-10-05 07:01:33",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Italian Serie A2 Basket + Lorenzo Galmarini → Gemini Mestre",
-   "detected_at": "2026-10-05 07:01:33",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Italian Serie A2 Basket + Hasan Varence → Gemini Mestre",
-   "detected_at": "2026-10-05 07:01:33",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Italian Serie A2 Basket + KeShawn Curry → Gemini Mestre",
-   "detected_at": "2026-10-05 07:01:33",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Italian Serie A2 Basket + Lorenzo Calbini → Gemini Mestre",
-   "detected_at": "2026-10-05 07:01:33",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Italian Serie A2 Basket + Costantino Bechi → Gemini Mestre",
-   "detected_at": "2026-10-05 07:01:33",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10270,12 +10270,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 8394,
-   "last": "2026-10-08 16:58:42"
+   "count": 8396,
+   "last": "2026-10-08 22:05:37"
   },
   "SCORES": {
-   "count": 1595,
-   "last": "2026-10-08 20:01:30"
+   "count": 1599,
+   "last": "2026-10-08 22:05:38"
   },
   "SHEETS": {
    "count": 4675,
@@ -10294,6 +10294,6 @@
    "last": "2026-10-08 14:10:31"
   }
  },
- "generated_at": "2026-10-08T22:04:21",
- "total": 26849
+ "generated_at": "2026-10-08T22:06:20",
+ "total": 26855
 }
