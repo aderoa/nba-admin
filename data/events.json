@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Danish Basketligaen BK Vejen 92, Vaerlose BBK 80",
+   "detected_at": "2026-10-08 20:01:30",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-08/Vaerlose-BBK-at-BK-Vejen/530313"
+  },
+  {
    "detail": "Diamond Stone  ~ team: Marinos de Anzoátegui -> Free agent",
    "detected_at": "2026-10-08 18:45:38",
    "source": "WIKI",
@@ -10243,13 +10250,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Italian Serie A2 Basket + Riccardo Salvioni → Gemini Mestre",
-   "detected_at": "2026-10-05 07:01:33",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10274,8 +10274,8 @@
    "last": "2026-10-08 16:58:42"
   },
   "SCORES": {
-   "count": 1594,
-   "last": "2026-10-08 16:58:43"
+   "count": 1595,
+   "last": "2026-10-08 20:01:30"
   },
   "SHEETS": {
    "count": 4675,
@@ -10294,6 +10294,6 @@
    "last": "2026-10-08 14:10:31"
   }
  },
- "generated_at": "2026-10-08T20:00:19",
- "total": 26847
+ "generated_at": "2026-10-08T20:02:03",
+ "total": 26848
 }
