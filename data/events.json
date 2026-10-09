@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Johni Broome  ~ number: 17 -> 22",
+   "detected_at": "2026-10-09 15:16:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Johni_Broome"
+  },
+  {
    "detail": "Jaime Pradilla  ~ 108752: position -> Power forward / center",
    "detected_at": "2026-10-09 14:07:27",
    "source": "WIKIWATCH",
@@ -10260,12 +10267,6 @@
    "detected_at": "2026-10-05 11:06:54",
    "source": "PLAYERS",
    "type": "ADDED"
-  },
-  {
-   "detail": "+ ADDED   Tyson Degenhart (TOR)",
-   "detected_at": "2026-10-05 09:11:54",
-   "source": "PLAYERS",
-   "type": "ADDED"
   }
  ],
  "feeds": {
@@ -10302,14 +10303,14 @@
    "last": "2026-10-08 09:51:13"
   },
   "WIKI": {
-   "count": 5222,
-   "last": "2026-10-09 14:06:37"
+   "count": 5223,
+   "last": "2026-10-09 15:16:38"
   },
   "WIKIWATCH": {
    "count": 351,
    "last": "2026-10-09 14:07:27"
   }
  },
- "generated_at": "2026-10-09T15:07:59",
- "total": 26930
+ "generated_at": "2026-10-09T15:16:39",
+ "total": 26931
 }
