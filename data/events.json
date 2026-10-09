@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Isaac Jones (basketball)  ~ number: 13 -> 3",
+   "detected_at": "2026-10-08 20:41:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Isaac_Jones_(basketball)"
+  },
+  {
    "detail": "Danish Basketligaen BK Vejen 92, Vaerlose BBK 80",
    "detected_at": "2026-10-08 20:01:30",
    "source": "SCORES",
@@ -10243,13 +10250,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Italian Serie A2 Basket + Simone Valsecchi → Gemini Mestre",
-   "detected_at": "2026-10-05 07:01:33",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10286,14 +10286,14 @@
    "last": "2026-10-08 09:51:13"
   },
   "WIKI": {
-   "count": 5187,
-   "last": "2026-10-08 18:45:38"
+   "count": 5188,
+   "last": "2026-10-08 20:41:37"
   },
   "WIKIWATCH": {
    "count": 350,
    "last": "2026-10-08 14:10:31"
   }
  },
- "generated_at": "2026-10-08T20:33:19",
- "total": 26848
+ "generated_at": "2026-10-08T20:41:38",
+ "total": 26849
 }
