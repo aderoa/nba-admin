@@ -1,6 +1,41 @@
 {
  "events": [
   {
+   "detail": "Euroleague Real Madrid 86, KK Partizan 76",
+   "detected_at": "2026-10-08 23:10:55",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-08/KK-Partizan-at-Real-Madrid/526803"
+  },
+  {
+   "detail": "Euroleague Valencia Basket 93, Hapoel Tel Aviv 82",
+   "detected_at": "2026-10-08 23:10:51",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-08/Hapoel-Tel-Aviv-at-Valencia-Basket/526801"
+  },
+  {
+   "detail": "Euroleague Panathinaikos 92, Fenerbahce Beko 74",
+   "detected_at": "2026-10-08 23:10:47",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-08/Fenerbahce-Beko-at-Panathinaikos/526800"
+  },
+  {
+   "detail": "Euroleague + Moustapha Fall → Panathinaikos",
+   "detected_at": "2026-10-08 23:10:46",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Michael Ružić  ~ weight_lb: 230 -> 235",
+   "detected_at": "2026-10-08 23:10:41",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Michael_Ru%C5%BEi%C4%87"
+  },
+  {
    "detail": "Euroleague Virtus Bologna 94, Bayern Munich 87",
    "detected_at": "2026-10-08 22:05:38",
    "source": "SCORES",
@@ -10219,37 +10254,6 @@
    "detected_at": "2026-10-05 07:06:56",
    "source": "DOCS",
    "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Jaylen Martin Portland Trail Blazers",
-   "detected_at": "2026-10-05 07:06:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  26-27 $2,449,421",
-   "detected_at": "2026-10-05 07:06:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Minimum Salary Exception. Love of the Game. Physical Exam. Alt. 7(b). Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($45,000).",
-   "detected_at": "2026-10-05 07:06:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 9/30/26",
-   "detected_at": "2026-10-05 07:06:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "Italian Serie A2 Basket + Gaeta Filippo → Akern Libertas Livorno",
-   "detected_at": "2026-10-05 07:01:33",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10270,12 +10274,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 8396,
-   "last": "2026-10-08 22:05:37"
+   "count": 8397,
+   "last": "2026-10-08 23:10:46"
   },
   "SCORES": {
-   "count": 1599,
-   "last": "2026-10-08 22:05:38"
+   "count": 1602,
+   "last": "2026-10-08 23:10:55"
   },
   "SHEETS": {
    "count": 4675,
@@ -10286,14 +10290,14 @@
    "last": "2026-10-08 09:51:13"
   },
   "WIKI": {
-   "count": 5188,
-   "last": "2026-10-08 20:41:37"
+   "count": 5189,
+   "last": "2026-10-08 23:10:41"
   },
   "WIKIWATCH": {
    "count": 350,
    "last": "2026-10-08 14:10:31"
   }
  },
- "generated_at": "2026-10-08T23:02:20",
- "total": 26855
+ "generated_at": "2026-10-08T23:11:38",
+ "total": 26860
 }
