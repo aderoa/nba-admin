@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Kylor Kelley  ~ team: Sioux Falls Skyforce -> Miami Heat",
+   "detected_at": "2026-10-09 21:20:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kylor_Kelley"
+  },
+  {
+   "detail": "Kylor Kelley  ~ league: NBA G League -> NBA",
+   "detected_at": "2026-10-09 21:20:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kylor_Kelley"
+  },
+  {
+   "detail": "Kylor Kelley  ~ CAREER  + –present Miami Heat",
+   "detected_at": "2026-10-09 21:20:37",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Kylor_Kelley"
+  },
+  {
    "detail": "Lester Quiñones  ~ team: Miami Heat -> Sioux Falls Skyforce",
    "detected_at": "2026-10-09 20:52:01",
    "source": "WIKI",
@@ -10257,27 +10278,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-10-04/Heroes-Den-Bosch-at-Landstede-Zwolle/527574"
-  },
-  {
-   "detail": "German Pro B Dresden Titans 66, TV 1862 Langen 62",
-   "detected_at": "2026-10-05 19:51:40",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-04/TV-1862-Langen-at-Dresden-Titans/525687"
-  },
-  {
-   "detail": "German Pro B + Carlos Hidalgo → TV 1862 Langen",
-   "detected_at": "2026-10-05 19:51:39",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Pro B + Niklas Pons → TV 1862 Langen",
-   "detected_at": "2026-10-05 19:51:39",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10314,14 +10314,14 @@
    "last": "2026-10-08 09:51:13"
   },
   "WIKI": {
-   "count": 5242,
-   "last": "2026-10-09 20:52:01"
+   "count": 5245,
+   "last": "2026-10-09 21:20:37"
   },
   "WIKIWATCH": {
    "count": 351,
    "last": "2026-10-09 14:07:27"
   }
  },
- "generated_at": "2026-10-09T21:06:28",
- "total": 27009
+ "generated_at": "2026-10-09T21:20:38",
+ "total": 27012
 }
