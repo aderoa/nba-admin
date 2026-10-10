@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Sindarius Thornwell  ~ number: - -> 3",
+   "detected_at": "2026-10-10 16:59:41",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Sindarius_Thornwell"
+  },
+  {
    "detail": "Spanish Primera FEB Palencia Baloncesto 91, Basquet Menorca 76",
    "detected_at": "2026-10-10 16:22:49",
    "source": "SCORES",
@@ -10277,13 +10284,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-10-03/Ulsan-Mobis-Phoebus-at-Anyang-Kwan-Jang/530169"
-  },
-  {
-   "detail": "South Korean KBL + Seungbin Pyo → Anyang Kwan Jang",
-   "detected_at": "2026-10-06 10:22:40",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10320,14 +10320,14 @@
    "last": "2026-10-08 09:51:13"
   },
   "WIKI": {
-   "count": 5289,
-   "last": "2026-10-10 12:25:40"
+   "count": 5290,
+   "last": "2026-10-10 16:59:41"
   },
   "WIKIWATCH": {
    "count": 354,
    "last": "2026-10-10 08:58:31"
   }
  },
- "generated_at": "2026-10-10T16:51:04",
- "total": 27260
+ "generated_at": "2026-10-10T16:59:42",
+ "total": 27261
 }
