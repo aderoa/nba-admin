@@ -1,6 +1,34 @@
 {
  "events": [
   {
+   "detail": "Jordan Morgan (basketball)  ~ team: Suwon KT Sonicboom -> Free agent",
+   "detected_at": "2026-10-09 23:41:41",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jordan_Morgan_(basketball)"
+  },
+  {
+   "detail": "Jordan Morgan (basketball)  ~ league: KBL -> -",
+   "detected_at": "2026-10-09 23:41:41",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jordan_Morgan_(basketball)"
+  },
+  {
+   "detail": "Jordan Morgan (basketball)  ~ number: 19 -> -",
+   "detected_at": "2026-10-09 23:41:41",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jordan_Morgan_(basketball)"
+  },
+  {
+   "detail": "Jordan Morgan (basketball)  ~ CAREER  + 2024–2025 Suwon KT Sonicboom",
+   "detected_at": "2026-10-09 23:41:41",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Jordan_Morgan_(basketball)"
+  },
+  {
    "detail": "+ ADDED   Dion Brown (BKN)",
    "detected_at": "2026-10-09 21:47:03",
    "source": "PLAYERS",
@@ -10232,34 +10260,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Romanian Divizia A + Dean Keeler → CS Targu Mures",
-   "detected_at": "2026-10-05 20:53:28",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Romanian Divizia A + Njegos Sikiras → SCM Mozzart Bet Timisoara",
-   "detected_at": "2026-10-05 20:53:28",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Romanian Divizia A + Walter Cabral → SCM Mozzart Bet Timisoara",
-   "detected_at": "2026-10-05 20:53:28",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Romanian Divizia A + Skyler Flatten → SCM Mozzart Bet Timisoara",
-   "detected_at": "2026-10-05 20:53:28",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10296,14 +10296,14 @@
    "last": "2026-10-08 09:51:13"
   },
   "WIKI": {
-   "count": 5245,
-   "last": "2026-10-09 21:20:37"
+   "count": 5249,
+   "last": "2026-10-09 23:41:41"
   },
   "WIKIWATCH": {
    "count": 351,
    "last": "2026-10-09 14:07:27"
   }
  },
- "generated_at": "2026-10-09T23:33:03",
- "total": 27032
+ "generated_at": "2026-10-09T23:41:42",
+ "total": 27036
 }
