@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Shavon Shields  ~ 42333: position -> Small forward",
+   "detected_at": "2026-10-10 08:58:31",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Shooting guard"
+  },
+  {
+   "detail": "Will Clyburn  ~ 22382: position -> Small forward",
+   "detected_at": "2026-10-10 08:58:31",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Small forward / shooting guard"
+  },
+  {
+   "detail": "Wade Baldwin  ~ 81056: position -> Point guard / shooting guard",
+   "detected_at": "2026-10-10 08:58:31",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Point guard"
+  },
+  {
    "detail": "South Korean KBL Seoul Samsung Thunders 66, Anyang Kwan Jang 58",
    "detected_at": "2026-10-10 08:52:45",
    "source": "SCORES",
@@ -10263,27 +10284,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Adriatic League Liga ABA KK Partizan 83, KK Mega Bemax 59",
-   "detected_at": "2026-10-06 10:22:03",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-05/KK-Partizan-at-KK-Mega-Bemax/537326"
-  },
-  {
-   "detail": "Adriatic League Liga ABA + Mihailo Boskovic → KK Mega Bemax",
-   "detected_at": "2026-10-06 10:22:02",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Adriatic League Liga ABA + Lucas Maniema → KK Mega Bemax",
-   "detected_at": "2026-10-06 10:22:02",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10324,10 +10324,10 @@
    "last": "2026-10-10 08:51:00"
   },
   "WIKIWATCH": {
-   "count": 351,
-   "last": "2026-10-09 14:07:27"
+   "count": 354,
+   "last": "2026-10-10 08:58:31"
   }
  },
- "generated_at": "2026-10-10T08:53:33",
- "total": 27149
+ "generated_at": "2026-10-10T08:59:05",
+ "total": 27152
 }
