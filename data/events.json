@@ -1,6 +1,62 @@
 {
  "events": [
   {
+   "detail": "Turkish BSL Bahcesehir Koleji 92, Pinar Karsiyaka 82",
+   "detected_at": "2026-10-10 20:54:08",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/Pinar-Karsiyaka-at-Bahcesehir-Koleji/541367"
+  },
+  {
+   "detail": "Turkish TBL Final Spor Genclik 77, Aykon TED Kolejliler Ankara 75",
+   "detected_at": "2026-10-10 20:54:05",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/Final-Spor-Genclik-at-Aykon-TED-Kolejliler-Ankara/534762"
+  },
+  {
+   "detail": "Turkish TBL Sigortamnet iLab Bakiroy 93, Ormanspor Genc Ankara 91",
+   "detected_at": "2026-10-10 20:54:02",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/Ormanspor-Genc-Ankara-at-Sigortamnet-iLab-Bakiroy/534758"
+  },
+  {
+   "detail": "Turkish BSL Esenler Erokspor 87, Tofas SC 79",
+   "detected_at": "2026-10-10 20:53:59",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/Esenler-Erokspor-at-Tofas-SC/541369"
+  },
+  {
+   "detail": "Turkish BSL + Muhsin Yasar → Esenler Erokspor",
+   "detected_at": "2026-10-10 20:53:58",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish BSL ~ MOVED Demircan Demir → Fenerbahce Beko (from Fenerbache Koleji 2nd Team)",
+   "detected_at": "2026-10-10 20:53:55",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish BSL + Berkay Candan → Cayirova",
+   "detected_at": "2026-10-10 20:53:55",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish BSL Fenerbahce Beko 100, Cayirova 85",
+   "detected_at": "2026-10-10 20:53:55",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/Fenerbahce-Beko-at-Cayirova/541370"
+  },
+  {
    "detail": "Turkish BSL Korfez Mansia 91, Socar Petkimspor 90",
    "detected_at": "2026-10-10 20:53:43",
    "source": "SCORES",
@@ -10268,62 +10324,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Finnish Korisliiga + Lauri Kallio → Tapiolan Honka",
-   "detected_at": "2026-10-06 21:30:16",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Finnish Korisliiga Kipina 89, Kouvot 80",
-   "detected_at": "2026-10-06 21:30:12",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-06/Kipina-at-Kouvot/534409"
-  },
-  {
-   "detail": "Finnish Korisliiga + Eetu Viiru → Kipina",
-   "detected_at": "2026-10-06 21:30:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Finnish Korisliiga Korihait 88, Helsinki Seagulls 67",
-   "detected_at": "2026-10-06 21:30:07",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-06/Helsinki-Seagulls-at-Korihait/534410"
-  },
-  {
-   "detail": "Finnish Korisliiga + Ricky Waxiax → Helsinki Seagulls",
-   "detected_at": "2026-10-06 21:30:06",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Eurocup Napoli Basket 93, Buducnost Voli Podgorica 75",
-   "detected_at": "2026-10-06 21:30:03",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-06/Napoli-Basket-at-Buducnost-Voli-Podgorica/526697"
-  },
-  {
-   "detail": "Filip Petrusev  ~ 75786: team -> -",
-   "detected_at": "2026-10-06 20:58:13",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "Dubai Basketball"
-  },
-  {
-   "detail": "Filip Petrusev  ~ 75786: league -> -",
-   "detected_at": "2026-10-06 20:58:13",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "ABA League EuroLeague"
   }
  ],
  "feeds": {
@@ -10344,12 +10344,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 8628,
-   "last": "2026-10-10 19:44:49"
+   "count": 8631,
+   "last": "2026-10-10 20:53:58"
   },
   "SCORES": {
-   "count": 1740,
-   "last": "2026-10-10 20:53:43"
+   "count": 1745,
+   "last": "2026-10-10 20:54:08"
   },
   "SHEETS": {
    "count": 4675,
@@ -10368,6 +10368,6 @@
    "last": "2026-10-10 08:58:31"
   }
  },
- "generated_at": "2026-10-10T20:53:48",
- "total": 27364
+ "generated_at": "2026-10-10T21:00:03",
+ "total": 27372
 }
