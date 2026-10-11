@@ -1,6 +1,62 @@
 {
  "events": [
   {
+   "detail": "Leaky Black  ~ team: Stockton Kings -> Sacramento Kings",
+   "detected_at": "2026-10-10 21:42:39",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Leaky_Black"
+  },
+  {
+   "detail": "Leaky Black  ~ league: NBA G League -> NBA",
+   "detected_at": "2026-10-10 21:42:39",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Leaky_Black"
+  },
+  {
+   "detail": "Leaky Black  ~ CAREER  + 2026–present Stockton Kings-->",
+   "detected_at": "2026-10-10 21:42:39",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Leaky_Black"
+  },
+  {
+   "detail": "Jahmir Young  ~ team: South Bay Lakers -> Coachella Valley Lakers",
+   "detected_at": "2026-10-10 21:42:39",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jahmir_Young"
+  },
+  {
+   "detail": "Jahmir Young  ~ CAREER  + 2026–present Coachella Valley Lakers",
+   "detected_at": "2026-10-10 21:42:39",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Jahmir_Young"
+  },
+  {
+   "detail": "Tristen Newton  ~ team: Stockton Kings -> Sacramento Kings",
+   "detected_at": "2026-10-10 21:42:39",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Tristen_Newton"
+  },
+  {
+   "detail": "Tristen Newton  ~ league: NBA G League -> NBA",
+   "detected_at": "2026-10-10 21:42:39",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Tristen_Newton"
+  },
+  {
+   "detail": "Tristen Newton  ~ CAREER  + 2026–present Stockton Kings-->",
+   "detected_at": "2026-10-10 21:42:39",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Tristen_Newton"
+  },
+  {
    "detail": "Turkish BSL Bahcesehir Koleji 92, Pinar Karsiyaka 82",
    "detected_at": "2026-10-10 20:54:08",
    "source": "SCORES",
@@ -10268,62 +10324,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-10-06/Siauliai-at-Fraport-Skyliners/526691"
-  },
-  {
-   "detail": "Eurocup ~ RETURN Ivan Crnjac → Fraport Skyliners (from Fraport Skyliners Juniors)",
-   "detected_at": "2026-10-06 21:30:42",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "Eurocup Tofas SC 89, JL Bourg en Bresse 82",
-   "detected_at": "2026-10-06 21:30:38",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-06/Tofas-SC-at-JL-Bourg-en-Bresse/526696"
-  },
-  {
-   "detail": "Eurocup ~ RETURN Leni Monnet → JL Bourg en Bresse (from Espoirs Bourg en Bresse)",
-   "detected_at": "2026-10-06 21:30:36",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "Eurocup London Lions 89, Lenovo Tenerife 77",
-   "detected_at": "2026-10-06 21:30:33",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-06/Lenovo-Tenerife-at-London-Lions/526690"
-  },
-  {
-   "detail": "Eurocup PAOK BC 75, KK Bosna 72",
-   "detected_at": "2026-10-06 21:30:26",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-06/PAOK-BC-at-KK-Bosna/526701"
-  },
-  {
-   "detail": "Finnish Korisliiga Nilan Bisons 73, Kauhajoki Karhu 72",
-   "detected_at": "2026-10-06 21:30:22",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-06/Nilan-Bisons-at-Kauhajoki-Karhu/534411"
-  },
-  {
-   "detail": "Finnish Korisliiga Tapiolan Honka 97, Pyrinto Tampere 96",
-   "detected_at": "2026-10-06 21:30:17",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-06/Pyrinto-Tampere-at-Tapiolan-Honka/534408"
-  },
-  {
-   "detail": "Finnish Korisliiga + Jaakko Juusela → Tapiolan Honka",
-   "detected_at": "2026-10-06 21:30:16",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10360,14 +10360,14 @@
    "last": "2026-10-10 17:30:55"
   },
   "WIKI": {
-   "count": 5294,
-   "last": "2026-10-10 19:21:37"
+   "count": 5302,
+   "last": "2026-10-10 21:42:39"
   },
   "WIKIWATCH": {
    "count": 354,
    "last": "2026-10-10 08:58:31"
   }
  },
- "generated_at": "2026-10-10T21:29:03",
- "total": 27372
+ "generated_at": "2026-10-10T21:42:40",
+ "total": 27380
 }
