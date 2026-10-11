@@ -1,6 +1,328 @@
 {
  "events": [
   {
+   "detail": "French NM1 FC Mulhouse Basket 83, BC Orchies 63",
+   "detected_at": "2026-10-10 23:00:53",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/BC-Orchies-at-FC-Mulhouse-Basket/535148"
+  },
+  {
+   "detail": "Macedonian Superleague KK Kumanovo 70, KK Stip 59",
+   "detected_at": "2026-10-10 23:00:50",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/KK-Stip-at-KK-Kumanovo/540918"
+  },
+  {
+   "detail": "Macedonian Superleague + Jay Pal → KK Stip",
+   "detected_at": "2026-10-10 23:00:49",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Macedonian Superleague + Vuk Djordjevic → KK Stip",
+   "detected_at": "2026-10-10 23:00:49",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Macedonian Superleague + Vojdan Stojanovski → MZT Skopje Aerodrom",
+   "detected_at": "2026-10-10 23:00:46",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Macedonian Superleague + Terry Armstrong → Kozuv Gevgelija",
+   "detected_at": "2026-10-10 23:00:46",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Macedonian Superleague + Stefan Simic → Kozuv Gevgelija",
+   "detected_at": "2026-10-10 23:00:46",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Macedonian Superleague + Damjan Krstevski → Kozuv Gevgelija",
+   "detected_at": "2026-10-10 23:00:46",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Macedonian Superleague + Nigel Burris → Kozuv Gevgelija",
+   "detected_at": "2026-10-10 23:00:46",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Macedonian Superleague + Nikola Bojchev → Kozuv Gevgelija",
+   "detected_at": "2026-10-10 23:00:46",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Macedonian Superleague + Jordan Kuzmanov → Kozuv Gevgelija",
+   "detected_at": "2026-10-10 23:00:46",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Macedonian Superleague + Aleksandar Kolev → Kozuv Gevgelija",
+   "detected_at": "2026-10-10 23:00:46",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Macedonian Superleague + Riste Bukrshliev → Kozuv Gevgelija",
+   "detected_at": "2026-10-10 23:00:46",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Macedonian Superleague + Mihail Stojanov → Kozuv Gevgelija",
+   "detected_at": "2026-10-10 23:00:46",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Macedonian Superleague MZT Skopje Aerodrom 81, Kozuv Gevgelija 73",
+   "detected_at": "2026-10-10 23:00:46",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/MZT-Skopje-Aerodrom-at-Kozuv-Gevgelija/540917"
+  },
+  {
+   "detail": "Swiss LNA Fribourg Olympic 116, Lugano Tigers 80",
+   "detected_at": "2026-10-10 23:00:43",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/Lugano-Tigers-at-Fribourg-Olympic/534112"
+  },
+  {
+   "detail": "Swiss LNA + Claudio Picco → Lugano Tigers",
+   "detected_at": "2026-10-10 23:00:42",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA + Allesandro De Barros Marques → Lugano Tigers",
+   "detected_at": "2026-10-10 23:00:42",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA + Adam Bagnoli → Lugano Tigers",
+   "detected_at": "2026-10-10 23:00:42",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA + Emmanuel Okeoghene Kupa → Fribourg Olympic",
+   "detected_at": "2026-10-10 23:00:42",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Super League Basketball Liverpool Basketball 85, Surrey 89ers 74",
+   "detected_at": "2026-10-10 23:00:40",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/Liverpool-Basketball-at-Surrey-89ers/535538"
+  },
+  {
+   "detail": "Super League Basketball + Miles Tention → Liverpool Basketball",
+   "detected_at": "2026-10-10 23:00:39",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Super League Basketball + Oliver Bishop → Surrey 89ers",
+   "detected_at": "2026-10-10 23:00:39",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA Union Neuchatel Basket 65, Starwings Basket Regio Basel 53",
+   "detected_at": "2026-10-10 23:00:36",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/Starwings-Basket-Regio-Basel-at-Union-Neuchatel-Basket/534111"
+  },
+  {
+   "detail": "Swiss LNA + Kamary Diakite → Starwings Basket Regio Basel",
+   "detected_at": "2026-10-10 23:00:35",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA + Nelson Kuba → Union Neuchatel Basket",
+   "detected_at": "2026-10-10 23:00:35",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA Les Lions de Geneve 94, BBC Lausanne 65",
+   "detected_at": "2026-10-10 23:00:33",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/Les-Lions-de-Geneve-at-BBC-Lausanne/534109"
+  },
+  {
+   "detail": "Swiss LNA + Omar Ali → Les Lions de Geneve",
+   "detected_at": "2026-10-10 23:00:32",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA BBC Monthey 99, Zurich 62",
+   "detected_at": "2026-10-10 23:00:30",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/Zurich-at-BBC-Monthey/534108"
+  },
+  {
+   "detail": "Swiss LNA + Kenan Bonga → Zurich",
+   "detected_at": "2026-10-10 23:00:29",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA BBC Nyon 94, SAM Basket Massagno 73",
+   "detected_at": "2026-10-10 23:00:26",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/SAM-Basket-Massagno-at-BBC-Nyon/534110"
+  },
+  {
+   "detail": "Swiss LNA + Ken Rytz → BBC Nyon",
+   "detected_at": "2026-10-10 23:00:25",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Romanian Divizia A CSM Corona Brasov 81, SCM Mozzart Bet Timisoara 76",
+   "detected_at": "2026-10-10 23:00:23",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/CSM-Corona-Brasov-at-SCM-Mozzart-Bet-Timisoara/535761"
+  },
+  {
+   "detail": "Romanian Divizia A + Constantin Gavriloaia → SCM Mozzart Bet Timisoara",
+   "detected_at": "2026-10-10 23:00:22",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Romanian Divizia A + Serban Andrei Horga → SCM Mozzart Bet Timisoara",
+   "detected_at": "2026-10-10 23:00:22",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Romanian Divizia A + George Vlad → SCM Mozzart Bet Timisoara",
+   "detected_at": "2026-10-10 23:00:22",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Romanian Divizia A CSM Oradea 98, FC Arges Pitesti 92",
+   "detected_at": "2026-10-10 23:00:19",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/FC-Arges-Pitesti-at-CSM-Oradea/535756"
+  },
+  {
+   "detail": "Romanian Divizia A BC CSU Sibiu 100, CS Dinamo Bucuresti 92",
+   "detected_at": "2026-10-10 23:00:16",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/CS-Dinamo-Bucuresti-at-BC-CSU-Sibiu/535758"
+  },
+  {
+   "detail": "Romanian Divizia A + Sam Towns → BC CSU Sibiu",
+   "detected_at": "2026-10-10 23:00:15",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Romanian Divizia A CSO Voluntari 91, CS Targu Mures 85",
+   "detected_at": "2026-10-10 23:00:12",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/CSO-Voluntari-at-CS-Targu-Mures/535757"
+  },
+  {
+   "detail": "Romanian Divizia A + Alexandru Olah → CSO Voluntari",
+   "detected_at": "2026-10-10 23:00:11",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Romanian Divizia A + Bodo Tamas → CS Targu Mures",
+   "detected_at": "2026-10-10 23:00:11",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "PBA Governors Cup Terrafirma DYIP 146, Macau Black Knights 127",
+   "detected_at": "2026-10-10 23:00:09",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/Terrafirma-DYIP-at-Macau-Black-Knights/544784"
+  },
+  {
+   "detail": "PBA Governors Cup + Kit Zaldivar → Terrafirma DYIP",
+   "detected_at": "2026-10-10 23:00:08",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "PBA Governors Cup + Christopher Miller → Terrafirma DYIP",
+   "detected_at": "2026-10-10 23:00:08",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "PBA Governors Cup + Meng Sun → Macau Black Knights",
+   "detected_at": "2026-10-10 23:00:08",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
    "detail": "Paul Reed (basketball)  ~ position: Power forward -> Center / power forward",
    "detected_at": "2026-10-10 22:54:39",
    "source": "WIKI",
@@ -10007,323 +10329,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Romanian Divizia A + Miryne Thomas → CS Valcea 1924",
-   "detected_at": "2026-10-07 08:59:56",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Romanian Divizia A + Donovan Ivory → CS Valcea 1924",
-   "detected_at": "2026-10-07 08:59:56",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Romanian Divizia A + Wesley Gordon → CS Valcea 1924",
-   "detected_at": "2026-10-07 08:59:56",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Romanian Divizia A + Amedeo Casale → CS Valcea 1924",
-   "detected_at": "2026-10-07 08:59:56",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Romanian Divizia A + Lucas Tohatan → CS Valcea 1924",
-   "detected_at": "2026-10-07 08:59:56",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Romanian Divizia A + Chris Coffey → CS Valcea 1924",
-   "detected_at": "2026-10-07 08:59:56",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Champions League Europe Lietuvos Rytas 82, Sabah BC 73",
-   "detected_at": "2026-10-07 08:59:54",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-06/Sabah-BC-at-Lietuvos-Rytas/528592"
-  },
-  {
-   "detail": "Basketball Champions League Europe + Evan Bruinsma → Sabah BC",
-   "detected_at": "2026-10-07 08:59:53",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Champions League Europe + Nick Perkins → Sabah BC",
-   "detected_at": "2026-10-07 08:59:53",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Champions League Europe + Mindaugas Susinskas → Sabah BC",
-   "detected_at": "2026-10-07 08:59:53",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Champions League Europe + Mike Ertel → Sabah BC",
-   "detected_at": "2026-10-07 08:59:53",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Champions League Europe + Frank Fidler → Sabah BC",
-   "detected_at": "2026-10-07 08:59:53",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Champions League Europe + Gerry Blakes → Sabah BC",
-   "detected_at": "2026-10-07 08:59:53",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Champions League Europe + Endar Poladkhanli → Sabah BC",
-   "detected_at": "2026-10-07 08:59:53",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Champions League Europe + Kamran Mammadov → Sabah BC",
-   "detected_at": "2026-10-07 08:59:53",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Champions League Europe + Tajuan Agee → Sabah BC",
-   "detected_at": "2026-10-07 08:59:53",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Australian NBL + Corey Webster → Adelaide",
-   "detected_at": "2026-10-07 08:59:47",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Australian NBL Melbourne 96, Adelaide 91",
-   "detected_at": "2026-10-07 08:59:47",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-07/Melbourne-at-Adelaide/524396"
-  },
-  {
-   "detail": "Jaylen Martin  ~ team: Rip City Remix -> Portland Trail Blazers",
-   "detected_at": "2026-10-07 08:59:41",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jaylen_Martin"
-  },
-  {
-   "detail": "Jaylen Martin  ~ league: NBA G League -> NBA",
-   "detected_at": "2026-10-07 08:59:41",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jaylen_Martin"
-  },
-  {
-   "detail": "Jaylen Martin  ~ number: 55 -> -",
-   "detected_at": "2026-10-07 08:59:41",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jaylen_Martin"
-  },
-  {
-   "detail": "Jaylen Martin  ~ CAREER  + 2026 Rip City Remix",
-   "detected_at": "2026-10-07 08:59:41",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Jaylen_Martin"
-  },
-  {
-   "detail": "Jaylen Martin  ~ CAREER  + –present Portland Trail Blazers",
-   "detected_at": "2026-10-07 08:59:41",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Jaylen_Martin"
-  },
-  {
-   "detail": "Isaac Jones (basketball)  ~ number: 3 -> 13",
-   "detected_at": "2026-10-07 08:59:41",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Isaac_Jones_(basketball)"
-  },
-  {
-   "detail": "Isaiah Stevens  ~ team: Chicago Bulls -> Free agent",
-   "detected_at": "2026-10-07 08:59:41",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Isaiah_Stevens"
-  },
-  {
-   "detail": "Isaiah Stevens  ~ league: NBA -> -",
-   "detected_at": "2026-10-07 08:59:41",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Isaiah_Stevens"
-  },
-  {
-   "detail": "Andre Jackson Jr.  ~ team: Toronto Raptors -> Free agent",
-   "detected_at": "2026-10-07 08:59:41",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Andre_Jackson_Jr."
-  },
-  {
-   "detail": "Andre Jackson Jr.  ~ league: NBA -> -",
-   "detected_at": "2026-10-07 08:59:41",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Andre_Jackson_Jr."
-  },
-  {
-   "detail": "Andre Jackson Jr.  ~ number: 44 -> -",
-   "detected_at": "2026-10-07 08:59:41",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Andre_Jackson_Jr."
-  },
-  {
-   "detail": "Deonte Burton (basketball, born 1994)  ~ number: - -> 23",
-   "detected_at": "2026-10-07 08:59:41",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Deonte_Burton_(basketball,_born_1994)"
-  },
-  {
-   "detail": "Johni Broome  ~ league: - -> NBA",
-   "detected_at": "2026-10-07 08:59:41",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Johni_Broome"
-  },
-  {
-   "detail": "Johni Broome  ~ CAREER  + –present Milwaukee Bucks",
-   "detected_at": "2026-10-07 08:59:41",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Johni_Broome"
-  },
-  {
-   "detail": "John Butler Jr.  ~ league: NBA -> -",
-   "detected_at": "2026-10-07 08:59:41",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/John_Butler_Jr."
-  },
-  {
-   "detail": "Juhann Begarin  ~ team: Free agent -> ASVEL",
-   "detected_at": "2026-10-07 08:59:41",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Juhann_Begarin"
-  },
-  {
-   "detail": "Juhann Begarin  ~ league: - -> LNB Élite EuroLeague",
-   "detected_at": "2026-10-07 08:59:41",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Juhann_Begarin"
-  },
-  {
-   "detail": "Juhann Begarin  ~ position: Shooting guard -> Small forward",
-   "detected_at": "2026-10-07 08:59:41",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Juhann_Begarin"
-  },
-  {
-   "detail": "Juhann Begarin  ~ number: - -> 32",
-   "detected_at": "2026-10-07 08:59:41",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Juhann_Begarin"
-  },
-  {
-   "detail": "Juhann Begarin  ~ CAREER  + 2026–present ASVEL",
-   "detected_at": "2026-10-07 08:59:41",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Juhann_Begarin"
-  },
-  {
-   "detail": "~ CHANGED Tamar Bates  number: 7 -> 0",
-   "detected_at": "2026-10-07 08:50:55",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Trey Alexander  number: 23 -> 15",
-   "detected_at": "2026-10-07 08:50:55",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Brice Sensabaugh  weight: 235 -> 225",
-   "detected_at": "2026-10-07 08:50:55",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Blake Hinson  number: 2 -> 25",
-   "detected_at": "2026-10-07 08:50:55",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Harrison Ingram  number: 55 -> 00",
-   "detected_at": "2026-10-07 08:50:55",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "French Basketball Cup Antibes 80, Chorale Roanne Basket 78",
-   "detected_at": "2026-10-06 23:33:36",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-06/Chorale-Roanne-Basket-at-Antibes/541670"
-  },
-  {
-   "detail": "French Basketball Cup ~ RETURN Anthony Bria → Chorale Roanne Basket (from Espoirs Roanne)",
-   "detected_at": "2026-10-06 23:33:35",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "Mexican LNBP Mineros de Zacatecas 96, Santos de San Luis Potosi 75",
-   "detected_at": "2026-10-06 23:33:32",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-06/Santos-de-San-Luis-Potosi-at-Mineros-de-Zacatecas/542858"
   }
  ],
  "feeds": {
@@ -10344,12 +10349,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 8631,
-   "last": "2026-10-10 20:53:58"
+   "count": 8663,
+   "last": "2026-10-10 23:00:49"
   },
   "SCORES": {
-   "count": 1745,
-   "last": "2026-10-10 20:54:08"
+   "count": 1759,
+   "last": "2026-10-10 23:00:53"
   },
   "SHEETS": {
    "count": 4675,
@@ -10368,6 +10373,6 @@
    "last": "2026-10-10 08:58:31"
   }
  },
- "generated_at": "2026-10-10T22:54:40",
- "total": 27388
+ "generated_at": "2026-10-10T23:01:42",
+ "total": 27434
 }
