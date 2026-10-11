@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "2026-10-10  Golden State Warriors re-signed guard Brandin Podziemski to a Rookie Scale Extension.",
+   "detected_at": "2026-10-10 17:30:55",
+   "source": "TRANSACTIONS",
+   "type": "Signing"
+  },
+  {
    "detail": "Spanish Segunda FEB Lobe Huesca La Magia 90, Reina Proteinas Clavijo 87",
    "detected_at": "2026-10-10 17:25:29",
    "source": "SCORES",
@@ -10308,13 +10314,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/John_Butler_Jr."
-  },
-  {
-   "detail": "John Butler Jr.  ~ CAREER  + –2026 Milwaukee Bucks",
-   "detected_at": "2026-10-06 13:02:39",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/John_Butler_Jr."
   }
  ],
  "feeds": {
@@ -10347,8 +10346,8 @@
    "last": "2026-10-08 08:17:42"
   },
   "TRANSACTIONS": {
-   "count": 491,
-   "last": "2026-10-08 09:51:13"
+   "count": 492,
+   "last": "2026-10-10 17:30:55"
   },
   "WIKI": {
    "count": 5290,
@@ -10359,6 +10358,6 @@
    "last": "2026-10-10 08:58:31"
   }
  },
- "generated_at": "2026-10-10T17:26:15",
- "total": 27318
+ "generated_at": "2026-10-10T17:31:02",
+ "total": 27319
 }
