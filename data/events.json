@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Finnish Korisliiga Kipina 98, Kauhajoki Karhu 95",
+   "detected_at": "2026-10-10 19:44:50",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/Kauhajoki-Karhu-at-Kipina/534471"
+  },
+  {
+   "detail": "Finnish Korisliiga + Villa Virtaharju → Kipina",
+   "detected_at": "2026-10-10 19:44:49",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Finnish Korisliiga Tapiolan Honka 108, Joensuun Kataja 99",
+   "detected_at": "2026-10-10 19:44:47",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/Tapiolan-Honka-at-Joensuun-Kataja/534470"
+  },
+  {
    "detail": "Tarik Black  ~ team: Free agent -> -",
    "detected_at": "2026-10-10 19:21:37",
    "source": "WIKI",
@@ -10303,27 +10324,6 @@
    "source": "WIKIWATCH",
    "type": "FIELD",
    "url": ""
-  },
-  {
-   "detail": "BNXT League Basic Fit Brussels Basketball 94, CB Liege Mailleux 70",
-   "detected_at": "2026-10-06 20:27:36",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-06/CB-Liege-Mailleux-at-Basic-Fit-Brussels-Basketball/527576"
-  },
-  {
-   "detail": "BNXT League + Romain Bruwier → CB Liege Mailleux",
-   "detected_at": "2026-10-06 20:27:35",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "BNXT League + Maxime Bilolo Katuala → CB Liege Mailleux",
-   "detected_at": "2026-10-06 20:27:35",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10344,12 +10344,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 8627,
-   "last": "2026-10-10 18:36:44"
+   "count": 8628,
+   "last": "2026-10-10 19:44:49"
   },
   "SCORES": {
-   "count": 1735,
-   "last": "2026-10-10 18:36:48"
+   "count": 1737,
+   "last": "2026-10-10 19:44:50"
   },
   "SHEETS": {
    "count": 4675,
@@ -10368,6 +10368,6 @@
    "last": "2026-10-10 08:58:31"
   }
  },
- "generated_at": "2026-10-10T19:36:01",
- "total": 27358
+ "generated_at": "2026-10-10T19:45:33",
+ "total": 27361
 }
