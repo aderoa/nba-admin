@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "2026-10-12  New Orleans Pelicans waived guard Caleb Houstan.",
+   "detected_at": "2026-10-12 15:27:55",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
    "detail": "Lonnie Walker IV  ~ team: Denver Nuggets -> Free agent",
    "detected_at": "2026-10-12 15:16:37",
    "source": "WIKI",
@@ -10432,13 +10438,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "VTB Youth United League + Matvey Khadeev → Dynamo M2",
-   "detected_at": "2026-10-08 08:33:14",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10471,8 +10470,8 @@
    "last": "2026-10-08 08:17:42"
   },
   "TRANSACTIONS": {
-   "count": 505,
-   "last": "2026-10-12 14:29:55"
+   "count": 506,
+   "last": "2026-10-12 15:27:55"
   },
   "WIKI": {
    "count": 5515,
@@ -10483,6 +10482,6 @@
    "last": "2026-10-12 13:12:30"
   }
  },
- "generated_at": "2026-10-12T15:27:03",
- "total": 28244
+ "generated_at": "2026-10-12T15:28:01",
+ "total": 28245
 }
