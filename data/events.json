@@ -1,6 +1,18 @@
 {
  "events": [
   {
+   "detail": "2026-10-12  Denver Nuggets waived guard Lonnie Walker IV.",
+   "detected_at": "2026-10-12 14:29:55",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-12  Toronto Raptors waived guard Chucky Hepburn.",
+   "detected_at": "2026-10-12 14:29:55",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
    "detail": "Curtis Jones (basketball)  ~ team: Cleveland Cavaliers -> Free agent",
    "detected_at": "2026-10-12 14:29:38",
    "source": "WIKI",
@@ -10428,20 +10440,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "VTB Youth United League + Oleg Zubov → Khimki 2",
-   "detected_at": "2026-10-08 08:33:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "VTB Youth United League + Dmitry Eliseev → Khimki 2",
-   "detected_at": "2026-10-08 08:33:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10474,8 +10472,8 @@
    "last": "2026-10-08 08:17:42"
   },
   "TRANSACTIONS": {
-   "count": 503,
-   "last": "2026-10-12 09:04:28"
+   "count": 505,
+   "last": "2026-10-12 14:29:55"
   },
   "WIKI": {
    "count": 5502,
@@ -10486,6 +10484,6 @@
    "last": "2026-10-12 13:12:30"
   }
  },
- "generated_at": "2026-10-12T14:29:39",
- "total": 28228
+ "generated_at": "2026-10-12T14:30:56",
+ "total": 28230
 }
