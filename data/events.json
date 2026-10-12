@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Lindy Waters III  ~ number: 24 -> 43",
+   "detected_at": "2026-10-11 17:59:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Lindy_Waters_III"
+  },
+  {
    "detail": "Sek Henry  ~ team: Free Agent -> Leones de Quilpué",
    "detected_at": "2026-10-11 17:36:38",
    "source": "WIKI",
@@ -10337,12 +10344,6 @@
    "detected_at": "2026-10-07 09:14:58",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "OKC  CHANGED Full Season Contracts  -  col3: 220802202 -> 219444439",
-   "detected_at": "2026-10-07 09:14:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10379,14 +10380,14 @@
    "last": "2026-10-10 17:30:55"
   },
   "WIKI": {
-   "count": 5350,
-   "last": "2026-10-11 17:36:38"
+   "count": 5351,
+   "last": "2026-10-11 17:59:37"
   },
   "WIKIWATCH": {
    "count": 357,
    "last": "2026-10-11 09:33:32"
   }
  },
- "generated_at": "2026-10-11T17:51:06",
- "total": 27655
+ "generated_at": "2026-10-11T17:59:38",
+ "total": 27656
 }
