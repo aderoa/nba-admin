@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Sharife Cooper  ~ number: 0 -> 2",
+   "detected_at": "2026-10-12 12:27:39",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Sharife_Cooper"
+  },
+  {
    "detail": "Sharife Cooper  ~ 117356: number -> 0",
    "detected_at": "2026-10-12 12:11:44",
    "source": "WIKIWATCH",
@@ -10435,13 +10442,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "VTB Youth United League + Ilya Shcherbonos → Yenisei 2",
-   "detected_at": "2026-10-08 08:33:04",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10478,14 +10478,14 @@
    "last": "2026-10-12 09:04:28"
   },
   "WIKI": {
-   "count": 5457,
-   "last": "2026-10-12 12:04:38"
+   "count": 5458,
+   "last": "2026-10-12 12:27:39"
   },
   "WIKIWATCH": {
    "count": 363,
    "last": "2026-10-12 12:11:44"
   }
  },
- "generated_at": "2026-10-12T12:12:04",
- "total": 28182
+ "generated_at": "2026-10-12T12:28:51",
+ "total": 28183
 }
