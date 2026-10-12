@@ -1,6 +1,18 @@
 {
  "events": [
   {
+   "detail": "+ ADDED   Rafael Castro (LAL)",
+   "detected_at": "2026-10-12 00:04:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "+ ADDED   Jalon Moore (NOP)",
+   "detected_at": "2026-10-12 00:04:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
    "detail": "Portuguese LPB CD Povoa 73, CAB Madeira 69",
    "detected_at": "2026-10-11 23:55:50",
    "source": "SCORES",
@@ -10345,20 +10357,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "FIBA Europe Cup BC Kalev Cramo 86, Korfez Mansia 78",
-   "detected_at": "2026-10-07 12:30:11",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-07/Korfez-Mansia-at-BC-Kalev-Cramo/541931"
-  },
-  {
-   "detail": "FIBA Europe Cup + Atahan Demirtas → Korfez Mansia",
-   "detected_at": "2026-10-07 12:30:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10371,8 +10369,8 @@
    "last": "2026-10-11 09:18:24"
   },
   "PLAYERS": {
-   "count": 1436,
-   "last": "2026-10-09 21:47:03"
+   "count": 1438,
+   "last": "2026-10-12 00:04:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10403,6 +10401,6 @@
    "last": "2026-10-11 09:33:32"
   }
  },
- "generated_at": "2026-10-12T00:04:02",
- "total": 27767
+ "generated_at": "2026-10-12T00:05:01",
+ "total": 27769
 }
