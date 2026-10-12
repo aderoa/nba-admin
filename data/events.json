@@ -1,6 +1,24 @@
 {
  "events": [
   {
+   "detail": "+ ADDED   Matt Cross (DAL)",
+   "detected_at": "2026-10-12 15:32:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "- REMOVED Lonnie Walker IV (DEN)",
+   "detected_at": "2026-10-12 15:32:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Chucky Hepburn (TOR)",
+   "detected_at": "2026-10-12 15:32:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
    "detail": "2026-10-12  New Orleans Pelicans waived guard Caleb Houstan.",
    "detected_at": "2026-10-12 15:27:55",
    "source": "TRANSACTIONS",
@@ -10417,27 +10435,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "VTB Youth United League + Maxim Matveev → Dynamo M2",
-   "detected_at": "2026-10-08 08:33:14",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "VTB Youth United League + Daniar Faizov → Dynamo M2",
-   "detected_at": "2026-10-08 08:33:14",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "VTB Youth United League + Marat Khudaygulov → Dynamo M2",
-   "detected_at": "2026-10-08 08:33:14",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10450,8 +10447,8 @@
    "last": "2026-10-11 09:18:24"
   },
   "PLAYERS": {
-   "count": 1455,
-   "last": "2026-10-12 14:32:54"
+   "count": 1458,
+   "last": "2026-10-12 15:32:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10482,6 +10479,6 @@
    "last": "2026-10-12 13:12:30"
   }
  },
- "generated_at": "2026-10-12T15:31:55",
- "total": 28245
+ "generated_at": "2026-10-12T15:40:39",
+ "total": 28248
 }
