@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Sharife Cooper  ~ 117356: number -> 0",
+   "detected_at": "2026-10-12 12:11:44",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "2"
+  },
+  {
    "detail": "Tosan Evbuomwan  ~ height_ft: 6 -> -",
    "detected_at": "2026-10-12 12:04:38",
    "source": "WIKI",
@@ -10435,13 +10442,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "VTB Youth United League + Demid Podgaets → Yenisei 2",
-   "detected_at": "2026-10-08 08:33:04",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10482,10 +10482,10 @@
    "last": "2026-10-12 12:04:38"
   },
   "WIKIWATCH": {
-   "count": 362,
-   "last": "2026-10-12 11:09:59"
+   "count": 363,
+   "last": "2026-10-12 12:11:44"
   }
  },
- "generated_at": "2026-10-12T12:04:39",
- "total": 28181
+ "generated_at": "2026-10-12T12:12:04",
+ "total": 28182
 }
