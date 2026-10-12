@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Barry Brown  ~ 84242: team -> Free agent",
+   "detected_at": "2026-10-12 16:06:10",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Zhejiang Lions"
+  },
+  {
+   "detail": "Barry Brown  ~ 84242: league -> -",
+   "detected_at": "2026-10-12 16:06:10",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "CBA"
+  },
+  {
+   "detail": "Barry Brown  ~ 84242: number -> -",
+   "detected_at": "2026-10-12 16:06:10",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "5"
+  },
+  {
    "detail": "+ ADDED   Matt Cross (DAL)",
    "detected_at": "2026-10-12 15:32:54",
    "source": "PLAYERS",
@@ -10414,27 +10435,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "VTB Youth United League + Nazar Zhdanyuk → Tsmoki Minsk III",
-   "detected_at": "2026-10-08 08:33:14",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "VTB Youth United League + Daniel Sanamyan → Dynamo M2",
-   "detected_at": "2026-10-08 08:33:14",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "VTB Youth United League + Arseniy Kanakhin → Dynamo M2",
-   "detected_at": "2026-10-08 08:33:14",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10475,10 +10475,10 @@
    "last": "2026-10-12 15:16:37"
   },
   "WIKIWATCH": {
-   "count": 364,
-   "last": "2026-10-12 13:12:30"
+   "count": 367,
+   "last": "2026-10-12 16:06:10"
   }
  },
- "generated_at": "2026-10-12T16:06:01",
- "total": 28248
+ "generated_at": "2026-10-12T16:07:01",
+ "total": 28251
 }
