@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Turkish TBL Balikesir Buyuksehir Belediysepor 94, Kecioren Baglum 92",
+   "detected_at": "2026-10-11 20:42:47",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-11/Kecioren-Baglum-at-Balikesir-Buyuksehir-Belediysepor/534761"
+  },
+  {
+   "detail": "Turkish TBL Harem Spor 79, Darussafaka Basketbol Istanbul 47",
+   "detected_at": "2026-10-11 20:42:39",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-11/Harem-Spor-at-Darussafaka-Basketbol-Istanbul/534754"
+  },
+  {
    "detail": "Israeli BSL Hapoel Bank Yahav Jerusalem 92, Hapoel Unet Holon 69",
    "detected_at": "2026-10-11 19:32:05",
    "source": "SCORES",
@@ -10345,20 +10359,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-10-07/Les-Lions-de-Geneve-at-Landau-Lions/541924"
-  },
-  {
-   "detail": "FIBA Europe Cup + Nijat Mammadli → Landau Lions",
-   "detected_at": "2026-10-07 12:29:44",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "FIBA Europe Cup + Ercan Yildiz Donat → Landau Lions",
-   "detected_at": "2026-10-07 12:29:44",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10383,8 +10383,8 @@
    "last": "2026-10-11 19:32:04"
   },
   "SCORES": {
-   "count": 1835,
-   "last": "2026-10-11 19:32:05"
+   "count": 1837,
+   "last": "2026-10-11 20:42:47"
   },
   "SHEETS": {
    "count": 4675,
@@ -10403,6 +10403,6 @@
    "last": "2026-10-11 09:33:32"
   }
  },
- "generated_at": "2026-10-11T20:28:02",
- "total": 27732
+ "generated_at": "2026-10-11T20:43:58",
+ "total": 27734
 }
