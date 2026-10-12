@@ -1,6 +1,48 @@
 {
  "events": [
   {
+   "detail": "Sek Henry  ~ team: Free Agent -> Leones de Quilpué",
+   "detected_at": "2026-10-11 17:36:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Sek_Henry"
+  },
+  {
+   "detail": "Sek Henry  ~ league: - -> LNB Chile",
+   "detected_at": "2026-10-11 17:36:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Sek_Henry"
+  },
+  {
+   "detail": "Sek Henry  ~ position: Shooting guard / point guard -> Shooting guard",
+   "detected_at": "2026-10-11 17:36:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Sek_Henry"
+  },
+  {
+   "detail": "Sek Henry  ~ number: - -> 5",
+   "detected_at": "2026-10-11 17:36:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Sek_Henry"
+  },
+  {
+   "detail": "Sek Henry  ~ weight_lb: 198 -> 200",
+   "detected_at": "2026-10-11 17:36:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Sek_Henry"
+  },
+  {
+   "detail": "Sek Henry  ~ CAREER  + 2026–present Leones de Quilpué",
+   "detected_at": "2026-10-11 17:36:38",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Sek_Henry"
+  },
+  {
    "detail": "Slovakian Extraliga BK Levicki Patrioti Levice 108, Slavia Kosice 85",
    "detected_at": "2026-10-11 17:21:46",
    "source": "SCORES",
@@ -10301,42 +10343,6 @@
    "detected_at": "2026-10-07 09:14:58",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "OKC  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 18 -> 17",
-   "detected_at": "2026-10-07 09:14:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col22: 20374202 -> 19016439",
-   "detected_at": "2026-10-07 09:14:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED 4th Incremental Tax Bracket  -  col22: 15766209.5 -> 9316835.25",
-   "detected_at": "2026-10-07 09:14:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col22: 48454959.5 -> 42005585.25",
-   "detected_at": "2026-10-07 09:14:58",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED John Butler Jr. Milwaukee Bucks",
-   "detected_at": "2026-10-07 09:14:56",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  John Butler Jr. (WAIVED) Milwaukee Bucks",
-   "detected_at": "2026-10-07 09:14:56",
-   "source": "DOCS",
-   "type": "ADDED"
   }
  ],
  "feeds": {
@@ -10373,14 +10379,14 @@
    "last": "2026-10-10 17:30:55"
   },
   "WIKI": {
-   "count": 5344,
-   "last": "2026-10-11 15:10:38"
+   "count": 5350,
+   "last": "2026-10-11 17:36:38"
   },
   "WIKIWATCH": {
    "count": 357,
    "last": "2026-10-11 09:33:32"
   }
  },
- "generated_at": "2026-10-11T17:22:33",
- "total": 27649
+ "generated_at": "2026-10-11T17:36:39",
+ "total": 27655
 }
