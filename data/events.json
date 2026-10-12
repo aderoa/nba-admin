@@ -1,6 +1,48 @@
 {
  "events": [
   {
+   "detail": "Nick Weiler-Babb  ~ position: Shooting guard -> Point guard / shooting guard",
+   "detected_at": "2026-10-12 13:20:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Nick_Weiler-Babb"
+  },
+  {
+   "detail": "Boris Tišma  ~ nationality: Croatian -> -",
+   "detected_at": "2026-10-12 13:20:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Boris_Ti%C5%A1ma"
+  },
+  {
+   "detail": "Boris Tišma  ~ CAREER  + 2021 →Real Betis",
+   "detected_at": "2026-10-12 13:20:37",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Boris_Ti%C5%A1ma"
+  },
+  {
+   "detail": "Saliou Niang  ~ league: SEC -> -",
+   "detected_at": "2026-10-12 13:20:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Saliou_Niang"
+  },
+  {
+   "detail": "Saliou Niang  ~ nationality: Italian -> -",
+   "detected_at": "2026-10-12 13:20:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Saliou_Niang"
+  },
+  {
+   "detail": "Saliou Niang  ~ 174547: league -> SEC",
+   "detected_at": "2026-10-12 13:12:30",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": ""
+  },
+  {
    "detail": "Tahjere McCall  ~ team: Guangdong Southern Tigers -> Guangzhou Loong Lions",
    "detected_at": "2026-10-12 12:50:37",
    "source": "WIKI",
@@ -10400,48 +10442,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "VTB Youth United League + Yaroslav Burashnikov → Avtodor 2",
-   "detected_at": "2026-10-08 08:33:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "VTB Youth United League + Nikita Shipitsyn → Parma 2",
-   "detected_at": "2026-10-08 08:33:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "VTB Youth United League + Mikhail Egorov → Parma 2",
-   "detected_at": "2026-10-08 08:33:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "VTB Youth United League + Semyon Suetin → Parma 2",
-   "detected_at": "2026-10-08 08:33:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "VTB Youth United League + Ilnar Farkhutdinov → Parma 2",
-   "detected_at": "2026-10-08 08:33:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "VTB Youth United League + Grigory Golovchenko → Parma 2",
-   "detected_at": "2026-10-08 08:33:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10478,14 +10478,14 @@
    "last": "2026-10-12 09:04:28"
   },
   "WIKI": {
-   "count": 5475,
-   "last": "2026-10-12 12:50:37"
+   "count": 5480,
+   "last": "2026-10-12 13:20:37"
   },
   "WIKIWATCH": {
-   "count": 363,
-   "last": "2026-10-12 12:11:44"
+   "count": 364,
+   "last": "2026-10-12 13:12:30"
   }
  },
- "generated_at": "2026-10-12T13:04:02",
- "total": 28200
+ "generated_at": "2026-10-12T13:20:38",
+ "total": 28206
 }
