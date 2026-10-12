@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Barry Brown  ~ 84242: team -> -",
+   "detected_at": "2026-10-12 09:47:07",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Free agent"
+  },
+  {
+   "detail": "Barry Brown  ~ 84242: position -> -",
+   "detected_at": "2026-10-12 09:47:07",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Point guard / shooting guard"
+  },
+  {
+   "detail": "Barry Brown  ~ 84242: (page changed) -> -",
+   "detected_at": "2026-10-12 09:47:07",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": ""
+  },
+  {
    "detail": "He Xining  ~ 76281: (page changed) -> -",
    "detected_at": "2026-10-12 09:22:04",
    "source": "WIKIWATCH",
@@ -10436,27 +10457,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "VTB Youth United League + Matvey Ivonin → Uralmash 2",
-   "detected_at": "2026-10-08 08:32:58",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "VTB Youth United League + Yan Minaev → Uralmash 2",
-   "detected_at": "2026-10-08 08:32:58",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "VTB Youth United League + Artom Vara → Uralmash 2",
-   "detected_at": "2026-10-08 08:32:58",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10497,10 +10497,10 @@
    "last": "2026-10-12 09:11:47"
   },
   "WIKIWATCH": {
-   "count": 358,
-   "last": "2026-10-12 09:22:04"
+   "count": 361,
+   "last": "2026-10-12 09:47:07"
   }
  },
- "generated_at": "2026-10-12T09:40:40",
- "total": 28125
+ "generated_at": "2026-10-12T09:48:05",
+ "total": 28128
 }
