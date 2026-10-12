@@ -1,6 +1,55 @@
 {
  "events": [
   {
+   "detail": "Portuguese LPB CD Povoa 73, CAB Madeira 69",
+   "detected_at": "2026-10-11 23:55:50",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/CAB-Madeira-at-CD-Povoa/527323"
+  },
+  {
+   "detail": "Portuguese LPB Sporting Clube de Portugal 88, Esgueira 60",
+   "detected_at": "2026-10-11 23:55:47",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/Esgueira-at-Sporting-Clube-de-Portugal/527326"
+  },
+  {
+   "detail": "Portuguese LPB + Daniel Carr → Esgueira",
+   "detected_at": "2026-10-11 23:55:46",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Portuguese LPB + Olise Onyeka → Esgueira",
+   "detected_at": "2026-10-11 23:55:46",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Portuguese LPB + Mateus Pombo Oliveria → Esgueira",
+   "detected_at": "2026-10-11 23:55:46",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Portuguese LPB + Jayden Gomes → Sporting Clube de Portugal",
+   "detected_at": "2026-10-11 23:55:46",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Portuguese LPB + Malik Bowman → Sporting Clube de Portugal",
+   "detected_at": "2026-10-11 23:55:46",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
    "detail": "Macedonian Superleague ABA Strumica 84, KK Pelister Sport Bitola 69",
    "detected_at": "2026-10-11 22:46:54",
    "source": "SCORES",
@@ -10310,55 +10359,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "FIBA Europe Cup King Szczecin 88, Nitra Blue Wings 81",
-   "detected_at": "2026-10-07 12:30:05",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-07/Nitra-Blue-Wings-at-King-Szczecin/541929"
-  },
-  {
-   "detail": "FIBA Europe Cup + Isaiah Mucius → AEK Larnaca",
-   "detected_at": "2026-10-07 12:30:01",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "FIBA Europe Cup AEK Larnaca 73, sOliver Baskets 65",
-   "detected_at": "2026-10-07 12:30:01",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-07/sOliver-Baskets-at-AEK-Larnaca/541930"
-  },
-  {
-   "detail": "FIBA Europe Cup KK Split 74, BK Opava 68",
-   "detected_at": "2026-10-07 12:29:58",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-07/KK-Split-at-BK-Opava/541925"
-  },
-  {
-   "detail": "FIBA Europe Cup + Nick Johnson → KK Split",
-   "detected_at": "2026-10-07 12:29:57",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "FIBA Europe Cup Esenler Erokspor 92, Gence BC 63",
-   "detected_at": "2026-10-07 12:29:55",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-07/Gence-BC-at-Esenler-Erokspor/541927"
-  },
-  {
-   "detail": "FIBA Europe Cup + Jarvis Garrett → Gence BC",
-   "detected_at": "2026-10-07 12:29:54",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10379,12 +10379,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 8850,
-   "last": "2026-10-11 22:46:53"
+   "count": 8855,
+   "last": "2026-10-11 23:55:46"
   },
   "SCORES": {
-   "count": 1845,
-   "last": "2026-10-11 22:46:54"
+   "count": 1847,
+   "last": "2026-10-11 23:55:50"
   },
   "SHEETS": {
    "count": 4675,
@@ -10403,6 +10403,6 @@
    "last": "2026-10-11 09:33:32"
   }
  },
- "generated_at": "2026-10-11T23:47:01",
- "total": 27760
+ "generated_at": "2026-10-11T23:56:39",
+ "total": 27767
 }
