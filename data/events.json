@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "- REMOVED Caleb Houstan (NOP)",
+   "detected_at": "2026-10-12 16:40:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
    "detail": "Portuguese LPB ADO Basquetebol Sad Ovarense 87, Vitoria Alves Guimaraes 71",
    "detected_at": "2026-10-12 16:33:07",
    "source": "SCORES",
@@ -10428,13 +10434,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Argentinian Liga A + Victor Fernandez → Obera Tenis Club",
-   "detected_at": "2026-10-08 08:33:31",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10447,8 +10446,8 @@
    "last": "2026-10-11 09:18:24"
   },
   "PLAYERS": {
-   "count": 1458,
-   "last": "2026-10-12 15:32:54"
+   "count": 1459,
+   "last": "2026-10-12 16:40:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10479,6 +10478,6 @@
    "last": "2026-10-12 16:06:10"
   }
  },
- "generated_at": "2026-10-12T16:33:56",
- "total": 28278
+ "generated_at": "2026-10-12T16:41:03",
+ "total": 28279
 }
