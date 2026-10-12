@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Kevin Punter  ~ position: Shooting guard -> Shooting guard / point guard",
+   "detected_at": "2026-10-12 11:18:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kevin_Punter"
+  },
+  {
+   "detail": "Kevin Punter  ~ 81049: position -> Shooting guard",
+   "detected_at": "2026-10-12 11:09:59",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Shooting guard / point guard"
+  },
+  {
    "detail": "Gregor Hrovat  ~ team: Free agent -> Élan Béarnais",
    "detected_at": "2026-10-12 10:50:37",
    "source": "WIKI",
@@ -10428,20 +10442,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "VTB Youth United League + Ilia Usoltsev → Lokomotiv Kuban 2",
-   "detected_at": "2026-10-08 08:33:04",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "VTB Youth United League + Aleksey Martens → Lokomotiv Kuban 2",
-   "detected_at": "2026-10-08 08:33:04",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10478,14 +10478,14 @@
    "last": "2026-10-12 09:04:28"
   },
   "WIKI": {
-   "count": 5444,
-   "last": "2026-10-12 10:50:37"
+   "count": 5445,
+   "last": "2026-10-12 11:18:38"
   },
   "WIKIWATCH": {
-   "count": 361,
-   "last": "2026-10-12 09:47:07"
+   "count": 362,
+   "last": "2026-10-12 11:09:59"
   }
  },
- "generated_at": "2026-10-12T11:04:01",
- "total": 28167
+ "generated_at": "2026-10-12T11:18:39",
+ "total": 28169
 }
