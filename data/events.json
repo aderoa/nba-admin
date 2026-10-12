@@ -1,6 +1,48 @@
 {
  "events": [
   {
+   "detail": "Drew Peterson (basketball)  ~ number: 9 -> 21",
+   "detected_at": "2026-10-11 18:45:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Drew_Peterson_(basketball)"
+  },
+  {
+   "detail": "Miles Kelly  ~ team: Santa Cruz Warriors -> Free agent",
+   "detected_at": "2026-10-11 18:45:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Miles_Kelly"
+  },
+  {
+   "detail": "Miles Kelly  ~ league: NBA G League -> -",
+   "detected_at": "2026-10-11 18:45:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Miles_Kelly"
+  },
+  {
+   "detail": "Skal Labissière  ~ team: Washington Wizards -> Free agent",
+   "detected_at": "2026-10-11 18:45:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Skal_Labissi%C3%A8re"
+  },
+  {
+   "detail": "Skal Labissière  ~ league: NBA -> -",
+   "detected_at": "2026-10-11 18:45:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Skal_Labissi%C3%A8re"
+  },
+  {
+   "detail": "Skal Labissière  ~ CAREER  + Washington Wizards",
+   "detected_at": "2026-10-11 18:45:38",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Skal_Labissi%C3%A8re"
+  },
+  {
    "detail": "Argentinian Liga A Quimsa 105, Boca Juniors 96",
    "detected_at": "2026-10-11 18:23:31",
    "source": "SCORES",
@@ -10317,48 +10359,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Lithuanian NKL + Deividas Rasys → Telsiai",
-   "detected_at": "2026-10-07 10:08:59",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Lithuanian NKL + Ignas Martinkus → Telsiai",
-   "detected_at": "2026-10-07 10:08:59",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Lithuanian NKL + Kaloyan Balkandzhiev → Lietuvos Rytas II",
-   "detected_at": "2026-10-07 10:08:59",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Lithuanian NKL + Mantas Liutkevicius → Lietuvos Rytas II",
-   "detected_at": "2026-10-07 10:08:59",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Lithuanian NKL + Adomas Pocius → Lietuvos Rytas II",
-   "detected_at": "2026-10-07 10:08:59",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Lithuanian NKL + Erikas Sirgedas → Lietuvos Rytas II",
-   "detected_at": "2026-10-07 10:08:59",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10395,14 +10395,14 @@
    "last": "2026-10-10 17:30:55"
   },
   "WIKI": {
-   "count": 5352,
-   "last": "2026-10-11 18:22:38"
+   "count": 5358,
+   "last": "2026-10-11 18:45:38"
   },
   "WIKIWATCH": {
    "count": 357,
    "last": "2026-10-11 09:33:32"
   }
  },
- "generated_at": "2026-10-11T18:37:03",
- "total": 27697
+ "generated_at": "2026-10-11T18:45:39",
+ "total": 27703
 }
