@@ -1,6 +1,48 @@
 {
  "events": [
   {
+   "detail": "Lester Quiñones  ~ height_in: 4 -> 5",
+   "detected_at": "2026-10-12 10:27:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Lester_Qui%C3%B1ones"
+  },
+  {
+   "detail": "Gabe York  ~ team: Zhejiang Golden Bulls -> Free agent",
+   "detected_at": "2026-10-12 10:27:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Gabe_York"
+  },
+  {
+   "detail": "Gabe York  ~ league: Chinese Basketball Association -> -",
+   "detected_at": "2026-10-12 10:27:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Gabe_York"
+  },
+  {
+   "detail": "Gabe York  ~ number: 32 -> -",
+   "detected_at": "2026-10-12 10:27:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Gabe_York"
+  },
+  {
+   "detail": "Gabe York  ~ CAREER  + 2024–2026 Zhejiang Golden Bulls",
+   "detected_at": "2026-10-12 10:27:38",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Gabe_York"
+  },
+  {
+   "detail": "Artūrs Žagars  ~ number: - -> 32",
+   "detected_at": "2026-10-12 10:27:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Art%C5%ABrs_%C5%BDagars"
+  },
+  {
    "detail": "Landry Nnoko  ~ team: Free Agent -> Zhejiang Lions",
    "detected_at": "2026-10-12 10:03:38",
    "source": "WIKI",
@@ -10415,48 +10457,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "VTB Youth United League + Daniil Vorobyov → Zenit 2",
-   "detected_at": "2026-10-08 08:33:01",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "VTB Youth United League + Artem Trukhin → Zenit 2",
-   "detected_at": "2026-10-08 08:33:01",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "VTB Youth United League + Semyon Ananyin → Zenit 2",
-   "detected_at": "2026-10-08 08:33:01",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "VTB Youth United League + Denis Silaev → Zenit 2",
-   "detected_at": "2026-10-08 08:33:01",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "VTB Youth United League + Anton Suikonen → Zenit 2",
-   "detected_at": "2026-10-08 08:33:01",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "VTB Youth United League + Nikolaj Sevostanov → Zenit 2",
-   "detected_at": "2026-10-08 08:33:01",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10493,14 +10493,14 @@
    "last": "2026-10-12 09:04:28"
   },
   "WIKI": {
-   "count": 5435,
-   "last": "2026-10-12 10:03:38"
+   "count": 5441,
+   "last": "2026-10-12 10:27:38"
   },
   "WIKIWATCH": {
    "count": 361,
    "last": "2026-10-12 09:47:07"
   }
  },
- "generated_at": "2026-10-12T10:19:01",
- "total": 28143
+ "generated_at": "2026-10-12T10:27:39",
+ "total": 28149
 }
