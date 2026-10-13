@@ -1,6 +1,42 @@
 {
  "events": [
   {
+   "detail": "2026-27 Rookie Signings  - REMOVED Mohamed Utah Jazz",
+   "detected_at": "2026-10-13 08:51:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Mohamed Wague Utah Jazz",
+   "detected_at": "2026-10-13 08:51:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  - REMOVED Minimum Salary Exception. Love of the Game. Physical Exam. Alt. 7(b). Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
+   "detected_at": "2026-10-13 08:51:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  - REMOVED Execution Date: 9/25/26",
+   "detected_at": "2026-10-13 08:51:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Minimum Salary Exception. Love of the Game. Physical Exam. Alt. 7(b). Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($5,000).",
+   "detected_at": "2026-10-13 08:51:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 10/8/26",
+   "detected_at": "2026-10-13 08:51:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "CLE  CHANGED Mitchell, Donovan  -  col4: 53817156.0 -> 63509985.0, col5: - -> 68590784.0, col6: - -> 73671583.0, col7: - -> 78752382.0, col9: 103922784 -> 334630362",
    "detected_at": "2026-10-13 08:37:59",
    "source": "SHEETS",
@@ -10257,54 +10293,12 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Bogdan Rutesic → KK Tamis",
-   "detected_at": "2026-10-10 13:07:16",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Strahinja Knezevic → KK Tamis",
-   "detected_at": "2026-10-10 13:07:16",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Nakyel Shelton → KK Tamis",
-   "detected_at": "2026-10-10 13:07:16",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Albert Vargas → KK Tamis",
-   "detected_at": "2026-10-10 13:07:16",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Branislav Terzic → KK Tamis",
-   "detected_at": "2026-10-10 13:07:16",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Lav Cvetkovic → KK Tamis",
-   "detected_at": "2026-10-10 13:07:16",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 3709,
-   "last": "2026-10-13 08:37:56"
+   "count": 3715,
+   "last": "2026-10-13 08:51:56"
   },
   "GLEAGUE": {
    "count": 177,
@@ -10343,6 +10337,6 @@
    "last": "2026-10-12 16:06:10"
   }
  },
- "generated_at": "2026-10-13T08:45:39",
- "total": 28665
+ "generated_at": "2026-10-13T08:52:02",
+ "total": 28671
 }
