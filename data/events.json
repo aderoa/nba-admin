@@ -1,6 +1,36 @@
 {
  "events": [
   {
+   "detail": "DAL  + ADDED  Green, Darin",
+   "detected_at": "2026-10-13 12:55:59",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "DAL  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 210579250.8 -> 211937013.8, col9: 544239623.7 -> 545597386.7",
+   "detected_at": "2026-10-13 12:55:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "DAL  CHANGED Players Under Contract  -  col3: 183451165.8 -> 184808928.8",
+   "detected_at": "2026-10-13 12:55:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "DAL  CHANGED Full Season Contracts  -  col3: 183451165.8 -> 184808928.8",
+   "detected_at": "2026-10-13 12:55:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "DAL  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 18 -> 19",
+   "detected_at": "2026-10-13 12:55:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "2026-27 Rookie Signings  + ADDED  Darin Green Dallas Mavericks",
    "detected_at": "2026-10-13 12:54:56",
    "source": "DOCS",
@@ -10039,41 +10069,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Nick_Weiler-Babb"
-  },
-  {
-   "detail": "Hassan Martin  ~ team: Free Agent -> BCM Gravelines-Dunkerque",
-   "detected_at": "2026-10-11 09:25:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Hassan_Martin"
-  },
-  {
-   "detail": "Hassan Martin  ~ league: - -> LNB Élite",
-   "detected_at": "2026-10-11 09:25:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Hassan_Martin"
-  },
-  {
-   "detail": "Hassan Martin  ~ number: - -> 12",
-   "detected_at": "2026-10-11 09:25:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Hassan_Martin"
-  },
-  {
-   "detail": "Hassan Martin  ~ CAREER  + 2018 Medi Bayreuth",
-   "detected_at": "2026-10-11 09:25:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Hassan_Martin"
-  },
-  {
-   "detail": "Hassan Martin  ~ CAREER  + 2023–2024 Shimane Susanoo Magic",
-   "detected_at": "2026-10-11 09:25:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Hassan_Martin"
   }
  ],
  "feeds": {
@@ -10102,8 +10097,8 @@
    "last": "2026-10-13 12:34:32"
   },
   "SHEETS": {
-   "count": 4778,
-   "last": "2026-10-13 12:51:00"
+   "count": 4783,
+   "last": "2026-10-13 12:55:59"
   },
   "TRANSACTIONS": {
    "count": 506,
@@ -10118,6 +10113,6 @@
    "last": "2026-10-12 16:06:10"
   }
  },
- "generated_at": "2026-10-13T12:55:01",
- "total": 28941
+ "generated_at": "2026-10-13T12:56:02",
+ "total": 28946
 }
