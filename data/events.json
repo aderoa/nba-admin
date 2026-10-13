@@ -1,6 +1,727 @@
 {
  "events": [
   {
+   "detail": "Portuguese LPB FC Porto Ferpinta 93, SL Benfica 86",
+   "detected_at": "2026-10-12 17:42:46",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-11/SL-Benfica-at-FC-Porto-Ferpinta/527324"
+  },
+  {
+   "detail": "Portuguese LPB + Joao Guerreiro → FC Porto Ferpinta",
+   "detected_at": "2026-10-12 17:42:45",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Portuguese LPB Braga 105, Portimonense 71",
+   "detected_at": "2026-10-12 17:42:42",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-11/Portimonense-at-Braga/527322"
+  },
+  {
+   "detail": "Portuguese LPB + Pedro Oliveira → Portimonense",
+   "detected_at": "2026-10-12 17:42:41",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Portuguese LPB + Mario Kegler → Braga",
+   "detected_at": "2026-10-12 17:42:41",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Portuguese LPB + Tiago Santos → Braga",
+   "detected_at": "2026-10-12 17:42:41",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Portuguese LPB + Francisco Oliveira → Braga",
+   "detected_at": "2026-10-12 17:42:41",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Israeli BSL Elitzur Kiryat Ata 86, Hapoel HaEmek 85",
+   "detected_at": "2026-10-12 17:42:39",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-11/Hapoel-HaEmek-at-Elitzur-Kiryat-Ata/535704"
+  },
+  {
+   "detail": "Israeli BSL + Rafi Manco → Hapoel HaEmek",
+   "detected_at": "2026-10-12 17:42:38",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Israeli BSL + Tyrece Radford → Elitzur Kiryat Ata",
+   "detected_at": "2026-10-12 17:42:38",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Bulgarian NBL BC Rilski Sportist 96, Tundja Yambol 64",
+   "detected_at": "2026-10-12 17:42:35",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-11/BC-Rilski-Sportist-at-Tundja-Yambol/528627"
+  },
+  {
+   "detail": "Bulgarian NBL + Deyan Hristov → BC Rilski Sportist",
+   "detected_at": "2026-10-12 17:42:34",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Bulgarian NBL + Jay Young → Tundja Yambol",
+   "detected_at": "2026-10-12 17:42:34",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Bulgarian NBL + Berk Mehmed → Tundja Yambol",
+   "detected_at": "2026-10-12 17:42:34",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Bulgarian NBL + Andon Vachev → Tundja Yambol",
+   "detected_at": "2026-10-12 17:42:34",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Bulgarian NBL + Josh Taylor → Tundja Yambol",
+   "detected_at": "2026-10-12 17:42:34",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Bulgarian NBL + C.J. Hardy → Tundja Yambol",
+   "detected_at": "2026-10-12 17:42:34",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Bulgarian NBL + Jeremy Kolev → Tundja Yambol",
+   "detected_at": "2026-10-12 17:42:34",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Bulgarian NBL + Kaloyan Penev → Tundja Yambol",
+   "detected_at": "2026-10-12 17:42:34",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Bulgarian NBL + Aleksian Dobrev → Tundja Yambol",
+   "detected_at": "2026-10-12 17:42:34",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Bulgarian NBL + Simone Vallarino → Tundja Yambol",
+   "detected_at": "2026-10-12 17:42:34",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Bulgarian NBL + Nikola Nankov → Tundja Yambol",
+   "detected_at": "2026-10-12 17:42:34",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Bulgarian NBL + Enes Akman → Tundja Yambol",
+   "detected_at": "2026-10-12 17:42:34",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Cypriot Division A Enosis Neon Paralimni 92, Anorthosis Ammohostou 79",
+   "detected_at": "2026-10-12 17:42:31",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-11/Anorthosis-Ammohostou-at-Enosis-Neon-Paralimni/539444"
+  },
+  {
+   "detail": "Cypriot Division A + Andreas Himonas → Anorthosis Ammohostou",
+   "detected_at": "2026-10-12 17:42:30",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Cypriot Division A + Tyree Boykin → Anorthosis Ammohostou",
+   "detected_at": "2026-10-12 17:42:30",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Cypriot Division A + Matt Norman → Anorthosis Ammohostou",
+   "detected_at": "2026-10-12 17:42:30",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Cypriot Division A + Charlie Henderson → Anorthosis Ammohostou",
+   "detected_at": "2026-10-12 17:42:30",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Cypriot Division A + Paris Maragkos → Anorthosis Ammohostou",
+   "detected_at": "2026-10-12 17:42:30",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Cypriot Division A + Artemis Tompazos → Anorthosis Ammohostou",
+   "detected_at": "2026-10-12 17:42:30",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Cypriot Division A + Georgios Tretiakov → Anorthosis Ammohostou",
+   "detected_at": "2026-10-12 17:42:30",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Cypriot Division A + JoJo Garcia → Anorthosis Ammohostou",
+   "detected_at": "2026-10-12 17:42:30",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Cypriot Division A + Konstantinos Agathoklis → Anorthosis Ammohostou",
+   "detected_at": "2026-10-12 17:42:30",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Cypriot Division A + Federiko Federiko → Anorthosis Ammohostou",
+   "detected_at": "2026-10-12 17:42:30",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Cypriot Division A + Austin Johnson → Enosis Neon Paralimni",
+   "detected_at": "2026-10-12 17:42:30",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Cypriot Division A + Tyke Thompson → Enosis Neon Paralimni",
+   "detected_at": "2026-10-12 17:42:30",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Cypriot Division A + Camryn Weston → Enosis Neon Paralimni",
+   "detected_at": "2026-10-12 17:42:30",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Cypriot Division A + George Beale, Jr. → Enosis Neon Paralimni",
+   "detected_at": "2026-10-12 17:42:30",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Cypriot Division A + Nikolaos Papadimitriou → Enosis Neon Paralimni",
+   "detected_at": "2026-10-12 17:42:30",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Cypriot Division A + Simos Solomou → Enosis Neon Paralimni",
+   "detected_at": "2026-10-12 17:42:30",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Cypriot Division A + Nikolas Louca → Enosis Neon Paralimni",
+   "detected_at": "2026-10-12 17:42:30",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Cypriot Division A + Brett Thompson → Enosis Neon Paralimni",
+   "detected_at": "2026-10-12 17:42:30",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Cypriot Division A + Christos Loizides → Enosis Neon Paralimni",
+   "detected_at": "2026-10-12 17:42:30",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Israeli BSL Hapoel Tel Aviv 95, Hapoel Beer Sheva 82",
+   "detected_at": "2026-10-12 17:42:28",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-11/Hapoel-Tel-Aviv-at-Hapoel-Beer-Sheva/535703"
+  },
+  {
+   "detail": "Israeli BSL + Itay Segev → Hapoel Tel Aviv",
+   "detected_at": "2026-10-12 17:42:26",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Israeli BSL + M.J. Walker → Hapoel Beer Sheva",
+   "detected_at": "2026-10-12 17:42:26",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Israeli BSL + Nate Hoter → Hapoel Beer Sheva",
+   "detected_at": "2026-10-12 17:42:26",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Super League Basketball Sheffield Sharks 85, Leicester Riders 75",
+   "detected_at": "2026-10-12 17:42:24",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-11/Leicester-Riders-at-Sheffield-Sharks/535539"
+  },
+  {
+   "detail": "Super League Basketball + William Lee → Sheffield Sharks",
+   "detected_at": "2026-10-12 17:42:23",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Super League Basketball + Fahro Alihodzic → Sheffield Sharks",
+   "detected_at": "2026-10-12 17:42:23",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Super League Basketball + Adrian Delph → Sheffield Sharks",
+   "detected_at": "2026-10-12 17:42:23",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Super League Basketball + Maceo Jack → Sheffield Sharks",
+   "detected_at": "2026-10-12 17:42:23",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Super League Basketball ~ MOVED Sean Bairstow → Sheffield Sharks (from Aukland Tuatara)",
+   "detected_at": "2026-10-12 17:42:23",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Super League Basketball + Jordan Ratinho → Sheffield Sharks",
+   "detected_at": "2026-10-12 17:42:23",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Super League Basketball + Michael Ochereobia → Sheffield Sharks",
+   "detected_at": "2026-10-12 17:42:23",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Super League Basketball + Princeton Onwas → Sheffield Sharks",
+   "detected_at": "2026-10-12 17:42:23",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Super League Basketball + Lu'Cye Patterson → Sheffield Sharks",
+   "detected_at": "2026-10-12 17:42:23",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Super League Basketball + Dan Gherezgher → Sheffield Sharks",
+   "detected_at": "2026-10-12 17:42:23",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Super League Basketball + Donovan Clay → Sheffield Sharks",
+   "detected_at": "2026-10-12 17:42:23",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "PBA Governors Cup Magnolia Hotshots 112, Barangay Ginebra Kings 93",
+   "detected_at": "2026-10-12 17:42:20",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-11/Barangay-Ginebra-Kings-at-Magnolia-Hotshots/544787"
+  },
+  {
+   "detail": "PBA Governors Cup + Sonny Estil → Barangay Ginebra Kings",
+   "detected_at": "2026-10-12 17:42:19",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "PBA Governors Cup + Paolo Taha → Magnolia Hotshots",
+   "detected_at": "2026-10-12 17:42:19",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "PBA Governors Cup + Gab Gomez → Magnolia Hotshots",
+   "detected_at": "2026-10-12 17:42:19",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "PBA Governors Cup Converge Fiber Xers 152, Titan Ultra Giant 119",
+   "detected_at": "2026-10-12 17:42:16",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-11/Converge-Fiber-Xers-at-Titan-Ultra-Giant/544786"
+  },
+  {
+   "detail": "PBA Governors Cup + Cameron Clark → Converge Fiber Xers",
+   "detected_at": "2026-10-12 17:42:15",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "PBA Governors Cup + Roman Santos → Converge Fiber Xers",
+   "detected_at": "2026-10-12 17:42:15",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "PBA Governors Cup + John Clemente → Converge Fiber Xers",
+   "detected_at": "2026-10-12 17:42:15",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "PBA Governors Cup + R.R. Garcia → Titan Ultra Giant",
+   "detected_at": "2026-10-12 17:42:15",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "PBA Governors Cup + Ralph Deles → Titan Ultra Giant",
+   "detected_at": "2026-10-12 17:42:15",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Mexican LNBP Santos de San Luis Potosi 106, Abejas 82",
+   "detected_at": "2026-10-12 17:42:10",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-12/Santos-de-San-Luis-Potosi-at-Abejas/544683"
+  },
+  {
+   "detail": "Mexican LNBP Lobos Plateados 105, Freseros Irapuato 86",
+   "detected_at": "2026-10-12 17:42:07",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-12/Freseros-Irapuato-at-Lobos-Plateados/544685"
+  },
+  {
+   "detail": "Mexican LNBP Diablos Rojos 98, Mineros de Zacatecas 92",
+   "detected_at": "2026-10-12 17:42:03",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-12/Diablos-Rojos-at-Mineros-de-Zacatecas/544686"
+  },
+  {
+   "detail": "Croatian A 1 Liga KK Zadar 87, KK Cedevita Junior Zagreb 56",
+   "detected_at": "2026-10-12 17:41:59",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-12/KK-Zadar-at-KK-Cedevita-Junior-Zagreb/535699"
+  },
+  {
+   "detail": "Croatian A 1 Liga + Kristijan Krajina → KK Cedevita Junior Zagreb",
+   "detected_at": "2026-10-12 17:41:58",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Bosnian BiH Liga Borac Nektar 76, HKK Zrinjski 66",
+   "detected_at": "2026-10-12 17:41:56",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-12/HKK-Zrinjski-at-Borac-Nektar/540593"
+  },
+  {
+   "detail": "Bosnian BiH Liga + Srdjan Adamovic → Borac Nektar",
+   "detected_at": "2026-10-12 17:41:55",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Bosnian BiH Liga KK Slavija 106, BC Siroki 96",
+   "detected_at": "2026-10-12 17:41:52",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-12/BC-Siroki-at-KK-Slavija/540598"
+  },
+  {
+   "detail": "Bosnian BiH Liga + Pero Zubac → BC Siroki",
+   "detected_at": "2026-10-12 17:41:51",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Bosnian BiH Liga + Eman Jasarevic → KK Slavija",
+   "detected_at": "2026-10-12 17:41:51",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Cypriot Division A APOEL Nicosia 80, Proteas EKA AEL 73",
+   "detected_at": "2026-10-12 17:41:48",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-12/Proteas-EKA-AEL-at-APOEL-Nicosia/539443"
+  },
+  {
+   "detail": "Cypriot Division A + Donte Clark → Proteas EKA AEL",
+   "detected_at": "2026-10-12 17:41:47",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Cypriot Division A + Javonte Johnson → Proteas EKA AEL",
+   "detected_at": "2026-10-12 17:41:47",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Cypriot Division A + Pape Souleimane Faye → Proteas EKA AEL",
+   "detected_at": "2026-10-12 17:41:47",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Cypriot Division A ~ MOVED Sincere Carry → Proteas EKA AEL (from Calgary Surge)",
+   "detected_at": "2026-10-12 17:41:47",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Cypriot Division A + Brendan Bailey → Proteas EKA AEL",
+   "detected_at": "2026-10-12 17:41:47",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Cypriot Division A + Marios Georgiou → Proteas EKA AEL",
+   "detected_at": "2026-10-12 17:41:47",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Cypriot Division A + Georgios Armakolas → Proteas EKA AEL",
+   "detected_at": "2026-10-12 17:41:47",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Cypriot Division A + Troy Glover II → Proteas EKA AEL",
+   "detected_at": "2026-10-12 17:41:47",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Cypriot Division A + Savvas Foullidis → Proteas EKA AEL",
+   "detected_at": "2026-10-12 17:41:47",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Cypriot Division A + Alonzo Gaffney → APOEL Nicosia",
+   "detected_at": "2026-10-12 17:41:47",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Cypriot Division A + Taz Sherman → APOEL Nicosia",
+   "detected_at": "2026-10-12 17:41:47",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Cypriot Division A + Konstantinos Simitzis → APOEL Nicosia",
+   "detected_at": "2026-10-12 17:41:47",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Cypriot Division A + Kenney Funderburk → APOEL Nicosia",
+   "detected_at": "2026-10-12 17:41:47",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Cypriot Division A + Roberto Mantovani → APOEL Nicosia",
+   "detected_at": "2026-10-12 17:41:47",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Cypriot Division A + Solonas Angeli → APOEL Nicosia",
+   "detected_at": "2026-10-12 17:41:47",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Cypriot Division A + Jamari Blackmon → APOEL Nicosia",
+   "detected_at": "2026-10-12 17:41:47",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Cypriot Division A + Stelios Sofokleous → APOEL Nicosia",
+   "detected_at": "2026-10-12 17:41:47",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Cypriot Division A + Petros Papamichael → APOEL Nicosia",
+   "detected_at": "2026-10-12 17:41:47",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Romanian Divizia A CSM Steaua Bucuresti 98, CS Rapid Bucuresti 88",
+   "detected_at": "2026-10-12 17:41:45",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-12/CS-Rapid-Bucuresti-at-CSM-Steaua-Bucuresti/535755"
+  },
+  {
+   "detail": "Romanian Divizia A + Matei Constantinescu → CS Rapid Bucuresti",
+   "detected_at": "2026-10-12 17:41:44",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Romanian Divizia A + Andrei Briscan → CSM Steaua Bucuresti",
+   "detected_at": "2026-10-12 17:41:44",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Romanian Divizia A + Stefan Ciurea → CSM Steaua Bucuresti",
+   "detected_at": "2026-10-12 17:41:44",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Romanian Divizia A + Paul Popescu → CSM Steaua Bucuresti",
+   "detected_at": "2026-10-12 17:41:44",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
    "detail": "Rondae Hollis-Jefferson  ~ team: Free agent -> TNT Tropang 5G",
    "detected_at": "2026-10-12 17:18:38",
    "source": "WIKI",
@@ -9719,721 +10440,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Ra%C5%A1id_Mahalba%C5%A1i%C4%87"
-  },
-  {
-   "detail": "Rašid Mahalbašić  ~ league: - -> LNBP",
-   "detected_at": "2026-10-09 09:48:20",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Ra%C5%A1id_Mahalba%C5%A1i%C4%87"
-  },
-  {
-   "detail": "Rašid Mahalbašić  ~ height_ft: 6 -> -",
-   "detected_at": "2026-10-09 09:48:20",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Ra%C5%A1id_Mahalba%C5%A1i%C4%87"
-  },
-  {
-   "detail": "Rašid Mahalbašić  ~ height_in: 11 -> -",
-   "detected_at": "2026-10-09 09:48:20",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Ra%C5%A1id_Mahalba%C5%A1i%C4%87"
-  },
-  {
-   "detail": "Rašid Mahalbašić  ~ CAREER  + 2026–present Lobos de Puebla",
-   "detected_at": "2026-10-09 09:48:20",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Ra%C5%A1id_Mahalba%C5%A1i%C4%87"
-  },
-  {
-   "detail": "Matt Mobley  ~ number: 2 -> 5",
-   "detected_at": "2026-10-09 09:48:20",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Matt_Mobley"
-  },
-  {
-   "detail": "Amath M'Baye  ~ CAREER  + 2026–present CSKA Moscow",
-   "detected_at": "2026-10-09 09:48:20",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Amath_M'Baye"
-  },
-  {
-   "detail": "Sukhmail Mathon  ~ team: Krka -> Balkan Botevgrad",
-   "detected_at": "2026-10-09 09:48:20",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Sukhmail_Mathon"
-  },
-  {
-   "detail": "Sukhmail Mathon  ~ league: 1. SKL ABA League -> NBL EuroCup",
-   "detected_at": "2026-10-09 09:48:20",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Sukhmail_Mathon"
-  },
-  {
-   "detail": "Sukhmail Mathon  ~ weight_lb: - -> 225",
-   "detected_at": "2026-10-09 09:48:20",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Sukhmail_Mathon"
-  },
-  {
-   "detail": "Sukhmail Mathon  ~ CAREER  + 2025–2026 Krka",
-   "detected_at": "2026-10-09 09:48:20",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Sukhmail_Mathon"
-  },
-  {
-   "detail": "Sukhmail Mathon  ~ CAREER  + 2026–present Balkan Botevgrad",
-   "detected_at": "2026-10-09 09:48:20",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Sukhmail_Mathon"
-  },
-  {
-   "detail": "Mohamed Dabone  ~ team: FC Barcelona B -> FC Barcelona",
-   "detected_at": "2026-10-09 09:48:20",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Mohamed_Dabone"
-  },
-  {
-   "detail": "Mohamed Dabone  ~ league: Liga U -> Liga ACB EuroLeague",
-   "detected_at": "2026-10-09 09:48:20",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Mohamed_Dabone"
-  },
-  {
-   "detail": "Mohamed Dabone  ~ career_start: - -> 2025",
-   "detected_at": "2026-10-09 09:48:20",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Mohamed_Dabone"
-  },
-  {
-   "detail": "2026-10-08  Traded: Damion Baugh (Vipers)",
-   "detected_at": "2026-10-09 09:41:43",
-   "source": "GLEAGUE",
-   "type": "Trade"
-  },
-  {
-   "detail": "2026-10-08  Traded: Kalib Boone (Vipers)",
-   "detected_at": "2026-10-09 09:41:43",
-   "source": "GLEAGUE",
-   "type": "Trade"
-  },
-  {
-   "detail": "2026-10-08  Traded: Ruben Nembhard Jr (Vipers)",
-   "detected_at": "2026-10-09 09:41:43",
-   "source": "GLEAGUE",
-   "type": "Trade"
-  },
-  {
-   "detail": "2026-10-08  Traded: Steven Richardson (Vipers)",
-   "detected_at": "2026-10-09 09:41:43",
-   "source": "GLEAGUE",
-   "type": "Trade"
-  },
-  {
-   "detail": "2026-10-08  Traded: Phillip Wheeler (Suns)",
-   "detected_at": "2026-10-09 09:41:43",
-   "source": "GLEAGUE",
-   "type": "Trade"
-  },
-  {
-   "detail": "Lithuanian NKL Plunges Olimpas 98, Kretingos Kretinga 85",
-   "detected_at": "2026-10-09 00:20:00",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-08/Kretingos-Kretinga-at-Plunges-Olimpas/544527"
-  },
-  {
-   "detail": "Lithuanian NKL + Emilis Einikis → Kretingos Kretinga",
-   "detected_at": "2026-10-09 00:19:59",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Lithuanian NKL Omega Tauras Kauno 99, Lietuvos Rytas II 91",
-   "detected_at": "2026-10-09 00:19:57",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-08/Omega-Tauras-Kauno-at-Lietuvos-Rytas-II/544526"
-  },
-  {
-   "detail": "Lithuanian NKL + Jonas Levickas → Omega Tauras Kauno",
-   "detected_at": "2026-10-09 00:19:56",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Lithuanian NKL Jurbarko Jurbarkas Karys 88, Olimpas Palangos 78",
-   "detected_at": "2026-10-09 00:19:53",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-08/Olimpas-Palangos-at-Jurbarko-Jurbarkas-Karys/544525"
-  },
-  {
-   "detail": "Lithuanian NKL + Vytenis Cizauskas → Jurbarko Jurbarkas Karys",
-   "detected_at": "2026-10-09 00:19:52",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Lithuanian NKL Telsiai 83, Mazeikiai 72",
-   "detected_at": "2026-10-09 00:19:50",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-08/Mazeikiai-at-Telsiai/544523"
-  },
-  {
-   "detail": "Lithuanian NKL Vilkaviskio Perlas 84, Kauno LKKA Atletas 76",
-   "detected_at": "2026-10-09 00:19:46",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-08/Vilkaviskio-Perlas-at-Kauno-LKKA-Atletas/544522"
-  },
-  {
-   "detail": "Euroleague Real Madrid 86, KK Partizan 76",
-   "detected_at": "2026-10-08 23:10:55",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-08/KK-Partizan-at-Real-Madrid/526803"
-  },
-  {
-   "detail": "Euroleague Valencia Basket 93, Hapoel Tel Aviv 82",
-   "detected_at": "2026-10-08 23:10:51",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-08/Hapoel-Tel-Aviv-at-Valencia-Basket/526801"
-  },
-  {
-   "detail": "Euroleague Panathinaikos 92, Fenerbahce Beko 74",
-   "detected_at": "2026-10-08 23:10:47",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-08/Fenerbahce-Beko-at-Panathinaikos/526800"
-  },
-  {
-   "detail": "Euroleague + Moustapha Fall → Panathinaikos",
-   "detected_at": "2026-10-08 23:10:46",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Michael Ružić  ~ weight_lb: 230 -> 235",
-   "detected_at": "2026-10-08 23:10:41",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Michael_Ru%C5%BEi%C4%87"
-  },
-  {
-   "detail": "Euroleague Virtus Bologna 94, Bayern Munich 87",
-   "detected_at": "2026-10-08 22:05:38",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-08/Virtus-Bologna-at-Bayern-Munich/526802"
-  },
-  {
-   "detail": "Euroleague + Kevin Kokila → Virtus Bologna",
-   "detected_at": "2026-10-08 22:05:37",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Turkish TBL Mersin BSB 92, Royal Hali Gaziantep 70",
-   "detected_at": "2026-10-08 22:05:35",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-08/Royal-Hali-Gaziantep-at-Mersin-BSB/534743"
-  },
-  {
-   "detail": "Turkish TBL + Jarmar Gulley → Royal Hali Gaziantep",
-   "detected_at": "2026-10-08 22:05:34",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Euroleague KK Crvena Zvezda 77, Dubai 58",
-   "detected_at": "2026-10-08 22:05:31",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-08/KK-Crvena-Zvezda-at-Dubai/526804"
-  },
-  {
-   "detail": "Euroleague Maccabi FOX Tel Aviv 97, AX Armani Exchange Milan 79",
-   "detected_at": "2026-10-08 22:05:27",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-08/AX-Armani-Exchange-Milan-at-Maccabi-FOX-Tel-Aviv/526799"
-  },
-  {
-   "detail": "Isaac Jones (basketball)  ~ number: 13 -> 3",
-   "detected_at": "2026-10-08 20:41:37",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Isaac_Jones_(basketball)"
-  },
-  {
-   "detail": "Danish Basketligaen BK Vejen 92, Vaerlose BBK 80",
-   "detected_at": "2026-10-08 20:01:30",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-08/Vaerlose-BBK-at-BK-Vejen/530313"
-  },
-  {
-   "detail": "Diamond Stone  ~ team: Marinos de Anzoátegui -> Free agent",
-   "detected_at": "2026-10-08 18:45:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Diamond_Stone"
-  },
-  {
-   "detail": "Diamond Stone  ~ league: Superliga Profesional de Baloncesto -> -",
-   "detected_at": "2026-10-08 18:45:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Diamond_Stone"
-  },
-  {
-   "detail": "Diamond Stone  ~ number: 34 -> -",
-   "detected_at": "2026-10-08 18:45:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Diamond_Stone"
-  },
-  {
-   "detail": "Diamond Stone  ~ CAREER  + 2026 Marinos de Anzoátegui",
-   "detected_at": "2026-10-08 18:45:38",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Diamond_Stone"
-  },
-  {
-   "detail": "Gabriele Procida  ~ CAREER  + 2019–2021 Pallacanestro Cantù",
-   "detected_at": "2026-10-08 18:45:38",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Gabriele_Procida"
-  },
-  {
-   "detail": "Davide Moretti  ~ CAREER  + 2023–2024 Pallacanestro Varese",
-   "detected_at": "2026-10-08 18:45:38",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Davide_Moretti"
-  },
-  {
-   "detail": "Davide Moretti  ~ CAREER  + 2026–present Pallacanestro Cantù",
-   "detected_at": "2026-10-08 18:45:38",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Davide_Moretti"
-  },
-  {
-   "detail": "Skal Labissière  ~ number: - -> 17",
-   "detected_at": "2026-10-08 17:58:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Skal_Labissi%C3%A8re"
-  },
-  {
-   "detail": "Michael Ružić  ~ number: - -> 32",
-   "detected_at": "2026-10-08 17:35:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Michael_Ru%C5%BEi%C4%87"
-  },
-  {
-   "detail": "Turkish TBL Harem Spor 74, Fenerbache Koleji 2nd Team 51",
-   "detected_at": "2026-10-08 16:58:43",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-07/Fenerbache-Koleji-2nd-Team-at-Harem-Spor/534744"
-  },
-  {
-   "detail": "Turkish TBL + Deniz Ulas Urunlu → Fenerbache Koleji 2nd Team",
-   "detected_at": "2026-10-08 16:58:42",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Turkish TBL + Doruk Yanci → Fenerbache Koleji 2nd Team",
-   "detected_at": "2026-10-08 16:58:42",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Turkish TBL + Yavuz Kara → Harem Spor",
-   "detected_at": "2026-10-08 16:58:42",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Eurocup + Sukhmail Mathon → BC Balkan",
-   "detected_at": "2026-10-08 16:58:39",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Eurocup + Pavlin Ivanov → BC Balkan",
-   "detected_at": "2026-10-08 16:58:39",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Eurocup Bahcesehir Koleji 101, BC Balkan 60",
-   "detected_at": "2026-10-08 16:58:39",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-07/Bahcesehir-Koleji-at-BC-Balkan/526699"
-  },
-  {
-   "detail": "PBA Governors Cup NLEX Road Warriors 138, Macau Black Knights 78",
-   "detected_at": "2026-10-08 16:58:36",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-07/Macau-Black-Knights-at-NLEX-Road-Warriors/526225"
-  },
-  {
-   "detail": "PBA Governors Cup + Oscar Lopez, Jr. → Macau Black Knights",
-   "detected_at": "2026-10-08 16:58:35",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "PBA Governors Cup + Zhengxin Zhang → Macau Black Knights",
-   "detected_at": "2026-10-08 16:58:35",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "PBA Governors Cup + Chon Pong Lao → Macau Black Knights",
-   "detected_at": "2026-10-08 16:58:35",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "PBA Governors Cup + Li-Sheng Chen → Macau Black Knights",
-   "detected_at": "2026-10-08 16:58:35",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "PBA Governors Cup + Deonte Burton → NLEX Road Warriors",
-   "detected_at": "2026-10-08 16:58:35",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "PBA Governors Cup + Joseph Matthew Nieto → NLEX Road Warriors",
-   "detected_at": "2026-10-08 16:58:35",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Eurocup Aris Midea Thessaloniki 93, Siblo San Pablo Burgos 80",
-   "detected_at": "2026-10-08 15:56:50",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-07/Siblo-San-Pablo-Burgos-at-Aris-Midea-Thessaloniki/526686"
-  },
-  {
-   "detail": "Eurocup + Lefteris Bochoridis → Aris Midea Thessaloniki",
-   "detected_at": "2026-10-08 15:56:49",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Anthony Hickey  ~ nationality: American -> -",
-   "detected_at": "2026-10-08 15:56:37",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Anthony_Hickey"
-  },
-  {
-   "detail": "Thanasis Antetokounmpo  ~ CAREER  + 2016–2017 Andorra",
-   "detected_at": "2026-10-08 15:10:39",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Thanasis_Antetokounmpo"
-  },
-  {
-   "detail": "Nick Johnson (basketball)  ~ number: - -> 0",
-   "detected_at": "2026-10-08 14:47:31",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Nick_Johnson_(basketball)"
-  },
-  {
-   "detail": "Mindaugas Kačinas  ~ number: - -> 13",
-   "detected_at": "2026-10-08 14:47:31",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Mindaugas_Ka%C4%8Dinas"
-  },
-  {
-   "detail": "Cameron Payne  ~ number: - -> 22",
-   "detected_at": "2026-10-08 14:21:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Cameron_Payne"
-  },
-  {
-   "detail": "Cameron Payne  ~ 57476: number -> -",
-   "detected_at": "2026-10-08 14:10:31",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "22"
-  },
-  {
-   "detail": "Speedy Smith  ~ number: - -> 44",
-   "detected_at": "2026-10-08 13:35:42",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Speedy_Smith"
-  },
-  {
-   "detail": "Basketball Champions League Europe AEK Athens 95, Salon Vilpas 93",
-   "detected_at": "2026-10-08 12:47:49",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-07/Salon-Vilpas-at-AEK-Athens/528603"
-  },
-  {
-   "detail": "Basketball Champions League Europe + Dimitrios Katsivelis → AEK Athens",
-   "detected_at": "2026-10-08 12:47:48",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Champions League Europe UCAM Murcia CB 85, OpenJobMetis Varese 58",
-   "detected_at": "2026-10-08 11:42:42",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-07/OpenJobMetis-Varese-at-UCAM-Murcia-CB/528601"
-  },
-  {
-   "detail": "Basketball Champions League Europe + Kaiser Gates → UCAM Murcia CB",
-   "detected_at": "2026-10-08 11:42:41",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Champions League Europe + Ruben Lopez → UCAM Murcia CB",
-   "detected_at": "2026-10-08 11:42:41",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "FIBA Europe Cup Chalon Sur Saone 79, Manchester Basketball 72",
-   "detected_at": "2026-10-08 11:42:38",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-07/Manchester-Basketball-at-Chalon-Sur-Saone/541934"
-  },
-  {
-   "detail": "FIBA Europe Cup ~ RETURN Riley Zizi → Chalon Sur Saone (from Espoirs Chalon Saone)",
-   "detected_at": "2026-10-08 11:42:37",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "FIBA Europe Cup Sporting Clube de Portugal 79, BC Rilski Sportist 75",
-   "detected_at": "2026-10-08 11:42:34",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-07/BC-Rilski-Sportist-at-Sporting-Clube-de-Portugal/541923"
-  },
-  {
-   "detail": "FIBA Europe Cup + Gustavo Teixeira → Sporting Clube de Portugal",
-   "detected_at": "2026-10-08 11:42:33",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "2026-10-06  Portland Trail Blazers waived guard Jaylen Martin.",
-   "detected_at": "2026-10-08 09:51:13",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
-  },
-  {
-   "detail": "Japanese BLeague Gunma Crane Thunders 76, Ryukyu Golden Kings 65",
-   "detected_at": "2026-10-08 09:36:35",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-08/Gunma-Crane-Thunders-at-Ryukyu-Golden-Kings/524283"
-  },
-  {
-   "detail": "Japanese BLeague Nagasaki Velca 74, Shinshu Brave Warriors 71",
-   "detected_at": "2026-10-08 09:36:32",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-08/Shinshu-Brave-Warriors-at-Nagasaki-Velca/524282"
-  },
-  {
-   "detail": "Japanese BLeague + Pablo Aguilar → Nagasaki Velca",
-   "detected_at": "2026-10-08 09:36:31",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Travis Leslie  ~ team: CS Maristes -> -",
-   "detected_at": "2026-10-08 08:54:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Travis_Leslie"
-  },
-  {
-   "detail": "Travis Leslie  ~ league: Lebanese Basketball League -> -",
-   "detected_at": "2026-10-08 08:54:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Travis_Leslie"
-  },
-  {
-   "detail": "Travis Leslie  ~ number: 59 -> -",
-   "detected_at": "2026-10-08 08:54:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Travis_Leslie"
-  },
-  {
-   "detail": "Travis Leslie  ~ career_end: - -> 2025",
-   "detected_at": "2026-10-08 08:54:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Travis_Leslie"
-  },
-  {
-   "detail": "Travis Leslie  ~ CAREER  + 2024–2025 CS Maristes",
-   "detected_at": "2026-10-08 08:54:38",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Travis_Leslie"
-  },
-  {
-   "detail": "Saliou Niang  ~ 174547: team -> -",
-   "detected_at": "2026-10-08 08:38:02",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "LSU Tigers"
-  },
-  {
-   "detail": "Saliou Niang  ~ 174547: league -> -",
-   "detected_at": "2026-10-08 08:38:02",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "SEC"
-  },
-  {
-   "detail": "Saliou Niang  ~ 174547: position -> -",
-   "detected_at": "2026-10-08 08:38:02",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "Small forward"
-  },
-  {
-   "detail": "Lithuanian NKL Olimpas Palangos 94, Kedainiu SC 75",
-   "detected_at": "2026-10-08 08:33:42",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-03/Olimpas-Palangos-at-Kedainiu-SC/544103"
-  },
-  {
-   "detail": "Lithuanian NKL + Emilis Maziliauskas → Olimpas Palangos",
-   "detected_at": "2026-10-08 08:33:41",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Lithuanian NKL + Laurynas Danielius → Kedainiu SC",
-   "detected_at": "2026-10-08 08:33:41",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Lithuanian NKL + Vainius Steponavicius → Kedainiu SC",
-   "detected_at": "2026-10-08 08:33:41",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Lithuanian NKL + Titas Augustavicius → Kedainiu SC",
-   "detected_at": "2026-10-08 08:33:41",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French Basketball Cup SO Maritime Boulogne 65, STB Le Havre 57",
-   "detected_at": "2026-10-08 08:33:35",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-05/STB-Le-Havre-at-SO-Maritime-Boulogne/541673"
-  },
-  {
-   "detail": "Argentinian Liga A Boca Juniors 96, Obera Tenis Club 73",
-   "detected_at": "2026-10-08 08:33:32",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-07/Obera-Tenis-Club-at-Boca-Juniors/539279"
-  },
-  {
-   "detail": "Argentinian Liga A + Will Vorhees → Obera Tenis Club",
-   "detected_at": "2026-10-08 08:33:31",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Argentinian Liga A + Agustin Brocal → Obera Tenis Club",
-   "detected_at": "2026-10-08 08:33:31",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Argentinian Liga A + Ty Prince → Obera Tenis Club",
-   "detected_at": "2026-10-08 08:33:31",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10454,12 +10460,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 9077,
-   "last": "2026-10-12 16:33:05"
+   "count": 9163,
+   "last": "2026-10-12 17:42:45"
   },
   "SCORES": {
-   "count": 1922,
-   "last": "2026-10-12 16:33:07"
+   "count": 1939,
+   "last": "2026-10-12 17:42:46"
   },
   "SHEETS": {
    "count": 4675,
@@ -10478,6 +10484,6 @@
    "last": "2026-10-12 16:06:10"
   }
  },
- "generated_at": "2026-10-12T17:33:02",
- "total": 28284
+ "generated_at": "2026-10-12T17:43:37",
+ "total": 28387
 }
