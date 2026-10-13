@@ -1,6 +1,48 @@
 {
  "events": [
   {
+   "detail": "NOL  - REMOVED Boston, Brandon",
+   "detected_at": "2026-10-13 11:44:59",
+   "source": "SHEETS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "NOL  - REMOVED Brooks Jr., Keion",
+   "detected_at": "2026-10-13 11:44:59",
+   "source": "SHEETS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "NOL  CHANGED Moore, Jalon  -  col3: - -> 1357763.0, col9: 0 -> 1357763",
+   "detected_at": "2026-10-13 11:44:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "NOL  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 219550828.9 -> 216274054.9, col9: 536798577.2 -> 533521803.2",
+   "detected_at": "2026-10-13 11:44:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "NOL  CHANGED Players Under Contract  -  col3: 198670470 -> 200028233",
+   "detected_at": "2026-10-13 11:44:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "NOL  CHANGED Full Season Contracts  -  col3: 198670470 -> 200028233",
+   "detected_at": "2026-10-13 11:44:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "NOL  CHANGED Cap Holds  -  col3: 20731530.9 -> 16096993.9",
+   "detected_at": "2026-10-13 11:44:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "NOL  + ADDED  Moore, Jalon",
    "detected_at": "2026-10-13 11:43:59",
    "source": "SHEETS",
@@ -10113,55 +10155,6 @@
    "detected_at": "2026-10-10 17:30:55",
    "source": "TRANSACTIONS",
    "type": "Signing"
-  },
-  {
-   "detail": "Spanish Segunda FEB Lobe Huesca La Magia 90, Reina Proteinas Clavijo 87",
-   "detected_at": "2026-10-10 17:25:29",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/Reina-Proteinas-Clavijo-at-Lobe-Huesca-La-Magia/527766"
-  },
-  {
-   "detail": "Spanish Segunda FEB + Zion Williams → Lobe Huesca La Magia",
-   "detected_at": "2026-10-10 17:25:28",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Slovenian SKL Gorica 80, Rogaska Crystal 67",
-   "detected_at": "2026-10-10 17:25:26",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/Gorica-at-Rogaska-Crystal/537241"
-  },
-  {
-   "detail": "French LNB Espoirs Espoirs Paris Basketball 80, Espoirs Strasbourg 78",
-   "detected_at": "2026-10-10 17:25:22",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/Espoirs-Strasbourg-at-Espoirs-Paris-Basketball/537594"
-  },
-  {
-   "detail": "French LNB Espoirs ~ RETURN Miguell Nguidjol → Espoirs Strasbourg (from Strasbourg IG)",
-   "detected_at": "2026-10-10 17:25:21",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "French LNB Espoirs + Mohamed Ndiaye → Espoirs Strasbourg",
-   "detected_at": "2026-10-10 17:25:21",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French LNB Espoirs ~ RETURN Yenge Diangitukwa → Espoirs Strasbourg (from Strasbourg IG)",
-   "detected_at": "2026-10-10 17:25:21",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10190,8 +10183,8 @@
    "last": "2026-10-13 11:33:02"
   },
   "SHEETS": {
-   "count": 4766,
-   "last": "2026-10-13 11:43:59"
+   "count": 4773,
+   "last": "2026-10-13 11:44:59"
   },
   "TRANSACTIONS": {
    "count": 506,
@@ -10206,6 +10199,6 @@
    "last": "2026-10-12 16:06:10"
   }
  },
- "generated_at": "2026-10-13T11:44:02",
- "total": 28811
+ "generated_at": "2026-10-13T11:45:03",
+ "total": 28818
 }
