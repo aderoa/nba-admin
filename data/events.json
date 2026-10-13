@@ -1,6 +1,42 @@
 {
  "events": [
   {
+   "detail": "2026-27 Rookie Signings  - REMOVED Chris Mantis Indiana Pacers",
+   "detected_at": "2026-10-13 12:53:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Chris Mantis Dallas Mavericks",
+   "detected_at": "2026-10-13 12:53:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  - REMOVED Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
+   "detected_at": "2026-10-13 12:53:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  - REMOVED Execution Date: 9/18/26",
+   "detected_at": "2026-10-13 12:53:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($45,000).",
+   "detected_at": "2026-10-13 12:53:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 10/12/26",
+   "detected_at": "2026-10-13 12:53:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "2026-27 Rookie Signings  + ADDED  Chris Mantis Indiana Pacers",
    "detected_at": "2026-10-13 12:52:56",
    "source": "DOCS",
@@ -10042,53 +10078,12 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Cameron_Young_(basketball)"
-  },
-  {
-   "detail": "Cameron Young (basketball)  ~ number: - -> 1",
-   "detected_at": "2026-10-11 09:25:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Cameron_Young_(basketball)"
-  },
-  {
-   "detail": "Cameron Young (basketball)  ~ CAREER  + 2026–present Xinjiang Flying Tigers",
-   "detected_at": "2026-10-11 09:25:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Cameron_Young_(basketball)"
-  },
-  {
-   "detail": "2026-07-01  Two-Way Signing: Colin Castleton (Magic)",
-   "detected_at": "2026-10-11 09:18:24",
-   "source": "GLEAGUE",
-   "type": "Two-Way Signing"
-  },
-  {
-   "detail": "French NM1 FC Mulhouse Basket 83, BC Orchies 63",
-   "detected_at": "2026-10-10 23:00:53",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/BC-Orchies-at-FC-Mulhouse-Basket/535148"
-  },
-  {
-   "detail": "Macedonian Superleague KK Kumanovo 70, KK Stip 59",
-   "detected_at": "2026-10-10 23:00:50",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/KK-Stip-at-KK-Kumanovo/540918"
-  },
-  {
-   "detail": "Macedonian Superleague + Jay Pal → KK Stip",
-   "detected_at": "2026-10-10 23:00:49",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 3741,
-   "last": "2026-10-13 12:52:56"
+   "count": 3747,
+   "last": "2026-10-13 12:53:56"
   },
   "GLEAGUE": {
    "count": 177,
@@ -10127,6 +10122,6 @@
    "last": "2026-10-12 16:06:10"
   }
  },
- "generated_at": "2026-10-13T12:53:03",
- "total": 28931
+ "generated_at": "2026-10-13T12:54:03",
+ "total": 28937
 }
