@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "2026-10-10  Washington Wizards waived forward Skal Labissiere.",
+   "detected_at": "2026-10-13 15:00:55",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
    "detail": "Ethan Thompson  ~ 88903: position -> Shooting guard / small forward",
    "detected_at": "2026-10-13 14:54:34",
    "source": "WIKIWATCH",
@@ -10058,13 +10064,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Georgian Super Liga + Courvoisier McCauley → Amra Gagra Akhaltsikhe",
-   "detected_at": "2026-10-11 09:26:02",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10097,8 +10096,8 @@
    "last": "2026-10-13 12:55:59"
   },
   "TRANSACTIONS": {
-   "count": 506,
-   "last": "2026-10-12 15:27:55"
+   "count": 507,
+   "last": "2026-10-13 15:00:55"
   },
   "WIKI": {
    "count": 5618,
@@ -10109,6 +10108,6 @@
    "last": "2026-10-13 14:54:34"
   }
  },
- "generated_at": "2026-10-13T15:00:04",
- "total": 28961
+ "generated_at": "2026-10-13T15:01:03",
+ "total": 28962
 }
