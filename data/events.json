@@ -1,6 +1,30 @@
 {
  "events": [
   {
+   "detail": "NOL  + ADDED  Moore, Jalon",
+   "detected_at": "2026-10-13 11:43:59",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "NOL  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 16 -> 17",
+   "detected_at": "2026-10-13 11:43:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "WAS  + ADDED  Williams, Alondes",
+   "detected_at": "2026-10-13 11:43:59",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "WAS  - REMOVED Williams, Alondres",
+   "detected_at": "2026-10-13 11:43:59",
+   "source": "SHEETS",
+   "type": "REMOVED"
+  },
+  {
    "detail": "2026-27 Veteran Signings  - REMOVED 26-27 $2,185,116",
    "detected_at": "2026-10-13 11:42:56",
    "source": "DOCS",
@@ -10138,34 +10162,6 @@
    "source": "REALGM",
    "type": "RETURN",
    "url": ""
-  },
-  {
-   "detail": "French LNB Espoirs Espoirs Asvel 74, Espoirs Roanne 63",
-   "detected_at": "2026-10-10 17:25:19",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/Espoirs-Roanne-at-Espoirs-Asvel/537593"
-  },
-  {
-   "detail": "French LNB Espoirs ~ RETURN Anthony Bria → Espoirs Roanne (from Chorale Roanne Basket)",
-   "detected_at": "2026-10-10 17:25:18",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "French LNB Espoirs + Pape-Djibril Diouf → Espoirs Asvel",
-   "detected_at": "2026-10-10 17:25:18",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French LNB Espoirs Espoirs Bourg en Bresse 104, Espoirs Boulazac 93",
-   "detected_at": "2026-10-10 17:25:15",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/Espoirs-Bourg-en-Bresse-at-Espoirs-Boulazac/537591"
   }
  ],
  "feeds": {
@@ -10194,8 +10190,8 @@
    "last": "2026-10-13 11:33:02"
   },
   "SHEETS": {
-   "count": 4762,
-   "last": "2026-10-13 11:41:59"
+   "count": 4766,
+   "last": "2026-10-13 11:43:59"
   },
   "TRANSACTIONS": {
    "count": 506,
@@ -10210,6 +10206,6 @@
    "last": "2026-10-12 16:06:10"
   }
  },
- "generated_at": "2026-10-13T11:43:05",
- "total": 28807
+ "generated_at": "2026-10-13T11:44:02",
+ "total": 28811
 }
