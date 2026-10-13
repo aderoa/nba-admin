@@ -1,6 +1,588 @@
 {
  "events": [
   {
+   "detail": "~ CHANGED Tarik Biberovic  height: 6-7 -> 6-6",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Dwight Powell  height: 6-10 -> 6-11",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED James Harden  height: 6-5 -> 6-4",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Dillon Mitchell  height: 6-8 -> 6-6",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Dillon Mitchell  weight: 205 -> 200",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Michael Porter Jr.  weight: 218 -> 232",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Thomas Bryant  weight: 248 -> 260",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Jordan Hawkins  height: 6-5 -> 6-4",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Nolan Traore  height: 6-3 -> 6-4",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Nolan Traore  weight: 185 -> 190",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Derrick White  weight: 190 -> 200",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Cameron Corhen  height: 6-10 -> 6-9",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Evan Mobley  weight: 215 -> 230",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Evan Mobley  school: Southern California -> USC",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Mikel Brown Jr.  height: 6-5 -> 6-4",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Bogdan Bogdanovic  name: Bogdan Bogdanović -> Bogdan Bogdanovic",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Devin Carter  weight: 195 -> 199",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Buddy Hield  height: 6-4 -> 6-5",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Norman Powell  height: 6-3 -> 6-4",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Grant Nelson  height: 7-0 -> 6-10",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Grant Nelson  weight: 215 -> 240",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Kingston Flemings  height: 6-4 -> 6-3",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Sam Merrill  weight: 205 -> 195",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Sergio de Larrea  height: 6-5 -> 6-6",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Ben Saraf  height: 6-6 -> 6-5",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Ben Saraf  weight: 200 -> 212",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Luka Garza  weight: 243 -> 252",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Mario Hezonja  weight: 220 -> 255",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Jaylin Sellers  height: - -> 6-4",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Hannes Steinbach  height: 6-11 -> 6-10",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Hannes Steinbach  weight: - -> 248",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Peyton Watson  height: 6-8 -> 6-7",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Peyton Watson  weight: 200 -> 215",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Grayson Allen  height: 6-3 -> 6-4",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Josh Minott  height: 6-8 -> 6-9",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Josh Minott  weight: 205 -> 215",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Jalen Smith  height: 6-8 -> 6-9",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Wyatt Fricks  position: - -> F",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Wyatt Fricks  height: - -> 6-9",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Cooper Flagg  height: 6-9 -> 6-10",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Zuby Ejiofor  height: 6-9 -> 6-8",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Mike Conley  height: 6-1 -> 6-0",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Mike Conley  weight: 175 -> 182",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Ron Harper Jr.  weight: 233 -> 231",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Ernest Udeh, Jr.  height: 6-11 -> 6-9",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Henri Veesaar  height: 7-0 -> 6-11",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Marcus Sasser  height: 6-1 -> 6-2",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Moritz Wagner  weight: 245 -> 255",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Jarrett Allen  weight: 243 -> 250",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Aday Mara  height: 7-2 -> 7-3",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Joshua Jefferson  height: 6-9 -> 6-8",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Joshua Jefferson  weight: 240 -> 250",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED De'Anthony Melton  school: Southern California -> USC",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Craig Porter Jr.  weight: 180 -> 194",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Danny Wolf  weight: 250 -> 256",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Mitchell Robinson  weight: 240 -> 245",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Asa Newell  height: 6-10 -> 6-9",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Meleek Thomas  height: 6-5 -> 6-3",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Meleek Thomas  weight: 185 -> 190",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Julius Randle  weight: 250 -> 256",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Tyler Bilodeau  height: 6-9 -> 6-8",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Tobi Lawal  height: 6-8 -> 6-7",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED CJ McCollum  height: 6-3 -> 6-2",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Isaac Okoro  height: 6-4 -> 6-6",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Jayson Tatum  weight: 210 -> 229",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Oscar Tshiebwe  country: DRC -> Democratic Republic of the Congo",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Jaylon Tyson  weight: 215 -> 224",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Keshon Gilbert  height: 6-4 -> 6-3",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Payton Pritchard  weight: 195 -> 212",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Egor Dëmin  height: 6-8 -> 6-9",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Egor Dëmin  weight: 200 -> 212",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Dailyn Swain  height: 6-7 -> 6-6",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Matas Buzelis  height: 6-8 -> 6-9",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Noah Clowney  weight: 210 -> 240",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Josh Giddey  height: 6-7 -> 6-8",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Noa Essengue  height: 6-8 -> 6-9",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Christian Anderson  height: 6-0 -> 6-1",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED P.J. Washington  height: 6-7 -> 6-6",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Jordan Walsh  weight: 205 -> 210",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Coby White  height: 6-4 -> 6-5",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Morez Johnson Jr.  height: 6-9 -> 6-10",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Neemias Queta  weight: 248 -> 270",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Keon Ellis  weight: 175 -> 180",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Patrick Williams  height: 6-6 -> 6-7",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Terance Mann  height: 6-6 -> 6-5",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Terance Mann  weight: 215 -> 220",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Baylor Scheierman  weight: 205 -> 213",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Liam McNeeley  height: 6-7 -> 6-8",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Jonathan Mogbo  number: 2 -> 22",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Chaney Johnson  weight: 220 -> 235",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED PJ Hall  height: 6-8 -> 6-9",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Khalifa Diop  height: 6-11 -> 6-10",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Amari Williams  weight: 250 -> 269",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Donovan Mitchell  weight: 215 -> 228",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Drake Powell  height: 6-5 -> 6-6",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Drake Powell  weight: 195 -> 212",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Kylan Boswell  height: 6-2 -> 6-1",
+   "detected_at": "2026-10-13 10:27:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "2026-27 Rookie Signings  - REMOVED Mohamed Utah Jazz",
    "detected_at": "2026-10-13 08:51:56",
    "source": "DOCS",
@@ -9614,685 +10196,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Rodrigo Gomez → Class Basquet Sant Antoni",
-   "detected_at": "2026-10-10 17:24:23",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Anton Lindqvist → Class Basquet Sant Antoni",
-   "detected_at": "2026-10-10 17:24:23",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Isaac Valera → Sol Girones Bisbal Basquet",
-   "detected_at": "2026-10-10 17:24:23",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Leeroy Odiahi → Sol Girones Bisbal Basquet",
-   "detected_at": "2026-10-10 17:24:23",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Primera FEB CB Granada 91, Grupo Ureta Tizona Burgos 88",
-   "detected_at": "2026-10-10 17:24:20",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/Grupo-Ureta-Tizona-Burgos-at-CB-Granada/532878"
-  },
-  {
-   "detail": "Japanese BLeague Hiroshima Dragonflies 111, Shiga Lakestars 105",
-   "detected_at": "2026-10-10 17:24:15",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/Shiga-Lakestars-at-Hiroshima-Dragonflies/524294"
-  },
-  {
-   "detail": "Japanese BLeague Nagasaki Velca 70, Gunma Crane Thunders 59",
-   "detected_at": "2026-10-10 17:24:12",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/Gunma-Crane-Thunders-at-Nagasaki-Velca/524295"
-  },
-  {
-   "detail": "Sindarius Thornwell  ~ number: - -> 3",
-   "detected_at": "2026-10-10 16:59:41",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Sindarius_Thornwell"
-  },
-  {
-   "detail": "Spanish Primera FEB Palencia Baloncesto 91, Basquet Menorca 76",
-   "detected_at": "2026-10-10 16:22:49",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/Basquet-Menorca-at-Palencia-Baloncesto/532877"
-  },
-  {
-   "detail": "Spanish Primera FEB + Manuel Garcia → Basquet Menorca",
-   "detected_at": "2026-10-10 16:22:48",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Primera FEB + Izan Pons → Basquet Menorca",
-   "detected_at": "2026-10-10 16:22:48",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "BNXT League Okapi Aalstar 94, Kangoeroes Basket Willebroek 79",
-   "detected_at": "2026-10-10 16:22:45",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/Okapi-Aalstar-at-Kangoeroes-Basket-Willebroek/527583"
-  },
-  {
-   "detail": "BNXT League + Leander Dedroog → Kangoeroes Basket Willebroek",
-   "detected_at": "2026-10-10 16:22:44",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "BNXT League Port of Antwerp Giants 113, Kortrijk Spurs 106",
-   "detected_at": "2026-10-10 16:22:41",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/Kortrijk-Spurs-at-Port-of-Antwerp-Giants/527580"
-  },
-  {
-   "detail": "French LNB Espoirs Espoirs Nanterre 79, Espoirs Gravelines Dunkerque 71",
-   "detected_at": "2026-10-10 16:22:38",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/Espoirs-Gravelines-Dunkerque-at-Espoirs-Nanterre/537589"
-  },
-  {
-   "detail": "French LNB Espoirs + Silly Traore → Espoirs Nanterre",
-   "detected_at": "2026-10-10 16:22:37",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French LNB Espoirs + Marko Bardic → Espoirs Nanterre",
-   "detected_at": "2026-10-10 16:22:37",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French LNB Espoirs Espoirs Cholet 106, Espoirs Pau Lacq Orthez 72",
-   "detected_at": "2026-10-10 16:22:34",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/Espoirs-Pau-Lacq-Orthez-at-Espoirs-Cholet/537588"
-  },
-  {
-   "detail": "French LNB Espoirs ~ RETURN Nils Lobry-Pathout → Espoirs Cholet (from Cholet Basket)",
-   "detected_at": "2026-10-10 16:22:33",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "French LNB Espoirs + Colin Beillard → Espoirs Cholet",
-   "detected_at": "2026-10-10 16:22:33",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "BNXT League Basic Fit Brussels Basketball 77, ZZ Leiden 61",
-   "detected_at": "2026-10-10 16:22:31",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/Basic-Fit-Brussels-Basketball-at-ZZ-Leiden/527581"
-  },
-  {
-   "detail": "BNXT League + Loek Van Zeil → ZZ Leiden",
-   "detected_at": "2026-10-10 16:22:30",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "BNXT League + Jesper Beelen → ZZ Leiden",
-   "detected_at": "2026-10-10 16:22:30",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French Jeep Elite Chalon Sur Saone 108, Nancy Basket 67",
-   "detected_at": "2026-10-10 16:22:27",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/Nancy-Basket-at-Chalon-Sur-Saone/538581"
-  },
-  {
-   "detail": "French Jeep Elite ~ MOVED Kany N'Kouka → Nancy Basket (from Espoirs Nancy)",
-   "detected_at": "2026-10-10 16:22:26",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
-  },
-  {
-   "detail": "French Jeep Elite Nanterre 92 101, BCM Gravelines 73",
-   "detected_at": "2026-10-10 16:22:23",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/BCM-Gravelines-at-Nanterre-92/538580"
-  },
-  {
-   "detail": "French Jeep Elite Cholet Basket 85, Pau Orthez 79",
-   "detected_at": "2026-10-10 16:22:20",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/Pau-Orthez-at-Cholet-Basket/538579"
-  },
-  {
-   "detail": "French Jeep Elite Boulazac Basket Dordogne 84, JL Bourg en Bresse 73",
-   "detected_at": "2026-10-10 16:22:16",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/JL-Bourg-en-Bresse-at-Boulazac-Basket-Dordogne/538582"
-  },
-  {
-   "detail": "French Jeep Elite + Tyger Campbell → JL Bourg en Bresse",
-   "detected_at": "2026-10-10 16:22:15",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Austrian A Bundesliga ece bulls Kapfenberg 92, Redwell Gunners Oberwart 80",
-   "detected_at": "2026-10-10 16:22:13",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/ece-bulls-Kapfenberg-at-Redwell-Gunners-Oberwart/527368"
-  },
-  {
-   "detail": "Japanese BLeague + Michiya Nakajima → Kobe Storks",
-   "detected_at": "2026-10-10 16:22:09",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague Saga Ballooners 84, Kobe Storks 77",
-   "detected_at": "2026-10-10 16:22:09",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/Saga-Ballooners-at-Kobe-Storks/524293"
-  },
-  {
-   "detail": "VTB Youth United League Avtodor 2 65, Uralmash 2 60",
-   "detected_at": "2026-10-10 15:21:06",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/Avtodor-2-at-Uralmash-2/543398"
-  },
-  {
-   "detail": "Bosnian BiH Liga KK Igman Burch Ilidza 91, KK Mladost 77",
-   "detected_at": "2026-10-10 15:21:02",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/KK-Mladost-at-KK-Igman-Burch-Ilidza/540595"
-  },
-  {
-   "detail": "Bosnian BiH Liga + Milos Suput → KK Mladost",
-   "detected_at": "2026-10-10 15:21:01",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Bosnian BiH Liga + Benjamin Pepic → KK Igman Burch Ilidza",
-   "detected_at": "2026-10-10 15:21:01",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "VTB Youth United League Parma 2 85, Samara 2 65",
-   "detected_at": "2026-10-10 15:20:59",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/Samara-2-at-Parma-2/543397"
-  },
-  {
-   "detail": "VTB Youth United League Khimki 2 88, Dynamo M2 80",
-   "detected_at": "2026-10-10 15:20:55",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/Khimki-2-at-Dynamo-M2/543400"
-  },
-  {
-   "detail": "VTB Youth United League + Gleb Pavlov → Dynamo M2",
-   "detected_at": "2026-10-10 15:20:54",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Bosnian BiH Liga OKK Sloboda Tuzla 95, Basket Zivinice 82",
-   "detected_at": "2026-10-10 15:20:51",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/OKK-Sloboda-Tuzla-at-Basket-Zivinice/540592"
-  },
-  {
-   "detail": "Bosnian BiH Liga + Balsa Ilic → OKK Sloboda Tuzla",
-   "detected_at": "2026-10-10 15:20:50",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Bosnian BiH Liga + Ado Korkutovic → Basket Zivinice",
-   "detected_at": "2026-10-10 15:20:50",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Bosnian BiH Liga + Vladimir Vujicic → Basket Zivinice",
-   "detected_at": "2026-10-10 15:20:50",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "VTB Youth United League Zenit 2 107, Yenisei 2 39",
-   "detected_at": "2026-10-10 15:20:47",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/Yenisei-2-at-Zenit-2/543402"
-  },
-  {
-   "detail": "VTB Youth United League + Ilya Baranov → Zenit 2",
-   "detected_at": "2026-10-10 15:20:46",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "VTB Youth United League + Dmitry Chikishev → Zenit 2",
-   "detected_at": "2026-10-10 15:20:46",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga KK Cibona 73, Samobor 64",
-   "detected_at": "2026-10-10 14:11:08",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-09/KK-Cibona-at-Samobor/535695"
-  },
-  {
-   "detail": "Croatian A 1 Liga + Mario Kresic → Samobor",
-   "detected_at": "2026-10-10 14:11:07",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "South Korean KBL Wonju Dongbu Promy 85, Jeonju KCC Egis 79",
-   "detected_at": "2026-10-10 14:11:03",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/Wonju-Dongbu-Promy-at-Jeonju-KCC-Egis/530362"
-  },
-  {
-   "detail": "South Korean KBL Korea Gas Corporation 81, Ulsan Mobis Phoebus 75",
-   "detected_at": "2026-10-10 14:11:00",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/Korea-Gas-Corporation-at-Ulsan-Mobis-Phoebus/530363"
-  },
-  {
-   "detail": "South Korean KBL + Dong-Hyun Woo → Korea Gas Corporation",
-   "detected_at": "2026-10-10 14:10:59",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga KK Dubrovnik 92, KK Zabok 79",
-   "detected_at": "2026-10-10 14:10:56",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/KK-Zabok-at-KK-Dubrovnik/535697"
-  },
-  {
-   "detail": "Croatian A 1 Liga + Toncl Lisica → KK Zabok",
-   "detected_at": "2026-10-10 14:10:55",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga KK Split 86, KK Dubrava Zagreb 62",
-   "detected_at": "2026-10-10 14:10:53",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/KK-Split-at-KK-Dubrava-Zagreb/535696"
-  },
-  {
-   "detail": "VTB United League Parma Basket Perm 86, Uralmash 71",
-   "detected_at": "2026-10-10 14:10:49",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/Parma-Basket-Perm-at-Uralmash/533289"
-  },
-  {
-   "detail": "VTB United League + Timofei Gerasimov → Uralmash",
-   "detected_at": "2026-10-10 14:10:48",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague Toyota Alvark 94, Kawasaki Brave Thunders 82",
-   "detected_at": "2026-10-10 14:10:45",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/Toyota-Alvark-at-Kawasaki-Brave-Thunders/524291"
-  },
-  {
-   "detail": "Japanese BLeague Sanen Neophoenix 83, Shinshu Brave Warriors 81",
-   "detected_at": "2026-10-10 14:10:41",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/Sanen-Neophoenix-at-Shinshu-Brave-Warriors/524292"
-  },
-  {
-   "detail": "Japanese BLeague Ryukyu Golden Kings 90, Shimane Susanoo Magic 69",
-   "detected_at": "2026-10-10 14:10:37",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/Shimane-Susanoo-Magic-at-Ryukyu-Golden-Kings/524296"
-  },
-  {
-   "detail": "Japanese BLeague + Ryunosuke Satori → Ryukyu Golden Kings",
-   "detected_at": "2026-10-10 14:10:36",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS KK Sloboda Uzice 101, KK Sloga 81",
-   "detected_at": "2026-10-10 13:07:21",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-04/KK-Sloga-at-KK-Sloboda-Uzice/544111"
-  },
-  {
-   "detail": "Serbian KLS + Braelon Bush → KK Sloga",
-   "detected_at": "2026-10-10 13:07:20",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Matija Milosevic → KK Sloga",
-   "detected_at": "2026-10-10 13:07:20",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Nikola Pavic → KK Sloga",
-   "detected_at": "2026-10-10 13:07:20",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Lazar Tasic → KK Sloga",
-   "detected_at": "2026-10-10 13:07:20",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Bogdan Savic → KK Sloga",
-   "detected_at": "2026-10-10 13:07:20",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Cardell Bailey → KK Sloga",
-   "detected_at": "2026-10-10 13:07:20",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Ognjen Kalicanin → KK Sloga",
-   "detected_at": "2026-10-10 13:07:20",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Christian Nsude → KK Sloga",
-   "detected_at": "2026-10-10 13:07:20",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Aleksandar Kartalovic → KK Sloga",
-   "detected_at": "2026-10-10 13:07:20",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Vuk Vasic → KK Sloga",
-   "detected_at": "2026-10-10 13:07:20",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Petar Bogicevic → KK Sloboda Uzice",
-   "detected_at": "2026-10-10 13:07:20",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Aleksa Cubic → KK Sloboda Uzice",
-   "detected_at": "2026-10-10 13:07:20",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Dusan Kutlesic → KK Sloboda Uzice",
-   "detected_at": "2026-10-10 13:07:20",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Stefan Dabovic → KK Sloboda Uzice",
-   "detected_at": "2026-10-10 13:07:20",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Stefan Milovanovic → KK Sloboda Uzice",
-   "detected_at": "2026-10-10 13:07:20",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Filip Citic → KK Sloboda Uzice",
-   "detected_at": "2026-10-10 13:07:20",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Vasilije Jovanovic → KK Sloboda Uzice",
-   "detected_at": "2026-10-10 13:07:20",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Dimitrije Kondic → KK Sloboda Uzice",
-   "detected_at": "2026-10-10 13:07:20",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Nana Opoku → KK Sloboda Uzice",
-   "detected_at": "2026-10-10 13:07:20",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Ruot Bijiek → KK Sloboda Uzice",
-   "detected_at": "2026-10-10 13:07:20",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Petar Milosavcevic → KK Sloboda Uzice",
-   "detected_at": "2026-10-10 13:07:20",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Carrington Wiggins → KK Sloboda Uzice",
-   "detected_at": "2026-10-10 13:07:20",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS Borac Zemun 86, KK Tamis 70",
-   "detected_at": "2026-10-10 13:07:17",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-04/Borac-Zemun-at-KK-Tamis/544112"
-  },
-  {
-   "detail": "Serbian KLS + Fahrudin Manjgafic → Borac Zemun",
-   "detected_at": "2026-10-10 13:07:16",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Miloje Susic → Borac Zemun",
-   "detected_at": "2026-10-10 13:07:16",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Bosko Bumbic → Borac Zemun",
-   "detected_at": "2026-10-10 13:07:16",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Avery Huggins → Borac Zemun",
-   "detected_at": "2026-10-10 13:07:16",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Aleksandar Nikolic → Borac Zemun",
-   "detected_at": "2026-10-10 13:07:16",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Nemanja Nikolic → Borac Zemun",
-   "detected_at": "2026-10-10 13:07:16",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Lazar Trifkovic → Borac Zemun",
-   "detected_at": "2026-10-10 13:07:16",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Vid Krunic → Borac Zemun",
-   "detected_at": "2026-10-10 13:07:16",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Matija Stamenic → Borac Zemun",
-   "detected_at": "2026-10-10 13:07:16",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Jovan Mitrovic → Borac Zemun",
-   "detected_at": "2026-10-10 13:07:16",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Petar Jurlina → Borac Zemun",
-   "detected_at": "2026-10-10 13:07:16",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Wyatt Helming → Borac Zemun",
-   "detected_at": "2026-10-10 13:07:16",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Balsa Dragovic → KK Tamis",
-   "detected_at": "2026-10-10 13:07:16",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10305,8 +10208,8 @@
    "last": "2026-10-11 09:18:24"
   },
   "PLAYERS": {
-   "count": 1459,
-   "last": "2026-10-12 16:40:54"
+   "count": 1556,
+   "last": "2026-10-13 10:27:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10337,6 +10240,6 @@
    "last": "2026-10-12 16:06:10"
   }
  },
- "generated_at": "2026-10-13T10:27:07",
- "total": 28671
+ "generated_at": "2026-10-13T10:28:02",
+ "total": 28768
 }
