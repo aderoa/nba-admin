@@ -1,6 +1,391 @@
 {
  "events": [
   {
+   "detail": "FIBA Europe Cup BC Hallmann Vienna 96, King Szczecin 93",
+   "detected_at": "2026-10-13 12:34:32",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-13/King-Szczecin-at-BC-Hallmann-Vienna/542017"
+  },
+  {
+   "detail": "FIBA Europe Cup BC Prievidza 108, Landau Lions 84",
+   "detected_at": "2026-10-13 12:34:28",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-13/Landau-Lions-at-BC-Prievidza/542026"
+  },
+  {
+   "detail": "FIBA Europe Cup + Jakub Mokran → BC Prievidza",
+   "detected_at": "2026-10-13 12:34:26",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "FIBA Europe Cup CS Dinamo Bucuresti 93, NHSZ Szolnoki Olajbanyasz 76",
+   "detected_at": "2026-10-13 12:34:24",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-13/NHSZ-Szolnoki-Olajbanyasz-at-CS-Dinamo-Bucuresti/542009"
+  },
+  {
+   "detail": "FIBA Europe Cup Kolossos Rodou BC 80, Gence BC 62",
+   "detected_at": "2026-10-13 12:34:20",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-13/Kolossos-Rodou-BC-at-Gence-BC/542015"
+  },
+  {
+   "detail": "FIBA Europe Cup + Bakary Camara → Gence BC",
+   "detected_at": "2026-10-13 12:34:19",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "FIBA Europe Cup + Isaiah Todd → Gence BC",
+   "detected_at": "2026-10-13 12:34:19",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "+ ADDED   Zach Cleveland (MEM)",
+   "detected_at": "2026-10-13 12:33:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "+ ADDED   Darin Green Jr. (DAL)",
+   "detected_at": "2026-10-13 12:33:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "+ ADDED   Chris Mantis (DAL)",
+   "detected_at": "2026-10-13 12:33:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "~ CHANGED Moses Moody  weight: 215 -> 217",
+   "detected_at": "2026-10-13 12:33:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Sean Pedulla  weight: 195 -> 197",
+   "detected_at": "2026-10-13 12:33:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Gui Santos  weight: 218 -> 225",
+   "detected_at": "2026-10-13 12:33:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Yaxel Lendeborg  weight: 241 -> 247",
+   "detected_at": "2026-10-13 12:33:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Stephen Curry  weight: 200 -> 205",
+   "detected_at": "2026-10-13 12:33:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Fred VanVleet  weight: 197 -> 213",
+   "detected_at": "2026-10-13 12:33:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Rienk Mast  height: 6-10 -> 6-9",
+   "detected_at": "2026-10-13 12:33:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Georges Niang  height: 6-6 -> 6-7",
+   "detected_at": "2026-10-13 12:33:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Georges Niang  weight: 230 -> 245",
+   "detected_at": "2026-10-13 12:33:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Chaz Lanier  height: 6-3 -> 6-4",
+   "detected_at": "2026-10-13 12:33:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED James Johnson  height: 6-7 -> 6-8",
+   "detected_at": "2026-10-13 12:33:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Amen Thompson  weight: 200 -> 227",
+   "detected_at": "2026-10-13 12:33:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Brandin Podziemski  weight: 205 -> 208",
+   "detected_at": "2026-10-13 12:33:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Draymond Green  weight: 235 -> 240",
+   "detected_at": "2026-10-13 12:33:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Gary Payton II  weight: 195 -> 192",
+   "detected_at": "2026-10-13 12:33:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED LJ Cryer  weight: 202 -> 197",
+   "detected_at": "2026-10-13 12:33:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Bogdan Bogdanović  name: Bogdan Bogdanovic -> Bogdan Bogdanović",
+   "detected_at": "2026-10-13 12:33:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Bogdan Bogdanović  weight: 225 -> 231",
+   "detected_at": "2026-10-13 12:33:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Quadir Copeland  height: 6-6 -> 6-5",
+   "detected_at": "2026-10-13 12:33:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Quadir Copeland  weight: 203 -> 214",
+   "detected_at": "2026-10-13 12:33:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Alperen Sengun  weight: 243 -> 271",
+   "detected_at": "2026-10-13 12:33:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Kelly Oubre Jr.  height: 6-8 -> 6-7",
+   "detected_at": "2026-10-13 12:33:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Malevy Leons  weight: 210 -> 206",
+   "detected_at": "2026-10-13 12:33:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Jabari Smith Jr.  weight: 220 -> 231",
+   "detected_at": "2026-10-13 12:33:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Evan Mobley  school: USC -> Southern California",
+   "detected_at": "2026-10-13 12:33:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Reed Sheppard  weight: 185 -> 189",
+   "detected_at": "2026-10-13 12:33:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Larry Nance Jr.  height: 6-6 -> 6-8",
+   "detected_at": "2026-10-13 12:33:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Pascal Siakam  height: 6-8 -> 6-9",
+   "detected_at": "2026-10-13 12:33:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Isaiah Crawford  weight: 220 -> 225",
+   "detected_at": "2026-10-13 12:33:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Charles Bassey  height: 6-10 -> 6-9",
+   "detected_at": "2026-10-13 12:33:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Charles Bassey  weight: 230 -> 244",
+   "detected_at": "2026-10-13 12:33:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Alex Toohey  weight: 223 -> 217",
+   "detected_at": "2026-10-13 12:33:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Steven Adams  weight: 265 -> 279",
+   "detected_at": "2026-10-13 12:33:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Will Richard  weight: 210 -> 207",
+   "detected_at": "2026-10-13 12:33:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Tari Eason  weight: 215 -> 229",
+   "detected_at": "2026-10-13 12:33:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Kevin Durant  weight: 240 -> 234",
+   "detected_at": "2026-10-13 12:33:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Graham Ike  height: 6-9 -> 6-10",
+   "detected_at": "2026-10-13 12:33:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Graham Ike  weight: 245 -> 257",
+   "detected_at": "2026-10-13 12:33:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Tyus Jones  height: 6-0 -> 6-1",
+   "detected_at": "2026-10-13 12:33:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED De'Anthony Melton  weight: 201 -> 199",
+   "detected_at": "2026-10-13 12:33:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED De'Anthony Melton  school: USC -> Southern California",
+   "detected_at": "2026-10-13 12:33:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Brandon Williams  weight: 190 -> 185",
+   "detected_at": "2026-10-13 12:33:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Julian Phillips  height: 6-6 -> 6-7",
+   "detected_at": "2026-10-13 12:33:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Julian Phillips  weight: 201 -> 205",
+   "detected_at": "2026-10-13 12:33:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Oscar Tshiebwe  weight: 255 -> 270",
+   "detected_at": "2026-10-13 12:33:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Oscar Tshiebwe  country: Democratic Republic of the Congo -> DRC",
+   "detected_at": "2026-10-13 12:33:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Bruce Thornton  height: 6-2 -> 6-0",
+   "detected_at": "2026-10-13 12:33:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Bruce Thornton  weight: 215 -> 229",
+   "detected_at": "2026-10-13 12:33:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Al Horford  weight: 258 -> 260",
+   "detected_at": "2026-10-13 12:33:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Dalen Terry  height: 6-6 -> 6-7",
+   "detected_at": "2026-10-13 12:33:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Dalen Terry  weight: 210 -> 208",
+   "detected_at": "2026-10-13 12:33:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Jae'Sean Tate  weight: 230 -> 239",
+   "detected_at": "2026-10-13 12:33:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Braden Smith  height: 6-0 -> 5-11",
+   "detected_at": "2026-10-13 12:33:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "Kenneth Faried  ~ height_ft: 6 -> -",
    "detected_at": "2026-10-13 12:19:38",
    "source": "WIKI",
@@ -9709,447 +10094,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Swiss LNA BBC Monthey 99, Zurich 62",
-   "detected_at": "2026-10-10 23:00:30",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/Zurich-at-BBC-Monthey/534108"
-  },
-  {
-   "detail": "Swiss LNA + Kenan Bonga → Zurich",
-   "detected_at": "2026-10-10 23:00:29",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Swiss LNA BBC Nyon 94, SAM Basket Massagno 73",
-   "detected_at": "2026-10-10 23:00:26",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/SAM-Basket-Massagno-at-BBC-Nyon/534110"
-  },
-  {
-   "detail": "Swiss LNA + Ken Rytz → BBC Nyon",
-   "detected_at": "2026-10-10 23:00:25",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Romanian Divizia A CSM Corona Brasov 81, SCM Mozzart Bet Timisoara 76",
-   "detected_at": "2026-10-10 23:00:23",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/CSM-Corona-Brasov-at-SCM-Mozzart-Bet-Timisoara/535761"
-  },
-  {
-   "detail": "Romanian Divizia A + Constantin Gavriloaia → SCM Mozzart Bet Timisoara",
-   "detected_at": "2026-10-10 23:00:22",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Romanian Divizia A + Serban Andrei Horga → SCM Mozzart Bet Timisoara",
-   "detected_at": "2026-10-10 23:00:22",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Romanian Divizia A + George Vlad → SCM Mozzart Bet Timisoara",
-   "detected_at": "2026-10-10 23:00:22",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Romanian Divizia A CSM Oradea 98, FC Arges Pitesti 92",
-   "detected_at": "2026-10-10 23:00:19",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/FC-Arges-Pitesti-at-CSM-Oradea/535756"
-  },
-  {
-   "detail": "Romanian Divizia A BC CSU Sibiu 100, CS Dinamo Bucuresti 92",
-   "detected_at": "2026-10-10 23:00:16",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/CS-Dinamo-Bucuresti-at-BC-CSU-Sibiu/535758"
-  },
-  {
-   "detail": "Romanian Divizia A + Sam Towns → BC CSU Sibiu",
-   "detected_at": "2026-10-10 23:00:15",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Romanian Divizia A CSO Voluntari 91, CS Targu Mures 85",
-   "detected_at": "2026-10-10 23:00:12",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/CSO-Voluntari-at-CS-Targu-Mures/535757"
-  },
-  {
-   "detail": "Romanian Divizia A + Alexandru Olah → CSO Voluntari",
-   "detected_at": "2026-10-10 23:00:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Romanian Divizia A + Bodo Tamas → CS Targu Mures",
-   "detected_at": "2026-10-10 23:00:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "PBA Governors Cup Terrafirma DYIP 146, Macau Black Knights 127",
-   "detected_at": "2026-10-10 23:00:09",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/Terrafirma-DYIP-at-Macau-Black-Knights/544784"
-  },
-  {
-   "detail": "PBA Governors Cup + Kit Zaldivar → Terrafirma DYIP",
-   "detected_at": "2026-10-10 23:00:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "PBA Governors Cup + Christopher Miller → Terrafirma DYIP",
-   "detected_at": "2026-10-10 23:00:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "PBA Governors Cup + Meng Sun → Macau Black Knights",
-   "detected_at": "2026-10-10 23:00:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Paul Reed (basketball)  ~ position: Power forward -> Center / power forward",
-   "detected_at": "2026-10-10 22:54:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Paul_Reed_(basketball)"
-  },
-  {
-   "detail": "Tolu Smith  ~ position: Power forward -> Center",
-   "detected_at": "2026-10-10 22:54:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Tolu_Smith"
-  },
-  {
-   "detail": "Nelson Weidemann  ~ team: Rasta Vechta -> New Zealand Breakers",
-   "detected_at": "2026-10-10 22:54:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Nelson_Weidemann"
-  },
-  {
-   "detail": "Nelson Weidemann  ~ league: Basketball Bundesliga -> NBL",
-   "detected_at": "2026-10-10 22:54:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Nelson_Weidemann"
-  },
-  {
-   "detail": "Nelson Weidemann  ~ number: 30 -> -",
-   "detected_at": "2026-10-10 22:54:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Nelson_Weidemann"
-  },
-  {
-   "detail": "Nelson Weidemann  ~ career_start: 2013 -> 2015",
-   "detected_at": "2026-10-10 22:54:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Nelson_Weidemann"
-  },
-  {
-   "detail": "Nelson Weidemann  ~ CAREER  + 2026 Rasta Vechta",
-   "detected_at": "2026-10-10 22:54:39",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Nelson_Weidemann"
-  },
-  {
-   "detail": "Nelson Weidemann  ~ CAREER  + 2026–present New Zealand Breakers",
-   "detected_at": "2026-10-10 22:54:39",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Nelson_Weidemann"
-  },
-  {
-   "detail": "Leaky Black  ~ team: Stockton Kings -> Sacramento Kings",
-   "detected_at": "2026-10-10 21:42:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Leaky_Black"
-  },
-  {
-   "detail": "Leaky Black  ~ league: NBA G League -> NBA",
-   "detected_at": "2026-10-10 21:42:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Leaky_Black"
-  },
-  {
-   "detail": "Leaky Black  ~ CAREER  + 2026–present Stockton Kings-->",
-   "detected_at": "2026-10-10 21:42:39",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Leaky_Black"
-  },
-  {
-   "detail": "Jahmir Young  ~ team: South Bay Lakers -> Coachella Valley Lakers",
-   "detected_at": "2026-10-10 21:42:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jahmir_Young"
-  },
-  {
-   "detail": "Jahmir Young  ~ CAREER  + 2026–present Coachella Valley Lakers",
-   "detected_at": "2026-10-10 21:42:39",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Jahmir_Young"
-  },
-  {
-   "detail": "Tristen Newton  ~ team: Stockton Kings -> Sacramento Kings",
-   "detected_at": "2026-10-10 21:42:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Tristen_Newton"
-  },
-  {
-   "detail": "Tristen Newton  ~ league: NBA G League -> NBA",
-   "detected_at": "2026-10-10 21:42:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Tristen_Newton"
-  },
-  {
-   "detail": "Tristen Newton  ~ CAREER  + 2026–present Stockton Kings-->",
-   "detected_at": "2026-10-10 21:42:39",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Tristen_Newton"
-  },
-  {
-   "detail": "Turkish BSL Bahcesehir Koleji 92, Pinar Karsiyaka 82",
-   "detected_at": "2026-10-10 20:54:08",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/Pinar-Karsiyaka-at-Bahcesehir-Koleji/541367"
-  },
-  {
-   "detail": "Turkish TBL Final Spor Genclik 77, Aykon TED Kolejliler Ankara 75",
-   "detected_at": "2026-10-10 20:54:05",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/Final-Spor-Genclik-at-Aykon-TED-Kolejliler-Ankara/534762"
-  },
-  {
-   "detail": "Turkish TBL Sigortamnet iLab Bakiroy 93, Ormanspor Genc Ankara 91",
-   "detected_at": "2026-10-10 20:54:02",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/Ormanspor-Genc-Ankara-at-Sigortamnet-iLab-Bakiroy/534758"
-  },
-  {
-   "detail": "Turkish BSL Esenler Erokspor 87, Tofas SC 79",
-   "detected_at": "2026-10-10 20:53:59",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/Esenler-Erokspor-at-Tofas-SC/541369"
-  },
-  {
-   "detail": "Turkish BSL + Muhsin Yasar → Esenler Erokspor",
-   "detected_at": "2026-10-10 20:53:58",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Turkish BSL ~ MOVED Demircan Demir → Fenerbahce Beko (from Fenerbache Koleji 2nd Team)",
-   "detected_at": "2026-10-10 20:53:55",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
-  },
-  {
-   "detail": "Turkish BSL + Berkay Candan → Cayirova",
-   "detected_at": "2026-10-10 20:53:55",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Turkish BSL Fenerbahce Beko 100, Cayirova 85",
-   "detected_at": "2026-10-10 20:53:55",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/Fenerbahce-Beko-at-Cayirova/541370"
-  },
-  {
-   "detail": "Turkish BSL Korfez Mansia 91, Socar Petkimspor 90",
-   "detected_at": "2026-10-10 20:53:43",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/Korfez-Mansia-at-Socar-Petkimspor/541368"
-  },
-  {
-   "detail": "Turkish TBL Kahramanmaras Kipas Istiklal 114, Cedi Osman Spor Kulubu 82",
-   "detected_at": "2026-10-10 20:53:40",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/Cedi-Osman-Spor-Kulubu-at-Kahramanmaras-Kipas-Istiklal/534753"
-  },
-  {
-   "detail": "Finnish Korisliiga Salon Vilpas 95, Korihait 73",
-   "detected_at": "2026-10-10 20:53:37",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/Korihait-at-Salon-Vilpas/534472"
-  },
-  {
-   "detail": "Finnish Korisliiga Kipina 98, Kauhajoki Karhu 95",
-   "detected_at": "2026-10-10 19:44:50",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/Kauhajoki-Karhu-at-Kipina/534471"
-  },
-  {
-   "detail": "Finnish Korisliiga + Villa Virtaharju → Kipina",
-   "detected_at": "2026-10-10 19:44:49",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Finnish Korisliiga Tapiolan Honka 108, Joensuun Kataja 99",
-   "detected_at": "2026-10-10 19:44:47",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/Tapiolan-Honka-at-Joensuun-Kataja/534470"
-  },
-  {
-   "detail": "Tarik Black  ~ team: Free agent -> -",
-   "detected_at": "2026-10-10 19:21:37",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Tarik_Black"
-  },
-  {
-   "detail": "Tarik Black  ~ position: Center -> -",
-   "detected_at": "2026-10-10 19:21:37",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Tarik_Black"
-  },
-  {
-   "detail": "Tarik Black  ~ career_end: - -> 2025",
-   "detected_at": "2026-10-10 19:21:37",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Tarik_Black"
-  },
-  {
-   "detail": "Spanish Segunda FEB CB Badajoz 89, Jaen Paraiso Interior CB 85",
-   "detected_at": "2026-10-10 18:36:48",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/Jaen-Paraiso-Interior-CB-at-CB-Badajoz/527590"
-  },
-  {
-   "detail": "German Pro A + Epke Kruthaup → Artland Dragons",
-   "detected_at": "2026-10-10 18:36:44",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Pro A Walter Tigers Tubingen 92, Artland Dragons 86",
-   "detected_at": "2026-10-10 18:36:44",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/Walter-Tigers-Tubingen-at-Artland-Dragons/528103"
-  },
-  {
-   "detail": "German Pro A EPG GUARDIANS Koblenz 88, Gartenzaun24 Baskets Paderborn 86",
-   "detected_at": "2026-10-10 18:36:41",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/EPG-GUARDIANS-Koblenz-at-Gartenzaun24-Baskets-Paderborn/528105"
-  },
-  {
-   "detail": "German Pro A SBB Baskets Wolmirstedt 85, MLP Academics Heidelberg 74",
-   "detected_at": "2026-10-10 18:36:37",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/SBB-Baskets-Wolmirstedt-at-MLP-Academics-Heidelberg/528106"
-  },
-  {
-   "detail": "Spanish Segunda FEB Club Baloncesto Toledo Basketball 86, Movistar Estudiantes 78",
-   "detected_at": "2026-10-10 18:36:34",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/Club-Baloncesto-Toledo-Basketball-at-Movistar-Estudiantes/527592"
-  },
-  {
-   "detail": "German Pro B BG Hagen 87, WWU Baskets Muenster 85",
-   "detected_at": "2026-10-10 18:36:30",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/BG-Hagen-at-WWU-Baskets-Muenster/525517"
-  },
-  {
-   "detail": "German Pro B TV 1862 Langen 77, FC Bayern Munchen II 70",
-   "detected_at": "2026-10-10 18:36:27",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/FC-Bayern-Munchen-II-at-TV-1862-Langen/525691"
-  },
-  {
-   "detail": "German Pro B + Icolas Deetjen → TV 1862 Langen",
-   "detected_at": "2026-10-10 18:36:26",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Pro B Art Giants Dusseldorf 77, SG Braunschweig 66",
-   "detected_at": "2026-10-10 18:36:23",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/SG-Braunschweig-at-Art-Giants-Dusseldorf/525516"
-  },
-  {
-   "detail": "Israeli BSL Maccabi FOX Tel Aviv 120, Hapoel Upper Galilee Safed 93",
-   "detected_at": "2026-10-10 18:36:20",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/Hapoel-Upper-Galilee-Safed-at-Maccabi-FOX-Tel-Aviv/535706"
-  },
-  {
-   "detail": "Israeli BSL + Kerem Ashkenazi → Hapoel Upper Galilee Safed",
-   "detected_at": "2026-10-10 18:36:19",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10162,20 +10106,20 @@
    "last": "2026-10-11 09:18:24"
   },
   "PLAYERS": {
-   "count": 1556,
-   "last": "2026-10-13 10:27:54"
+   "count": 1612,
+   "last": "2026-10-13 12:33:54"
   },
   "RATINGS": {
    "count": 950,
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 9208,
-   "last": "2026-10-13 11:33:00"
+   "count": 9211,
+   "last": "2026-10-13 12:34:26"
   },
   "SCORES": {
-   "count": 1976,
-   "last": "2026-10-13 11:33:02"
+   "count": 1980,
+   "last": "2026-10-13 12:34:32"
   },
   "SHEETS": {
    "count": 4773,
@@ -10194,6 +10138,6 @@
    "last": "2026-10-12 16:06:10"
   }
  },
- "generated_at": "2026-10-13T12:33:02",
- "total": 28843
+ "generated_at": "2026-10-13T12:34:55",
+ "total": 28906
 }
