@@ -1,6 +1,41 @@
 {
  "events": [
   {
+   "detail": "Chucky Hepburn  ~ team: Toronto Raptors -> Free agent",
+   "detected_at": "2026-10-13 08:21:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Chucky_Hepburn"
+  },
+  {
+   "detail": "Chucky Hepburn  ~ league: NBA -> -",
+   "detected_at": "2026-10-13 08:21:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Chucky_Hepburn"
+  },
+  {
+   "detail": "Chucky Hepburn  ~ number: 24 -> -",
+   "detected_at": "2026-10-13 08:21:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Chucky_Hepburn"
+  },
+  {
+   "detail": "Chucky Hepburn  ~ CAREER  + Toronto Raptors",
+   "detected_at": "2026-10-13 08:21:38",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Chucky_Hepburn"
+  },
+  {
+   "detail": "Chucky Hepburn  ~ CAREER  + 2025–2026 →Raptors 905",
+   "detected_at": "2026-10-13 08:21:38",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Chucky_Hepburn"
+  },
+  {
    "detail": "2026-27 Veteran Signings  + ADDED  Dennis Smith Jr. (WAIVED) Miami Heat",
    "detected_at": "2026-10-13 08:12:56",
    "source": "DOCS",
@@ -10325,41 +10360,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Hungarian NBIA + Huszar Balazs → NHSZ Szolnoki Olajbanyasz",
-   "detected_at": "2026-10-10 08:51:51",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Slovenian SKL Sencur Gorenjska Gradbena Druzba Kranj 96, Hopsi Polzela 81",
-   "detected_at": "2026-10-10 08:51:48",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-09/Hopsi-Polzela-at-Sencur-Gorenjska-Gradbena-Druzba-Kranj/537242"
-  },
-  {
-   "detail": "Serbian KLS Zlatibor Cajetina 97, KK Nis 65",
-   "detected_at": "2026-10-10 08:51:44",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-09/KK-Nis-at-Zlatibor-Cajetina/544776"
-  },
-  {
-   "detail": "Serbian KLS + Milan Surlic → KK Nis",
-   "detected_at": "2026-10-10 08:51:43",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Luka Draskovic → KK Nis",
-   "detected_at": "2026-10-10 08:51:43",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10396,14 +10396,14 @@
    "last": "2026-10-12 15:27:55"
   },
   "WIKI": {
-   "count": 5565,
-   "last": "2026-10-13 07:58:48"
+   "count": 5570,
+   "last": "2026-10-13 08:21:38"
   },
   "WIKIWATCH": {
    "count": 367,
    "last": "2026-10-12 16:06:10"
   }
  },
- "generated_at": "2026-10-13T08:13:13",
- "total": 28599
+ "generated_at": "2026-10-13T08:21:40",
+ "total": 28604
 }
