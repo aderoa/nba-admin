@@ -1,6 +1,30 @@
 {
  "events": [
   {
+   "detail": "2026-27 Veteran Signings  + ADDED  Dennis Smith Jr. (WAIVED) Miami Heat",
+   "detected_at": "2026-10-13 08:12:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  26-27 $3,286,399",
+   "detected_at": "2026-10-13 08:12:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Minimum Salary Exception. Love of the Game. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($25,000).",
+   "detected_at": "2026-10-13 08:12:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 10/8/26",
+   "detected_at": "2026-10-13 08:12:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "2026-27 Veteran Signings  - REMOVED Update 1.3 (7/18/26): O. Agbaji, B. Beal, J. Bernard, R. Beekman, S. Bey, L. Black, B. Boston, T. Bradley, J. Bridges, D. Brooks, K. Brooks, J. Broome, B. Brown, K. Bufkin, J. Butler Jr., K. Caldwell-Pope, D. Carter, K. Chandler, M. Cisse, Y. Collins, I. Crawford, J. Crutcher, J. Cumberland, S. Curry, N. Dante, J. Davison, D. DeRozan, J. Duren, D. Eubanks, T. Fall, K. George, A. Gill, J. Gortman, H. Gray, D. Green, J. Harden, M. Hezonja, H. Highsmith, C. Houstan, H. Ingram, A. Jackson, L. James, J. Johnson, K. Johnson, C. Jones D. Jones, S. Jones, Y. Kawamura, T. Keels, M. Kelly, K. Knox, C. Koloko, J. Konchar, J. Kuminga, S. Labissiere, P. Larsson, K. Leonard, K. Lewis, C. Livingston, L. Lovering, S. Lundy, N. Marshall, J. Martin, K. Martin, B. Mathurin, B. Mbeng, G. McGlothan, D. Melton, E. Miller, T. Newton, G. Niang, M. Nowell, T. Okani, N. Omier, E. Payton, G. Payton, T. Peter, D. Peterson, J. Phillips, D. Plowden, B. Podziemski, D. Powell, J. Preston, L. Quinones, D. Reath, N. Richards, K. Richmond, A. Reeves, L. Robbins, O. Robinson, H. Sallis, P. Sandfort, J. Schakel, M. Sears, J. Shead, B. Simmons, M. Smith, Z. Smith, J. Sochan, I. Stevens, D. Stockton, C. Swider, J. Tate, D. Terry, A. Thompson, A. Thompson, K. Thompson, M. Thybulle, D. Timme, A. Toohey, O. Tshiebwe, M. Wagner, L. Walker, J. Walsh, T. Watford, A. Watson, P. Watson, B. Wesley, P. Wheeler, B. Williams, M. Williams, J. Wiseman, I. Wong",
    "detected_at": "2026-10-13 08:11:11",
    "source": "DOCS",
@@ -10336,40 +10360,12 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Andrija Matovic → Zlatibor Cajetina",
-   "detected_at": "2026-10-10 08:51:43",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Bosko Corbic → Zlatibor Cajetina",
-   "detected_at": "2026-10-10 08:51:43",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Estonian Latvian Basketball League Rigas Zelli 94, Tartu Ulikool MaksMoorits 74",
-   "detected_at": "2026-10-10 08:51:40",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-09/Rigas-Zelli-at-Tartu-Ulikool-MaksMoorits/535359"
-  },
-  {
-   "detail": "Estonian Latvian Basketball League + Klavs Cavars → Rigas Zelli",
-   "detected_at": "2026-10-10 08:51:39",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 3668,
-   "last": "2026-10-13 08:11:11"
+   "count": 3672,
+   "last": "2026-10-13 08:12:56"
   },
   "GLEAGUE": {
    "count": 177,
@@ -10408,6 +10404,6 @@
    "last": "2026-10-12 16:06:10"
   }
  },
- "generated_at": "2026-10-13T08:11:50",
- "total": 28595
+ "generated_at": "2026-10-13T08:13:13",
+ "total": 28599
 }
