@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Kevarrius Hayes  ~ position: Power forward / center -> Center",
+   "detected_at": "2026-10-13 14:53:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kevarrius_Hayes"
+  },
+  {
+   "detail": "Alessandro Pajola  ~ position: Point guard / shooting guard -> Point guard",
+   "detected_at": "2026-10-13 14:53:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Alessandro_Pajola"
+  },
+  {
    "detail": "Ethan Thompson  ~ 88903: position -> Shooting guard",
    "detected_at": "2026-10-13 14:27:47",
    "source": "WIKIWATCH",
@@ -10051,20 +10065,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Georgian Super Liga + Saba Lobjanidze → Amra Gagra Akhaltsikhe",
-   "detected_at": "2026-10-11 09:26:02",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Georgian Super Liga + Irakli Sulkhanishvili → Amra Gagra Akhaltsikhe",
-   "detected_at": "2026-10-11 09:26:02",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10101,14 +10101,14 @@
    "last": "2026-10-12 15:27:55"
   },
   "WIKI": {
-   "count": 5616,
-   "last": "2026-10-13 14:27:37"
+   "count": 5618,
+   "last": "2026-10-13 14:53:38"
   },
   "WIKIWATCH": {
    "count": 368,
    "last": "2026-10-13 14:27:47"
   }
  },
- "generated_at": "2026-10-13T14:40:02",
- "total": 28958
+ "generated_at": "2026-10-13T14:54:19",
+ "total": 28960
 }
