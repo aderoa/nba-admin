@@ -1,6 +1,36 @@
 {
  "events": [
   {
+   "detail": "DAL  + ADDED  Mantis, Chris",
+   "detected_at": "2026-10-13 12:51:00",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "DAL  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 209221487.8 -> 210579250.8, col9: 542881860.7 -> 544239623.7",
+   "detected_at": "2026-10-13 12:51:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "DAL  CHANGED Players Under Contract  -  col3: 182093402.8 -> 183451165.8",
+   "detected_at": "2026-10-13 12:51:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "DAL  CHANGED Full Season Contracts  -  col3: 182093402.8 -> 183451165.8",
+   "detected_at": "2026-10-13 12:51:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "DAL  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 17 -> 18",
+   "detected_at": "2026-10-13 12:51:00",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "Edy Tavares  ~ height_ft: 7 -> -",
    "detected_at": "2026-10-13 12:50:39",
    "source": "WIKI",
@@ -10059,41 +10089,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Macedonian Superleague + Nikola Bojchev → Kozuv Gevgelija",
-   "detected_at": "2026-10-10 23:00:46",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Macedonian Superleague + Jordan Kuzmanov → Kozuv Gevgelija",
-   "detected_at": "2026-10-10 23:00:46",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Macedonian Superleague + Aleksandar Kolev → Kozuv Gevgelija",
-   "detected_at": "2026-10-10 23:00:46",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Macedonian Superleague + Riste Bukrshliev → Kozuv Gevgelija",
-   "detected_at": "2026-10-10 23:00:46",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Macedonian Superleague + Mihail Stojanov → Kozuv Gevgelija",
-   "detected_at": "2026-10-10 23:00:46",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10122,8 +10117,8 @@
    "last": "2026-10-13 12:34:32"
   },
   "SHEETS": {
-   "count": 4773,
-   "last": "2026-10-13 11:44:59"
+   "count": 4778,
+   "last": "2026-10-13 12:51:00"
   },
   "TRANSACTIONS": {
    "count": 506,
@@ -10138,6 +10133,6 @@
    "last": "2026-10-12 16:06:10"
   }
  },
- "generated_at": "2026-10-13T12:50:40",
- "total": 28920
+ "generated_at": "2026-10-13T12:51:03",
+ "total": 28925
 }
