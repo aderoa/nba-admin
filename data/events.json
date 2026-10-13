@@ -1,6 +1,69 @@
 {
  "events": [
   {
+   "detail": "FIBA Europe Cup Nancy Basket 84, Parnu Sadam 61",
+   "detected_at": "2026-10-13 11:33:02",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-13/Nancy-Basket-at-Parnu-Sadam/542018"
+  },
+  {
+   "detail": "FIBA Europe Cup ~ RETURN Kany N'Kouka → Nancy Basket (from Espoirs Nancy)",
+   "detected_at": "2026-10-13 11:33:00",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "FIBA Europe Cup ~ RETURN Erwan Djoni → Nancy Basket (from Espoirs Nancy)",
+   "detected_at": "2026-10-13 11:33:00",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "Semi Ojeleye  ~ position: Small forward / power forward -> Center / power forward",
+   "detected_at": "2026-10-13 11:32:39",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Semi_Ojeleye"
+  },
+  {
+   "detail": "Malik Newman  ~ team: Zenit Saint Petersburg -> Free agent",
+   "detected_at": "2026-10-13 11:32:39",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Malik_Newman"
+  },
+  {
+   "detail": "Malik Newman  ~ league: VTB United League -> -",
+   "detected_at": "2026-10-13 11:32:39",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Malik_Newman"
+  },
+  {
+   "detail": "Malik Newman  ~ position: Point guard / shooting guard -> Shooting guard",
+   "detected_at": "2026-10-13 11:32:39",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Malik_Newman"
+  },
+  {
+   "detail": "Malik Newman  ~ number: 14 -> -",
+   "detected_at": "2026-10-13 11:32:39",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Malik_Newman"
+  },
+  {
+   "detail": "Malik Newman  ~ CAREER  + 2026 Zenit Saint Petersburg",
+   "detected_at": "2026-10-13 11:32:39",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Malik_Newman"
+  },
+  {
    "detail": "~ CHANGED Tarik Biberovic  height: 6-7 -> 6-6",
    "detected_at": "2026-10-13 10:27:54",
    "source": "PLAYERS",
@@ -10133,69 +10196,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/Class-Basquet-Sant-Antoni-at-Sol-Girones-Bisbal-Basquet/527765"
-  },
-  {
-   "detail": "Spanish Segunda FEB + Aleix Haro Val → Class Basquet Sant Antoni",
-   "detected_at": "2026-10-10 17:24:23",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Kai Johnson → Class Basquet Sant Antoni",
-   "detected_at": "2026-10-10 17:24:23",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Greg Gantt → Class Basquet Sant Antoni",
-   "detected_at": "2026-10-10 17:24:23",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Morgan Stilma → Class Basquet Sant Antoni",
-   "detected_at": "2026-10-10 17:24:23",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Lamin Dibba → Class Basquet Sant Antoni",
-   "detected_at": "2026-10-10 17:24:23",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Michael Okafor Augustin → Class Basquet Sant Antoni",
-   "detected_at": "2026-10-10 17:24:23",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Daniel de la Rua → Class Basquet Sant Antoni",
-   "detected_at": "2026-10-10 17:24:23",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Pablo Fernandez → Class Basquet Sant Antoni",
-   "detected_at": "2026-10-10 17:24:23",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Jeffrey Godspower → Class Basquet Sant Antoni",
-   "detected_at": "2026-10-10 17:24:23",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10216,12 +10216,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 9206,
-   "last": "2026-10-13 08:01:49"
+   "count": 9208,
+   "last": "2026-10-13 11:33:00"
   },
   "SCORES": {
-   "count": 1975,
-   "last": "2026-10-13 08:01:50"
+   "count": 1976,
+   "last": "2026-10-13 11:33:02"
   },
   "SHEETS": {
    "count": 4746,
@@ -10232,14 +10232,14 @@
    "last": "2026-10-12 15:27:55"
   },
   "WIKI": {
-   "count": 5570,
-   "last": "2026-10-13 08:21:38"
+   "count": 5576,
+   "last": "2026-10-13 11:32:39"
   },
   "WIKIWATCH": {
    "count": 367,
    "last": "2026-10-12 16:06:10"
   }
  },
- "generated_at": "2026-10-13T11:18:05",
- "total": 28768
+ "generated_at": "2026-10-13T11:33:24",
+ "total": 28777
 }
