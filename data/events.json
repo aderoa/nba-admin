@@ -1,6 +1,150 @@
 {
  "events": [
   {
+   "detail": "CLE  CHANGED Mitchell, Donovan  -  col4: 53817156.0 -> 63509985.0, col5: - -> 68590784.0, col6: - -> 73671583.0, col7: - -> 78752382.0, col9: 103922784 -> 334630362",
+   "detected_at": "2026-10-13 08:37:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "CLE  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col4: 215957546.2 -> 225650375.2, col5: 166694409.6 -> 235285193.6, col6: 90611400 -> 164282983, col7: 0 -> 78752382, col9: 699645362.1 -> 930352940.1",
+   "detected_at": "2026-10-13 08:37:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "CLE  CHANGED Players Under Contract  -  col4: 214138109.5 -> 223830938.5, col5: 164874973 -> 233465757, col6: 90611400 -> 164282983, col7: 0 -> 78752382",
+   "detected_at": "2026-10-13 08:37:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "CLE  CHANGED Full Season Contracts  -  col4: 214138109.5 -> 223830938.5, col5: 164874973 -> 233465757, col6: 90611400 -> 164282983, col7: 0 -> 78752382",
+   "detected_at": "2026-10-13 08:37:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "UTH  + ADDED  Wague, Mohamed",
+   "detected_at": "2026-10-13 08:37:59",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "UTH  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 193565626.4 -> 194923389.4, col9: 715488287.1 -> 716846050.1",
+   "detected_at": "2026-10-13 08:37:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "UTH  CHANGED Players Under Contract  -  col3: 185680626.4 -> 187038389.4",
+   "detected_at": "2026-10-13 08:37:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "UTH  CHANGED Full Season Contracts  -  col3: 185680626.4 -> 187038389.4",
+   "detected_at": "2026-10-13 08:37:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "UTH  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 17 -> 18",
+   "detected_at": "2026-10-13 08:37:59",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED 27-28 $",
+   "detected_at": "2026-10-13 08:37:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED 3 Years for $158,072,070 ($150,316,690 maximum amount permitted pursuant to Art. VII 2(a)(6)). Veteran Extension. Advance Payment ($79,036,035 ($75,158,345)). Player option to extend the contract to include the 2027-28 Season. Insurance Premium Reimbursement. Skill; Injury or Illness; Mental. Love of the Game.",
+   "detected_at": "2026-10-13 08:37:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED Execution Date: 7/7/24",
+   "detected_at": "2026-10-13 08:37:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  27-28 $63,509,985",
+   "detected_at": "2026-10-13 08:37:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  28-29 $68,590,784",
+   "detected_at": "2026-10-13 08:37:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  29-30 $73,671,583",
+   "detected_at": "2026-10-13 08:37:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  30-31 $78,752,382 (Player Option)",
+   "detected_at": "2026-10-13 08:37:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  4 Years for $284,524,734. Veteran Extension. Advance Payment ($142,262,367). Player option to extend the contract to include the 2030-31 Season. Insurance Premium Reimbursement. Skill; Injury or Illness; Mental.",
+   "detected_at": "2026-10-13 08:37:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 7/8/26",
+   "detected_at": "2026-10-13 08:37:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  - REMOVED Update 1.3 (7/18/26): K. Lopez, K. Diop, J. Bradley, O. Agbim, R. Agee, J. Aidoo, J. Akins, J. Akins, D. Allen, J. Allick, D. Armstrong, M. Armstrong, Z. Austin, W. Baker, A. Baldwin, A. Bandaogo, M. Barnstable, K. Boone, N. Boyd, D. Brown, T. Brown, N. Burnett, L. Butler, J. Camden, C. Camper, T. Carroll, R. Castro, C. Corhen, D. Dainja, D. Daniels, J. Davis, T. Degenhart, E. Dixon, R. Dixon-Waters, B. Dunning, S. East, J. Elmore, W. Fricks, T. Funk, D. Garcia, D. Goodwin, C. Grill, J. Hadley, J. Harmon, B. Hausen, D. Higgs, C. Hildreth, A. Hoggard, S. Hoiberg, A. Holifield, J. House, B. Humrichous, L. Hyun-jung, M. Iraldi, K. Johnson, S. Johnson, J. Joiner, J. Joiner, K. Jones, N. Jourdain, M. Keita, W. Kyle, V. Lakhin, G. Levin, F. Loyer, G. Madsen, H. Mallettte, K. Mangas, T. Marshall, M. Mascari, R. Mast, R. McCray, I. McKneely, C. McMillian, S. McNeil, I. Milicic, B. Miller, J. Moni, K. Murphy, D. Murray, M. Murrell, J. Nelson, J. Nunn, J. O’Neil, T. Okani, N. Pringle, A. Pritchard, E. Ralph, K. Reeves, J. Riley, D. Rodman, C. Ross, N. Santos, I. Schieffelin, M. Sharavjamts, A. Scott, W. Settle, C. Shumate, D. Smith, J. Stephens, K. Stewart, P. Suder, M. Sutton, W. Taylor, S. Thomas, S. Thompson, C. Tilly, T. Townsend, J. Ukomadu, B. Warren, S. Washington, R. Weems, B. Williams, P. Zilinskas",
+   "detected_at": "2026-10-13 08:37:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Update 1.3 (7/18/26): K. Lopez, K. Diop, J. Bradley, O. Agbim, R. Agee, J. Aidoo, J. Akins, J. Akins, D. Allen, J. Allick, D. Armstrong, M. Armstrong, Z. Austin, W. Baker, A. Baldwin, A. Bandaogo, M. Barnstable, K. Boone, N. Boyd, D. Brown, T. Brown, N. Burnett, L. Butler, J. Camden, C. Camper, T. Carroll, R. Castro, C. Corhen, D. Dainja, D. Daniels, J. Davis, T. Degenhart, E. Dixon, R. Dixon-Waters, B. Dunning, S. East, J. Elmore, W. Fricks, T. Funk, D. Garcia, D. Goodwin, C. Grill, J. Hadley, J. Harmon, B. Hausen, D. Higgs, C. Hildreth, A. Hoggard, S. Hoiberg, A. Holifield, J. House, B. Humrichous, L. Hyun-jung, M. Iraldi, K. Johnson, S. Johnson, J. Joiner, J. Joiner, K. Jones, N. Jourdain, M. Keita, W. Kyle, V. Lakhin, G. Levin, F. Loyer, G. Madsen, H. Mallettte, K. Mangas, T. Marshall, M. Mascari, R. Mast, R. McCray, I. McKneely, C. McMillian, S. McNeil, I. Milicic, B. Miller, J. Moni, K. Murphy, D. Murray, M. Murrell, J. Nelson, J. Nunn, J. O’Neil, T. Okani, N. Pringle, A. Pritchard, E. Ralph, K. Reeves, J. Riley, D. Rodman, C. Ross, N. Santos, I. Schieffelin, M. Sharavjamts, A. Scott, W. Settle, C. Shumate, D. Smith, J. Stephens, K. Stewart, P. Suder, M. Sutton, W. Taylor, S. Thomas, S. Thompson, C. Tilly, T. Townsend, J. Ukomadu, M. Wague, B. Warren, S. Washington, R. Weems, B. Williams, P. Zilinskas",
+   "detected_at": "2026-10-13 08:37:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Mohamed Utah Jazz",
+   "detected_at": "2026-10-13 08:37:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  26-27 $1,357,763",
+   "detected_at": "2026-10-13 08:37:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Minimum Salary Exception. Love of the Game. Physical Exam. Alt. 7(b). Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
+   "detected_at": "2026-10-13 08:37:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 9/25/26",
+   "detected_at": "2026-10-13 08:37:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "2026-27 Veteran Signings  - REMOVED Update 1.2 (7/7/26 - 7/17/26): P. Achiuwa, J. Alvarado, K. Anderson, M. Bagley, M. Bamba, H. Barnes, C. Bassey, B. Bogdanovic, T. Bryant, J. Clark, J. Clarkson, J. Collins, M. Conley, M. Diawara, O. Dieng, A. Dosunmu, A. Drummond, T. Eason, K. Ellis, C. Gillespie, J. Green, Q. Grimes, J. Goodwin, R. Hachimura, T. Hardaway Jr., T. Harris, I. Hartenstein, J. Hayes, K. Huerter, A. Hukporti, T. Jones, D. Jordan, L. Kennard, W. Kessler, J. Landale, K. Looney, T. Lyles, S. Mamukelashvili, J. McLaughlin, K. Middleton, J. Miller, L. Nance, P. Nance, J. Nurkic, N. Powell, J. Okogie, K. Oubre, Q. Post, A. Reaves, M. Robinson, K. Sanders, C. Sexton, L. Shamet, M. Smart, G. Trent, V. Wembanyama, C. White, K. Williams, M. Williams, Z. Williams T. Young",
    "detected_at": "2026-10-13 08:29:56",
    "source": "DOCS",
@@ -10155,180 +10299,12 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Matija Gledic → KK Tamis",
-   "detected_at": "2026-10-10 13:07:16",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Salar Taheri → KK Tamis",
-   "detected_at": "2026-10-10 13:07:16",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Vuk Drobnjakovic → KK Tamis",
-   "detected_at": "2026-10-10 13:07:16",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Djordje Kladarin → KK Tamis",
-   "detected_at": "2026-10-10 13:07:16",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague Chiba Jets 109, Levanga Hokkaido 103",
-   "detected_at": "2026-10-10 13:07:09",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/Chiba-Jets-at-Levanga-Hokkaido/524290"
-  },
-  {
-   "detail": "Patrick Baldwin Jr.  ~ position: Power forward -> Power forward / center",
-   "detected_at": "2026-10-10 12:25:40",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Patrick_Baldwin_Jr."
-  },
-  {
-   "detail": "Gonzalo Corbalán  ~ position: Guard -> Small forward / shooting guard",
-   "detected_at": "2026-10-10 09:40:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Gonzalo_Corbal%C3%A1n"
-  },
-  {
-   "detail": "Adam Mokoka  ~ league: Greek Basketball League EuroCup -> GBL EuroCup",
-   "detected_at": "2026-10-10 09:17:40",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Adam_Mokoka"
-  },
-  {
-   "detail": "Adam Mokoka  ~ position: Shooting guard / small forward -> Shooting guard",
-   "detected_at": "2026-10-10 09:17:40",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Adam_Mokoka"
-  },
-  {
-   "detail": "Devin Williams (basketball)  ~ team: Free agent -> Fukui Blowinds",
-   "detected_at": "2026-10-10 09:17:40",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Devin_Williams_(basketball)"
-  },
-  {
-   "detail": "Devin Williams (basketball)  ~ league: - -> B.League",
-   "detected_at": "2026-10-10 09:17:40",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Devin_Williams_(basketball)"
-  },
-  {
-   "detail": "Devin Williams (basketball)  ~ number: - -> 41",
-   "detected_at": "2026-10-10 09:17:40",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Devin_Williams_(basketball)"
-  },
-  {
-   "detail": "Devin Williams (basketball)  ~ CAREER  + 2026-present Fukui Blowinds",
-   "detected_at": "2026-10-10 09:17:40",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Devin_Williams_(basketball)"
-  },
-  {
-   "detail": "Shavon Shields  ~ 42333: position -> Small forward",
-   "detected_at": "2026-10-10 08:58:31",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "Shooting guard"
-  },
-  {
-   "detail": "Will Clyburn  ~ 22382: position -> Small forward",
-   "detected_at": "2026-10-10 08:58:31",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "Small forward / shooting guard"
-  },
-  {
-   "detail": "Wade Baldwin  ~ 81056: position -> Point guard / shooting guard",
-   "detected_at": "2026-10-10 08:58:31",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "Point guard"
-  },
-  {
-   "detail": "South Korean KBL Seoul Samsung Thunders 66, Anyang Kwan Jang 58",
-   "detected_at": "2026-10-10 08:52:45",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-09/Anyang-Kwan-Jang-at-Seoul-Samsung-Thunders/530361"
-  },
-  {
-   "detail": "Argentinian Liga A Lanus 67, Obera Tenis Club 58",
-   "detected_at": "2026-10-10 08:52:41",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-09/Obera-Tenis-Club-at-Lanus/539285"
-  },
-  {
-   "detail": "Argentinian Liga A + Juan Brussino → Lanus",
-   "detected_at": "2026-10-10 08:52:40",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Argentinian Liga A ~ MOVED Pedro Bombino Parada → Lanus (from Astros de Jalisco)",
-   "detected_at": "2026-10-10 08:52:40",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
-  },
-  {
-   "detail": "South Korean KBL Suwon KT Sonicboom 88, Goyang Sono Skygunners 79",
-   "detected_at": "2026-10-10 08:52:38",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-09/Goyang-Sono-Skygunners-at-Suwon-KT-Sonicboom/530360"
-  },
-  {
-   "detail": "Euroleague Besiktas Icrypex 92, Baskonia 84",
-   "detected_at": "2026-10-10 08:52:34",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-09/Besiktas-Icrypex-at-Baskonia/526807"
-  },
-  {
-   "detail": "Euroleague Zalgiris 88, Barca 81",
-   "detected_at": "2026-10-10 08:52:30",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-09/Zalgiris-at-Barca/526806"
-  },
-  {
-   "detail": "Euroleague + Saben Lee → Zalgiris",
-   "detected_at": "2026-10-10 08:52:29",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 3694,
-   "last": "2026-10-13 08:29:56"
+   "count": 3709,
+   "last": "2026-10-13 08:37:56"
   },
   "GLEAGUE": {
    "count": 177,
@@ -10351,8 +10327,8 @@
    "last": "2026-10-13 08:01:50"
   },
   "SHEETS": {
-   "count": 4737,
-   "last": "2026-10-13 08:21:59"
+   "count": 4746,
+   "last": "2026-10-13 08:37:59"
   },
   "TRANSACTIONS": {
    "count": 506,
@@ -10367,6 +10343,6 @@
    "last": "2026-10-12 16:06:10"
   }
  },
- "generated_at": "2026-10-13T08:30:03",
- "total": 28641
+ "generated_at": "2026-10-13T08:45:39",
+ "total": 28665
 }
