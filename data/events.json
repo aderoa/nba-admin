@@ -1,6 +1,24 @@
 {
  "events": [
   {
+   "detail": "2026-10-14  San Antonio Spurs waived forward Terry Taylor.",
+   "detected_at": "2026-10-14 14:50:55",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-14  San Antonio Spurs waived center Malik Williams.",
+   "detected_at": "2026-10-14 14:50:55",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-14  Toronto Raptors waived center Trey Jemison III.",
+   "detected_at": "2026-10-14 14:50:55",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
    "detail": "2026-10-14  Denver Nuggets waived center Steven Crowl.",
    "detected_at": "2026-10-14 14:44:55",
    "source": "TRANSACTIONS",
@@ -9852,27 +9870,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-10-11/Gipuzkoa-Basket-at-Movistar-Estudiantes/532885"
-  },
-  {
-   "detail": "Spanish Primera FEB + Ierai Aizpitarte → Gipuzkoa Basket",
-   "detected_at": "2026-10-12 09:12:48",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB Proinbeni UPB Gandia 82, Biele ISB 77",
-   "detected_at": "2026-10-12 09:12:45",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-11/Proinbeni-UPB-Gandia-at-Biele-ISB/527769"
-  },
-  {
-   "detail": "Spanish Segunda FEB + Lamine Badji → Biele ISB",
-   "detected_at": "2026-10-12 09:12:44",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -9905,8 +9902,8 @@
    "last": "2026-10-14 08:18:18"
   },
   "TRANSACTIONS": {
-   "count": 524,
-   "last": "2026-10-14 14:44:55"
+   "count": 527,
+   "last": "2026-10-14 14:50:55"
   },
   "WIKI": {
    "count": 5703,
@@ -9917,6 +9914,6 @@
    "last": "2026-10-13 14:54:34"
   }
  },
- "generated_at": "2026-10-14T14:50:01",
- "total": 29448
+ "generated_at": "2026-10-14T14:51:01",
+ "total": 29451
 }
