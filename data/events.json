@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "FIBA Europe Cup VEF Riga 110, Neftchi IK 94",
+   "detected_at": "2026-10-14 11:58:50",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-14/VEF-Riga-at-Neftchi-IK/542029"
+  },
+  {
+   "detail": "FIBA Europe Cup + Jarod Robinson → Neftchi IK",
+   "detected_at": "2026-10-14 11:58:48",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "FIBA Europe Cup + Tunar Hajizada → Neftchi IK",
+   "detected_at": "2026-10-14 11:58:48",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
    "detail": "FIBA Europe Cup BK Levicki Patrioti Levice 74, Zastal Zielona Gora 71",
    "detected_at": "2026-10-14 11:58:19",
    "source": "SCORES",
@@ -9901,27 +9922,6 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Justin_Robinson_(basketball,_born_1995)"
-  },
-  {
-   "detail": "Justin Robinson (basketball, born 1995)  ~ CAREER  + 2026–present Juvi Cremona",
-   "detected_at": "2026-10-12 09:11:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Justin_Robinson_(basketball,_born_1995)"
-  },
-  {
-   "detail": "Alfonso Plummer  ~ team: Capitanes de Arecibo -> Shandong Hi-Speed Kirin",
-   "detected_at": "2026-10-12 09:11:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Alfonso_Plummer"
-  },
-  {
-   "detail": "Alfonso Plummer  ~ league: Baloncesto Superior Nacional -> CBA",
-   "detected_at": "2026-10-12 09:11:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Alfonso_Plummer"
   }
  ],
  "feeds": {
@@ -9942,12 +9942,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 9335,
-   "last": "2026-10-14 09:35:02"
+   "count": 9337,
+   "last": "2026-10-14 11:58:48"
   },
   "SCORES": {
-   "count": 2047,
-   "last": "2026-10-14 11:58:19"
+   "count": 2048,
+   "last": "2026-10-14 11:58:50"
   },
   "SHEETS": {
    "count": 4852,
@@ -9966,6 +9966,6 @@
    "last": "2026-10-13 14:54:34"
   }
  },
- "generated_at": "2026-10-14T11:58:24",
- "total": 29367
+ "generated_at": "2026-10-14T12:06:02",
+ "total": 29370
 }
