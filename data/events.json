@@ -1,6 +1,55 @@
 {
  "events": [
   {
+   "detail": "KJ Simpson  ~ team: Free agent -> Galatasaray",
+   "detected_at": "2026-10-14 12:20:39",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/KJ_Simpson"
+  },
+  {
+   "detail": "KJ Simpson  ~ league: - -> BSL BCL",
+   "detected_at": "2026-10-14 12:20:39",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/KJ_Simpson"
+  },
+  {
+   "detail": "KJ Simpson  ~ number: - -> 25",
+   "detected_at": "2026-10-14 12:20:39",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/KJ_Simpson"
+  },
+  {
+   "detail": "KJ Simpson  ~ CAREER  + 2026–present Galatasaray",
+   "detected_at": "2026-10-14 12:20:39",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/KJ_Simpson"
+  },
+  {
+   "detail": "A. J. Lawson  ~ position: Shooting guard -> Shooting guard / small forward",
+   "detected_at": "2026-10-14 12:20:39",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/A._J._Lawson"
+  },
+  {
+   "detail": "Paul Reed (basketball)  ~ position: Center / power forward -> Power forward",
+   "detected_at": "2026-10-14 12:20:39",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Paul_Reed_(basketball)"
+  },
+  {
+   "detail": "Tolu Smith  ~ position: Center -> Power forward",
+   "detected_at": "2026-10-14 12:20:39",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Tolu_Smith"
+  },
+  {
    "detail": "FIBA Europe Cup VEF Riga 110, Neftchi IK 94",
    "detected_at": "2026-10-14 11:58:50",
    "source": "SCORES",
@@ -9873,55 +9922,6 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Ibrahima_Fall_Faye"
-  },
-  {
-   "detail": "Dmitry Kulagin  ~ position: Shooting guard / point guard -> Shooting guard / small forward",
-   "detected_at": "2026-10-12 09:11:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Dmitry_Kulagin"
-  },
-  {
-   "detail": "Dmitry Kulagin  ~ number: 5 -> 8",
-   "detected_at": "2026-10-12 09:11:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Dmitry_Kulagin"
-  },
-  {
-   "detail": "Justin Robinson (basketball, born 1995)  ~ team: Široki -> Juvi Cremona",
-   "detected_at": "2026-10-12 09:11:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Justin_Robinson_(basketball,_born_1995)"
-  },
-  {
-   "detail": "Justin Robinson (basketball, born 1995)  ~ league: Liga BiH ABA League -> Serie A2",
-   "detected_at": "2026-10-12 09:11:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Justin_Robinson_(basketball,_born_1995)"
-  },
-  {
-   "detail": "Justin Robinson (basketball, born 1995)  ~ number: - -> 12",
-   "detected_at": "2026-10-12 09:11:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Justin_Robinson_(basketball,_born_1995)"
-  },
-  {
-   "detail": "Justin Robinson (basketball, born 1995)  ~ CAREER  + 2025–2026 Pallacanestro Roseto",
-   "detected_at": "2026-10-12 09:11:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Justin_Robinson_(basketball,_born_1995)"
-  },
-  {
-   "detail": "Justin Robinson (basketball, born 1995)  ~ CAREER  + 2026 Široki",
-   "detected_at": "2026-10-12 09:11:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Justin_Robinson_(basketball,_born_1995)"
   }
  ],
  "feeds": {
@@ -9958,14 +9958,14 @@
    "last": "2026-10-14 10:28:56"
   },
   "WIKI": {
-   "count": 5676,
-   "last": "2026-10-14 11:34:44"
+   "count": 5683,
+   "last": "2026-10-14 12:20:39"
   },
   "WIKIWATCH": {
    "count": 369,
    "last": "2026-10-13 14:54:34"
   }
  },
- "generated_at": "2026-10-14T12:12:02",
- "total": 29370
+ "generated_at": "2026-10-14T12:20:40",
+ "total": 29377
 }
