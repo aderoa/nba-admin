@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "2026-10-14  Cleveland Cavaliers waived guard Jaxson Robinson.",
+   "detected_at": "2026-10-14 14:29:55",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
    "detail": "~ CHANGED Bogoljub Marković  name: Bogoljub Markovic -> Bogoljub Marković",
    "detected_at": "2026-10-14 13:59:55",
    "source": "PLAYERS",
@@ -9872,13 +9878,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-10-11/Zalgiris-at-Kedainiai-Nevezis/532717"
-  },
-  {
-   "detail": "German BBL MHP Riesen 107, Basketball Lowen Braunschweig 98",
-   "detected_at": "2026-10-12 09:12:14",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-11/MHP-Riesen-at-Basketball-Lowen-Braunschweig/528650"
   }
  ],
  "feeds": {
@@ -9911,8 +9910,8 @@
    "last": "2026-10-14 08:18:18"
   },
   "TRANSACTIONS": {
-   "count": 518,
-   "last": "2026-10-14 10:28:56"
+   "count": 519,
+   "last": "2026-10-14 14:29:55"
   },
   "WIKI": {
    "count": 5687,
@@ -9923,6 +9922,6 @@
    "last": "2026-10-13 14:54:34"
   }
  },
- "generated_at": "2026-10-14T14:29:01",
- "total": 29426
+ "generated_at": "2026-10-14T14:30:02",
+ "total": 29427
 }
