@@ -1,6 +1,202 @@
 {
  "events": [
   {
+   "detail": "German Pro B Seawolves Academy 77, Hertener Loewen Basketball 76",
+   "detected_at": "2026-10-13 21:42:01",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-11/Seawolves-Academy-at-Hertener-Loewen-Basketball/525519"
+  },
+  {
+   "detail": "German Pro B + Isayah Owens → Seawolves Academy",
+   "detected_at": "2026-10-13 21:42:00",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "German Pro B + Elion Ramosaj → Hertener Loewen Basketball",
+   "detected_at": "2026-10-13 21:42:00",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Israeli BSL Maccabi Ashdod 76, Ironi Nes Ziona 62",
+   "detected_at": "2026-10-13 21:41:55",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-12/Ironi-Nes-Ziona-at-Maccabi-Ashdod/535700"
+  },
+  {
+   "detail": "Israeli BSL + Shalev Shlomo Lugashi → Ironi Nes Ziona",
+   "detected_at": "2026-10-13 21:41:54",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Israeli BSL Ironi Ramat Gan 89, Bnei Herzelia 79",
+   "detected_at": "2026-10-13 21:41:51",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-12/Ironi-Ramat-Gan-at-Bnei-Herzelia/535702"
+  },
+  {
+   "detail": "Israeli BSL + Joaquin Szuchman → Ironi Ramat Gan",
+   "detected_at": "2026-10-13 21:41:50",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Israeli BSL ~ MOVED Lucas Goldenberg → Bnei Herzelia (from Hapoel HaEmek)",
+   "detected_at": "2026-10-13 21:41:50",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Israeli BSL + Shoham Gat → Bnei Herzelia",
+   "detected_at": "2026-10-13 21:41:50",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Israeli BSL Hapoel Eilat 89, Maccabi Rishon Lezion 80",
+   "detected_at": "2026-10-13 21:41:47",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-12/Hapoel-Eilat-at-Maccabi-Rishon-Lezion/535701"
+  },
+  {
+   "detail": "Israeli BSL + Nuni Omot → Hapoel Eilat",
+   "detected_at": "2026-10-13 21:41:46",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Israeli BSL + Justin Tillman → Maccabi Rishon Lezion",
+   "detected_at": "2026-10-13 21:41:46",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish BSL Bursaspor 93, Galatasaray 88",
+   "detected_at": "2026-10-13 21:41:43",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-12/Bursaspor-at-Galatasaray/541374"
+  },
+  {
+   "detail": "Turkish BSL ~ MOVED Bryce Brown → Bursaspor (from Ironi Nes Ziona)",
+   "detected_at": "2026-10-13 21:41:42",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish BSL + Vrenz Bleijenbergh → Galatasaray",
+   "detected_at": "2026-10-13 21:41:42",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Basketball Cup CSP Limoges 99, Toulouse Basket Club 88",
+   "detected_at": "2026-10-13 21:41:38",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-13/CSP-Limoges-at-Toulouse-Basket-Club/541682"
+  },
+  {
+   "detail": "French Basketball Cup + Noam Masdieu-Reynaert → CSP Limoges",
+   "detected_at": "2026-10-13 21:41:37",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Basketball Cup JDA Dijon Basket 82, Saint Chamond Pro B 71",
+   "detected_at": "2026-10-13 21:41:34",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-13/JDA-Dijon-Basket-at-Saint-Chamond-Pro-B/541680"
+  },
+  {
+   "detail": "French Basketball Cup ~ RETURN Pape Moustapha Diop → Saint Chamond Pro B (from Saint Chamond NM1)",
+   "detected_at": "2026-10-13 21:41:33",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "French Basketball Cup ~ MOVED Gabin Lefort → Saint Chamond Pro B (from Saint Chamond NM1)",
+   "detected_at": "2026-10-13 21:41:33",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "French Basketball Cup ~ RETURN Zakaria Mechergui → Saint Chamond Pro B (from Saint Chamond NM1)",
+   "detected_at": "2026-10-13 21:41:33",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "French NM1 Vendee Challans Basket 92, Pays de Fougeres 61",
+   "detected_at": "2026-10-13 21:41:30",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-13/Pays-de-Fougeres-at-Vendee-Challans-Basket/527244"
+  },
+  {
+   "detail": "Swedish Basketligan BC Lulea 91, KFUM Nassjo Basket 74",
+   "detected_at": "2026-10-13 21:41:26",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-13/KFUM-Nassjo-Basket-at-BC-Lulea/524345"
+  },
+  {
+   "detail": "Swedish Basketligan Sodertalje 93, Hogsbo 85",
+   "detected_at": "2026-10-13 21:41:22",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-13/Hogsbo-at-Sodertalje/524349"
+  },
+  {
+   "detail": "Swedish Basketligan Norrkoping 97, Sloga Uppsala 90",
+   "detected_at": "2026-10-13 21:41:18",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-13/Norrkoping-at-Sloga-Uppsala/524348"
+  },
+  {
+   "detail": "Swedish Basketligan + D.J. Smith → Norrkoping",
+   "detected_at": "2026-10-13 21:41:16",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swedish Basketligan Uppsala Basket 94, Koping Stars 87",
+   "detected_at": "2026-10-13 21:41:14",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-13/Uppsala-Basket-at-Koping-Stars/524347"
+  },
+  {
+   "detail": "PBA Governors Cup Talk N Text Tropang Texters 142, Macau Black Knights 87",
+   "detected_at": "2026-10-13 21:41:10",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-13/Talk-N-Text-Tropang-Texters-at-Macau-Black-Knights/544788"
+  },
+  {
    "detail": "James Johnson (basketball, born 1987)  ~ league: - -> NBA",
    "detected_at": "2026-10-13 20:58:37",
    "source": "WIKI",
@@ -9789,202 +9985,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/EBAA-Bears-Academy-at-Holbaek-Stenhus/530315"
-  },
-  {
-   "detail": "Danish Basketligaen + Victor Borges-Michaelsen → EBAA Bears Academy",
-   "detected_at": "2026-10-11 17:21:37",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Danish Basketligaen + Frederik Fruelund → EBAA Bears Academy",
-   "detected_at": "2026-10-11 17:21:37",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Danish Basketligaen + William Stokholm → EBAA Bears Academy",
-   "detected_at": "2026-10-11 17:21:37",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Italian Lega Basket Serie A Dolomiti Energia Trento 74, Old Wild West Udine 66",
-   "detected_at": "2026-10-11 17:21:34",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/Dolomiti-Energia-Trento-at-Old-Wild-West-Udine/529574"
-  },
-  {
-   "detail": "Italian Lega Basket Serie A + Antonio Barra → Dolomiti Energia Trento",
-   "detected_at": "2026-10-11 17:21:33",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Italian Lega Basket Serie A + Mansour Bayo → Dolomiti Energia Trento",
-   "detected_at": "2026-10-11 17:21:33",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German BBL SC Rasta Vechta 97, Ratiopharm Ulm 92",
-   "detected_at": "2026-10-11 17:21:31",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/Ratiopharm-Ulm-at-SC-Rasta-Vechta/528649"
-  },
-  {
-   "detail": "German BBL ~ RETURN Dominik Dolic → SC Rasta Vechta (from Artland Dragons)",
-   "detected_at": "2026-10-11 17:21:30",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "VTB Youth United League ChBK 2 70, Tsmoki Minsk III 64",
-   "detected_at": "2026-10-11 17:21:27",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/Tsmoki-Minsk-III-at-ChBK-2/543399"
-  },
-  {
-   "detail": "VTB Youth United League + Nikita Kiselev → ChBK 2",
-   "detected_at": "2026-10-11 17:21:26",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "VTB Youth United League + Okean Ponkin → ChBK 2",
-   "detected_at": "2026-10-11 17:21:26",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB UEMC Real Valladolid Baloncesto 91, CB Getafe 75",
-   "detected_at": "2026-10-11 17:21:24",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/UEMC-Real-Valladolid-Baloncesto-at-CB-Getafe/527593"
-  },
-  {
-   "detail": "Spanish Segunda FEB + Enrique Gutierrez O'Callaghan → UEMC Real Valladolid Baloncesto",
-   "detected_at": "2026-10-11 17:21:23",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Pablo Hernandez Blanco → UEMC Real Valladolid Baloncesto",
-   "detected_at": "2026-10-11 17:21:23",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Raul Robles Cimarra → CB Getafe",
-   "detected_at": "2026-10-11 17:21:23",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL GOCOR Soj Gomel 77, Rubon 74",
-   "detected_at": "2026-10-11 17:21:20",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/GOCOR-Soj-Gomel-at-Rubon/544731"
-  },
-  {
-   "detail": "Belarusian BPL + Timofey Karpuk → GOCOR Soj Gomel",
-   "detected_at": "2026-10-11 17:21:19",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Danik Dyakov → GOCOR Soj Gomel",
-   "detected_at": "2026-10-11 17:21:19",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Benjamin-Pavel Dodoo → GOCOR Soj Gomel",
-   "detected_at": "2026-10-11 17:21:19",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Kiryl Sitnik → GOCOR Soj Gomel",
-   "detected_at": "2026-10-11 17:21:19",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Mussa Kipkeev → GOCOR Soj Gomel",
-   "detected_at": "2026-10-11 17:21:19",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Vitaly Kurtsevich → GOCOR Soj Gomel",
-   "detected_at": "2026-10-11 17:21:19",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Danil Kanishev → GOCOR Soj Gomel",
-   "detected_at": "2026-10-11 17:21:19",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Alexander Kopachev → GOCOR Soj Gomel",
-   "detected_at": "2026-10-11 17:21:19",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Herman Mertens Aboudi → GOCOR Soj Gomel",
-   "detected_at": "2026-10-11 17:21:19",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Aleksandr Yasevich → GOCOR Soj Gomel",
-   "detected_at": "2026-10-11 17:21:19",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Kirill Shishlovsky → GOCOR Soj Gomel",
-   "detected_at": "2026-10-11 17:21:19",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Givenchy Ngimbi → GOCOR Soj Gomel",
-   "detected_at": "2026-10-11 17:21:19",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10005,12 +10005,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 9226,
-   "last": "2026-10-13 20:40:26"
+   "count": 9241,
+   "last": "2026-10-13 21:42:00"
   },
   "SCORES": {
-   "count": 2002,
-   "last": "2026-10-13 20:40:27"
+   "count": 2015,
+   "last": "2026-10-13 21:42:01"
   },
   "SHEETS": {
    "count": 4814,
@@ -10029,6 +10029,6 @@
    "last": "2026-10-13 14:54:34"
   }
  },
- "generated_at": "2026-10-13T21:40:04",
- "total": 29114
+ "generated_at": "2026-10-13T21:42:16",
+ "total": 29142
 }
