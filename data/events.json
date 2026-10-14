@@ -1,6 +1,69 @@
 {
  "events": [
   {
+   "detail": "Eurocup Roma SPQR 77, BC Balkan 72",
+   "detected_at": "2026-10-13 20:40:27",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-13/BC-Balkan-at-Roma-SPQR/526722"
+  },
+  {
+   "detail": "Eurocup + Kelly Olynyk → Roma SPQR",
+   "detected_at": "2026-10-13 20:40:26",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Eurocup BV Chemnitz 99 88, Dolomiti Energia Trento 80",
+   "detected_at": "2026-10-13 20:40:23",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-13/BV-Chemnitz-99-at-Dolomiti-Energia-Trento/526718"
+  },
+  {
+   "detail": "German Pro B TV 1862 Langen 71, CATL Basketball Lowen 63",
+   "detected_at": "2026-10-13 20:40:19",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-13/CATL-Basketball-Lowen-at-TV-1862-Langen/525858"
+  },
+  {
+   "detail": "German Pro B + Paul Jessen → TV 1862 Langen",
+   "detected_at": "2026-10-13 20:40:18",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Eurocup Neptunas 93, JL Bourg en Bresse 89",
+   "detected_at": "2026-10-13 20:40:16",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-13/JL-Bourg-en-Bresse-at-Neptunas/526717"
+  },
+  {
+   "detail": "Eurocup ~ RETURN Morgan Selebangue → JL Bourg en Bresse (from Espoirs Bourg en Bresse)",
+   "detected_at": "2026-10-13 20:40:15",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "PBA Governors Cup Meralco Bolts 120, Blackwater Bossings 115",
+   "detected_at": "2026-10-13 20:40:12",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-13/Blackwater-Bossings-at-Meralco-Bolts/544789"
+  },
+  {
+   "detail": "PBA Governors Cup + Raymond Almazan → Meralco Bolts",
+   "detected_at": "2026-10-13 20:40:11",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
    "detail": "John Butler Jr.  ~ team: Free Agent -> Free agent",
    "detected_at": "2026-10-13 20:25:38",
    "source": "WIKI",
@@ -9922,69 +9985,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Ruslan Pischeyko → Rubon",
-   "detected_at": "2026-10-11 17:21:19",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Daniil Yeremenko → Rubon",
-   "detected_at": "2026-10-11 17:21:19",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Artem Kovalenko → Rubon",
-   "detected_at": "2026-10-11 17:21:19",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Konstantin Satsuk → Rubon",
-   "detected_at": "2026-10-11 17:21:19",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Anton Zaretski → Rubon",
-   "detected_at": "2026-10-11 17:21:19",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Nikita Borodin → Rubon",
-   "detected_at": "2026-10-11 17:21:19",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Aleksey Navoyckik → Rubon",
-   "detected_at": "2026-10-11 17:21:19",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Zakhar Linderov → Rubon",
-   "detected_at": "2026-10-11 17:21:19",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Artem Malkov → Rubon",
-   "detected_at": "2026-10-11 17:21:19",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10005,12 +10005,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 9222,
-   "last": "2026-10-13 19:36:52"
+   "count": 9226,
+   "last": "2026-10-13 20:40:26"
   },
   "SCORES": {
-   "count": 1997,
-   "last": "2026-10-13 19:36:53"
+   "count": 2002,
+   "last": "2026-10-13 20:40:27"
   },
   "SHEETS": {
    "count": 4814,
@@ -10029,6 +10029,6 @@
    "last": "2026-10-13 14:54:34"
   }
  },
- "generated_at": "2026-10-13T20:33:04",
- "total": 29104
+ "generated_at": "2026-10-13T20:40:46",
+ "total": 29113
 }
