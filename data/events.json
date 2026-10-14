@@ -1,6 +1,146 @@
 {
  "events": [
   {
+   "detail": "Bulgarian NBL Akademik Bulteks 99 Plovdiv 90, BC Beroe Stara Zagora 86",
+   "detected_at": "2026-10-13 22:44:49",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-11/BC-Beroe-Stara-Zagora-at-Akademik-Bulteks-99-Plovdiv/528621"
+  },
+  {
+   "detail": "Bulgarian NBL + Jordan Rawls → BC Beroe Stara Zagora",
+   "detected_at": "2026-10-13 22:44:47",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Bulgarian NBL + Chris Rollins → BC Beroe Stara Zagora",
+   "detected_at": "2026-10-13 22:44:47",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Bulgarian NBL + Kristian Zhelev → BC Beroe Stara Zagora",
+   "detected_at": "2026-10-13 22:44:47",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Bulgarian NBL + Krastomir Mihov → BC Beroe Stara Zagora",
+   "detected_at": "2026-10-13 22:44:47",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Bulgarian NBL ~ MOVED Daniel Saylor → BC Beroe Stara Zagora (from Nelson Giants)",
+   "detected_at": "2026-10-13 22:44:47",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Bulgarian NBL + Patrick Emilien → BC Beroe Stara Zagora",
+   "detected_at": "2026-10-13 22:44:47",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Bulgarian NBL + Momchil Kadiev → BC Beroe Stara Zagora",
+   "detected_at": "2026-10-13 22:44:47",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Bulgarian NBL + Aleksandar Milov → BC Beroe Stara Zagora",
+   "detected_at": "2026-10-13 22:44:47",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Bulgarian NBL + Milen Zahariev → BC Beroe Stara Zagora",
+   "detected_at": "2026-10-13 22:44:47",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Bulgarian NBL + Christian Rosenov Chelenkov → BC Beroe Stara Zagora",
+   "detected_at": "2026-10-13 22:44:47",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Bulgarian NBL + Sola Adebisi → Akademik Bulteks 99 Plovdiv",
+   "detected_at": "2026-10-13 22:44:47",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Bulgarian NBL + Sean Moore → Akademik Bulteks 99 Plovdiv",
+   "detected_at": "2026-10-13 22:44:47",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Bulgarian NBL + Vasil Bachev → Akademik Bulteks 99 Plovdiv",
+   "detected_at": "2026-10-13 22:44:47",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Bulgarian NBL + Nikolay Mihaylov → Akademik Bulteks 99 Plovdiv",
+   "detected_at": "2026-10-13 22:44:47",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Bulgarian NBL + Masan Vrbica → Akademik Bulteks 99 Plovdiv",
+   "detected_at": "2026-10-13 22:44:47",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Bulgarian NBL + D.Q. Nicholas → Akademik Bulteks 99 Plovdiv",
+   "detected_at": "2026-10-13 22:44:47",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Bulgarian NBL + Maksim Chokov → Akademik Bulteks 99 Plovdiv",
+   "detected_at": "2026-10-13 22:44:47",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Bulgarian NBL + Dimitar Stamov → Akademik Bulteks 99 Plovdiv",
+   "detected_at": "2026-10-13 22:44:47",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Daniel Rosenbaum  ~ draft_year: - -> 2019",
+   "detected_at": "2026-10-13 22:44:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Daniel_Rosenbaum"
+  },
+  {
    "detail": "German Pro B Seawolves Academy 77, Hertener Loewen Basketball 76",
    "detected_at": "2026-10-13 21:42:01",
    "source": "SCORES",
@@ -9845,146 +9985,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-10-11/SSV-lok-Bernau-Alba-at-TSV-Neustadt-Temps-Shooters/525520"
-  },
-  {
-   "detail": "German Pro B ~ RETURN Anton Nufer → SSV lok Bernau Alba (from ALBA Berlin)",
-   "detected_at": "2026-10-11 18:22:46",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "German Pro B + Rijad Ibisevic → TSV Neustadt Temps Shooters",
-   "detected_at": "2026-10-11 18:22:46",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Greek HEBA A1 Olympiacos 99, Kolossos Rodou BC 83",
-   "detected_at": "2026-10-11 18:22:44",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-11/Kolossos-Rodou-BC-at-Olympiacos/542891"
-  },
-  {
-   "detail": "Greek HEBA A1 + Omer Netzipoglou → Olympiacos",
-   "detected_at": "2026-10-11 18:22:43",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Greek HEBA A1 + George Papas → Olympiacos",
-   "detected_at": "2026-10-11 18:22:43",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Curtis Jones (basketball)  ~ number: 14 -> 1",
-   "detected_at": "2026-10-11 18:22:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Curtis_Jones_(basketball)"
-  },
-  {
-   "detail": "Lindy Waters III  ~ number: 24 -> 43",
-   "detected_at": "2026-10-11 17:59:37",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Lindy_Waters_III"
-  },
-  {
-   "detail": "Sek Henry  ~ team: Free Agent -> Leones de Quilpué",
-   "detected_at": "2026-10-11 17:36:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Sek_Henry"
-  },
-  {
-   "detail": "Sek Henry  ~ league: - -> LNB Chile",
-   "detected_at": "2026-10-11 17:36:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Sek_Henry"
-  },
-  {
-   "detail": "Sek Henry  ~ position: Shooting guard / point guard -> Shooting guard",
-   "detected_at": "2026-10-11 17:36:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Sek_Henry"
-  },
-  {
-   "detail": "Sek Henry  ~ number: - -> 5",
-   "detected_at": "2026-10-11 17:36:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Sek_Henry"
-  },
-  {
-   "detail": "Sek Henry  ~ weight_lb: 198 -> 200",
-   "detected_at": "2026-10-11 17:36:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Sek_Henry"
-  },
-  {
-   "detail": "Sek Henry  ~ CAREER  + 2026–present Leones de Quilpué",
-   "detected_at": "2026-10-11 17:36:38",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Sek_Henry"
-  },
-  {
-   "detail": "Slovakian Extraliga BK Levicki Patrioti Levice 108, Slavia Kosice 85",
-   "detected_at": "2026-10-11 17:21:46",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-09/BK-Levicki-Patrioti-Levice-at-Slavia-Kosice/534242"
-  },
-  {
-   "detail": "Slovakian Extraliga + Petar Krivokapic → Slavia Kosice",
-   "detected_at": "2026-10-11 17:21:45",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Georgian Super Liga Kavkasia Tbilisi 97, Kutaisi 65",
-   "detected_at": "2026-10-11 17:21:43",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-09/Kutaisi-at-Kavkasia-Tbilisi/542460"
-  },
-  {
-   "detail": "Georgian Super Liga + Temo Dvalishvili → Kutaisi",
-   "detected_at": "2026-10-11 17:21:42",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Georgian Super Liga + Luka Kuchava → Kutaisi",
-   "detected_at": "2026-10-11 17:21:42",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Georgian Super Liga + Nodar Giorgadze → Kutaisi",
-   "detected_at": "2026-10-11 17:21:42",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Danish Basketligaen Holbaek Stenhus 88, EBAA Bears Academy 67",
-   "detected_at": "2026-10-11 17:21:38",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/EBAA-Bears-Academy-at-Holbaek-Stenhus/530315"
   }
  ],
  "feeds": {
@@ -10005,12 +10005,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 9241,
-   "last": "2026-10-13 21:42:00"
+   "count": 9259,
+   "last": "2026-10-13 22:44:47"
   },
   "SCORES": {
-   "count": 2015,
-   "last": "2026-10-13 21:42:01"
+   "count": 2016,
+   "last": "2026-10-13 22:44:49"
   },
   "SHEETS": {
    "count": 4814,
@@ -10021,14 +10021,14 @@
    "last": "2026-10-13 17:17:55"
   },
   "WIKI": {
-   "count": 5654,
-   "last": "2026-10-13 20:58:37"
+   "count": 5655,
+   "last": "2026-10-13 22:44:37"
   },
   "WIKIWATCH": {
    "count": 369,
    "last": "2026-10-13 14:54:34"
   }
  },
- "generated_at": "2026-10-13T22:36:03",
- "total": 29142
+ "generated_at": "2026-10-13T22:45:05",
+ "total": 29162
 }
