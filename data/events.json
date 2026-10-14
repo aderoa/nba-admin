@@ -1,6 +1,34 @@
 {
  "events": [
   {
+   "detail": "Rocco Zikarsky  ~ weight_lb: 262 -> 227",
+   "detected_at": "2026-10-13 19:13:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Rocco_Zikarsky"
+  },
+  {
+   "detail": "Joan Beringer  ~ position: Center -> Power forward",
+   "detected_at": "2026-10-13 19:13:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Joan_Beringer"
+  },
+  {
+   "detail": "Joan Beringer  ~ nationality: French / Beninese -> -",
+   "detected_at": "2026-10-13 19:13:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Joan_Beringer"
+  },
+  {
+   "detail": "Richard Solomon (basketball)  ~ number: 00 -> 6",
+   "detected_at": "2026-10-13 19:13:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Richard_Solomon_(basketball)"
+  },
+  {
    "detail": "- REMOVED Yuki Kawamura (LAC)",
    "detected_at": "2026-10-13 18:36:54",
    "source": "PLAYERS",
@@ -9957,34 +9985,6 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Joan_Sastre_(basketball)"
-  },
-  {
-   "detail": "Joan Sastre (basketball)  ~ CAREER  + 2026–present Palmer Basket",
-   "detected_at": "2026-10-11 15:10:38",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Joan_Sastre_(basketball)"
-  },
-  {
-   "detail": "Elijah Harkless  ~ number: 16 -> 94",
-   "detected_at": "2026-10-11 10:19:40",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Elijah_Harkless"
-  },
-  {
-   "detail": "Chris Silva  ~ position: Power forward -> Power forward / center",
-   "detected_at": "2026-10-11 09:56:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Chris_Silva"
-  },
-  {
-   "detail": "Braxton Key  ~ position: Small forward -> Power forward / small forward",
-   "detected_at": "2026-10-11 09:56:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Braxton_Key"
   }
  ],
  "feeds": {
@@ -10021,14 +10021,14 @@
    "last": "2026-10-13 17:17:55"
   },
   "WIKI": {
-   "count": 5642,
-   "last": "2026-10-13 17:11:38"
+   "count": 5646,
+   "last": "2026-10-13 19:13:37"
   },
   "WIKIWATCH": {
    "count": 369,
    "last": "2026-10-13 14:54:34"
   }
  },
- "generated_at": "2026-10-13T19:05:01",
- "total": 29089
+ "generated_at": "2026-10-13T19:13:38",
+ "total": 29093
 }
