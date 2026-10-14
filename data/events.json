@@ -1,6 +1,48 @@
 {
  "events": [
   {
+   "detail": "WNBA Golden State Valkyries 77, Dallas Wings 73",
+   "detected_at": "2026-10-14 09:35:11",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-10-02/Dallas-at-Golden-State/161659"
+  },
+  {
+   "detail": "Belarusian BPL Borisfen Mogilev Youth 84, Brest Region II 46",
+   "detected_at": "2026-10-14 09:35:03",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-04/Borisfen-Mogilev-Youth-at-Brest-Region-II/544746"
+  },
+  {
+   "detail": "Belarusian BPL ~ RETURN Ivan Dudchenko → Borisfen Mogilev Youth (from Borisfen Mogilev)",
+   "detected_at": "2026-10-14 09:35:02",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "Belarusian BPL ~ RETURN Artem Puchko → Borisfen Mogilev Youth (from Borisfen Mogilev)",
+   "detected_at": "2026-10-14 09:35:02",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "Belarusian BPL + Danill Zhernosek → Borisfen Mogilev Youth",
+   "detected_at": "2026-10-14 09:35:02",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Belarusian BPL + Yaroslav Polischuk → Brest Region II",
+   "detected_at": "2026-10-14 09:35:02",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
    "detail": "Kenneth Faried  ~ position: Center / power forward -> Center",
    "detected_at": "2026-10-14 08:48:41",
    "source": "WIKI",
@@ -9872,47 +9914,6 @@
    "detected_at": "2026-10-12 09:04:28",
    "source": "TRANSACTIONS",
    "type": "Waive"
-  },
-  {
-   "detail": "~ CHANGED Kadary Richmond  school: St. John's -> St. John's, N.Y.",
-   "detected_at": "2026-10-12 03:16:19",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Spanish Liga U Burgos Liga U 89, Real Madrid Liga U 65",
-   "detected_at": "2026-10-12 02:08:56",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-09/Burgos-Liga-U-at-Real-Madrid-Liga-U/541936"
-  },
-  {
-   "detail": "Spanish Liga U + Code Mbengue → Burgos Liga U",
-   "detected_at": "2026-10-12 02:08:55",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Liga U + Juan Martin Arnaiz → Burgos Liga U",
-   "detected_at": "2026-10-12 02:08:55",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A 1 Liga KK Skrljevo 88, KK Alkar 73",
-   "detected_at": "2026-10-12 02:08:51",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/KK-Skrljevo-at-KK-Alkar/535694"
-  },
-  {
-   "detail": "Croatian A 1 Liga + Nino Kurevic → KK Skrljevo",
-   "detected_at": "2026-10-12 02:08:50",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -9933,12 +9934,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 9331,
-   "last": "2026-10-14 08:27:43"
+   "count": 9335,
+   "last": "2026-10-14 09:35:02"
   },
   "SCORES": {
-   "count": 2037,
-   "last": "2026-10-14 08:27:44"
+   "count": 2039,
+   "last": "2026-10-14 09:35:11"
   },
   "SHEETS": {
    "count": 4852,
@@ -9957,6 +9958,6 @@
    "last": "2026-10-13 14:54:34"
   }
  },
- "generated_at": "2026-10-14T09:26:04",
- "total": 29347
+ "generated_at": "2026-10-14T09:35:15",
+ "total": 29353
 }
