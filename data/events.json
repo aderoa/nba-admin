@@ -1,6 +1,25 @@
 {
  "events": [
   {
+   "detail": "Tacko Fall  ~ height_in: 6 -> 7",
+   "detected_at": "2026-10-14 10:23:45",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Tacko_Fall"
+  },
+  {
+   "detail": "+ ADDED   Chance Moore (UTA)",
+   "detected_at": "2026-10-14 10:15:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "+ ADDED   Giorgi Bezhanishvili (ATL)",
+   "detected_at": "2026-10-14 10:15:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
    "detail": "Markus Howard  ~ CAREER  + 2026–present Zenit Saint Petersburg",
    "detected_at": "2026-10-14 10:00:39",
    "source": "WIKI",
@@ -9897,24 +9916,6 @@
    "detected_at": "2026-10-12 09:04:28",
    "source": "TRANSACTIONS",
    "type": "Waive"
-  },
-  {
-   "detail": "2026-10-09  Miami Heat waived forward J'Vonne Hadley.",
-   "detected_at": "2026-10-12 09:04:28",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
-  },
-  {
-   "detail": "2026-10-09  Miami Heat waived guard Lester Quinones.",
-   "detected_at": "2026-10-12 09:04:28",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
-  },
-  {
-   "detail": "2026-10-09  Miami Heat waived guard Dennis Smith Jr..",
-   "detected_at": "2026-10-12 09:04:28",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
   }
  ],
  "feeds": {
@@ -9927,8 +9928,8 @@
    "last": "2026-10-14 08:18:20"
   },
   "PLAYERS": {
-   "count": 1627,
-   "last": "2026-10-14 08:17:57"
+   "count": 1629,
+   "last": "2026-10-14 10:15:54"
   },
   "RATINGS": {
    "count": 950,
@@ -9951,14 +9952,14 @@
    "last": "2026-10-13 17:17:55"
   },
   "WIKI": {
-   "count": 5674,
-   "last": "2026-10-14 10:00:39"
+   "count": 5675,
+   "last": "2026-10-14 10:23:45"
   },
   "WIKIWATCH": {
    "count": 369,
    "last": "2026-10-13 14:54:34"
   }
  },
- "generated_at": "2026-10-14T10:15:02",
- "total": 29354
+ "generated_at": "2026-10-14T10:23:46",
+ "total": 29357
 }
