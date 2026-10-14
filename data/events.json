@@ -1,6 +1,48 @@
 {
  "events": [
   {
+   "detail": "Italian Serie A2 Basket Akern Libertas Livorno 75, Ferraroni Juvi Cremona 73",
+   "detected_at": "2026-10-13 17:12:10",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-11/Akern-Libertas-Livorno-at-Ferraroni-Juvi-Cremona/529808"
+  },
+  {
+   "detail": "Italian Serie A2 Basket Enel Brindisi 96, Montecatini 78",
+   "detected_at": "2026-10-13 17:12:07",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-11/Enel-Brindisi-at-Montecatini/529809"
+  },
+  {
+   "detail": "Japanese BLeague Toyota Alvark 103, Osaka Evessa 78",
+   "detected_at": "2026-10-13 17:12:01",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-12/Toyota-Alvark-at-Osaka-Evessa/524303"
+  },
+  {
+   "detail": "Japanese BLeague Shiga Lakestars 95, Shinshu Brave Warriors 76",
+   "detected_at": "2026-10-13 17:11:57",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-12/Shinshu-Brave-Warriors-at-Shiga-Lakestars/524302"
+  },
+  {
+   "detail": "Jalen Adams  ~ number: - -> 4",
+   "detected_at": "2026-10-13 17:11:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jalen_Adams"
+  },
+  {
+   "detail": "Jordan Howard (basketball)  ~ number: - -> 8",
+   "detected_at": "2026-10-13 17:11:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jordan_Howard_(basketball)"
+  },
+  {
    "detail": "Khalifa Koumadje  ~ team: Casademont Zaragoza -> Tianjin Pioneers",
    "detected_at": "2026-10-13 16:25:37",
    "source": "WIKI",
@@ -10022,48 +10064,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Estonian Latvian Basketball League BK Ogre 106, Latvijas Universitate 81",
-   "detected_at": "2026-10-11 09:26:50",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/Latvijas-Universitate-at-BK-Ogre/535362"
-  },
-  {
-   "detail": "Estonian Latvian Basketball League Keila Korvpallikool 75, Parnu Sadam 70",
-   "detected_at": "2026-10-11 09:26:47",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/Keila-Korvpallikool-at-Parnu-Sadam/535361"
-  },
-  {
-   "detail": "Georgian Super Liga Iverioni 75, Black Fortress Dinavia Tbilisi 70",
-   "detected_at": "2026-10-11 09:26:43",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/Iverioni-at-Black-Fortress-Dinavia-Tbilisi/542463"
-  },
-  {
-   "detail": "Georgian Super Liga + Dwight Howard → Black Fortress Dinavia Tbilisi",
-   "detected_at": "2026-10-11 09:26:42",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Estonian Latvian Basketball League BK Ventspils 86, BC Kalev Cramo 73",
-   "detected_at": "2026-10-11 09:26:40",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/BK-Ventspils-at-BC-Kalev-Cramo/537075"
-  },
-  {
-   "detail": "Estonian Latvian Basketball League + Edvards Mezulis → BK Ventspils",
-   "detected_at": "2026-10-11 09:26:39",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10088,8 +10088,8 @@
    "last": "2026-10-13 12:34:26"
   },
   "SCORES": {
-   "count": 1981,
-   "last": "2026-10-13 16:03:11"
+   "count": 1985,
+   "last": "2026-10-13 17:12:10"
   },
   "SHEETS": {
    "count": 4783,
@@ -10100,14 +10100,14 @@
    "last": "2026-10-13 15:00:55"
   },
   "WIKI": {
-   "count": 5640,
-   "last": "2026-10-13 16:25:37"
+   "count": 5642,
+   "last": "2026-10-13 17:11:38"
   },
   "WIKIWATCH": {
    "count": 369,
    "last": "2026-10-13 14:54:34"
   }
  },
- "generated_at": "2026-10-13T17:03:01",
- "total": 28985
+ "generated_at": "2026-10-13T17:12:28",
+ "total": 28991
 }
