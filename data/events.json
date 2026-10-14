@@ -1,6 +1,62 @@
 {
  "events": [
   {
+   "detail": "Jacob Gilyard  ~ number: 0 -> 7",
+   "detected_at": "2026-10-14 15:30:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jacob_Gilyard"
+  },
+  {
+   "detail": "T. J. Warren  ~ number: 21 -> 1",
+   "detected_at": "2026-10-14 15:30:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/T._J._Warren"
+  },
+  {
+   "detail": "Kylor Kelley  ~ team: Miami Heat -> Sioux Falls Skyforce",
+   "detected_at": "2026-10-14 15:30:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kylor_Kelley"
+  },
+  {
+   "detail": "Kylor Kelley  ~ league: NBA -> NBA G League",
+   "detected_at": "2026-10-14 15:30:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kylor_Kelley"
+  },
+  {
+   "detail": "Kylor Kelley  ~ CAREER  + 2026–present Sioux Falls Skyforce",
+   "detected_at": "2026-10-14 15:30:38",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Kylor_Kelley"
+  },
+  {
+   "detail": "Mãozinha Pereira  ~ number: 77 -> 45",
+   "detected_at": "2026-10-14 15:30:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/M%C3%A3ozinha_Pereira"
+  },
+  {
+   "detail": "Keyontae Johnson  ~ CAREER  + 2026 Shandong Hi-Speed Kirin",
+   "detected_at": "2026-10-14 15:30:38",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Keyontae_Johnson"
+  },
+  {
+   "detail": "Terry Tarpey  ~ number: 25 -> 3",
+   "detected_at": "2026-10-14 15:30:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Terry_Tarpey"
+  },
+  {
    "detail": "Cory Joseph  ~ position: Point guard / shooting guard -> Shooting guard / point guard",
    "detected_at": "2026-10-14 15:07:38",
    "source": "WIKI",
@@ -9814,62 +9870,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Timofey Belotsky → RCOP SDUSHOR",
-   "detected_at": "2026-10-12 09:12:52",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Yaroslav Gest → RCOP SDUSHOR",
-   "detected_at": "2026-10-12 09:12:52",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Ivan Naida → RCOP SDUSHOR",
-   "detected_at": "2026-10-12 09:12:52",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Nazar Pogodin → RCOP SDUSHOR",
-   "detected_at": "2026-10-12 09:12:52",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Alexey Daineko → RCOP SDUSHOR",
-   "detected_at": "2026-10-12 09:12:52",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Kirill Kets → RCOP SDUSHOR",
-   "detected_at": "2026-10-12 09:12:52",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Kirill Lychagin → RCOP SDUSHOR",
-   "detected_at": "2026-10-12 09:12:52",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL RCOP SDUSHOR 85, Brest Region II 48",
-   "detected_at": "2026-10-12 09:12:52",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-11/Brest-Region-II-at-RCOP-SDUSHOR/544733"
   }
  ],
  "feeds": {
@@ -9906,14 +9906,14 @@
    "last": "2026-10-14 14:50:55"
   },
   "WIKI": {
-   "count": 5704,
-   "last": "2026-10-14 15:07:38"
+   "count": 5712,
+   "last": "2026-10-14 15:30:38"
   },
   "WIKIWATCH": {
    "count": 369,
    "last": "2026-10-13 14:54:34"
   }
  },
- "generated_at": "2026-10-14T15:22:03",
- "total": 29452
+ "generated_at": "2026-10-14T15:31:13",
+ "total": 29460
 }
