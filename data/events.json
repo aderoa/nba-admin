@@ -1,6 +1,69 @@
 {
  "events": [
   {
+   "detail": "Sander Raieste  ~ number: - -> 2",
+   "detected_at": "2026-10-14 16:45:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Sander_Raieste"
+  },
+  {
+   "detail": "Joel Soriano  ~ number: - -> 12",
+   "detected_at": "2026-10-14 16:45:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Joel_Soriano"
+  },
+  {
+   "detail": "Léonardo Meindl  ~ number: - -> 8",
+   "detected_at": "2026-10-14 16:45:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/L%C3%A9onardo_Meindl"
+  },
+  {
+   "detail": "- REMOVED Cam Christie (LAC)",
+   "detected_at": "2026-10-14 16:37:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Taelon Peter (SAS)",
+   "detected_at": "2026-10-14 16:37:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Cole Swider (LAL)",
+   "detected_at": "2026-10-14 16:37:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Trey Jemison III (TOR)",
+   "detected_at": "2026-10-14 16:37:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Terry Taylor (SAS)",
+   "detected_at": "2026-10-14 16:37:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Malik Williams (SAS)",
+   "detected_at": "2026-10-14 16:37:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Jaxson Robinson (CLE)",
+   "detected_at": "2026-10-14 16:37:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
    "detail": "South Korean KBL Korea Gas Corporation 82, Suwon KT Sonicboom 69",
    "detected_at": "2026-10-14 16:31:52",
    "source": "SCORES",
@@ -9800,76 +9863,6 @@
    "source": "REALGM",
    "type": "MOVED",
    "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Arseniy Isakov → Rubon 2",
-   "detected_at": "2026-10-12 09:12:55",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Ivan Stolbov → Rubon 2",
-   "detected_at": "2026-10-12 09:12:55",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Timofey Verezub → Rubon 2",
-   "detected_at": "2026-10-12 09:12:55",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Vladislav Zaytsev → Rubon 2",
-   "detected_at": "2026-10-12 09:12:55",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Vasily Davydko → Rubon 2",
-   "detected_at": "2026-10-12 09:12:55",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Gleb Nazarov → Rubon 2",
-   "detected_at": "2026-10-12 09:12:55",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Ivan Starikovich → Rubon 2",
-   "detected_at": "2026-10-12 09:12:55",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Ivan Dudchenko → Borisfen Mogilev Youth",
-   "detected_at": "2026-10-12 09:12:55",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Artem Puchko → Borisfen Mogilev Youth",
-   "detected_at": "2026-10-12 09:12:55",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Timofey Bich → Borisfen Mogilev Youth",
-   "detected_at": "2026-10-12 09:12:55",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -9882,8 +9875,8 @@
    "last": "2026-10-14 08:18:20"
   },
   "PLAYERS": {
-   "count": 1672,
-   "last": "2026-10-14 13:59:55"
+   "count": 1679,
+   "last": "2026-10-14 16:37:54"
   },
   "RATINGS": {
    "count": 950,
@@ -9906,14 +9899,14 @@
    "last": "2026-10-14 14:50:55"
   },
   "WIKI": {
-   "count": 5733,
-   "last": "2026-10-14 16:16:38"
+   "count": 5736,
+   "last": "2026-10-14 16:45:38"
   },
   "WIKIWATCH": {
    "count": 369,
    "last": "2026-10-13 14:54:34"
   }
  },
- "generated_at": "2026-10-14T16:32:06",
- "total": 29484
+ "generated_at": "2026-10-14T16:45:39",
+ "total": 29494
 }
