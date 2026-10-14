@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "FIBA Europe Cup KB Trepca Mitrovice 78, KK Split 69",
+   "detected_at": "2026-10-14 13:12:57",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-14/KB-Trepca-Mitrovice-at-KK-Split/542013"
+  },
+  {
+   "detail": "FIBA Europe Cup + James Graham → KB Trepca Mitrovice",
+   "detected_at": "2026-10-14 13:12:55",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
    "detail": "Jerome Robinson  ~ league: Basketbol Süper Ligi -> BSL BCL",
    "detected_at": "2026-10-14 12:43:38",
    "source": "WIKI",
@@ -9869,20 +9883,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-10-11/CB-Zaragoza-at-Amics-Castello/527767"
-  },
-  {
-   "detail": "Omari Spellman  ~ team: Beijing Ducks -> Free agent",
-   "detected_at": "2026-10-12 09:11:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Omari_Spellman"
-  },
-  {
-   "detail": "Omari Spellman  ~ league: CBA -> -",
-   "detected_at": "2026-10-12 09:11:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Omari_Spellman"
   }
  ],
  "feeds": {
@@ -9903,12 +9903,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 9337,
-   "last": "2026-10-14 11:58:48"
+   "count": 9338,
+   "last": "2026-10-14 13:12:55"
   },
   "SCORES": {
-   "count": 2048,
-   "last": "2026-10-14 11:58:50"
+   "count": 2049,
+   "last": "2026-10-14 13:12:57"
   },
   "SHEETS": {
    "count": 4852,
@@ -9927,6 +9927,6 @@
    "last": "2026-10-13 14:54:34"
   }
  },
- "generated_at": "2026-10-14T12:56:02",
- "total": 29420
+ "generated_at": "2026-10-14T13:13:20",
+ "total": 29422
 }
