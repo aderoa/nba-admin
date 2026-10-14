@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "James Johnson (basketball, born 1987)  ~ league: - -> NBA",
+   "detected_at": "2026-10-13 20:58:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/James_Johnson_(basketball,_born_1987)"
+  },
+  {
    "detail": "Eurocup Roma SPQR 77, BC Balkan 72",
    "detected_at": "2026-10-13 20:40:27",
    "source": "SCORES",
@@ -9978,13 +9985,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Maxim Shustov → Rubon",
-   "detected_at": "2026-10-11 17:21:19",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10021,14 +10021,14 @@
    "last": "2026-10-13 17:17:55"
   },
   "WIKI": {
-   "count": 5653,
-   "last": "2026-10-13 20:25:38"
+   "count": 5654,
+   "last": "2026-10-13 20:58:37"
   },
   "WIKIWATCH": {
    "count": 369,
    "last": "2026-10-13 14:54:34"
   }
  },
- "generated_at": "2026-10-13T20:40:46",
- "total": 29113
+ "generated_at": "2026-10-13T20:58:38",
+ "total": 29114
 }
