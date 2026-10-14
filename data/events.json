@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "2026-09-28  Memphis Grizzlies signed forward Carson Cooper to a Two-Way Contract.",
+   "detected_at": "2026-10-14 10:28:56",
+   "source": "TRANSACTIONS",
+   "type": "Signing"
+  },
+  {
    "detail": "Tacko Fall  ~ height_in: 6 -> 7",
    "detected_at": "2026-10-14 10:23:45",
    "source": "WIKI",
@@ -9910,12 +9916,6 @@
    "detected_at": "2026-10-12 09:04:28",
    "source": "TRANSACTIONS",
    "type": "Waive"
-  },
-  {
-   "detail": "2026-10-09  Los Angeles Lakers waived  William Kyle.",
-   "detected_at": "2026-10-12 09:04:28",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
   }
  ],
  "feeds": {
@@ -9948,8 +9948,8 @@
    "last": "2026-10-14 08:18:18"
   },
   "TRANSACTIONS": {
-   "count": 517,
-   "last": "2026-10-13 17:17:55"
+   "count": 518,
+   "last": "2026-10-14 10:28:56"
   },
   "WIKI": {
    "count": 5675,
@@ -9960,6 +9960,6 @@
    "last": "2026-10-13 14:54:34"
   }
  },
- "generated_at": "2026-10-14T10:28:05",
- "total": 29357
+ "generated_at": "2026-10-14T10:29:04",
+ "total": 29358
 }
