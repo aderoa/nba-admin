@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "John Butler Jr.  ~ team: Free Agent -> Free agent",
+   "detected_at": "2026-10-13 20:25:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/John_Butler_Jr."
+  },
+  {
+   "detail": "John Butler Jr.  ~ CAREER  + Milwaukee Bucks",
+   "detected_at": "2026-10-13 20:25:38",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/John_Butler_Jr."
+  },
+  {
    "detail": "Eurocup 7Bet Lietkabelis Panevezys 95, PAOK BC 86",
    "detected_at": "2026-10-13 19:36:53",
    "source": "SCORES",
@@ -9971,20 +9985,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Ilya Vasilevsky → Rubon",
-   "detected_at": "2026-10-11 17:21:19",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Norwegian BLNO Flyyingen BBK 142, Nidaros Jets 61",
-   "detected_at": "2026-10-11 17:21:17",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/Flyyingen-BBK-at-Nidaros-Jets/530266"
   }
  ],
  "feeds": {
@@ -10021,14 +10021,14 @@
    "last": "2026-10-13 17:17:55"
   },
   "WIKI": {
-   "count": 5651,
-   "last": "2026-10-13 19:36:38"
+   "count": 5653,
+   "last": "2026-10-13 20:25:38"
   },
   "WIKIWATCH": {
    "count": 369,
    "last": "2026-10-13 14:54:34"
   }
  },
- "generated_at": "2026-10-13T20:11:02",
- "total": 29102
+ "generated_at": "2026-10-13T20:25:39",
+ "total": 29104
 }
