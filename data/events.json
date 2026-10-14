@@ -1,6 +1,36 @@
 {
  "events": [
   {
+   "detail": "2026-10-14  Denver Nuggets waived center Steven Crowl.",
+   "detected_at": "2026-10-14 14:44:55",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-14  LA Clippers waived guard Cam Christie.",
+   "detected_at": "2026-10-14 14:44:55",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-14  LA Clippers waived forward DeAndre Williams.",
+   "detected_at": "2026-10-14 14:44:55",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-14  Los Angeles Lakers waived forward Cole Swider.",
+   "detected_at": "2026-10-14 14:44:55",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-14  San Antonio Spurs waived guard Taelon Peter.",
+   "detected_at": "2026-10-14 14:44:55",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
    "detail": "Udoka Azubuike  ~ team: Free agent -> Guangdong Southern Tigers",
    "detected_at": "2026-10-14 14:44:38",
    "source": "WIKI",
@@ -9843,41 +9873,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB Intermaquinas Benicarlo 73, Club Esportiu Basquet Lliria 61",
-   "detected_at": "2026-10-12 09:12:42",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-11/Club-Esportiu-Basquet-Lliria-at-Intermaquinas-Benicarlo/527770"
-  },
-  {
-   "detail": "Spanish Segunda FEB + Patrick Spencer → Intermaquinas Benicarlo",
-   "detected_at": "2026-10-12 09:12:40",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Guillem Vazquez Vallejo → Intermaquinas Benicarlo",
-   "detected_at": "2026-10-12 09:12:40",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + Alvaro Palazuelos → Intermaquinas Benicarlo",
-   "detected_at": "2026-10-12 09:12:40",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + David Orrit → Intermaquinas Benicarlo",
-   "detected_at": "2026-10-12 09:12:40",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -9910,8 +9905,8 @@
    "last": "2026-10-14 08:18:18"
   },
   "TRANSACTIONS": {
-   "count": 519,
-   "last": "2026-10-14 14:29:55"
+   "count": 524,
+   "last": "2026-10-14 14:44:55"
   },
   "WIKI": {
    "count": 5703,
@@ -9922,6 +9917,6 @@
    "last": "2026-10-13 14:54:34"
   }
  },
- "generated_at": "2026-10-14T14:44:39",
- "total": 29443
+ "generated_at": "2026-10-14T14:45:02",
+ "total": 29448
 }
