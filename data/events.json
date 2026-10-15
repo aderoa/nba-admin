@@ -1,6 +1,62 @@
 {
  "events": [
   {
+   "detail": "FIBA Europe Cup Esenler Erokspor 94, BC Rilski Sportist 62",
+   "detected_at": "2026-10-15 09:46:00",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-14/Esenler-Erokspor-at-BC-Rilski-Sportist/542014"
+  },
+  {
+   "detail": "FIBA Europe Cup Keravnos Strovolou 88, Nitra Blue Wings 78",
+   "detected_at": "2026-10-15 09:45:54",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-14/Keravnos-Strovolou-at-Nitra-Blue-Wings/542019"
+  },
+  {
+   "detail": "Bryce Brown (basketball)  ~ team: Ironi Ness Ziona -> Bursaspor",
+   "detected_at": "2026-10-15 09:45:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Bryce_Brown_(basketball)"
+  },
+  {
+   "detail": "Bryce Brown (basketball)  ~ league: Israeli Basketball Premier League -> Basketbol Süper Ligi",
+   "detected_at": "2026-10-15 09:45:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Bryce_Brown_(basketball)"
+  },
+  {
+   "detail": "Bryce Brown (basketball)  ~ number: 2 -> 31",
+   "detected_at": "2026-10-15 09:45:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Bryce_Brown_(basketball)"
+  },
+  {
+   "detail": "Bryce Brown (basketball)  ~ CAREER  + 2026–present Bursaspor",
+   "detected_at": "2026-10-15 09:45:38",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Bryce_Brown_(basketball)"
+  },
+  {
+   "detail": "Barry Brown Jr.  ~ team: Zhejiang Lions -> Beijing Ducks",
+   "detected_at": "2026-10-15 09:45:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Barry_Brown_Jr."
+  },
+  {
+   "detail": "Barry Brown Jr.  ~ CAREER  + 2026-present Beijing Ducks",
+   "detected_at": "2026-10-15 09:45:38",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Barry_Brown_Jr."
+  },
+  {
    "detail": "VTB United League CSKA Moscow 103, Dynamo Vladivostok 88",
    "detected_at": "2026-10-15 08:26:24",
    "source": "SCORES",
@@ -9784,62 +9840,6 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Santiago_Yusta"
-  },
-  {
-   "detail": "Josh Carlton  ~ team: Free agent -> Guangdong Southern Tigers",
-   "detected_at": "2026-10-12 12:50:37",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Josh_Carlton"
-  },
-  {
-   "detail": "Josh Carlton  ~ league: - -> CBA",
-   "detected_at": "2026-10-12 12:50:37",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Josh_Carlton"
-  },
-  {
-   "detail": "Josh Carlton  ~ number: - -> 22",
-   "detected_at": "2026-10-12 12:50:37",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Josh_Carlton"
-  },
-  {
-   "detail": "Josh Carlton  ~ CAREER  + 2026–present Guangdong Southern Tigers",
-   "detected_at": "2026-10-12 12:50:37",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Josh_Carlton"
-  },
-  {
-   "detail": "Awudu Abass  ~ team: Free agent -> Dubai Basketball",
-   "detected_at": "2026-10-12 12:50:37",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Awudu_Abass"
-  },
-  {
-   "detail": "Awudu Abass  ~ league: - -> ABA League EuroLeague",
-   "detected_at": "2026-10-12 12:50:37",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Awudu_Abass"
-  },
-  {
-   "detail": "Awudu Abass  ~ number: - -> 5",
-   "detected_at": "2026-10-12 12:50:37",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Awudu_Abass"
-  },
-  {
-   "detail": "Awudu Abass  ~ CAREER  + 2024–present Dubai Basketball",
-   "detected_at": "2026-10-12 12:50:37",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Awudu_Abass"
   }
  ],
  "feeds": {
@@ -9864,8 +9864,8 @@
    "last": "2026-10-15 08:26:23"
   },
   "SCORES": {
-   "count": 2098,
-   "last": "2026-10-15 08:26:24"
+   "count": 2100,
+   "last": "2026-10-15 09:46:00"
   },
   "SHEETS": {
    "count": 4852,
@@ -9876,14 +9876,14 @@
    "last": "2026-10-14 14:50:55"
   },
   "WIKI": {
-   "count": 5796,
-   "last": "2026-10-15 08:23:38"
+   "count": 5802,
+   "last": "2026-10-15 09:45:38"
   },
   "WIKIWATCH": {
    "count": 372,
    "last": "2026-10-15 07:36:18"
   }
  },
- "generated_at": "2026-10-15T09:18:02",
- "total": 29683
+ "generated_at": "2026-10-15T09:46:22",
+ "total": 29691
 }
