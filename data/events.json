@@ -1,6 +1,111 @@
 {
  "events": [
   {
+   "detail": "Euroleague Virtus Bologna 96, Paris Basketball 94",
+   "detected_at": "2026-10-14 17:33:54",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-14/Virtus-Bologna-at-Paris-Basketball/526817"
+  },
+  {
+   "detail": "Slovenian SKL Ilirija 93, Zlatorog 69",
+   "detected_at": "2026-10-14 17:33:51",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-14/Ilirija-at-Zlatorog/537247"
+  },
+  {
+   "detail": "Slovenian SKL + Gaber Kisin → Ilirija",
+   "detected_at": "2026-10-14 17:33:49",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Slovenian SKL Krka Novo Mesto 92, Helios Domzale 68",
+   "detected_at": "2026-10-14 17:33:47",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-14/Helios-Domzale-at-Krka-Novo-Mesto/537246"
+  },
+  {
+   "detail": "Slovenian SKL ~ MOVED David Krizanic → Helios Domzale (from Sigal Prishtina)",
+   "detected_at": "2026-10-14 17:33:46",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Slovakian Extraliga MBK Handlova 63, Slovan Bratislava 62",
+   "detected_at": "2026-10-14 17:33:43",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-14/MBK-Handlova-at-Slovan-Bratislava/534247"
+  },
+  {
+   "detail": "VTB United League Enisey Krasnoyarsk 91, Samara 70",
+   "detected_at": "2026-10-14 17:33:40",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-14/Samara-at-Enisey-Krasnoyarsk/533296"
+  },
+  {
+   "detail": "VTB United League UNICS Kazan 95, Uralmash 84",
+   "detected_at": "2026-10-14 17:33:36",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-14/Uralmash-at-UNICS-Kazan/533295"
+  },
+  {
+   "detail": "Euroleague Bayern Munich 101, Anadolu Efes 93",
+   "detected_at": "2026-10-14 17:33:32",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-14/Bayern-Munich-at-Anadolu-Efes/526816"
+  },
+  {
+   "detail": "Estonian Latvian Basketball League TalTech ALEXELA 78, BK Liepaja 71",
+   "detected_at": "2026-10-14 17:33:29",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-14/TalTech-ALEXELA-at-BK-Liepaja/540686"
+  },
+  {
+   "detail": "Belarusian BPL Rubon 78, Grodno 93 70",
+   "detected_at": "2026-10-14 17:33:25",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-14/Grodno-93-at-Rubon/544736"
+  },
+  {
+   "detail": "Belarusian BPL ~ RETURN Ilya Vasilevsky → Rubon (from Rubon 2)",
+   "detected_at": "2026-10-14 17:33:24",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "Euroleague Hapoel Tel Aviv 100, Besiktas Icrypex 82",
+   "detected_at": "2026-10-14 17:33:21",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-14/Besiktas-Icrypex-at-Hapoel-Tel-Aviv/526815"
+  },
+  {
+   "detail": "Euroleague + Amir Coffey → Hapoel Tel Aviv",
+   "detected_at": "2026-10-14 17:33:20",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Czech NBL BK JIP Pardubice 88, Olomoucko Prostejov 61",
+   "detected_at": "2026-10-14 17:33:17",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-14/BK-JIP-Pardubice-at-Olomoucko-Prostejov/527459"
+  },
+  {
    "detail": "Sander Raieste  ~ number: - -> 2",
    "detected_at": "2026-10-14 16:45:38",
    "source": "WIKI",
@@ -9758,111 +9863,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Italian Lega Basket Serie A + Simone Ventura → Acqua San Bernardo Cantu",
-   "detected_at": "2026-10-12 09:13:21",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Italian Lega Basket Serie A AX Armani Exchange Milan 106, Universo DeLonghi Treviso 77",
-   "detected_at": "2026-10-12 09:13:19",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-11/Universo-DeLonghi-Treviso-at-AX-Armani-Exchange-Milan/529576"
-  },
-  {
-   "detail": "Italian Lega Basket Serie A Grissin Bon Reggio Emilia 93, Bertram Tortona 86",
-   "detected_at": "2026-10-12 09:13:15",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-11/Bertram-Tortona-at-Grissin-Bon-Reggio-Emilia/529577"
-  },
-  {
-   "detail": "Adriatic League Liga ABA KK Mega Bemax 88, KK Zadar 82",
-   "detected_at": "2026-10-12 09:13:11",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-11/KK-Zadar-at-KK-Mega-Bemax/537336"
-  },
-  {
-   "detail": "Adriatic League Liga ABA + Ognjen Nikolic → KK Mega Bemax",
-   "detected_at": "2026-10-12 09:13:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Adriatic League Liga ABA KK Partizan 99, BC Hallmann Vienna 78",
-   "detected_at": "2026-10-12 09:13:08",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-11/BC-Hallmann-Vienna-at-KK-Partizan/537334"
-  },
-  {
-   "detail": "Adriatic League Liga ABA Dubai 92, U Banca Transilvania Cluj Napoca 85",
-   "detected_at": "2026-10-12 09:13:04",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-11/Dubai-at-U-Banca-Transilvania-Cluj-Napoca/537331"
-  },
-  {
-   "detail": "Adriatic League Liga ABA FMP Beograd 79, Krka Novo Mesto 68",
-   "detected_at": "2026-10-12 09:13:00",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-11/FMP-Beograd-at-Krka-Novo-Mesto/537329"
-  },
-  {
-   "detail": "Adriatic League Liga ABA + Petar Grojic → FMP Beograd",
-   "detected_at": "2026-10-12 09:12:59",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL Rubon 2 90, Borisfen Mogilev Youth 73",
-   "detected_at": "2026-10-12 09:12:56",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-11/Rubon-2-at-Borisfen-Mogilev-Youth/544732"
-  },
-  {
-   "detail": "Belarusian BPL + Andrey Velesik → Rubon 2",
-   "detected_at": "2026-10-12 09:12:55",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Gleb Tumashik → Rubon 2",
-   "detected_at": "2026-10-12 09:12:55",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Andrey Ulasevich → Rubon 2",
-   "detected_at": "2026-10-12 09:12:55",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL ~ MOVED Zakhar Linderov → Rubon 2 (from Rubon)",
-   "detected_at": "2026-10-12 09:12:55",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL ~ MOVED Ilya Vasilevsky → Rubon 2 (from Rubon)",
-   "detected_at": "2026-10-12 09:12:55",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -9883,12 +9883,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 9338,
-   "last": "2026-10-14 13:12:55"
+   "count": 9342,
+   "last": "2026-10-14 17:33:49"
   },
   "SCORES": {
-   "count": 2052,
-   "last": "2026-10-14 16:31:52"
+   "count": 2063,
+   "last": "2026-10-14 17:33:54"
   },
   "SHEETS": {
    "count": 4852,
@@ -9907,6 +9907,6 @@
    "last": "2026-10-13 14:54:34"
   }
  },
- "generated_at": "2026-10-14T17:32:01",
- "total": 29494
+ "generated_at": "2026-10-14T17:34:11",
+ "total": 29509
 }
