@@ -1,6 +1,18 @@
 {
  "events": [
   {
+   "detail": "+ ADDED   Jahmir Young (LAL)",
+   "detected_at": "2026-10-15 10:12:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "+ ADDED   Niwa Tait-Jones (LAL)",
+   "detected_at": "2026-10-15 10:12:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
    "detail": "Tony Bradley  ~ 76384: team -> Free agent",
    "detected_at": "2026-10-15 09:54:15",
    "source": "WIKIWATCH",
@@ -9826,20 +9838,6 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Boris_Ti%C5%A1ma"
-  },
-  {
-   "detail": "Saliou Niang  ~ league: SEC -> -",
-   "detected_at": "2026-10-12 13:20:37",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Saliou_Niang"
-  },
-  {
-   "detail": "Saliou Niang  ~ nationality: Italian -> -",
-   "detected_at": "2026-10-12 13:20:37",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Saliou_Niang"
   }
  ],
  "feeds": {
@@ -9852,8 +9850,8 @@
    "last": "2026-10-15 07:17:41"
   },
   "PLAYERS": {
-   "count": 1715,
-   "last": "2026-10-15 08:14:54"
+   "count": 1717,
+   "last": "2026-10-15 10:12:54"
   },
   "RATINGS": {
    "count": 950,
@@ -9884,6 +9882,6 @@
    "last": "2026-10-15 09:54:15"
   }
  },
- "generated_at": "2026-10-15T10:12:06",
- "total": 29701
+ "generated_at": "2026-10-15T10:13:01",
+ "total": 29703
 }
