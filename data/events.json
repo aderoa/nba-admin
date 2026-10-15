@@ -1,6 +1,41 @@
 {
  "events": [
   {
+   "detail": "VTB United League CSKA Moscow 103, Dynamo Vladivostok 88",
+   "detected_at": "2026-10-15 08:26:24",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-14/CSKA-Moscow-at-Dynamo-Vladivostok/533294"
+  },
+  {
+   "detail": "VTB United League + Amath M'Baye → CSKA Moscow",
+   "detected_at": "2026-10-15 08:26:23",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "FIBA Europe Cup Valmiera Glass Via 82, BC Kalev Cramo 74",
+   "detected_at": "2026-10-15 08:26:20",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-14/BC-Kalev-Cramo-at-Valmiera-Glass-Via/542025"
+  },
+  {
+   "detail": "FIBA Europe Cup Sporting Clube de Portugal 97, SCM CSU Craiova 77",
+   "detected_at": "2026-10-15 08:26:17",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-14/Sporting-Clube-de-Portugal-at-SCM-CSU-Craiova/542016"
+  },
+  {
+   "detail": "Spanish ACB Joventut Badalona 96, MoraBanc Andorra 75",
+   "detected_at": "2026-10-15 08:26:13",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-14/MoraBanc-Andorra-at-Joventut-Badalona/533419"
+  },
+  {
    "detail": "Earl Clark  ~ team: Club Atlético Aguada -> South Gobi Broncos",
    "detected_at": "2026-10-15 08:23:38",
    "source": "WIKI",
@@ -9805,41 +9840,6 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Awudu_Abass"
-  },
-  {
-   "detail": "Sharife Cooper  ~ number: 0 -> 2",
-   "detected_at": "2026-10-12 12:27:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Sharife_Cooper"
-  },
-  {
-   "detail": "Sharife Cooper  ~ 117356: number -> 0",
-   "detected_at": "2026-10-12 12:11:44",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "2"
-  },
-  {
-   "detail": "Tosan Evbuomwan  ~ height_ft: 6 -> -",
-   "detected_at": "2026-10-12 12:04:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Tosan_Evbuomwan"
-  },
-  {
-   "detail": "Tosan Evbuomwan  ~ height_in: 8 -> -",
-   "detected_at": "2026-10-12 12:04:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Tosan_Evbuomwan"
-  },
-  {
-   "detail": "Gabe York  ~ team: Free agent -> Qingdao Eagles",
-   "detected_at": "2026-10-12 12:04:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Gabe_York"
   }
  ],
  "feeds": {
@@ -9860,12 +9860,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 9379,
-   "last": "2026-10-15 07:25:34"
+   "count": 9380,
+   "last": "2026-10-15 08:26:23"
   },
   "SCORES": {
-   "count": 2094,
-   "last": "2026-10-15 07:25:35"
+   "count": 2098,
+   "last": "2026-10-15 08:26:24"
   },
   "SHEETS": {
    "count": 4852,
@@ -9884,6 +9884,6 @@
    "last": "2026-10-15 07:36:18"
   }
  },
- "generated_at": "2026-10-15T08:25:02",
- "total": 29678
+ "generated_at": "2026-10-15T08:26:39",
+ "total": 29683
 }
