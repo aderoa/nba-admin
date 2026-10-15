@@ -1,6 +1,41 @@
 {
  "events": [
   {
+   "detail": "Argentinian Liga A Penarol 84, Lanus 77",
+   "detected_at": "2026-10-14 23:00:03",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-14/Penarol-at-Lanus/541694"
+  },
+  {
+   "detail": "German Pro B TSG Reutlingen Ravens 92, SV Fellbach 70",
+   "detected_at": "2026-10-14 22:59:59",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-14/SV-Fellbach-at-TSG-Reutlingen-Ravens/525863"
+  },
+  {
+   "detail": "German Pro B BG Hessing Leitershofen 70, Porsche BBA 62",
+   "detected_at": "2026-10-14 22:59:56",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-14/Porsche-BBA-at-BG-Hessing-Leitershofen/525862"
+  },
+  {
+   "detail": "PBA Governors Cup NLEX Road Warriors 147, Titan Ultra Giant 115",
+   "detected_at": "2026-10-14 22:59:52",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-14/Titan-Ultra-Giant-at-NLEX-Road-Warriors/544791"
+  },
+  {
+   "detail": "PBA Governors Cup San Miguel Beermen 135, Terrafirma DYIP 105",
+   "detected_at": "2026-10-14 22:59:48",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-14/San-Miguel-Beermen-at-Terrafirma-DYIP/544790"
+  },
+  {
    "detail": "Paul Reed (basketball)  ~ position: Power forward -> Center / power forward",
    "detected_at": "2026-10-14 22:36:39",
    "source": "WIKI",
@@ -9828,41 +9863,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Bulgarian NBL + Ivan Zhivkov → Shumen",
-   "detected_at": "2026-10-12 09:13:58",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Bulgarian NBL + Igor Kesar → Minyor 2015",
-   "detected_at": "2026-10-12 09:13:58",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Bulgarian NBL + Alex Ouandie → Minyor 2015",
-   "detected_at": "2026-10-12 09:13:58",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Bulgarian NBL + Georgi Boyanov → Minyor 2015",
-   "detected_at": "2026-10-12 09:13:58",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Bulgarian NBL + Erik Dimitrov → Minyor 2015",
-   "detected_at": "2026-10-12 09:13:58",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -9887,8 +9887,8 @@
    "last": "2026-10-14 21:56:27"
   },
   "SCORES": {
-   "count": 2080,
-   "last": "2026-10-14 21:56:47"
+   "count": 2085,
+   "last": "2026-10-14 23:00:03"
   },
   "SHEETS": {
    "count": 4852,
@@ -9907,6 +9907,6 @@
    "last": "2026-10-13 14:54:34"
   }
  },
- "generated_at": "2026-10-14T22:51:04",
- "total": 29552
+ "generated_at": "2026-10-14T23:00:20",
+ "total": 29557
 }
