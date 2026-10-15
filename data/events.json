@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Cameron Payne  ~ 57476: position -> Point guard / shooting guard",
+   "detected_at": "2026-10-15 07:36:18",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Point guard"
+  },
+  {
+   "detail": "Matthew Strazel  ~ 127355: position -> Point guard",
+   "detected_at": "2026-10-15 07:36:18",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Point guard / shooting guard"
+  },
+  {
+   "detail": "Jaime Pradilla  ~ 108752: position -> Power forward",
+   "detected_at": "2026-10-15 07:36:18",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Power forward / center"
+  },
+  {
    "detail": "Bulgarian NBL Euroins Cherno More 93, BC Levski Lukoil 76",
    "detected_at": "2026-10-15 07:25:35",
    "source": "SCORES",
@@ -9840,27 +9861,6 @@
    "source": "WIKIWATCH",
    "type": "FIELD",
    "url": ""
-  },
-  {
-   "detail": "BNXT League Telenet BC Oostende 98, Landstede Zwolle 70",
-   "detected_at": "2026-10-12 09:14:40",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/Landstede-Zwolle-at-Telenet-BC-Oostende/527582"
-  },
-  {
-   "detail": "BNXT League + Tim Weijers → Landstede Zwolle",
-   "detected_at": "2026-10-12 09:14:39",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "BNXT League + Jasper Olsthoorn → Landstede Zwolle",
-   "detected_at": "2026-10-12 09:14:39",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -9901,10 +9901,10 @@
    "last": "2026-10-15 07:24:48"
   },
   "WIKIWATCH": {
-   "count": 369,
-   "last": "2026-10-13 14:54:34"
+   "count": 372,
+   "last": "2026-10-15 07:36:18"
   }
  },
- "generated_at": "2026-10-15T07:25:51",
- "total": 29621
+ "generated_at": "2026-10-15T07:37:05",
+ "total": 29624
 }
