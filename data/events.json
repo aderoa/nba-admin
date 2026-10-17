@@ -1,6 +1,24 @@
 {
  "events": [
   {
+   "detail": "+ ADDED   Buddy Boeheim (OKC)",
+   "detected_at": "2026-10-17 19:05:39",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "+ ADDED   Nolan Hickman (WAS)",
+   "detected_at": "2026-10-17 19:05:39",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "+ ADDED   Marcus Garrett (MIL)",
+   "detected_at": "2026-10-17 19:05:39",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
    "detail": "Collin Sexton  ~ league: - -> NBA",
    "detected_at": "2026-10-17 18:11:24",
    "source": "WIKI",
@@ -9959,24 +9977,6 @@
    "detected_at": "2026-10-13 17:34:59",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "SAC  CHANGED Players Under Contract  -  col3: 201295087 -> 204010613",
-   "detected_at": "2026-10-13 17:34:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "SAC  CHANGED Full Season Contracts  -  col3: 201295087 -> 204010613",
-   "detected_at": "2026-10-13 17:34:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "SAC  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 17 -> 19",
-   "detected_at": "2026-10-13 17:34:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -9989,8 +9989,8 @@
    "last": "2026-10-17 16:04:45"
   },
   "PLAYERS": {
-   "count": 1763,
-   "last": "2026-10-17 08:08:39"
+   "count": 1766,
+   "last": "2026-10-17 19:05:39"
   },
   "RATINGS": {
    "count": 950,
@@ -10021,6 +10021,6 @@
    "last": "2026-10-17 08:40:48"
   }
  },
- "generated_at": "2026-10-17T19:04:47",
- "total": 30554
+ "generated_at": "2026-10-17T19:05:47",
+ "total": 30557
 }
