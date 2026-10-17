@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "2026-10-17  LA Clippers signed guard Cam Christie to a Two-Way Contract.",
+   "detected_at": "2026-10-17 19:33:40",
+   "source": "TRANSACTIONS",
+   "type": "Signing"
+  },
+  {
    "detail": "Both Gach  ~ position: Small forward -> Small forward / power forward",
    "detected_at": "2026-10-17 19:25:54",
    "source": "WIKI",
@@ -9973,12 +9979,6 @@
    "source": "REALGM",
    "type": "RETURN",
    "url": ""
-  },
-  {
-   "detail": "SAC  + ADDED  Monsanto, Damari",
-   "detected_at": "2026-10-13 17:34:59",
-   "source": "SHEETS",
-   "type": "ADDED"
   }
  ],
  "feeds": {
@@ -10011,8 +10011,8 @@
    "last": "2026-10-17 16:03:44"
   },
   "TRANSACTIONS": {
-   "count": 561,
-   "last": "2026-10-17 17:52:40"
+   "count": 562,
+   "last": "2026-10-17 19:33:40"
   },
   "WIKI": {
    "count": 6141,
@@ -10023,6 +10023,6 @@
    "last": "2026-10-17 08:40:48"
   }
  },
- "generated_at": "2026-10-17T19:25:55",
- "total": 30559
+ "generated_at": "2026-10-17T19:33:48",
+ "total": 30560
 }
