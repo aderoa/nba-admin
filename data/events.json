@@ -1,6 +1,90 @@
 {
  "events": [
   {
+   "detail": "Jalen Bridges  ~ height_in: 8 -> 7",
+   "detected_at": "2026-10-17 14:31:24",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jalen_Bridges"
+  },
+  {
+   "detail": "Argentinian Liga A Club Athletico Platense 86, Obera Tenis Club 80",
+   "detected_at": "2026-10-17 14:18:00",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-16/Obera-Tenis-Club-at-Club-Athletico-Platense/542032"
+  },
+  {
+   "detail": "Argentinian Liga A Penarol 92, San Lorenzo de Almagro 85",
+   "detected_at": "2026-10-17 14:17:56",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-16/Penarol-at-San-Lorenzo-de-Almagro/542033"
+  },
+  {
+   "detail": "Argentinian Liga A + Gustavo Aguirre → San Lorenzo de Almagro",
+   "detected_at": "2026-10-17 14:17:55",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Argentinian Liga A + Lucas Gargallo → San Lorenzo de Almagro",
+   "detected_at": "2026-10-17 14:17:55",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Argentinian Liga A + Carlos Schattmann → San Lorenzo de Almagro",
+   "detected_at": "2026-10-17 14:17:55",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Argentinian Liga A + Raynere Thornton → San Lorenzo de Almagro",
+   "detected_at": "2026-10-17 14:17:55",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Argentinian Liga A + Cli'Ron Hornbeak → San Lorenzo de Almagro",
+   "detected_at": "2026-10-17 14:17:55",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Argentinian Liga A + Marcos Mata → San Lorenzo de Almagro",
+   "detected_at": "2026-10-17 14:17:55",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Argentinian Liga A + Antun Maricevic → San Lorenzo de Almagro",
+   "detected_at": "2026-10-17 14:17:55",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Argentinian Liga A + Thiago Roca → San Lorenzo de Almagro",
+   "detected_at": "2026-10-17 14:17:55",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Argentinian Liga A + Santiago Calderon → San Lorenzo de Almagro",
+   "detected_at": "2026-10-17 14:17:55",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
    "detail": "James Ennis III  ~ team: Piratas de La Guaira -> Free agent",
    "detected_at": "2026-10-17 13:45:41",
    "source": "WIKI",
@@ -9913,78 +9997,6 @@
    "detected_at": "2026-10-13 12:33:54",
    "source": "PLAYERS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Draymond Green  weight: 235 -> 240",
-   "detected_at": "2026-10-13 12:33:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Gary Payton II  weight: 195 -> 192",
-   "detected_at": "2026-10-13 12:33:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED LJ Cryer  weight: 202 -> 197",
-   "detected_at": "2026-10-13 12:33:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Bogdan Bogdanović  name: Bogdan Bogdanovic -> Bogdan Bogdanović",
-   "detected_at": "2026-10-13 12:33:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Bogdan Bogdanović  weight: 225 -> 231",
-   "detected_at": "2026-10-13 12:33:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Quadir Copeland  height: 6-6 -> 6-5",
-   "detected_at": "2026-10-13 12:33:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Quadir Copeland  weight: 203 -> 214",
-   "detected_at": "2026-10-13 12:33:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Alperen Sengun  weight: 243 -> 271",
-   "detected_at": "2026-10-13 12:33:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Kelly Oubre Jr.  height: 6-8 -> 6-7",
-   "detected_at": "2026-10-13 12:33:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Malevy Leons  weight: 210 -> 206",
-   "detected_at": "2026-10-13 12:33:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Jabari Smith Jr.  weight: 220 -> 231",
-   "detected_at": "2026-10-13 12:33:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Evan Mobley  school: USC -> Southern California",
-   "detected_at": "2026-10-13 12:33:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10005,12 +10017,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 9435,
-   "last": "2026-10-17 08:23:29"
+   "count": 9444,
+   "last": "2026-10-17 14:17:55"
   },
   "SCORES": {
-   "count": 2195,
-   "last": "2026-10-17 13:17:31"
+   "count": 2197,
+   "last": "2026-10-17 14:18:00"
   },
   "SHEETS": {
    "count": 4916,
@@ -10021,14 +10033,14 @@
    "last": "2026-10-17 08:08:40"
   },
   "WIKI": {
-   "count": 6103,
-   "last": "2026-10-17 13:45:41"
+   "count": 6104,
+   "last": "2026-10-17 14:31:24"
   },
   "WIKIWATCH": {
    "count": 399,
    "last": "2026-10-17 08:40:48"
   }
  },
- "generated_at": "2026-10-17T14:17:47",
- "total": 30371
+ "generated_at": "2026-10-17T14:31:26",
+ "total": 30383
 }
