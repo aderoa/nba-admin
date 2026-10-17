@@ -1,6 +1,114 @@
 {
  "events": [
   {
+   "detail": "BOS  - REMOVED Carter, Devin",
+   "detected_at": "2026-10-17 16:02:45",
+   "source": "SHEETS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "BOS  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 217526659 -> 215077238, col9: 715861718.8 -> 713412297.8",
+   "detected_at": "2026-10-17 16:02:45",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "BOS  CHANGED Players Under Contract  -  col3: 208257585 -> 205808164",
+   "detected_at": "2026-10-17 16:02:45",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "BOS  CHANGED Full Season Contracts  -  col3: 208257585 -> 205808164",
+   "detected_at": "2026-10-17 16:02:45",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "BOS  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 19 -> 18",
+   "detected_at": "2026-10-17 16:02:45",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "TOR  - REMOVED Bittle, Nathan",
+   "detected_at": "2026-10-17 16:02:45",
+   "source": "SHEETS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "TOR  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 221853319 -> 220495556, col9: 701578050.6 -> 700220287.6",
+   "detected_at": "2026-10-17 16:02:45",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "TOR  CHANGED Players Under Contract  -  col3: 208805056 -> 207447293",
+   "detected_at": "2026-10-17 16:02:45",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "TOR  CHANGED Full Season Contracts  -  col3: 208805056 -> 207447293",
+   "detected_at": "2026-10-17 16:02:45",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "TOR  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 19 -> 18",
+   "detected_at": "2026-10-17 16:02:45",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col3: 7829585 -> 5380164, col29: 8377056 -> 7019293",
+   "detected_at": "2026-10-17 16:02:45",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 1st Incremental Tax Bracket  -  col3: 17055000 -> 16140492",
+   "detected_at": "2026-10-17 16:02:45",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 2nd Incremental Tax Bracket  -  col3: 6969901.25 -> 0, col29: 3365070 -> 1667866.25",
+   "detected_at": "2026-10-17 16:02:45",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col3: 24024901.25 -> 16140492, col29: 9050070 -> 7352866.25",
+   "detected_at": "2026-10-17 16:02:45",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED Devin Carter Boston Celtics",
+   "detected_at": "2026-10-17 16:02:41",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Devin Carter (CONVERTED) Boston Celtics",
+   "detected_at": "2026-10-17 16:02:41",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  - REMOVED Nathan Bittle Toronto Raptors",
+   "detected_at": "2026-10-17 16:02:41",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Nathan Bittle (WAIVED) Toronto Raptors",
+   "detected_at": "2026-10-17 16:02:41",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "2026-27 Two-Way Signings  - REMOVED Trey Jemison Toronto Raptors",
    "detected_at": "2026-10-17 15:53:40",
    "source": "DOCS",
@@ -9864,120 +9972,12 @@
    "detected_at": "2026-10-13 17:17:59",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "MEM  CHANGED Players Under Contract  -  col3: 126892488.9 -> 128250251.9",
-   "detected_at": "2026-10-13 17:17:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "MEM  CHANGED Full Season Contracts  -  col3: 126892488.9 -> 128250251.9",
-   "detected_at": "2026-10-13 17:17:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "MEM  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 17 -> 18",
-   "detected_at": "2026-10-13 17:17:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "TOR  + ADDED  Degenhart, Tyson #2",
-   "detected_at": "2026-10-13 17:17:59",
-   "source": "SHEETS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "TOR  + ADDED  Sharp, Jamarion",
-   "detected_at": "2026-10-13 17:17:59",
-   "source": "SHEETS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "TOR  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 220495556 -> 221853319, col9: 700220287.6 -> 701578050.6",
-   "detected_at": "2026-10-13 17:17:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "TOR  CHANGED Players Under Contract  -  col3: 207447293 -> 208805056",
-   "detected_at": "2026-10-13 17:17:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "TOR  CHANGED Full Season Contracts  -  col3: 207447293 -> 208805056",
-   "detected_at": "2026-10-13 17:17:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "TOR  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 18 -> 19",
-   "detected_at": "2026-10-13 17:17:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col29: 7019293 -> 8377056",
-   "detected_at": "2026-10-13 17:17:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED 2nd Incremental Tax Bracket  -  col29: 1667866.25 -> 3365070",
-   "detected_at": "2026-10-13 17:17:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col29: 7352866.25 -> 9050070",
-   "detected_at": "2026-10-13 17:17:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  - REMOVED Update 1.3 (7/18/26): K. Lopez, K. Diop, J. Bradley, O. Agbim, R. Agee, J. Aidoo, J. Akins, J. Akins, D. Allen, J. Allick, D. Armstrong, M. Armstrong, Z. Austin, W. Baker, A. Baldwin, A. Bandaogo, M. Barnstable, K. Boone, N. Boyd, D. Brown, T. Brown, N. Burnett, L. Butler, J. Camden, C. Camper, T. Carroll, R. Castro, C. Corhen, D. Dainja, D. Daniels, J. Davis, T. Degenhart, E. Dixon, R. Dixon-Waters, B. Dunning, S. East, J. Elmore, W. Fricks, T. Funk, D. Garcia, D. Goodwin, C. Grill, J. Hadley, J. Harmon, B. Hausen, D. Higgs, C. Hildreth, A. Hoggard, S. Hoiberg, A. Holifield, J. House, B. Humrichous, L. Hyun-jung, M. Iraldi, K. Johnson, S. Johnson, J. Joiner, J. Joiner, K. Jones, N. Jourdain, M. Keita, W. Kyle, V. Lakhin, G. Levin, F. Loyer, G. Madsen, H. Mallettte, K. Mangas, C. Mantis, T. Marshall, M. Mascari, R. Mast, R. McCray, I. McKneely, C. McMillian, S. McNeil, I. Milicic, B. Miller, J. Moni, J. Moore, K. Murphy, D. Murray, M. Murrell, J. Nelson, J. Nunn, J. O’Neil, T. Okani, N. Pringle, A. Pritchard, E. Ralph, K. Reeves, J. Riley, D. Rodman, C. Ross, N. Santos, I. Schieffelin, M. Sharavjamts, A. Scott, W. Settle, C. Shumate, D. Smith, J. Stephens, K. Stewart, P. Suder, M. Sutton, W. Taylor, S. Thomas, S. Thompson, C. Tilly, T. Townsend, J. Ukomadu, M. Wague, B. Warren, S. Washington, R. Weems, B. Williams, P. Zilinskas",
-   "detected_at": "2026-10-13 17:17:56",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Update 1.3 (7/18/26): K. Lopez, K. Diop, J. Bradley, O. Agbim, R. Agee, J. Aidoo, J. Akins, J. Akins, D. Allen, J. Allick, D. Armstrong, M. Armstrong, Z. Austin, W. Baker, A. Baldwin, A. Bandaogo, M. Barnstable, K. Boone, N. Boyd, D. Brown, T. Brown, N. Burnett, L. Butler, J. Camden, C. Camper, T. Carroll, R. Castro, Z. Cleveland, C. Corhen, M. Cross, D. Dainja, D. Daniels, J. Davis, T. Degenhart, E. Dixon, R. Dixon-Waters, B. Dunning, S. East, J. Elmore, W. Fricks, T. Funk, D. Garcia, D. Goodwin, C. Grill, J. Hadley, J. Harmon, B. Hausen, D. Higgs, C. Hildreth, A. Hoggard, S. Hoiberg, A. Holifield, J. House, B. Humrichous, L. Hyun-jung, M. Iraldi, K. Johnson, S. Johnson, J. Joiner, J. Joiner, K. Jones, N. Jourdain, M. Keita, W. Kyle, V. Lakhin, G. Levin, F. Loyer, G. Madsen, H. Mallettte, K. Mangas, C. Mantis, T. Marshall, M. Mascari, R. Mast, R. McCray, I. McKneely, C. McMillian, S. McNeil, I. Milicic, B. Miller, J. Moni, J. Moore, K. Murphy, D. Murray, M. Murrell, J. Nelson, J. Nunn, J. O’Neil, T. Okani, N. Pringle, A. Pritchard, E. Ralph, K. Reeves, J. Riley, D. Rodman, C. Ross, N. Santos, I. Schieffelin, M. Sharavjamts, A. Scott, W. Settle, C. Shumate, D. Smith, J. Stephens, K. Stewart, P. Suder, M. Sutton, W. Taylor, S. Thomas, S. Thompson, C. Tilly, T. Townsend, J. Ukomadu, M. Wague, B. Warren, S. Washington, R. Weems, B. Williams, P. Zilinskas",
-   "detected_at": "2026-10-13 17:17:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Zach Cleveland Memphis Grizzlies",
-   "detected_at": "2026-10-13 17:17:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  26-27 $1,357,763",
-   "detected_at": "2026-10-13 17:17:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
-   "detected_at": "2026-10-13 17:17:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 10/12/26",
-   "detected_at": "2026-10-13 17:17:56",
-   "source": "DOCS",
-   "type": "ADDED"
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 3929,
-   "last": "2026-10-17 15:53:40"
+   "count": 3933,
+   "last": "2026-10-17 16:02:41"
   },
   "GLEAGUE": {
    "count": 192,
@@ -10000,8 +10000,8 @@
    "last": "2026-10-17 15:27:58"
   },
   "SHEETS": {
-   "count": 4932,
-   "last": "2026-10-17 15:19:59"
+   "count": 4946,
+   "last": "2026-10-17 16:02:45"
   },
   "TRANSACTIONS": {
    "count": 559,
@@ -10016,6 +10016,6 @@
    "last": "2026-10-17 08:40:48"
   }
  },
- "generated_at": "2026-10-17T16:01:46",
- "total": 30505
+ "generated_at": "2026-10-17T16:02:48",
+ "total": 30523
 }
