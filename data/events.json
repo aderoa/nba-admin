@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Both Gach  ~ position: Small forward -> Small forward / power forward",
+   "detected_at": "2026-10-17 19:25:54",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Both_Gach"
+  },
+  {
+   "detail": "Hugo Besson  ~ position: Shooting guard / point guard -> Shooting guard / small forward",
+   "detected_at": "2026-10-17 19:25:54",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Hugo_Besson"
+  },
+  {
    "detail": "+ ADDED   Buddy Boeheim (OKC)",
    "detected_at": "2026-10-17 19:05:39",
    "source": "PLAYERS",
@@ -9965,18 +9979,6 @@
    "detected_at": "2026-10-13 17:34:59",
    "source": "SHEETS",
    "type": "ADDED"
-  },
-  {
-   "detail": "SAC  + ADDED  Nkrumah, Aaron",
-   "detected_at": "2026-10-13 17:34:59",
-   "source": "SHEETS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "SAC  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 220981452.3 -> 223696978.3, col9: 484935482.6 -> 487651008.6",
-   "detected_at": "2026-10-13 17:34:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10013,14 +10015,14 @@
    "last": "2026-10-17 17:52:40"
   },
   "WIKI": {
-   "count": 6139,
-   "last": "2026-10-17 18:11:24"
+   "count": 6141,
+   "last": "2026-10-17 19:25:54"
   },
   "WIKIWATCH": {
    "count": 399,
    "last": "2026-10-17 08:40:48"
   }
  },
- "generated_at": "2026-10-17T19:10:47",
- "total": 30557
+ "generated_at": "2026-10-17T19:25:55",
+ "total": 30559
 }
