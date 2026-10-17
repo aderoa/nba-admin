@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "2026-10-16  Philadelphia 76ers converted the contract of center Tacko Fall to a Two-Way Contract.",
+   "detected_at": "2026-10-17 17:40:40",
+   "source": "TRANSACTIONS",
+   "type": "ContractConverted"
+  },
+  {
    "detail": "Renaldo Balkman  ~ team: Vaqueros de Bayamón -> Free agent",
    "detected_at": "2026-10-17 17:26:34",
    "source": "WIKI",
@@ -9970,12 +9976,6 @@
    "detected_at": "2026-10-13 17:34:59",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED 2nd Incremental Tax Bracket  -  col27: 0 -> 1538682.917",
-   "detected_at": "2026-10-13 17:34:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10008,8 +10008,8 @@
    "last": "2026-10-17 16:03:44"
   },
   "TRANSACTIONS": {
-   "count": 559,
-   "last": "2026-10-17 08:08:40"
+   "count": 560,
+   "last": "2026-10-17 17:40:40"
   },
   "WIKI": {
    "count": 6138,
@@ -10020,6 +10020,6 @@
    "last": "2026-10-17 08:40:48"
   }
  },
- "generated_at": "2026-10-17T17:39:46",
- "total": 30551
+ "generated_at": "2026-10-17T17:40:49",
+ "total": 30552
 }
