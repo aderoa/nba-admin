@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "2026-10-17  Toronto Raptors converted the contract of center Nate Bittle to a Two-Way Contract.",
+   "detected_at": "2026-10-17 17:52:40",
+   "source": "TRANSACTIONS",
+   "type": "ContractConverted"
+  },
+  {
    "detail": "2026-10-16  Philadelphia 76ers converted the contract of center Tacko Fall to a Two-Way Contract.",
    "detected_at": "2026-10-17 17:40:40",
    "source": "TRANSACTIONS",
@@ -9970,12 +9976,6 @@
    "detected_at": "2026-10-13 17:34:59",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED 1st Incremental Tax Bracket  -  col27: 4200420.333 -> 5685000",
-   "detected_at": "2026-10-13 17:34:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10008,8 +10008,8 @@
    "last": "2026-10-17 16:03:44"
   },
   "TRANSACTIONS": {
-   "count": 560,
-   "last": "2026-10-17 17:40:40"
+   "count": 561,
+   "last": "2026-10-17 17:52:40"
   },
   "WIKI": {
    "count": 6138,
@@ -10020,6 +10020,6 @@
    "last": "2026-10-17 08:40:48"
   }
  },
- "generated_at": "2026-10-17T17:51:46",
- "total": 30552
+ "generated_at": "2026-10-17T17:52:46",
+ "total": 30553
 }
