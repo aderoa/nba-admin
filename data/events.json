@@ -1,6 +1,48 @@
 {
  "events": [
   {
+   "detail": "2026-27 Veteran Signings  - REMOVED 29-30 $22,926,546",
+   "detected_at": "2026-10-17 16:21:41",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED 2 Years for $",
+   "detected_at": "2026-10-17 16:21:41",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED . Veteran Extension. Insurance Premium Reimbursement. Skill; Injury or Illness; Mental. Trade Kicker (Lesser of $1,000,000 or 15%).",
+   "detected_at": "2026-10-17 16:21:41",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED Execution Date: 9/17/26",
+   "detected_at": "2026-10-17 16:21:41",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  29-30 $22,926,546 (Player/Team Option)",
+   "detected_at": "2026-10-17 16:21:41",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  2 Years for $44,154,656. Veteran Extension. Advance Payment ($1,000,000). Player or Team option to extend the contract to include the 2029-30 Season. Insurance Premium Reimbursement. Skill; Injury or Illness; Mental. Love of the Game.",
+   "detected_at": "2026-10-17 16:21:41",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 10/16/26",
+   "detected_at": "2026-10-17 16:21:41",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "2026-10-16  Traded: James Banks Iii (Lakers)",
    "detected_at": "2026-10-17 16:04:45",
    "source": "GLEAGUE",
@@ -9930,54 +9972,12 @@
    "detected_at": "2026-10-13 17:34:56",
    "source": "DOCS",
    "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  26-27 $1,357,763",
-   "detected_at": "2026-10-13 17:34:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
-   "detected_at": "2026-10-13 17:34:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 10/11/26",
-   "detected_at": "2026-10-13 17:34:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Aaron Nkrumah Sacramento Kings",
-   "detected_at": "2026-10-13 17:34:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  26-27 $1,357,763",
-   "detected_at": "2026-10-13 17:34:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
-   "detected_at": "2026-10-13 17:34:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 10/11/26",
-   "detected_at": "2026-10-13 17:34:56",
-   "source": "DOCS",
-   "type": "ADDED"
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 3941,
-   "last": "2026-10-17 16:04:40"
+   "count": 3948,
+   "last": "2026-10-17 16:21:41"
   },
   "GLEAGUE": {
    "count": 197,
@@ -10016,6 +10016,6 @@
    "last": "2026-10-17 08:40:48"
   }
  },
- "generated_at": "2026-10-17T16:11:25",
- "total": 30540
+ "generated_at": "2026-10-17T16:21:49",
+ "total": 30547
 }
