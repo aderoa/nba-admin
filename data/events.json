@@ -1,6 +1,18 @@
 {
  "events": [
   {
+   "detail": "+ ADDED   Cam Christie (LAC)",
+   "detected_at": "2026-10-17 21:08:39",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "+ ADDED   Dink Pate (NYK)",
+   "detected_at": "2026-10-17 21:08:39",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
    "detail": "Kaiser Gates  ~ team: Free agent -> UCAM Murcia",
    "detected_at": "2026-10-17 20:55:09",
    "source": "WIKI",
@@ -9964,20 +9976,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Italian Serie A2 Basket + Giovanni Pini → Carpegna Prosciutto Basket Pesaro",
-   "detected_at": "2026-10-13 18:28:16",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Italian Serie A2 Basket Sidigas Avellino 94, Unieuro Forli 81",
-   "detected_at": "2026-10-13 18:28:13",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-11/Unieuro-Forli-at-Sidigas-Avellino/529811"
   }
  ],
  "feeds": {
@@ -9990,8 +9988,8 @@
    "last": "2026-10-17 16:04:45"
   },
   "PLAYERS": {
-   "count": 1766,
-   "last": "2026-10-17 19:05:39"
+   "count": 1768,
+   "last": "2026-10-17 21:08:39"
   },
   "RATINGS": {
    "count": 950,
@@ -10022,6 +10020,6 @@
    "last": "2026-10-17 08:40:48"
   }
  },
- "generated_at": "2026-10-17T21:07:46",
- "total": 30571
+ "generated_at": "2026-10-17T21:08:48",
+ "total": 30573
 }
