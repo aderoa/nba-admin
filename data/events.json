@@ -1,6 +1,18 @@
 {
  "events": [
   {
+   "detail": "2026-27 Two-Way Signings  - REMOVED Trey Jemison Toronto Raptors",
+   "detected_at": "2026-10-17 15:53:40",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Two-Way Signings  + ADDED  Trey Jemison (WAIVED) Toronto Raptors",
+   "detected_at": "2026-10-17 15:53:40",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "2026-27 Veteran Signings  + ADDED  Hunter Dickinson (WAIVED) New Orleans Pelicans",
    "detected_at": "2026-10-17 15:51:40",
    "source": "DOCS",
@@ -9960,24 +9972,12 @@
    "detected_at": "2026-10-13 17:17:56",
    "source": "DOCS",
    "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Matt Cross Dallas Mavericks",
-   "detected_at": "2026-10-13 17:17:56",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  26-27 $1,357,763",
-   "detected_at": "2026-10-13 17:17:56",
-   "source": "DOCS",
-   "type": "ADDED"
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 3927,
-   "last": "2026-10-17 15:51:40"
+   "count": 3929,
+   "last": "2026-10-17 15:53:40"
   },
   "GLEAGUE": {
    "count": 192,
@@ -10016,6 +10016,6 @@
    "last": "2026-10-17 08:40:48"
   }
  },
- "generated_at": "2026-10-17T15:52:47",
- "total": 30503
+ "generated_at": "2026-10-17T15:53:47",
+ "total": 30505
 }
