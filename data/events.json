@@ -1,6 +1,42 @@
 {
  "events": [
   {
+   "detail": "BOS  CHANGED Pritchard, Payton  -  col5: - -> 21228200.0, col6: - -> 22926456.0, col9: 16071428 -> 60226084",
+   "detected_at": "2026-10-17 16:03:44",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "BOS  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col5: 161995847 -> 183224047, col6: 101156742.6 -> 124083198.6, col9: 713412297.8 -> 757566953.8",
+   "detected_at": "2026-10-17 16:03:44",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "BOS  CHANGED Players Under Contract  -  col5: 161995847 -> 183224047, col6: 101156742.6 -> 124083198.6",
+   "detected_at": "2026-10-17 16:03:44",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "BOS  CHANGED Full Season Contracts  -  col5: 161995847 -> 183224047, col6: 101156742.6 -> 124083198.6",
+   "detected_at": "2026-10-17 16:03:44",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED Update 1.3 (7/18/26): O. Agbaji, B. Beal, J. Bernard, R. Beekman, S. Bey, L. Black, B. Boston, T. Bradley, J. Bridges, D. Brooks, K. Brooks, J. Broome, B. Brown, K. Brown, K. Bufkin, T. Burton, J. Butler Jr., K. Caldwell-Pope, D. Carter, K. Chandler, M. Cisse, Y. Collins, I. Crawford, J. Crutcher, J. Cumberland, S. Curry, N. Dante, J. Davison, D. DeRozan, H. Dickinson, J. Duren, D. Eubanks, T. Fall, K. George, A. Gill, J. Gortman, H. Gray, D. Green, J. Harden, M. Hezonja, H. Highsmith, C. Houstan, C. Houstan, H. Ingram, A. Jackson, L. James, J. Johnson, K. Johnson, C. Jones D. Jones, S. Jones, Y. Kawamura, T. Keels, K. Kelley, M. Kelly, K. Knox, C. Koloko, J. Konchar, J. Kuminga, S. Labissiere, P. Larsson, K. Leonard, K. Lewis, C. Livingston, L. Lovering, S. Lundy, N. Marshall, J. Martin, K. Martin, B. Mathurin, B. Mbeng, G. McGlothan, D. Melton, E. Miller, T. Newton, G. Niang, M. Nowell, T. Okani, N. Omier, E. Payton, G. Payton, T. Peter, D. Peterson, J. Phillips, D. Plowden, B. Podziemski, D. Powell, J. Preston, L. Quinones, D. Reath, N. Richards, K. Richmond, A. Reeves, L. Robbins, O. Robinson, H. Sallis, P. Sandfort, J. Schakel, M. Sears, J. Shead, B. Simmons, D. Smith, M. Smith, Z. Smith, J. Sochan, I. Stevens, D. Stockton, C. Swider, J. Tate, T. Taylor, J. Telfort, D. Terry, A. Thompson, A. Thompson, K. Thompson, M. Thybulle, D. Timme, A. Toohey, O. Tshiebwe, M. Wagner, L. Walker, J. Walsh, T. Watford, A. Watson, P. Watson, B. Wesley, P. Wheeler, A. Williams, B. Williams, M. Williams, J. Wiseman, I. Wong, J. Young",
+   "detected_at": "2026-10-17 16:03:41",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Update 1.3 (7/18/26): O. Agbaji, B. Beal, J. Bernard, R. Beekman, S. Bey, L. Black, B. Boston, T. Bradley, J. Bridges, D. Brooks, K. Brooks, J. Broome, B. Brown, K. Brown, K. Bufkin, T. Burton, J. Butler Jr., K. Caldwell-Pope, D. Carter, K. Chandler, M. Cisse, Y. Collins, I. Crawford, J. Crutcher, J. Cumberland, S. Curry, N. Dante, J. Davison, D. DeRozan, H. Dickinson, J. Duren, D. Eubanks, T. Fall, K. George, A. Gill, J. Gortman, H. Gray, D. Green, J. Harden, M. Hezonja, H. Highsmith, C. Houstan, C. Houstan, H. Ingram, A. Jackson, L. James, J. Johnson, K. Johnson, C. Jones D. Jones, S. Jones, Y. Kawamura, T. Keels, K. Kelley, M. Kelly, K. Knox, C. Koloko, J. Konchar, J. Kuminga, S. Labissiere, P. Larsson, K. Leonard, K. Lewis, C. Livingston, L. Lovering, S. Lundy, N. Marshall, J. Martin, K. Martin, B. Mathurin, B. Mbeng, G. McGlothan, D. Melton, E. Miller, T. Newton, G. Niang, M. Nowell, T. Okani, N. Omier, E. Payton, G. Payton, T. Peter, D. Peterson, J. Phillips, D. Plowden, B. Podziemski, D. Powell, J. Preston, P. Pritchard, L. Quinones, D. Reath, N. Richards, K. Richmond, A. Reeves, L. Robbins, O. Robinson, H. Sallis, P. Sandfort, J. Schakel, M. Sears, J. Shead, B. Simmons, D. Smith, M. Smith, Z. Smith, J. Sochan, I. Stevens, D. Stockton, C. Swider, J. Tate, T. Taylor, J. Telfort, D. Terry, A. Thompson, A. Thompson, K. Thompson, M. Thybulle, D. Timme, A. Toohey, O. Tshiebwe, M. Wagner, L. Walker, J. Walsh, T. Watford, A. Watson, P. Watson, B. Wesley, P. Wheeler, A. Williams, B. Williams, M. Williams, J. Wiseman, I. Wong, J. Young",
+   "detected_at": "2026-10-17 16:03:41",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "BOS  - REMOVED Carter, Devin",
    "detected_at": "2026-10-17 16:02:45",
    "source": "SHEETS",
@@ -9936,48 +9972,12 @@
    "detected_at": "2026-10-13 17:17:59",
    "source": "SHEETS",
    "type": "ADDED"
-  },
-  {
-   "detail": "DAL  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 211937013.8 -> 213294776.8, col9: 545597386.7 -> 546955149.7",
-   "detected_at": "2026-10-13 17:17:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "DAL  CHANGED Players Under Contract  -  col3: 184808928.8 -> 186166691.8",
-   "detected_at": "2026-10-13 17:17:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "DAL  CHANGED Full Season Contracts  -  col3: 184808928.8 -> 186166691.8",
-   "detected_at": "2026-10-13 17:17:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "DAL  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 19 -> 20",
-   "detected_at": "2026-10-13 17:17:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "MEM  + ADDED  Cleveland, Zach",
-   "detected_at": "2026-10-13 17:17:59",
-   "source": "SHEETS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "MEM  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 161113772.9 -> 162471535.9, col9: 349386994.2 -> 350744757.2",
-   "detected_at": "2026-10-13 17:17:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 3933,
-   "last": "2026-10-17 16:02:41"
+   "count": 3935,
+   "last": "2026-10-17 16:03:41"
   },
   "GLEAGUE": {
    "count": 192,
@@ -10000,8 +10000,8 @@
    "last": "2026-10-17 15:27:58"
   },
   "SHEETS": {
-   "count": 4946,
-   "last": "2026-10-17 16:02:45"
+   "count": 4950,
+   "last": "2026-10-17 16:03:44"
   },
   "TRANSACTIONS": {
    "count": 559,
@@ -10016,6 +10016,6 @@
    "last": "2026-10-17 08:40:48"
   }
  },
- "generated_at": "2026-10-17T16:02:48",
- "total": 30523
+ "generated_at": "2026-10-17T16:03:47",
+ "total": 30529
 }
