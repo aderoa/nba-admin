@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Blake Wesley  ~ 131835: team -> Free agent",
+   "detected_at": "2026-10-17 21:28:58",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Los Angeles Clippers"
+  },
+  {
+   "detail": "Blake Wesley  ~ 131835: league -> -",
+   "detected_at": "2026-10-17 21:28:58",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "NBA"
+  },
+  {
+   "detail": "Blake Wesley  ~ 131835: number -> -",
+   "detected_at": "2026-10-17 21:28:58",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "20"
+  },
+  {
    "detail": "+ ADDED   Cam Christie (LAC)",
    "detected_at": "2026-10-17 21:08:39",
    "source": "PLAYERS",
@@ -9955,27 +9976,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Italian Serie A2 Basket Sella Cento 98, Elachem Vigevano 88",
-   "detected_at": "2026-10-13 18:28:22",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-11/Elachem-Vigevano-at-Sella-Cento/529815"
-  },
-  {
-   "detail": "Italian Serie A2 Basket Carpegna Prosciutto Basket Pesaro 83, Pasta Reggia JuveCaserta 77",
-   "detected_at": "2026-10-13 18:28:17",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-11/Pasta-Reggia-JuveCaserta-at-Carpegna-Prosciutto-Basket-Pesaro/529810"
-  },
-  {
-   "detail": "Italian Serie A2 Basket + Terry Rafael Stable → Pasta Reggia JuveCaserta",
-   "detected_at": "2026-10-13 18:28:16",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10016,10 +10016,10 @@
    "last": "2026-10-17 20:55:09"
   },
   "WIKIWATCH": {
-   "count": 399,
-   "last": "2026-10-17 08:40:48"
+   "count": 402,
+   "last": "2026-10-17 21:28:58"
   }
  },
- "generated_at": "2026-10-17T21:28:47",
- "total": 30573
+ "generated_at": "2026-10-17T21:29:47",
+ "total": 30576
 }
