@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Joe Ragland  ~ number: 6 -> 0",
+   "detected_at": "2026-10-17 12:06:15",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Joe_Ragland"
+  },
+  {
    "detail": "Joe Ragland  ~ number: 7 -> 6",
    "detected_at": "2026-10-17 11:22:07",
    "source": "WIKI",
@@ -9963,12 +9970,6 @@
    "detected_at": "2026-10-13 12:33:54",
    "source": "PLAYERS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED De'Anthony Melton  school: USC -> Southern California",
-   "detected_at": "2026-10-13 12:33:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10005,14 +10006,14 @@
    "last": "2026-10-17 08:08:40"
   },
   "WIKI": {
-   "count": 6090,
-   "last": "2026-10-17 11:22:07"
+   "count": 6091,
+   "last": "2026-10-17 12:06:15"
   },
   "WIKIWATCH": {
    "count": 399,
    "last": "2026-10-17 08:40:48"
   }
  },
- "generated_at": "2026-10-17T11:58:47",
- "total": 30355
+ "generated_at": "2026-10-17T12:06:16",
+ "total": 30356
 }
