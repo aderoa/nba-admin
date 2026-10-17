@@ -1,6 +1,76 @@
 {
  "events": [
   {
+   "detail": "French LNB Pro B Denain ASC Voltaire 95, Aix Maurienne Savoie Basket 77",
+   "detected_at": "2026-10-17 13:17:31",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-16/Aix-Maurienne-Savoie-Basket-at-Denain-ASC-Voltaire/537831"
+  },
+  {
+   "detail": "Australian NBL Sydney 102, Perth 81",
+   "detected_at": "2026-10-17 13:17:26",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Perth-at-Sydney/524407"
+  },
+  {
+   "detail": "Australian NBL South East Melbourne 115, Cairns 83",
+   "detected_at": "2026-10-17 13:17:22",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Cairns-at-South-East-Melbourne/524406"
+  },
+  {
+   "detail": "Kevin Knox II  ~ team: Orlando Magic -> Osceola Magic",
+   "detected_at": "2026-10-17 13:17:15",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kevin_Knox_II"
+  },
+  {
+   "detail": "Kevin Knox II  ~ league: NBA -> NBA G League",
+   "detected_at": "2026-10-17 13:17:15",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kevin_Knox_II"
+  },
+  {
+   "detail": "Kevin Knox II  ~ CAREER  + 2026–present Osceola Magic",
+   "detected_at": "2026-10-17 13:17:15",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Kevin_Knox_II"
+  },
+  {
+   "detail": "JD Davison  ~ team: Orlando Magic -> Osceola Magic",
+   "detected_at": "2026-10-17 13:17:15",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/JD_Davison"
+  },
+  {
+   "detail": "JD Davison  ~ league: NBA -> NBA G League",
+   "detected_at": "2026-10-17 13:17:15",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/JD_Davison"
+  },
+  {
+   "detail": "JD Davison  ~ CAREER  + 2026–present Osceola Magic",
+   "detected_at": "2026-10-17 13:17:15",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/JD_Davison"
+  },
+  {
+   "detail": "Yves Pons  ~ position: Shooting guard / small forward -> Power forward / small forward",
+   "detected_at": "2026-10-17 13:17:15",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Yves_Pons"
+  },
+  {
    "detail": "Juhann Begarin  ~ position: Small forward -> Small forward / shooting guard",
    "detected_at": "2026-10-17 12:55:00",
    "source": "WIKI",
@@ -9911,66 +9981,6 @@
    "detected_at": "2026-10-13 12:33:54",
    "source": "PLAYERS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Charles Bassey  height: 6-10 -> 6-9",
-   "detected_at": "2026-10-13 12:33:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Charles Bassey  weight: 230 -> 244",
-   "detected_at": "2026-10-13 12:33:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Alex Toohey  weight: 223 -> 217",
-   "detected_at": "2026-10-13 12:33:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Steven Adams  weight: 265 -> 279",
-   "detected_at": "2026-10-13 12:33:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Will Richard  weight: 210 -> 207",
-   "detected_at": "2026-10-13 12:33:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Tari Eason  weight: 215 -> 229",
-   "detected_at": "2026-10-13 12:33:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Kevin Durant  weight: 240 -> 234",
-   "detected_at": "2026-10-13 12:33:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Graham Ike  height: 6-9 -> 6-10",
-   "detected_at": "2026-10-13 12:33:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Graham Ike  weight: 245 -> 257",
-   "detected_at": "2026-10-13 12:33:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Tyus Jones  height: 6-0 -> 6-1",
-   "detected_at": "2026-10-13 12:33:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -9995,8 +10005,8 @@
    "last": "2026-10-17 08:23:29"
   },
   "SCORES": {
-   "count": 2192,
-   "last": "2026-10-17 10:05:36"
+   "count": 2195,
+   "last": "2026-10-17 13:17:31"
   },
   "SHEETS": {
    "count": 4916,
@@ -10007,14 +10017,14 @@
    "last": "2026-10-17 08:08:40"
   },
   "WIKI": {
-   "count": 6092,
-   "last": "2026-10-17 12:55:00"
+   "count": 6099,
+   "last": "2026-10-17 13:17:15"
   },
   "WIKIWATCH": {
    "count": 399,
    "last": "2026-10-17 08:40:48"
   }
  },
- "generated_at": "2026-10-17T13:09:46",
- "total": 30357
+ "generated_at": "2026-10-17T13:17:50",
+ "total": 30367
 }
