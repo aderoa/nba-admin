@@ -1,6 +1,34 @@
 {
  "events": [
   {
+   "detail": "Joe Ragland  ~ number: 7 -> 6",
+   "detected_at": "2026-10-17 11:22:07",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Joe_Ragland"
+  },
+  {
+   "detail": "Joe Ragland  ~ height_ft: - -> 6",
+   "detected_at": "2026-10-17 11:22:07",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Joe_Ragland"
+  },
+  {
+   "detail": "Joe Ragland  ~ height_in: - -> 0",
+   "detected_at": "2026-10-17 11:22:07",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Joe_Ragland"
+  },
+  {
+   "detail": "Joe Ragland  ~ weight_lb: - -> 185",
+   "detected_at": "2026-10-17 11:22:07",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Joe_Ragland"
+  },
+  {
    "detail": "Dariq Whitehead  ~ team: Free agent -> Oklahoma City Blue",
    "detected_at": "2026-10-17 11:00:35",
    "source": "WIKI",
@@ -9941,30 +9969,6 @@
    "detected_at": "2026-10-13 12:33:54",
    "source": "PLAYERS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Brandon Williams  weight: 190 -> 185",
-   "detected_at": "2026-10-13 12:33:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Julian Phillips  height: 6-6 -> 6-7",
-   "detected_at": "2026-10-13 12:33:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Julian Phillips  weight: 201 -> 205",
-   "detected_at": "2026-10-13 12:33:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Oscar Tshiebwe  weight: 255 -> 270",
-   "detected_at": "2026-10-13 12:33:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10001,14 +10005,14 @@
    "last": "2026-10-17 08:08:40"
   },
   "WIKI": {
-   "count": 6086,
-   "last": "2026-10-17 11:00:35"
+   "count": 6090,
+   "last": "2026-10-17 11:22:07"
   },
   "WIKIWATCH": {
    "count": 399,
    "last": "2026-10-17 08:40:48"
   }
  },
- "generated_at": "2026-10-17T11:14:48",
- "total": 30351
+ "generated_at": "2026-10-17T11:22:08",
+ "total": 30355
 }
