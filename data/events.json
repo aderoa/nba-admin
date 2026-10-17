@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "2026-10-17  Utah Jazz converted the contract of forward Harrison Ingram to a Two-Way Contract.",
+   "detected_at": "2026-10-17 20:26:40",
+   "source": "TRANSACTIONS",
+   "type": "ContractConverted"
+  },
+  {
    "detail": "Tacko Fall  ~ CAREER  + 2026–present →Delaware Blue Coats",
    "detected_at": "2026-10-17 20:11:18",
    "source": "WIKI",
@@ -9972,13 +9978,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-10-12/Kobe-Storks-at-Nagasaki-Velca/524305"
-  },
-  {
-   "detail": "Japanese BLeague Gunma Crane Thunders 72, Saga Ballooners 61",
-   "detected_at": "2026-10-13 18:27:54",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-12/Gunma-Crane-Thunders-at-Saga-Ballooners/524304"
   }
  ],
  "feeds": {
@@ -10011,8 +10010,8 @@
    "last": "2026-10-17 16:03:44"
   },
   "TRANSACTIONS": {
-   "count": 562,
-   "last": "2026-10-17 19:33:40"
+   "count": 563,
+   "last": "2026-10-17 20:26:40"
   },
   "WIKI": {
    "count": 6146,
@@ -10023,6 +10022,6 @@
    "last": "2026-10-17 08:40:48"
   }
  },
- "generated_at": "2026-10-17T20:19:06",
- "total": 30565
+ "generated_at": "2026-10-17T20:33:46",
+ "total": 30566
 }
