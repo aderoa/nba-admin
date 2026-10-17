@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Collin Sexton  ~ league: - -> NBA",
+   "detected_at": "2026-10-17 18:11:24",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Collin_Sexton"
+  },
+  {
    "detail": "2026-10-17  Toronto Raptors converted the contract of center Nate Bittle to a Two-Way Contract.",
    "detected_at": "2026-10-17 17:52:40",
    "source": "TRANSACTIONS",
@@ -9970,12 +9977,6 @@
    "detected_at": "2026-10-13 17:34:59",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col27: 4200420.333 -> 6915946.333",
-   "detected_at": "2026-10-13 17:34:59",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10012,14 +10013,14 @@
    "last": "2026-10-17 17:52:40"
   },
   "WIKI": {
-   "count": 6138,
-   "last": "2026-10-17 17:26:34"
+   "count": 6139,
+   "last": "2026-10-17 18:11:24"
   },
   "WIKIWATCH": {
    "count": 399,
    "last": "2026-10-17 08:40:48"
   }
  },
- "generated_at": "2026-10-17T18:03:46",
- "total": 30553
+ "generated_at": "2026-10-17T18:11:25",
+ "total": 30554
 }
