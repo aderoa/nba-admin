@@ -1,6 +1,83 @@
 {
  "events": [
   {
+   "detail": "Langston Galloway  ~ number: - -> 9",
+   "detected_at": "2026-10-18 13:15:09",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Langston_Galloway"
+  },
+  {
+   "detail": "Matt Thomas (basketball)  ~ number: - -> 21",
+   "detected_at": "2026-10-18 13:15:09",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Matt_Thomas_(basketball)"
+  },
+  {
+   "detail": "Cole Swider  ~ team: Coachella Valley Lakers -> Free agent",
+   "detected_at": "2026-10-18 13:15:09",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Cole_Swider"
+  },
+  {
+   "detail": "Cole Swider  ~ league: NBA G League -> -",
+   "detected_at": "2026-10-18 13:15:09",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Cole_Swider"
+  },
+  {
+   "detail": "Rodney McGruder  ~ number: - -> 17",
+   "detected_at": "2026-10-18 13:15:09",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Rodney_McGruder"
+  },
+  {
+   "detail": "Brandon Boston Jr.  ~ team: Chicago Bulls -> Free agent",
+   "detected_at": "2026-10-18 13:15:09",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Brandon_Boston_Jr."
+  },
+  {
+   "detail": "Brandon Boston Jr.  ~ league: NBA -> -",
+   "detected_at": "2026-10-18 13:15:09",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Brandon_Boston_Jr."
+  },
+  {
+   "detail": "Brandon Boston Jr.  ~ position: Shooting guard -> Shooting guard / small forward",
+   "detected_at": "2026-10-18 13:15:09",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Brandon_Boston_Jr."
+  },
+  {
+   "detail": "Christian Koloko  ~ team: Crvena zvezda -> KK Crvena zvezda",
+   "detected_at": "2026-10-18 13:15:09",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Christian_Koloko"
+  },
+  {
+   "detail": "Christian Koloko  ~ CAREER  + 2026–present Crvena zvezda",
+   "detected_at": "2026-10-18 13:15:09",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Christian_Koloko"
+  },
+  {
+   "detail": "Izaiah Brockington  ~ number: - -> 21",
+   "detected_at": "2026-10-18 13:15:09",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Izaiah_Brockington"
+  },
+  {
    "detail": "Belarusian BPL Grodno 93 98, Grondo GrGU 52",
    "detected_at": "2026-10-18 12:57:56",
    "source": "SCORES",
@@ -9872,83 +9949,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Andreja_Stevanovi%C4%87"
-  },
-  {
-   "detail": "Kavell Bigby-Williams  ~ team: Khasin Khuleguud -> South Gobi Broncos",
-   "detected_at": "2026-10-15 08:00:27",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Kavell_Bigby-Williams"
-  },
-  {
-   "detail": "Kavell Bigby-Williams  ~ league: The League -> The League East Asia Super League",
-   "detected_at": "2026-10-15 08:00:27",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Kavell_Bigby-Williams"
-  },
-  {
-   "detail": "Kavell Bigby-Williams  ~ CAREER  + 2026–present South Gobi Broncos",
-   "detected_at": "2026-10-15 08:00:27",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Kavell_Bigby-Williams"
-  },
-  {
-   "detail": "Cameron Payne  ~ 57476: position -> Point guard / shooting guard",
-   "detected_at": "2026-10-15 07:36:18",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "Point guard"
-  },
-  {
-   "detail": "Matthew Strazel  ~ 127355: position -> Point guard",
-   "detected_at": "2026-10-15 07:36:18",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "Point guard / shooting guard"
-  },
-  {
-   "detail": "Jaime Pradilla  ~ 108752: position -> Power forward",
-   "detected_at": "2026-10-15 07:36:18",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "Power forward / center"
-  },
-  {
-   "detail": "Bulgarian NBL Euroins Cherno More 93, BC Levski Lukoil 76",
-   "detected_at": "2026-10-15 07:25:35",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-12/Euroins-Cherno-More-at-BC-Levski-Lukoil/528624"
-  },
-  {
-   "detail": "Bulgarian NBL + Tsvetomir Chernokojev → Euroins Cherno More",
-   "detected_at": "2026-10-15 07:25:34",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Bulgarian NBL + Nikolay Stoyanov → Euroins Cherno More",
-   "detected_at": "2026-10-15 07:25:34",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Bulgarian NBL + Curtis Jones → Euroins Cherno More",
-   "detected_at": "2026-10-15 07:25:34",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Bulgarian NBL + Remy Abell → Euroins Cherno More",
-   "detected_at": "2026-10-15 07:25:34",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -9985,14 +9985,14 @@
    "last": "2026-10-18 03:00:52"
   },
   "WIKI": {
-   "count": 6244,
-   "last": "2026-10-18 12:48:18"
+   "count": 6255,
+   "last": "2026-10-18 13:15:09"
   },
   "WIKIWATCH": {
    "count": 421,
    "last": "2026-10-18 08:48:42"
   }
  },
- "generated_at": "2026-10-18T12:58:15",
- "total": 31116
+ "generated_at": "2026-10-18T13:15:09",
+ "total": 31127
 }
