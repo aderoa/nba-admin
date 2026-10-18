@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "James Johnson (basketball, born 1987)  ~ team: Indiana Pacers -> Free agent",
+   "detected_at": "2026-10-18 04:54:44",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/James_Johnson_(basketball,_born_1987)"
+  },
+  {
+   "detail": "James Johnson (basketball, born 1987)  ~ league: NBA -> -",
+   "detected_at": "2026-10-18 04:54:44",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/James_Johnson_(basketball,_born_1987)"
+  },
+  {
+   "detail": "James Johnson (basketball, born 1987)  ~ number: 16 -> -",
+   "detected_at": "2026-10-18 04:54:44",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/James_Johnson_(basketball,_born_1987)"
+  },
+  {
    "detail": "Macedonian Superleague Kozuv Gevgelija 85, KK Stip 77",
    "detected_at": "2026-10-18 04:16:23",
    "source": "SCORES",
@@ -9926,27 +9947,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-10-14/Samara-at-Enisey-Krasnoyarsk/533296"
-  },
-  {
-   "detail": "VTB United League UNICS Kazan 95, Uralmash 84",
-   "detected_at": "2026-10-14 17:33:36",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-14/Uralmash-at-UNICS-Kazan/533295"
-  },
-  {
-   "detail": "Euroleague Bayern Munich 101, Anadolu Efes 93",
-   "detected_at": "2026-10-14 17:33:32",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-14/Bayern-Munich-at-Anadolu-Efes/526816"
-  },
-  {
-   "detail": "Estonian Latvian Basketball League TalTech ALEXELA 78, BK Liepaja 71",
-   "detected_at": "2026-10-14 17:33:29",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-14/TalTech-ALEXELA-at-BK-Liepaja/540686"
   }
  ],
  "feeds": {
@@ -9983,14 +9983,14 @@
    "last": "2026-10-18 03:00:52"
   },
   "WIKI": {
-   "count": 6207,
-   "last": "2026-10-18 04:02:02"
+   "count": 6210,
+   "last": "2026-10-18 04:54:44"
   },
   "WIKIWATCH": {
    "count": 413,
    "last": "2026-10-18 03:31:13"
   }
  },
- "generated_at": "2026-10-18T04:46:48",
- "total": 30999
+ "generated_at": "2026-10-18T04:54:46",
+ "total": 31002
 }
