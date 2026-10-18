@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Nelson Weidemann  ~ number: - -> 11",
+   "detected_at": "2026-10-18 09:58:01",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Nelson_Weidemann"
+  },
+  {
    "detail": "Bruce Brown  ~ 85612: team -> New York Knicks",
    "detected_at": "2026-10-18 08:48:42",
    "source": "WIKIWATCH",
@@ -9942,13 +9949,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Bulgarian NBL + Nikolay Tsokov → BC Levski Lukoil",
-   "detected_at": "2026-10-15 07:25:34",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -9985,14 +9985,14 @@
    "last": "2026-10-18 03:00:52"
   },
   "WIKI": {
-   "count": 6235,
-   "last": "2026-10-18 08:37:36"
+   "count": 6236,
+   "last": "2026-10-18 09:58:01"
   },
   "WIKIWATCH": {
    "count": 421,
    "last": "2026-10-18 08:48:42"
   }
  },
- "generated_at": "2026-10-18T09:42:12",
- "total": 31103
+ "generated_at": "2026-10-18T09:58:03",
+ "total": 31104
 }
