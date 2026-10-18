@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Pete Nance  ~ 127259: team -> Milwaukee Bucks",
+   "detected_at": "2026-10-18 05:45:05",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Free agent"
+  },
+  {
+   "detail": "Pete Nance  ~ 127259: league -> NBA",
+   "detected_at": "2026-10-18 05:45:05",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": ""
+  },
+  {
+   "detail": "Pete Nance  ~ 127259: number -> 35",
+   "detected_at": "2026-10-18 05:45:05",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": ""
+  },
+  {
    "detail": "Slovenian SKL Rogaska Crystal 74, ECE Triglav 72",
    "detected_at": "2026-10-18 05:18:29",
    "source": "SCORES",
@@ -9926,27 +9947,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-10-14/BBC-Coburg-at-Dresden-Titans/525860"
-  },
-  {
-   "detail": "German Pro B + Pepe Lahr → BBC Coburg",
-   "detected_at": "2026-10-14 21:56:24",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Pro B + Leonard Kant → BBC Coburg",
-   "detected_at": "2026-10-14 21:56:24",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Eurocup Aris Midea Thessaloniki 88, Bertram Tortona 68",
-   "detected_at": "2026-10-14 21:56:21",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-14/Bertram-Tortona-at-Aris-Midea-Thessaloniki/526710"
   }
  ],
  "feeds": {
@@ -9987,10 +9987,10 @@
    "last": "2026-10-18 04:54:44"
   },
   "WIKIWATCH": {
-   "count": 413,
-   "last": "2026-10-18 03:31:13"
+   "count": 416,
+   "last": "2026-10-18 05:45:05"
   }
  },
- "generated_at": "2026-10-18T05:44:49",
- "total": 31035
+ "generated_at": "2026-10-18T05:45:46",
+ "total": 31038
 }
