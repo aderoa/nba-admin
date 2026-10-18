@@ -1,6 +1,34 @@
 {
  "events": [
   {
+   "detail": "Devin Carter  ~ number: 99 -> 22",
+   "detected_at": "2026-10-18 04:02:02",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Devin_Carter"
+  },
+  {
+   "detail": "Emanuel Miller (basketball)  ~ team: Denver Nuggets -> Free agent",
+   "detected_at": "2026-10-18 04:02:02",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Emanuel_Miller_(basketball)"
+  },
+  {
+   "detail": "Emanuel Miller (basketball)  ~ league: NBA -> -",
+   "detected_at": "2026-10-18 04:02:02",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Emanuel_Miller_(basketball)"
+  },
+  {
+   "detail": "Emanuel Miller (basketball)  ~ number: 8 -> -",
+   "detected_at": "2026-10-18 04:02:02",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Emanuel_Miller_(basketball)"
+  },
+  {
    "detail": "Tony Bradley (basketball)  ~ team: Free agent -> Utah Jazz",
    "detected_at": "2026-10-18 03:39:11",
    "source": "WIKI",
@@ -9912,34 +9940,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Michalis_Lountzis"
-  },
-  {
-   "detail": "Michalis Lountzis  ~ number: 5 -> 27",
-   "detected_at": "2026-10-14 16:16:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Michalis_Lountzis"
-  },
-  {
-   "detail": "Michalis Lountzis  ~ height_ft: 6 -> -",
-   "detected_at": "2026-10-14 16:16:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Michalis_Lountzis"
-  },
-  {
-   "detail": "Michalis Lountzis  ~ height_in: 6 -> -",
-   "detected_at": "2026-10-14 16:16:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Michalis_Lountzis"
-  },
-  {
-   "detail": "Michalis Lountzis  ~ CAREER  + 2025–2026 Panionios",
-   "detected_at": "2026-10-14 16:16:38",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Michalis_Lountzis"
   }
  ],
  "feeds": {
@@ -9976,14 +9976,14 @@
    "last": "2026-10-18 03:00:52"
   },
   "WIKI": {
-   "count": 6203,
-   "last": "2026-10-18 03:39:11"
+   "count": 6207,
+   "last": "2026-10-18 04:02:02"
   },
   "WIKIWATCH": {
    "count": 413,
    "last": "2026-10-18 03:31:13"
   }
  },
- "generated_at": "2026-10-18T03:53:48",
- "total": 30962
+ "generated_at": "2026-10-18T04:02:03",
+ "total": 30966
 }
