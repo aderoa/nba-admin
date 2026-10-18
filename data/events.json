@@ -1,6 +1,2372 @@
 {
  "events": [
   {
+   "detail": "WNBA Golden State Valkyries 68, Atlanta Dream 64",
+   "detected_at": "2026-10-18 03:14:31",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-10-17/Atlanta-at-Golden-State/161830"
+  },
+  {
+   "detail": "Georgian Super Liga Iverioni 75, Kutaisi 74",
+   "detected_at": "2026-10-18 03:14:18",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-16/Kutaisi-at-Iverioni/543813"
+  },
+  {
+   "detail": "Georgian Super Liga + Antonio Patterson → Kutaisi",
+   "detected_at": "2026-10-18 03:14:16",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish Primera FEB Palma Basquet Mallorca 94, Gipuzkoa Basket 90",
+   "detected_at": "2026-10-18 03:14:14",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-16/Palma-Basquet-Mallorca-at-Gipuzkoa-Basket/532893"
+  },
+  {
+   "detail": "BNXT League Landstede Zwolle 74, Belfius Mons Hainaut 57",
+   "detected_at": "2026-10-18 03:14:09",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Landstede-Zwolle-at-Belfius-Mons-Hainaut/527948"
+  },
+  {
+   "detail": "BNXT League Stella Artois Leuven Bears 72, Kortrijk Spurs 69",
+   "detected_at": "2026-10-18 03:14:05",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Kortrijk-Spurs-at-Stella-Artois-Leuven-Bears/527947"
+  },
+  {
+   "detail": "French Jeep Elite ASVEL Basket 97, CSP Limoges 94",
+   "detected_at": "2026-10-18 03:14:00",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/ASVEL-Basket-at-CSP-Limoges/538590"
+  },
+  {
+   "detail": "French LNB Espoirs Espoirs Dijon 69, Espoirs Gravelines Dunkerque 52",
+   "detected_at": "2026-10-18 03:13:56",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Espoirs-Dijon-at-Espoirs-Gravelines-Dunkerque/537599"
+  },
+  {
+   "detail": "French LNB Espoirs + Lucas Vacher-Rouls → Espoirs Dijon",
+   "detected_at": "2026-10-18 03:13:55",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB Monbus Obradoiro 79, Siblo San Pablo Burgos 72",
+   "detected_at": "2026-10-18 03:13:52",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Monbus-Obradoiro-at-Siblo-San-Pablo-Burgos/533439"
+  },
+  {
+   "detail": "Slovakian Extraliga Slavia Kosice 84, BK Inter Bratislava 79",
+   "detected_at": "2026-10-18 03:13:48",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Slavia-Kosice-at-BK-Inter-Bratislava/534249"
+  },
+  {
+   "detail": "Slovakian Extraliga + Tarik Bruncevic → Slavia Kosice",
+   "detected_at": "2026-10-18 03:13:47",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Slovakian Extraliga + Bruno Randuska → BK Inter Bratislava",
+   "detected_at": "2026-10-18 03:13:47",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Slovakian Extraliga BC Prievidza 122, Nitra Blue Wings 79",
+   "detected_at": "2026-10-18 03:13:45",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Nitra-Blue-Wings-at-BC-Prievidza/534252"
+  },
+  {
+   "detail": "French Jeep Elite Chalon Sur Saone 86, Cholet Basket 77",
+   "detected_at": "2026-10-18 03:13:41",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Chalon-Sur-Saone-at-Cholet-Basket/538589"
+  },
+  {
+   "detail": "French Jeep Elite ~ RETURN Riley Zizi → Chalon Sur Saone (from Espoirs Chalon Saone)",
+   "detected_at": "2026-10-18 03:13:39",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite + Johnathan Williams → Cholet Basket",
+   "detected_at": "2026-10-18 03:13:39",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite Pau Orthez 102, Saint Quentin Basketball 89",
+   "detected_at": "2026-10-18 03:13:37",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Saint-Quentin-Basketball-at-Pau-Orthez/538588"
+  },
+  {
+   "detail": "French Jeep Elite + Gregor Hrovat → Pau Orthez",
+   "detected_at": "2026-10-18 03:13:35",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite Nancy Basket 80, Nanterre 92 65",
+   "detected_at": "2026-10-18 03:13:33",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Nanterre-92-at-Nancy-Basket/538587"
+  },
+  {
+   "detail": "French Jeep Elite ~ RETURN Axel Villain → Nancy Basket (from Espoirs Nancy)",
+   "detected_at": "2026-10-18 03:13:31",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite ~ RETURN Kany N'Kouka → Nancy Basket (from Espoirs Nancy)",
+   "detected_at": "2026-10-18 03:13:31",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "Adriatic League Liga ABA BC Siroki 78, FMP Beograd 66",
+   "detected_at": "2026-10-18 03:13:29",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/BC-Siroki-at-FMP-Beograd/537339"
+  },
+  {
+   "detail": "Adriatic League Liga ABA + Reuf Livadic → FMP Beograd",
+   "detected_at": "2026-10-18 03:13:27",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Adriatic League Liga ABA KK Cedevita Olimpija Ljubljana 93, BC Igokea 81",
+   "detected_at": "2026-10-18 03:13:25",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/KK-Cedevita-Olimpija-Ljubljana-at-BC-Igokea/537341"
+  },
+  {
+   "detail": "French LNB Espoirs Espoirs Paris Basketball 86, Espoirs Boulazac 75",
+   "detected_at": "2026-10-18 03:13:21",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Espoirs-Boulazac-at-Espoirs-Paris-Basketball/537602"
+  },
+  {
+   "detail": "French LNB Espoirs Espoirs Le Mans 80, Espoirs Bourg en Bresse 60",
+   "detected_at": "2026-10-18 03:13:17",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Espoirs-Bourg-en-Bresse-at-Espoirs-Le-Mans/537601"
+  },
+  {
+   "detail": "French LNB Espoirs ~ RETURN Morgan Selebangue → Espoirs Bourg en Bresse (from JL Bourg en Bresse)",
+   "detected_at": "2026-10-18 03:13:15",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "French LNB Espoirs + Tyler Beracou → Espoirs Le Mans",
+   "detected_at": "2026-10-18 03:13:15",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French LNB Espoirs Espoirs Roanne 107, Espoirs Strasbourg 92",
+   "detected_at": "2026-10-18 03:13:13",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Espoirs-Roanne-at-Espoirs-Strasbourg/537600"
+  },
+  {
+   "detail": "French LNB Espoirs ~ RETURN Anthony Bria → Espoirs Roanne (from Chorale Roanne Basket)",
+   "detected_at": "2026-10-18 03:13:12",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "French LNB Espoirs Espoirs Asvel 70, Espoirs Limoges 56",
+   "detected_at": "2026-10-18 03:13:09",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Espoirs-Asvel-at-Espoirs-Limoges/537598"
+  },
+  {
+   "detail": "French LNB Espoirs + Benjamin Ruol → Espoirs Asvel",
+   "detected_at": "2026-10-18 03:13:08",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French LNB Espoirs ~ RETURN Lorenz Antoine Sanz → Espoirs Asvel (from ASVEL Basket)",
+   "detected_at": "2026-10-18 03:13:08",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "French LNB Espoirs + Chris Matteo Egwuatu → Espoirs Limoges",
+   "detected_at": "2026-10-18 03:13:08",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French LNB Espoirs + Martin Dubois → Espoirs Limoges",
+   "detected_at": "2026-10-18 03:13:08",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French LNB Espoirs + Willem Darier → Espoirs Limoges",
+   "detected_at": "2026-10-18 03:13:08",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French LNB Espoirs Espoirs Pau Lacq Orthez 96, Espoirs Saint Quentin 73",
+   "detected_at": "2026-10-18 03:13:05",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Espoirs-Saint-Quentin-at-Espoirs-Pau-Lacq-Orthez/537597"
+  },
+  {
+   "detail": "French LNB Espoirs Espoirs Cholet 83, Espoirs Chalon Saone 58",
+   "detected_at": "2026-10-18 03:13:01",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Espoirs-Chalon-Saone-at-Espoirs-Cholet/537596"
+  },
+  {
+   "detail": "French LNB Espoirs + Donovan Duflo → Espoirs Chalon Saone",
+   "detected_at": "2026-10-18 03:13:00",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French LNB Espoirs Espoirs Nancy 81, Espoirs Nanterre 66",
+   "detected_at": "2026-10-18 03:12:57",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Espoirs-Nanterre-at-Espoirs-Nancy/537595"
+  },
+  {
+   "detail": "French LNB Espoirs + Yanis Mbuy Kabuaya-Diondo → Espoirs Nanterre",
+   "detected_at": "2026-10-18 03:12:56",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French LNB Espoirs ~ RETURN Kany N'Kouka → Espoirs Nancy (from Nancy Basket)",
+   "detected_at": "2026-10-18 03:12:56",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB MoraBanc Andorra 108, Rio Breogan 102",
+   "detected_at": "2026-10-18 03:12:53",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Rio-Breogan-at-MoraBanc-Andorra/533438"
+  },
+  {
+   "detail": "Italian Lega Basket Serie A Umana Venezia 104, Roma SPQR 98",
+   "detected_at": "2026-10-18 03:12:49",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Umana-Venezia-at-Roma-SPQR/529584"
+  },
+  {
+   "detail": "BNXT League Port of Antwerp Giants 125, Heroes Den Bosch 86",
+   "detected_at": "2026-10-18 03:12:45",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Port-of-Antwerp-Giants-at-Heroes-Den-Bosch/527946"
+  },
+  {
+   "detail": "BNXT League + Joris Metz → Heroes Den Bosch",
+   "detected_at": "2026-10-18 03:12:44",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "BNXT League ZZ Leiden 92, Okapi Aalstar 77",
+   "detected_at": "2026-10-18 03:12:42",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Okapi-Aalstar-at-ZZ-Leiden/527945"
+  },
+  {
+   "detail": "Spanish Segunda FEB CB Tres Cantos 75, Spanish Basketball Academy 70",
+   "detected_at": "2026-10-18 03:12:38",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Spanish-Basketball-Academy-at-CB-Tres-Cantos/527600"
+  },
+  {
+   "detail": "Swedish Basketligan Boras Basket 86, UMEA Bskt 78",
+   "detected_at": "2026-10-18 03:12:34",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/UMEA-Bskt-at-Boras-Basket/524552"
+  },
+  {
+   "detail": "Swedish Basketligan + Alexander Semere Yemane → UMEA Bskt",
+   "detected_at": "2026-10-18 03:12:32",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "VTB United League CSKA Moscow 85, Enisey Krasnoyarsk 59",
+   "detected_at": "2026-10-18 03:12:29",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/CSKA-Moscow-at-Enisey-Krasnoyarsk/533297"
+  },
+  {
+   "detail": "VTB United League ~ MOVED Roman Nesterenko → Enisey Krasnoyarsk (from Yenisei 2)",
+   "detected_at": "2026-10-18 03:12:28",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "VTB United League Parma Basket Perm 108, Dynamo Vladivostok 90",
+   "detected_at": "2026-10-18 03:12:25",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Dynamo-Vladivostok-at-Parma-Basket-Perm/533298"
+  },
+  {
+   "detail": "VTB United League ~ MOVED Grigory Golovchenko → Parma Basket Perm (from Parma 2)",
+   "detected_at": "2026-10-18 03:12:24",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "VTB United League + Semyon Sheiko → Parma Basket Perm",
+   "detected_at": "2026-10-18 03:12:24",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "VTB United League + Ivan Mironov → Parma Basket Perm",
+   "detected_at": "2026-10-18 03:12:24",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "VTB United League Uralmash 94, Samara 75",
+   "detected_at": "2026-10-18 03:12:21",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Uralmash-at-Samara/533299"
+  },
+  {
+   "detail": "VTB United League + Mikhail Kulagin → Uralmash",
+   "detected_at": "2026-10-18 03:12:20",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB Unicaja 84, BAXI Manresa 72",
+   "detected_at": "2026-10-18 03:12:17",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Unicaja-at-BAXI-Manresa/533437"
+  },
+  {
+   "detail": "Spanish Segunda FEB Club Esportiu Basquet Lliria 77, Class Basquet Sant Antoni 72",
+   "detected_at": "2026-10-18 03:12:13",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Club-Esportiu-Basquet-Lliria-at-Class-Basquet-Sant-Antoni/527774"
+  },
+  {
+   "detail": "Spanish Segunda FEB + Iker Ruiz → Class Basquet Sant Antoni",
+   "detected_at": "2026-10-18 03:12:12",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish Primera FEB Zamora Enamora 89, CB Granada 81",
+   "detected_at": "2026-10-18 03:12:09",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/CB-Granada-at-Zamora-Enamora/532890"
+  },
+  {
+   "detail": "Spanish Primera FEB + Dejan Kravic → CB Granada",
+   "detected_at": "2026-10-18 03:12:07",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish Primera FEB + Matthieu Gauzin → CB Granada",
+   "detected_at": "2026-10-18 03:12:07",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish Primera FEB + Tyrell Roberts → Zamora Enamora",
+   "detected_at": "2026-10-18 03:12:07",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "German Pro A MLP Academics Heidelberg 74, PS Karlsruhe Lions 51",
+   "detected_at": "2026-10-18 03:12:05",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/MLP-Academics-Heidelberg-at-PS-Karlsruhe-Lions/528116"
+  },
+  {
+   "detail": "German Pro B EN Baskets Schwelm 102, Baskets Juniors TSG Westerstede 67",
+   "detected_at": "2026-10-18 03:12:01",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Baskets-Juniors-TSG-Westerstede-at-EN-Baskets-Schwelm/525525"
+  },
+  {
+   "detail": "German Pro B + Alan Boger → Baskets Juniors TSG Westerstede",
+   "detected_at": "2026-10-18 03:11:59",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "German Pro B ~ RETURN Pablo Estelle → EN Baskets Schwelm (from VfL SparkassenStars Bochum)",
+   "detected_at": "2026-10-18 03:11:59",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "German Pro B ~ RETURN Dyami Janeck → EN Baskets Schwelm (from VfL SparkassenStars Bochum)",
+   "detected_at": "2026-10-18 03:11:59",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "German Pro B + Andrew Osei → EN Baskets Schwelm",
+   "detected_at": "2026-10-18 03:11:59",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish Segunda FEB Movistar Estudiantes 68, CB Starlabs Moron 67",
+   "detected_at": "2026-10-18 03:11:57",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/CB-Starlabs-Moron-at-Movistar-Estudiantes/527599"
+  },
+  {
+   "detail": "Spanish Segunda FEB + Jugo Facorat → Movistar Estudiantes",
+   "detected_at": "2026-10-18 03:11:55",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish Segunda FEB Lobe Huesca La Magia 83, Ciudad Molina Basket 74",
+   "detected_at": "2026-10-18 03:11:53",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Lobe-Huesca-La-Magia-at-Ciudad-Molina-Basket/527775"
+  },
+  {
+   "detail": "Spanish Segunda FEB + Anim Delgado Yeboah → Ciudad Molina Basket",
+   "detected_at": "2026-10-18 03:11:51",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "German Pro B Iserlohn Kangaroos 78, SC Itzehoe Eagles 75",
+   "detected_at": "2026-10-18 03:11:49",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Iserlohn-Kangaroos-at-SC-Itzehoe-Eagles/525526"
+  },
+  {
+   "detail": "German Pro B + Finn Pook → Iserlohn Kangaroos",
+   "detected_at": "2026-10-18 03:11:47",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "German Pro B Art Giants Dusseldorf 76, BG Hagen 70",
+   "detected_at": "2026-10-18 03:11:45",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Art-Giants-Dusseldorf-at-BG-Hagen/525527"
+  },
+  {
+   "detail": "Spanish Segunda FEB Clinica Ponferrada SDP 83, CB Getafe 60",
+   "detected_at": "2026-10-18 03:11:41",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/CB-Getafe-at-Clinica-Ponferrada-SDP/527598"
+  },
+  {
+   "detail": "Spanish Segunda FEB + Juanjo Bravo → Clinica Ponferrada SDP",
+   "detected_at": "2026-10-18 03:11:39",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Israeli BSL Hapoel Bank Yahav Jerusalem 88, Hapoel Beer Sheva 74",
+   "detected_at": "2026-10-18 03:11:37",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Hapoel-Beer-Sheva-at-Hapoel-Bank-Yahav-Jerusalem/535766"
+  },
+  {
+   "detail": "Israeli BSL + Brian Cameron → Hapoel Beer Sheva",
+   "detected_at": "2026-10-18 03:11:35",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Israeli BSL + Matan Fogel → Hapoel Beer Sheva",
+   "detected_at": "2026-10-18 03:11:35",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "German Pro A Artland Dragons 97, BBC Bayreuth 86",
+   "detected_at": "2026-10-18 03:11:32",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Artland-Dragons-at-BBC-Bayreuth/528115"
+  },
+  {
+   "detail": "German Pro A ~ RETURN Elijah Ndi → Artland Dragons (from SC Rasta Vechta)",
+   "detected_at": "2026-10-18 03:11:31",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "German Pro A + Leo Friedlein → BBC Bayreuth",
+   "detected_at": "2026-10-18 03:11:31",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Greek HEBA A1 Aris Midea Thessaloniki 74, Maroussi BC 57",
+   "detected_at": "2026-10-18 03:11:28",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Maroussi-BC-at-Aris-Midea-Thessaloniki/543211"
+  },
+  {
+   "detail": "Greek HEBA A1 + Chrysostomos Chatzilamprou → Aris Midea Thessaloniki",
+   "detected_at": "2026-10-18 03:11:26",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Austrian A Bundesliga ece bulls Kapfenberg 96, BK Klosterneuburg Dukes 75",
+   "detected_at": "2026-10-18 03:11:24",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/BK-Klosterneuburg-Dukes-at-ece-bulls-Kapfenberg/531752"
+  },
+  {
+   "detail": "Turkish BSL Tofas SC 71, Korfez Mansia 69",
+   "detected_at": "2026-10-18 03:11:20",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Tofas-SC-at-Korfez-Mansia/541378"
+  },
+  {
+   "detail": "Turkish BSL Bahcesehir Koleji 90, Bursaspor 80",
+   "detected_at": "2026-10-18 03:11:16",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Bahcesehir-Koleji-at-Bursaspor/541377"
+  },
+  {
+   "detail": "Turkish BSL Bordo Sportif Balikesir 79, Turk Telekom 66",
+   "detected_at": "2026-10-18 03:11:12",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Turk-Telekom-at-Bordo-Sportif-Balikesir/541376"
+  },
+  {
+   "detail": "Turkish BSL + Mehmet Kizil → Bordo Sportif Balikesir",
+   "detected_at": "2026-10-18 03:11:10",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "German Pro A Rhein Stars Koeln 78, Giessen 46ers 76",
+   "detected_at": "2026-10-18 03:11:08",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Rhein-Stars-Koeln-at-Giessen-46ers/528114"
+  },
+  {
+   "detail": "German Pro B Dragons Rhoendorf 72, SV Fellbach 57",
+   "detected_at": "2026-10-18 03:11:03",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/SV-Fellbach-at-Dragons-Rhoendorf/525698"
+  },
+  {
+   "detail": "German Pro B + Marvin Nduche → Dragons Rhoendorf",
+   "detected_at": "2026-10-18 03:11:02",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL Ankaragucu Mamak 93, Torku Konyaspor 88",
+   "detected_at": "2026-10-18 03:10:59",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Torku-Konyaspor-at-Ankaragucu-Mamak/534770"
+  },
+  {
+   "detail": "Spanish Segunda FEB Basket Cartagena 85, CB Prat 82",
+   "detected_at": "2026-10-18 03:10:56",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/CB-Prat-at-Basket-Cartagena/527772"
+  },
+  {
+   "detail": "Spanish Segunda FEB + Carlos Toledo → Basket Cartagena",
+   "detected_at": "2026-10-18 03:10:54",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish Segunda FEB + David Yanez Gambin → Basket Cartagena",
+   "detected_at": "2026-10-18 03:10:54",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish Segunda FEB LogroBasket Logi7 79, Proinbeni UPB Gandia 75",
+   "detected_at": "2026-10-18 03:10:52",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/LogroBasket-Logi7-at-Proinbeni-UPB-Gandia/527773"
+  },
+  {
+   "detail": "Bulgarian NBL Minyor 2015 96, Akademik Bulteks 99 Plovdiv 93",
+   "detected_at": "2026-10-18 03:10:48",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Minyor-2015-at-Akademik-Bulteks-99-Plovdiv/537237"
+  },
+  {
+   "detail": "Bulgarian NBL + Petar Ralchev → Akademik Bulteks 99 Plovdiv",
+   "detected_at": "2026-10-18 03:10:46",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL Kahramanmaras Kipas Istiklal 74, Harem Spor 69",
+   "detected_at": "2026-10-18 03:10:44",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Kahramanmaras-Kipas-Istiklal-at-Harem-Spor/534767"
+  },
+  {
+   "detail": "Turkish TBL Fenerbache Koleji 2nd Team 87, Demir Insaat Buyukcekmece 85",
+   "detected_at": "2026-10-18 03:10:40",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Fenerbache-Koleji-2nd-Team-at-Demir-Insaat-Buyukcekmece/534765"
+  },
+  {
+   "detail": "Bulgarian NBL + Iliyan Iliev → Lokomotiv Plovdiv",
+   "detected_at": "2026-10-18 03:10:34",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Super League Basketball Surrey 89ers 107, Leicester Riders 102",
+   "detected_at": "2026-10-18 03:10:32",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Leicester-Riders-at-Surrey-89ers/535542"
+  },
+  {
+   "detail": "Super League Basketball + Re'Ale Basquine → Surrey 89ers",
+   "detected_at": "2026-10-18 03:10:30",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL Ormanspor Genc Ankara 89, Royal Hali Gaziantep 85",
+   "detected_at": "2026-10-18 03:10:28",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Royal-Hali-Gaziantep-at-Ormanspor-Genc-Ankara/534771"
+  },
+  {
+   "detail": "Turkish TBL Goztepe 103, Kecioren Baglum 84",
+   "detected_at": "2026-10-18 03:10:24",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Kecioren-Baglum-at-Goztepe/534764"
+  },
+  {
+   "detail": "Turkish TBL + Baran Yurdusen → Kecioren Baglum",
+   "detected_at": "2026-10-18 03:10:23",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "German Pro A BG Gottingen 95, Nurnberg Falcons BC 74",
+   "detected_at": "2026-10-18 03:10:20",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Nurnberg-Falcons-BC-at-BG-Gottingen/528113"
+  },
+  {
+   "detail": "Spanish Primera FEB Coto Cordoba CB 83, Caja 87 81",
+   "detected_at": "2026-10-18 03:10:16",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Caja-87-at-Coto-Cordoba-CB/532887"
+  },
+  {
+   "detail": "Spanish Primera FEB + Manuel Trujillo → Coto Cordoba CB",
+   "detected_at": "2026-10-18 03:10:15",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA Les Lions de Geneve 91, Union Neuchatel Basket 41",
+   "detected_at": "2026-10-18 03:10:13",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Les-Lions-de-Geneve-at-Union-Neuchatel-Basket/534116"
+  },
+  {
+   "detail": "Spanish Segunda FEB Amics Castello 68, Sol Girones Bisbal Basquet 55",
+   "detected_at": "2026-10-18 03:10:08",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Amics-Castello-at-Sol-Girones-Bisbal-Basquet/527771"
+  },
+  {
+   "detail": "German Pro B Hertener Loewen Basketball 65, BSW Sixers 58",
+   "detected_at": "2026-10-18 03:10:04",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Hertener-Loewen-Basketball-at-BSW-Sixers/525522"
+  },
+  {
+   "detail": "German Pro A Bozic Estriche Knights Kirchheim 100, Gartenzaun24 Baskets Paderborn 82",
+   "detected_at": "2026-10-18 03:10:00",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Gartenzaun24-Baskets-Paderborn-at-Bozic-Estriche-Knights-Kirchheim/528112"
+  },
+  {
+   "detail": "German Pro A Eisbaren Bremerhaven 97, ETB Miners Essen 94",
+   "detected_at": "2026-10-18 03:09:57",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/ETB-Miners-Essen-at-Eisbaren-Bremerhaven/528111"
+  },
+  {
+   "detail": "German Pro A + Sami Jahan → Eisbaren Bremerhaven",
+   "detected_at": "2026-10-18 03:09:55",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian LKL 7Bet Lietkabelis Panevezys 73, Kedainiai Nevezis 72",
+   "detected_at": "2026-10-18 03:09:53",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/7Bet-Lietkabelis-Panevezys-at-Kedainiai-Nevezis/532721"
+  },
+  {
+   "detail": "Lithuanian LKL + Xander Rice → Kedainiai Nevezis",
+   "detected_at": "2026-10-18 03:09:51",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Austrian A Bundesliga Arkadia Traiskirchen Lions 79, Kufstein Towers 52",
+   "detected_at": "2026-10-18 03:09:49",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Kufstein-Towers-at-Arkadia-Traiskirchen-Lions/531751"
+  },
+  {
+   "detail": "Romanian Divizia A SCM Mozzart Bet Timisoara 105, CSM Phoenix Galati 102",
+   "detected_at": "2026-10-18 03:09:45",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/SCM-Mozzart-Bet-Timisoara-at-CSM-Phoenix-Galati/538811"
+  },
+  {
+   "detail": "Romanian Divizia A + Georges Darwiche → CSM Phoenix Galati",
+   "detected_at": "2026-10-18 03:09:44",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA Fribourg Olympic 89, Zurich 43",
+   "detected_at": "2026-10-18 03:09:41",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Fribourg-Olympic-at-Zurich/534115"
+  },
+  {
+   "detail": "Swiss LNA + Chris Lykes → Fribourg Olympic",
+   "detected_at": "2026-10-18 03:09:40",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA SAM Basket Massagno 102, Lugano Tigers 72",
+   "detected_at": "2026-10-18 03:09:38",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/SAM-Basket-Massagno-at-Lugano-Tigers/534113"
+  },
+  {
+   "detail": "Swiss LNA ~ MOVED Killian Martin → SAM Basket Massagno (from BC Rilski Sportist)",
+   "detected_at": "2026-10-18 03:09:36",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA + Frank Paulino → Lugano Tigers",
+   "detected_at": "2026-10-18 03:09:36",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "German Pro B Fraport Skyliners Juniors 89, Porsche BBA 78",
+   "detected_at": "2026-10-18 03:09:34",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Fraport-Skyliners-Juniors-at-Porsche-BBA/525702"
+  },
+  {
+   "detail": "German Pro B ~ MOVED Jamie Edoka → Fraport Skyliners Juniors (from Fraport Skyliners)",
+   "detected_at": "2026-10-18 03:09:33",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian LKL Neptunas 84, Jonava Jonavos 83",
+   "detected_at": "2026-10-18 03:09:30",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Neptunas-at-Jonava-Jonavos/532720"
+  },
+  {
+   "detail": "Greek HEBA A1 PAOK BC 88, Kolossos Rodou BC 84",
+   "detected_at": "2026-10-18 03:09:26",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/PAOK-BC-at-Kolossos-Rodou-BC/543031"
+  },
+  {
+   "detail": "Greek HEBA A1 Iraklis BC 71, AS Karditsas 53",
+   "detected_at": "2026-10-18 03:09:22",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/AS-Karditsas-at-Iraklis-BC/543118"
+  },
+  {
+   "detail": "Greek HEBA A1 + Kostas Kabouridis → AS Karditsas",
+   "detected_at": "2026-10-18 03:09:21",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Greek HEBA A1 + Tasos Cook → Iraklis BC",
+   "detected_at": "2026-10-18 03:09:21",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Greek HEBA A1 ASP Promitheas Patras 80, AE Doxa Lefkadas 79",
+   "detected_at": "2026-10-18 03:09:18",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/ASP-Promitheas-Patras-at-AE-Doxa-Lefkadas/543178"
+  },
+  {
+   "detail": "Greek HEBA A1 + Nikos Arsenopoulos → AE Doxa Lefkadas",
+   "detected_at": "2026-10-18 03:09:17",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Greek HEBA A1 + Ioannis Sachpatzidis → AE Doxa Lefkadas",
+   "detected_at": "2026-10-18 03:09:17",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian LKL Lietuvos Rytas 95, Siauliai 88",
+   "detected_at": "2026-10-18 03:09:15",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Lietuvos-Rytas-at-Siauliai/532719"
+  },
+  {
+   "detail": "Greek HEBA A1 AEK Athens 84, Mykonos 79",
+   "detected_at": "2026-10-18 03:09:11",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Mykonos-at-AEK-Athens/542976"
+  },
+  {
+   "detail": "Greek HEBA A1 + Derrick Williams → AEK Athens",
+   "detected_at": "2026-10-18 03:09:10",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Greek HEBA A1 + Greg Brown III → AEK Athens",
+   "detected_at": "2026-10-18 03:09:10",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague Akita Northern Happinets 102, Shinshu Brave Warriors 95",
+   "detected_at": "2026-10-18 03:09:07",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Shinshu-Brave-Warriors-at-Akita-Northern-Happinets/524352"
+  },
+  {
+   "detail": "Japanese BLeague + Takuya Nakayama → Akita Northern Happinets",
+   "detected_at": "2026-10-18 03:09:06",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague Sendai 89ers 85, Link Tochigi Brex 81",
+   "detected_at": "2026-10-18 03:09:04",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Link-Tochigi-Brex-at-Sendai-89ers/524351"
+  },
+  {
+   "detail": "James Woodard  ~ number: - -> 10",
+   "detected_at": "2026-10-18 03:08:54",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/James_Woodard"
+  },
+  {
+   "detail": "Aleksandar Lazić  ~ number: 13 -> 8",
+   "detected_at": "2026-10-18 03:08:54",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Aleksandar_Lazi%C4%87"
+  },
+  {
+   "detail": "Lazar Stefanović (basketball)  ~ number: - -> 1",
+   "detected_at": "2026-10-18 03:08:54",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Lazar_Stefanovi%C4%87_(basketball)"
+  },
+  {
+   "detail": "Sergio de Larrea  ~ weight_lb: 204 -> 175",
+   "detected_at": "2026-10-18 03:08:54",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Sergio_de_Larrea"
+  },
+  {
+   "detail": "Devin Carter  ~ CAREER  + 2026–present →Maine Celtics",
+   "detected_at": "2026-10-18 03:08:53",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Devin_Carter"
+  },
+  {
+   "detail": "Dwight Powell  ~ height_in: 10 -> 11",
+   "detected_at": "2026-10-18 03:08:53",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Dwight_Powell"
+  },
+  {
+   "detail": "Drew Timme  ~ team: Minnesota Timberwolves -> Free agent",
+   "detected_at": "2026-10-18 03:08:53",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Drew_Timme"
+  },
+  {
+   "detail": "Drew Timme  ~ CAREER  + Minnesota Timberwolves",
+   "detected_at": "2026-10-18 03:08:53",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Drew_Timme"
+  },
+  {
+   "detail": "Reece Beekman  ~ team: Capital City Go-Go -> Washington Wizards",
+   "detected_at": "2026-10-18 03:08:53",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Reece_Beekman"
+  },
+  {
+   "detail": "Reece Beekman  ~ league: NBA G League -> NBA",
+   "detected_at": "2026-10-18 03:08:53",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Reece_Beekman"
+  },
+  {
+   "detail": "Reece Beekman  ~ CAREER  + –present Washington Wizards",
+   "detected_at": "2026-10-18 03:08:53",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Reece_Beekman"
+  },
+  {
+   "detail": "Reece Beekman  ~ CAREER  + 2026–present →Capital City Go-Go",
+   "detected_at": "2026-10-18 03:08:53",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Reece_Beekman"
+  },
+  {
+   "detail": "Antonio Reeves  ~ team: Minnesota Timberwolves -> Free agent",
+   "detected_at": "2026-10-18 03:08:53",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Antonio_Reeves"
+  },
+  {
+   "detail": "Antonio Reeves  ~ CAREER  + Minnesota Timberwolves",
+   "detected_at": "2026-10-18 03:08:53",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Antonio_Reeves"
+  },
+  {
+   "detail": "P. J. Washington  ~ height_in: 7 -> 6",
+   "detected_at": "2026-10-18 03:08:53",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/P._J._Washington"
+  },
+  {
+   "detail": "John Poulakidas  ~ team: Dallas Mavericks -> Free agent",
+   "detected_at": "2026-10-18 03:08:53",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/John_Poulakidas"
+  },
+  {
+   "detail": "John Poulakidas  ~ league: NBA -> -",
+   "detected_at": "2026-10-18 03:08:53",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/John_Poulakidas"
+  },
+  {
+   "detail": "John Poulakidas  ~ number: 1 -> -",
+   "detected_at": "2026-10-18 03:08:53",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/John_Poulakidas"
+  },
+  {
+   "detail": "John Poulakidas  ~ CAREER  + Dallas Mavericks",
+   "detected_at": "2026-10-18 03:08:53",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/John_Poulakidas"
+  },
+  {
+   "detail": "John Poulakidas  ~ CAREER  + 2026 →Texas Legends",
+   "detected_at": "2026-10-18 03:08:53",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/John_Poulakidas"
+  },
+  {
+   "detail": "Marcus Sasser  ~ height_in: 1 -> 2",
+   "detected_at": "2026-10-18 03:08:53",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Marcus_Sasser"
+  },
+  {
+   "detail": "Kenyon Martin Jr.  ~ team: Minnesota Timberwolves -> Free agent",
+   "detected_at": "2026-10-18 03:08:53",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kenyon_Martin_Jr."
+  },
+  {
+   "detail": "Kenyon Martin Jr.  ~ CAREER  + Minnesota Timberwolves",
+   "detected_at": "2026-10-18 03:08:53",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Kenyon_Martin_Jr."
+  },
+  {
+   "detail": "Enrique Freeman  ~ team: Minnesota Timberwolves -> Free agent",
+   "detected_at": "2026-10-18 03:08:53",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Enrique_Freeman"
+  },
+  {
+   "detail": "Enrique Freeman  ~ CAREER  + Minnesota Timberwolves",
+   "detected_at": "2026-10-18 03:08:53",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Enrique_Freeman"
+  },
+  {
+   "detail": "Enrique Freeman  ~ CAREER  + →Iowa Wolves",
+   "detected_at": "2026-10-18 03:08:53",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Enrique_Freeman"
+  },
+  {
+   "detail": "Norchad Omier  ~ team: Minnesota Timberwolves -> Free agent",
+   "detected_at": "2026-10-18 03:08:53",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Norchad_Omier"
+  },
+  {
+   "detail": "Norchad Omier  ~ CAREER  + Minnesota Timberwolves",
+   "detected_at": "2026-10-18 03:08:53",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Norchad_Omier"
+  },
+  {
+   "detail": "Cam Christie  ~ team: Free agent -> Los Angeles Clippers",
+   "detected_at": "2026-10-18 03:08:53",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Cam_Christie"
+  },
+  {
+   "detail": "Cam Christie  ~ league: - -> NBA",
+   "detected_at": "2026-10-18 03:08:53",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Cam_Christie"
+  },
+  {
+   "detail": "Cam Christie  ~ number: - -> 24",
+   "detected_at": "2026-10-18 03:08:53",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Cam_Christie"
+  },
+  {
+   "detail": "Cam Christie  ~ CAREER  + –present Los Angeles Clippers",
+   "detected_at": "2026-10-18 03:08:53",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Cam_Christie"
+  },
+  {
+   "detail": "Cam Christie  ~ CAREER  + 2024–present →San Diego Clippers",
+   "detected_at": "2026-10-18 03:08:53",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Cam_Christie"
+  },
+  {
+   "detail": "Lorenzo Brown  ~ league: Israeli Premier League EuroCup -> Israeli Basketball Premier League EuroCup",
+   "detected_at": "2026-10-18 03:08:53",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Lorenzo_Brown"
+  },
+  {
+   "detail": "Jeremy Sochan  ~ team: Portland Trail Blazers -> -",
+   "detected_at": "2026-10-18 03:08:53",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jeremy_Sochan"
+  },
+  {
+   "detail": "Jeremy Sochan  ~ number: 4 -> -",
+   "detected_at": "2026-10-18 03:08:53",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jeremy_Sochan"
+  },
+  {
+   "detail": "Jeremy Sochan  ~ CAREER  + Portland Trail Blazers",
+   "detected_at": "2026-10-18 03:08:53",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Jeremy_Sochan"
+  },
+  {
+   "detail": "Blake Wesley (basketball)  ~ CAREER  + Los Angeles Clippers",
+   "detected_at": "2026-10-18 03:08:53",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Blake_Wesley_(basketball)"
+  },
+  {
+   "detail": "Harrison Ingram  ~ number: 55 -> 00",
+   "detected_at": "2026-10-18 03:08:53",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Harrison_Ingram"
+  },
+  {
+   "detail": "Harrison Ingram  ~ CAREER  + 2026–present →Salt Lake City Stars",
+   "detected_at": "2026-10-18 03:08:53",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Harrison_Ingram"
+  },
+  {
+   "detail": "2026-10-17  Boston Celtics converted the contract of guard Devin Carter to a Two-Way Contract.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "ContractConverted"
+  },
+  {
+   "detail": "2026-10-17  Chicago Bulls waived forward Drew Peterson.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  Chicago Bulls waived center Orlando Robinson.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  Cleveland Cavaliers waived  Rashaun Agee.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  Cleveland Cavaliers waived guard Zack Austin.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  Cleveland Cavaliers waived  Tre'Von Spillers.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  Cleveland Cavaliers waived guard Noam Yaacov.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  Dallas Mavericks waived guard Seth Lundy.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  Dallas Mavericks waived guard John Poulakidas.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  Denver Nuggets waived guard Dane Goodwin.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  Denver Nuggets waived forward Coleman Hawkins.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  Denver Nuggets waived forward Emanuel Miller.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  Detroit Pistons waived forward John Ukomadu.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  Detroit Pistons waived guard Brice Williams.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  Golden State Warriors waived forward Tyler Burton.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  Golden State Warriors waived forward Dalen Terry.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  Golden State Warriors waived forward Alex Toohey.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  Houston Rockets waived  Bryce Harris.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  Houston Rockets waived forward Cameron Matthews.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  Houston Rockets waived guard Caleb McConnell.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  Indiana Pacers waived forward James Johnson.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  Indiana Pacers waived center Keba Keita.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  Indiana Pacers waived center Rienk Mast.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  LA Clippers waived guard Miye Oni.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  LA Clippers waived guard Jahmyl Telfort.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  LA Clippers waived guard Blake Wesley.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  Los Angeles Lakers waived center Rafael Castro.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  Los Angeles Lakers waived forward Niwa Tait-Jones.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  Memphis Grizzlies waived forward Zach Cleveland.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  Miami Heat waived  Ezra Ausar.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  Miami Heat waived center Kylor Kelley.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  Miami Heat waived forward Gabe Madsen.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  Miami Heat waived guard Bez Mbeng.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  Milwaukee Bucks waived forward Johni Broome.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  Milwaukee Bucks waived guard Marcus Garrett.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  Milwaukee Bucks waived forward Pete Nance.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  Milwaukee Bucks waived center Jake Stephens.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  Minnesota Timberwolves waived forward Enrique Freeman.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  Minnesota Timberwolves waived forward KJ Martin.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  Minnesota Timberwolves waived forward Norchad Omier.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  Minnesota Timberwolves waived guard Antonio Reeves.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  Minnesota Timberwolves waived forward Drew Timme.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  New Orleans Pelicans waived guard Kobe Bufkin.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  New Orleans Pelicans waived forward Jalon Moore.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  New York Knicks waived guard Bruce Brown.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  New York Knicks waived guard Dink Pate.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  Oklahoma City Thunder waived forward Buddy Boeheim.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  Oklahoma City Thunder waived  Nate Johnson.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  Oklahoma City Thunder waived  Christoph Tilly.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  Oklahoma City Thunder waived guard Dariq Whitehead.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  Oklahoma City Thunder waived guard Lamar Wilkerson.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  Phoenix Suns waived guard Kennedy Chandler.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  Phoenix Suns waived forward Haywood Highsmith.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  Phoenix Suns waived forward Phillip Wheeler.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  Portland Trail Blazers waived forward Jeremy Sochan.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  Toronto Raptors waived  Nimari Burnett.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  Toronto Raptors waived  Jalen Celestine.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  Toronto Raptors waived forward Tyson Degenhart.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  Toronto Raptors waived guard Tyreke Key.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  Toronto Raptors waived center Jamarion Sharp.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  Utah Jazz waived center Jonas Aidoo.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  Utah Jazz waived guard Tamar Bates.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  Washington Wizards waived guard Nolan Hickman.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  Washington Wizards waived guard Trevor Keels.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  Washington Wizards waived forward Chris Livingston.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  Washington Wizards waived guard Alondes Williams.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-16  LA Clippers waived center Nathan Mensah.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-16  Orlando Magic waived forward Malaki Branham.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-16  Orlando Magic waived guard JD Davison.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-16  Orlando Magic waived forward Kevin Knox II.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-16  Philadelphia 76ers waived  Cris Carroll.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-16  Philadelphia 76ers waived  Taye Fields.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-16  Philadelphia 76ers waived forward Dillon Jones.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-16  Philadelphia 76ers waived guard Jameer Nelson Jr..",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-16  Sacramento Kings waived guard Elfrid Payton.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-16  Sacramento Kings waived forward Viktor Lakhin.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-16  Sacramento Kings waived guard Tristen Newton.",
+   "detected_at": "2026-10-18 03:00:52",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "+ ADDED   Tony Bradley (UTA)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "- REMOVED Lamar Wilkerson (OKC)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Jeremy Sochan (POR)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Buddy Boeheim (OKC)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Tamar Bates (UTA)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Drew Timme (MIN)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Cameron Corhen (ATL)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Bez Mbeng (MIA)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Dariq Whitehead (OKC)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Blake Wesley (LAC)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Zack Austin (CLE)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED John Ukomadu (DET)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Jalen Celestine (TOR)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Drew Peterson (CHI)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Bryce Harris (HOU)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Viktor Lakhin (SAC)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Malaki Branham (ORL)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Chris Livingston (WAS)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Enrique Freeman (MIN)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Norchad Omier (MIN)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Seth Lundy (DAL)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED James Johnson (IND)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Rashaun Agee (CLE)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Rienk Mast (IND)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Cris Carroll (PHI)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Tyler Burton (GSW)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Johni Broome (MIL)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Nolan Hickman (WAS)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Gabe McGlothan (BOS)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Brice Williams (DET)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Rafael Castro (LAL)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Tyreke Key (TOR)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Antonio Reeves (MIN)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Kobe Johnson (ATL)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Jake Stephens (MIL)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Cameron Matthews (HOU)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Brandon Boston (CHI)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Dane Goodwin (DEN)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Bruce Brown (NYK)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Gabe Madsen (MIA)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Orlando Robinson (CHI)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Phillip Wheeler (PHX)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Hayden Gray (BOS)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Alondes Williams (WAS)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Ezra Ausar (MIA)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Milos Uzan (BOS)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Kennedy Chandler (PHX)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED John Poulakidas (DAL)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Nathan Mensah (LAC)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Pete Nance (MIL)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Zach Cleveland (MEM)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED KJ Martin (MIN)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Jonas Aidoo (UTA)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Kevin Knox II (ORL)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Jamarion Sharp (TOR)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Tre'Von Spillers (CLE)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Taye Fields (PHI)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Christoph Tilly (OKC)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Dillon Jones (PHI)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Marcus Garrett (MIL)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Miye Oni (LAC)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Jahmyl Telfort (LAC)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Elfrid Payton (SAC)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Nate Johnson (OKC)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Latrell Wrightsell (CHA)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Jarkel Joiner (CHA)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Alex Toohey (GSW)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Dink Pate (NYK)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED JD Davison (ORL)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Nimari Burnett (TOR)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Jalon Moore (NOP)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Trevor Keels (WAS)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Jameer Nelson Jr. (PHI)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Kylor Kelley (MIA)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Haywood Highsmith (PHX)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Tucker DeVries (BOS)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Tristen Newton (SAC)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Keba Keita (IND)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Dalen Terry (GSW)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Coleman Hawkins (DEN)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Emanuel Miller (DEN)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Niwa Tait-Jones (LAL)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Jalen Bridges (CHI)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Kobe Bufkin (NOP)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Noam Yaacov (CLE)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Caleb McConnell (HOU)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "- REMOVED Tyson Degenhart (TOR)",
+   "detected_at": "2026-10-18 03:00:40",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-10-17  Utah Jazz claimed center Tony Bradley off waivers.",
+   "detected_at": "2026-10-17 23:46:12",
+   "source": "TRANSACTIONS",
+   "type": "AwardOnWaivers"
+  },
+  {
+   "detail": "2026-10-17  Atlanta Hawks waived forward Cameron Corhen.",
+   "detected_at": "2026-10-17 23:46:12",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  Atlanta Hawks waived guard Kobe Johnson.",
+   "detected_at": "2026-10-17 23:46:12",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  Boston Celtics waived  Tucker DeVries.",
+   "detected_at": "2026-10-17 23:46:12",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  Boston Celtics waived guard Hayden Gray.",
+   "detected_at": "2026-10-17 23:46:12",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  Boston Celtics waived forward Gabe McGlothan.",
+   "detected_at": "2026-10-17 23:46:12",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  Boston Celtics waived guard Milos Uzan.",
+   "detected_at": "2026-10-17 23:46:12",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  Charlotte Hornets waived guard Jarkel Joiner.",
+   "detected_at": "2026-10-17 23:46:12",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  Charlotte Hornets waived guard Latrell Wrightsell.",
+   "detected_at": "2026-10-17 23:46:12",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  Chicago Bulls waived guard Brandon Boston.",
+   "detected_at": "2026-10-17 23:46:12",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  Chicago Bulls waived forward Jalen Bridges.",
+   "detected_at": "2026-10-17 23:46:12",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
    "detail": "Blake Wesley  ~ 131835: team -> Free agent",
    "detected_at": "2026-10-17 21:28:58",
    "source": "WIKIWATCH",
@@ -7566,2416 +9932,6 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Udoka_Azubuike"
-  },
-  {
-   "detail": "Kyle Fogg  ~ team: Shanghai Sharks -> Guangdong Southern Tigers",
-   "detected_at": "2026-10-14 14:44:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Kyle_Fogg"
-  },
-  {
-   "detail": "Kyle Fogg  ~ number: 24 -> 12",
-   "detected_at": "2026-10-14 14:44:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Kyle_Fogg"
-  },
-  {
-   "detail": "Kyle Fogg  ~ CAREER  + 2025–2026 Shanghai Sharks",
-   "detected_at": "2026-10-14 14:44:38",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Kyle_Fogg"
-  },
-  {
-   "detail": "Kyle Fogg  ~ CAREER  + 2026–present Guangdong Southern Tigers",
-   "detected_at": "2026-10-14 14:44:38",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Kyle_Fogg"
-  },
-  {
-   "detail": "Nikos Pappas (basketball)  ~ team: Ilysiakos -> -",
-   "detected_at": "2026-10-14 14:44:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Nikos_Pappas_(basketball)"
-  },
-  {
-   "detail": "Nikos Pappas (basketball)  ~ league: Greek Basket League -> -",
-   "detected_at": "2026-10-14 14:44:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Nikos_Pappas_(basketball)"
-  },
-  {
-   "detail": "Nikos Pappas (basketball)  ~ number: 11 -> -",
-   "detected_at": "2026-10-14 14:44:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Nikos_Pappas_(basketball)"
-  },
-  {
-   "detail": "Nikos Pappas (basketball)  ~ career_start: 2006–2023, 2024 -> 2006",
-   "detected_at": "2026-10-14 14:44:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Nikos_Pappas_(basketball)"
-  },
-  {
-   "detail": "Nikos Pappas (basketball)  ~ career_end: - -> 2023",
-   "detected_at": "2026-10-14 14:44:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Nikos_Pappas_(basketball)"
-  },
-  {
-   "detail": "Josh Carlton  ~ team: Guangdong Southern Tigers -> Free agent",
-   "detected_at": "2026-10-14 14:44:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Josh_Carlton"
-  },
-  {
-   "detail": "Josh Carlton  ~ weight_lb: 245 -> -",
-   "detected_at": "2026-10-14 14:44:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Josh_Carlton"
-  },
-  {
-   "detail": "Josh Carlton  ~ CAREER  + 2024–2025 Hong Kong Bulls",
-   "detected_at": "2026-10-14 14:44:38",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Josh_Carlton"
-  },
-  {
-   "detail": "2026-10-14  Cleveland Cavaliers waived guard Jaxson Robinson.",
-   "detected_at": "2026-10-14 14:29:55",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
-  },
-  {
-   "detail": "~ CHANGED Bogoljub Marković  name: Bogoljub Markovic -> Bogoljub Marković",
-   "detected_at": "2026-10-14 13:59:55",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Karlo Matković  name: Karlo Matkovic -> Karlo Matković",
-   "detected_at": "2026-10-14 13:59:55",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Bogoljub Markovic  name: Bogoljub Marković -> Bogoljub Markovic",
-   "detected_at": "2026-10-14 13:24:55",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Karlo Matkovic  name: Karlo Matković -> Karlo Matkovic",
-   "detected_at": "2026-10-14 13:24:55",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "FIBA Europe Cup KB Trepca Mitrovice 78, KK Split 69",
-   "detected_at": "2026-10-14 13:12:57",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-14/KB-Trepca-Mitrovice-at-KK-Split/542013"
-  },
-  {
-   "detail": "FIBA Europe Cup + James Graham → KB Trepca Mitrovice",
-   "detected_at": "2026-10-14 13:12:55",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Jerome Robinson  ~ league: Basketbol Süper Ligi -> BSL BCL",
-   "detected_at": "2026-10-14 12:43:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jerome_Robinson"
-  },
-  {
-   "detail": "Jerome Robinson  ~ position: Shooting guard -> Small forward / shooting guard",
-   "detected_at": "2026-10-14 12:43:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jerome_Robinson"
-  },
-  {
-   "detail": "Jerome Robinson  ~ height_in: 4 -> 5",
-   "detected_at": "2026-10-14 12:43:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jerome_Robinson"
-  },
-  {
-   "detail": "Berkan Durmaz  ~ weight_lb: - -> 200",
-   "detected_at": "2026-10-14 12:43:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Berkan_Durmaz"
-  },
-  {
-   "detail": "~ CHANGED Enrique Freeman  height: 6-9 -> 6-7",
-   "detected_at": "2026-10-14 12:20:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Bogoljub Marković  height: 6-11 -> 6-10",
-   "detected_at": "2026-10-14 12:20:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Dalton Knecht  height: 6-6 -> 6-5",
-   "detected_at": "2026-10-14 12:20:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Gary Trent Jr.  height: 6-5 -> 6-4",
-   "detected_at": "2026-10-14 12:20:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Trey Murphy III  height: 6-8 -> 6-9",
-   "detected_at": "2026-10-14 12:20:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Jaime Jaquez Jr.  height: 6-6 -> 6-7",
-   "detected_at": "2026-10-14 12:20:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Ryan Conwell  height: 6-4 -> 6-2",
-   "detected_at": "2026-10-14 12:20:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Cameron Boozer  height: 6-10 -> 6-8",
-   "detected_at": "2026-10-14 12:20:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Andre Drummond  height: 6-11 -> 6-10",
-   "detected_at": "2026-10-14 12:20:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Quentin Grimes  height: 6-5 -> 6-4",
-   "detected_at": "2026-10-14 12:20:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Kobe Bufkin  height: 6-4 -> 6-5",
-   "detected_at": "2026-10-14 12:20:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Trendon Watford  height: 6-8 -> 6-9",
-   "detected_at": "2026-10-14 12:20:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Jalon Moore  height: 6-6 -> 6-8",
-   "detected_at": "2026-10-14 12:20:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Bobby Portis Jr.  height: 6-9 -> 6-10",
-   "detected_at": "2026-10-14 12:20:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Norchad Omier  height: 6-7 -> 6-5",
-   "detected_at": "2026-10-14 12:20:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Cody Williams  height: 6-8 -> 6-7",
-   "detected_at": "2026-10-14 12:20:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Karlo Matković  height: 6-10 -> 6-11",
-   "detected_at": "2026-10-14 12:20:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Jaden Akins  height: 6-4 -> 6-2",
-   "detected_at": "2026-10-14 12:20:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Collin Sexton  height: 6-3 -> 6-1",
-   "detected_at": "2026-10-14 12:20:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Micah Peavy  height: 6-7 -> 6-6",
-   "detected_at": "2026-10-14 12:20:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED James Wiseman  height: 6-11 -> 7-0",
-   "detected_at": "2026-10-14 12:20:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Jaron Pierre Jr.  height: 6-5 -> 6-6",
-   "detected_at": "2026-10-14 12:20:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Zach Edey  height: 7-3 -> 7-4",
-   "detected_at": "2026-10-14 12:20:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Tre Donaldson  height: 6-3 -> 6-1",
-   "detected_at": "2026-10-14 12:20:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Walker Kessler  height: 7-2 -> 7-1",
-   "detected_at": "2026-10-14 12:20:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Derik Queen  height: 6-9 -> 6-11",
-   "detected_at": "2026-10-14 12:20:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Yaxel Lendeborg  school: Alabama-Birmingham -> Michigan",
-   "detected_at": "2026-10-14 12:20:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED AJ Johnson  height: 6-5 -> 6-6",
-   "detected_at": "2026-10-14 12:20:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Joan Beringer  height: 6-11 -> 7-0",
-   "detected_at": "2026-10-14 12:20:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Walter Clayton Jr.  height: 6-4 -> 6-3",
-   "detected_at": "2026-10-14 12:20:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Scotty Pippen Jr.  height: 6-2 -> 6-1",
-   "detected_at": "2026-10-14 12:20:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Jake LaRavia  height: 6-7 -> 6-8",
-   "detected_at": "2026-10-14 12:20:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Carson Cooper  position: - -> F",
-   "detected_at": "2026-10-14 12:20:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Carson Cooper  height: - -> 6-10",
-   "detected_at": "2026-10-14 12:20:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Sandro Mamukelashvili  height: 6-9 -> 6-10",
-   "detected_at": "2026-10-14 12:20:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Jaden Hardy  height: 6-3 -> 6-4",
-   "detected_at": "2026-10-14 12:20:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Julian Reese  height: 6-9 -> 6-11",
-   "detected_at": "2026-10-14 12:20:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Cedric Coward  height: 6-5 -> 6-6",
-   "detected_at": "2026-10-14 12:20:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "~ CHANGED Bez Mbeng  height: 6-4 -> 6-2",
-   "detected_at": "2026-10-14 12:20:54",
-   "source": "PLAYERS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "KJ Simpson  ~ team: Free agent -> Galatasaray",
-   "detected_at": "2026-10-14 12:20:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/KJ_Simpson"
-  },
-  {
-   "detail": "KJ Simpson  ~ league: - -> BSL BCL",
-   "detected_at": "2026-10-14 12:20:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/KJ_Simpson"
-  },
-  {
-   "detail": "KJ Simpson  ~ number: - -> 25",
-   "detected_at": "2026-10-14 12:20:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/KJ_Simpson"
-  },
-  {
-   "detail": "KJ Simpson  ~ CAREER  + 2026–present Galatasaray",
-   "detected_at": "2026-10-14 12:20:39",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/KJ_Simpson"
-  },
-  {
-   "detail": "A. J. Lawson  ~ position: Shooting guard -> Shooting guard / small forward",
-   "detected_at": "2026-10-14 12:20:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/A._J._Lawson"
-  },
-  {
-   "detail": "Paul Reed (basketball)  ~ position: Center / power forward -> Power forward",
-   "detected_at": "2026-10-14 12:20:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Paul_Reed_(basketball)"
-  },
-  {
-   "detail": "Tolu Smith  ~ position: Center -> Power forward",
-   "detected_at": "2026-10-14 12:20:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Tolu_Smith"
-  },
-  {
-   "detail": "FIBA Europe Cup VEF Riga 110, Neftchi IK 94",
-   "detected_at": "2026-10-14 11:58:50",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-14/VEF-Riga-at-Neftchi-IK/542029"
-  },
-  {
-   "detail": "FIBA Europe Cup + Jarod Robinson → Neftchi IK",
-   "detected_at": "2026-10-14 11:58:48",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "FIBA Europe Cup + Tunar Hajizada → Neftchi IK",
-   "detected_at": "2026-10-14 11:58:48",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "FIBA Europe Cup BK Levicki Patrioti Levice 74, Zastal Zielona Gora 71",
-   "detected_at": "2026-10-14 11:58:19",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-14/BK-Levicki-Patrioti-Levice-at-Zastal-Zielona-Gora/542010"
-  },
-  {
-   "detail": "FIBA Europe Cup Korfez Mansia 74, Chalon Sur Saone 65",
-   "detected_at": "2026-10-14 11:58:16",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-14/Chalon-Sur-Saone-at-Korfez-Mansia/542024"
-  },
-  {
-   "detail": "FIBA Europe Cup Tartu Ulikool MaksMoorits 95, MZT Skopje Aerodrom 92",
-   "detected_at": "2026-10-14 11:58:12",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-14/Tartu-Ulikool-MaksMoorits-at-MZT-Skopje-Aerodrom/542022"
-  },
-  {
-   "detail": "FIBA Europe Cup Iraklis BC 90, sOliver Baskets 73",
-   "detected_at": "2026-10-14 11:58:09",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-14/sOliver-Baskets-at-Iraklis-BC/542021"
-  },
-  {
-   "detail": "FIBA Europe Cup BK Opava 102, Batumi RSU 62",
-   "detected_at": "2026-10-14 11:58:05",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-14/BK-Opava-at-Batumi-RSU/542011"
-  },
-  {
-   "detail": "FIBA Europe Cup Gladiators Trier 87, ASP Promitheas Patras 83",
-   "detected_at": "2026-10-14 11:58:01",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-14/Gladiators-Trier-at-ASP-Promitheas-Patras/542012"
-  },
-  {
-   "detail": "Basketball Champions League Europe Trabzonspor 100, Sabah BC 83",
-   "detected_at": "2026-10-14 11:57:58",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-14/Sabah-BC-at-Trabzonspor/530328"
-  },
-  {
-   "detail": "FIBA Europe Cup Lokomotiv Plovdiv 79, CSM Oradea 69",
-   "detected_at": "2026-10-14 11:57:54",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-14/CSM-Oradea-at-Lokomotiv-Plovdiv/542030"
-  },
-  {
-   "detail": "Markus Howard  ~ CAREER  + 2026–present Partizan",
-   "detected_at": "2026-10-14 11:34:44",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Markus_Howard"
-  },
-  {
-   "detail": "2026-09-28  Memphis Grizzlies signed forward Carson Cooper to a Two-Way Contract.",
-   "detected_at": "2026-10-14 10:28:56",
-   "source": "TRANSACTIONS",
-   "type": "Signing"
-  },
-  {
-   "detail": "Tacko Fall  ~ height_in: 6 -> 7",
-   "detected_at": "2026-10-14 10:23:45",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Tacko_Fall"
-  },
-  {
-   "detail": "+ ADDED   Chance Moore (UTA)",
-   "detected_at": "2026-10-14 10:15:54",
-   "source": "PLAYERS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "+ ADDED   Giorgi Bezhanishvili (ATL)",
-   "detected_at": "2026-10-14 10:15:54",
-   "source": "PLAYERS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "Markus Howard  ~ CAREER  + 2026–present Zenit Saint Petersburg",
-   "detected_at": "2026-10-14 10:00:39",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Markus_Howard"
-  },
-  {
-   "detail": "WNBA Golden State Valkyries 77, Dallas Wings 73",
-   "detected_at": "2026-10-14 09:35:11",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-10-02/Dallas-at-Golden-State/161659"
-  },
-  {
-   "detail": "Belarusian BPL Borisfen Mogilev Youth 84, Brest Region II 46",
-   "detected_at": "2026-10-14 09:35:03",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-04/Borisfen-Mogilev-Youth-at-Brest-Region-II/544746"
-  },
-  {
-   "detail": "Belarusian BPL ~ RETURN Ivan Dudchenko → Borisfen Mogilev Youth (from Borisfen Mogilev)",
-   "detected_at": "2026-10-14 09:35:02",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL ~ RETURN Artem Puchko → Borisfen Mogilev Youth (from Borisfen Mogilev)",
-   "detected_at": "2026-10-14 09:35:02",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Danill Zhernosek → Borisfen Mogilev Youth",
-   "detected_at": "2026-10-14 09:35:02",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Yaroslav Polischuk → Brest Region II",
-   "detected_at": "2026-10-14 09:35:02",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Kenneth Faried  ~ position: Center / power forward -> Center",
-   "detected_at": "2026-10-14 08:48:41",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Kenneth_Faried"
-  },
-  {
-   "detail": "Markus Howard  ~ team: Saski Baskonia -> Zenit Saint Petersburg",
-   "detected_at": "2026-10-14 08:48:41",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Markus_Howard"
-  },
-  {
-   "detail": "Markus Howard  ~ league: Liga ACB EuroLeague -> VTB United League",
-   "detected_at": "2026-10-14 08:48:41",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Markus_Howard"
-  },
-  {
-   "detail": "Markus Howard  ~ CAREER  + 2022–2026 Baskonia",
-   "detected_at": "2026-10-14 08:48:41",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Markus_Howard"
-  },
-  {
-   "detail": "Markus Howard  ~ CAREER  + 2026–present Zenit",
-   "detected_at": "2026-10-14 08:48:41",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Markus_Howard"
-  },
-  {
-   "detail": "Belarusian BPL Borisfen Mogilev 84, Rubon 81",
-   "detected_at": "2026-10-14 08:27:44",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-02/Rubon-at-Borisfen-Mogilev/544747"
-  },
-  {
-   "detail": "Belarusian BPL + Maxim Hantsevich → Rubon",
-   "detected_at": "2026-10-14 08:27:43",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL ~ MOVED Andrey Velesik → Rubon (from Rubon 2)",
-   "detected_at": "2026-10-14 08:27:43",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Kirill Luzan → Rubon",
-   "detected_at": "2026-10-14 08:27:43",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Daniil Gorbachevskiy → Borisfen Mogilev",
-   "detected_at": "2026-10-14 08:27:43",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL Tsmoki Minsk 91, Brest Region 72",
-   "detected_at": "2026-10-14 08:27:39",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-03/Brest-Region-at-Tsmoki-Minsk/544749"
-  },
-  {
-   "detail": "Belarusian BPL Grodno 93 88, GOCOR Soj Gomel 63",
-   "detected_at": "2026-10-14 08:27:35",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-03/GOCOR-Soj-Gomel-at-Grodno-93/544748"
-  },
-  {
-   "detail": "Belarusian BPL + Dmitriy Naumenko → Grodno 93",
-   "detected_at": "2026-10-14 08:27:34",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Gleb Sherstobitov → Grodno 93",
-   "detected_at": "2026-10-14 08:27:34",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Daniil Kisel → Grodno 93",
-   "detected_at": "2026-10-14 08:27:34",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL Gomel Lynx Youth 79, RGUOR Minsk 61",
-   "detected_at": "2026-10-14 08:27:29",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-04/Gomel-Lynx-Youth-at-RGUOR-Minsk/544745"
-  },
-  {
-   "detail": "Belarusian BPL + Denis Bakshaev → Gomel Lynx Youth",
-   "detected_at": "2026-10-14 08:27:28",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL ~ MOVED Kirill Shishlovsky → Gomel Lynx Youth (from GOCOR Soj Gomel)",
-   "detected_at": "2026-10-14 08:27:28",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Georgy Korolenok → Gomel Lynx Youth",
-   "detected_at": "2026-10-14 08:27:28",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Timur Matveenko → Gomel Lynx Youth",
-   "detected_at": "2026-10-14 08:27:28",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Artem Pototsky → Gomel Lynx Youth",
-   "detected_at": "2026-10-14 08:27:28",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Artem Tenyuta → Gomel Lynx Youth",
-   "detected_at": "2026-10-14 08:27:28",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Alexander Pobelustik → Gomel Lynx Youth",
-   "detected_at": "2026-10-14 08:27:28",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Vladislav Tereb → Gomel Lynx Youth",
-   "detected_at": "2026-10-14 08:27:28",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Daniil Borisenko → Gomel Lynx Youth",
-   "detected_at": "2026-10-14 08:27:28",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Roman Galaganov → Gomel Lynx Youth",
-   "detected_at": "2026-10-14 08:27:28",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Andrey Mezheynikov → Gomel Lynx Youth",
-   "detected_at": "2026-10-14 08:27:28",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Andrey Lichman → Gomel Lynx Youth",
-   "detected_at": "2026-10-14 08:27:28",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Matvey Filenkov → RGUOR Minsk",
-   "detected_at": "2026-10-14 08:27:28",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Artur Vilman → RGUOR Minsk",
-   "detected_at": "2026-10-14 08:27:28",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Egor Gruzinov → RGUOR Minsk",
-   "detected_at": "2026-10-14 08:27:28",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Alexander Kozeletsky → RGUOR Minsk",
-   "detected_at": "2026-10-14 08:27:28",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Timur Belyaev → RGUOR Minsk",
-   "detected_at": "2026-10-14 08:27:28",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Bogdan Terlyakovich → RGUOR Minsk",
-   "detected_at": "2026-10-14 08:27:28",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Egor Vilman → RGUOR Minsk",
-   "detected_at": "2026-10-14 08:27:28",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Kirill Demchuk → RGUOR Minsk",
-   "detected_at": "2026-10-14 08:27:28",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Andrey Melnik → RGUOR Minsk",
-   "detected_at": "2026-10-14 08:27:28",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Timur Yushkevich → RGUOR Minsk",
-   "detected_at": "2026-10-14 08:27:28",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Artem Karkanitsa → RGUOR Minsk",
-   "detected_at": "2026-10-14 08:27:28",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Kirill Kazachkovsky → RGUOR Minsk",
-   "detected_at": "2026-10-14 08:27:28",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Argentinian Liga A Racing de Chivilcoy 84, Obera Tenis Club 78",
-   "detected_at": "2026-10-14 08:27:17",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-13/Racing-de-Chivilcoy-at-Obera-Tenis-Club/541693"
-  },
-  {
-   "detail": "Euroleague Olympiacos 102, Valencia Basket 97",
-   "detected_at": "2026-10-14 08:27:14",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-13/Olympiacos-at-Valencia-Basket/526814"
-  },
-  {
-   "detail": "Euroleague Barca 90, Maccabi FOX Tel Aviv 87",
-   "detected_at": "2026-10-14 08:27:10",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-13/Maccabi-FOX-Tel-Aviv-at-Barca/526811"
-  },
-  {
-   "detail": "Euroleague Panathinaikos 72, KK Partizan 55",
-   "detected_at": "2026-10-14 08:27:06",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-13/Panathinaikos-at-KK-Partizan/526810"
-  },
-  {
-   "detail": "Euroleague Real Madrid 98, AX Armani Exchange Milan 89",
-   "detected_at": "2026-10-14 08:27:03",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-13/Real-Madrid-at-AX-Armani-Exchange-Milan/526812"
-  },
-  {
-   "detail": "Euroleague Dubai 93, Baskonia 79",
-   "detected_at": "2026-10-14 08:26:59",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-13/Dubai-at-Baskonia/526813"
-  },
-  {
-   "detail": "Euroleague KK Crvena Zvezda 84, ASVEL Basket 82",
-   "detected_at": "2026-10-14 08:26:55",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-13/KK-Crvena-Zvezda-at-ASVEL-Basket/526809"
-  },
-  {
-   "detail": "Basketball Champions League Europe Nanterre 92 93, Lietuvos Rytas 65",
-   "detected_at": "2026-10-14 08:26:52",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-13/Lietuvos-Rytas-at-Nanterre-92/530324"
-  },
-  {
-   "detail": "Basketball Champions League Europe Peristeri Betsson 85, OpenJobMetis Varese 82",
-   "detected_at": "2026-10-14 08:26:48",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-13/Peristeri-Betsson-at-OpenJobMetis-Varese/530325"
-  },
-  {
-   "detail": "Basketball Champions League Europe + Alexandros Thomakos → Peristeri Betsson",
-   "detected_at": "2026-10-14 08:26:47",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "FIBA Europe Cup Mykonos 80, Fribourg Olympic 65",
-   "detected_at": "2026-10-14 08:26:45",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-13/Mykonos-at-Fribourg-Olympic/542031"
-  },
-  {
-   "detail": "FIBA Europe Cup + Vasilis Tolias → Mykonos",
-   "detected_at": "2026-10-14 08:26:44",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "FIBA Europe Cup + Kyriakos Petanidis → Mykonos",
-   "detected_at": "2026-10-14 08:26:44",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "FIBA Europe Cup CB Girona 91, Telenet BC Oostende 76",
-   "detected_at": "2026-10-14 08:26:41",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-13/CB-Girona-at-Telenet-BC-Oostende/542007"
-  },
-  {
-   "detail": "FIBA Europe Cup ~ MOVED Enric Sanmartin → CB Girona (from Girona Liga U)",
-   "detected_at": "2026-10-14 08:26:40",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Champions League Europe ALBA Berlin 90, BC Igokea 79",
-   "detected_at": "2026-10-14 08:26:38",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-13/BC-Igokea-at-ALBA-Berlin/530326"
-  },
-  {
-   "detail": "Basketball Champions League Europe ~ MOVED Fin Borczanowski → ALBA Berlin (from SSV lok Bernau Alba)",
-   "detected_at": "2026-10-14 08:26:36",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
-  },
-  {
-   "detail": "Euroleague Fenerbahce Beko 99, Zalgiris 80",
-   "detected_at": "2026-10-14 08:26:34",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-13/Zalgiris-at-Fenerbahce-Beko/526808"
-  },
-  {
-   "detail": "Norwegian BLNO Baerum Basket 93, Centrum Tigers 83",
-   "detected_at": "2026-10-14 08:26:30",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-13/Centrum-Tigers-at-Baerum-Basket/530272"
-  },
-  {
-   "detail": "Norwegian BLNO + Finley Heath → Centrum Tigers",
-   "detected_at": "2026-10-14 08:26:29",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Norwegian BLNO + Fredrik Trana → Baerum Basket",
-   "detected_at": "2026-10-14 08:26:29",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL Tsmoki Minsk 90, Borisfen Mogilev 71",
-   "detected_at": "2026-10-14 08:26:27",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-13/Borisfen-Mogilev-at-Tsmoki-Minsk/544735"
-  },
-  {
-   "detail": "Belarusian BPL + Artsem Sekushenka → Borisfen Mogilev",
-   "detected_at": "2026-10-14 08:26:26",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Egor Skuratov → Borisfen Mogilev",
-   "detected_at": "2026-10-14 08:26:26",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Uladzislau Shvakel → Borisfen Mogilev",
-   "detected_at": "2026-10-14 08:26:26",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Sergej Vabischevich → Borisfen Mogilev",
-   "detected_at": "2026-10-14 08:26:26",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Vadim Fedkin → Borisfen Mogilev",
-   "detected_at": "2026-10-14 08:26:26",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Lev Kuzmenko → Borisfen Mogilev",
-   "detected_at": "2026-10-14 08:26:26",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Antom Shchurko → Borisfen Mogilev",
-   "detected_at": "2026-10-14 08:26:26",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Andrey Ageenko → Borisfen Mogilev",
-   "detected_at": "2026-10-14 08:26:26",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Dmitri Bezrychenko → Borisfen Mogilev",
-   "detected_at": "2026-10-14 08:26:26",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL ~ MOVED Artem Puchko → Borisfen Mogilev (from Borisfen Mogilev Youth)",
-   "detected_at": "2026-10-14 08:26:26",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL ~ MOVED Ivan Dudchenko → Borisfen Mogilev (from Borisfen Mogilev Youth)",
-   "detected_at": "2026-10-14 08:26:26",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Vitaly Duchko → Tsmoki Minsk",
-   "detected_at": "2026-10-14 08:26:26",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL Grondo GrGU 65, Brest Region 56",
-   "detected_at": "2026-10-14 08:26:23",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-13/Brest-Region-at-Grondo-GrGU/544734"
-  },
-  {
-   "detail": "Belarusian BPL + Denis Sivatsky → Brest Region",
-   "detected_at": "2026-10-14 08:26:22",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Nikita Myts → Brest Region",
-   "detected_at": "2026-10-14 08:26:22",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Alexander Kalashnikov → Brest Region",
-   "detected_at": "2026-10-14 08:26:22",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Artem Brashko → Brest Region",
-   "detected_at": "2026-10-14 08:26:22",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Yaroslav Zaporozhets → Brest Region",
-   "detected_at": "2026-10-14 08:26:22",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Oksana Luyeye → Brest Region",
-   "detected_at": "2026-10-14 08:26:22",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Sergey Fedorchuk → Brest Region",
-   "detected_at": "2026-10-14 08:26:22",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Nikita Olyushin → Brest Region",
-   "detected_at": "2026-10-14 08:26:22",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Vladislav Lagodich → Brest Region",
-   "detected_at": "2026-10-14 08:26:22",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Daniil Vitko → Brest Region",
-   "detected_at": "2026-10-14 08:26:22",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Mikita Dashkevich → Brest Region",
-   "detected_at": "2026-10-14 08:26:22",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Evheniy Savostian → Grondo GrGU",
-   "detected_at": "2026-10-14 08:26:22",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Georgy Fastov → Grondo GrGU",
-   "detected_at": "2026-10-14 08:26:22",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Egor Chesnov → Grondo GrGU",
-   "detected_at": "2026-10-14 08:26:22",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Kirill Tkachenko → Grondo GrGU",
-   "detected_at": "2026-10-14 08:26:22",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Anton Gaidel → Grondo GrGU",
-   "detected_at": "2026-10-14 08:26:22",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Bogdan Nosenko → Grondo GrGU",
-   "detected_at": "2026-10-14 08:26:22",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Andrey Panasevich → Grondo GrGU",
-   "detected_at": "2026-10-14 08:26:22",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Semyon Gural → Grondo GrGU",
-   "detected_at": "2026-10-14 08:26:22",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Artem Rusnak → Grondo GrGU",
-   "detected_at": "2026-10-14 08:26:22",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Vladislav Zmitrukevich → Grondo GrGU",
-   "detected_at": "2026-10-14 08:26:22",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Ivan Ilyashenko → Grondo GrGU",
-   "detected_at": "2026-10-14 08:26:22",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Australian NBL New Zealand 102, Sydney 101",
-   "detected_at": "2026-10-14 08:26:18",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-14/New-Zealand-at-Sydney/524403"
-  },
-  {
-   "detail": "Jeremy Evans  ~ team: Mykonos -> -",
-   "detected_at": "2026-10-14 08:25:50",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jeremy_Evans"
-  },
-  {
-   "detail": "Jeremy Evans  ~ league: Greek Basketball League -> -",
-   "detected_at": "2026-10-14 08:25:50",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jeremy_Evans"
-  },
-  {
-   "detail": "Jeremy Evans  ~ position: Power forward / center -> -",
-   "detected_at": "2026-10-14 08:25:50",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jeremy_Evans"
-  },
-  {
-   "detail": "Jeremy Evans  ~ number: 40 -> -",
-   "detected_at": "2026-10-14 08:25:50",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jeremy_Evans"
-  },
-  {
-   "detail": "Jeremy Evans  ~ career_end: - -> 2025",
-   "detected_at": "2026-10-14 08:25:50",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jeremy_Evans"
-  },
-  {
-   "detail": "Jeremy Evans  ~ CAREER  + 2025 Mykonos",
-   "detected_at": "2026-10-14 08:25:50",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Jeremy_Evans"
-  },
-  {
-   "detail": "Gary Payton II  ~ league: National Basketball Association -> NBA",
-   "detected_at": "2026-10-14 08:25:50",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Gary_Payton_II"
-  },
-  {
-   "detail": "Kenneth Lofton Jr.  ~ league: Israeli Premier League EuroCup -> Israeli Basketball Premier League EuroCup",
-   "detected_at": "2026-10-14 08:25:50",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Kenneth_Lofton_Jr."
-  },
-  {
-   "detail": "Mathieu Grujicic  ~ team: Ohio State Buckeyes -> Radford Highlanders",
-   "detected_at": "2026-10-14 08:25:50",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Mathieu_Grujicic"
-  },
-  {
-   "detail": "Mathieu Grujicic  ~ league: Big Ten Conference -> Big South Conference",
-   "detected_at": "2026-10-14 08:25:50",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Mathieu_Grujicic"
-  },
-  {
-   "detail": "Kristijan Krajina  ~ number: - -> 5",
-   "detected_at": "2026-10-14 08:25:50",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Kristijan_Krajina"
-  },
-  {
-   "detail": "Gregor Hrovat  ~ number: - -> 15",
-   "detected_at": "2026-10-14 08:25:50",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Gregor_Hrovat"
-  },
-  {
-   "detail": "Gerry Blakes  ~ league: Azerbaijan Basketball League -> Azerbaijan Basketball League Champions League",
-   "detected_at": "2026-10-14 08:25:50",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Gerry_Blakes"
-  },
-  {
-   "detail": "2026-10-13  Traded: Tanner Holden (Stars)",
-   "detected_at": "2026-10-14 08:18:20",
-   "source": "GLEAGUE",
-   "type": "Trade"
-  },
-  {
-   "detail": "ATL  - REMOVED McKneely, Isaac",
-   "detected_at": "2026-10-14 08:18:18",
-   "source": "SHEETS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "ATL  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 236575601.4 -> 235217838.4, col9: 576106899.3 -> 574749136.3",
-   "detected_at": "2026-10-14 08:18:18",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "ATL  CHANGED Players Under Contract  -  col3: 197584721.4 -> 196226958.4",
-   "detected_at": "2026-10-14 08:18:18",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "ATL  CHANGED Full Season Contracts  -  col3: 197584721.4 -> 196226958.4",
-   "detected_at": "2026-10-14 08:18:18",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "ATL  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 18 -> 17",
-   "detected_at": "2026-10-14 08:18:18",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "CLE  + ADDED  Robinson, Jaxson",
-   "detected_at": "2026-10-14 08:18:18",
-   "source": "SHEETS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "CLE  + ADDED  Yaacov, Noam",
-   "detected_at": "2026-10-14 08:18:18",
-   "source": "SHEETS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "CLE  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 226382006.3 -> 229097532.3, col9: 930352940.1 -> 933068466.1",
-   "detected_at": "2026-10-14 08:18:18",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "CLE  CHANGED Players Under Contract  -  col3: 209441372 -> 212156898",
-   "detected_at": "2026-10-14 08:18:18",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "CLE  CHANGED Full Season Contracts  -  col3: 209441372 -> 212156898",
-   "detected_at": "2026-10-14 08:18:18",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "CLE  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 16 -> 18",
-   "detected_at": "2026-10-14 08:18:18",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "DAL  - REMOVED Cross, Matt",
-   "detected_at": "2026-10-14 08:18:18",
-   "source": "SHEETS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "DAL  - REMOVED Green, Darin",
-   "detected_at": "2026-10-14 08:18:18",
-   "source": "SHEETS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "DAL  - REMOVED Mantis, Chris",
-   "detected_at": "2026-10-14 08:18:18",
-   "source": "SHEETS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "DAL  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 213294776.8 -> 209221487.8, col9: 546955149.7 -> 542881860.7",
-   "detected_at": "2026-10-14 08:18:18",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "DAL  CHANGED Players Under Contract  -  col3: 186166691.8 -> 182093402.8",
-   "detected_at": "2026-10-14 08:18:18",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "DAL  CHANGED Full Season Contracts  -  col3: 186166691.8 -> 182093402.8",
-   "detected_at": "2026-10-14 08:18:18",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "DAL  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 20 -> 17",
-   "detected_at": "2026-10-14 08:18:18",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "LAC  + ADDED  Telfort, Jahmyl",
-   "detected_at": "2026-10-14 08:18:18",
-   "source": "SHEETS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "LAC  - REMOVED Kawamura, Yuki",
-   "detected_at": "2026-10-14 08:18:18",
-   "source": "SHEETS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "LAC  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 204627703.1 -> 204363398.1, col9: 390366787.3 -> 390102482.3",
-   "detected_at": "2026-10-14 08:18:18",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "LAC  CHANGED Players Under Contract  -  col3: 188110748.1 -> 187846443.1",
-   "detected_at": "2026-10-14 08:18:18",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "LAC  CHANGED Full Season Contracts  -  col3: 188110748.1 -> 187846443.1",
-   "detected_at": "2026-10-14 08:18:18",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "SAN  - REMOVED Davis, RJ",
-   "detected_at": "2026-10-14 08:18:18",
-   "source": "SHEETS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "SAN  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 238524024.5 -> 237166261.5, col9: 612600872.7 -> 611243109.7",
-   "detected_at": "2026-10-14 08:18:18",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "SAN  CHANGED Players Under Contract  -  col3: 205630029.7 -> 204272266.7",
-   "detected_at": "2026-10-14 08:18:18",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "SAN  CHANGED Full Season Contracts  -  col3: 205630029.7 -> 204272266.7",
-   "detected_at": "2026-10-14 08:18:18",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "SAN  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 18 -> 17",
-   "detected_at": "2026-10-14 08:18:18",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "UTH  - REMOVED Wague, Mohamed",
-   "detected_at": "2026-10-14 08:18:18",
-   "source": "SHEETS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "UTH  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 194923389.4 -> 193565626.4, col9: 716846050.1 -> 715488287.1",
-   "detected_at": "2026-10-14 08:18:18",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "UTH  CHANGED Players Under Contract  -  col3: 187038389.4 -> 185680626.4",
-   "detected_at": "2026-10-14 08:18:18",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "UTH  CHANGED Full Season Contracts  -  col3: 187038389.4 -> 185680626.4",
-   "detected_at": "2026-10-14 08:18:18",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "UTH  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 18 -> 17",
-   "detected_at": "2026-10-14 08:18:18",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col2: 2314801.4 -> 957038.4, col7: 11257480.31 -> 13973006.31, col28: 5202029.68 -> 3844266.68",
-   "detected_at": "2026-10-14 08:18:18",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED 1st Incremental Tax Bracket  -  col2: 2314801.4 -> 957038.4, col28: 5202029.68 -> 3844266.68",
-   "detected_at": "2026-10-14 08:18:18",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED 2nd Incremental Tax Bracket  -  col7: 6965600.383 -> 7106250",
-   "detected_at": "2026-10-14 08:18:18",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED 3rd Incremental Tax Bracket  -  col7: 0 -> 9110522.073",
-   "detected_at": "2026-10-14 08:18:18",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col2: 2314801.4 -> 957038.4, col7: 12650600.38 -> 21901772.07, col28: 5202029.68 -> 3844266.68",
-   "detected_at": "2026-10-14 08:18:18",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Update 1.3 (7/18/26): O. Agbaji, B. Beal, J. Bernard, R. Beekman, S. Bey, L. Black, B. Boston, T. Bradley, J. Bridges, D. Brooks, K. Brooks, J. Broome, B. Brown, K. Bufkin, T. Burton, J. Butler Jr., K. Caldwell-Pope, D. Carter, K. Chandler, M. Cisse, Y. Collins, I. Crawford, J. Crutcher, J. Cumberland, S. Curry, N. Dante, J. Davison, D. DeRozan, J. Duren, D. Eubanks, T. Fall, K. George, A. Gill, J. Gortman, H. Gray, D. Green, J. Harden, M. Hezonja, H. Highsmith, C. Houstan, H. Ingram, A. Jackson, L. James, J. Johnson, K. Johnson, C. Jones D. Jones, S. Jones, Y. Kawamura, T. Keels, K. Kelley, M. Kelly, K. Knox, C. Koloko, J. Konchar, J. Kuminga, S. Labissiere, P. Larsson, K. Leonard, K. Lewis, C. Livingston, L. Lovering, S. Lundy, N. Marshall, J. Martin, K. Martin, B. Mathurin, B. Mbeng, G. McGlothan, D. Melton, E. Miller, T. Newton, G. Niang, M. Nowell, T. Okani, N. Omier, E. Payton, G. Payton, T. Peter, D. Peterson, J. Phillips, D. Plowden, B. Podziemski, D. Powell, J. Preston, L. Quinones, D. Reath, N. Richards, K. Richmond, A. Reeves, L. Robbins, O. Robinson, H. Sallis, P. Sandfort, J. Schakel, M. Sears, J. Shead, B. Simmons, D. Smith, M. Smith, Z. Smith, J. Sochan, I. Stevens, D. Stockton, C. Swider, J. Tate, D. Terry, A. Thompson, A. Thompson, K. Thompson, M. Thybulle, D. Timme, A. Toohey, O. Tshiebwe, M. Wagner, L. Walker, J. Walsh, T. Watford, A. Watson, P. Watson, B. Wesley, P. Wheeler, A. Williams, B. Williams, M. Williams, J. Wiseman, I. Wong",
-   "detected_at": "2026-10-14 08:18:10",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Update 1.3 (7/18/26): O. Agbaji, B. Beal, J. Bernard, R. Beekman, S. Bey, L. Black, B. Boston, T. Bradley, J. Bridges, D. Brooks, K. Brooks, J. Broome, B. Brown, K. Bufkin, T. Burton, J. Butler Jr., K. Caldwell-Pope, D. Carter, K. Chandler, M. Cisse, Y. Collins, I. Crawford, J. Crutcher, J. Cumberland, S. Curry, N. Dante, J. Davison, D. DeRozan, J. Duren, D. Eubanks, T. Fall, K. George, A. Gill, J. Gortman, H. Gray, D. Green, J. Harden, M. Hezonja, H. Highsmith, C. Houstan, H. Ingram, A. Jackson, L. James, J. Johnson, K. Johnson, C. Jones D. Jones, S. Jones, Y. Kawamura, T. Keels, K. Kelley, M. Kelly, K. Knox, C. Koloko, J. Konchar, J. Kuminga, S. Labissiere, P. Larsson, K. Leonard, K. Lewis, C. Livingston, L. Lovering, S. Lundy, N. Marshall, J. Martin, K. Martin, B. Mathurin, B. Mbeng, G. McGlothan, D. Melton, E. Miller, T. Newton, G. Niang, M. Nowell, T. Okani, N. Omier, E. Payton, G. Payton, T. Peter, D. Peterson, J. Phillips, D. Plowden, B. Podziemski, D. Powell, J. Preston, L. Quinones, D. Reath, N. Richards, K. Richmond, A. Reeves, L. Robbins, O. Robinson, H. Sallis, P. Sandfort, J. Schakel, M. Sears, J. Shead, B. Simmons, D. Smith, M. Smith, Z. Smith, J. Sochan, I. Stevens, D. Stockton, C. Swider, J. Tate, J. Telfort, D. Terry, A. Thompson, A. Thompson, K. Thompson, M. Thybulle, D. Timme, A. Toohey, O. Tshiebwe, M. Wagner, L. Walker, J. Walsh, T. Watford, A. Watson, P. Watson, B. Wesley, P. Wheeler, A. Williams, B. Williams, M. Williams, J. Wiseman, I. Wong",
-   "detected_at": "2026-10-14 08:18:10",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Yuki Kawamura Los Angeles Clippers",
-   "detected_at": "2026-10-14 08:18:10",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Yuki Kawamura (WAIVED) Los Angeles Clippers",
-   "detected_at": "2026-10-14 08:18:10",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Jahmyl Telfort Los Angeles Clippers",
-   "detected_at": "2026-10-14 08:18:10",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  26-27 $2,449,421",
-   "detected_at": "2026-10-14 08:18:10",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
-   "detected_at": "2026-10-14 08:18:10",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 10/7/26",
-   "detected_at": "2026-10-14 08:18:10",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  - REMOVED Update 1.3 (7/18/26): K. Lopez, K. Diop, J. Bradley, O. Agbim, R. Agee, J. Aidoo, J. Akins, J. Akins, D. Allen, J. Allick, D. Armstrong, M. Armstrong, Z. Austin, W. Baker, A. Baldwin, A. Bandaogo, M. Barnstable, K. Boone, N. Boyd, D. Brown, T. Brown, N. Burnett, L. Butler, J. Camden, C. Camper, T. Carroll, R. Castro, Z. Cleveland, C. Corhen, M. Cross, D. Dainja, D. Daniels, J. Davis, T. Degenhart, E. Dixon, R. Dixon-Waters, B. Dunning, S. East, J. Elmore, W. Fricks, T. Funk, D. Garcia, D. Goodwin, C. Grill, J. Hadley, J. Harmon, B. Hausen, D. Higgs, C. Hildreth, A. Hoggard, S. Hoiberg, A. Holifield, J. House, B. Humrichous, L. Hyun-jung, M. Iraldi, K. Johnson, S. Johnson, J. Joiner, J. Joiner, K. Jones, N. Jourdain, M. Keita, W. Kyle, V. Lakhin, G. Levin, F. Loyer, G. Madsen, H. Mallettte, K. Mangas, C. Mantis, T. Marshall, M. Mascari, R. Mast, R. McCray, I. McKneely, C. McMillian, S. McNeil, I. Milicic, B. Miller, J. Moni, D. Monsanto, J. Moore, K. Murphy, D. Murray, M. Murrell, J. Nelson, A. Nkrumah, J. Nunn, J. O’Neil, T. Okani, N. Pringle, A. Pritchard, E. Ralph, K. Reeves, J. Riley, D. Rodman, C. Ross, N. Santos, I. Schieffelin, M. Sharavjamts, J. Sharp, A. Scott, W. Settle, C. Shumate, D. Smith, J. Stephens, K. Stewart, P. Suder, M. Sutton, W. Taylor, S. Thomas, S. Thompson, C. Tilly, T. Townsend, J. Ukomadu, M. Wague, B. Warren, S. Washington, R. Weems, B. Williams, P. Zilinskas",
-   "detected_at": "2026-10-14 08:18:10",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Update 1.3 (7/18/26): K. Lopez, K. Diop, J. Bradley, O. Agbim, R. Agee, J. Aidoo, J. Akins, J. Akins, D. Allen, J. Allick, D. Armstrong, M. Armstrong, Z. Austin, W. Baker, A. Baldwin, A. Bandaogo, M. Barnstable, K. Boone, N. Boyd, D. Brown, T. Brown, N. Burnett, L. Butler, J. Camden, C. Camper, T. Carroll, R. Castro, Z. Cleveland, C. Corhen, M. Cross, D. Dainja, D. Daniels, J. Davis, T. Degenhart, E. Dixon, R. Dixon-Waters, B. Dunning, S. East, J. Elmore, W. Fricks, T. Funk, D. Garcia, D. Goodwin, C. Grill, J. Hadley, J. Harmon, B. Hausen, D. Higgs, C. Hildreth, A. Hoggard, S. Hoiberg, A. Holifield, J. House, B. Humrichous, L. Hyun-jung, M. Iraldi, K. Johnson, S. Johnson, J. Joiner, J. Joiner, K. Jones, N. Jourdain, M. Keita, W. Kyle, V. Lakhin, G. Levin, F. Loyer, G. Madsen, H. Mallettte, K. Mangas, C. Mantis, T. Marshall, M. Mascari, R. Mast, R. McCray, I. McKneely, C. McMillian, S. McNeil, I. Milicic, B. Miller, J. Moni, D. Monsanto, J. Moore, K. Murphy, D. Murray, M. Murrell, J. Nelson, A. Nkrumah, J. Nunn, J. O’Neil, T. Okani, N. Pringle, A. Pritchard, E. Ralph, K. Reeves, J. Riley, J. Robinson, D. Rodman, C. Ross, N. Santos, I. Schieffelin, M. Sharavjamts, J. Sharp, A. Scott, W. Settle, C. Shumate, D. Smith, J. Stephens, K. Stewart, P. Suder, M. Sutton, W. Taylor, S. Thomas, S. Thompson, C. Tilly, T. Townsend, J. Ukomadu, M. Wague, B. Warren, S. Washington, R. Weems, B. Williams, N. Yaacov, P. Zilinskas",
-   "detected_at": "2026-10-14 08:18:10",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  - REMOVED Matt Cross Dallas Mavericks",
-   "detected_at": "2026-10-14 08:18:10",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Matt Cross (WAIVED) Dallas Mavericks",
-   "detected_at": "2026-10-14 08:18:10",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  - REMOVED RJ Davis San Antonio Spurs",
-   "detected_at": "2026-10-14 08:18:10",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  RJ Davis (WAIVED) San Antonio Spurs",
-   "detected_at": "2026-10-14 08:18:10",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  - REMOVED Darin Green Dallas Mavericks",
-   "detected_at": "2026-10-14 08:18:10",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Darin Green (WAIVED) Dallas Mavericks",
-   "detected_at": "2026-10-14 08:18:10",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  - REMOVED Chris Mantis Dallas Mavericks",
-   "detected_at": "2026-10-14 08:18:10",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Chris Mantis (WAIVED) Dallas Mavericks",
-   "detected_at": "2026-10-14 08:18:10",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  - REMOVED Isaac McKneely Atlanta Hawks",
-   "detected_at": "2026-10-14 08:18:10",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Isaac McKneely (WAIVED) Atlanta Hawks",
-   "detected_at": "2026-10-14 08:18:10",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  - REMOVED Damari Monsanto Sacramento Kings",
-   "detected_at": "2026-10-14 08:18:10",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Damari Monsanto (WAIVED) Sacramento Kings",
-   "detected_at": "2026-10-14 08:18:10",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  - REMOVED Aaron Nkrumah Sacramento Kings",
-   "detected_at": "2026-10-14 08:18:10",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Aaron Nkrumah (WAIVED) Sacramento Kings",
-   "detected_at": "2026-10-14 08:18:10",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Jaxson Robinson Cleveland Cavaliers",
-   "detected_at": "2026-10-14 08:18:10",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  26-27 $1,357,763",
-   "detected_at": "2026-10-14 08:18:10",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Minimum Salary Exception. Love of the Game. Physical Exam. Alt. 7(b). Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
-   "detected_at": "2026-10-14 08:18:10",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 10/9/26",
-   "detected_at": "2026-10-14 08:18:10",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  - REMOVED Mohamed Wague Utah Jazz",
-   "detected_at": "2026-10-14 08:18:10",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Mohamed Wague (WAIVED) Utah Jazz",
-   "detected_at": "2026-10-14 08:18:10",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Noam Yaacov Cleveland Cavaliers",
-   "detected_at": "2026-10-14 08:18:10",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  26-27 $1,357,763",
-   "detected_at": "2026-10-14 08:18:10",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Minimum Salary Exception. Love of the Game. Physical Exam. Alt. 7(b). Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
-   "detected_at": "2026-10-14 08:18:10",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 10/9/26",
-   "detected_at": "2026-10-14 08:18:10",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "+ ADDED   Terry Taylor (SAS)",
-   "detected_at": "2026-10-14 08:17:57",
-   "source": "PLAYERS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "Bulgarian NBL Akademik Bulteks 99 Plovdiv 90, BC Beroe Stara Zagora 86",
-   "detected_at": "2026-10-13 22:44:49",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-11/BC-Beroe-Stara-Zagora-at-Akademik-Bulteks-99-Plovdiv/528621"
-  },
-  {
-   "detail": "Bulgarian NBL + Jordan Rawls → BC Beroe Stara Zagora",
-   "detected_at": "2026-10-13 22:44:47",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Bulgarian NBL + Chris Rollins → BC Beroe Stara Zagora",
-   "detected_at": "2026-10-13 22:44:47",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Bulgarian NBL + Kristian Zhelev → BC Beroe Stara Zagora",
-   "detected_at": "2026-10-13 22:44:47",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Bulgarian NBL + Krastomir Mihov → BC Beroe Stara Zagora",
-   "detected_at": "2026-10-13 22:44:47",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Bulgarian NBL ~ MOVED Daniel Saylor → BC Beroe Stara Zagora (from Nelson Giants)",
-   "detected_at": "2026-10-13 22:44:47",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
-  },
-  {
-   "detail": "Bulgarian NBL + Patrick Emilien → BC Beroe Stara Zagora",
-   "detected_at": "2026-10-13 22:44:47",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Bulgarian NBL + Momchil Kadiev → BC Beroe Stara Zagora",
-   "detected_at": "2026-10-13 22:44:47",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Bulgarian NBL + Aleksandar Milov → BC Beroe Stara Zagora",
-   "detected_at": "2026-10-13 22:44:47",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Bulgarian NBL + Milen Zahariev → BC Beroe Stara Zagora",
-   "detected_at": "2026-10-13 22:44:47",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Bulgarian NBL + Christian Rosenov Chelenkov → BC Beroe Stara Zagora",
-   "detected_at": "2026-10-13 22:44:47",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Bulgarian NBL + Sola Adebisi → Akademik Bulteks 99 Plovdiv",
-   "detected_at": "2026-10-13 22:44:47",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Bulgarian NBL + Sean Moore → Akademik Bulteks 99 Plovdiv",
-   "detected_at": "2026-10-13 22:44:47",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Bulgarian NBL + Vasil Bachev → Akademik Bulteks 99 Plovdiv",
-   "detected_at": "2026-10-13 22:44:47",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Bulgarian NBL + Nikolay Mihaylov → Akademik Bulteks 99 Plovdiv",
-   "detected_at": "2026-10-13 22:44:47",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Bulgarian NBL + Masan Vrbica → Akademik Bulteks 99 Plovdiv",
-   "detected_at": "2026-10-13 22:44:47",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Bulgarian NBL + D.Q. Nicholas → Akademik Bulteks 99 Plovdiv",
-   "detected_at": "2026-10-13 22:44:47",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Bulgarian NBL + Maksim Chokov → Akademik Bulteks 99 Plovdiv",
-   "detected_at": "2026-10-13 22:44:47",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Bulgarian NBL + Dimitar Stamov → Akademik Bulteks 99 Plovdiv",
-   "detected_at": "2026-10-13 22:44:47",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Daniel Rosenbaum  ~ draft_year: - -> 2019",
-   "detected_at": "2026-10-13 22:44:37",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Daniel_Rosenbaum"
-  },
-  {
-   "detail": "German Pro B Seawolves Academy 77, Hertener Loewen Basketball 76",
-   "detected_at": "2026-10-13 21:42:01",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-11/Seawolves-Academy-at-Hertener-Loewen-Basketball/525519"
-  },
-  {
-   "detail": "German Pro B + Isayah Owens → Seawolves Academy",
-   "detected_at": "2026-10-13 21:42:00",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Pro B + Elion Ramosaj → Hertener Loewen Basketball",
-   "detected_at": "2026-10-13 21:42:00",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Israeli BSL Maccabi Ashdod 76, Ironi Nes Ziona 62",
-   "detected_at": "2026-10-13 21:41:55",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-12/Ironi-Nes-Ziona-at-Maccabi-Ashdod/535700"
-  },
-  {
-   "detail": "Israeli BSL + Shalev Shlomo Lugashi → Ironi Nes Ziona",
-   "detected_at": "2026-10-13 21:41:54",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Israeli BSL Ironi Ramat Gan 89, Bnei Herzelia 79",
-   "detected_at": "2026-10-13 21:41:51",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-12/Ironi-Ramat-Gan-at-Bnei-Herzelia/535702"
-  },
-  {
-   "detail": "Israeli BSL + Joaquin Szuchman → Ironi Ramat Gan",
-   "detected_at": "2026-10-13 21:41:50",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Israeli BSL ~ MOVED Lucas Goldenberg → Bnei Herzelia (from Hapoel HaEmek)",
-   "detected_at": "2026-10-13 21:41:50",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
-  },
-  {
-   "detail": "Israeli BSL + Shoham Gat → Bnei Herzelia",
-   "detected_at": "2026-10-13 21:41:50",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Israeli BSL Hapoel Eilat 89, Maccabi Rishon Lezion 80",
-   "detected_at": "2026-10-13 21:41:47",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-12/Hapoel-Eilat-at-Maccabi-Rishon-Lezion/535701"
-  },
-  {
-   "detail": "Israeli BSL + Nuni Omot → Hapoel Eilat",
-   "detected_at": "2026-10-13 21:41:46",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Israeli BSL + Justin Tillman → Maccabi Rishon Lezion",
-   "detected_at": "2026-10-13 21:41:46",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Turkish BSL Bursaspor 93, Galatasaray 88",
-   "detected_at": "2026-10-13 21:41:43",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-12/Bursaspor-at-Galatasaray/541374"
-  },
-  {
-   "detail": "Turkish BSL ~ MOVED Bryce Brown → Bursaspor (from Ironi Nes Ziona)",
-   "detected_at": "2026-10-13 21:41:42",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
-  },
-  {
-   "detail": "Turkish BSL + Vrenz Bleijenbergh → Galatasaray",
-   "detected_at": "2026-10-13 21:41:42",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French Basketball Cup CSP Limoges 99, Toulouse Basket Club 88",
-   "detected_at": "2026-10-13 21:41:38",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-13/CSP-Limoges-at-Toulouse-Basket-Club/541682"
-  },
-  {
-   "detail": "French Basketball Cup + Noam Masdieu-Reynaert → CSP Limoges",
-   "detected_at": "2026-10-13 21:41:37",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French Basketball Cup JDA Dijon Basket 82, Saint Chamond Pro B 71",
-   "detected_at": "2026-10-13 21:41:34",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-13/JDA-Dijon-Basket-at-Saint-Chamond-Pro-B/541680"
-  },
-  {
-   "detail": "French Basketball Cup ~ RETURN Pape Moustapha Diop → Saint Chamond Pro B (from Saint Chamond NM1)",
-   "detected_at": "2026-10-13 21:41:33",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "French Basketball Cup ~ MOVED Gabin Lefort → Saint Chamond Pro B (from Saint Chamond NM1)",
-   "detected_at": "2026-10-13 21:41:33",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
-  },
-  {
-   "detail": "French Basketball Cup ~ RETURN Zakaria Mechergui → Saint Chamond Pro B (from Saint Chamond NM1)",
-   "detected_at": "2026-10-13 21:41:33",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "French NM1 Vendee Challans Basket 92, Pays de Fougeres 61",
-   "detected_at": "2026-10-13 21:41:30",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-13/Pays-de-Fougeres-at-Vendee-Challans-Basket/527244"
-  },
-  {
-   "detail": "Swedish Basketligan BC Lulea 91, KFUM Nassjo Basket 74",
-   "detected_at": "2026-10-13 21:41:26",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-13/KFUM-Nassjo-Basket-at-BC-Lulea/524345"
-  },
-  {
-   "detail": "Swedish Basketligan Sodertalje 93, Hogsbo 85",
-   "detected_at": "2026-10-13 21:41:22",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-13/Hogsbo-at-Sodertalje/524349"
-  },
-  {
-   "detail": "Swedish Basketligan Norrkoping 97, Sloga Uppsala 90",
-   "detected_at": "2026-10-13 21:41:18",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-13/Norrkoping-at-Sloga-Uppsala/524348"
-  },
-  {
-   "detail": "Swedish Basketligan + D.J. Smith → Norrkoping",
-   "detected_at": "2026-10-13 21:41:16",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Swedish Basketligan Uppsala Basket 94, Koping Stars 87",
-   "detected_at": "2026-10-13 21:41:14",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-13/Uppsala-Basket-at-Koping-Stars/524347"
-  },
-  {
-   "detail": "PBA Governors Cup Talk N Text Tropang Texters 142, Macau Black Knights 87",
-   "detected_at": "2026-10-13 21:41:10",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-13/Talk-N-Text-Tropang-Texters-at-Macau-Black-Knights/544788"
-  },
-  {
-   "detail": "James Johnson (basketball, born 1987)  ~ league: - -> NBA",
-   "detected_at": "2026-10-13 20:58:37",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/James_Johnson_(basketball,_born_1987)"
-  },
-  {
-   "detail": "Eurocup Roma SPQR 77, BC Balkan 72",
-   "detected_at": "2026-10-13 20:40:27",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-13/BC-Balkan-at-Roma-SPQR/526722"
-  },
-  {
-   "detail": "Eurocup + Kelly Olynyk → Roma SPQR",
-   "detected_at": "2026-10-13 20:40:26",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Eurocup BV Chemnitz 99 88, Dolomiti Energia Trento 80",
-   "detected_at": "2026-10-13 20:40:23",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-13/BV-Chemnitz-99-at-Dolomiti-Energia-Trento/526718"
-  },
-  {
-   "detail": "German Pro B TV 1862 Langen 71, CATL Basketball Lowen 63",
-   "detected_at": "2026-10-13 20:40:19",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-13/CATL-Basketball-Lowen-at-TV-1862-Langen/525858"
-  },
-  {
-   "detail": "German Pro B + Paul Jessen → TV 1862 Langen",
-   "detected_at": "2026-10-13 20:40:18",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Eurocup Neptunas 93, JL Bourg en Bresse 89",
-   "detected_at": "2026-10-13 20:40:16",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-13/JL-Bourg-en-Bresse-at-Neptunas/526717"
-  },
-  {
-   "detail": "Eurocup ~ RETURN Morgan Selebangue → JL Bourg en Bresse (from Espoirs Bourg en Bresse)",
-   "detected_at": "2026-10-13 20:40:15",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "PBA Governors Cup Meralco Bolts 120, Blackwater Bossings 115",
-   "detected_at": "2026-10-13 20:40:12",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-13/Blackwater-Bossings-at-Meralco-Bolts/544789"
-  },
-  {
-   "detail": "PBA Governors Cup + Raymond Almazan → Meralco Bolts",
-   "detected_at": "2026-10-13 20:40:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "John Butler Jr.  ~ team: Free Agent -> Free agent",
-   "detected_at": "2026-10-13 20:25:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/John_Butler_Jr."
-  },
-  {
-   "detail": "John Butler Jr.  ~ CAREER  + Milwaukee Bucks",
-   "detected_at": "2026-10-13 20:25:38",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/John_Butler_Jr."
-  },
-  {
-   "detail": "Eurocup 7Bet Lietkabelis Panevezys 95, PAOK BC 86",
-   "detected_at": "2026-10-13 19:36:53",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-13/PAOK-BC-at-7Bet-Lietkabelis-Panevezys/526719"
-  },
-  {
-   "detail": "Eurocup + Donatas Motiejunas → PAOK BC",
-   "detected_at": "2026-10-13 19:36:52",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Eurocup Bahcesehir Koleji 100, BAXI Manresa 88",
-   "detected_at": "2026-10-13 19:36:50",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-13/BAXI-Manresa-at-Bahcesehir-Koleji/526721"
-  },
-  {
-   "detail": "Eurocup + Luka Mitrovic → Bahcesehir Koleji",
-   "detected_at": "2026-10-13 19:36:49",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Cameron Oliver  ~ team: Elitzur Netanya -> Rizing Zephyr Fukuoka",
-   "detected_at": "2026-10-13 19:36:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Cameron_Oliver"
-  },
-  {
-   "detail": "Cameron Oliver  ~ league: Israeli Basketball Premier League -> B.League",
-   "detected_at": "2026-10-13 19:36:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Cameron_Oliver"
-  },
-  {
-   "detail": "Cameron Oliver  ~ CAREER  + 2026 Elitzur Netanya",
-   "detected_at": "2026-10-13 19:36:38",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Cameron_Oliver"
-  },
-  {
-   "detail": "Cameron Oliver  ~ CAREER  + Rizing Zephyr Fukuoka",
-   "detected_at": "2026-10-13 19:36:38",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Cameron_Oliver"
-  },
-  {
-   "detail": "Jase Richardson  ~ weight_lb: 180 -> 185",
-   "detected_at": "2026-10-13 19:36:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jase_Richardson"
-  },
-  {
-   "detail": "Rocco Zikarsky  ~ weight_lb: 262 -> 227",
-   "detected_at": "2026-10-13 19:13:37",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Rocco_Zikarsky"
-  },
-  {
-   "detail": "Joan Beringer  ~ position: Center -> Power forward",
-   "detected_at": "2026-10-13 19:13:37",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Joan_Beringer"
-  },
-  {
-   "detail": "Joan Beringer  ~ nationality: French / Beninese -> -",
-   "detected_at": "2026-10-13 19:13:37",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Joan_Beringer"
-  },
-  {
-   "detail": "Richard Solomon (basketball)  ~ number: 00 -> 6",
-   "detected_at": "2026-10-13 19:13:37",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Richard_Solomon_(basketball)"
-  },
-  {
-   "detail": "- REMOVED Yuki Kawamura (LAC)",
-   "detected_at": "2026-10-13 18:36:54",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED Damari Monsanto (SAC)",
-   "detected_at": "2026-10-13 18:36:54",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED Mohamed Wague (UTA)",
-   "detected_at": "2026-10-13 18:36:54",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED Darin Green Jr. (DAL)",
-   "detected_at": "2026-10-13 18:36:54",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED Isaac McKneely (ATL)",
-   "detected_at": "2026-10-13 18:36:54",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED Pedro Bradshaw (DEN)",
-   "detected_at": "2026-10-13 18:36:54",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED Aaron Nkrumah (SAC)",
-   "detected_at": "2026-10-13 18:36:54",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED Matt Cross (DAL)",
-   "detected_at": "2026-10-13 18:36:54",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED R.J. Davis (SAS)",
-   "detected_at": "2026-10-13 18:36:54",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED Chris Mantis (DAL)",
-   "detected_at": "2026-10-13 18:36:54",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "Hungarian NBIA Phoenix MT Fot 91, KTE Duna Aszfalt 66",
-   "detected_at": "2026-10-13 18:28:25",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-11/KTE-Duna-Aszfalt-at-Phoenix-MT-Fot/535370"
-  },
-  {
-   "detail": "Hungarian NBIA + Dominik Karda → Phoenix MT Fot",
-   "detected_at": "2026-10-13 18:28:24",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Hungarian NBIA + Kristof Kekesi → Phoenix MT Fot",
-   "detected_at": "2026-10-13 18:28:24",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -9988,38 +9944,38 @@
    "last": "2026-10-17 16:04:45"
   },
   "PLAYERS": {
-   "count": 1768,
-   "last": "2026-10-17 21:08:39"
+   "count": 1855,
+   "last": "2026-10-18 03:00:40"
   },
   "RATINGS": {
    "count": 950,
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 9445,
-   "last": "2026-10-17 15:27:39"
+   "count": 9513,
+   "last": "2026-10-18 03:14:16"
   },
   "SCORES": {
-   "count": 2202,
-   "last": "2026-10-17 15:27:58"
+   "count": 2282,
+   "last": "2026-10-18 03:14:31"
   },
   "SHEETS": {
    "count": 4950,
    "last": "2026-10-17 16:03:44"
   },
   "TRANSACTIONS": {
-   "count": 563,
-   "last": "2026-10-17 20:26:40"
+   "count": 651,
+   "last": "2026-10-18 03:00:52"
   },
   "WIKI": {
-   "count": 6151,
-   "last": "2026-10-17 20:55:09"
+   "count": 6191,
+   "last": "2026-10-18 03:08:54"
   },
   "WIKIWATCH": {
    "count": 402,
    "last": "2026-10-17 21:28:58"
   }
  },
- "generated_at": "2026-10-17T21:52:47",
- "total": 30576
+ "generated_at": "2026-10-18T03:14:36",
+ "total": 30939
 }
