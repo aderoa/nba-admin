@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Christian Koloko  ~ team: KK Crvena zvezda -> Crvena zvezda",
+   "detected_at": "2026-10-18 19:50:44",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Christian_Koloko"
+  },
+  {
+   "detail": "Jeremy Sochan  ~ team: - -> Free agent",
+   "detected_at": "2026-10-18 19:50:44",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jeremy_Sochan"
+  },
+  {
+   "detail": "Jeremy Sochan  ~ league: NBA -> -",
+   "detected_at": "2026-10-18 19:50:44",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jeremy_Sochan"
+  },
+  {
    "detail": "Jeremy Sochan  ~ 139379: team -> -",
    "detected_at": "2026-10-18 19:28:25",
    "source": "WIKIWATCH",
@@ -10062,24 +10083,6 @@
    "detected_at": "2026-10-16 23:24:57",
    "source": "DOCS",
    "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Drew Eubanks (WAIVED) New York Knicks",
-   "detected_at": "2026-10-16 23:24:57",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Taelon Peter San Antonio Spurs",
-   "detected_at": "2026-10-16 23:24:57",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Taelon Peter (WAIVED) San Antonio Spurs",
-   "detected_at": "2026-10-16 23:24:57",
-   "source": "DOCS",
-   "type": "ADDED"
   }
  ],
  "feeds": {
@@ -10116,14 +10119,14 @@
    "last": "2026-10-18 03:00:52"
   },
   "WIKI": {
-   "count": 6315,
-   "last": "2026-10-18 19:28:08"
+   "count": 6318,
+   "last": "2026-10-18 19:50:44"
   },
   "WIKIWATCH": {
    "count": 429,
    "last": "2026-10-18 19:28:25"
   }
  },
- "generated_at": "2026-10-18T19:42:46",
- "total": 31296
+ "generated_at": "2026-10-18T19:51:10",
+ "total": 31299
 }
