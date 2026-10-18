@@ -1,6 +1,41 @@
 {
  "events": [
   {
+   "detail": "Kobe Bufkin  ~ team: New Orleans Pelicans -> Free agent",
+   "detected_at": "2026-10-18 22:02:16",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kobe_Bufkin"
+  },
+  {
+   "detail": "Kobe Bufkin  ~ league: NBA -> -",
+   "detected_at": "2026-10-18 22:02:16",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kobe_Bufkin"
+  },
+  {
+   "detail": "Kobe Bufkin  ~ number: 4 -> -",
+   "detected_at": "2026-10-18 22:02:16",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kobe_Bufkin"
+  },
+  {
+   "detail": "Saddiq Bey  ~ position: Small forward / shooting guard -> Small forward",
+   "detected_at": "2026-10-18 22:02:16",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Saddiq_Bey"
+  },
+  {
+   "detail": "Saddiq Bey  ~ weight_lb: 215 -> 240",
+   "detected_at": "2026-10-18 22:02:16",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Saddiq_Bey"
+  },
+  {
    "detail": "James Palmer Jr.  ~ team: Free Agent -> Osaka Evessa",
    "detected_at": "2026-10-18 20:56:08",
    "source": "WIKI",
@@ -10071,36 +10106,6 @@
    "detected_at": "2026-10-16 23:25:01",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "SAN  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 17 -> 14",
-   "detected_at": "2026-10-16 23:25:01",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "SAN  CHANGED Avg, Salary (Mean) (No 10-Day K's)  -  col6: 0 -> 1",
-   "detected_at": "2026-10-16 23:25:01",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "UTH  - REMOVED Funk, Taylor",
-   "detected_at": "2026-10-16 23:25:01",
-   "source": "SHEETS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "UTH  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 193565626.4 -> 192207863.4, col9: 715488287.1 -> 714130524.1",
-   "detected_at": "2026-10-16 23:25:01",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "UTH  CHANGED Players Under Contract  -  col3: 185680626.4 -> 184322863.4",
-   "detected_at": "2026-10-16 23:25:01",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10137,14 +10142,14 @@
    "last": "2026-10-18 03:00:52"
   },
   "WIKI": {
-   "count": 6336,
-   "last": "2026-10-18 20:56:08"
+   "count": 6341,
+   "last": "2026-10-18 22:02:16"
   },
   "WIKIWATCH": {
    "count": 429,
    "last": "2026-10-18 19:28:25"
   }
  },
- "generated_at": "2026-10-18T21:54:47",
- "total": 31317
+ "generated_at": "2026-10-18T22:02:43",
+ "total": 31322
 }
