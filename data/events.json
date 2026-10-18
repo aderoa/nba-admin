@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Josh Green (basketball)  ~ position: Shooting guard -> Shooting guard / small forward",
+   "detected_at": "2026-10-18 16:41:08",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Josh_Green_(basketball)"
+  },
+  {
+   "detail": "Vasilije Micić  ~ league: Israeli Basketball Premier League EuroLeague -> Israeli Premier League EuroLeague",
+   "detected_at": "2026-10-18 16:41:08",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Vasilije_Mici%C4%87"
+  },
+  {
+   "detail": "Christian Koloko  ~ number: - -> 35",
+   "detected_at": "2026-10-18 16:41:08",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Christian_Koloko"
+  },
+  {
    "detail": "Brazilian NBB Unifacisa Paraiba 96, Osasco Basquete 70",
    "detected_at": "2026-10-18 16:20:12",
    "source": "SCORES",
@@ -10006,24 +10027,6 @@
    "detected_at": "2026-10-16 23:24:56",
    "source": "TRANSACTIONS",
    "type": "Waive"
-  },
-  {
-   "detail": "2026-10-15  New York Knicks waived center Tony Bradley.",
-   "detected_at": "2026-10-16 23:24:56",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
-  },
-  {
-   "detail": "2026-10-15  New York Knicks waived forward Drew Eubanks.",
-   "detected_at": "2026-10-16 23:24:56",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
-  },
-  {
-   "detail": "2026-10-15  Philadelphia 76ers waived guard Duke Miles.",
-   "detected_at": "2026-10-16 23:24:56",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
   }
  ],
  "feeds": {
@@ -10060,14 +10063,14 @@
    "last": "2026-10-18 03:00:52"
   },
   "WIKI": {
-   "count": 6267,
-   "last": "2026-10-18 16:19:01"
+   "count": 6270,
+   "last": "2026-10-18 16:41:08"
   },
   "WIKIWATCH": {
    "count": 421,
    "last": "2026-10-18 08:48:42"
   }
  },
- "generated_at": "2026-10-18T16:33:45",
- "total": 31240
+ "generated_at": "2026-10-18T16:41:11",
+ "total": 31243
 }
