@@ -1,6 +1,69 @@
 {
  "events": [
   {
+   "detail": "Bruce Brown  ~ 85612: team -> Free agent",
+   "detected_at": "2026-10-18 03:22:30",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "New York Knicks"
+  },
+  {
+   "detail": "Bruce Brown  ~ 85612: league -> -",
+   "detected_at": "2026-10-18 03:22:30",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "NBA"
+  },
+  {
+   "detail": "Bruce Brown  ~ 85612: position -> Small forward / guard",
+   "detected_at": "2026-10-18 03:22:30",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Small forward / shooting guard"
+  },
+  {
+   "detail": "Bruce Brown  ~ 85612: number -> -",
+   "detected_at": "2026-10-18 03:22:30",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "1"
+  },
+  {
+   "detail": "Drew Timme  ~ 117478: league -> -",
+   "detected_at": "2026-10-18 03:22:30",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "NBA"
+  },
+  {
+   "detail": "Drew Timme  ~ 117478: position -> Power Forward/Center",
+   "detected_at": "2026-10-18 03:22:30",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Power forward"
+  },
+  {
+   "detail": "Drew Timme  ~ 117478: number -> -",
+   "detected_at": "2026-10-18 03:22:30",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "17"
+  },
+  {
+   "detail": "Jeremy Sochan  ~ 139379: team -> Portland Trail Blazers",
+   "detected_at": "2026-10-18 03:22:30",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": ""
+  },
+  {
+   "detail": "Jeremy Sochan  ~ 139379: number -> 4",
+   "detected_at": "2026-10-18 03:22:30",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": ""
+  },
+  {
    "detail": "WNBA Golden State Valkyries 68, Atlanta Dream 64",
    "detected_at": "2026-10-18 03:14:31",
    "source": "SCORES",
@@ -9874,64 +9937,6 @@
    "detected_at": "2026-10-14 14:50:55",
    "source": "TRANSACTIONS",
    "type": "Waive"
-  },
-  {
-   "detail": "2026-10-14  Denver Nuggets waived center Steven Crowl.",
-   "detected_at": "2026-10-14 14:44:55",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
-  },
-  {
-   "detail": "2026-10-14  LA Clippers waived guard Cam Christie.",
-   "detected_at": "2026-10-14 14:44:55",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
-  },
-  {
-   "detail": "2026-10-14  LA Clippers waived forward DeAndre Williams.",
-   "detected_at": "2026-10-14 14:44:55",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
-  },
-  {
-   "detail": "2026-10-14  Los Angeles Lakers waived forward Cole Swider.",
-   "detected_at": "2026-10-14 14:44:55",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
-  },
-  {
-   "detail": "2026-10-14  San Antonio Spurs waived guard Taelon Peter.",
-   "detected_at": "2026-10-14 14:44:55",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
-  },
-  {
-   "detail": "Udoka Azubuike  ~ team: Free agent -> Guangdong Southern Tigers",
-   "detected_at": "2026-10-14 14:44:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Udoka_Azubuike"
-  },
-  {
-   "detail": "Udoka Azubuike  ~ league: - -> CBA",
-   "detected_at": "2026-10-14 14:44:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Udoka_Azubuike"
-  },
-  {
-   "detail": "Udoka Azubuike  ~ number: - -> 35",
-   "detected_at": "2026-10-14 14:44:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Udoka_Azubuike"
-  },
-  {
-   "detail": "Udoka Azubuike  ~ CAREER  + 2026–present Guangdong Southern Tigers",
-   "detected_at": "2026-10-14 14:44:38",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Udoka_Azubuike"
   }
  ],
  "feeds": {
@@ -9972,10 +9977,10 @@
    "last": "2026-10-18 03:08:54"
   },
   "WIKIWATCH": {
-   "count": 402,
-   "last": "2026-10-17 21:28:58"
+   "count": 411,
+   "last": "2026-10-18 03:22:30"
   }
  },
- "generated_at": "2026-10-18T03:14:36",
- "total": 30939
+ "generated_at": "2026-10-18T03:22:48",
+ "total": 30948
 }
