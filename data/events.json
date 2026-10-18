@@ -1,6 +1,104 @@
 {
  "events": [
   {
+   "detail": "Tony Bradley (basketball)  ~ team: Free agent -> Utah Jazz",
+   "detected_at": "2026-10-18 03:39:11",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Tony_Bradley_(basketball)"
+  },
+  {
+   "detail": "Tony Bradley (basketball)  ~ league: - -> NBA",
+   "detected_at": "2026-10-18 03:39:11",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Tony_Bradley_(basketball)"
+  },
+  {
+   "detail": "Tony Bradley (basketball)  ~ CAREER  + –present Utah Jazz",
+   "detected_at": "2026-10-18 03:39:11",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Tony_Bradley_(basketball)"
+  },
+  {
+   "detail": "Seth Lundy  ~ team: Dallas Mavericks -> Free agent",
+   "detected_at": "2026-10-18 03:39:11",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Seth_Lundy"
+  },
+  {
+   "detail": "Seth Lundy  ~ league: NBA -> -",
+   "detected_at": "2026-10-18 03:39:11",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Seth_Lundy"
+  },
+  {
+   "detail": "Seth Lundy  ~ number: 31 -> -",
+   "detected_at": "2026-10-18 03:39:11",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Seth_Lundy"
+  },
+  {
+   "detail": "Seth Lundy  ~ CAREER  + 2023–2024 →College Park Skyhawks <!--",
+   "detected_at": "2026-10-18 03:39:11",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Seth_Lundy"
+  },
+  {
+   "detail": "DeMar DeRozan  ~ position: Small forward -> Small forward / shooting guard",
+   "detected_at": "2026-10-18 03:39:11",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/DeMar_DeRozan"
+  },
+  {
+   "detail": "Tyus Jones  ~ height_in: 0 -> 1",
+   "detected_at": "2026-10-18 03:39:11",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Tyus_Jones"
+  },
+  {
+   "detail": "Alpha Diallo (basketball, born 1997)  ~ position: Small forward -> Shooting guard",
+   "detected_at": "2026-10-18 03:39:11",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Alpha_Diallo_(basketball,_born_1997)"
+  },
+  {
+   "detail": "Alpha Diallo (basketball, born 1997)  ~ nationality: American / Guinean -> -",
+   "detected_at": "2026-10-18 03:39:11",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Alpha_Diallo_(basketball,_born_1997)"
+  },
+  {
+   "detail": "Hugo Besson  ~ position: Shooting guard / small forward -> Shooting guard / point guard",
+   "detected_at": "2026-10-18 03:39:11",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Hugo_Besson"
+  },
+  {
+   "detail": "Tony Bradley  ~ 76384: team -> Free agent",
+   "detected_at": "2026-10-18 03:31:13",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Utah Jazz"
+  },
+  {
+   "detail": "Tony Bradley  ~ 76384: league -> -",
+   "detected_at": "2026-10-18 03:31:13",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "NBA"
+  },
+  {
    "detail": "Bruce Brown  ~ 85612: team -> Free agent",
    "detected_at": "2026-10-18 03:22:30",
    "source": "WIKIWATCH",
@@ -9842,101 +9940,6 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Michalis_Lountzis"
-  },
-  {
-   "detail": "Michalis Lountzis  ~ CAREER  + 2026–present Maroussi",
-   "detected_at": "2026-10-14 16:16:38",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Michalis_Lountzis"
-  },
-  {
-   "detail": "Rodions Kurucs  ~ position: Small forward / power forward -> Power forward",
-   "detected_at": "2026-10-14 15:53:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Rodions_Kurucs"
-  },
-  {
-   "detail": "Jacob Gilyard  ~ number: 0 -> 7",
-   "detected_at": "2026-10-14 15:30:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jacob_Gilyard"
-  },
-  {
-   "detail": "T. J. Warren  ~ number: 21 -> 1",
-   "detected_at": "2026-10-14 15:30:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/T._J._Warren"
-  },
-  {
-   "detail": "Kylor Kelley  ~ team: Miami Heat -> Sioux Falls Skyforce",
-   "detected_at": "2026-10-14 15:30:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Kylor_Kelley"
-  },
-  {
-   "detail": "Kylor Kelley  ~ league: NBA -> NBA G League",
-   "detected_at": "2026-10-14 15:30:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Kylor_Kelley"
-  },
-  {
-   "detail": "Kylor Kelley  ~ CAREER  + 2026–present Sioux Falls Skyforce",
-   "detected_at": "2026-10-14 15:30:38",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Kylor_Kelley"
-  },
-  {
-   "detail": "Mãozinha Pereira  ~ number: 77 -> 45",
-   "detected_at": "2026-10-14 15:30:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/M%C3%A3ozinha_Pereira"
-  },
-  {
-   "detail": "Keyontae Johnson  ~ CAREER  + 2026 Shandong Hi-Speed Kirin",
-   "detected_at": "2026-10-14 15:30:38",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Keyontae_Johnson"
-  },
-  {
-   "detail": "Terry Tarpey  ~ number: 25 -> 3",
-   "detected_at": "2026-10-14 15:30:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Terry_Tarpey"
-  },
-  {
-   "detail": "Cory Joseph  ~ position: Point guard / shooting guard -> Shooting guard / point guard",
-   "detected_at": "2026-10-14 15:07:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Cory_Joseph"
-  },
-  {
-   "detail": "2026-10-14  San Antonio Spurs waived forward Terry Taylor.",
-   "detected_at": "2026-10-14 14:50:55",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
-  },
-  {
-   "detail": "2026-10-14  San Antonio Spurs waived center Malik Williams.",
-   "detected_at": "2026-10-14 14:50:55",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
-  },
-  {
-   "detail": "2026-10-14  Toronto Raptors waived center Trey Jemison III.",
-   "detected_at": "2026-10-14 14:50:55",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
   }
  ],
  "feeds": {
@@ -9973,14 +9976,14 @@
    "last": "2026-10-18 03:00:52"
   },
   "WIKI": {
-   "count": 6191,
-   "last": "2026-10-18 03:08:54"
+   "count": 6203,
+   "last": "2026-10-18 03:39:11"
   },
   "WIKIWATCH": {
-   "count": 411,
-   "last": "2026-10-18 03:22:30"
+   "count": 413,
+   "last": "2026-10-18 03:31:13"
   }
  },
- "generated_at": "2026-10-18T03:22:48",
- "total": 30948
+ "generated_at": "2026-10-18T03:39:12",
+ "total": 30962
 }
