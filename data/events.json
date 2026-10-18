@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Trendon Watford  ~ position: Power forward / small forward -> Small forward / shooting guard",
+   "detected_at": "2026-10-18 22:46:17",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Trendon_Watford"
+  },
+  {
+   "detail": "Trendon Watford  ~ height_in: 8 -> 9",
+   "detected_at": "2026-10-18 22:46:17",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Trendon_Watford"
+  },
+  {
+   "detail": "Trendon Watford  ~ weight_lb: 245 -> 244",
+   "detected_at": "2026-10-18 22:46:17",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Trendon_Watford"
+  },
+  {
    "detail": "Dejounte Murray  ~ weight_lb: 180 -> 188",
    "detected_at": "2026-10-18 22:24:08",
    "source": "WIKI",
@@ -10105,24 +10126,6 @@
    "detected_at": "2026-10-16 23:25:01",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "NYK  CHANGED Full Season Contracts  -  col3: 230659337 -> 223311074",
-   "detected_at": "2026-10-16 23:25:01",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "NYK  CHANGED Waived Contracts  -  col3: 0 -> 15000",
-   "detected_at": "2026-10-16 23:25:01",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "NYK  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 18 -> 15",
-   "detected_at": "2026-10-16 23:25:01",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10159,14 +10162,14 @@
    "last": "2026-10-18 03:00:52"
   },
   "WIKI": {
-   "count": 6358,
-   "last": "2026-10-18 22:24:08"
+   "count": 6361,
+   "last": "2026-10-18 22:46:17"
   },
   "WIKIWATCH": {
    "count": 429,
    "last": "2026-10-18 19:28:25"
   }
  },
- "generated_at": "2026-10-18T22:38:47",
- "total": 31339
+ "generated_at": "2026-10-18T22:46:18",
+ "total": 31342
 }
