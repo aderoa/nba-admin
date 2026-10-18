@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Australian NBL Illawarra 91, Melbourne 89",
+   "detected_at": "2026-10-18 11:57:11",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-18/Illawarra-at-Melbourne/524409"
+  },
+  {
+   "detail": "Australian NBL Tasmania 98, New Zealand 92",
+   "detected_at": "2026-10-18 11:57:07",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-18/New-Zealand-at-Tasmania/524408"
+  },
+  {
+   "detail": "Australian NBL ~ MOVED Nelson Weidemann → New Zealand (from SC Rasta Vechta)",
+   "detected_at": "2026-10-18 11:57:06",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
    "detail": "Christian Koloko  ~ team: Free agent -> Crvena zvezda",
    "detected_at": "2026-10-18 10:20:09",
    "source": "WIKI",
@@ -9928,27 +9949,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Bulgarian NBL + Martin Anguelov → BC Levski Lukoil",
-   "detected_at": "2026-10-15 07:25:34",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Bulgarian NBL + Mario Boyanov → BC Levski Lukoil",
-   "detected_at": "2026-10-15 07:25:34",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Bulgarian NBL + Cadarian Raines → BC Levski Lukoil",
-   "detected_at": "2026-10-15 07:25:34",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -9969,12 +9969,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 9553,
-   "last": "2026-10-18 06:29:34"
+   "count": 9554,
+   "last": "2026-10-18 11:57:06"
   },
   "SCORES": {
-   "count": 2343,
-   "last": "2026-10-18 06:29:36"
+   "count": 2345,
+   "last": "2026-10-18 11:57:11"
   },
   "SHEETS": {
    "count": 4950,
@@ -9993,6 +9993,6 @@
    "last": "2026-10-18 08:48:42"
   }
  },
- "generated_at": "2026-10-18T11:41:04",
- "total": 31107
+ "generated_at": "2026-10-18T11:57:31",
+ "total": 31110
 }
