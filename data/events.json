@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Drew Timme  ~ 117478: number -> 17",
+   "detected_at": "2026-10-18 06:02:15",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": ""
+  },
+  {
    "detail": "Antonio Reeves  ~ league: NBA -> -",
    "detected_at": "2026-10-18 06:02:02",
    "source": "WIKI",
@@ -9940,13 +9947,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-10-14/San-Miguel-Beermen-at-Terrafirma-DYIP/544790"
-  },
-  {
-   "detail": "Paul Reed (basketball)  ~ position: Power forward -> Center / power forward",
-   "detected_at": "2026-10-14 22:36:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Paul_Reed_(basketball)"
   }
  ],
  "feeds": {
@@ -9987,10 +9987,10 @@
    "last": "2026-10-18 06:02:02"
   },
   "WIKIWATCH": {
-   "count": 416,
-   "last": "2026-10-18 05:45:05"
+   "count": 417,
+   "last": "2026-10-18 06:02:15"
   }
  },
- "generated_at": "2026-10-18T06:02:03",
- "total": 31051
+ "generated_at": "2026-10-18T06:02:48",
+ "total": 31052
 }
