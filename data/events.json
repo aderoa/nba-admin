@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Bruce Brown  ~ 85612: team -> New York Knicks",
+   "detected_at": "2026-10-18 08:48:42",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Free agent"
+  },
+  {
+   "detail": "Bruce Brown  ~ 85612: league -> NBA",
+   "detected_at": "2026-10-18 08:48:42",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": ""
+  },
+  {
+   "detail": "Bruce Brown  ~ 85612: number -> 1",
+   "detected_at": "2026-10-18 08:48:42",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": ""
+  },
+  {
    "detail": "Bruce Brown (basketball)  ~ team: New York Knicks -> Free agent",
    "detected_at": "2026-10-18 08:37:36",
    "source": "WIKI",
@@ -9928,27 +9949,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Bulgarian NBL + Maxim Bochev → BC Levski Lukoil",
-   "detected_at": "2026-10-15 07:25:34",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Bulgarian NBL ~ MOVED Georges Lefebvre → BC Levski Lukoil (from Montreal Alliance)",
-   "detected_at": "2026-10-15 07:25:34",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
-  },
-  {
-   "detail": "Bulgarian NBL + Ivo Valentinov → BC Levski Lukoil",
-   "detected_at": "2026-10-15 07:25:34",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -9989,10 +9989,10 @@
    "last": "2026-10-18 08:37:36"
   },
   "WIKIWATCH": {
-   "count": 418,
-   "last": "2026-10-18 06:11:27"
+   "count": 421,
+   "last": "2026-10-18 08:48:42"
   }
  },
- "generated_at": "2026-10-18T08:38:03",
- "total": 31100
+ "generated_at": "2026-10-18T08:49:04",
+ "total": 31103
 }
