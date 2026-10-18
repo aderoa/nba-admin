@@ -1,6 +1,83 @@
 {
  "events": [
   {
+   "detail": "Kevin Durant  ~ weight_lb: 240 -> 234",
+   "detected_at": "2026-10-18 17:30:01",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kevin_Durant"
+  },
+  {
+   "detail": "Julian Phillips (basketball)  ~ weight_lb: 201 -> 205",
+   "detected_at": "2026-10-18 17:30:01",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Julian_Phillips_(basketball)"
+  },
+  {
+   "detail": "Tari Eason  ~ weight_lb: 215 -> 229",
+   "detected_at": "2026-10-18 17:30:01",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Tari_Eason"
+  },
+  {
+   "detail": "Alperen Şengün  ~ weight_lb: 243 -> 271",
+   "detected_at": "2026-10-18 17:30:01",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Alperen_%C5%9Eeng%C3%BCn"
+  },
+  {
+   "detail": "Reed Sheppard  ~ weight_lb: 185 -> 189",
+   "detected_at": "2026-10-18 17:30:01",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Reed_Sheppard"
+  },
+  {
+   "detail": "Steven Adams  ~ weight_lb: 265 -> 279",
+   "detected_at": "2026-10-18 17:30:01",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Steven_Adams"
+  },
+  {
+   "detail": "Isaiah Crawford  ~ weight_lb: 220 -> 225",
+   "detected_at": "2026-10-18 17:30:01",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Isaiah_Crawford"
+  },
+  {
+   "detail": "Dillon Jones  ~ team: Philadelphia 76ers -> Delaware Blue Coats",
+   "detected_at": "2026-10-18 17:30:01",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Dillon_Jones"
+  },
+  {
+   "detail": "Dillon Jones  ~ league: NBA -> NBA G League",
+   "detected_at": "2026-10-18 17:30:01",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Dillon_Jones"
+  },
+  {
+   "detail": "Dillon Jones  ~ number: 35 -> -",
+   "detected_at": "2026-10-18 17:30:01",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Dillon_Jones"
+  },
+  {
+   "detail": "Dillon Jones  ~ CAREER  + 2026–present Delaware Blue Coats",
+   "detected_at": "2026-10-18 17:30:01",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Dillon_Jones"
+  },
+  {
    "detail": "Javonte Green  ~ position: Shooting guard / small forward -> Shooting guard",
    "detected_at": "2026-10-18 17:03:09",
    "source": "WIKI",
@@ -9976,72 +10053,6 @@
    "detected_at": "2026-10-16 23:24:57",
    "source": "DOCS",
    "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 10/15/26",
-   "detected_at": "2026-10-16 23:24:57",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  - REMOVED Jaxson Robinson Cleveland Cavaliers",
-   "detected_at": "2026-10-16 23:24:57",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Jaxson Robinson (WAIVED) Cleveland Cavaliers",
-   "detected_at": "2026-10-16 23:24:57",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  - REMOVED Ian Schieffelin Miami Heat",
-   "detected_at": "2026-10-16 23:24:57",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Ian Schieffelin (WAIVED) Miami Heat",
-   "detected_at": "2026-10-16 23:24:57",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  - REMOVED Saint Thomas Philadelphia 76ers",
-   "detected_at": "2026-10-16 23:24:57",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Saint Thomas (WAIVED) Philadelphia 76ers",
-   "detected_at": "2026-10-16 23:24:57",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-10-16  Boston Celtics re-signed guard Payton Pritchard to a Veteran Extension.",
-   "detected_at": "2026-10-16 23:24:56",
-   "source": "TRANSACTIONS",
-   "type": "Signing"
-  },
-  {
-   "detail": "2026-10-16  Charlotte Hornets waived guard Pat Connaughton.",
-   "detected_at": "2026-10-16 23:24:56",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
-  },
-  {
-   "detail": "2026-10-16  Dallas Mavericks waived forward Guillermo Diaz-Graham.",
-   "detected_at": "2026-10-16 23:24:56",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
-  },
-  {
-   "detail": "2026-10-16  Dallas Mavericks waived forward Jorge Diaz-Graham.",
-   "detected_at": "2026-10-16 23:24:56",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
   }
  ],
  "feeds": {
@@ -10078,14 +10089,14 @@
    "last": "2026-10-18 03:00:52"
   },
   "WIKI": {
-   "count": 6285,
-   "last": "2026-10-18 17:03:09"
+   "count": 6296,
+   "last": "2026-10-18 17:30:01"
   },
   "WIKIWATCH": {
    "count": 421,
    "last": "2026-10-18 08:48:42"
   }
  },
- "generated_at": "2026-10-18T17:12:47",
- "total": 31258
+ "generated_at": "2026-10-18T17:30:26",
+ "total": 31269
 }
