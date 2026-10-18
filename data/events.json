@@ -1,6 +1,48 @@
 {
  "events": [
   {
+   "detail": "Bruce Brown (basketball)  ~ team: New York Knicks -> Free agent",
+   "detected_at": "2026-10-18 08:37:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Bruce_Brown_(basketball)"
+  },
+  {
+   "detail": "Bruce Brown (basketball)  ~ league: NBA -> -",
+   "detected_at": "2026-10-18 08:37:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Bruce_Brown_(basketball)"
+  },
+  {
+   "detail": "Bruce Brown (basketball)  ~ number: 1 -> -",
+   "detected_at": "2026-10-18 08:37:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Bruce_Brown_(basketball)"
+  },
+  {
+   "detail": "Tristen Newton  ~ team: Sacramento Kings -> Stockton Kings",
+   "detected_at": "2026-10-18 08:37:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Tristen_Newton"
+  },
+  {
+   "detail": "Tristen Newton  ~ league: NBA -> NBA G League",
+   "detected_at": "2026-10-18 08:37:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Tristen_Newton"
+  },
+  {
+   "detail": "Tristen Newton  ~ CAREER  + 2026–present Stockton Kings",
+   "detected_at": "2026-10-18 08:37:36",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Tristen_Newton"
+  },
+  {
    "detail": "French NM1 Union Tarbes Lourdes Pyrennes Basket 83, Laval US 77",
    "detected_at": "2026-10-18 06:29:36",
    "source": "SCORES",
@@ -9907,48 +9949,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Bulgarian NBL + Mikhail Mincev → BC Levski Lukoil",
-   "detected_at": "2026-10-15 07:25:34",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Bulgarian NBL + Boris Tsokov → BC Levski Lukoil",
-   "detected_at": "2026-10-15 07:25:34",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Champions League Europe Hapoel Unet Holon 86, KK Spartak Subotica 84",
-   "detected_at": "2026-10-15 07:25:30",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-14/Hapoel-Unet-Holon-at-KK-Spartak-Subotica/530331"
-  },
-  {
-   "detail": "Basketball Champions League Europe Cholet Basket 84, SC Rasta Vechta 66",
-   "detected_at": "2026-10-15 07:25:26",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-14/SC-Rasta-Vechta-at-Cholet-Basket/530330"
-  },
-  {
-   "detail": "Basketball Champions League Europe ~ MOVED Elijah Ndi → SC Rasta Vechta (from Artland Dragons)",
-   "detected_at": "2026-10-15 07:25:25",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
-  },
-  {
-   "detail": "FIBA Europe Cup Bakken Bears 78, Les Lions de Geneve 73",
-   "detected_at": "2026-10-15 07:25:23",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-14/Bakken-Bears-at-Les-Lions-de-Geneve/542028"
   }
  ],
  "feeds": {
@@ -9985,14 +9985,14 @@
    "last": "2026-10-18 03:00:52"
   },
   "WIKI": {
-   "count": 6229,
-   "last": "2026-10-18 06:28:01"
+   "count": 6235,
+   "last": "2026-10-18 08:37:36"
   },
   "WIKIWATCH": {
    "count": 418,
    "last": "2026-10-18 06:11:27"
   }
  },
- "generated_at": "2026-10-18T06:29:54",
- "total": 31094
+ "generated_at": "2026-10-18T08:38:03",
+ "total": 31100
 }
