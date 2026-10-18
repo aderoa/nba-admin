@@ -1,6 +1,125 @@
 {
  "events": [
   {
+   "detail": "Dejounte Murray  ~ weight_lb: 180 -> 188",
+   "detected_at": "2026-10-18 22:24:08",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Dejounte_Murray"
+  },
+  {
+   "detail": "DeAndre Jordan  ~ weight_lb: 265 -> 280",
+   "detected_at": "2026-10-18 22:24:08",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/DeAndre_Jordan"
+  },
+  {
+   "detail": "Bryce McGowens  ~ weight_lb: 190 -> 202",
+   "detected_at": "2026-10-18 22:24:08",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Bryce_McGowens"
+  },
+  {
+   "detail": "AJ Johnson (basketball)  ~ height_in: 5 -> 6",
+   "detected_at": "2026-10-18 22:24:08",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/AJ_Johnson_(basketball)"
+  },
+  {
+   "detail": "AJ Johnson (basketball)  ~ weight_lb: 160 -> 175",
+   "detected_at": "2026-10-18 22:24:08",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/AJ_Johnson_(basketball)"
+  },
+  {
+   "detail": "Jordan Poole  ~ weight_lb: 194 -> 200",
+   "detected_at": "2026-10-18 22:24:08",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jordan_Poole"
+  },
+  {
+   "detail": "Bennedict Mathurin  ~ weight_lb: 210 -> 222",
+   "detected_at": "2026-10-18 22:24:08",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Bennedict_Mathurin"
+  },
+  {
+   "detail": "Karlo Matković  ~ height_in: 10 -> 11",
+   "detected_at": "2026-10-18 22:24:08",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Karlo_Matkovi%C4%87"
+  },
+  {
+   "detail": "Karlo Matković  ~ nationality: Croatian / Bosnian -> -",
+   "detected_at": "2026-10-18 22:24:08",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Karlo_Matkovi%C4%87"
+  },
+  {
+   "detail": "Herbert Jones (basketball)  ~ weight_lb: 206 -> 210",
+   "detected_at": "2026-10-18 22:24:08",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Herbert_Jones_(basketball)"
+  },
+  {
+   "detail": "Trey Murphy III  ~ height_in: 8 -> 9",
+   "detected_at": "2026-10-18 22:24:08",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Trey_Murphy_III"
+  },
+  {
+   "detail": "Trey Murphy III  ~ weight_lb: 206 -> 220",
+   "detected_at": "2026-10-18 22:24:08",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Trey_Murphy_III"
+  },
+  {
+   "detail": "Yves Missi  ~ weight_lb: 235 -> 236",
+   "detected_at": "2026-10-18 22:24:08",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Yves_Missi"
+  },
+  {
+   "detail": "Yves Missi  ~ nationality: Cameroonian -> -",
+   "detected_at": "2026-10-18 22:24:08",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Yves_Missi"
+  },
+  {
+   "detail": "Derik Queen  ~ height_in: 9 -> 11",
+   "detected_at": "2026-10-18 22:24:08",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Derik_Queen"
+  },
+  {
+   "detail": "Derik Queen  ~ weight_lb: 250 -> 225",
+   "detected_at": "2026-10-18 22:24:08",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Derik_Queen"
+  },
+  {
+   "detail": "Julian Reese  ~ height_in: 9 -> 11",
+   "detected_at": "2026-10-18 22:24:08",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Julian_Reese"
+  },
+  {
    "detail": "Kobe Bufkin  ~ team: New Orleans Pelicans -> Free agent",
    "detected_at": "2026-10-18 22:02:16",
    "source": "WIKI",
@@ -10004,108 +10123,6 @@
    "detected_at": "2026-10-16 23:25:01",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "PHL  - REMOVED Miles, De'Marquiese",
-   "detected_at": "2026-10-16 23:25:01",
-   "source": "SHEETS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "PHL  - REMOVED Thomas, Saint",
-   "detected_at": "2026-10-16 23:25:01",
-   "source": "SHEETS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "PHL  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 222978256.3 -> 220262730.3, col9: 657206965.7 -> 654491439.7",
-   "detected_at": "2026-10-16 23:25:01",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "PHL  CHANGED Players Under Contract  -  col3: 216158603.3 -> 213443077.3",
-   "detected_at": "2026-10-16 23:25:01",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "PHL  CHANGED Full Season Contracts  -  col3: 216158603.3 -> 213443077.3",
-   "detected_at": "2026-10-16 23:25:01",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "PHL  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 19 -> 17",
-   "detected_at": "2026-10-16 23:25:01",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "SAC  - REMOVED Black, Leaky",
-   "detected_at": "2026-10-16 23:25:01",
-   "source": "SHEETS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "SAC  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 223696978.3 -> 221247557.3, col9: 487651008.6 -> 485201587.6",
-   "detected_at": "2026-10-16 23:25:01",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "SAC  CHANGED Players Under Contract  -  col3: 204010613 -> 201561192",
-   "detected_at": "2026-10-16 23:25:01",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "SAC  CHANGED Full Season Contracts  -  col3: 204010613 -> 201561192",
-   "detected_at": "2026-10-16 23:25:01",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "SAC  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 19 -> 18",
-   "detected_at": "2026-10-16 23:25:01",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "SAN  - REMOVED Williams, Malik",
-   "detected_at": "2026-10-16 23:25:01",
-   "source": "SHEETS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "SAN  - REMOVED Peter, Taelon",
-   "detected_at": "2026-10-16 23:25:01",
-   "source": "SHEETS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "SAN  - REMOVED Elmore, Jon",
-   "detected_at": "2026-10-16 23:25:01",
-   "source": "SHEETS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "SAN  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 237166261.5 -> 231173961.5, col9: 611243109.7 -> 605250809.7",
-   "detected_at": "2026-10-16 23:25:01",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "SAN  CHANGED Players Under Contract  -  col3: 204272266.7 -> 198279966.7",
-   "detected_at": "2026-10-16 23:25:01",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "SAN  CHANGED Full Season Contracts  -  col3: 204272266.7 -> 198279966.7",
-   "detected_at": "2026-10-16 23:25:01",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10142,14 +10159,14 @@
    "last": "2026-10-18 03:00:52"
   },
   "WIKI": {
-   "count": 6341,
-   "last": "2026-10-18 22:02:16"
+   "count": 6358,
+   "last": "2026-10-18 22:24:08"
   },
   "WIKIWATCH": {
    "count": 429,
    "last": "2026-10-18 19:28:25"
   }
  },
- "generated_at": "2026-10-18T22:16:46",
- "total": 31322
+ "generated_at": "2026-10-18T22:24:09",
+ "total": 31339
 }
