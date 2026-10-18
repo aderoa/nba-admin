@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "2026-10-17  Washington Wizards converted the contract of guard Reece Beekman to a Two-Way Contract.",
+   "detected_at": "2026-10-18 23:20:40",
+   "source": "TRANSACTIONS",
+   "type": "ContractConverted"
+  },
+  {
    "detail": "Hungarian NBIA Atomeromu SE 112, Budapesti Honved Se 81",
    "detected_at": "2026-10-18 23:08:51",
    "source": "SCORES",
@@ -10146,12 +10152,6 @@
    "detected_at": "2026-10-16 23:25:01",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "BKN  CHANGED Full Season Contracts  -  col3: 161414120.5 -> 160056357.5",
-   "detected_at": "2026-10-16 23:25:01",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10184,8 +10184,8 @@
    "last": "2026-10-17 16:03:44"
   },
   "TRANSACTIONS": {
-   "count": 651,
-   "last": "2026-10-18 03:00:52"
+   "count": 652,
+   "last": "2026-10-18 23:20:40"
   },
   "WIKI": {
    "count": 6369,
@@ -10196,6 +10196,6 @@
    "last": "2026-10-18 19:28:25"
   }
  },
- "generated_at": "2026-10-18T23:09:10",
- "total": 31368
+ "generated_at": "2026-10-18T23:20:49",
+ "total": 31369
 }
