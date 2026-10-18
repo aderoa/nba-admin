@@ -1,6 +1,55 @@
 {
  "events": [
   {
+   "detail": "Collin Sexton  ~ height_in: 3 -> 1",
+   "detected_at": "2026-10-18 20:12:08",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Collin_Sexton"
+  },
+  {
+   "detail": "Jaden Hardy  ~ height_in: 3 -> 4",
+   "detected_at": "2026-10-18 20:12:08",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jaden_Hardy"
+  },
+  {
+   "detail": "Quentin Grimes  ~ height_in: 5 -> 4",
+   "detected_at": "2026-10-18 20:12:08",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Quentin_Grimes"
+  },
+  {
+   "detail": "Kevon Looney  ~ position: Center / power forward -> Power forward",
+   "detected_at": "2026-10-18 20:12:08",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kevon_Looney"
+  },
+  {
+   "detail": "Dalton Knecht  ~ position: Small forward / shooting guard -> Small forward",
+   "detected_at": "2026-10-18 20:12:08",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Dalton_Knecht"
+  },
+  {
+   "detail": "Dalton Knecht  ~ height_in: 6 -> 5",
+   "detected_at": "2026-10-18 20:12:08",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Dalton_Knecht"
+  },
+  {
+   "detail": "Jake LaRavia  ~ height_in: 7 -> 8",
+   "detected_at": "2026-10-18 20:12:08",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jake_LaRavia"
+  },
+  {
    "detail": "Christian Koloko  ~ team: KK Crvena zvezda -> Crvena zvezda",
    "detected_at": "2026-10-18 19:50:44",
    "source": "WIKI",
@@ -10041,48 +10090,6 @@
    "detected_at": "2026-10-16 23:24:57",
    "source": "DOCS",
    "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Ochai Agbaji New York Knicks",
-   "detected_at": "2026-10-16 23:24:57",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Ochai Agbaji (WAIVED) New York Knicks",
-   "detected_at": "2026-10-16 23:24:57",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Leaky Black Sacramento Kings",
-   "detected_at": "2026-10-16 23:24:57",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Leaky Black (CONVERTED) Sacramento Kings",
-   "detected_at": "2026-10-16 23:24:57",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Tony Bradley New York Knicks",
-   "detected_at": "2026-10-16 23:24:57",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Tony Bradley (WAIVED) New York Knicks",
-   "detected_at": "2026-10-16 23:24:57",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Drew Eubanks New York Knicks",
-   "detected_at": "2026-10-16 23:24:57",
-   "source": "DOCS",
-   "type": "REMOVED"
   }
  ],
  "feeds": {
@@ -10119,14 +10126,14 @@
    "last": "2026-10-18 03:00:52"
   },
   "WIKI": {
-   "count": 6318,
-   "last": "2026-10-18 19:50:44"
+   "count": 6325,
+   "last": "2026-10-18 20:12:08"
   },
   "WIKIWATCH": {
    "count": 429,
    "last": "2026-10-18 19:28:25"
   }
  },
- "generated_at": "2026-10-18T20:04:47",
- "total": 31299
+ "generated_at": "2026-10-18T20:12:09",
+ "total": 31306
 }
