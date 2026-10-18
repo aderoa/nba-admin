@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Jeremy Sochan  ~ 139379: team -> -",
+   "detected_at": "2026-10-18 19:28:25",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Free agent"
+  },
+  {
+   "detail": "Jeremy Sochan  ~ 139379: league -> NBA",
+   "detected_at": "2026-10-18 19:28:25",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": ""
+  },
+  {
    "detail": "John Poulakidas  ~ CAREER  + 2026 →Olympiakos b.c",
    "detected_at": "2026-10-18 19:28:08",
    "source": "WIKI",
@@ -10066,18 +10080,6 @@
    "detected_at": "2026-10-16 23:24:57",
    "source": "DOCS",
    "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Cole Swider Los Angeles Lakers",
-   "detected_at": "2026-10-16 23:24:57",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Cole Swider (WAIVED) Los Angeles Lakers",
-   "detected_at": "2026-10-16 23:24:57",
-   "source": "DOCS",
-   "type": "ADDED"
   }
  ],
  "feeds": {
@@ -10118,10 +10120,10 @@
    "last": "2026-10-18 19:28:08"
   },
   "WIKIWATCH": {
-   "count": 427,
-   "last": "2026-10-18 18:36:14"
+   "count": 429,
+   "last": "2026-10-18 19:28:25"
   }
  },
- "generated_at": "2026-10-18T19:28:10",
- "total": 31294
+ "generated_at": "2026-10-18T19:28:49",
+ "total": 31296
 }
