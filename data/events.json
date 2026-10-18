@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Dalen Terry  ~ 132642: team -> Golden State Warriors",
+   "detected_at": "2026-10-18 17:40:36",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Free agent"
+  },
+  {
+   "detail": "Dalen Terry  ~ 132642: league -> NBA",
+   "detected_at": "2026-10-18 17:40:36",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": ""
+  },
+  {
+   "detail": "Dalen Terry  ~ 132642: number -> 21",
+   "detected_at": "2026-10-18 17:40:36",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": ""
+  },
+  {
    "detail": "Kevin Durant  ~ weight_lb: 240 -> 234",
    "detected_at": "2026-10-18 17:30:01",
    "source": "WIKI",
@@ -10035,24 +10056,6 @@
    "detected_at": "2026-10-16 23:24:57",
    "source": "DOCS",
    "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  David Muoka (WAIVED) Sacramento Kings",
-   "detected_at": "2026-10-16 23:24:57",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  26-27 $1,357,763",
-   "detected_at": "2026-10-16 23:24:57",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($75,000).",
-   "detected_at": "2026-10-16 23:24:57",
-   "source": "DOCS",
-   "type": "ADDED"
   }
  ],
  "feeds": {
@@ -10093,10 +10096,10 @@
    "last": "2026-10-18 17:30:01"
   },
   "WIKIWATCH": {
-   "count": 421,
-   "last": "2026-10-18 08:48:42"
+   "count": 424,
+   "last": "2026-10-18 17:40:36"
   }
  },
- "generated_at": "2026-10-18T17:30:26",
- "total": 31269
+ "generated_at": "2026-10-18T17:40:48",
+ "total": 31272
 }
