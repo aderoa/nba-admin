@@ -1,6 +1,251 @@
 {
  "events": [
   {
+   "detail": "Haywood Highsmith  ~ team: Phoenix Suns -> Free agent",
+   "detected_at": "2026-10-19 15:44:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Haywood_Highsmith"
+  },
+  {
+   "detail": "Haywood Highsmith  ~ league: NBA -> -",
+   "detected_at": "2026-10-19 15:44:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Haywood_Highsmith"
+  },
+  {
+   "detail": "Haywood Highsmith  ~ number: 19 -> -",
+   "detected_at": "2026-10-19 15:44:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Haywood_Highsmith"
+  },
+  {
+   "detail": "Haywood Highsmith  ~ CAREER  + Phoenix Suns",
+   "detected_at": "2026-10-19 15:44:37",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Haywood_Highsmith"
+  },
+  {
+   "detail": "Jarin Stevenson Indiana 76, North Carolina 58",
+   "detected_at": "2026-10-19 15:25:20",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-10-18/North-Carolina-at-Indiana/544942"
+  },
+  {
+   "detail": "Slovakian Extraliga BC Prievidza 100, BK Inter Bratislava 50",
+   "detected_at": "2026-10-19 15:25:06",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-10/BK-Inter-Bratislava-at-BC-Prievidza/534284"
+  },
+  {
+   "detail": "Slovakian Extraliga + Samuel Kokavec → BC Prievidza",
+   "detected_at": "2026-10-19 15:25:04",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Chinese CBA Shanghai Dongfang 102, Shenzhen 68",
+   "detected_at": "2026-10-19 15:24:57",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-16/Shenzhen-at-Shanghai-Dongfang/541912"
+  },
+  {
+   "detail": "Chinese CBA + Xining He → Shenzhen",
+   "detected_at": "2026-10-19 15:24:55",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Chinese CBA + Markell Johnson → Shenzhen",
+   "detected_at": "2026-10-19 15:24:55",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Chinese CBA + Rong Zifeng → Shenzhen",
+   "detected_at": "2026-10-19 15:24:55",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Chinese CBA + Wu Zihan → Shenzhen",
+   "detected_at": "2026-10-19 15:24:55",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Chinese CBA + Ibou Badji → Shenzhen",
+   "detected_at": "2026-10-19 15:24:55",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Chinese CBA + Muhao Li → Shenzhen",
+   "detected_at": "2026-10-19 15:24:55",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Chinese CBA + Pengyu Lu → Shenzhen",
+   "detected_at": "2026-10-19 15:24:55",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Chinese CBA ~ MOVED Terquavion Smith → Shenzhen (from Scarborough Shooting Stars)",
+   "detected_at": "2026-10-19 15:24:55",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Chinese CBA + Mingkun Ma → Shenzhen",
+   "detected_at": "2026-10-19 15:24:55",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Chinese CBA + Xirui Feng → Shenzhen",
+   "detected_at": "2026-10-19 15:24:55",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Chinese CBA + Wu Kaibo → Shenzhen",
+   "detected_at": "2026-10-19 15:24:55",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Chinese CBA + Ben Li → Shanghai Dongfang",
+   "detected_at": "2026-10-19 15:24:55",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Chinese CBA + D'Angelo Russell → Shanghai Dongfang",
+   "detected_at": "2026-10-19 15:24:55",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Chinese CBA + JaVale McGee → Shanghai Dongfang",
+   "detected_at": "2026-10-19 15:24:55",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Hungarian NBIA Egis Kormend 92, Oroszlanyi Sporteglet E Lions 82",
+   "detected_at": "2026-10-19 15:24:51",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Oroszlanyi-Sporteglet-E-Lions-at-Egis-Kormend/535377"
+  },
+  {
+   "detail": "Hungarian NBIA + Benedek Simon → Oroszlanyi Sporteglet E Lions",
+   "detected_at": "2026-10-19 15:24:49",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "German Pro B WWU Baskets Muenster 82, SSV lok Bernau Alba 74",
+   "detected_at": "2026-10-19 15:24:47",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/WWU-Baskets-Muenster-at-SSV-lok-Bernau-Alba/525524"
+  },
+  {
+   "detail": "German Pro B + Leonard Dertmann → WWU Baskets Muenster",
+   "detected_at": "2026-10-19 15:24:45",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "German Pro B ~ RETURN Richard Schmitt → SSV lok Bernau Alba (from ALBA Berlin)",
+   "detected_at": "2026-10-19 15:24:45",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "German Pro B ~ RETURN Fin Borczanowski → SSV lok Bernau Alba (from ALBA Berlin)",
+   "detected_at": "2026-10-19 15:24:45",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "German Pro B + Philipp Holsken → SSV lok Bernau Alba",
+   "detected_at": "2026-10-19 15:24:45",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL Aykon TED Kolejliler Ankara 72, Cedi Osman Spor Kulubu 63",
+   "detected_at": "2026-10-19 15:24:42",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Aykon-TED-Kolejliler-Ankara-at-Cedi-Osman-Spor-Kulubu/534768"
+  },
+  {
+   "detail": "Turkish TBL + Turgut Dogukan Seyhan → Aykon TED Kolejliler Ankara",
+   "detected_at": "2026-10-19 15:24:41",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Danish Basketligaen Bakken Bears 123, Vaerlose BBK 82",
+   "detected_at": "2026-10-19 15:24:36",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-18/Bakken-Bears-at-Vaerlose-BBK/530323"
+  },
+  {
+   "detail": "Danish Basketligaen + Oscar Teglgaard Joergensen → Bakken Bears",
+   "detected_at": "2026-10-19 15:24:34",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian LKL Zalgiris 96, Taurages 76",
+   "detected_at": "2026-10-19 15:24:31",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-18/Taurages-at-Zalgiris/532723"
+  },
+  {
+   "detail": "Lithuanian LKL + Nojus Kiselevicius → Taurages",
+   "detected_at": "2026-10-19 15:24:30",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
    "detail": "Bulgarian NBL Spartak Pleven 102, Polytechnica 71",
    "detected_at": "2026-10-19 15:24:12",
    "source": "SCORES",
@@ -9922,251 +10167,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-10-15/Zenit-2-at-Yenisei-2/543403"
-  },
-  {
-   "detail": "Euroleague Fenerbahce Beko 74, KK Partizan 65",
-   "detected_at": "2026-10-16 23:34:41",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-15/KK-Partizan-at-Fenerbahce-Beko/526818"
-  },
-  {
-   "detail": "Lithuanian NKL Alytus Alytus 110, Vytis Zanavykas Sakiai 105",
-   "detected_at": "2026-10-16 23:34:37",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-15/Vytis-Zanavykas-Sakiai-at-Alytus-Alytus/544538"
-  },
-  {
-   "detail": "Lithuanian NKL Omega Tauras Kauno 87, Vilniaus Stekas 73",
-   "detected_at": "2026-10-16 23:34:33",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-15/Vilniaus-Stekas-at-Omega-Tauras-Kauno/544546"
-  },
-  {
-   "detail": "Lithuanian NKL Kedainiu SC 92, Mazeikiai 85",
-   "detected_at": "2026-10-16 23:34:29",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-15/Mazeikiai-at-Kedainiu-SC/544545"
-  },
-  {
-   "detail": "Lithuanian NKL Marijampole Suduva Arvi 88, Kretingos Kretinga 83",
-   "detected_at": "2026-10-16 23:34:25",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-15/Marijampole-Suduva-Arvi-at-Kretingos-Kretinga/544544"
-  },
-  {
-   "detail": "Lithuanian NKL Olimpas Palangos 102, Plunges Olimpas 76",
-   "detected_at": "2026-10-16 23:34:21",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-15/Plunges-Olimpas-at-Olimpas-Palangos/544543"
-  },
-  {
-   "detail": "Lithuanian NKL Jurbarko Jurbarkas Karys 84, Lietuvos Rytas II 72",
-   "detected_at": "2026-10-16 23:34:17",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-15/Jurbarko-Jurbarkas-Karys-at-Lietuvos-Rytas-II/544542"
-  },
-  {
-   "detail": "Lithuanian NKL Zalgiris II 107, Kauno LKKA Atletas 83",
-   "detected_at": "2026-10-16 23:34:14",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-15/Kauno-LKKA-Atletas-at-Zalgiris-II/544541"
-  },
-  {
-   "detail": "Lithuanian NKL Telsiai 85, Neptuans Akvaservis Klaipeda 72",
-   "detected_at": "2026-10-16 23:34:10",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-15/Telsiai-at-Neptuans-Akvaservis-Klaipeda/544540"
-  },
-  {
-   "detail": "Lithuanian NKL Silute 97, Vilkaviskio Perlas 81",
-   "detected_at": "2026-10-16 23:34:06",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-15/Silute-at-Vilkaviskio-Perlas/544539"
-  },
-  {
-   "detail": "South Korean KBL Goyang Sono Skygunners 95, Ulsan Mobis Phoebus 82",
-   "detected_at": "2026-10-16 23:34:02",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-16/Ulsan-Mobis-Phoebus-at-Goyang-Sono-Skygunners/530371"
-  },
-  {
-   "detail": "Japanese BLeague Yokohama B Corsairs 87, Ryukyu Golden Kings 85",
-   "detected_at": "2026-10-16 23:33:58",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-16/Ryukyu-Golden-Kings-at-Yokohama-B-Corsairs/544863"
-  },
-  {
-   "detail": "Japanese BLeague Ibaraki Robots 82, Kawasaki Brave Thunders 74",
-   "detected_at": "2026-10-16 23:33:54",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-16/Ibaraki-Robots-at-Kawasaki-Brave-Thunders/544862"
-  },
-  {
-   "detail": "Japanese BLeague Levanga Hokkaido 109, Saga Ballooners 90",
-   "detected_at": "2026-10-16 23:33:50",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-16/Levanga-Hokkaido-at-Saga-Ballooners/524350"
-  },
-  {
-   "detail": "Australian NBL Adelaide 94, Tasmania 88",
-   "detected_at": "2026-10-16 23:33:46",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-16/Adelaide-at-Tasmania/524405"
-  },
-  {
-   "detail": "Bruno Fernando  ~ height_ft: 6 -> -",
-   "detected_at": "2026-10-16 23:33:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Bruno_Fernando"
-  },
-  {
-   "detail": "Bruno Fernando  ~ height_in: 10 -> -",
-   "detected_at": "2026-10-16 23:33:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Bruno_Fernando"
-  },
-  {
-   "detail": "Bruno Fernando  ~ weight_lb: 240 -> -",
-   "detected_at": "2026-10-16 23:33:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Bruno_Fernando"
-  },
-  {
-   "detail": "Patty Mills  ~ height_ft: 6 -> -",
-   "detected_at": "2026-10-16 23:33:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Patty_Mills"
-  },
-  {
-   "detail": "Patty Mills  ~ height_in: 2 -> -",
-   "detected_at": "2026-10-16 23:33:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Patty_Mills"
-  },
-  {
-   "detail": "Patty Mills  ~ weight_lb: 180 -> -",
-   "detected_at": "2026-10-16 23:33:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Patty_Mills"
-  },
-  {
-   "detail": "Omari Spellman  ~ team: Beijing Ducks -> Free agent",
-   "detected_at": "2026-10-16 23:33:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Omari_Spellman"
-  },
-  {
-   "detail": "Omari Spellman  ~ league: CBA -> -",
-   "detected_at": "2026-10-16 23:33:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Omari_Spellman"
-  },
-  {
-   "detail": "Omari Spellman  ~ number: 14 -> -",
-   "detected_at": "2026-10-16 23:33:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Omari_Spellman"
-  },
-  {
-   "detail": "Omari Spellman  ~ CAREER  + 2025–2026 Beijing Ducks",
-   "detected_at": "2026-10-16 23:33:39",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Omari_Spellman"
-  },
-  {
-   "detail": "Tony Bradley (basketball)  ~ team: New York Knicks -> Free agent",
-   "detected_at": "2026-10-16 23:33:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Tony_Bradley_(basketball)"
-  },
-  {
-   "detail": "Tony Bradley (basketball)  ~ league: NBA -> -",
-   "detected_at": "2026-10-16 23:33:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Tony_Bradley_(basketball)"
-  },
-  {
-   "detail": "Tony Bradley (basketball)  ~ number: 18 -> -",
-   "detected_at": "2026-10-16 23:33:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Tony_Bradley_(basketball)"
-  },
-  {
-   "detail": "Daeqwon Plowden  ~ height_in: 6 -> 4",
-   "detected_at": "2026-10-16 23:33:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Daeqwon_Plowden"
-  },
-  {
-   "detail": "Caleb Houstan  ~ team: Free agent -> Rip City Remix",
-   "detected_at": "2026-10-16 23:33:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Caleb_Houstan"
-  },
-  {
-   "detail": "Caleb Houstan  ~ league: - -> NBA G League",
-   "detected_at": "2026-10-16 23:33:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Caleb_Houstan"
-  },
-  {
-   "detail": "Caleb Houstan  ~ CAREER  + 2026–present Rip City Remix",
-   "detected_at": "2026-10-16 23:33:39",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Caleb_Houstan"
-  },
-  {
-   "detail": "Devin Carter  ~ weight_lb: 195 -> 199",
-   "detected_at": "2026-10-16 23:33:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Devin_Carter"
-  },
-  {
-   "detail": "Oshae Brissett  ~ height_ft: 6 -> -",
-   "detected_at": "2026-10-16 23:33:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Oshae_Brissett"
-  },
-  {
-   "detail": "Oshae Brissett  ~ height_in: 7 -> -",
-   "detected_at": "2026-10-16 23:33:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Oshae_Brissett"
   }
  ],
  "feeds": {
@@ -10187,12 +10187,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 9676,
-   "last": "2026-10-19 04:02:02"
+   "count": 9699,
+   "last": "2026-10-19 15:25:04"
   },
   "SCORES": {
-   "count": 2471,
-   "last": "2026-10-19 15:24:12"
+   "count": 2479,
+   "last": "2026-10-19 15:25:20"
   },
   "SHEETS": {
    "count": 4950,
@@ -10203,14 +10203,14 @@
    "last": "2026-10-18 23:20:40"
   },
   "WIKI": {
-   "count": 6425,
-   "last": "2026-10-19 15:20:03"
+   "count": 6429,
+   "last": "2026-10-19 15:44:37"
   },
   "WIKIWATCH": {
    "count": 433,
    "last": "2026-10-19 15:12:00"
   }
  },
- "generated_at": "2026-10-19T15:24:18",
- "total": 31557
+ "generated_at": "2026-10-19T15:44:39",
+ "total": 31592
 }
