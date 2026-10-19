@@ -1,6 +1,90 @@
 {
  "events": [
   {
+   "detail": "Ziaire Williams  ~ height_in: 10 -> 9",
+   "detected_at": "2026-10-19 16:16:04",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Ziaire_Williams"
+  },
+  {
+   "detail": "Luka Dončić  ~ weight_lb: 230 -> 242",
+   "detected_at": "2026-10-19 16:16:04",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Luka_Don%C4%8Di%C4%87"
+  },
+  {
+   "detail": "Jaden Hardy  ~ weight_lb: 198 -> 210",
+   "detected_at": "2026-10-19 16:16:04",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jaden_Hardy"
+  },
+  {
+   "detail": "Quentin Grimes  ~ weight_lb: 207 -> 214",
+   "detected_at": "2026-10-19 16:16:04",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Quentin_Grimes"
+  },
+  {
+   "detail": "Jarred Vanderbilt  ~ weight_lb: 214 -> 221",
+   "detected_at": "2026-10-19 16:16:04",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jarred_Vanderbilt"
+  },
+  {
+   "detail": "Kevon Looney  ~ weight_lb: 222 -> 250",
+   "detected_at": "2026-10-19 16:16:04",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kevon_Looney"
+  },
+  {
+   "detail": "Austin Reaves  ~ weight_lb: 197 -> 216",
+   "detected_at": "2026-10-19 16:16:04",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Austin_Reaves"
+  },
+  {
+   "detail": "Adou Thiero  ~ weight_lb: 220 -> 230",
+   "detected_at": "2026-10-19 16:16:04",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Adou_Thiero"
+  },
+  {
+   "detail": "Bronny James  ~ weight_lb: 210 -> 223",
+   "detected_at": "2026-10-19 16:16:04",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Bronny_James"
+  },
+  {
+   "detail": "Jake LaRavia  ~ height_in: 8 -> 7",
+   "detected_at": "2026-10-19 16:16:04",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jake_LaRavia"
+  },
+  {
+   "detail": "Chris Mañon  ~ weight_lb: 209 -> 206",
+   "detected_at": "2026-10-19 16:16:04",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Chris_Ma%C3%B1on"
+  },
+  {
+   "detail": "Matisse Thybulle  ~ weight_lb: 202 -> 204",
+   "detected_at": "2026-10-19 16:16:04",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Matisse_Thybulle"
+  },
+  {
    "detail": "Haywood Highsmith  ~ team: Phoenix Suns -> Free agent",
    "detected_at": "2026-10-19 15:44:37",
    "source": "WIKI",
@@ -10085,88 +10169,6 @@
    "detected_at": "2026-10-17 08:08:39",
    "source": "PLAYERS",
    "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED Hunter Dickinson (NOP)",
-   "detected_at": "2026-10-17 08:08:39",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED Anthony Pritchard (OKC)",
-   "detected_at": "2026-10-17 08:08:39",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "Mexican LNBP Abejas 94, Santos de San Luis Potosi 84",
-   "detected_at": "2026-10-16 23:35:19",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-15/Abejas-at-Santos-de-San-Luis-Potosi/544993"
-  },
-  {
-   "detail": "Argentinian Liga A Racing de Chivilcoy 74, La Union de Formosa 68",
-   "detected_at": "2026-10-16 23:35:15",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-15/Racing-de-Chivilcoy-at-La-Union-de-Formosa/541695"
-  },
-  {
-   "detail": "South Korean KBL Seoul Samsung Thunders 93, Changwon LG Sakers 86",
-   "detected_at": "2026-10-16 23:35:11",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-15/Changwon-LG-Sakers-at-Seoul-Samsung-Thunders/530370"
-  },
-  {
-   "detail": "Euroleague Real Madrid 111, ASVEL Basket 92",
-   "detected_at": "2026-10-16 23:35:08",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-15/ASVEL-Basket-at-Real-Madrid/526821"
-  },
-  {
-   "detail": "Euroleague Dubai 101, AX Armani Exchange Milan 97",
-   "detected_at": "2026-10-16 23:35:04",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-15/Dubai-at-AX-Armani-Exchange-Milan/526820"
-  },
-  {
-   "detail": "Euroleague Maccabi FOX Tel Aviv 91, Valencia Basket 88",
-   "detected_at": "2026-10-16 23:35:00",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-15/Maccabi-FOX-Tel-Aviv-at-Valencia-Basket/526819"
-  },
-  {
-   "detail": "Eurocup Fraport Skyliners 81, London Lions 76",
-   "detected_at": "2026-10-16 23:34:56",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-15/Fraport-Skyliners-at-London-Lions/526714"
-  },
-  {
-   "detail": "Danish Basketligaen Horsens IC 97, Holbaek Stenhus 83",
-   "detected_at": "2026-10-16 23:34:52",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-15/Holbaek-Stenhus-at-Horsens-IC/530318"
-  },
-  {
-   "detail": "Danish Basketligaen Team FOG Naestved 86, Svendborg Rabbits 83",
-   "detected_at": "2026-10-16 23:34:48",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-15/Svendborg-Rabbits-at-Team-FOG-Naestved/530319"
-  },
-  {
-   "detail": "VTB Youth United League Zenit 2 109, Yenisei 2 63",
-   "detected_at": "2026-10-16 23:34:44",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-15/Zenit-2-at-Yenisei-2/543403"
   }
  ],
  "feeds": {
@@ -10203,14 +10205,14 @@
    "last": "2026-10-18 23:20:40"
   },
   "WIKI": {
-   "count": 6429,
-   "last": "2026-10-19 15:44:37"
+   "count": 6441,
+   "last": "2026-10-19 16:16:04"
   },
   "WIKIWATCH": {
    "count": 433,
    "last": "2026-10-19 15:12:00"
   }
  },
- "generated_at": "2026-10-19T15:58:50",
- "total": 31592
+ "generated_at": "2026-10-19T16:16:05",
+ "total": 31604
 }
