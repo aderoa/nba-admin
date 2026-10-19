@@ -1,6 +1,363 @@
 {
  "events": [
   {
+   "detail": "Spanish Segunda FEB Jaen Paraiso Interior CB 84, Caceres Patrimonio La Humanidad 82",
+   "detected_at": "2026-10-19 03:59:10",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-18/Caceres-Patrimonio-La-Humanidad-at-Jaen-Paraiso-Interior-CB/527601"
+  },
+  {
+   "detail": "Japanese BLeague Ibaraki Robots 98, Osaka Evessa 63",
+   "detected_at": "2026-10-19 03:59:05",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-18/Osaka-Evessa-at-Ibaraki-Robots/524357"
+  },
+  {
+   "detail": "PBA Governors Cup Barangay Ginebra Kings 106, Phoenix Fuel Masters 89",
+   "detected_at": "2026-10-19 03:59:00",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-18/Phoenix-Fuel-Masters-at-Barangay-Ginebra-Kings/544797"
+  },
+  {
+   "detail": "PBA Governors Cup Converge Fiber Xers 114, Talk N Text Tropang Texters 112",
+   "detected_at": "2026-10-19 03:58:56",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-18/Converge-Fiber-Xers-at-Talk-N-Text-Tropang-Texters/544796"
+  },
+  {
+   "detail": "Patty Mills  ~ birth_date: - -> (Shares a Birthdate with Rocco Sinipoli)",
+   "detected_at": "2026-10-19 03:58:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Patty_Mills"
+  },
+  {
+   "detail": "Tony Bradley (basketball)  ~ number: - -> 13",
+   "detected_at": "2026-10-19 03:58:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Tony_Bradley_(basketball)"
+  },
+  {
+   "detail": "Seth Lundy  ~ team: Free agent -> Texas Legends",
+   "detected_at": "2026-10-19 03:58:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Seth_Lundy"
+  },
+  {
+   "detail": "Seth Lundy  ~ league: - -> NBA G League",
+   "detected_at": "2026-10-19 03:58:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Seth_Lundy"
+  },
+  {
+   "detail": "Seth Lundy  ~ CAREER  + 2023–2024 →College Park Skyhawks",
+   "detected_at": "2026-10-19 03:58:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Seth_Lundy"
+  },
+  {
+   "detail": "Seth Lundy  ~ CAREER  + 2026–present Texas Legends",
+   "detected_at": "2026-10-19 03:58:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Seth_Lundy"
+  },
+  {
+   "detail": "Damian Jones (basketball)  ~ height_in: 10 -> 11",
+   "detected_at": "2026-10-19 03:58:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Damian_Jones_(basketball)"
+  },
+  {
+   "detail": "Nikola Vučević  ~ height_in: 9 -> 11",
+   "detected_at": "2026-10-19 03:58:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Nikola_Vu%C4%8Devi%C4%87"
+  },
+  {
+   "detail": "Nikola Vučević  ~ nationality: Montenegrin / Belgian / American -> -",
+   "detected_at": "2026-10-19 03:58:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Nikola_Vu%C4%8Devi%C4%87"
+  },
+  {
+   "detail": "Marcus Garrett  ~ team: Skyliners Frankfurt -> Wisconsin Herd",
+   "detected_at": "2026-10-19 03:58:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Marcus_Garrett"
+  },
+  {
+   "detail": "Marcus Garrett  ~ league: Basketball Bundesliga -> NBA G League",
+   "detected_at": "2026-10-19 03:58:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Marcus_Garrett"
+  },
+  {
+   "detail": "Marcus Garrett  ~ CAREER  + 2026–present Wisconsin Herd",
+   "detected_at": "2026-10-19 03:58:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Marcus_Garrett"
+  },
+  {
+   "detail": "Dalen Terry  ~ team: Free agent -> Santa Cruz Warriors",
+   "detected_at": "2026-10-19 03:58:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Dalen_Terry"
+  },
+  {
+   "detail": "Dalen Terry  ~ league: - -> NBA G League",
+   "detected_at": "2026-10-19 03:58:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Dalen_Terry"
+  },
+  {
+   "detail": "Dalen Terry  ~ CAREER  + 2026–present Santa Cruz Warriors",
+   "detected_at": "2026-10-19 03:58:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Dalen_Terry"
+  },
+  {
+   "detail": "Emanuel Miller (basketball)  ~ team: Free agent -> Grand Rapids Gold",
+   "detected_at": "2026-10-19 03:58:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Emanuel_Miller_(basketball)"
+  },
+  {
+   "detail": "Emanuel Miller (basketball)  ~ league: - -> NBA G League",
+   "detected_at": "2026-10-19 03:58:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Emanuel_Miller_(basketball)"
+  },
+  {
+   "detail": "Emanuel Miller (basketball)  ~ position: Small forward / power forward -> Small forward",
+   "detected_at": "2026-10-19 03:58:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Emanuel_Miller_(basketball)"
+  },
+  {
+   "detail": "Emanuel Miller (basketball)  ~ CAREER  + 2026–present Grand Rapids Gold",
+   "detected_at": "2026-10-19 03:58:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Emanuel_Miller_(basketball)"
+  },
+  {
+   "detail": "Goga Bitadze  ~ position: Center -> Center / power forward",
+   "detected_at": "2026-10-19 03:58:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Goga_Bitadze"
+  },
+  {
+   "detail": "Goga Bitadze  ~ weight_lb: 250 -> 235",
+   "detected_at": "2026-10-19 03:58:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Goga_Bitadze"
+  },
+  {
+   "detail": "Jahmyl Telfort  ~ team: Free agent -> San Diego Clippers",
+   "detected_at": "2026-10-19 03:58:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jahmyl_Telfort"
+  },
+  {
+   "detail": "Jahmyl Telfort  ~ league: - -> NBA G League",
+   "detected_at": "2026-10-19 03:58:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jahmyl_Telfort"
+  },
+  {
+   "detail": "Jahmyl Telfort  ~ CAREER  + 2026–present San Diego Clippers",
+   "detected_at": "2026-10-19 03:58:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Jahmyl_Telfort"
+  },
+  {
+   "detail": "Josh Hart  ~ position: Small forward -> Shooting guard",
+   "detected_at": "2026-10-19 03:58:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Josh_Hart"
+  },
+  {
+   "detail": "Trevor Keels  ~ team: Washington Wizards -> Capital City Go-Go",
+   "detected_at": "2026-10-19 03:58:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Trevor_Keels"
+  },
+  {
+   "detail": "Trevor Keels  ~ league: NBA -> NBA G League",
+   "detected_at": "2026-10-19 03:58:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Trevor_Keels"
+  },
+  {
+   "detail": "Trevor Keels  ~ CAREER  + 2026–present Capital City Go-Go",
+   "detected_at": "2026-10-19 03:58:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Trevor_Keels"
+  },
+  {
+   "detail": "OG Anunoby  ~ position: Small forward -> Small forward / shooting guard",
+   "detected_at": "2026-10-19 03:58:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/OG_Anunoby"
+  },
+  {
+   "detail": "Kenrich Williams  ~ position: Small forward / power forward -> Small forward / shooting guard",
+   "detected_at": "2026-10-19 03:58:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kenrich_Williams"
+  },
+  {
+   "detail": "Jaylin Williams (basketball, born 2002)  ~ position: Power forward / center -> Power forward",
+   "detected_at": "2026-10-19 03:58:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jaylin_Williams_(basketball,_born_2002)"
+  },
+  {
+   "detail": "Jared McCain  ~ height_in: 3 -> 2",
+   "detected_at": "2026-10-19 03:58:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jared_McCain"
+  },
+  {
+   "detail": "Anthony Black (basketball)  ~ weight_lb: 200 -> 212",
+   "detected_at": "2026-10-19 03:58:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Anthony_Black_(basketball)"
+  },
+  {
+   "detail": "Jonathan Isaac  ~ weight_lb: 230 -> 240",
+   "detected_at": "2026-10-19 03:58:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jonathan_Isaac"
+  },
+  {
+   "detail": "Franz Wagner  ~ weight_lb: 220 -> 230",
+   "detected_at": "2026-10-19 03:58:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Franz_Wagner"
+  },
+  {
+   "detail": "Noah Penda  ~ weight_lb: 215 -> 242",
+   "detected_at": "2026-10-19 03:58:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Noah_Penda"
+  },
+  {
+   "detail": "Blake Wesley (basketball)  ~ team: Free agent -> San Diego Clippers",
+   "detected_at": "2026-10-19 03:58:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Blake_Wesley_(basketball)"
+  },
+  {
+   "detail": "Blake Wesley (basketball)  ~ league: - -> NBA G League",
+   "detected_at": "2026-10-19 03:58:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Blake_Wesley_(basketball)"
+  },
+  {
+   "detail": "Blake Wesley (basketball)  ~ CAREER  + 2026–present San Diego Clippers",
+   "detected_at": "2026-10-19 03:58:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Blake_Wesley_(basketball)"
+  },
+  {
+   "detail": "Bez Mbeng  ~ team: Miami Heat -> Sioux Falls Skyforce",
+   "detected_at": "2026-10-19 03:58:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Bez_Mbeng"
+  },
+  {
+   "detail": "Bez Mbeng  ~ league: NBA -> NBA G League",
+   "detected_at": "2026-10-19 03:58:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Bez_Mbeng"
+  },
+  {
+   "detail": "Bez Mbeng  ~ number: 19 -> 3",
+   "detected_at": "2026-10-19 03:58:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Bez_Mbeng"
+  },
+  {
+   "detail": "Bez Mbeng  ~ CAREER  + 2025–present Sioux Falls Skyforce",
+   "detected_at": "2026-10-19 03:58:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Bez_Mbeng"
+  },
+  {
+   "detail": "Hayden Gray  ~ team: Boston Celtics -> Maine Celtics",
+   "detected_at": "2026-10-19 03:58:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Hayden_Gray"
+  },
+  {
+   "detail": "Hayden Gray  ~ league: NBA -> NBA G League",
+   "detected_at": "2026-10-19 03:58:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Hayden_Gray"
+  },
+  {
+   "detail": "Hayden Gray  ~ number: 44 -> -",
+   "detected_at": "2026-10-19 03:58:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Hayden_Gray"
+  },
+  {
+   "detail": "Hayden Gray  ~ CAREER  + 2025–present Maine Celtics",
+   "detected_at": "2026-10-19 03:58:47",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Hayden_Gray"
+  },
+  {
    "detail": "2026-10-17  Washington Wizards converted the contract of guard Reece Beekman to a Two-Way Contract.",
    "detected_at": "2026-10-18 23:20:40",
    "source": "TRANSACTIONS",
@@ -9810,348 +10167,6 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Dejan_Kravi%C4%87"
-  },
-  {
-   "detail": "Justinian Jessup  ~ height_in: 6 -> 7",
-   "detected_at": "2026-10-16 23:33:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Justinian_Jessup"
-  },
-  {
-   "detail": "Johnny Berhanemeskel  ~ team: Free Agent -> JL Bourg",
-   "detected_at": "2026-10-16 23:33:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Johnny_Berhanemeskel"
-  },
-  {
-   "detail": "Johnny Berhanemeskel  ~ league: - -> LNB Élite",
-   "detected_at": "2026-10-16 23:33:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Johnny_Berhanemeskel"
-  },
-  {
-   "detail": "Johnny Berhanemeskel  ~ CAREER  + 2020 Ottawa BlackJacks",
-   "detected_at": "2026-10-16 23:33:39",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Johnny_Berhanemeskel"
-  },
-  {
-   "detail": "Johnny Berhanemeskel  ~ CAREER  + 2021–2022 Chorale Roanne",
-   "detected_at": "2026-10-16 23:33:39",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Johnny_Berhanemeskel"
-  },
-  {
-   "detail": "Johnny Berhanemeskel  ~ CAREER  + 2022–2023 Budivelnyk",
-   "detected_at": "2026-10-16 23:33:39",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Johnny_Berhanemeskel"
-  },
-  {
-   "detail": "Johnny Berhanemeskel  ~ CAREER  + 2023–2025 Gravelines-Dunkerque",
-   "detected_at": "2026-10-16 23:33:39",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Johnny_Berhanemeskel"
-  },
-  {
-   "detail": "Johnny Berhanemeskel  ~ CAREER  + 2025–2026 Le Mans",
-   "detected_at": "2026-10-16 23:33:39",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Johnny_Berhanemeskel"
-  },
-  {
-   "detail": "Johnny Berhanemeskel  ~ CAREER  + 2026–present JL Bourg",
-   "detected_at": "2026-10-16 23:33:39",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Johnny_Berhanemeskel"
-  },
-  {
-   "detail": "Darryl Monroe  ~ position: Power Forward / Center -> Power forward / center",
-   "detected_at": "2026-10-16 23:33:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Darryl_Monroe"
-  },
-  {
-   "detail": "David Lighty  ~ height_ft: 6 -> -",
-   "detected_at": "2026-10-16 23:33:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/David_Lighty"
-  },
-  {
-   "detail": "David Lighty  ~ height_in: 6 -> -",
-   "detected_at": "2026-10-16 23:33:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/David_Lighty"
-  },
-  {
-   "detail": "Niels Giffey  ~ height_ft: 6 -> -",
-   "detected_at": "2026-10-16 23:33:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Niels_Giffey"
-  },
-  {
-   "detail": "Niels Giffey  ~ height_in: 7 -> -",
-   "detected_at": "2026-10-16 23:33:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Niels_Giffey"
-  },
-  {
-   "detail": "Maodo Lô  ~ height_ft: 6 -> -",
-   "detected_at": "2026-10-16 23:33:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Maodo_L%C3%B4"
-  },
-  {
-   "detail": "Maodo Lô  ~ height_in: 3 -> -",
-   "detected_at": "2026-10-16 23:33:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Maodo_L%C3%B4"
-  },
-  {
-   "detail": "Ąžuolas Tubelis  ~ height_ft: 6 -> -",
-   "detected_at": "2026-10-16 23:33:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/%C4%84%C5%BEuolas_Tubelis"
-  },
-  {
-   "detail": "Ąžuolas Tubelis  ~ height_in: 10 -> -",
-   "detected_at": "2026-10-16 23:33:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/%C4%84%C5%BEuolas_Tubelis"
-  },
-  {
-   "detail": "Marcus Bingham Jr.  ~ position: Center -> Power forward / Center",
-   "detected_at": "2026-10-16 23:33:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Marcus_Bingham_Jr."
-  },
-  {
-   "detail": "Justin Cobbs  ~ CAREER  + 2016–2017 Gravelines-Dunkerque",
-   "detected_at": "2026-10-16 23:33:39",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Justin_Cobbs"
-  },
-  {
-   "detail": "Jilson Bango  ~ position: Power forward / Center -> Power forward / center",
-   "detected_at": "2026-10-16 23:33:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jilson_Bango"
-  },
-  {
-   "detail": "Barry Brown Jr.  ~ CAREER  + 2026–present Beijing Ducks",
-   "detected_at": "2026-10-16 23:33:39",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Barry_Brown_Jr."
-  },
-  {
-   "detail": "Matthieu Gauzin  ~ team: Free Agent -> Coviran Granada",
-   "detected_at": "2026-10-16 23:33:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Matthieu_Gauzin"
-  },
-  {
-   "detail": "Matthieu Gauzin  ~ league: - -> Primera FEB",
-   "detected_at": "2026-10-16 23:33:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Matthieu_Gauzin"
-  },
-  {
-   "detail": "Matthieu Gauzin  ~ CAREER  + 2019–2022 Le Mans",
-   "detected_at": "2026-10-16 23:33:39",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Matthieu_Gauzin"
-  },
-  {
-   "detail": "Matthieu Gauzin  ~ CAREER  + 2020–2021 →Champagne-Reims",
-   "detected_at": "2026-10-16 23:33:39",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Matthieu_Gauzin"
-  },
-  {
-   "detail": "Matthieu Gauzin  ~ CAREER  + 2022–2023 Gravelines-Dunkerque",
-   "detected_at": "2026-10-16 23:33:39",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Matthieu_Gauzin"
-  },
-  {
-   "detail": "Matthieu Gauzin  ~ CAREER  + 2024–2025 SLUC Nancy",
-   "detected_at": "2026-10-16 23:33:39",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Matthieu_Gauzin"
-  },
-  {
-   "detail": "Matthieu Gauzin  ~ CAREER  + 2026–present Granada",
-   "detected_at": "2026-10-16 23:33:39",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Matthieu_Gauzin"
-  },
-  {
-   "detail": "Oumar Ballo (basketball)  ~ league: Basketbol Süper Ligi Basketball Champions League -> BSL BCL",
-   "detected_at": "2026-10-16 23:33:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Oumar_Ballo_(basketball)"
-  },
-  {
-   "detail": "Oumar Ballo (basketball)  ~ CAREER  + 2026–present Valencia Basket",
-   "detected_at": "2026-10-16 23:33:39",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Oumar_Ballo_(basketball)"
-  },
-  {
-   "detail": "Oumar Ballo (basketball)  ~ CAREER  + 2026–present →Galatasaray",
-   "detected_at": "2026-10-16 23:33:39",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Oumar_Ballo_(basketball)"
-  },
-  {
-   "detail": "Gino Cuccarolo  ~ team: Fiorentina Basket -> -",
-   "detected_at": "2026-10-16 23:33:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Gino_Cuccarolo"
-  },
-  {
-   "detail": "Gino Cuccarolo  ~ number: 14 -> -",
-   "detected_at": "2026-10-16 23:33:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Gino_Cuccarolo"
-  },
-  {
-   "detail": "Gino Cuccarolo  ~ career_end: - -> 2020",
-   "detected_at": "2026-10-16 23:33:39",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Gino_Cuccarolo"
-  },
-  {
-   "detail": "Gino Cuccarolo  ~ CAREER  + 2018-2020 Fiorentina Basket",
-   "detected_at": "2026-10-16 23:33:39",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Gino_Cuccarolo"
-  },
-  {
-   "detail": "2026-10-15  Traded: Osayi Osifo (Celtics)",
-   "detected_at": "2026-10-16 23:25:04",
-   "source": "GLEAGUE",
-   "type": "Trade"
-  },
-  {
-   "detail": "2026-10-15  Traded: Christian Koloko (Celtics)",
-   "detected_at": "2026-10-16 23:25:04",
-   "source": "GLEAGUE",
-   "type": "Trade"
-  },
-  {
-   "detail": "2026-10-15  Traded: Donovan Williams (Celtics)",
-   "detected_at": "2026-10-16 23:25:04",
-   "source": "GLEAGUE",
-   "type": "Trade"
-  },
-  {
-   "detail": "2026-10-15  Traded: Kendall Brown (Spurs)",
-   "detected_at": "2026-10-16 23:25:04",
-   "source": "GLEAGUE",
-   "type": "Trade"
-  },
-  {
-   "detail": "2026-10-15  Traded: D'andre Davis (Celtics)",
-   "detected_at": "2026-10-16 23:25:04",
-   "source": "GLEAGUE",
-   "type": "Trade"
-  },
-  {
-   "detail": "2026-10-15  Traded: Aaron Scott (Nets)",
-   "detected_at": "2026-10-16 23:25:04",
-   "source": "GLEAGUE",
-   "type": "Trade"
-  },
-  {
-   "detail": "2026-10-15  Traded: Killian Hayes (Blue)",
-   "detected_at": "2026-10-16 23:25:04",
-   "source": "GLEAGUE",
-   "type": "Trade"
-  },
-  {
-   "detail": "2026-10-15  Traded: Justyn Hamilton (Blue)",
-   "detected_at": "2026-10-16 23:25:04",
-   "source": "GLEAGUE",
-   "type": "Trade"
-  },
-  {
-   "detail": "2026-10-15  Traded: Babatunde Akingbola (Blue)",
-   "detected_at": "2026-10-16 23:25:04",
-   "source": "GLEAGUE",
-   "type": "Trade"
-  },
-  {
-   "detail": "2026-10-15  Traded: Zack Austin (Charge)",
-   "detected_at": "2026-10-16 23:25:04",
-   "source": "GLEAGUE",
-   "type": "Trade"
-  },
-  {
-   "detail": "2026-10-15  Traded: Ray Harrison (Bulls)",
-   "detected_at": "2026-10-16 23:25:04",
-   "source": "GLEAGUE",
-   "type": "Trade"
-  },
-  {
-   "detail": "2026-10-15  Traded: Wooga Poplar (Nets)",
-   "detected_at": "2026-10-16 23:25:04",
-   "source": "GLEAGUE",
-   "type": "Trade"
-  },
-  {
-   "detail": "BKN  - REMOVED Humrichous, Ben",
-   "detected_at": "2026-10-16 23:25:01",
-   "source": "SHEETS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "BKN  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 163863541.5 -> 162505778.5, col9: 347261503.9 -> 345903740.9",
-   "detected_at": "2026-10-16 23:25:01",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "BKN  CHANGED Players Under Contract  -  col3: 161414120.5 -> 160056357.5",
-   "detected_at": "2026-10-16 23:25:01",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10176,8 +10191,8 @@
    "last": "2026-10-18 23:08:50"
   },
   "SCORES": {
-   "count": 2373,
-   "last": "2026-10-18 23:08:51"
+   "count": 2377,
+   "last": "2026-10-19 03:59:10"
   },
   "SHEETS": {
    "count": 4950,
@@ -10188,14 +10203,14 @@
    "last": "2026-10-18 23:20:40"
   },
   "WIKI": {
-   "count": 6369,
-   "last": "2026-10-18 23:08:08"
+   "count": 6416,
+   "last": "2026-10-19 03:58:47"
   },
   "WIKIWATCH": {
    "count": 429,
    "last": "2026-10-18 19:28:25"
   }
  },
- "generated_at": "2026-10-18T23:53:46",
- "total": 31369
+ "generated_at": "2026-10-19T03:59:16",
+ "total": 31420
 }
