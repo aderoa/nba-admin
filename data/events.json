@@ -1,6 +1,30 @@
 {
  "events": [
   {
+   "detail": "2026-27 Rookie Signings  + ADDED  Cris Carroll (WAIVED) Philadelphia 76ers",
+   "detected_at": "2026-10-20 16:25:04",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  26-27 $1,357,763",
+   "detected_at": "2026-10-20 16:25:04",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($45,500).",
+   "detected_at": "2026-10-20 16:25:04",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 10/15/26",
+   "detected_at": "2026-10-20 16:25:04",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "2026-27 Rookie Signings  - REMOVED Execution Date: 10/16/26",
    "detected_at": "2026-10-20 16:22:57",
    "source": "DOCS",
@@ -9999,40 +10023,12 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Rio-Breogan-at-MoraBanc-Andorra/533438"
-  },
-  {
-   "detail": "Italian Lega Basket Serie A Umana Venezia 104, Roma SPQR 98",
-   "detected_at": "2026-10-18 03:12:49",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Umana-Venezia-at-Roma-SPQR/529584"
-  },
-  {
-   "detail": "BNXT League Port of Antwerp Giants 125, Heroes Den Bosch 86",
-   "detected_at": "2026-10-18 03:12:45",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Port-of-Antwerp-Giants-at-Heroes-Den-Bosch/527946"
-  },
-  {
-   "detail": "BNXT League + Joris Metz → Heroes Den Bosch",
-   "detected_at": "2026-10-18 03:12:44",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "BNXT League ZZ Leiden 92, Okapi Aalstar 77",
-   "detected_at": "2026-10-18 03:12:42",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Okapi-Aalstar-at-ZZ-Leiden/527945"
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 4138,
-   "last": "2026-10-20 16:22:57"
+   "count": 4142,
+   "last": "2026-10-20 16:25:04"
   },
   "GLEAGUE": {
    "count": 200,
@@ -10071,6 +10067,6 @@
    "last": "2026-10-20 16:02:06"
   }
  },
- "generated_at": "2026-10-20T16:23:04",
- "total": 32391
+ "generated_at": "2026-10-20T16:25:10",
+ "total": 32395
 }
