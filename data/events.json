@@ -1,6 +1,34 @@
 {
  "events": [
   {
+   "detail": "Walter Clayton  ~ 183386: team -> Memphis Grizzlies",
+   "detected_at": "2026-10-20 10:24:56",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": ""
+  },
+  {
+   "detail": "Walter Clayton  ~ 183386: number -> 4",
+   "detected_at": "2026-10-20 10:24:56",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": ""
+  },
+  {
+   "detail": "Micah Peavy  ~ 117378: team -> Memphis Grizzlies",
+   "detected_at": "2026-10-20 10:24:56",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": ""
+  },
+  {
+   "detail": "Micah Peavy  ~ 117378: number -> 7",
+   "detected_at": "2026-10-20 10:24:56",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": ""
+  },
+  {
    "detail": "WNBA Atlanta Dream 79, Golden State Valkyries 65",
    "detected_at": "2026-10-20 10:14:49",
    "source": "SCORES",
@@ -10021,30 +10049,6 @@
    "detected_at": "2026-10-18 03:00:40",
    "source": "PLAYERS",
    "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED Nimari Burnett (TOR)",
-   "detected_at": "2026-10-18 03:00:40",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED Jalon Moore (NOP)",
-   "detected_at": "2026-10-18 03:00:40",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED Trevor Keels (WAS)",
-   "detected_at": "2026-10-18 03:00:40",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED Jameer Nelson Jr. (PHI)",
-   "detected_at": "2026-10-18 03:00:40",
-   "source": "PLAYERS",
-   "type": "REMOVED"
   }
  ],
  "feeds": {
@@ -10085,10 +10089,10 @@
    "last": "2026-10-20 10:12:55"
   },
   "WIKIWATCH": {
-   "count": 442,
-   "last": "2026-10-20 01:11:20"
+   "count": 446,
+   "last": "2026-10-20 10:24:56"
   }
  },
- "generated_at": "2026-10-20T10:14:53",
- "total": 32101
+ "generated_at": "2026-10-20T10:26:19",
+ "total": 32105
 }
