@@ -1,6 +1,41 @@
 {
  "events": [
   {
+   "detail": "Polish OBL Stal Ostrow Wielkopolski 87, Icon Sea Czarni Slupsk 84",
+   "detected_at": "2026-10-20 12:17:18",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-19/Stal-Ostrow-Wielkopolski-at-Icon-Sea-Czarni-Slupsk/531867"
+  },
+  {
+   "detail": "Adriatic League Liga ABA Dubai 108, Studentski Centar Podgorica 90",
+   "detected_at": "2026-10-20 12:17:14",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-19/Studentski-Centar-Podgorica-at-Dubai/537346"
+  },
+  {
+   "detail": "Adriatic League Liga ABA + Vuk Ivelja → Studentski Centar Podgorica",
+   "detected_at": "2026-10-20 12:17:12",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Serbian KLS KK Mladost Admiral Zemun 77, KK Dynamic 69",
+   "detected_at": "2026-10-20 12:17:10",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-19/KK-Mladost-Admiral-Zemun-at-KK-Dynamic/545084"
+  },
+  {
+   "detail": "Serbian KLS + Maksim Vujovic → KK Mladost Admiral Zemun",
+   "detected_at": "2026-10-20 12:17:09",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
    "detail": "Isaiah Wong  ~ team: Free agent -> Long Island Nets",
    "detected_at": "2026-10-20 11:51:35",
    "source": "WIKI",
@@ -10032,36 +10067,6 @@
    "detected_at": "2026-10-18 03:00:40",
    "source": "PLAYERS",
    "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED KJ Martin (MIN)",
-   "detected_at": "2026-10-18 03:00:40",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED Jonas Aidoo (UTA)",
-   "detected_at": "2026-10-18 03:00:40",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED Kevin Knox II (ORL)",
-   "detected_at": "2026-10-18 03:00:40",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED Jamarion Sharp (TOR)",
-   "detected_at": "2026-10-18 03:00:40",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED Tre'Von Spillers (CLE)",
-   "detected_at": "2026-10-18 03:00:40",
-   "source": "PLAYERS",
-   "type": "REMOVED"
   }
  ],
  "feeds": {
@@ -10082,12 +10087,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 9753,
-   "last": "2026-10-20 10:14:27"
+   "count": 9755,
+   "last": "2026-10-20 12:17:12"
   },
   "SCORES": {
-   "count": 2517,
-   "last": "2026-10-20 10:14:49"
+   "count": 2520,
+   "last": "2026-10-20 12:17:18"
   },
   "SHEETS": {
    "count": 5124,
@@ -10106,6 +10111,6 @@
    "last": "2026-10-20 10:24:56"
   }
  },
- "generated_at": "2026-10-20T12:16:04",
- "total": 32118
+ "generated_at": "2026-10-20T12:17:36",
+ "total": 32123
 }
