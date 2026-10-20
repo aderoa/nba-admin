@@ -1,6 +1,18 @@
 {
  "events": [
   {
+   "detail": "2026-27 Rookie Signings  - REMOVED DeAndre Williams Los Angeles Clippers",
+   "detected_at": "2026-10-20 17:07:57",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  DeAndre Williams (WAIVED) Los Angeles Clippers",
+   "detected_at": "2026-10-20 17:07:57",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "Japanese BLeague Ryukyu Golden Kings 99, Shiga Lakestars 67",
    "detected_at": "2026-10-20 16:57:00",
    "source": "SCORES",
@@ -9977,26 +9989,12 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Seth_Lundy"
-  },
-  {
-   "detail": "Seth Lundy  ~ number: 31 -> -",
-   "detected_at": "2026-10-18 03:39:11",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Seth_Lundy"
-  },
-  {
-   "detail": "Seth Lundy  ~ CAREER  + 2023–2024 →College Park Skyhawks <!--",
-   "detected_at": "2026-10-18 03:39:11",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Seth_Lundy"
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 4174,
-   "last": "2026-10-20 16:44:58"
+   "count": 4176,
+   "last": "2026-10-20 17:07:57"
   },
   "GLEAGUE": {
    "count": 200,
@@ -10035,6 +10033,6 @@
    "last": "2026-10-20 16:02:06"
   }
  },
- "generated_at": "2026-10-20T16:57:21",
- "total": 32455
+ "generated_at": "2026-10-20T17:08:05",
+ "total": 32457
 }
