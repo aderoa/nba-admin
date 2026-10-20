@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Rokas Giedraitis  ~ league: Liga ACB -> Liga ACB EuroCup",
+   "detected_at": "2026-10-20 17:42:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Rokas_Giedraitis"
+  },
+  {
+   "detail": "Kevin Yebo  ~ league: BSL -> BSL FIBA Europe Cup",
+   "detected_at": "2026-10-20 17:42:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kevin_Yebo"
+  },
+  {
+   "detail": "Kevin Yebo  ~ CAREER  + 2026 Tenerife",
+   "detected_at": "2026-10-20 17:42:36",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Kevin_Yebo"
+  },
+  {
    "detail": "~ CHANGED Jaden Akins  number: - -> 14",
    "detected_at": "2026-10-20 17:31:54",
    "source": "PLAYERS",
@@ -9945,27 +9966,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Baloncesto-Fuenlabrada-at-Grupo-Alega-Cantabria-Estela/532889"
-  },
-  {
-   "detail": "Lithuanian NKL Kretingos Kretinga 84, Kauno LKKA Atletas 72",
-   "detected_at": "2026-10-18 04:15:42",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Kretingos-Kretinga-at-Kauno-LKKA-Atletas/544552"
-  },
-  {
-   "detail": "Ukrainian Superleague BC Kharkiv 82, MBC Mykolaiv 65",
-   "detected_at": "2026-10-18 04:15:38",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/MBC-Mykolaiv-at-BC-Kharkiv/544864"
-  },
-  {
-   "detail": "Ukrainian Superleague + Denys Klevzunyk → BC Kharkiv",
-   "detected_at": "2026-10-18 04:15:36",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10002,14 +10002,14 @@
    "last": "2026-10-20 10:05:03"
   },
   "WIKI": {
-   "count": 6588,
-   "last": "2026-10-20 16:56:36"
+   "count": 6591,
+   "last": "2026-10-20 17:42:36"
   },
   "WIKIWATCH": {
    "count": 451,
    "last": "2026-10-20 16:02:06"
   }
  },
- "generated_at": "2026-10-20T17:34:04",
- "total": 32480
+ "generated_at": "2026-10-20T17:42:37",
+ "total": 32483
 }
