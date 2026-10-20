@@ -1,6 +1,181 @@
 {
  "events": [
   {
+   "detail": "Japanese BLeague Ryukyu Golden Kings 99, Shiga Lakestars 67",
+   "detected_at": "2026-10-20 16:57:00",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-19/Shiga-Lakestars-at-Ryukyu-Golden-Kings/524369"
+  },
+  {
+   "detail": "South Korean KBL Seoul SK 84, Anyang Kwan Jang 76",
+   "detected_at": "2026-10-20 16:56:55",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-20/Anyang-Kwan-Jang-at-Seoul-SK/530379"
+  },
+  {
+   "detail": "South Korean KBL + Sek-Eun Oh → Seoul SK",
+   "detected_at": "2026-10-20 16:56:53",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "South Korean KBL + Junbeom Jeon → Seoul SK",
+   "detected_at": "2026-10-20 16:56:53",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "VTB Youth United League Nizhny Novgorod 2 83, Yenisei 2 46",
+   "detected_at": "2026-10-20 16:56:51",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-20/Nizhny-Novgorod-2-at-Yenisei-2/543409"
+  },
+  {
+   "detail": "VTB Youth United League + Georgy Kadochkin → Nizhny Novgorod 2",
+   "detected_at": "2026-10-20 16:56:49",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "VTB Youth United League ~ RETURN Roman Nesterenko → Yenisei 2 (from Enisey Krasnoyarsk)",
+   "detected_at": "2026-10-20 16:56:49",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "Chinese CBA Shanxi Zhongyu 103, Ningbo Rockets 73",
+   "detected_at": "2026-10-20 16:56:46",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-20/Shanxi-Zhongyu-at-Ningbo-Rockets/542135"
+  },
+  {
+   "detail": "Chinese CBA + Weiyun Shao → Ningbo Rockets",
+   "detected_at": "2026-10-20 16:56:45",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Chinese CBA + Yuanxin Li → Ningbo Rockets",
+   "detected_at": "2026-10-20 16:56:45",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Chinese CBA Guangzhou Loong Lions 114, Nanjing Tongxi Monkey King 81",
+   "detected_at": "2026-10-20 16:56:43",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-20/Guangzhou-Loong-Lions-at-Nanjing-Tongxi-Monkey-King/542138"
+  },
+  {
+   "detail": "Chinese CBA + Xinhao Song → Guangzhou Loong Lions",
+   "detected_at": "2026-10-20 16:56:41",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Chinese CBA + Zhu Zixuan → Nanjing Tongxi Monkey King",
+   "detected_at": "2026-10-20 16:56:41",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Jazian Gortman  ~ team: Free agent -> Capital City Go-Go",
+   "detected_at": "2026-10-20 16:56:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jazian_Gortman"
+  },
+  {
+   "detail": "Jazian Gortman  ~ league: - -> NBA G League",
+   "detected_at": "2026-10-20 16:56:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jazian_Gortman"
+  },
+  {
+   "detail": "Jazian Gortman  ~ CAREER  + 2026–present Capital City Go-Go",
+   "detected_at": "2026-10-20 16:56:36",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Jazian_Gortman"
+  },
+  {
+   "detail": "Curtis Jones (basketball)  ~ team: Free agent -> Cleveland Charge",
+   "detected_at": "2026-10-20 16:56:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Curtis_Jones_(basketball)"
+  },
+  {
+   "detail": "Curtis Jones (basketball)  ~ league: - -> NBA G League",
+   "detected_at": "2026-10-20 16:56:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Curtis_Jones_(basketball)"
+  },
+  {
+   "detail": "Curtis Jones (basketball)  ~ CAREER  + 2026–present Cleveland Charge",
+   "detected_at": "2026-10-20 16:56:36",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Curtis_Jones_(basketball)"
+  },
+  {
+   "detail": "Nemanja Milošević  ~ team: - -> Hoops Club",
+   "detected_at": "2026-10-20 16:56:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Nemanja_Milo%C5%A1evi%C4%87"
+  },
+  {
+   "detail": "Nemanja Milošević  ~ league: - -> Lebanese Basketball League",
+   "detected_at": "2026-10-20 16:56:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Nemanja_Milo%C5%A1evi%C4%87"
+  },
+  {
+   "detail": "Nemanja Milošević  ~ position: Power forward -> Power forward / center",
+   "detected_at": "2026-10-20 16:56:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Nemanja_Milo%C5%A1evi%C4%87"
+  },
+  {
+   "detail": "Nemanja Milošević  ~ number: - -> 4",
+   "detected_at": "2026-10-20 16:56:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Nemanja_Milo%C5%A1evi%C4%87"
+  },
+  {
+   "detail": "Nemanja Milošević  ~ CAREER  + 2015–2016 New Basket Brindisi",
+   "detected_at": "2026-10-20 16:56:36",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Nemanja_Milo%C5%A1evi%C4%87"
+  },
+  {
+   "detail": "Nemanja Milošević  ~ CAREER  + 2025–2026 Hoops Club",
+   "detected_at": "2026-10-20 16:56:36",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Nemanja_Milo%C5%A1evi%C4%87"
+  },
+  {
    "detail": "2026-27 Rookie Signings  - REMOVED Aniwaniwa Tait-Jo (WAIVED) Los Angeles Lakers",
    "detected_at": "2026-10-20 16:44:58",
    "source": "DOCS",
@@ -9816,181 +9991,6 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Seth_Lundy"
-  },
-  {
-   "detail": "DeMar DeRozan  ~ position: Small forward -> Small forward / shooting guard",
-   "detected_at": "2026-10-18 03:39:11",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/DeMar_DeRozan"
-  },
-  {
-   "detail": "Tyus Jones  ~ height_in: 0 -> 1",
-   "detected_at": "2026-10-18 03:39:11",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Tyus_Jones"
-  },
-  {
-   "detail": "Alpha Diallo (basketball, born 1997)  ~ position: Small forward -> Shooting guard",
-   "detected_at": "2026-10-18 03:39:11",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Alpha_Diallo_(basketball,_born_1997)"
-  },
-  {
-   "detail": "Alpha Diallo (basketball, born 1997)  ~ nationality: American / Guinean -> -",
-   "detected_at": "2026-10-18 03:39:11",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Alpha_Diallo_(basketball,_born_1997)"
-  },
-  {
-   "detail": "Hugo Besson  ~ position: Shooting guard / small forward -> Shooting guard / point guard",
-   "detected_at": "2026-10-18 03:39:11",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Hugo_Besson"
-  },
-  {
-   "detail": "Tony Bradley  ~ 76384: team -> Free agent",
-   "detected_at": "2026-10-18 03:31:13",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "Utah Jazz"
-  },
-  {
-   "detail": "Tony Bradley  ~ 76384: league -> -",
-   "detected_at": "2026-10-18 03:31:13",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "NBA"
-  },
-  {
-   "detail": "Bruce Brown  ~ 85612: team -> Free agent",
-   "detected_at": "2026-10-18 03:22:30",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "New York Knicks"
-  },
-  {
-   "detail": "Bruce Brown  ~ 85612: league -> -",
-   "detected_at": "2026-10-18 03:22:30",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "NBA"
-  },
-  {
-   "detail": "Bruce Brown  ~ 85612: position -> Small forward / guard",
-   "detected_at": "2026-10-18 03:22:30",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "Small forward / shooting guard"
-  },
-  {
-   "detail": "Bruce Brown  ~ 85612: number -> -",
-   "detected_at": "2026-10-18 03:22:30",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "1"
-  },
-  {
-   "detail": "Drew Timme  ~ 117478: league -> -",
-   "detected_at": "2026-10-18 03:22:30",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "NBA"
-  },
-  {
-   "detail": "Drew Timme  ~ 117478: position -> Power Forward/Center",
-   "detected_at": "2026-10-18 03:22:30",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "Power forward"
-  },
-  {
-   "detail": "Drew Timme  ~ 117478: number -> -",
-   "detected_at": "2026-10-18 03:22:30",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "17"
-  },
-  {
-   "detail": "Jeremy Sochan  ~ 139379: team -> Portland Trail Blazers",
-   "detected_at": "2026-10-18 03:22:30",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": ""
-  },
-  {
-   "detail": "Jeremy Sochan  ~ 139379: number -> 4",
-   "detected_at": "2026-10-18 03:22:30",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": ""
-  },
-  {
-   "detail": "WNBA Golden State Valkyries 68, Atlanta Dream 64",
-   "detected_at": "2026-10-18 03:14:31",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-10-17/Atlanta-at-Golden-State/161830"
-  },
-  {
-   "detail": "Georgian Super Liga Iverioni 75, Kutaisi 74",
-   "detected_at": "2026-10-18 03:14:18",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-16/Kutaisi-at-Iverioni/543813"
-  },
-  {
-   "detail": "Georgian Super Liga + Antonio Patterson → Kutaisi",
-   "detected_at": "2026-10-18 03:14:16",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Primera FEB Palma Basquet Mallorca 94, Gipuzkoa Basket 90",
-   "detected_at": "2026-10-18 03:14:14",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-16/Palma-Basquet-Mallorca-at-Gipuzkoa-Basket/532893"
-  },
-  {
-   "detail": "BNXT League Landstede Zwolle 74, Belfius Mons Hainaut 57",
-   "detected_at": "2026-10-18 03:14:09",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Landstede-Zwolle-at-Belfius-Mons-Hainaut/527948"
-  },
-  {
-   "detail": "BNXT League Stella Artois Leuven Bears 72, Kortrijk Spurs 69",
-   "detected_at": "2026-10-18 03:14:05",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Kortrijk-Spurs-at-Stella-Artois-Leuven-Bears/527947"
-  },
-  {
-   "detail": "French Jeep Elite ASVEL Basket 97, CSP Limoges 94",
-   "detected_at": "2026-10-18 03:14:00",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/ASVEL-Basket-at-CSP-Limoges/538590"
-  },
-  {
-   "detail": "French LNB Espoirs Espoirs Dijon 69, Espoirs Gravelines Dunkerque 52",
-   "detected_at": "2026-10-18 03:13:56",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Espoirs-Dijon-at-Espoirs-Gravelines-Dunkerque/537599"
-  },
-  {
-   "detail": "French LNB Espoirs + Lucas Vacher-Rouls → Espoirs Dijon",
-   "detected_at": "2026-10-18 03:13:55",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10011,12 +10011,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 9808,
-   "last": "2026-10-20 15:48:55"
+   "count": 9816,
+   "last": "2026-10-20 16:56:53"
   },
   "SCORES": {
-   "count": 2536,
-   "last": "2026-10-20 15:48:57"
+   "count": 2541,
+   "last": "2026-10-20 16:57:00"
   },
   "SHEETS": {
    "count": 5199,
@@ -10027,14 +10027,14 @@
    "last": "2026-10-20 10:05:03"
   },
   "WIKI": {
-   "count": 6576,
-   "last": "2026-10-20 16:33:36"
+   "count": 6588,
+   "last": "2026-10-20 16:56:36"
   },
   "WIKIWATCH": {
    "count": 451,
    "last": "2026-10-20 16:02:06"
   }
  },
- "generated_at": "2026-10-20T16:48:17",
- "total": 32430
+ "generated_at": "2026-10-20T16:57:21",
+ "total": 32455
 }
