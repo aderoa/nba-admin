@@ -1,6 +1,869 @@
 {
  "events": [
   {
+   "detail": "2026-10-19  Traded: Jordan Minor (Magic)",
+   "detected_at": "2026-10-20 16:03:04",
+   "source": "GLEAGUE",
+   "type": "Trade"
+  },
+  {
+   "detail": "2026-10-19  Traded: Jalen Mcdaniels (Capitanes)",
+   "detected_at": "2026-10-20 16:03:04",
+   "source": "GLEAGUE",
+   "type": "Trade"
+  },
+  {
+   "detail": "2026-10-19  Traded: Justin Minaya (Capitanes)",
+   "detected_at": "2026-10-20 16:03:04",
+   "source": "GLEAGUE",
+   "type": "Trade"
+  },
+  {
+   "detail": "OKC  - REMOVED Tilly, Christoph",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "OKC  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 217822371 -> 216464608, col9: 786221799.8 -> 784864036.8",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "OKC  CHANGED Players Under Contract  -  col3: 215637255 -> 214279492",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "OKC  CHANGED Full Season Contracts  -  col3: 215637255 -> 214279492",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "OKC  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 15 -> 14",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "OKC  CHANGED Avg, Salary (Mean) (No 10-Day K's)  -  col6: 0 -> 1",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "ORL  - REMOVED Branham, Malaki",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "ORL  - REMOVED Davison, JD",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "ORL  - REMOVED Knox, Kevin",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "ORL  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 229848120 -> 222499857, col9: 802917896.6 -> 795569633.6",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "ORL  CHANGED Players Under Contract  -  col3: 217213583 -> 209865320",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "ORL  CHANGED Full Season Contracts  -  col3: 217213583 -> 209865320",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "ORL  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 17 -> 14",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "ORL  CHANGED Avg, Salary (Mean) (No 10-Day K's)  -  col6: 0 -> 1",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "PHL  - REMOVED Fall, Tacko",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "PHL  - REMOVED Jones, Dillon",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "PHL  - REMOVED Nelson Jr., Jameer",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "PHL  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 220262730.3 -> 214006125.3, col9: 654491439.7 -> 648234834.7",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "PHL  CHANGED Players Under Contract  -  col3: 213443077.3 -> 207186472.3",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "PHL  CHANGED Full Season Contracts  -  col3: 213443077.3 -> 207186472.3",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "PHL  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 17 -> 14",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "PHL  CHANGED Avg, Salary (Mean) (No 10-Day K's)  -  col6: 0 -> 1",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "PHX  - REMOVED Chandler, Kennedy",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "PHX  - REMOVED Highsmith, Haywood",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "PHX  - REMOVED Wheeler, Phillip",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "PHX  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 244297032.5 -> 237213074.5, col9: 757731057.4 -> 750647099.4",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "PHX  CHANGED Players Under Contract  -  col3: 197662992 -> 190579034",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "PHX  CHANGED Full Season Contracts  -  col3: 197662992 -> 190579034",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "PHX  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 17 -> 14",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "PHX  CHANGED Avg, Salary (Mean) (No 10-Day K's)  -  col6: 0 -> 1",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "POR  - REMOVED Sochan, Jeremy",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "POR  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 205997083.3 -> 203547662.3, col9: 501544490.4 -> 499095069.4",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "POR  CHANGED Players Under Contract  -  col3: 194274861.6 -> 191825440.6",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "POR  CHANGED Full Season Contracts  -  col3: 194274861.6 -> 191825440.6",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "POR  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 15 -> 14",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "POR  CHANGED Avg, Salary (Mean) (No 10-Day K's)  -  col6: 0 -> 1",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "SAC  - REMOVED Newton, Tristan",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "SAC  - REMOVED Payton, Elfrid",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "SAC  - REMOVED Monsanto, Damari",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "SAC  - REMOVED Nkrumah, Aaron",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "SAC  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 221247557.3 -> 213633189.3, col9: 485201587.6 -> 477587219.6",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "SAC  CHANGED Players Under Contract  -  col3: 201561192 -> 193946824",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "SAC  CHANGED Full Season Contracts  -  col3: 201561192 -> 193946824",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "SAC  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 18 -> 14",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "SAC  CHANGED Avg, Salary (Mean) (No 10-Day K's)  -  col6: 0 -> 1",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "TOR  - REMOVED Key, Tyreke",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "TOR  - REMOVED Burnett, Nimari",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "TOR  - REMOVED Degenhart, Tyson",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "TOR  - REMOVED Sharp, Jamarion",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "TOR  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 220495556 -> 214237151, col9: 700220287.6 -> 693961882.6",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "TOR  CHANGED Players Under Contract  -  col3: 207447293 -> 201188888",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "TOR  CHANGED Full Season Contracts  -  col3: 207447293 -> 201188888",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "TOR  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 18 -> 14",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "TOR  CHANGED Avg, Salary (Mean) (No 10-Day K's)  -  col6: 0 -> 1",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "UTH  - REMOVED Ingram, Harrison",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "UTH  - REMOVED Aidoo, Jonas",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "UTH  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 194657284.4 -> 190850100.4, col9: 716579945.1 -> 712772761.1",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "UTH  CHANGED Players Under Contract  -  col3: 186772284.4 -> 182965100.4",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "UTH  CHANGED Full Season Contracts  -  col3: 186772284.4 -> 182965100.4",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "UTH  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 17 -> 15",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "WAS  - REMOVED Keels, Trevor",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "WAS  - REMOVED Livingston, Chris",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "WAS  - REMOVED Williams, Alondes",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "WAS  - REMOVED Beekman, Reece",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "WAS  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 248163886.5 -> 238630507.5, col9: 611330670.5 -> 601797291.5",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "WAS  CHANGED Players Under Contract  -  col3: 203995894 -> 194462515",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "WAS  CHANGED Full Season Contracts  -  col3: 203995894 -> 194462515",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "WAS  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 19 -> 15",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col22: 15209255 -> 13851492, col23: 24785583.04 -> 17437320.04, Luxury Tax Calculator: 13015077.3 -> 6758472.3, col25: 20432042.52 -> 13348084.52, col27: 4466525.333 -> 0, col29: 7019293 -> 760888, (+1 more)",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 1st Incremental Tax Bracket  -  col27: 4466525.333 -> 0, col29: 5685000 -> 760888, col31: 3567894 -> 0",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 2nd Incremental Tax Bracket  -  Luxury Tax Calculator: 7106250 -> 1341840.375, col29: 1667866.25 -> 0",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 3rd Incremental Tax Bracket  -  col22: 13437392.5 -> 8685222, Luxury Tax Calculator: 5757770.55 -> 0, col25: 31267500 -> 10879464.88",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 4th Incremental Tax Bracket  -  col23: 27003750 -> 1816020.19, col25: 22795037.04 -> 0",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 5th Incremental Tax Bracket  -  col23: 10739310.96 -> 0",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col22: 26228642.5 -> 21476472, col23: 70431810.96 -> 34504770.19, Luxury Tax Calculator: 18549020.55 -> 7026840.375, col25: 89593787.04 -> 46410714.88, col27: 4466525.333 -> 0, col29: 7352866.25 -> 760888, (+1 more)",
+   "detected_at": "2026-10-20 16:03:01",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED Update 1.3 (7/18/26): O. Agbaji, B. Beal, J. Bernard, R. Beekman, S. Bey, L. Black, B. Boston, T. Bradley, J. Bridges, D. Brooks, K. Brooks, J. Broome, B. Brown, K. Brown, K. Bufkin, T. Burton, J. Butler Jr., K. Caldwell-Pope, D. Carter, K. Chandler, M. Cisse, Y. Collins, I. Crawford, J. Crutcher, J. Cumberland, S. Curry, N. Dante, J. Davison, D. DeRozan, H. Dickinson, J. Duren, D. Eubanks, T. Fall, K. George, A. Gill, J. Gortman, H. Gray, D. Green, J. Harden, M. Hezonja, H. Highsmith, C. Houstan, C. Houstan, H. Ingram, A. Jackson, L. James, J. Johnson, K. Johnson, C. Jones D. Jones, S. Jones, Y. Kawamura, T. Keels, K. Kelley, M. Kelly, K. Knox, C. Koloko, J. Konchar, J. Kuminga, S. Labissiere, P. Larsson, K. Leonard, K. Lewis, C. Livingston, L. Lovering, S. Lundy, N. Marshall, J. Martin, K. Martin, B. Mathurin, B. Mbeng, G. McGlothan, D. Melton, E. Miller, T. Newton, G. Niang, M. Nowell, T. Okani, N. Omier, E. Payton, G. Payton, T. Peter, D. Peterson, J. Phillips, D. Plowden, B. Podziemski, D. Powell, J. Preston, P. Pritchard, L. Quinones, D. Reath, N. Richards, K. Richmond, A. Reeves, L. Robbins, O. Robinson, H. Sallis, P. Sandfort, J. Schakel, M. Sears, J. Shead, B. Simmons, D. Smith, M. Smith, Z. Smith, J. Sochan, I. Stevens, D. Stockton, C. Swider, J. Tate, T. Taylor, J. Telfort, D. Terry, A. Thompson, A. Thompson, K. Thompson, M. Thybulle, D. Timme, A. Toohey, O. Tshiebwe, M. Wagner, L. Walker, J. Walsh, T. Watford, A. Watson, P. Watson, B. Wesley, P. Wheeler, A. Williams, B. Williams, M. Williams, J. Wiseman, I. Wong, J. Young",
+   "detected_at": "2026-10-20 16:02:57",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Update 1.3 (7/18/26): O. Agbaji, B. Beal, J. Bernard, R. Beekman, S. Bey, L. Black, B. Boston, T. Bradley, J. Bridges, D. Brooks, K. Brooks, J. Broome, B. Brown, K. Brown, K. Bufkin, T. Burton, J. Butler Jr., K. Caldwell-Pope, D. Carter, K. Chandler, M. Cisse, Y. Collins, I. Crawford, J. Crutcher, J. Cumberland, S. Curry, N. Dante, J. Davison, D. DeRozan, H. Dickinson, J. Duren, D. Eubanks, T. Fall, K. George, A. Gill, J. Gortman, H. Gray, D. Green, J. Harden, M. Hezonja, H. Highsmith, C. Houstan, C. Houstan, H. Ingram, A. Jackson, L. James, J. Johnson, K. Johnson, C. Jones D. Jones, S. Jones, Y. Kawamura, T. Keels, K. Kelley, M. Kelly, K. Knox, C. Koloko, J. Konchar, J. Kuminga, S. Labissiere, P. Larsson, K. Leonard, K. Lewis, C. Livingston, L. Lovering, S. Lundy, N. Marshall, J. Martin, K. Martin, B. Mathurin, B. Mbeng, G. McGlothan, D. Melton, E. Miller, T. Newton, G. Niang, M. Nowell, T. Okani, N. Omier, M. Oni, E. Payton, G. Payton, T. Peter, D. Peterson, J. Phillips, D. Plowden, B. Podziemski, D. Powell, J. Preston, P. Pritchard, L. Quinones, D. Reath, N. Richards, K. Richmond, A. Reeves, L. Robbins, O. Robinson, H. Sallis, P. Sandfort, J. Schakel, M. Sears, J. Shead, B. Simmons, D. Smith, M. Smith, Z. Smith, J. Sochan, I. Stevens, D. Stockton, C. Swider, J. Tate, T. Taylor, J. Telfort, D. Terry, A. Thompson, A. Thompson, K. Thompson, M. Thybulle, D. Timme, A. Toohey, O. Tshiebwe, M. Wagner, L. Walker, J. Walsh, T. Watford, A. Watson, P. Watson, B. Wesley, P. Wheeler, A. Williams, B. Williams, M. Williams, J. Wiseman, I. Wong, J. Young",
+   "detected_at": "2026-10-20 16:02:57",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED Reece Beekman Washington Wizards",
+   "detected_at": "2026-10-20 16:02:57",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Reece Beekman (WAIVED) Washington Wizards",
+   "detected_at": "2026-10-20 16:02:57",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED Malaki Branham Orlando Magic",
+   "detected_at": "2026-10-20 16:02:57",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Malaki Branham (WAIVED) Orlando Magic",
+   "detected_at": "2026-10-20 16:02:57",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED Kendall Brown San Antonio Spurs",
+   "detected_at": "2026-10-20 16:02:57",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Kendall Brown (WAIVED) San Antonio Spurs",
+   "detected_at": "2026-10-20 16:02:57",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED Kennedy Chandler Phoenix Suns",
+   "detected_at": "2026-10-20 16:02:57",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Kennedy Chandler (WAIVED) Phoenix Suns",
+   "detected_at": "2026-10-20 16:02:57",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED JD Davison Orlando Magic",
+   "detected_at": "2026-10-20 16:02:57",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  JD Davison (WAIVED) Orlando Magic",
+   "detected_at": "2026-10-20 16:02:57",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED Tacko Fall Philadelphia 76ers",
+   "detected_at": "2026-10-20 16:02:57",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Tacko Fall (CONVERTED) Philadelphia 76ers",
+   "detected_at": "2026-10-20 16:02:57",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED Haywood Highsmith Phoenix Suns",
+   "detected_at": "2026-10-20 16:02:57",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Haywood Highsmith (WAIVED) Phoenix Suns",
+   "detected_at": "2026-10-20 16:02:57",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED Harrison Ingram Utah Jazz",
+   "detected_at": "2026-10-20 16:02:57",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Harrison Ingram (CONVERTED) Utah Jazz",
+   "detected_at": "2026-10-20 16:02:57",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED Dillon Jones Philadelphia 76ers",
+   "detected_at": "2026-10-20 16:02:57",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Dillon Jones (WAIVED) Philadelphia 76ers",
+   "detected_at": "2026-10-20 16:02:57",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED Trevor Keels Washington Wizards",
+   "detected_at": "2026-10-20 16:02:57",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Trevor Keels (WAIVED) Washington Wizards",
+   "detected_at": "2026-10-20 16:02:57",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED Tyreke Key Toronto Raptors",
+   "detected_at": "2026-10-20 16:02:57",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Tyreke Key (WAIVED) Toronto Raptors",
+   "detected_at": "2026-10-20 16:02:57",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED Kevin Knox Orlando Magic",
+   "detected_at": "2026-10-20 16:02:57",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Kevin Knox (WAIVED) Orlando Magic",
+   "detected_at": "2026-10-20 16:02:57",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED Chris Livingston Washington Wizards",
+   "detected_at": "2026-10-20 16:02:57",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Chris Livingston (WAIVED) Washington Wizards",
+   "detected_at": "2026-10-20 16:02:57",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Nathan MEnsa (WAIVED) Los Angeles Clippers",
+   "detected_at": "2026-10-20 16:02:57",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  26-27 $2,537,526",
+   "detected_at": "2026-10-20 16:02:57",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
+   "detected_at": "2026-10-20 16:02:57",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 10/15/26",
+   "detected_at": "2026-10-20 16:02:57",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED Tristan Newton Sacramento Kings",
+   "detected_at": "2026-10-20 16:02:57",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Tristan Newton (WAIVED) Sacramento Kings",
+   "detected_at": "2026-10-20 16:02:57",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Miye Oni (WAIVED) Los Angeles Clippers",
+   "detected_at": "2026-10-20 16:02:57",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  26-27 $2,537,526",
+   "detected_at": "2026-10-20 16:02:57",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Minimum Salary Exception. Physical Exam. Exh. 9 - Training Camp. Exh. 10 - Affiliate Player ($91,000).",
+   "detected_at": "2026-10-20 16:02:57",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 10/15/26",
+   "detected_at": "2026-10-20 16:02:57",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED Elfrid Payton Sacramento Kings",
+   "detected_at": "2026-10-20 16:02:57",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Elfrid Payton (WAIVED) Sacramento Kings",
+   "detected_at": "2026-10-20 16:02:57",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED Jeremy Sochan Portland Trail Blazers",
+   "detected_at": "2026-10-20 16:02:57",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Jeremy Sochan (WAIVED) Portland Trail Blazers",
+   "detected_at": "2026-10-20 16:02:57",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED Phillip Wheeler Phoenix Suns",
+   "detected_at": "2026-10-20 16:02:57",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Phillip Wheeler (WAIVED) Phoenix Suns",
+   "detected_at": "2026-10-20 16:02:57",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED Alondes Williams Washington Wizards",
+   "detected_at": "2026-10-20 16:02:57",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Alondes Williams (WAIVED) Washington Wizards",
+   "detected_at": "2026-10-20 16:02:57",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  - REMOVED Jonas Aidoo Utah Jazz",
+   "detected_at": "2026-10-20 16:02:57",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Jonas Aidoo (WAIVED) Utah Jazz",
+   "detected_at": "2026-10-20 16:02:57",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  - REMOVED Zach Austin Portland Trail Blazers",
+   "detected_at": "2026-10-20 16:02:57",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Zach Austin (WAIVED) Cleveland Cavaliers",
+   "detected_at": "2026-10-20 16:02:57",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  - REMOVED Nimari Burnett Toronto Raptors",
+   "detected_at": "2026-10-20 16:02:57",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Nimari Burnett (WAIVED) Toronto Raptors",
+   "detected_at": "2026-10-20 16:02:57",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  - REMOVED Tyson Degenhart Toronto Raptors",
+   "detected_at": "2026-10-20 16:02:57",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Tyson Degenhart (WAIVED) Toronto Raptors",
+   "detected_at": "2026-10-20 16:02:57",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  - REMOVED Jameer Nelson Jr. Philadelphia 76ers",
+   "detected_at": "2026-10-20 16:02:57",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Jameer Nelson Jr. (WAIVED) Philadelphia 76ers",
+   "detected_at": "2026-10-20 16:02:57",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  - REMOVED Jamarion Sharp Toronto Raptors",
+   "detected_at": "2026-10-20 16:02:57",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Jamarion Sharp (WAIVED) Toronto Raptors",
+   "detected_at": "2026-10-20 16:02:57",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  - REMOVED Christoph Tilly Oklahoma City Thunder",
+   "detected_at": "2026-10-20 16:02:57",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Christoph Tilly (WAIVED) Oklahoma City Thunder",
+   "detected_at": "2026-10-20 16:02:57",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "Kevin Porter  ~ 95883: league -> NBA",
+   "detected_at": "2026-10-20 16:02:06",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": ""
+  },
+  {
+   "detail": "Walter Clayton  ~ 183386: team -> -",
+   "detected_at": "2026-10-20 16:02:06",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Free agent"
+  },
+  {
+   "detail": "Walter Clayton  ~ 183386: league -> NBA",
+   "detected_at": "2026-10-20 16:02:06",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": ""
+  },
+  {
+   "detail": "Micah Peavy  ~ 117378: team -> -",
+   "detected_at": "2026-10-20 16:02:06",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Free agent"
+  },
+  {
+   "detail": "Micah Peavy  ~ 117378: league -> NBA",
+   "detected_at": "2026-10-20 16:02:06",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": ""
+  },
+  {
    "detail": "Argentinian Liga A Ciclista Olimpico 83, Regatas Corrientes 80",
    "detected_at": "2026-10-20 15:48:57",
    "source": "SCORES",
@@ -9194,984 +10057,16 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "German Pro B Art Giants Dusseldorf 76, BG Hagen 70",
-   "detected_at": "2026-10-18 03:11:45",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Art-Giants-Dusseldorf-at-BG-Hagen/525527"
-  },
-  {
-   "detail": "Spanish Segunda FEB Clinica Ponferrada SDP 83, CB Getafe 60",
-   "detected_at": "2026-10-18 03:11:41",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/CB-Getafe-at-Clinica-Ponferrada-SDP/527598"
-  },
-  {
-   "detail": "Spanish Segunda FEB + Juanjo Bravo → Clinica Ponferrada SDP",
-   "detected_at": "2026-10-18 03:11:39",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Israeli BSL Hapoel Bank Yahav Jerusalem 88, Hapoel Beer Sheva 74",
-   "detected_at": "2026-10-18 03:11:37",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Hapoel-Beer-Sheva-at-Hapoel-Bank-Yahav-Jerusalem/535766"
-  },
-  {
-   "detail": "Israeli BSL + Brian Cameron → Hapoel Beer Sheva",
-   "detected_at": "2026-10-18 03:11:35",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Israeli BSL + Matan Fogel → Hapoel Beer Sheva",
-   "detected_at": "2026-10-18 03:11:35",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Pro A Artland Dragons 97, BBC Bayreuth 86",
-   "detected_at": "2026-10-18 03:11:32",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Artland-Dragons-at-BBC-Bayreuth/528115"
-  },
-  {
-   "detail": "German Pro A ~ RETURN Elijah Ndi → Artland Dragons (from SC Rasta Vechta)",
-   "detected_at": "2026-10-18 03:11:31",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "German Pro A + Leo Friedlein → BBC Bayreuth",
-   "detected_at": "2026-10-18 03:11:31",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Greek HEBA A1 Aris Midea Thessaloniki 74, Maroussi BC 57",
-   "detected_at": "2026-10-18 03:11:28",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Maroussi-BC-at-Aris-Midea-Thessaloniki/543211"
-  },
-  {
-   "detail": "Greek HEBA A1 + Chrysostomos Chatzilamprou → Aris Midea Thessaloniki",
-   "detected_at": "2026-10-18 03:11:26",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Austrian A Bundesliga ece bulls Kapfenberg 96, BK Klosterneuburg Dukes 75",
-   "detected_at": "2026-10-18 03:11:24",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/BK-Klosterneuburg-Dukes-at-ece-bulls-Kapfenberg/531752"
-  },
-  {
-   "detail": "Turkish BSL Tofas SC 71, Korfez Mansia 69",
-   "detected_at": "2026-10-18 03:11:20",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Tofas-SC-at-Korfez-Mansia/541378"
-  },
-  {
-   "detail": "Turkish BSL Bahcesehir Koleji 90, Bursaspor 80",
-   "detected_at": "2026-10-18 03:11:16",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Bahcesehir-Koleji-at-Bursaspor/541377"
-  },
-  {
-   "detail": "Turkish BSL Bordo Sportif Balikesir 79, Turk Telekom 66",
-   "detected_at": "2026-10-18 03:11:12",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Turk-Telekom-at-Bordo-Sportif-Balikesir/541376"
-  },
-  {
-   "detail": "Turkish BSL + Mehmet Kizil → Bordo Sportif Balikesir",
-   "detected_at": "2026-10-18 03:11:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Pro A Rhein Stars Koeln 78, Giessen 46ers 76",
-   "detected_at": "2026-10-18 03:11:08",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Rhein-Stars-Koeln-at-Giessen-46ers/528114"
-  },
-  {
-   "detail": "German Pro B Dragons Rhoendorf 72, SV Fellbach 57",
-   "detected_at": "2026-10-18 03:11:03",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/SV-Fellbach-at-Dragons-Rhoendorf/525698"
-  },
-  {
-   "detail": "German Pro B + Marvin Nduche → Dragons Rhoendorf",
-   "detected_at": "2026-10-18 03:11:02",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Turkish TBL Ankaragucu Mamak 93, Torku Konyaspor 88",
-   "detected_at": "2026-10-18 03:10:59",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Torku-Konyaspor-at-Ankaragucu-Mamak/534770"
-  },
-  {
-   "detail": "Spanish Segunda FEB Basket Cartagena 85, CB Prat 82",
-   "detected_at": "2026-10-18 03:10:56",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/CB-Prat-at-Basket-Cartagena/527772"
-  },
-  {
-   "detail": "Spanish Segunda FEB + Carlos Toledo → Basket Cartagena",
-   "detected_at": "2026-10-18 03:10:54",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB + David Yanez Gambin → Basket Cartagena",
-   "detected_at": "2026-10-18 03:10:54",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB LogroBasket Logi7 79, Proinbeni UPB Gandia 75",
-   "detected_at": "2026-10-18 03:10:52",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/LogroBasket-Logi7-at-Proinbeni-UPB-Gandia/527773"
-  },
-  {
-   "detail": "Bulgarian NBL Minyor 2015 96, Akademik Bulteks 99 Plovdiv 93",
-   "detected_at": "2026-10-18 03:10:48",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Minyor-2015-at-Akademik-Bulteks-99-Plovdiv/537237"
-  },
-  {
-   "detail": "Bulgarian NBL + Petar Ralchev → Akademik Bulteks 99 Plovdiv",
-   "detected_at": "2026-10-18 03:10:46",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Turkish TBL Kahramanmaras Kipas Istiklal 74, Harem Spor 69",
-   "detected_at": "2026-10-18 03:10:44",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Kahramanmaras-Kipas-Istiklal-at-Harem-Spor/534767"
-  },
-  {
-   "detail": "Turkish TBL Fenerbache Koleji 2nd Team 87, Demir Insaat Buyukcekmece 85",
-   "detected_at": "2026-10-18 03:10:40",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Fenerbache-Koleji-2nd-Team-at-Demir-Insaat-Buyukcekmece/534765"
-  },
-  {
-   "detail": "Bulgarian NBL + Iliyan Iliev → Lokomotiv Plovdiv",
-   "detected_at": "2026-10-18 03:10:34",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Super League Basketball Surrey 89ers 107, Leicester Riders 102",
-   "detected_at": "2026-10-18 03:10:32",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Leicester-Riders-at-Surrey-89ers/535542"
-  },
-  {
-   "detail": "Super League Basketball + Re'Ale Basquine → Surrey 89ers",
-   "detected_at": "2026-10-18 03:10:30",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Turkish TBL Ormanspor Genc Ankara 89, Royal Hali Gaziantep 85",
-   "detected_at": "2026-10-18 03:10:28",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Royal-Hali-Gaziantep-at-Ormanspor-Genc-Ankara/534771"
-  },
-  {
-   "detail": "Turkish TBL Goztepe 103, Kecioren Baglum 84",
-   "detected_at": "2026-10-18 03:10:24",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Kecioren-Baglum-at-Goztepe/534764"
-  },
-  {
-   "detail": "Turkish TBL + Baran Yurdusen → Kecioren Baglum",
-   "detected_at": "2026-10-18 03:10:23",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Pro A BG Gottingen 95, Nurnberg Falcons BC 74",
-   "detected_at": "2026-10-18 03:10:20",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Nurnberg-Falcons-BC-at-BG-Gottingen/528113"
-  },
-  {
-   "detail": "Spanish Primera FEB Coto Cordoba CB 83, Caja 87 81",
-   "detected_at": "2026-10-18 03:10:16",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Caja-87-at-Coto-Cordoba-CB/532887"
-  },
-  {
-   "detail": "Spanish Primera FEB + Manuel Trujillo → Coto Cordoba CB",
-   "detected_at": "2026-10-18 03:10:15",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Swiss LNA Les Lions de Geneve 91, Union Neuchatel Basket 41",
-   "detected_at": "2026-10-18 03:10:13",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Les-Lions-de-Geneve-at-Union-Neuchatel-Basket/534116"
-  },
-  {
-   "detail": "Spanish Segunda FEB Amics Castello 68, Sol Girones Bisbal Basquet 55",
-   "detected_at": "2026-10-18 03:10:08",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Amics-Castello-at-Sol-Girones-Bisbal-Basquet/527771"
-  },
-  {
-   "detail": "German Pro B Hertener Loewen Basketball 65, BSW Sixers 58",
-   "detected_at": "2026-10-18 03:10:04",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Hertener-Loewen-Basketball-at-BSW-Sixers/525522"
-  },
-  {
-   "detail": "German Pro A Bozic Estriche Knights Kirchheim 100, Gartenzaun24 Baskets Paderborn 82",
-   "detected_at": "2026-10-18 03:10:00",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Gartenzaun24-Baskets-Paderborn-at-Bozic-Estriche-Knights-Kirchheim/528112"
-  },
-  {
-   "detail": "German Pro A Eisbaren Bremerhaven 97, ETB Miners Essen 94",
-   "detected_at": "2026-10-18 03:09:57",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/ETB-Miners-Essen-at-Eisbaren-Bremerhaven/528111"
-  },
-  {
-   "detail": "German Pro A + Sami Jahan → Eisbaren Bremerhaven",
-   "detected_at": "2026-10-18 03:09:55",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Lithuanian LKL 7Bet Lietkabelis Panevezys 73, Kedainiai Nevezis 72",
-   "detected_at": "2026-10-18 03:09:53",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/7Bet-Lietkabelis-Panevezys-at-Kedainiai-Nevezis/532721"
-  },
-  {
-   "detail": "Lithuanian LKL + Xander Rice → Kedainiai Nevezis",
-   "detected_at": "2026-10-18 03:09:51",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Austrian A Bundesliga Arkadia Traiskirchen Lions 79, Kufstein Towers 52",
-   "detected_at": "2026-10-18 03:09:49",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Kufstein-Towers-at-Arkadia-Traiskirchen-Lions/531751"
-  },
-  {
-   "detail": "Romanian Divizia A SCM Mozzart Bet Timisoara 105, CSM Phoenix Galati 102",
-   "detected_at": "2026-10-18 03:09:45",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/SCM-Mozzart-Bet-Timisoara-at-CSM-Phoenix-Galati/538811"
-  },
-  {
-   "detail": "Romanian Divizia A + Georges Darwiche → CSM Phoenix Galati",
-   "detected_at": "2026-10-18 03:09:44",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Swiss LNA Fribourg Olympic 89, Zurich 43",
-   "detected_at": "2026-10-18 03:09:41",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Fribourg-Olympic-at-Zurich/534115"
-  },
-  {
-   "detail": "Swiss LNA + Chris Lykes → Fribourg Olympic",
-   "detected_at": "2026-10-18 03:09:40",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Swiss LNA SAM Basket Massagno 102, Lugano Tigers 72",
-   "detected_at": "2026-10-18 03:09:38",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/SAM-Basket-Massagno-at-Lugano-Tigers/534113"
-  },
-  {
-   "detail": "Swiss LNA ~ MOVED Killian Martin → SAM Basket Massagno (from BC Rilski Sportist)",
-   "detected_at": "2026-10-18 03:09:36",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
-  },
-  {
-   "detail": "Swiss LNA + Frank Paulino → Lugano Tigers",
-   "detected_at": "2026-10-18 03:09:36",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Pro B Fraport Skyliners Juniors 89, Porsche BBA 78",
-   "detected_at": "2026-10-18 03:09:34",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Fraport-Skyliners-Juniors-at-Porsche-BBA/525702"
-  },
-  {
-   "detail": "German Pro B ~ MOVED Jamie Edoka → Fraport Skyliners Juniors (from Fraport Skyliners)",
-   "detected_at": "2026-10-18 03:09:33",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
-  },
-  {
-   "detail": "Lithuanian LKL Neptunas 84, Jonava Jonavos 83",
-   "detected_at": "2026-10-18 03:09:30",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Neptunas-at-Jonava-Jonavos/532720"
-  },
-  {
-   "detail": "Greek HEBA A1 PAOK BC 88, Kolossos Rodou BC 84",
-   "detected_at": "2026-10-18 03:09:26",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/PAOK-BC-at-Kolossos-Rodou-BC/543031"
-  },
-  {
-   "detail": "Greek HEBA A1 Iraklis BC 71, AS Karditsas 53",
-   "detected_at": "2026-10-18 03:09:22",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/AS-Karditsas-at-Iraklis-BC/543118"
-  },
-  {
-   "detail": "Greek HEBA A1 + Kostas Kabouridis → AS Karditsas",
-   "detected_at": "2026-10-18 03:09:21",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Greek HEBA A1 + Tasos Cook → Iraklis BC",
-   "detected_at": "2026-10-18 03:09:21",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Greek HEBA A1 ASP Promitheas Patras 80, AE Doxa Lefkadas 79",
-   "detected_at": "2026-10-18 03:09:18",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/ASP-Promitheas-Patras-at-AE-Doxa-Lefkadas/543178"
-  },
-  {
-   "detail": "Greek HEBA A1 + Nikos Arsenopoulos → AE Doxa Lefkadas",
-   "detected_at": "2026-10-18 03:09:17",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Greek HEBA A1 + Ioannis Sachpatzidis → AE Doxa Lefkadas",
-   "detected_at": "2026-10-18 03:09:17",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Lithuanian LKL Lietuvos Rytas 95, Siauliai 88",
-   "detected_at": "2026-10-18 03:09:15",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Lietuvos-Rytas-at-Siauliai/532719"
-  },
-  {
-   "detail": "Greek HEBA A1 AEK Athens 84, Mykonos 79",
-   "detected_at": "2026-10-18 03:09:11",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Mykonos-at-AEK-Athens/542976"
-  },
-  {
-   "detail": "Greek HEBA A1 + Derrick Williams → AEK Athens",
-   "detected_at": "2026-10-18 03:09:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Greek HEBA A1 + Greg Brown III → AEK Athens",
-   "detected_at": "2026-10-18 03:09:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague Akita Northern Happinets 102, Shinshu Brave Warriors 95",
-   "detected_at": "2026-10-18 03:09:07",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Shinshu-Brave-Warriors-at-Akita-Northern-Happinets/524352"
-  },
-  {
-   "detail": "Japanese BLeague + Takuya Nakayama → Akita Northern Happinets",
-   "detected_at": "2026-10-18 03:09:06",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague Sendai 89ers 85, Link Tochigi Brex 81",
-   "detected_at": "2026-10-18 03:09:04",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Link-Tochigi-Brex-at-Sendai-89ers/524351"
-  },
-  {
-   "detail": "James Woodard  ~ number: - -> 10",
-   "detected_at": "2026-10-18 03:08:54",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/James_Woodard"
-  },
-  {
-   "detail": "Aleksandar Lazić  ~ number: 13 -> 8",
-   "detected_at": "2026-10-18 03:08:54",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Aleksandar_Lazi%C4%87"
-  },
-  {
-   "detail": "Lazar Stefanović (basketball)  ~ number: - -> 1",
-   "detected_at": "2026-10-18 03:08:54",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Lazar_Stefanovi%C4%87_(basketball)"
-  },
-  {
-   "detail": "Sergio de Larrea  ~ weight_lb: 204 -> 175",
-   "detected_at": "2026-10-18 03:08:54",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Sergio_de_Larrea"
-  },
-  {
-   "detail": "Devin Carter  ~ CAREER  + 2026–present →Maine Celtics",
-   "detected_at": "2026-10-18 03:08:53",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Devin_Carter"
-  },
-  {
-   "detail": "Dwight Powell  ~ height_in: 10 -> 11",
-   "detected_at": "2026-10-18 03:08:53",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Dwight_Powell"
-  },
-  {
-   "detail": "Drew Timme  ~ team: Minnesota Timberwolves -> Free agent",
-   "detected_at": "2026-10-18 03:08:53",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Drew_Timme"
-  },
-  {
-   "detail": "Drew Timme  ~ CAREER  + Minnesota Timberwolves",
-   "detected_at": "2026-10-18 03:08:53",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Drew_Timme"
-  },
-  {
-   "detail": "Reece Beekman  ~ team: Capital City Go-Go -> Washington Wizards",
-   "detected_at": "2026-10-18 03:08:53",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Reece_Beekman"
-  },
-  {
-   "detail": "Reece Beekman  ~ league: NBA G League -> NBA",
-   "detected_at": "2026-10-18 03:08:53",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Reece_Beekman"
-  },
-  {
-   "detail": "Reece Beekman  ~ CAREER  + –present Washington Wizards",
-   "detected_at": "2026-10-18 03:08:53",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Reece_Beekman"
-  },
-  {
-   "detail": "Reece Beekman  ~ CAREER  + 2026–present →Capital City Go-Go",
-   "detected_at": "2026-10-18 03:08:53",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Reece_Beekman"
-  },
-  {
-   "detail": "Antonio Reeves  ~ team: Minnesota Timberwolves -> Free agent",
-   "detected_at": "2026-10-18 03:08:53",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Antonio_Reeves"
-  },
-  {
-   "detail": "Antonio Reeves  ~ CAREER  + Minnesota Timberwolves",
-   "detected_at": "2026-10-18 03:08:53",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Antonio_Reeves"
-  },
-  {
-   "detail": "P. J. Washington  ~ height_in: 7 -> 6",
-   "detected_at": "2026-10-18 03:08:53",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/P._J._Washington"
-  },
-  {
-   "detail": "John Poulakidas  ~ team: Dallas Mavericks -> Free agent",
-   "detected_at": "2026-10-18 03:08:53",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/John_Poulakidas"
-  },
-  {
-   "detail": "John Poulakidas  ~ league: NBA -> -",
-   "detected_at": "2026-10-18 03:08:53",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/John_Poulakidas"
-  },
-  {
-   "detail": "John Poulakidas  ~ number: 1 -> -",
-   "detected_at": "2026-10-18 03:08:53",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/John_Poulakidas"
-  },
-  {
-   "detail": "John Poulakidas  ~ CAREER  + Dallas Mavericks",
-   "detected_at": "2026-10-18 03:08:53",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/John_Poulakidas"
-  },
-  {
-   "detail": "John Poulakidas  ~ CAREER  + 2026 →Texas Legends",
-   "detected_at": "2026-10-18 03:08:53",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/John_Poulakidas"
-  },
-  {
-   "detail": "Marcus Sasser  ~ height_in: 1 -> 2",
-   "detected_at": "2026-10-18 03:08:53",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Marcus_Sasser"
-  },
-  {
-   "detail": "Kenyon Martin Jr.  ~ team: Minnesota Timberwolves -> Free agent",
-   "detected_at": "2026-10-18 03:08:53",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Kenyon_Martin_Jr."
-  },
-  {
-   "detail": "Kenyon Martin Jr.  ~ CAREER  + Minnesota Timberwolves",
-   "detected_at": "2026-10-18 03:08:53",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Kenyon_Martin_Jr."
-  },
-  {
-   "detail": "Enrique Freeman  ~ team: Minnesota Timberwolves -> Free agent",
-   "detected_at": "2026-10-18 03:08:53",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Enrique_Freeman"
-  },
-  {
-   "detail": "Enrique Freeman  ~ CAREER  + Minnesota Timberwolves",
-   "detected_at": "2026-10-18 03:08:53",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Enrique_Freeman"
-  },
-  {
-   "detail": "Enrique Freeman  ~ CAREER  + →Iowa Wolves",
-   "detected_at": "2026-10-18 03:08:53",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Enrique_Freeman"
-  },
-  {
-   "detail": "Norchad Omier  ~ team: Minnesota Timberwolves -> Free agent",
-   "detected_at": "2026-10-18 03:08:53",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Norchad_Omier"
-  },
-  {
-   "detail": "Norchad Omier  ~ CAREER  + Minnesota Timberwolves",
-   "detected_at": "2026-10-18 03:08:53",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Norchad_Omier"
-  },
-  {
-   "detail": "Cam Christie  ~ team: Free agent -> Los Angeles Clippers",
-   "detected_at": "2026-10-18 03:08:53",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Cam_Christie"
-  },
-  {
-   "detail": "Cam Christie  ~ league: - -> NBA",
-   "detected_at": "2026-10-18 03:08:53",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Cam_Christie"
-  },
-  {
-   "detail": "Cam Christie  ~ number: - -> 24",
-   "detected_at": "2026-10-18 03:08:53",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Cam_Christie"
-  },
-  {
-   "detail": "Cam Christie  ~ CAREER  + –present Los Angeles Clippers",
-   "detected_at": "2026-10-18 03:08:53",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Cam_Christie"
-  },
-  {
-   "detail": "Cam Christie  ~ CAREER  + 2024–present →San Diego Clippers",
-   "detected_at": "2026-10-18 03:08:53",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Cam_Christie"
-  },
-  {
-   "detail": "Lorenzo Brown  ~ league: Israeli Premier League EuroCup -> Israeli Basketball Premier League EuroCup",
-   "detected_at": "2026-10-18 03:08:53",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Lorenzo_Brown"
-  },
-  {
-   "detail": "Jeremy Sochan  ~ team: Portland Trail Blazers -> -",
-   "detected_at": "2026-10-18 03:08:53",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jeremy_Sochan"
-  },
-  {
-   "detail": "Jeremy Sochan  ~ number: 4 -> -",
-   "detected_at": "2026-10-18 03:08:53",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jeremy_Sochan"
-  },
-  {
-   "detail": "Jeremy Sochan  ~ CAREER  + Portland Trail Blazers",
-   "detected_at": "2026-10-18 03:08:53",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Jeremy_Sochan"
-  },
-  {
-   "detail": "Blake Wesley (basketball)  ~ CAREER  + Los Angeles Clippers",
-   "detected_at": "2026-10-18 03:08:53",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Blake_Wesley_(basketball)"
-  },
-  {
-   "detail": "Harrison Ingram  ~ number: 55 -> 00",
-   "detected_at": "2026-10-18 03:08:53",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Harrison_Ingram"
-  },
-  {
-   "detail": "Harrison Ingram  ~ CAREER  + 2026–present →Salt Lake City Stars",
-   "detected_at": "2026-10-18 03:08:53",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Harrison_Ingram"
-  },
-  {
-   "detail": "2026-10-17  Boston Celtics converted the contract of guard Devin Carter to a Two-Way Contract.",
-   "detected_at": "2026-10-18 03:00:52",
-   "source": "TRANSACTIONS",
-   "type": "ContractConverted"
-  },
-  {
-   "detail": "2026-10-17  Chicago Bulls waived forward Drew Peterson.",
-   "detected_at": "2026-10-18 03:00:52",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
-  },
-  {
-   "detail": "2026-10-17  Chicago Bulls waived center Orlando Robinson.",
-   "detected_at": "2026-10-18 03:00:52",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
-  },
-  {
-   "detail": "2026-10-17  Cleveland Cavaliers waived  Rashaun Agee.",
-   "detected_at": "2026-10-18 03:00:52",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
-  },
-  {
-   "detail": "2026-10-17  Cleveland Cavaliers waived guard Zack Austin.",
-   "detected_at": "2026-10-18 03:00:52",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
-  },
-  {
-   "detail": "2026-10-17  Cleveland Cavaliers waived  Tre'Von Spillers.",
-   "detected_at": "2026-10-18 03:00:52",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
-  },
-  {
-   "detail": "2026-10-17  Cleveland Cavaliers waived guard Noam Yaacov.",
-   "detected_at": "2026-10-18 03:00:52",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
-  },
-  {
-   "detail": "2026-10-17  Dallas Mavericks waived guard Seth Lundy.",
-   "detected_at": "2026-10-18 03:00:52",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
-  },
-  {
-   "detail": "2026-10-17  Dallas Mavericks waived guard John Poulakidas.",
-   "detected_at": "2026-10-18 03:00:52",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
-  },
-  {
-   "detail": "2026-10-17  Denver Nuggets waived guard Dane Goodwin.",
-   "detected_at": "2026-10-18 03:00:52",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
-  },
-  {
-   "detail": "2026-10-17  Denver Nuggets waived forward Coleman Hawkins.",
-   "detected_at": "2026-10-18 03:00:52",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
-  },
-  {
-   "detail": "2026-10-17  Denver Nuggets waived forward Emanuel Miller.",
-   "detected_at": "2026-10-18 03:00:52",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
-  },
-  {
-   "detail": "2026-10-17  Detroit Pistons waived forward John Ukomadu.",
-   "detected_at": "2026-10-18 03:00:52",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
-  },
-  {
-   "detail": "2026-10-17  Detroit Pistons waived guard Brice Williams.",
-   "detected_at": "2026-10-18 03:00:52",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
-  },
-  {
-   "detail": "2026-10-17  Golden State Warriors waived forward Tyler Burton.",
-   "detected_at": "2026-10-18 03:00:52",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
-  },
-  {
-   "detail": "2026-10-17  Golden State Warriors waived forward Dalen Terry.",
-   "detected_at": "2026-10-18 03:00:52",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
-  },
-  {
-   "detail": "2026-10-17  Golden State Warriors waived forward Alex Toohey.",
-   "detected_at": "2026-10-18 03:00:52",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
-  },
-  {
-   "detail": "2026-10-17  Houston Rockets waived  Bryce Harris.",
-   "detected_at": "2026-10-18 03:00:52",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
-  },
-  {
-   "detail": "2026-10-17  Houston Rockets waived forward Cameron Matthews.",
-   "detected_at": "2026-10-18 03:00:52",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
-  },
-  {
-   "detail": "2026-10-17  Houston Rockets waived guard Caleb McConnell.",
-   "detected_at": "2026-10-18 03:00:52",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
-  },
-  {
-   "detail": "2026-10-17  Indiana Pacers waived forward James Johnson.",
-   "detected_at": "2026-10-18 03:00:52",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
-  },
-  {
-   "detail": "2026-10-17  Indiana Pacers waived center Keba Keita.",
-   "detected_at": "2026-10-18 03:00:52",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
-  },
-  {
-   "detail": "2026-10-17  Indiana Pacers waived center Rienk Mast.",
-   "detected_at": "2026-10-18 03:00:52",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
-  },
-  {
-   "detail": "2026-10-17  LA Clippers waived guard Miye Oni.",
-   "detected_at": "2026-10-18 03:00:52",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
-  },
-  {
-   "detail": "2026-10-17  LA Clippers waived guard Jahmyl Telfort.",
-   "detected_at": "2026-10-18 03:00:52",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
-  },
-  {
-   "detail": "2026-10-17  LA Clippers waived guard Blake Wesley.",
-   "detected_at": "2026-10-18 03:00:52",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
-  },
-  {
-   "detail": "2026-10-17  Los Angeles Lakers waived center Rafael Castro.",
-   "detected_at": "2026-10-18 03:00:52",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
-  },
-  {
-   "detail": "2026-10-17  Los Angeles Lakers waived forward Niwa Tait-Jones.",
-   "detected_at": "2026-10-18 03:00:52",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
-  },
-  {
-   "detail": "2026-10-17  Memphis Grizzlies waived forward Zach Cleveland.",
-   "detected_at": "2026-10-18 03:00:52",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
-  },
-  {
-   "detail": "2026-10-17  Miami Heat waived  Ezra Ausar.",
-   "detected_at": "2026-10-18 03:00:52",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
-  },
-  {
-   "detail": "2026-10-17  Miami Heat waived center Kylor Kelley.",
-   "detected_at": "2026-10-18 03:00:52",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
-  },
-  {
-   "detail": "2026-10-17  Miami Heat waived forward Gabe Madsen.",
-   "detected_at": "2026-10-18 03:00:52",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
-  },
-  {
-   "detail": "2026-10-17  Miami Heat waived guard Bez Mbeng.",
-   "detected_at": "2026-10-18 03:00:52",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 4048,
-   "last": "2026-10-20 10:05:05"
+   "count": 4108,
+   "last": "2026-10-20 16:02:57"
   },
   "GLEAGUE": {
-   "count": 197,
-   "last": "2026-10-17 16:04:45"
+   "count": 200,
+   "last": "2026-10-20 16:03:04"
   },
   "PLAYERS": {
    "count": 1867,
@@ -10190,8 +10085,8 @@
    "last": "2026-10-20 15:48:57"
   },
   "SHEETS": {
-   "count": 5124,
-   "last": "2026-10-20 10:05:14"
+   "count": 5199,
+   "last": "2026-10-20 16:03:01"
   },
   "TRANSACTIONS": {
    "count": 669,
@@ -10202,10 +10097,10 @@
    "last": "2026-10-20 15:47:37"
   },
   "WIKIWATCH": {
-   "count": 446,
-   "last": "2026-10-20 10:24:56"
+   "count": 451,
+   "last": "2026-10-20 16:02:06"
   }
  },
- "generated_at": "2026-10-20T15:49:16",
- "total": 32218
+ "generated_at": "2026-10-20T16:10:29",
+ "total": 32361
 }
