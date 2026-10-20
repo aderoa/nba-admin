@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Noam Yaacov  ~ team: Cleveland Cavaliers -> Cleveland Charge",
+   "detected_at": "2026-10-20 16:33:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Noam_Yaacov"
+  },
+  {
+   "detail": "Noam Yaacov  ~ league: NBA -> NBA G League",
+   "detected_at": "2026-10-20 16:33:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Noam_Yaacov"
+  },
+  {
+   "detail": "Noam Yaacov  ~ CAREER  + 2026–present Cleveland Charge",
+   "detected_at": "2026-10-20 16:33:36",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Noam_Yaacov"
+  },
+  {
    "detail": "2026-27 Rookie Signings  + ADDED  Cris Carroll (WAIVED) Philadelphia 76ers",
    "detected_at": "2026-10-20 16:25:04",
    "source": "DOCS",
@@ -10002,27 +10023,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Espoirs-Nanterre-at-Espoirs-Nancy/537595"
-  },
-  {
-   "detail": "French LNB Espoirs + Yanis Mbuy Kabuaya-Diondo → Espoirs Nanterre",
-   "detected_at": "2026-10-18 03:12:56",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French LNB Espoirs ~ RETURN Kany N'Kouka → Espoirs Nancy (from Nancy Basket)",
-   "detected_at": "2026-10-18 03:12:56",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "Spanish ACB MoraBanc Andorra 108, Rio Breogan 102",
-   "detected_at": "2026-10-18 03:12:53",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Rio-Breogan-at-MoraBanc-Andorra/533438"
   }
  ],
  "feeds": {
@@ -10059,14 +10059,14 @@
    "last": "2026-10-20 10:05:03"
   },
   "WIKI": {
-   "count": 6573,
-   "last": "2026-10-20 15:47:37"
+   "count": 6576,
+   "last": "2026-10-20 16:33:36"
   },
   "WIKIWATCH": {
    "count": 451,
    "last": "2026-10-20 16:02:06"
   }
  },
- "generated_at": "2026-10-20T16:25:10",
- "total": 32395
+ "generated_at": "2026-10-20T16:33:37",
+ "total": 32398
 }
