@@ -1,6 +1,55 @@
 {
  "events": [
   {
+   "detail": "Isaiah Stevens  ~ team: Free agent -> Windy City Bulls",
+   "detected_at": "2026-10-20 11:05:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Isaiah_Stevens"
+  },
+  {
+   "detail": "Isaiah Stevens  ~ league: - -> NBA G League",
+   "detected_at": "2026-10-20 11:05:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Isaiah_Stevens"
+  },
+  {
+   "detail": "Isaiah Stevens  ~ CAREER  + 2026–present Windy City Bulls",
+   "detected_at": "2026-10-20 11:05:36",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Isaiah_Stevens"
+  },
+  {
+   "detail": "Alpha Kaba  ~ team: Shenzhen Leopards -> Free agent",
+   "detected_at": "2026-10-20 11:05:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Alpha_Kaba"
+  },
+  {
+   "detail": "Alpha Kaba  ~ league: CBA -> -",
+   "detected_at": "2026-10-20 11:05:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Alpha_Kaba"
+  },
+  {
+   "detail": "Alpha Kaba  ~ number: 27 -> -",
+   "detected_at": "2026-10-20 11:05:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Alpha_Kaba"
+  },
+  {
+   "detail": "Alpha Kaba  ~ CAREER  + 2025–2026 Shenzhen Leopards",
+   "detected_at": "2026-10-20 11:05:36",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Alpha_Kaba"
+  },
+  {
    "detail": "Walter Clayton  ~ 183386: team -> Memphis Grizzlies",
    "detected_at": "2026-10-20 10:24:56",
    "source": "WIKIWATCH",
@@ -10007,48 +10056,6 @@
    "detected_at": "2026-10-18 03:00:40",
    "source": "PLAYERS",
    "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED Elfrid Payton (SAC)",
-   "detected_at": "2026-10-18 03:00:40",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED Nate Johnson (OKC)",
-   "detected_at": "2026-10-18 03:00:40",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED Latrell Wrightsell (CHA)",
-   "detected_at": "2026-10-18 03:00:40",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED Jarkel Joiner (CHA)",
-   "detected_at": "2026-10-18 03:00:40",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED Alex Toohey (GSW)",
-   "detected_at": "2026-10-18 03:00:40",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED Dink Pate (NYK)",
-   "detected_at": "2026-10-18 03:00:40",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED JD Davison (ORL)",
-   "detected_at": "2026-10-18 03:00:40",
-   "source": "PLAYERS",
-   "type": "REMOVED"
   }
  ],
  "feeds": {
@@ -10085,14 +10092,14 @@
    "last": "2026-10-20 10:05:03"
   },
   "WIKI": {
-   "count": 6534,
-   "last": "2026-10-20 10:12:55"
+   "count": 6541,
+   "last": "2026-10-20 11:05:36"
   },
   "WIKIWATCH": {
    "count": 446,
    "last": "2026-10-20 10:24:56"
   }
  },
- "generated_at": "2026-10-20T10:48:04",
- "total": 32105
+ "generated_at": "2026-10-20T11:05:37",
+ "total": 32112
 }
