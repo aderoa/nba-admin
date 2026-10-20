@@ -1,6 +1,30 @@
 {
  "events": [
   {
+   "detail": "2026-27 Rookie Signings  - REMOVED Aniwaniwa Tait-Jo (WAIVED) Los Angeles Lakers",
+   "detected_at": "2026-10-20 16:44:58",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Aniwaniwa Tait-Jones (WAIVED) Los Angeles Lakers",
+   "detected_at": "2026-10-20 16:44:58",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  - REMOVED Execution Date: 10/9/26",
+   "detected_at": "2026-10-20 16:44:58",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Rookie Signings  + ADDED  Execution Date: 10/14/26",
+   "detected_at": "2026-10-20 16:44:58",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "2026-27 Rookie Signings  + ADDED  Aniwaniwa Tait-Jo (WAIVED) Los Angeles Lakers",
    "detected_at": "2026-10-20 16:43:56",
    "source": "DOCS",
@@ -9967,40 +9991,12 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Spanish ACB Monbus Obradoiro 79, Siblo San Pablo Burgos 72",
-   "detected_at": "2026-10-18 03:13:52",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Monbus-Obradoiro-at-Siblo-San-Pablo-Burgos/533439"
-  },
-  {
-   "detail": "Slovakian Extraliga Slavia Kosice 84, BK Inter Bratislava 79",
-   "detected_at": "2026-10-18 03:13:48",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Slavia-Kosice-at-BK-Inter-Bratislava/534249"
-  },
-  {
-   "detail": "Slovakian Extraliga + Tarik Bruncevic → Slavia Kosice",
-   "detected_at": "2026-10-18 03:13:47",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Slovakian Extraliga + Bruno Randuska → BK Inter Bratislava",
-   "detected_at": "2026-10-18 03:13:47",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 4170,
-   "last": "2026-10-20 16:43:56"
+   "count": 4174,
+   "last": "2026-10-20 16:44:58"
   },
   "GLEAGUE": {
    "count": 200,
@@ -10039,6 +10035,6 @@
    "last": "2026-10-20 16:02:06"
   }
  },
- "generated_at": "2026-10-20T16:44:04",
- "total": 32426
+ "generated_at": "2026-10-20T16:45:04",
+ "total": 32430
 }
