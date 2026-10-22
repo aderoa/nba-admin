@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Robert Franks (basketball)  ~ height_in: 7 -> 8",
+   "detected_at": "2026-10-22 11:41:34",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Robert_Franks_(basketball)"
+  },
+  {
    "detail": "John Konchar  ~ team: Olympiacos -> Free Agent",
    "detected_at": "2026-10-22 10:09:35",
    "source": "WIKI",
@@ -9913,13 +9920,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB Intermaquinas Benicarlo 89, Reina Proteinas Clavijo 76",
-   "detected_at": "2026-10-19 03:59:26",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-18/Intermaquinas-Benicarlo-at-Reina-Proteinas-Clavijo/527776"
   }
  ],
  "feeds": {
@@ -9956,14 +9956,14 @@
    "last": "2026-10-22 05:06:27"
   },
   "WIKI": {
-   "count": 6745,
-   "last": "2026-10-22 10:09:35"
+   "count": 6746,
+   "last": "2026-10-22 11:41:34"
   },
   "WIKIWATCH": {
    "count": 465,
    "last": "2026-10-22 09:47:19"
   }
  },
- "generated_at": "2026-10-22T11:33:02",
- "total": 32921
+ "generated_at": "2026-10-22T11:41:36",
+ "total": 32922
 }
