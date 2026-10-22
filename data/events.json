@@ -1,6 +1,517 @@
 {
  "events": [
   {
+   "detail": "Tony Bradley  ~ 76384: number -> -",
+   "detected_at": "2026-10-22 12:20:14",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "13"
+  },
+  {
+   "detail": "Trendon Watford  ~ 104914: position -> Power forward / small forward",
+   "detected_at": "2026-10-22 12:20:14",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Small forward / shooting guard"
+  },
+  {
+   "detail": "Saddiq Bey  ~ 120280: position -> Small forward / shooting guard",
+   "detected_at": "2026-10-22 12:20:14",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Small forward"
+  },
+  {
+   "detail": "Quinten Post  ~ 142361: number -> 21",
+   "detected_at": "2026-10-22 12:20:10",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "41"
+  },
+  {
+   "detail": "Noah Clowney  ~ 162215: position -> Power forward",
+   "detected_at": "2026-10-22 12:20:10",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Power forward / center"
+  },
+  {
+   "detail": "Nique Clifford  ~ 151296: position -> Small forward",
+   "detected_at": "2026-10-22 12:20:10",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Shooting guard"
+  },
+  {
+   "detail": "OG Anunoby  ~ 84076: position -> Small forward",
+   "detected_at": "2026-10-22 12:20:06",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Small forward / shooting guard"
+  },
+  {
+   "detail": "Pete Nance  ~ 127259: team -> Free agent",
+   "detected_at": "2026-10-22 12:20:06",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Milwaukee Bucks"
+  },
+  {
+   "detail": "Pete Nance  ~ 127259: league -> -",
+   "detected_at": "2026-10-22 12:20:06",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "NBA"
+  },
+  {
+   "detail": "Pete Nance  ~ 127259: number -> -",
+   "detected_at": "2026-10-22 12:20:06",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "35"
+  },
+  {
+   "detail": "Oscar Tshiebwe  ~ 117422: number -> -",
+   "detected_at": "2026-10-22 12:20:06",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "9"
+  },
+  {
+   "detail": "Patrick Williams  ~ 132443: position -> Power forward",
+   "detected_at": "2026-10-22 12:20:06",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Power forward / small forward"
+  },
+  {
+   "detail": "Peyton Watson  ~ 133038: position -> Small forward",
+   "detected_at": "2026-10-22 12:20:06",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Shooting guard"
+  },
+  {
+   "detail": "Ryan Nembhard  ~ 133796: number -> -",
+   "detected_at": "2026-10-22 12:20:06",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "9"
+  },
+  {
+   "detail": "Max Strus  ~ 82568: number -> -",
+   "detected_at": "2026-10-22 12:20:03",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "31"
+  },
+  {
+   "detail": "Moussa Diabate  ~ 126848: position -> Power forward / center",
+   "detected_at": "2026-10-22 12:20:03",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Power forward"
+  },
+  {
+   "detail": "Micah Potter  ~ 88765: team -> Portland Trail Blazers",
+   "detected_at": "2026-10-22 12:20:03",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Los Angeles Lakers"
+  },
+  {
+   "detail": "Mario Hezonja  ~ 24763: position -> Power forward / small forward",
+   "detected_at": "2026-10-22 12:19:23",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Small forward / shooting guard"
+  },
+  {
+   "detail": "Marvin Bagley  ~ 81676: position -> Power forward",
+   "detected_at": "2026-10-22 12:19:23",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Center / power forward"
+  },
+  {
+   "detail": "Mitchell Robinson  ~ 88862: position -> Center",
+   "detected_at": "2026-10-22 12:19:23",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Center / power forward"
+  },
+  {
+   "detail": "Matisse Thybulle  ~ 84040: number -> 26",
+   "detected_at": "2026-10-22 12:19:23",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "4"
+  },
+  {
+   "detail": "Kam Jones  ~ 175956: number -> 39",
+   "detected_at": "2026-10-22 12:19:23",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "19"
+  },
+  {
+   "detail": "Kam Jones  ~ 175956: birth_date -> February 25, 2002",
+   "detected_at": "2026-10-22 12:19:23",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": ""
+  },
+  {
+   "detail": "Kevon Looney  ~ 41494: position -> Center / power forward",
+   "detected_at": "2026-10-22 12:19:20",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Power forward"
+  },
+  {
+   "detail": "Lauri Markkanen  ~ 53967: position -> Small forward / power forward",
+   "detected_at": "2026-10-22 12:19:20",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Power forward / center"
+  },
+  {
+   "detail": "Kenrich Williams  ~ 80275: position -> Small forward / power forward",
+   "detected_at": "2026-10-22 12:19:20",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Small forward / shooting guard"
+  },
+  {
+   "detail": "Jaxson Hayes  ~ 122662: position -> Center",
+   "detected_at": "2026-10-22 12:19:18",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Center / power forward"
+  },
+  {
+   "detail": "Javonte Green  ~ 31203: position -> Shooting guard / small forward",
+   "detected_at": "2026-10-22 12:19:18",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Shooting guard"
+  },
+  {
+   "detail": "Jaylin Williams  ~ 152736: position -> Power forward / center",
+   "detected_at": "2026-10-22 12:19:18",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Power forward"
+  },
+  {
+   "detail": "Jett Howard  ~ 135128: number -> 13",
+   "detected_at": "2026-10-22 12:19:18",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "9"
+  },
+  {
+   "detail": "Jordan Walsh  ~ 151494: position -> Guard / forward",
+   "detected_at": "2026-10-22 12:19:18",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Shooting guard"
+  },
+  {
+   "detail": "Julian Reese  ~ 175937: team -> Free agent",
+   "detected_at": "2026-10-22 12:19:18",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "New Orleans Pelicans"
+  },
+  {
+   "detail": "Julian Reese  ~ 175937: league -> -",
+   "detected_at": "2026-10-22 12:19:18",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "NBA"
+  },
+  {
+   "detail": "Julian Reese  ~ 175937: number -> -",
+   "detected_at": "2026-10-22 12:19:18",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "13"
+  },
+  {
+   "detail": "Jerami Grant  ~ 24661: number -> -",
+   "detected_at": "2026-10-22 12:19:16",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "3"
+  },
+  {
+   "detail": "Josh Hart  ~ 41440: position -> Small forward",
+   "detected_at": "2026-10-22 12:19:16",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Shooting guard"
+  },
+  {
+   "detail": "Jamal Shead  ~ 148713: number -> 23",
+   "detected_at": "2026-10-22 12:19:16",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "1"
+  },
+  {
+   "detail": "Jahmai Mashack  ~ 133022: number -> -",
+   "detected_at": "2026-10-22 12:19:16",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "21"
+  },
+  {
+   "detail": "Jalen Pickett  ~ 135782: number -> -",
+   "detected_at": "2026-10-22 12:19:13",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "21"
+  },
+  {
+   "detail": "Jalen Wilson  ~ 117480: number -> 12",
+   "detected_at": "2026-10-22 12:19:13",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "22"
+  },
+  {
+   "detail": "Jalen Duren  ~ 137931: league -> -",
+   "detected_at": "2026-10-22 12:19:13",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "NBA"
+  },
+  {
+   "detail": "Gradey Dick  ~ 151289: number -> -",
+   "detected_at": "2026-10-22 12:19:13",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "9"
+  },
+  {
+   "detail": "James Harden  ~ 1598: league -> -",
+   "detected_at": "2026-10-22 12:19:11",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "NBA"
+  },
+  {
+   "detail": "Drew Timme  ~ 117478: number -> -",
+   "detected_at": "2026-10-22 12:19:11",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "2"
+  },
+  {
+   "detail": "Devin Carter  ~ 162039: team -> -",
+   "detected_at": "2026-10-22 12:19:11",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Boston Celtics"
+  },
+  {
+   "detail": "Devin Carter  ~ 162039: number -> -",
+   "detected_at": "2026-10-22 12:19:11",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "99"
+  },
+  {
+   "detail": "Egor Demin  ~ 183714: position -> Point guard/Shooting guard",
+   "detected_at": "2026-10-22 12:19:11",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Point guard / shooting guard"
+  },
+  {
+   "detail": "Elijah Harkless  ~ 107567: number -> -",
+   "detected_at": "2026-10-22 12:19:11",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "94"
+  },
+  {
+   "detail": "DeMar DeRozan  ~ 1605: position -> Small forward",
+   "detected_at": "2026-10-22 12:19:08",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Small forward / shooting guard"
+  },
+  {
+   "detail": "Draymond Green  ~ 2369: position -> Power forward",
+   "detected_at": "2026-10-22 12:19:08",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Power forward / center"
+  },
+  {
+   "detail": "Dennis Schroeder  ~ 26503: number -> -",
+   "detected_at": "2026-10-22 12:19:08",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "17"
+  },
+  {
+   "detail": "Gary Payton II  ~ 80992: league -> National Basketball Association",
+   "detected_at": "2026-10-22 12:19:08",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "NBA"
+  },
+  {
+   "detail": "Gary Payton II  ~ 80992: position -> Shooting guard / small forward",
+   "detected_at": "2026-10-22 12:19:08",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Shooting guard"
+  },
+  {
+   "detail": "Duncan Robinson  ~ 79772: position -> Small forward / shooting guard",
+   "detected_at": "2026-10-22 12:19:08",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Small forward"
+  },
+  {
+   "detail": "Goga Bitadze  ~ 75906: position -> Center",
+   "detected_at": "2026-10-22 12:19:08",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Center / power forward"
+  },
+  {
+   "detail": "Dean Wade  ~ 84884: position -> Power forward / small forward",
+   "detected_at": "2026-10-22 12:19:08",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Power forward / center"
+  },
+  {
+   "detail": "Collin Sexton  ~ 104930: league -> -",
+   "detected_at": "2026-10-22 12:19:06",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "NBA"
+  },
+  {
+   "detail": "Caleb Love  ~ 143332: number -> 9",
+   "detected_at": "2026-10-22 12:19:06",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "8"
+  },
+  {
+   "detail": "Cam Whitmore  ~ 176080: team -> Free agent",
+   "detected_at": "2026-10-22 12:19:06",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Denver Nuggets"
+  },
+  {
+   "detail": "Cam Whitmore  ~ 176080: league -> -",
+   "detected_at": "2026-10-22 12:19:06",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "NBA"
+  },
+  {
+   "detail": "Cam Whitmore  ~ 176080: number -> -",
+   "detected_at": "2026-10-22 12:19:06",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "00"
+  },
+  {
+   "detail": "Buddy Hield  ~ 42415: team -> Atlanta Hawks",
+   "detected_at": "2026-10-22 12:19:03",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Chicago Bulls"
+  },
+  {
+   "detail": "Buddy Hield  ~ 42415: number -> 8",
+   "detected_at": "2026-10-22 12:19:03",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "7"
+  },
+  {
+   "detail": "Bennedict Mathurin  ~ 147080: number -> -",
+   "detected_at": "2026-10-22 12:19:03",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "24"
+  },
+  {
+   "detail": "Baylor Scheierman  ~ 134595: position -> Shooting guard / small forward",
+   "detected_at": "2026-10-22 12:19:03",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Shooting guard"
+  },
+  {
+   "detail": "Brandin Podziemski  ~ 175953: position -> Guard",
+   "detected_at": "2026-10-22 12:19:03",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Shooting guard"
+  },
+  {
+   "detail": "Al Horford  ~ 35: position -> Power forward / center",
+   "detected_at": "2026-10-22 12:19:01",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Center"
+  },
+  {
+   "detail": "Brandon Ingram  ~ 72279: number -> -",
+   "detected_at": "2026-10-22 12:19:01",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "7"
+  },
+  {
+   "detail": "Anthony Gill  ~ 24216: team -> Free agent",
+   "detected_at": "2026-10-22 12:19:01",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Washington Wizards"
+  },
+  {
+   "detail": "Anthony Gill  ~ 24216: league -> -",
+   "detected_at": "2026-10-22 12:19:01",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "NBA"
+  },
+  {
+   "detail": "Anthony Gill  ~ 24216: number -> -",
+   "detected_at": "2026-10-22 12:19:01",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "16"
+  },
+  {
+   "detail": "Alpha Diallo  ~ 85800: position -> Small forward",
+   "detected_at": "2026-10-22 12:19:01",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Shooting guard"
+  },
+  {
+   "detail": "Adem Bona  ~ 137855: position -> Center",
+   "detected_at": "2026-10-22 12:19:01",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Power forward"
+  },
+  {
    "detail": "Slovenian SKL Krka Novo Mesto 97, Rogaska Crystal 62",
    "detected_at": "2026-10-22 12:07:04",
    "source": "SCORES",
@@ -9409,517 +9920,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-10-18/Liaoning-at-Shandong/541914"
-  },
-  {
-   "detail": "Chinese CBA Nanjing Tongxi Monkey King 96, Guangdong Dongguan 95",
-   "detected_at": "2026-10-19 15:20:19",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-18/Guangdong-Dongguan-at-Nanjing-Tongxi-Monkey-King/541913"
-  },
-  {
-   "detail": "Ukrainian Superleague BC Kharkiv 105, SK Cherkasy Monkeys 57",
-   "detected_at": "2026-10-19 15:20:15",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-18/SK-Cherkasy-Monkeys-at-BC-Kharkiv/544868"
-  },
-  {
-   "detail": "Chinese CBA Beijing Shougang 84, Jilin Northeast 82",
-   "detected_at": "2026-10-19 15:20:11",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-18/Beijing-Shougang-at-Jilin-Northeast/541911"
-  },
-  {
-   "detail": "Anfernee Simons  ~ height_in: 3 -> 4",
-   "detected_at": "2026-10-19 15:20:03",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Anfernee_Simons"
-  },
-  {
-   "detail": "Dean Wade  ~ position: Power forward / small forward -> Power forward / center",
-   "detected_at": "2026-10-19 15:20:03",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Dean_Wade"
-  },
-  {
-   "detail": "Pat Spencer  ~ height_in: 1 -> 2",
-   "detected_at": "2026-10-19 15:20:03",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Pat_Spencer"
-  },
-  {
-   "detail": "Branden Carlson  ~ weight_lb: 235 -> 220",
-   "detected_at": "2026-10-19 15:20:03",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Branden_Carlson"
-  },
-  {
-   "detail": "V. J. Edgecombe  ~ height_in: 4 -> 5",
-   "detected_at": "2026-10-19 15:20:03",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/V._J._Edgecombe"
-  },
-  {
-   "detail": "Adem Bona  ~ position: Center -> Power forward",
-   "detected_at": "2026-10-19 15:20:03",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Adem_Bona"
-  },
-  {
-   "detail": "Adem Bona  ~ nationality: Nigerian / Turkish -> -",
-   "detected_at": "2026-10-19 15:20:03",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Adem_Bona"
-  },
-  {
-   "detail": "Duop Reath  ~ height_in: 9 -> 10",
-   "detected_at": "2026-10-19 15:20:03",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Duop_Reath"
-  },
-  {
-   "detail": "Duop Reath  ~ nationality: Australian / South Sudanese -> -",
-   "detected_at": "2026-10-19 15:20:03",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Duop_Reath"
-  },
-  {
-   "detail": "Blake Wesley  ~ 131835: team -> Free agent",
-   "detected_at": "2026-10-19 15:12:00",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "San Diego Clippers"
-  },
-  {
-   "detail": "Blake Wesley  ~ 131835: league -> -",
-   "detected_at": "2026-10-19 15:12:00",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "NBA G League"
-  },
-  {
-   "detail": "Dalen Terry  ~ 132642: team -> Free agent",
-   "detected_at": "2026-10-19 15:12:00",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "Santa Cruz Warriors"
-  },
-  {
-   "detail": "Dalen Terry  ~ 132642: league -> -",
-   "detected_at": "2026-10-19 15:12:00",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "NBA G League"
-  },
-  {
-   "detail": "Mexican LNBP Fuerza Regia 101, Dorados de Chihuahua 90",
-   "detected_at": "2026-10-19 04:02:17",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-18/Dorados-de-Chihuahua-at-Fuerza-Regia/545613"
-  },
-  {
-   "detail": "Spanish ACB CB Girona 110, CB Coruna 90",
-   "detected_at": "2026-10-19 04:02:13",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-18/CB-Coruna-at-CB-Girona/533440"
-  },
-  {
-   "detail": "VTB United League Lokomotiv Kuban 73, Zenit Saint Petersburg 72",
-   "detected_at": "2026-10-19 04:02:08",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-18/Zenit-Saint-Petersburg-at-Lokomotiv-Kuban/533301"
-  },
-  {
-   "detail": "VTB United League Avtodor Saratov 94, MBA Moscow 83",
-   "detected_at": "2026-10-19 04:02:04",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-18/MBA-Moscow-at-Avtodor-Saratov/533300"
-  },
-  {
-   "detail": "VTB United League ~ RETURN Ivan Karpenko → MBA Moscow (from MBA 2 Moscow)",
-   "detected_at": "2026-10-19 04:02:02",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "Spanish ACB Casademont Zaragoza 109, Forca Lleida CE 98",
-   "detected_at": "2026-10-19 04:02:00",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-18/Forca-Lleida-CE-at-Casademont-Zaragoza/533441"
-  },
-  {
-   "detail": "Spanish ACB ~ MOVED Pau Torrens → Forca Lleida CE (from Lleida Liga U)",
-   "detected_at": "2026-10-19 04:01:58",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish ACB ~ MOVED Matija Lukic → Casademont Zaragoza (from Casademont Zaragoza Liga U)",
-   "detected_at": "2026-10-19 04:01:58",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish ACB Real Madrid 119, Bilbao Basket 84",
-   "detected_at": "2026-10-19 04:01:55",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-18/Bilbao-Basket-at-Real-Madrid/533442"
-  },
-  {
-   "detail": "Spanish ACB Lenovo Tenerife 82, Baskonia 77",
-   "detected_at": "2026-10-19 04:01:51",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-18/Baskonia-at-Lenovo-Tenerife/533444"
-  },
-  {
-   "detail": "Spanish ACB Valencia Basket 116, UCAM Murcia CB 93",
-   "detected_at": "2026-10-19 04:01:46",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-18/UCAM-Murcia-CB-at-Valencia-Basket/533443"
-  },
-  {
-   "detail": "Spanish ACB + Moussa Diagne → UCAM Murcia CB",
-   "detected_at": "2026-10-19 04:01:44",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish ACB Joventut Badalona 113, Barca 89",
-   "detected_at": "2026-10-19 04:01:41",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-18/Barca-at-Joventut-Badalona/533445"
-  },
-  {
-   "detail": "Spanish ACB ~ RETURN Adrian de la Torre → Joventut Badalona (from Joventut Liga U)",
-   "detected_at": "2026-10-19 04:01:39",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "Italian Lega Basket Serie A Tezenis Scaligera Verona 94, Grissin Bon Reggio Emilia 81",
-   "detected_at": "2026-10-19 04:01:36",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-18/Grissin-Bon-Reggio-Emilia-at-Tezenis-Scaligera-Verona/529583"
-  },
-  {
-   "detail": "Italian Lega Basket Serie A Maxima Roma 89, Bertram Tortona 75",
-   "detected_at": "2026-10-19 04:01:32",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-18/Maxima-Roma-at-Bertram-Tortona/529585"
-  },
-  {
-   "detail": "Italian Lega Basket Serie A + Paul Eboua → Bertram Tortona",
-   "detected_at": "2026-10-19 04:01:30",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French Jeep Elite JDA Dijon Basket 92, BCM Gravelines 83",
-   "detected_at": "2026-10-19 04:01:27",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-18/JDA-Dijon-Basket-at-BCM-Gravelines/538591"
-  },
-  {
-   "detail": "French Jeep Elite ~ RETURN Emrys Dadeke → JDA Dijon Basket (from Espoirs Dijon)",
-   "detected_at": "2026-10-19 04:01:25",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "Macedonian Superleague KK Madzari 83, ABA Strumica 68",
-   "detected_at": "2026-10-19 04:01:22",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-18/ABA-Strumica-at-KK-Madzari/540922"
-  },
-  {
-   "detail": "Macedonian Superleague + Oliver Dvojakovski → KK Madzari",
-   "detected_at": "2026-10-19 04:01:20",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Macedonian Superleague + Borjan Stojanovski → KK Madzari",
-   "detected_at": "2026-10-19 04:01:20",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Macedonian Superleague KK Rabotnicki AD Skipje 91, KK Pelister Sport Bitola 87",
-   "detected_at": "2026-10-19 04:01:18",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-18/KK-Rabotnicki-AD-Skipje-at-KK-Pelister-Sport-Bitola/540925"
-  },
-  {
-   "detail": "Macedonian Superleague + Nikola Kocovic → KK Pelister Sport Bitola",
-   "detected_at": "2026-10-19 04:01:16",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Macedonian Superleague KK Kumanovo 76, KK Tikvesh 75",
-   "detected_at": "2026-10-19 04:01:13",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-18/KK-Kumanovo-at-KK-Tikvesh/540926"
-  },
-  {
-   "detail": "Macedonian Superleague + Stefan Fundic → KK Kumanovo",
-   "detected_at": "2026-10-19 04:01:12",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Macedonian Superleague + Alek Petkoski → KK Kumanovo",
-   "detected_at": "2026-10-19 04:01:12",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French Jeep Elite Le Mans Sarthe Basket 91, JL Bourg en Bresse 90",
-   "detected_at": "2026-10-19 04:01:09",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-18/JL-Bourg-en-Bresse-at-Le-Mans-Sarthe-Basket/538593"
-  },
-  {
-   "detail": "French Jeep Elite + Johnny Berhanemeskel → JL Bourg en Bresse",
-   "detected_at": "2026-10-19 04:01:07",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French Jeep Elite Paris Basketball 90, Boulazac Basket Dordogne 75",
-   "detected_at": "2026-10-19 04:01:04",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-18/Boulazac-Basket-Dordogne-at-Paris-Basketball/538592"
-  },
-  {
-   "detail": "Israeli BSL Maccabi FOX Tel Aviv 116, Elitzur Kiryat Ata 89",
-   "detected_at": "2026-10-19 04:00:59",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-18/Elitzur-Kiryat-Ata-at-Maccabi-FOX-Tel-Aviv/535768"
-  },
-  {
-   "detail": "Israeli BSL + Shane Hunter → Maccabi FOX Tel Aviv",
-   "detected_at": "2026-10-19 04:00:58",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Israeli BSL Bnei Herzelia 103, Ironi Nes Ziona 96",
-   "detected_at": "2026-10-19 04:00:55",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-18/Bnei-Herzelia-at-Ironi-Nes-Ziona/535764"
-  },
-  {
-   "detail": "Israeli BSL ~ MOVED Jacob Wiley → Ironi Nes Ziona (from Kedainiai Nevezis)",
-   "detected_at": "2026-10-19 04:00:53",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
-  },
-  {
-   "detail": "Israeli BSL + Noam Dovrat → Ironi Nes Ziona",
-   "detected_at": "2026-10-19 04:00:53",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Turkish BSL Besiktas Icrypex 83, Galatasaray 80",
-   "detected_at": "2026-10-19 04:00:51",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-18/Galatasaray-at-Besiktas-Icrypex/541381"
-  },
-  {
-   "detail": "Turkish BSL + K.J. Simpson → Galatasaray",
-   "detected_at": "2026-10-19 04:00:49",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Turkish BSL Socar Petkimspor 82, Fenerbahce Beko 77",
-   "detected_at": "2026-10-19 04:00:46",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-18/Socar-Petkimspor-at-Fenerbahce-Beko/541380"
-  },
-  {
-   "detail": "Turkish BSL Trabzonspor 75, Merkezefendi Belediyesi Denizli Basket 70",
-   "detected_at": "2026-10-19 04:00:42",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-18/Trabzonspor-at-Merkezefendi-Belediyesi-Denizli-Basket/541379"
-  },
-  {
-   "detail": "Bulgarian NBL Euroins Cherno More 87, Tundja Yambol 61",
-   "detected_at": "2026-10-19 04:00:37",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-18/Tundja-Yambol-at-Euroins-Cherno-More/537234"
-  },
-  {
-   "detail": "Bulgarian NBL + Radostin Bozhilov → Euroins Cherno More",
-   "detected_at": "2026-10-19 04:00:35",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Cypriot Division A Keravnos Strovolou 91, Morphou 82",
-   "detected_at": "2026-10-19 04:00:32",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-18/Morphou-at-Keravnos-Strovolou/539450"
-  },
-  {
-   "detail": "Cypriot Division A AEK Larnaca 83, APOEL Nicosia 79",
-   "detected_at": "2026-10-19 04:00:28",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-18/APOEL-Nicosia-at-AEK-Larnaca/539449"
-  },
-  {
-   "detail": "Cypriot Division A + George Sialaros → APOEL Nicosia",
-   "detected_at": "2026-10-19 04:00:26",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Cypriot Division A + Lee Skinner → APOEL Nicosia",
-   "detected_at": "2026-10-19 04:00:26",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Primera FEB Movistar Estudiantes 86, Palencia Baloncesto 77",
-   "detected_at": "2026-10-19 04:00:24",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-18/Palencia-Baloncesto-at-Movistar-Estudiantes/532894"
-  },
-  {
-   "detail": "Spanish Primera FEB + Ivan Aurrecoechea → Movistar Estudiantes",
-   "detected_at": "2026-10-19 04:00:22",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Super League Basketball London Lions 87, Cheshire Phoenix 83",
-   "detected_at": "2026-10-19 04:00:19",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-18/London-Lions-at-Cheshire-Phoenix/535546"
-  },
-  {
-   "detail": "Spanish Segunda FEB Club Baloncesto Toledo Basketball 100, CB Algeciras 79",
-   "detected_at": "2026-10-19 04:00:15",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-18/CB-Algeciras-at-Club-Baloncesto-Toledo-Basketball/527596"
-  },
-  {
-   "detail": "Spanish Segunda FEB Melilla Ciudad Del Deporte 96, Culturaly Y Deportiva Leonesa 92",
-   "detected_at": "2026-10-19 04:00:11",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-18/Melilla-Ciudad-Del-Deporte-at-Culturaly-Y-Deportiva-Leonesa/527602"
-  },
-  {
-   "detail": "Austrian A Bundesliga COLDAMARIS BBC Nord Dragonz 98, BC Hallmann Vienna 75",
-   "detected_at": "2026-10-19 04:00:06",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-18/COLDAMARIS-BBC-Nord-Dragonz-at-BC-Hallmann-Vienna/531754"
-  },
-  {
-   "detail": "Austrian A Bundesliga + Marco Kerschbaum → COLDAMARIS BBC Nord Dragonz",
-   "detected_at": "2026-10-19 04:00:04",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Austrian A Bundesliga + Tobias Weingartner → COLDAMARIS BBC Nord Dragonz",
-   "detected_at": "2026-10-19 04:00:04",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Israeli BSL Hapoel Tel Aviv 81, Maccabi Ashdod 67",
-   "detected_at": "2026-10-19 04:00:01",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-18/Maccabi-Ashdod-at-Hapoel-Tel-Aviv/535767"
-  },
-  {
-   "detail": "Israeli BSL + Tomer Ginat → Hapoel Tel Aviv",
-   "detected_at": "2026-10-19 04:00:00",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Super League Basketball Newcastle Eagles 87, Sheffield Sharks 81",
-   "detected_at": "2026-10-19 03:59:57",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-18/Newcastle-Eagles-at-Sheffield-Sharks/535545"
-  },
-  {
-   "detail": "German Pro A Orange Academy Ratiopharm 84, HAKRO Merlins Crailsheim 78",
-   "detected_at": "2026-10-19 03:59:52",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-18/HAKRO-Merlins-Crailsheim-at-Orange-Academy-Ratiopharm/528117"
   }
  ],
  "feeds": {
@@ -9960,10 +9960,10 @@
    "last": "2026-10-22 12:06:34"
   },
   "WIKIWATCH": {
-   "count": 465,
-   "last": "2026-10-22 09:47:19"
+   "count": 538,
+   "last": "2026-10-22 12:20:14"
   }
  },
- "generated_at": "2026-10-22T12:07:19",
- "total": 32932
+ "generated_at": "2026-10-22T12:21:03",
+ "total": 33005
 }
