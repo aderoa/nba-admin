@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "John Konchar  ~ 81496: team -> Free Agent",
+   "detected_at": "2026-10-22 18:45:14",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Olympiacos BC"
+  },
+  {
    "detail": "Tim Hardaway Jr.  ~ position: Shooting guard / small forward -> Shooting guard",
    "detected_at": "2026-10-22 18:40:35",
    "source": "WIKI",
@@ -9831,12 +9838,6 @@
    "detected_at": "2026-10-20 00:52:42",
    "source": "DOCS",
    "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  - REMOVED Milos Uzan Boston Celtics",
-   "detected_at": "2026-10-20 00:52:42",
-   "source": "DOCS",
-   "type": "REMOVED"
   }
  ],
  "feeds": {
@@ -9877,10 +9878,10 @@
    "last": "2026-10-22 18:40:35"
   },
   "WIKIWATCH": {
-   "count": 538,
-   "last": "2026-10-22 12:20:14"
+   "count": 539,
+   "last": "2026-10-22 18:45:14"
   }
  },
- "generated_at": "2026-10-22T18:45:01",
- "total": 33209
+ "generated_at": "2026-10-22T18:46:02",
+ "total": 33210
 }
