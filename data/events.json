@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "John Konchar  ~ team: Olympiacos -> Free Agent",
+   "detected_at": "2026-10-22 10:09:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/John_Konchar"
+  },
+  {
+   "detail": "John Konchar  ~ CAREER  + New York Knicks",
+   "detected_at": "2026-10-22 10:09:35",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/John_Konchar"
+  },
+  {
    "detail": "John Konchar  ~ 81496: team -> Olympiacos",
    "detected_at": "2026-10-22 09:47:19",
    "source": "WIKIWATCH",
@@ -9906,20 +9920,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-10-18/Intermaquinas-Benicarlo-at-Reina-Proteinas-Clavijo/527776"
-  },
-  {
-   "detail": "Spanish Segunda FEB + Brehima Traore → Reina Proteinas Clavijo",
-   "detected_at": "2026-10-19 03:59:24",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB Jaen Paraiso Interior CB 84, Caceres Patrimonio La Humanidad 82",
-   "detected_at": "2026-10-19 03:59:10",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-18/Caceres-Patrimonio-La-Humanidad-at-Jaen-Paraiso-Interior-CB/527601"
   }
  ],
  "feeds": {
@@ -9956,14 +9956,14 @@
    "last": "2026-10-22 05:06:27"
   },
   "WIKI": {
-   "count": 6743,
-   "last": "2026-10-22 05:13:36"
+   "count": 6745,
+   "last": "2026-10-22 10:09:35"
   },
   "WIKIWATCH": {
    "count": 465,
    "last": "2026-10-22 09:47:19"
   }
  },
- "generated_at": "2026-10-22T09:49:02",
- "total": 32919
+ "generated_at": "2026-10-22T10:09:37",
+ "total": 32921
 }
