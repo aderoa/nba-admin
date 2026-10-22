@@ -1,6 +1,132 @@
 {
  "events": [
   {
+   "detail": "John Konchar  ~ team: Free Agent -> Olympiacos",
+   "detected_at": "2026-10-22 19:13:33",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/John_Konchar"
+  },
+  {
+   "detail": "John Konchar  ~ CAREER  + 2026–present Olympiacos",
+   "detected_at": "2026-10-22 19:13:33",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/John_Konchar"
+  },
+  {
+   "detail": "Japanese BLeague Hiroshima Dragonflies 98, Akita Northern Happinets 84",
+   "detected_at": "2026-10-22 18:55:31",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-21/Akita-Northern-Happinets-at-Hiroshima-Dragonflies/524704"
+  },
+  {
+   "detail": "Japanese BLeague Shiga Lakestars 92, Kobe Storks 80",
+   "detected_at": "2026-10-22 18:55:27",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-21/Kobe-Storks-at-Shiga-Lakestars/524703"
+  },
+  {
+   "detail": "Japanese BLeague Hitachi Sun Rockers 97, Shinshu Brave Warriors 90",
+   "detected_at": "2026-10-22 18:55:23",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-21/Hitachi-Sun-Rockers-at-Shinshu-Brave-Warriors/524702"
+  },
+  {
+   "detail": "South Korean KBL Changwon LG Sakers 88, Ulsan Mobis Phoebus 83",
+   "detected_at": "2026-10-22 18:55:17",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-22/Changwon-LG-Sakers-at-Ulsan-Mobis-Phoebus/530381"
+  },
+  {
+   "detail": "South Korean KBL + Kisang Yu → Changwon LG Sakers",
+   "detected_at": "2026-10-22 18:55:15",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Basketball Africa League Qualification Nadi Basket Staoueli 92, Stade Malien 77",
+   "detected_at": "2026-10-22 18:55:13",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-22/Nadi-Basket-Staoueli-at-Stade-Malien/545245"
+  },
+  {
+   "detail": "Basketball Africa League Qualification + Mamadou Doucoure → Stade Malien",
+   "detected_at": "2026-10-22 18:55:11",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Basketball Africa League Qualification + Karim Coulibaly → Stade Malien",
+   "detected_at": "2026-10-22 18:55:11",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Basketball Africa League Qualification + Makan Keita → Stade Malien",
+   "detected_at": "2026-10-22 18:55:11",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Basketball Africa League Qualification + Rolly Fula Nganga → Stade Malien",
+   "detected_at": "2026-10-22 18:55:11",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Basketball Africa League Qualification + Gaoussou Cheikh Fofana → Stade Malien",
+   "detected_at": "2026-10-22 18:55:11",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Basketball Africa League Qualification + Kelvin Amayo → Stade Malien",
+   "detected_at": "2026-10-22 18:55:11",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Basketball Africa League Qualification + Abdrahamane Binafou Thiero → Stade Malien",
+   "detected_at": "2026-10-22 18:55:11",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Basketball Africa League Qualification + Djibril Barry → Stade Malien",
+   "detected_at": "2026-10-22 18:55:11",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Basketball Africa League Qualification + Madou Sangare → Stade Malien",
+   "detected_at": "2026-10-22 18:55:11",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Basketball Africa League Qualification + Serigne Toure → Stade Malien",
+   "detected_at": "2026-10-22 18:55:11",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
    "detail": "John Konchar  ~ 81496: team -> Olympiacos BC",
    "detected_at": "2026-10-22 18:50:14",
    "source": "WIKIWATCH",
@@ -9731,114 +9857,6 @@
    "detected_at": "2026-10-20 00:52:45",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "PHX  CHANGED Players Under Contract  -  col3: 200112413 -> 197662992",
-   "detected_at": "2026-10-20 00:52:45",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "PHX  CHANGED Full Season Contracts  -  col3: 200112413 -> 197662992",
-   "detected_at": "2026-10-20 00:52:45",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "PHX  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 18 -> 17",
-   "detected_at": "2026-10-20 00:52:45",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "UTH  + ADDED  Bradley, Tony",
-   "detected_at": "2026-10-20 00:52:45",
-   "source": "SHEETS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "UTH  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 192207863.4 -> 194657284.4, col9: 714130524.1 -> 716579945.1",
-   "detected_at": "2026-10-20 00:52:45",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "UTH  CHANGED Players Under Contract  -  col3: 184322863.4 -> 186772284.4",
-   "detected_at": "2026-10-20 00:52:45",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "UTH  CHANGED Full Season Contracts  -  col3: 184322863.4 -> 186772284.4",
-   "detected_at": "2026-10-20 00:52:45",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "UTH  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 16 -> 17",
-   "detected_at": "2026-10-20 00:52:45",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col2: 957038.4 -> 0, col3: 5380164 -> 0, col25: 22881463.52 -> 20432042.52",
-   "detected_at": "2026-10-20 00:52:45",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED 1st Incremental Tax Bracket  -  col2: 957038.4 -> 0, col3: 16140492 -> 0",
-   "detected_at": "2026-10-20 00:52:45",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED 4th Incremental Tax Bracket  -  col25: 38373750 -> 22795037.04",
-   "detected_at": "2026-10-20 00:52:45",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED 5th Incremental Tax Bracket  -  col25: 1025610.548 -> 0",
-   "detected_at": "2026-10-20 00:52:45",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col2: 957038.4 -> 0, col3: 16140492 -> 0, col25: 106198110.5 -> 89593787.04",
-   "detected_at": "2026-10-20 00:52:45",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  - REMOVED Cameron Corhen Atlanta Hawks",
-   "detected_at": "2026-10-20 00:52:42",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Cameron Corhen (WAIVED) Atlanta Hawks",
-   "detected_at": "2026-10-20 00:52:42",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  - REMOVED Tucker DeVries Boston Celtics",
-   "detected_at": "2026-10-20 00:52:42",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Tucker DeVries (WAIVED) Boston Celtics",
-   "detected_at": "2026-10-20 00:52:42",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  - REMOVED Kobe Johnson Atlanta Hawks",
-   "detected_at": "2026-10-20 00:52:42",
-   "source": "DOCS",
-   "type": "REMOVED"
   }
  ],
  "feeds": {
@@ -9859,12 +9877,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 10005,
-   "last": "2026-10-22 17:54:49"
+   "count": 10016,
+   "last": "2026-10-22 18:55:15"
   },
   "SCORES": {
-   "count": 2670,
-   "last": "2026-10-22 17:54:51"
+   "count": 2675,
+   "last": "2026-10-22 18:55:31"
   },
   "SHEETS": {
    "count": 5211,
@@ -9875,14 +9893,14 @@
    "last": "2026-10-22 05:06:27"
   },
   "WIKI": {
-   "count": 6763,
-   "last": "2026-10-22 18:40:35"
+   "count": 6765,
+   "last": "2026-10-22 19:13:33"
   },
   "WIKIWATCH": {
    "count": 540,
    "last": "2026-10-22 18:50:14"
   }
  },
- "generated_at": "2026-10-22T18:55:01",
- "total": 33211
+ "generated_at": "2026-10-22T19:13:34",
+ "total": 33229
 }
