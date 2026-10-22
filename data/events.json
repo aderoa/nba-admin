@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "John Konchar  ~ 81496: team -> Olympiacos BC",
+   "detected_at": "2026-10-22 18:50:14",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Olympiacos"
+  },
+  {
    "detail": "John Konchar  ~ 81496: team -> Free Agent",
    "detected_at": "2026-10-22 18:45:14",
    "source": "WIKIWATCH",
@@ -9832,12 +9839,6 @@
    "detected_at": "2026-10-20 00:52:42",
    "source": "DOCS",
    "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Kobe Johnson (WAIVED) Atlanta Hawks",
-   "detected_at": "2026-10-20 00:52:42",
-   "source": "DOCS",
-   "type": "ADDED"
   }
  ],
  "feeds": {
@@ -9878,10 +9879,10 @@
    "last": "2026-10-22 18:40:35"
   },
   "WIKIWATCH": {
-   "count": 539,
-   "last": "2026-10-22 18:45:14"
+   "count": 540,
+   "last": "2026-10-22 18:50:14"
   }
  },
- "generated_at": "2026-10-22T18:50:01",
- "total": 33210
+ "generated_at": "2026-10-22T18:51:02",
+ "total": 33211
 }
