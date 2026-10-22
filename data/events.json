@@ -1,6 +1,44 @@
 {
  "events": [
   {
+   "detail": "Robert Franks (basketball)  ~ league: - -> Serbian SuperLeague ABA League EuroLeague",
+   "detected_at": "2026-10-22 21:32:34",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Robert_Franks_(basketball)"
+  },
+  {
+   "detail": "Robert Franks (basketball)  ~ CAREER  + 2026–present Partizan",
+   "detected_at": "2026-10-22 21:32:34",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Robert_Franks_(basketball)"
+  },
+  {
+   "detail": "~ CHANGED Graham Ike  weight: 257 -> 245",
+   "detected_at": "2026-10-22 21:24:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Will Richard  weight: 207 -> 210",
+   "detected_at": "2026-10-22 21:24:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Moses Moody  weight: 217 -> 215",
+   "detected_at": "2026-10-22 21:24:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED LJ Cryer  weight: 197 -> 202",
+   "detected_at": "2026-10-22 21:24:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "FIBA Europe Cup NHSZ Szolnoki Olajbanyasz 85, BK Levicki Patrioti Levice 79",
    "detected_at": "2026-10-22 21:08:54",
    "source": "SCORES",
@@ -9845,42 +9883,6 @@
    "detected_at": "2026-10-20 01:11:40",
    "source": "TRANSACTIONS",
    "type": "Waive"
-  },
-  {
-   "detail": "+ ADDED   Drew Timme (PHX)",
-   "detected_at": "2026-10-20 01:11:39",
-   "source": "PLAYERS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "- REMOVED Dwight Powell (DAL)",
-   "detected_at": "2026-10-20 01:11:39",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED Micah Peavy (MEM)",
-   "detected_at": "2026-10-20 01:11:39",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED Kevin Porter Jr. (MIL)",
-   "detected_at": "2026-10-20 01:11:39",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED Sean Pedulla (HOU)",
-   "detected_at": "2026-10-20 01:11:39",
-   "source": "PLAYERS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "- REMOVED CJ Huntley (PHX)",
-   "detected_at": "2026-10-20 01:11:39",
-   "source": "PLAYERS",
-   "type": "REMOVED"
   }
  ],
  "feeds": {
@@ -9893,8 +9895,8 @@
    "last": "2026-10-22 16:02:01"
   },
   "PLAYERS": {
-   "count": 1912,
-   "last": "2026-10-22 17:43:54"
+   "count": 1916,
+   "last": "2026-10-22 21:24:54"
   },
   "RATINGS": {
    "count": 950,
@@ -9917,14 +9919,14 @@
    "last": "2026-10-22 05:06:27"
   },
   "WIKI": {
-   "count": 6766,
-   "last": "2026-10-22 19:59:34"
+   "count": 6768,
+   "last": "2026-10-22 21:32:34"
   },
   "WIKIWATCH": {
    "count": 540,
    "last": "2026-10-22 18:50:14"
   }
  },
- "generated_at": "2026-10-22T21:09:15",
- "total": 33260
+ "generated_at": "2026-10-22T21:32:35",
+ "total": 33266
 }
