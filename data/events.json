@@ -1,6 +1,605 @@
 {
  "events": [
   {
+   "detail": "FIBA Europe Cup BC Kalev Cramo 88, KB Bashkimi Prizren 84",
+   "detected_at": "2026-10-22 05:15:58",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-21/KB-Bashkimi-Prizren-at-BC-Kalev-Cramo/543328"
+  },
+  {
+   "detail": "FIBA Europe Cup ASP Promitheas Patras 91, Batumi RSU 76",
+   "detected_at": "2026-10-22 05:15:54",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-21/Batumi-RSU-at-ASP-Promitheas-Patras/543329"
+  },
+  {
+   "detail": "FIBA Europe Cup KB Trepca Mitrovice 89, BK Opava 80",
+   "detected_at": "2026-10-22 05:15:50",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-21/BK-Opava-at-KB-Trepca-Mitrovice/543330"
+  },
+  {
+   "detail": "Eurocup Napoli Basket 105, Tofas SC 101",
+   "detected_at": "2026-10-22 05:15:45",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-21/Tofas-SC-at-Napoli-Basket/527176"
+  },
+  {
+   "detail": "FIBA Europe Cup Esenler Erokspor 118, SCM CSU Craiova 96",
+   "detected_at": "2026-10-22 05:15:41",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-21/SCM-CSU-Craiova-at-Esenler-Erokspor/545070"
+  },
+  {
+   "detail": "Eurocup Hapoel Bank Yahav Jerusalem 100, Rigas Zelli 64",
+   "detected_at": "2026-10-22 05:15:36",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-21/Rigas-Zelli-at-Hapoel-Bank-Yahav-Jerusalem/527184"
+  },
+  {
+   "detail": "FIBA Europe Cup AEK Larnaca 99, Tartu Ulikool MaksMoorits 93",
+   "detected_at": "2026-10-22 05:15:32",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-21/Tartu-Ulikool-MaksMoorits-at-AEK-Larnaca/543341"
+  },
+  {
+   "detail": "FIBA Europe Cup Sporting Clube de Portugal 71, Kolossos Rodou BC 69",
+   "detected_at": "2026-10-22 05:15:27",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-21/Kolossos-Rodou-BC-at-Sporting-Clube-de-Portugal/543333"
+  },
+  {
+   "detail": "FIBA Europe Cup King Szczecin 78, Keravnos Strovolou 65",
+   "detected_at": "2026-10-22 05:15:23",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-21/King-Szczecin-at-Keravnos-Strovolou/543335"
+  },
+  {
+   "detail": "FIBA Europe Cup CSM Oradea 92, VEF Riga 84",
+   "detected_at": "2026-10-22 05:15:18",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-21/VEF-Riga-at-CSM-Oradea/543339"
+  },
+  {
+   "detail": "Eurocup Lenovo Tenerife 104, Fraport Skyliners 94",
+   "detected_at": "2026-10-22 05:15:14",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-21/Lenovo-Tenerife-at-Fraport-Skyliners/527177"
+  },
+  {
+   "detail": "Eurocup KK Bosna 86, Bahcesehir Koleji 77",
+   "detected_at": "2026-10-22 05:15:09",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-21/Bahcesehir-Koleji-at-KK-Bosna/527171"
+  },
+  {
+   "detail": "Eurocup JL Bourg en Bresse 90, Dolomiti Energia Trento 79",
+   "detected_at": "2026-10-22 05:15:05",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-21/Dolomiti-Energia-Trento-at-JL-Bourg-en-Bresse/527174"
+  },
+  {
+   "detail": "Eurocup Bertram Tortona 89, Siblo San Pablo Burgos 79",
+   "detected_at": "2026-10-22 05:15:00",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-21/Siblo-San-Pablo-Burgos-at-Bertram-Tortona/527181"
+  },
+  {
+   "detail": "Eurocup PAOK BC 87, Ratiopharm Ulm 78",
+   "detected_at": "2026-10-22 05:14:56",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-21/Ratiopharm-Ulm-at-PAOK-BC/527172"
+  },
+  {
+   "detail": "Eurocup BV Chemnitz 99 95, WKS Slask Wroclaw 67",
+   "detected_at": "2026-10-22 05:14:51",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-21/WKS-Slask-Wroclaw-at-BV-Chemnitz-99/527173"
+  },
+  {
+   "detail": "Finnish Korisliiga Lahti Basketball 108, Kauhajoki Karhu 102",
+   "detected_at": "2026-10-22 05:14:47",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-21/Kauhajoki-Karhu-at-Lahti-Basketball/544885"
+  },
+  {
+   "detail": "Eurocup Le Mans Sarthe Basket 84, KK Cedevita Olimpija Ljubljana 66",
+   "detected_at": "2026-10-22 05:14:43",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-21/Le-Mans-Sarthe-Basket-at-KK-Cedevita-Olimpija-Ljubljana/527183"
+  },
+  {
+   "detail": "Eurocup London Lions 89, U Banca Transilvania Cluj Napoca 72",
+   "detected_at": "2026-10-22 05:14:39",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-21/London-Lions-at-U-Banca-Transilvania-Cluj-Napoca/527178"
+  },
+  {
+   "detail": "Basketball Champions League Europe Port of Antwerp Giants 103, AEK Athens 76",
+   "detected_at": "2026-10-22 05:14:34",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-21/Port-of-Antwerp-Giants-at-AEK-Athens/533569"
+  },
+  {
+   "detail": "Basketball Africa League Qualification Al Ittihad Alexandria 93, Nadi Basket Staoueli 69",
+   "detected_at": "2026-10-22 05:14:29",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-21/Nadi-Basket-Staoueli-at-Al-Ittihad-Alexandria/545244"
+  },
+  {
+   "detail": "Euroleague Hapoel Tel Aviv 90, Virtus Bologna 81",
+   "detected_at": "2026-10-22 05:14:24",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-21/Virtus-Bologna-at-Hapoel-Tel-Aviv/526828"
+  },
+  {
+   "detail": "Basketball Africa League Qualification Namuwongo Blazers 109, Ushindzi de Ouani 45",
+   "detected_at": "2026-10-22 05:14:20",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-21/Ushindzi-de-Ouani-at-Namuwongo-Blazers/545705"
+  },
+  {
+   "detail": "Basketball Champions League Europe FC Porto Ferpinta 86, Bnei Herzelia 74",
+   "detected_at": "2026-10-22 05:14:16",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-21/FC-Porto-Ferpinta-at-Bnei-Herzelia/533571"
+  },
+  {
+   "detail": "Finnish Korisliiga Pyrinto Tampere 80, Joensuun Kataja 62",
+   "detected_at": "2026-10-22 05:14:12",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-21/Joensuun-Kataja-at-Pyrinto-Tampere/534895"
+  },
+  {
+   "detail": "Finnish Korisliiga KTP Basket 95, Kouvot 89",
+   "detected_at": "2026-10-22 05:14:08",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-21/KTP-Basket-at-Kouvot/534893"
+  },
+  {
+   "detail": "Finnish Korisliiga Kipina 109, Tapiolan Honka 100",
+   "detected_at": "2026-10-22 05:14:04",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-21/Tapiolan-Honka-at-Kipina/534892"
+  },
+  {
+   "detail": "Lithuanian LKL Lietuvos Rytas 79, Taurages 71",
+   "detected_at": "2026-10-22 05:13:59",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-21/Lietuvos-Rytas-at-Taurages/532724"
+  },
+  {
+   "detail": "Chinese CBA Zhejiang Chouzhou 89, Shandong 75",
+   "detected_at": "2026-10-22 05:13:54",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-21/Shandong-at-Zhejiang-Chouzhou/542140"
+  },
+  {
+   "detail": "Chinese CBA Liaoning 97, Qingdao 93",
+   "detected_at": "2026-10-22 05:13:50",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-21/Liaoning-at-Qingdao/542137"
+  },
+  {
+   "detail": "PBA Governors Cup San Miguel Beermen 135, NLEX Road Warriors 133",
+   "detected_at": "2026-10-22 05:13:45",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-21/NLEX-Road-Warriors-at-San-Miguel-Beermen/544798"
+  },
+  {
+   "detail": "Kobe Bufkin  ~ team: Utah Jazz -> Free agent",
+   "detected_at": "2026-10-22 05:13:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kobe_Bufkin"
+  },
+  {
+   "detail": "Keon Johnson (basketball, born 2002)  ~ team: Free agent -> College Park Skyhawks",
+   "detected_at": "2026-10-22 05:13:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Keon_Johnson_(basketball,_born_2002)"
+  },
+  {
+   "detail": "Keon Johnson (basketball, born 2002)  ~ league: - -> NBA G League",
+   "detected_at": "2026-10-22 05:13:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Keon_Johnson_(basketball,_born_2002)"
+  },
+  {
+   "detail": "Keon Johnson (basketball, born 2002)  ~ CAREER  + 2026–present College Park Skyhawks",
+   "detected_at": "2026-10-22 05:13:36",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Keon_Johnson_(basketball,_born_2002)"
+  },
+  {
+   "detail": "Antonio Reeves  ~ number: - -> 12",
+   "detected_at": "2026-10-22 05:13:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Antonio_Reeves"
+  },
+  {
+   "detail": "Kevin Porter Jr.  ~ CAREER  + 2024 PAOK Thessaloniki",
+   "detected_at": "2026-10-22 05:13:36",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Kevin_Porter_Jr."
+  },
+  {
+   "detail": "Jamorko Pickett  ~ league: P. LEAGUE+ -> P. League+",
+   "detected_at": "2026-10-22 05:13:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jamorko_Pickett"
+  },
+  {
+   "detail": "Jamorko Pickett  ~ CAREER  + 2025–2026 Fighting Eagles Nagoya",
+   "detected_at": "2026-10-22 05:13:36",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Jamorko_Pickett"
+  },
+  {
+   "detail": "Jamorko Pickett  ~ CAREER  + 2026–present Taipei Fubon Braves",
+   "detected_at": "2026-10-22 05:13:36",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Jamorko_Pickett"
+  },
+  {
+   "detail": "Ausar Thompson  ~ position: Small forward -> Small forward / shooting guard",
+   "detected_at": "2026-10-22 05:13:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Ausar_Thompson"
+  },
+  {
+   "detail": "Ausar Thompson  ~ weight_lb: 230 -> 205",
+   "detected_at": "2026-10-22 05:13:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Ausar_Thompson"
+  },
+  {
+   "detail": "John Konchar  ~ team: Free agent -> Olympiacos",
+   "detected_at": "2026-10-22 05:13:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/John_Konchar"
+  },
+  {
+   "detail": "Walter Clayton Jr.  ~ team: Free agent -> Dallas Mavericks",
+   "detected_at": "2026-10-22 05:13:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Walter_Clayton_Jr."
+  },
+  {
+   "detail": "Walter Clayton Jr.  ~ league: - -> NBA",
+   "detected_at": "2026-10-22 05:13:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Walter_Clayton_Jr."
+  },
+  {
+   "detail": "Walter Clayton Jr.  ~ number: - -> 1",
+   "detected_at": "2026-10-22 05:13:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Walter_Clayton_Jr."
+  },
+  {
+   "detail": "Walter Clayton Jr.  ~ CAREER  + –present Dallas Mavericks",
+   "detected_at": "2026-10-22 05:13:36",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Walter_Clayton_Jr."
+  },
+  {
+   "detail": "Walter Clayton Jr.  ~ CAREER  + 2026–present →Texas Legends",
+   "detected_at": "2026-10-22 05:13:36",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Walter_Clayton_Jr."
+  },
+  {
+   "detail": "Matisse Thybulle  ~ number: 26 -> 4",
+   "detected_at": "2026-10-22 05:13:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Matisse_Thybulle"
+  },
+  {
+   "detail": "Adem Bona  ~ height_in: 9 -> 10",
+   "detected_at": "2026-10-22 05:13:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Adem_Bona"
+  },
+  {
+   "detail": "Adem Bona  ~ weight_lb: 245 -> 235",
+   "detected_at": "2026-10-22 05:13:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Adem_Bona"
+  },
+  {
+   "detail": "Blake Hinson  ~ team: - -> Free agent",
+   "detected_at": "2026-10-22 05:13:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Blake_Hinson"
+  },
+  {
+   "detail": "Blake Hinson  ~ league: NBA -> -",
+   "detected_at": "2026-10-22 05:13:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Blake_Hinson"
+  },
+  {
+   "detail": "Kadary Richmond  ~ team: Free agent -> Cleveland Charge",
+   "detected_at": "2026-10-22 05:13:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kadary_Richmond"
+  },
+  {
+   "detail": "Kadary Richmond  ~ league: - -> NBA G League",
+   "detected_at": "2026-10-22 05:13:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kadary_Richmond"
+  },
+  {
+   "detail": "Kadary Richmond  ~ CAREER  + Washington Wizards",
+   "detected_at": "2026-10-22 05:13:36",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Kadary_Richmond"
+  },
+  {
+   "detail": "Kadary Richmond  ~ CAREER  + 2026–present Cleveland Charge",
+   "detected_at": "2026-10-22 05:13:36",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Kadary_Richmond"
+  },
+  {
+   "detail": "Ondřej Balvín  ~ team: Free Agent -> TSG GhostHawks",
+   "detected_at": "2026-10-22 05:13:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Ond%C5%99ej_Balv%C3%ADn"
+  },
+  {
+   "detail": "Ondřej Balvín  ~ league: - -> P. League+",
+   "detected_at": "2026-10-22 05:13:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Ond%C5%99ej_Balv%C3%ADn"
+  },
+  {
+   "detail": "Ondřej Balvín  ~ number: - -> 34",
+   "detected_at": "2026-10-22 05:13:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Ond%C5%99ej_Balv%C3%ADn"
+  },
+  {
+   "detail": "Ondřej Balvín  ~ CAREER  + 2026–present TSG GhostHawks",
+   "detected_at": "2026-10-22 05:13:36",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Ond%C5%99ej_Balv%C3%ADn"
+  },
+  {
+   "detail": "Dušan Miletić  ~ league: Israeli Premier League EuroCup -> Israeli Basketball Premier League EuroCup",
+   "detected_at": "2026-10-22 05:13:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Du%C5%A1an_Mileti%C4%87"
+  },
+  {
+   "detail": "Marcos Knight  ~ number: 14 -> 9",
+   "detected_at": "2026-10-22 05:13:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Marcos_Knight"
+  },
+  {
+   "detail": "Sebas Saiz  ~ team: Alvark Tokyo -> Osaka Evessa",
+   "detected_at": "2026-10-22 05:13:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Sebas_Saiz"
+  },
+  {
+   "detail": "Sebas Saiz  ~ CAREER  + 2021–2026 Alvark Tokyo",
+   "detected_at": "2026-10-22 05:13:36",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Sebas_Saiz"
+  },
+  {
+   "detail": "Sebas Saiz  ~ CAREER  + 2026–present Osaka Evessa",
+   "detected_at": "2026-10-22 05:13:36",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Sebas_Saiz"
+  },
+  {
+   "detail": "Khalifa Diop  ~ weight_lb: 235 -> 231",
+   "detected_at": "2026-10-22 05:13:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Khalifa_Diop"
+  },
+  {
+   "detail": "Klemen Prepelič  ~ CAREER  + 2019–2020 →Joventut Badalona",
+   "detected_at": "2026-10-22 05:13:36",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Klemen_Prepeli%C4%8D"
+  },
+  {
+   "detail": "Klemen Prepelič  ~ CAREER  + 2023–2024 Galatasaray",
+   "detected_at": "2026-10-22 05:13:36",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Klemen_Prepeli%C4%8D"
+  },
+  {
+   "detail": "Marko Todorović (basketball)  ~ CAREER  + 2026–present Taipei Fubon Braves",
+   "detected_at": "2026-10-22 05:13:36",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Marko_Todorovi%C4%87_(basketball)"
+  },
+  {
+   "detail": "Aaron Geramipoor  ~ team: Johor Southern Tigers -> TSG GhostHawks",
+   "detected_at": "2026-10-22 05:13:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Aaron_Geramipoor"
+  },
+  {
+   "detail": "Aaron Geramipoor  ~ league: Major Basketball League Malaysia -> P. League+",
+   "detected_at": "2026-10-22 05:13:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Aaron_Geramipoor"
+  },
+  {
+   "detail": "Aaron Geramipoor  ~ CAREER  + 2020 San Lorenzo de Almagro",
+   "detected_at": "2026-10-22 05:13:36",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Aaron_Geramipoor"
+  },
+  {
+   "detail": "Aaron Geramipoor  ~ CAREER  + 2021 Manchester Giants",
+   "detected_at": "2026-10-22 05:13:36",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Aaron_Geramipoor"
+  },
+  {
+   "detail": "Aaron Geramipoor  ~ CAREER  + 2021 C.D. Universidad de Concepción",
+   "detected_at": "2026-10-22 05:13:36",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Aaron_Geramipoor"
+  },
+  {
+   "detail": "Aaron Geramipoor  ~ CAREER  + 2026 Johor Southern Tigers",
+   "detected_at": "2026-10-22 05:13:36",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Aaron_Geramipoor"
+  },
+  {
+   "detail": "Aaron Geramipoor  ~ CAREER  + 2026–present TSG GhostHawks",
+   "detected_at": "2026-10-22 05:13:36",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Aaron_Geramipoor"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED 5 Years for $81,509,460. Room. Player option to extend the contract to include the 2030-31 Season. Skill; Injury or Illness; Mental; Death. Trade Kicker (10%). Love of the Game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-10-22 05:06:28",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  5 Years for $81,509,460. Bird Exception. Player option to extend the contract to include the 2030-31 Season. Skill; Injury or Illness; Mental; Death. Trade Kicker (10%). Love of the Game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-10-22 05:06:28",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-10-21  Dallas Mavericks signed guard Walter Clayton Jr. to a Two-Way Contract.",
+   "detected_at": "2026-10-22 05:06:27",
+   "source": "TRANSACTIONS",
+   "type": "Signing"
+  },
+  {
+   "detail": "2026-10-21  Utah Jazz waived forward Blake Hinson.",
+   "detected_at": "2026-10-22 05:06:27",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "+ ADDED   Walter Clayton Jr. (DAL)",
+   "detected_at": "2026-10-21 20:51:45",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "- REMOVED Blake Hinson (UTA)",
+   "detected_at": "2026-10-21 20:51:45",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "~ CHANGED Tarik Biberović  name: Tarik Biberovic -> Tarik Biberović",
+   "detected_at": "2026-10-21 20:51:45",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Karim López  name: Karim Lopez -> Karim López",
+   "detected_at": "2026-10-21 20:51:45",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Labaron Philon Jr.  name: Labaron Philon -> Labaron Philon Jr.",
+   "detected_at": "2026-10-21 20:51:45",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Tristan Vukčević  name: Tristan Vukcevic -> Tristan Vukčević",
+   "detected_at": "2026-10-21 20:51:45",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "Jeremy Fears, Jr. UConn 78, Michigan State 70",
    "detected_at": "2026-10-21 20:35:19",
    "source": "SCORES",
@@ -9321,628 +9920,20 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Goga_Bitadze"
-  },
-  {
-   "detail": "Goga Bitadze  ~ weight_lb: 250 -> 235",
-   "detected_at": "2026-10-19 03:58:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Goga_Bitadze"
-  },
-  {
-   "detail": "Jahmyl Telfort  ~ team: Free agent -> San Diego Clippers",
-   "detected_at": "2026-10-19 03:58:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jahmyl_Telfort"
-  },
-  {
-   "detail": "Jahmyl Telfort  ~ league: - -> NBA G League",
-   "detected_at": "2026-10-19 03:58:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jahmyl_Telfort"
-  },
-  {
-   "detail": "Jahmyl Telfort  ~ CAREER  + 2026–present San Diego Clippers",
-   "detected_at": "2026-10-19 03:58:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Jahmyl_Telfort"
-  },
-  {
-   "detail": "Josh Hart  ~ position: Small forward -> Shooting guard",
-   "detected_at": "2026-10-19 03:58:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Josh_Hart"
-  },
-  {
-   "detail": "Trevor Keels  ~ team: Washington Wizards -> Capital City Go-Go",
-   "detected_at": "2026-10-19 03:58:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Trevor_Keels"
-  },
-  {
-   "detail": "Trevor Keels  ~ league: NBA -> NBA G League",
-   "detected_at": "2026-10-19 03:58:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Trevor_Keels"
-  },
-  {
-   "detail": "Trevor Keels  ~ CAREER  + 2026–present Capital City Go-Go",
-   "detected_at": "2026-10-19 03:58:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Trevor_Keels"
-  },
-  {
-   "detail": "OG Anunoby  ~ position: Small forward -> Small forward / shooting guard",
-   "detected_at": "2026-10-19 03:58:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/OG_Anunoby"
-  },
-  {
-   "detail": "Kenrich Williams  ~ position: Small forward / power forward -> Small forward / shooting guard",
-   "detected_at": "2026-10-19 03:58:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Kenrich_Williams"
-  },
-  {
-   "detail": "Jaylin Williams (basketball, born 2002)  ~ position: Power forward / center -> Power forward",
-   "detected_at": "2026-10-19 03:58:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jaylin_Williams_(basketball,_born_2002)"
-  },
-  {
-   "detail": "Jared McCain  ~ height_in: 3 -> 2",
-   "detected_at": "2026-10-19 03:58:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jared_McCain"
-  },
-  {
-   "detail": "Anthony Black (basketball)  ~ weight_lb: 200 -> 212",
-   "detected_at": "2026-10-19 03:58:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Anthony_Black_(basketball)"
-  },
-  {
-   "detail": "Jonathan Isaac  ~ weight_lb: 230 -> 240",
-   "detected_at": "2026-10-19 03:58:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jonathan_Isaac"
-  },
-  {
-   "detail": "Franz Wagner  ~ weight_lb: 220 -> 230",
-   "detected_at": "2026-10-19 03:58:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Franz_Wagner"
-  },
-  {
-   "detail": "Noah Penda  ~ weight_lb: 215 -> 242",
-   "detected_at": "2026-10-19 03:58:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Noah_Penda"
-  },
-  {
-   "detail": "Blake Wesley (basketball)  ~ team: Free agent -> San Diego Clippers",
-   "detected_at": "2026-10-19 03:58:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Blake_Wesley_(basketball)"
-  },
-  {
-   "detail": "Blake Wesley (basketball)  ~ league: - -> NBA G League",
-   "detected_at": "2026-10-19 03:58:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Blake_Wesley_(basketball)"
-  },
-  {
-   "detail": "Blake Wesley (basketball)  ~ CAREER  + 2026–present San Diego Clippers",
-   "detected_at": "2026-10-19 03:58:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Blake_Wesley_(basketball)"
-  },
-  {
-   "detail": "Bez Mbeng  ~ team: Miami Heat -> Sioux Falls Skyforce",
-   "detected_at": "2026-10-19 03:58:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Bez_Mbeng"
-  },
-  {
-   "detail": "Bez Mbeng  ~ league: NBA -> NBA G League",
-   "detected_at": "2026-10-19 03:58:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Bez_Mbeng"
-  },
-  {
-   "detail": "Bez Mbeng  ~ number: 19 -> 3",
-   "detected_at": "2026-10-19 03:58:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Bez_Mbeng"
-  },
-  {
-   "detail": "Bez Mbeng  ~ CAREER  + 2025–present Sioux Falls Skyforce",
-   "detected_at": "2026-10-19 03:58:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Bez_Mbeng"
-  },
-  {
-   "detail": "Hayden Gray  ~ team: Boston Celtics -> Maine Celtics",
-   "detected_at": "2026-10-19 03:58:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Hayden_Gray"
-  },
-  {
-   "detail": "Hayden Gray  ~ league: NBA -> NBA G League",
-   "detected_at": "2026-10-19 03:58:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Hayden_Gray"
-  },
-  {
-   "detail": "Hayden Gray  ~ number: 44 -> -",
-   "detected_at": "2026-10-19 03:58:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Hayden_Gray"
-  },
-  {
-   "detail": "Hayden Gray  ~ CAREER  + 2025–present Maine Celtics",
-   "detected_at": "2026-10-19 03:58:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Hayden_Gray"
-  },
-  {
-   "detail": "2026-10-17  Washington Wizards converted the contract of guard Reece Beekman to a Two-Way Contract.",
-   "detected_at": "2026-10-18 23:20:40",
-   "source": "TRANSACTIONS",
-   "type": "ContractConverted"
-  },
-  {
-   "detail": "Hungarian NBIA Atomeromu SE 112, Budapesti Honved Se 81",
-   "detected_at": "2026-10-18 23:08:51",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Budapesti-Honved-Se-at-Atomeromu-SE/535381"
-  },
-  {
-   "detail": "Hungarian NBIA + Gergely Papp → Budapesti Honved Se",
-   "detected_at": "2026-10-18 23:08:50",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Hungarian NBIA + Agoston Nagy → Budapesti Honved Se",
-   "detected_at": "2026-10-18 23:08:50",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Hungarian NBIA Alba Fehervar 94, Kometa KVGY Kaposvari KK 85",
-   "detected_at": "2026-10-18 23:08:47",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Kometa-KVGY-Kaposvari-KK-at-Alba-Fehervar/535380"
-  },
-  {
-   "detail": "Hungarian NBIA + Samuel Taiwo → Kometa KVGY Kaposvari KK",
-   "detected_at": "2026-10-18 23:08:46",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Hungarian NBIA + Zsombor Halmai → Kometa KVGY Kaposvari KK",
-   "detected_at": "2026-10-18 23:08:46",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Hungarian NBIA Sopron KC 81, NHSZ Szolnoki Olajbanyasz 72",
-   "detected_at": "2026-10-18 23:08:43",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/NHSZ-Szolnoki-Olajbanyasz-at-Sopron-KC/535379"
-  },
-  {
-   "detail": "Hungarian NBIA Phoenix MT Fot 88, DEAC 81",
-   "detected_at": "2026-10-18 23:08:39",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Phoenix-MT-Fot-at-DEAC/535378"
-  },
-  {
-   "detail": "Hungarian NBIA + David Boinitzer → Phoenix MT Fot",
-   "detected_at": "2026-10-18 23:08:38",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Italian Serie A2 Basket Sidigas Avellino 77, UEB Gesteco Cividale 62",
-   "detected_at": "2026-10-18 23:08:35",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-17/Sidigas-Avellino-at-UEB-Gesteco-Cividale/529816"
-  },
-  {
-   "detail": "Italian Serie A2 Basket + Filippo Baldi → UEB Gesteco Cividale",
-   "detected_at": "2026-10-18 23:08:33",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Italian Serie A2 Basket + Riccardo Gozo → UEB Gesteco Cividale",
-   "detected_at": "2026-10-18 23:08:33",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Italian Lega Basket Serie A Dolomiti Energia Trento 87, OpenJobMetis Varese 85",
-   "detected_at": "2026-10-18 23:08:28",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-18/OpenJobMetis-Varese-at-Dolomiti-Energia-Trento/529580"
-  },
-  {
-   "detail": "Italian Lega Basket Serie A Universo DeLonghi Treviso 102, Old Wild West Udine 86",
-   "detected_at": "2026-10-18 23:08:24",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-18/Old-Wild-West-Udine-at-Universo-DeLonghi-Treviso/529581"
-  },
-  {
-   "detail": "Italian Lega Basket Serie A + Gregorio Allinei → Universo DeLonghi Treviso",
-   "detected_at": "2026-10-18 23:08:23",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Italian Lega Basket Serie A Pallacanestro Trieste 2004 92, Acqua San Bernardo Cantu 72",
-   "detected_at": "2026-10-18 23:08:20",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-18/Acqua-San-Bernardo-Cantu-at-Pallacanestro-Trieste-2004/529582"
-  },
-  {
-   "detail": "Italian Lega Basket Serie A + Osvaldas Olisevicius → Acqua San Bernardo Cantu",
-   "detected_at": "2026-10-18 23:08:18",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Italian Lega Basket Serie A AX Armani Exchange Milan 98, Napoli Basket 82",
-   "detected_at": "2026-10-18 23:08:15",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-18/AX-Armani-Exchange-Milan-at-Napoli-Basket/529586"
-  },
-  {
-   "detail": "Aleksandar Zečević (basketball, born 1996)  ~ team: Darüşşafaka -> Free Agent",
-   "detected_at": "2026-10-18 23:08:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Aleksandar_Ze%C4%8Devi%C4%87_(basketball,_born_1996)"
-  },
-  {
-   "detail": "Aleksandar Zečević (basketball, born 1996)  ~ league: TBL -> -",
-   "detected_at": "2026-10-18 23:08:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Aleksandar_Ze%C4%8Devi%C4%87_(basketball,_born_1996)"
-  },
-  {
-   "detail": "Aleksandar Zečević (basketball, born 1996)  ~ number: 36 -> -",
-   "detected_at": "2026-10-18 23:08:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Aleksandar_Ze%C4%8Devi%C4%87_(basketball,_born_1996)"
-  },
-  {
-   "detail": "Aleksandar Zečević (basketball, born 1996)  ~ CAREER  + 2025–2026 Darüşşafaka",
-   "detected_at": "2026-10-18 23:08:08",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Aleksandar_Ze%C4%8Devi%C4%87_(basketball,_born_1996)"
-  },
-  {
-   "detail": "Eray Aydoğan  ~ team: Darüşşafaka -> Free Agent",
-   "detected_at": "2026-10-18 23:08:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Eray_Aydo%C4%9Fan"
-  },
-  {
-   "detail": "Eray Aydoğan  ~ league: TBL -> -",
-   "detected_at": "2026-10-18 23:08:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Eray_Aydo%C4%9Fan"
-  },
-  {
-   "detail": "Eray Aydoğan  ~ number: 6 -> -",
-   "detected_at": "2026-10-18 23:08:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Eray_Aydo%C4%9Fan"
-  },
-  {
-   "detail": "Eray Aydoğan  ~ CAREER  + 2025–2026 Darüşşafaka",
-   "detected_at": "2026-10-18 23:08:08",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Eray_Aydo%C4%9Fan"
-  },
-  {
-   "detail": "Trendon Watford  ~ position: Power forward / small forward -> Small forward / shooting guard",
-   "detected_at": "2026-10-18 22:46:17",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Trendon_Watford"
-  },
-  {
-   "detail": "Trendon Watford  ~ height_in: 8 -> 9",
-   "detected_at": "2026-10-18 22:46:17",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Trendon_Watford"
-  },
-  {
-   "detail": "Trendon Watford  ~ weight_lb: 245 -> 244",
-   "detected_at": "2026-10-18 22:46:17",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Trendon_Watford"
-  },
-  {
-   "detail": "Dejounte Murray  ~ weight_lb: 180 -> 188",
-   "detected_at": "2026-10-18 22:24:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Dejounte_Murray"
-  },
-  {
-   "detail": "DeAndre Jordan  ~ weight_lb: 265 -> 280",
-   "detected_at": "2026-10-18 22:24:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/DeAndre_Jordan"
-  },
-  {
-   "detail": "Bryce McGowens  ~ weight_lb: 190 -> 202",
-   "detected_at": "2026-10-18 22:24:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Bryce_McGowens"
-  },
-  {
-   "detail": "AJ Johnson (basketball)  ~ height_in: 5 -> 6",
-   "detected_at": "2026-10-18 22:24:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/AJ_Johnson_(basketball)"
-  },
-  {
-   "detail": "AJ Johnson (basketball)  ~ weight_lb: 160 -> 175",
-   "detected_at": "2026-10-18 22:24:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/AJ_Johnson_(basketball)"
-  },
-  {
-   "detail": "Jordan Poole  ~ weight_lb: 194 -> 200",
-   "detected_at": "2026-10-18 22:24:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jordan_Poole"
-  },
-  {
-   "detail": "Bennedict Mathurin  ~ weight_lb: 210 -> 222",
-   "detected_at": "2026-10-18 22:24:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Bennedict_Mathurin"
-  },
-  {
-   "detail": "Karlo Matković  ~ height_in: 10 -> 11",
-   "detected_at": "2026-10-18 22:24:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Karlo_Matkovi%C4%87"
-  },
-  {
-   "detail": "Karlo Matković  ~ nationality: Croatian / Bosnian -> -",
-   "detected_at": "2026-10-18 22:24:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Karlo_Matkovi%C4%87"
-  },
-  {
-   "detail": "Herbert Jones (basketball)  ~ weight_lb: 206 -> 210",
-   "detected_at": "2026-10-18 22:24:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Herbert_Jones_(basketball)"
-  },
-  {
-   "detail": "Trey Murphy III  ~ height_in: 8 -> 9",
-   "detected_at": "2026-10-18 22:24:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Trey_Murphy_III"
-  },
-  {
-   "detail": "Trey Murphy III  ~ weight_lb: 206 -> 220",
-   "detected_at": "2026-10-18 22:24:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Trey_Murphy_III"
-  },
-  {
-   "detail": "Yves Missi  ~ weight_lb: 235 -> 236",
-   "detected_at": "2026-10-18 22:24:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Yves_Missi"
-  },
-  {
-   "detail": "Yves Missi  ~ nationality: Cameroonian -> -",
-   "detected_at": "2026-10-18 22:24:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Yves_Missi"
-  },
-  {
-   "detail": "Derik Queen  ~ height_in: 9 -> 11",
-   "detected_at": "2026-10-18 22:24:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Derik_Queen"
-  },
-  {
-   "detail": "Derik Queen  ~ weight_lb: 250 -> 225",
-   "detected_at": "2026-10-18 22:24:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Derik_Queen"
-  },
-  {
-   "detail": "Julian Reese  ~ height_in: 9 -> 11",
-   "detected_at": "2026-10-18 22:24:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Julian_Reese"
-  },
-  {
-   "detail": "Kobe Bufkin  ~ team: New Orleans Pelicans -> Free agent",
-   "detected_at": "2026-10-18 22:02:16",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Kobe_Bufkin"
-  },
-  {
-   "detail": "Kobe Bufkin  ~ league: NBA -> -",
-   "detected_at": "2026-10-18 22:02:16",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Kobe_Bufkin"
-  },
-  {
-   "detail": "Kobe Bufkin  ~ number: 4 -> -",
-   "detected_at": "2026-10-18 22:02:16",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Kobe_Bufkin"
-  },
-  {
-   "detail": "Saddiq Bey  ~ position: Small forward / shooting guard -> Small forward",
-   "detected_at": "2026-10-18 22:02:16",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Saddiq_Bey"
-  },
-  {
-   "detail": "Saddiq Bey  ~ weight_lb: 215 -> 240",
-   "detected_at": "2026-10-18 22:02:16",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Saddiq_Bey"
-  },
-  {
-   "detail": "James Palmer Jr.  ~ team: Free Agent -> Osaka Evessa",
-   "detected_at": "2026-10-18 20:56:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/James_Palmer_Jr."
-  },
-  {
-   "detail": "James Palmer Jr.  ~ league: - -> B.League",
-   "detected_at": "2026-10-18 20:56:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/James_Palmer_Jr."
-  },
-  {
-   "detail": "James Palmer Jr.  ~ number: - -> 12",
-   "detected_at": "2026-10-18 20:56:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/James_Palmer_Jr."
-  },
-  {
-   "detail": "James Palmer Jr.  ~ CAREER  + 2026–present Osaka Evessa",
-   "detected_at": "2026-10-18 20:56:08",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/James_Palmer_Jr."
-  },
-  {
-   "detail": "Jaime Jaquez Jr.  ~ position: Small forward / shooting guard -> Shooting guard",
-   "detected_at": "2026-10-18 20:34:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jaime_Jaquez_Jr."
-  },
-  {
-   "detail": "Jaime Jaquez Jr.  ~ height_in: 6 -> 7",
-   "detected_at": "2026-10-18 20:34:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jaime_Jaquez_Jr."
-  },
-  {
-   "detail": "Gary Trent Jr.  ~ height_in: 5 -> 4",
-   "detected_at": "2026-10-18 20:34:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Gary_Trent_Jr."
-  },
-  {
-   "detail": "Joan Beringer  ~ height_ft: 6 -> 7",
-   "detected_at": "2026-10-18 20:34:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Joan_Beringer"
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 4198,
-   "last": "2026-10-21 20:23:58"
+   "count": 4200,
+   "last": "2026-10-22 05:06:28"
   },
   "GLEAGUE": {
    "count": 200,
    "last": "2026-10-20 16:03:04"
   },
   "PLAYERS": {
-   "count": 1891,
-   "last": "2026-10-21 20:23:57"
+   "count": 1897,
+   "last": "2026-10-21 20:51:45"
   },
   "RATINGS": {
    "count": 950,
@@ -9953,26 +9944,26 @@
    "last": "2026-10-21 20:34:57"
   },
   "SCORES": {
-   "count": 2589,
-   "last": "2026-10-21 20:35:19"
+   "count": 2620,
+   "last": "2026-10-22 05:15:58"
   },
   "SHEETS": {
    "count": 5211,
    "last": "2026-10-21 20:24:01"
   },
   "TRANSACTIONS": {
-   "count": 671,
-   "last": "2026-10-21 20:23:58"
+   "count": 673,
+   "last": "2026-10-22 05:06:27"
   },
   "WIKI": {
-   "count": 6697,
-   "last": "2026-10-21 20:32:03"
+   "count": 6743,
+   "last": "2026-10-22 05:13:36"
   },
   "WIKIWATCH": {
    "count": 452,
    "last": "2026-10-21 20:23:55"
   }
  },
- "generated_at": "2026-10-21T20:35:23",
- "total": 32809
+ "generated_at": "2026-10-22T05:16:04",
+ "total": 32896
 }
