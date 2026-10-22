@@ -1,6 +1,97 @@
 {
  "events": [
   {
+   "detail": "French NM1 ~ RETURN Pape Moustapha Diop → Saint Chamond NM1 (from Saint Chamond Pro B)",
+   "detected_at": "2026-10-22 16:46:35",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "French NM1 ~ RETURN Gabin Lefort → Saint Chamond NM1 (from Saint Chamond Pro B)",
+   "detected_at": "2026-10-22 16:46:35",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "French NM1 ~ RETURN Zakaria Mechergui → Saint Chamond NM1 (from Saint Chamond Pro B)",
+   "detected_at": "2026-10-22 16:46:35",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "French NM1 + Charles Galliou → Saint Chamond NM1",
+   "detected_at": "2026-10-22 16:46:35",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French NM1 + Axel Loll → FC Mulhouse Basket",
+   "detected_at": "2026-10-22 16:46:30",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French LNB Pro B Rouen Metropole Basket 76, Union La Rochelle 75",
+   "detected_at": "2026-10-22 16:46:27",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-20/Union-La-Rochelle-at-Rouen-Metropole-Basket/537847"
+  },
+  {
+   "detail": "French LNB Pro B + Thomas Hieu-Courtois → Rouen Metropole Basket",
+   "detected_at": "2026-10-22 16:46:25",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Chinese CBA Shanxi Zhongyu 103, Shanghai Dongfang 92",
+   "detected_at": "2026-10-22 16:46:19",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-22/Shanghai-Dongfang-at-Shanxi-Zhongyu/544009"
+  },
+  {
+   "detail": "Chinese CBA + Diancheng Ma → Shanghai Dongfang",
+   "detected_at": "2026-10-22 16:46:18",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Chinese CBA Fujian 95, Ningbo Rockets 76",
+   "detected_at": "2026-10-22 16:46:15",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-22/Ningbo-Rockets-at-Fujian/544016"
+  },
+  {
+   "detail": "Chinese CBA + Xu Yuzhuo → Ningbo Rockets",
+   "detected_at": "2026-10-22 16:46:13",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Chinese CBA Guangdong Dongguan 96, Zhejiang Guangsha 78",
+   "detected_at": "2026-10-22 16:46:10",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-22/Zhejiang-Guangsha-at-Guangdong-Dongguan/544010"
+  },
+  {
+   "detail": "Chinese CBA + Haojia Zhang → Guangdong Dongguan",
+   "detected_at": "2026-10-22 16:46:08",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
    "detail": "2026-10-19  Traded: Jamarion Sharp (Raptors)",
    "detected_at": "2026-10-22 16:02:01",
    "source": "GLEAGUE",
@@ -9754,97 +9845,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Antonio_Reeves"
-  },
-  {
-   "detail": "Antonio Reeves  ~ league: - -> NBA G League",
-   "detected_at": "2026-10-20 00:37:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Antonio_Reeves"
-  },
-  {
-   "detail": "Antonio Reeves  ~ CAREER  + 2026–present Iowa Wolves",
-   "detected_at": "2026-10-20 00:37:46",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Antonio_Reeves"
-  },
-  {
-   "detail": "Julian Phillips (basketball)  ~ CAREER  + 2026–present →Rio Grande Valley Vipers",
-   "detected_at": "2026-10-20 00:37:46",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Julian_Phillips_(basketball)"
-  },
-  {
-   "detail": "Kevin Porter Jr.  ~ team: Milwaukee Bucks -> Free agent",
-   "detected_at": "2026-10-20 00:37:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Kevin_Porter_Jr."
-  },
-  {
-   "detail": "Kevin Porter Jr.  ~ number: 7 -> -",
-   "detected_at": "2026-10-20 00:37:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Kevin_Porter_Jr."
-  },
-  {
-   "detail": "Kevin Porter Jr.  ~ CAREER  + – Milwaukee Bucks",
-   "detected_at": "2026-10-20 00:37:46",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Kevin_Porter_Jr."
-  },
-  {
-   "detail": "Oscar Tshiebwe  ~ CAREER  + 2026–present →Rio Grande Valley Vipers",
-   "detected_at": "2026-10-20 00:37:46",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Oscar_Tshiebwe"
-  },
-  {
-   "detail": "Norchad Omier  ~ team: Free agent -> Iowa Wolves",
-   "detected_at": "2026-10-20 00:37:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Norchad_Omier"
-  },
-  {
-   "detail": "Norchad Omier  ~ league: - -> NBA G League",
-   "detected_at": "2026-10-20 00:37:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Norchad_Omier"
-  },
-  {
-   "detail": "Norchad Omier  ~ position: Power forward / center -> Power forward",
-   "detected_at": "2026-10-20 00:37:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Norchad_Omier"
-  },
-  {
-   "detail": "Norchad Omier  ~ CAREER  + 2026–present Iowa Wolves",
-   "detected_at": "2026-10-20 00:37:46",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Norchad_Omier"
-  },
-  {
-   "detail": "Sean Pedulla  ~ team: Houston Rockets -> Free agent",
-   "detected_at": "2026-10-20 00:37:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Sean_Pedulla"
-  },
-  {
-   "detail": "Sean Pedulla  ~ league: NBA -> -",
-   "detected_at": "2026-10-20 00:37:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Sean_Pedulla"
   }
  ],
  "feeds": {
@@ -9865,12 +9865,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 9973,
-   "last": "2026-10-22 15:37:21"
+   "count": 9982,
+   "last": "2026-10-22 16:46:35"
   },
   "SCORES": {
-   "count": 2661,
-   "last": "2026-10-22 15:37:28"
+   "count": 2665,
+   "last": "2026-10-22 16:46:27"
   },
   "SHEETS": {
    "count": 5211,
@@ -9889,6 +9889,6 @@
    "last": "2026-10-22 12:20:14"
   }
  },
- "generated_at": "2026-10-22T16:32:44",
- "total": 33147
+ "generated_at": "2026-10-22T16:46:53",
+ "total": 33160
 }
