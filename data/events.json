@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Blake Hinson  ~ 105343: team -> Utah Jazz",
+   "detected_at": "2026-10-22 05:45:49",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Free agent"
+  },
+  {
+   "detail": "Blake Hinson  ~ 105343: league -> NBA",
+   "detected_at": "2026-10-22 05:45:49",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": ""
+  },
+  {
+   "detail": "Blake Hinson  ~ 105343: number -> 25",
+   "detected_at": "2026-10-22 05:45:49",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": ""
+  },
+  {
    "detail": "Brandon Goodwin  ~ 56935: team -> -",
    "detected_at": "2026-10-22 05:26:23",
    "source": "WIKIWATCH",
@@ -9899,27 +9920,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-10-18/Osaka-Evessa-at-Ibaraki-Robots/524357"
-  },
-  {
-   "detail": "PBA Governors Cup Barangay Ginebra Kings 106, Phoenix Fuel Masters 89",
-   "detected_at": "2026-10-19 03:59:00",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-18/Phoenix-Fuel-Masters-at-Barangay-Ginebra-Kings/544797"
-  },
-  {
-   "detail": "PBA Governors Cup Converge Fiber Xers 114, Talk N Text Tropang Texters 112",
-   "detected_at": "2026-10-19 03:58:56",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-18/Converge-Fiber-Xers-at-Talk-N-Text-Tropang-Texters/544796"
-  },
-  {
-   "detail": "Patty Mills  ~ birth_date: - -> (Shares a Birthdate with Rocco Sinipoli)",
-   "detected_at": "2026-10-19 03:58:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Patty_Mills"
   }
  ],
  "feeds": {
@@ -9960,10 +9960,10 @@
    "last": "2026-10-22 05:13:36"
   },
   "WIKIWATCH": {
-   "count": 461,
-   "last": "2026-10-22 05:26:23"
+   "count": 464,
+   "last": "2026-10-22 05:45:49"
   }
  },
- "generated_at": "2026-10-22T05:45:37",
- "total": 32915
+ "generated_at": "2026-10-22T05:46:03",
+ "total": 32918
 }
