@@ -1,6 +1,76 @@
 {
  "events": [
   {
+   "detail": "Slovenian SKL Krka Novo Mesto 97, Rogaska Crystal 62",
+   "detected_at": "2026-10-22 12:07:04",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-20/Krka-Novo-Mesto-at-Rogaska-Crystal/537250"
+  },
+  {
+   "detail": "Slovenian SKL + Jakob Lovrencec → Rogaska Crystal",
+   "detected_at": "2026-10-22 12:07:02",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Slovenian SKL Ilirija 78, KK Tajfun Sentjur 62",
+   "detected_at": "2026-10-22 12:06:59",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-21/KK-Tajfun-Sentjur-at-Ilirija/537248"
+  },
+  {
+   "detail": "Slovenian SKL + Benjamin Memic → KK Tajfun Sentjur",
+   "detected_at": "2026-10-22 12:06:57",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "VTB United League Zenit Saint Petersburg 99, Samara 65",
+   "detected_at": "2026-10-22 12:06:54",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-21/Zenit-Saint-Petersburg-at-Samara/533302"
+  },
+  {
+   "detail": "VTB United League + Artyom Koryakovsky → Samara",
+   "detected_at": "2026-10-22 12:06:53",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "VTB United League Uralmash 88, Dynamo Vladivostok 79",
+   "detected_at": "2026-10-22 12:06:50",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-21/Dynamo-Vladivostok-at-Uralmash/533303"
+  },
+  {
+   "detail": "Norwegian BLNO Centrum Tigers 96, TNT Towers 81",
+   "detected_at": "2026-10-22 12:06:46",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-21/TNT-Towers-at-Centrum-Tigers/530277"
+  },
+  {
+   "detail": "Estonian Latvian Basketball League TalTech ALEXELA 82, BK Ogre 78",
+   "detected_at": "2026-10-22 12:06:42",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-21/BK-Ogre-at-TalTech-ALEXELA/537083"
+  },
+  {
+   "detail": "Lachlan Olbrich  ~ height_in: 8 -> 10",
+   "detected_at": "2026-10-22 12:06:34",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Lachlan_Olbrich"
+  },
+  {
    "detail": "Robert Franks (basketball)  ~ height_in: 7 -> 8",
    "detected_at": "2026-10-22 11:41:34",
    "source": "WIKI",
@@ -9850,76 +9920,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-10-18/HAKRO-Merlins-Crailsheim-at-Orange-Academy-Ratiopharm/528117"
-  },
-  {
-   "detail": "German Pro A ~ MOVED Nico Hoellerl → HAKRO Merlins Crailsheim (from HARKO Merlins Crailsheim)",
-   "detected_at": "2026-10-19 03:59:50",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
-  },
-  {
-   "detail": "German Pro A ~ MOVED Matheo Hermann → HAKRO Merlins Crailsheim (from HARKO Merlins Crailsheim)",
-   "detected_at": "2026-10-19 03:59:50",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
-  },
-  {
-   "detail": "German Pro B TSG Reutlingen Ravens 94, CATL Basketball Lowen 71",
-   "detected_at": "2026-10-19 03:59:48",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-18/TSG-Reutlingen-Ravens-at-CATL-Basketball-Lowen/525701"
-  },
-  {
-   "detail": "Swiss LNA BBC Lausanne 85, Starwings Basket Regio Basel 69",
-   "detected_at": "2026-10-19 03:59:43",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-18/BBC-Lausanne-at-Starwings-Basket-Regio-Basel/534117"
-  },
-  {
-   "detail": "Swiss LNA + Anthony Schonholzer → BBC Lausanne",
-   "detected_at": "2026-10-19 03:59:42",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Super League Basketball Caledonia Gladiators 94, Manchester Basketball 92",
-   "detected_at": "2026-10-19 03:59:39",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-18/Caledonia-Gladiators-at-Manchester-Basketball/535544"
-  },
-  {
-   "detail": "German Pro B TSV Oberhaching Tropics 102, Dresden Titans 92",
-   "detected_at": "2026-10-19 03:59:34",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-18/Dresden-Titans-at-TSV-Oberhaching-Tropics/525700"
-  },
-  {
-   "detail": "German Pro B Bayer Giants Leverkusen 74, BBC Coburg 53",
-   "detected_at": "2026-10-19 03:59:30",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-18/Bayer-Giants-Leverkusen-at-BBC-Coburg/525699"
-  },
-  {
-   "detail": "German Pro B + Tim Schnelle → Bayer Giants Leverkusen",
-   "detected_at": "2026-10-19 03:59:28",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Pro B + Musa Abra → BBC Coburg",
-   "detected_at": "2026-10-19 03:59:28",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -9940,12 +9940,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 9955,
-   "last": "2026-10-22 05:16:22"
+   "count": 9958,
+   "last": "2026-10-22 12:07:02"
   },
   "SCORES": {
-   "count": 2625,
-   "last": "2026-10-22 05:16:41"
+   "count": 2631,
+   "last": "2026-10-22 12:07:04"
   },
   "SHEETS": {
    "count": 5211,
@@ -9956,14 +9956,14 @@
    "last": "2026-10-22 05:06:27"
   },
   "WIKI": {
-   "count": 6746,
-   "last": "2026-10-22 11:41:34"
+   "count": 6747,
+   "last": "2026-10-22 12:06:34"
   },
   "WIKIWATCH": {
    "count": 465,
    "last": "2026-10-22 09:47:19"
   }
  },
- "generated_at": "2026-10-22T11:49:02",
- "total": 32922
+ "generated_at": "2026-10-22T12:07:19",
+ "total": 32932
 }
