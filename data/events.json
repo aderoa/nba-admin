@@ -1,6 +1,139 @@
 {
  "events": [
   {
+   "detail": "Brandon Goodwin  ~ 56935: team -> -",
+   "detected_at": "2026-10-22 05:26:23",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Shanghai Sharks"
+  },
+  {
+   "detail": "Brandon Goodwin  ~ 56935: league -> -",
+   "detected_at": "2026-10-22 05:26:23",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "CBA"
+  },
+  {
+   "detail": "Brandon Goodwin  ~ 56935: position -> -",
+   "detected_at": "2026-10-22 05:26:23",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Point guard"
+  },
+  {
+   "detail": "Brandon Goodwin  ~ 56935: number -> -",
+   "detected_at": "2026-10-22 05:26:23",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "0"
+  },
+  {
+   "detail": "Brandon Goodwin  ~ 56935: (page changed) -> -",
+   "detected_at": "2026-10-22 05:26:23",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": ""
+  },
+  {
+   "detail": "John Konchar  ~ 81496: team -> Free agent",
+   "detected_at": "2026-10-22 05:26:23",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Olympiacos"
+  },
+  {
+   "detail": "Walter Clayton  ~ 183386: team -> Free agent",
+   "detected_at": "2026-10-22 05:26:23",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Dallas Mavericks"
+  },
+  {
+   "detail": "Walter Clayton  ~ 183386: league -> -",
+   "detected_at": "2026-10-22 05:26:23",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "NBA"
+  },
+  {
+   "detail": "Walter Clayton  ~ 183386: number -> -",
+   "detected_at": "2026-10-22 05:26:23",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "1"
+  },
+  {
+   "detail": "WNBA Atlanta Dream 97, Golden State Valkyries 71",
+   "detected_at": "2026-10-22 05:16:41",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-10-21/Golden-State-at-Atlanta/161832"
+  },
+  {
+   "detail": "FIBA Europe Cup Telenet BC Oostende 84, CS Dinamo Bucuresti 80",
+   "detected_at": "2026-10-22 05:16:27",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-20/CS-Dinamo-Bucuresti-at-Telenet-BC-Oostende/543324"
+  },
+  {
+   "detail": "FIBA Europe Cup CB Girona 109, Zastal Zielona Gora 68",
+   "detected_at": "2026-10-22 05:16:23",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-20/Zastal-Zielona-Gora-at-CB-Girona/543323"
+  },
+  {
+   "detail": "FIBA Europe Cup ~ RETURN Enric Sanmartin → CB Girona (from Girona Liga U)",
+   "detected_at": "2026-10-22 05:16:22",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "FIBA Europe Cup ~ MOVED Sergi Juher Valdayo → CB Girona (from Girona Liga U)",
+   "detected_at": "2026-10-22 05:16:22",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Estonian Latvian Basketball League Viimsi 88, Latvijas Universitate 86",
+   "detected_at": "2026-10-22 05:16:19",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-20/Latvijas-Universitate-at-Viimsi/545999"
+  },
+  {
+   "detail": "Estonian Latvian Basketball League + Arturs Kazaks → Latvijas Universitate",
+   "detected_at": "2026-10-22 05:16:17",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Estonian Latvian Basketball League + Gotfrids Hofmanis → Latvijas Universitate",
+   "detected_at": "2026-10-22 05:16:17",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Estonian Latvian Basketball League + Timurs Peiners → Latvijas Universitate",
+   "detected_at": "2026-10-22 05:16:17",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Eurocup Maxima Roma 90, Umana Venezia 79",
+   "detected_at": "2026-10-22 05:16:13",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-21/Umana-Venezia-at-Maxima-Roma/527180"
+  },
+  {
    "detail": "FIBA Europe Cup BC Kalev Cramo 88, KB Bashkimi Prizren 84",
    "detected_at": "2026-10-22 05:15:58",
    "source": "SCORES",
@@ -9787,139 +9920,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Patty_Mills"
-  },
-  {
-   "detail": "Tony Bradley (basketball)  ~ number: - -> 13",
-   "detected_at": "2026-10-19 03:58:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Tony_Bradley_(basketball)"
-  },
-  {
-   "detail": "Seth Lundy  ~ team: Free agent -> Texas Legends",
-   "detected_at": "2026-10-19 03:58:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Seth_Lundy"
-  },
-  {
-   "detail": "Seth Lundy  ~ league: - -> NBA G League",
-   "detected_at": "2026-10-19 03:58:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Seth_Lundy"
-  },
-  {
-   "detail": "Seth Lundy  ~ CAREER  + 2023–2024 →College Park Skyhawks",
-   "detected_at": "2026-10-19 03:58:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Seth_Lundy"
-  },
-  {
-   "detail": "Seth Lundy  ~ CAREER  + 2026–present Texas Legends",
-   "detected_at": "2026-10-19 03:58:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Seth_Lundy"
-  },
-  {
-   "detail": "Damian Jones (basketball)  ~ height_in: 10 -> 11",
-   "detected_at": "2026-10-19 03:58:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Damian_Jones_(basketball)"
-  },
-  {
-   "detail": "Nikola Vučević  ~ height_in: 9 -> 11",
-   "detected_at": "2026-10-19 03:58:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Nikola_Vu%C4%8Devi%C4%87"
-  },
-  {
-   "detail": "Nikola Vučević  ~ nationality: Montenegrin / Belgian / American -> -",
-   "detected_at": "2026-10-19 03:58:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Nikola_Vu%C4%8Devi%C4%87"
-  },
-  {
-   "detail": "Marcus Garrett  ~ team: Skyliners Frankfurt -> Wisconsin Herd",
-   "detected_at": "2026-10-19 03:58:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Marcus_Garrett"
-  },
-  {
-   "detail": "Marcus Garrett  ~ league: Basketball Bundesliga -> NBA G League",
-   "detected_at": "2026-10-19 03:58:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Marcus_Garrett"
-  },
-  {
-   "detail": "Marcus Garrett  ~ CAREER  + 2026–present Wisconsin Herd",
-   "detected_at": "2026-10-19 03:58:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Marcus_Garrett"
-  },
-  {
-   "detail": "Dalen Terry  ~ team: Free agent -> Santa Cruz Warriors",
-   "detected_at": "2026-10-19 03:58:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Dalen_Terry"
-  },
-  {
-   "detail": "Dalen Terry  ~ league: - -> NBA G League",
-   "detected_at": "2026-10-19 03:58:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Dalen_Terry"
-  },
-  {
-   "detail": "Dalen Terry  ~ CAREER  + 2026–present Santa Cruz Warriors",
-   "detected_at": "2026-10-19 03:58:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Dalen_Terry"
-  },
-  {
-   "detail": "Emanuel Miller (basketball)  ~ team: Free agent -> Grand Rapids Gold",
-   "detected_at": "2026-10-19 03:58:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Emanuel_Miller_(basketball)"
-  },
-  {
-   "detail": "Emanuel Miller (basketball)  ~ league: - -> NBA G League",
-   "detected_at": "2026-10-19 03:58:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Emanuel_Miller_(basketball)"
-  },
-  {
-   "detail": "Emanuel Miller (basketball)  ~ position: Small forward / power forward -> Small forward",
-   "detected_at": "2026-10-19 03:58:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Emanuel_Miller_(basketball)"
-  },
-  {
-   "detail": "Emanuel Miller (basketball)  ~ CAREER  + 2026–present Grand Rapids Gold",
-   "detected_at": "2026-10-19 03:58:47",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Emanuel_Miller_(basketball)"
-  },
-  {
-   "detail": "Goga Bitadze  ~ position: Center -> Center / power forward",
-   "detected_at": "2026-10-19 03:58:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Goga_Bitadze"
   }
  ],
  "feeds": {
@@ -9940,12 +9940,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 9950,
-   "last": "2026-10-21 20:34:57"
+   "count": 9955,
+   "last": "2026-10-22 05:16:22"
   },
   "SCORES": {
-   "count": 2620,
-   "last": "2026-10-22 05:15:58"
+   "count": 2625,
+   "last": "2026-10-22 05:16:41"
   },
   "SHEETS": {
    "count": 5211,
@@ -9960,10 +9960,10 @@
    "last": "2026-10-22 05:13:36"
   },
   "WIKIWATCH": {
-   "count": 452,
-   "last": "2026-10-21 20:23:55"
+   "count": 461,
+   "last": "2026-10-22 05:26:23"
   }
  },
- "generated_at": "2026-10-22T05:16:04",
- "total": 32896
+ "generated_at": "2026-10-22T05:27:03",
+ "total": 32915
 }
