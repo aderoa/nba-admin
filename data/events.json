@@ -1,6 +1,41 @@
 {
  "events": [
   {
+   "detail": "Jared Butler  ~ height_ft: 6 -> -",
+   "detected_at": "2026-10-23 16:36:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jared_Butler"
+  },
+  {
+   "detail": "Jared Butler  ~ height_in: 3 -> -",
+   "detected_at": "2026-10-23 16:36:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jared_Butler"
+  },
+  {
+   "detail": "Nick Weiler-Babb  ~ height_ft: 6 -> -",
+   "detected_at": "2026-10-23 16:36:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Nick_Weiler-Babb"
+  },
+  {
+   "detail": "Nick Weiler-Babb  ~ height_in: 5 -> -",
+   "detected_at": "2026-10-23 16:36:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Nick_Weiler-Babb"
+  },
+  {
+   "detail": "Nick Weiler-Babb  ~ weight_lb: 205 -> -",
+   "detected_at": "2026-10-23 16:36:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Nick_Weiler-Babb"
+  },
+  {
    "detail": "2026-10-21  Traded: Sean Pedulla (Vipers)",
    "detected_at": "2026-10-23 16:01:02",
    "source": "GLEAGUE",
@@ -9935,36 +9970,6 @@
    "detected_at": "2026-10-20 10:05:05",
    "source": "DOCS",
    "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Emanuel Miller (WAIVED) Denver Nuggets",
-   "detected_at": "2026-10-20 10:05:05",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Pete Nance Milwaukee Bucks",
-   "detected_at": "2026-10-20 10:05:05",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Pete Nance (WAIVED) Milwaukee Bucks",
-   "detected_at": "2026-10-20 10:05:05",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Norchad Omier Minnesota Timberwolves",
-   "detected_at": "2026-10-20 10:05:05",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Norchad Omier (WAIVED) Minnesota Timberwolves",
-   "detected_at": "2026-10-20 10:05:05",
-   "source": "DOCS",
-   "type": "ADDED"
   }
  ],
  "feeds": {
@@ -10001,14 +10006,14 @@
    "last": "2026-10-22 05:06:27"
   },
   "WIKI": {
-   "count": 6797,
-   "last": "2026-10-23 15:04:35"
+   "count": 6802,
+   "last": "2026-10-23 16:36:35"
   },
   "WIKIWATCH": {
    "count": 541,
    "last": "2026-10-23 06:20:56"
   }
  },
- "generated_at": "2026-10-23T16:28:02",
- "total": 33355
+ "generated_at": "2026-10-23T16:36:36",
+ "total": 33360
 }
