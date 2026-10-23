@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "John Konchar  ~ 81496: league -> -",
+   "detected_at": "2026-10-23 06:20:56",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "GBL EuroLeague"
+  },
+  {
    "detail": "Alvaro Folgueiras Louisville 89, Kansas 83",
    "detected_at": "2026-10-23 06:09:54",
    "source": "SCORES",
@@ -9895,12 +9902,6 @@
    "detected_at": "2026-10-20 01:11:45",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "MIN  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 19 -> 18",
-   "detected_at": "2026-10-20 01:11:45",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -9941,10 +9942,10 @@
    "last": "2026-10-23 06:08:45"
   },
   "WIKIWATCH": {
-   "count": 540,
-   "last": "2026-10-22 18:50:14"
+   "count": 541,
+   "last": "2026-10-23 06:20:56"
   }
  },
- "generated_at": "2026-10-23T06:09:57",
- "total": 33286
+ "generated_at": "2026-10-23T06:21:07",
+ "total": 33287
 }
