@@ -1,6 +1,76 @@
 {
  "events": [
   {
+   "detail": "Cody Martin (basketball)  ~ CAREER  + 2025–2026 Noblesville Boom",
+   "detected_at": "2026-10-23 15:04:35",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Cody_Martin_(basketball)"
+  },
+  {
+   "detail": "Isaiah Wong  ~ number: - -> 2",
+   "detected_at": "2026-10-23 15:04:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Isaiah_Wong"
+  },
+  {
+   "detail": "Kevin Porter Jr.  ~ CAREER  + – PAOK BC",
+   "detected_at": "2026-10-23 15:04:35",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Kevin_Porter_Jr."
+  },
+  {
+   "detail": "Vic Law  ~ team: Ryukyu Golden Kings -> Ibaraki Robots",
+   "detected_at": "2026-10-23 15:04:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Vic_Law"
+  },
+  {
+   "detail": "Vic Law  ~ height_ft: - -> 6",
+   "detected_at": "2026-10-23 15:04:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Vic_Law"
+  },
+  {
+   "detail": "Vic Law  ~ height_in: - -> 7",
+   "detected_at": "2026-10-23 15:04:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Vic_Law"
+  },
+  {
+   "detail": "Vic Law  ~ weight_lb: - -> 201",
+   "detected_at": "2026-10-23 15:04:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Vic_Law"
+  },
+  {
+   "detail": "Vic Law  ~ CAREER  + 2022–2023 Chiba Jets",
+   "detected_at": "2026-10-23 15:04:35",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Vic_Law"
+  },
+  {
+   "detail": "Vic Law  ~ CAREER  + 2023–2026 Ryukyu Golden Kings",
+   "detected_at": "2026-10-23 15:04:35",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Vic_Law"
+  },
+  {
+   "detail": "Vic Law  ~ CAREER  + 2026–present Ibaraki Robots",
+   "detected_at": "2026-10-23 15:04:35",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Vic_Law"
+  },
+  {
    "detail": "Euroleague Barca 89, AX Armani Exchange Milan 81",
    "detected_at": "2026-10-23 14:45:31",
    "source": "SCORES",
@@ -9873,66 +9943,6 @@
    "detected_at": "2026-10-20 10:05:05",
    "source": "DOCS",
    "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  - REMOVED Zach Cleveland Memphis Grizzlies",
-   "detected_at": "2026-10-20 10:05:05",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Zach Cleveland (WAIVED) Memphis Grizzlies",
-   "detected_at": "2026-10-20 10:05:05",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  - REMOVED Dane Goodwin Denver Nuggets",
-   "detected_at": "2026-10-20 10:05:05",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Dane Goodwin (WAIVED) Denver Nuggets",
-   "detected_at": "2026-10-20 10:05:05",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  - REMOVED Coleman Hawkins Denver Nuggets",
-   "detected_at": "2026-10-20 10:05:05",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Coleman Hawkins (WAIVED) Denver Nuggets",
-   "detected_at": "2026-10-20 10:05:05",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  - REMOVED Mohamed Keba Keita Indiana Pacers",
-   "detected_at": "2026-10-20 10:05:05",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Mohamed Keba Keita (WAIVED) Indiana Pacers",
-   "detected_at": "2026-10-20 10:05:05",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  - REMOVED Gabe Madsen Miami Heat",
-   "detected_at": "2026-10-20 10:05:05",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Gabe Madsen (WAIVED) Miami Heat",
-   "detected_at": "2026-10-20 10:05:05",
-   "source": "DOCS",
-   "type": "ADDED"
   }
  ],
  "feeds": {
@@ -9969,14 +9979,14 @@
    "last": "2026-10-22 05:06:27"
   },
   "WIKI": {
-   "count": 6787,
-   "last": "2026-10-23 14:41:35"
+   "count": 6797,
+   "last": "2026-10-23 15:04:35"
   },
   "WIKIWATCH": {
    "count": 541,
    "last": "2026-10-23 06:20:56"
   }
  },
- "generated_at": "2026-10-23T14:56:09",
- "total": 33319
+ "generated_at": "2026-10-23T15:04:36",
+ "total": 33329
 }
