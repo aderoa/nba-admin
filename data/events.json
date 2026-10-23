@@ -1,6 +1,144 @@
 {
  "events": [
   {
+   "detail": "Alvaro Folgueiras Louisville 89, Kansas 83",
+   "detected_at": "2026-10-23 06:09:54",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-10-21/Louisville-at-Kansas/544944"
+  },
+  {
+   "detail": "French LNB Pro B Poitiers Basket 86 80, Fos Sur Mer Byers 67",
+   "detected_at": "2026-10-23 06:09:38",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-21/Poitiers-Basket-86-at-Fos-Sur-Mer-Byers/537850"
+  },
+  {
+   "detail": "Finnish Korisliiga Nilan Bisons 100, Korihait 88",
+   "detected_at": "2026-10-23 06:09:34",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-21/Korihait-at-Nilan-Bisons/534891"
+  },
+  {
+   "detail": "Finnish Korisliiga ~ MOVED Tehree Horn → Nilan Bisons (from Kauhajoki Karhu)",
+   "detected_at": "2026-10-23 06:09:32",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague Nagasaki Velca 84, Saga Ballooners 66",
+   "detected_at": "2026-10-23 06:09:29",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-21/Nagasaki-Velca-at-Saga-Ballooners/524705"
+  },
+  {
+   "detail": "Japanese BLeague + Chris Olivier → Saga Ballooners",
+   "detected_at": "2026-10-23 06:09:27",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "PBA Governors Cup Magnolia Hotshots 107, Rain or Shine Elasto Painters 103",
+   "detected_at": "2026-10-23 06:09:24",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-21/Magnolia-Hotshots-at-Rain-or-Shine-Elasto-Painters/544799"
+  },
+  {
+   "detail": "PBA Governors Cup + Beau Belga → Rain or Shine Elasto Painters",
+   "detected_at": "2026-10-23 06:09:22",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Romanian Divizia A CS Valcea 1924 81, CSM Corona Brasov 80",
+   "detected_at": "2026-10-23 06:09:17",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-22/CS-Valcea-1924-at-CSM-Corona-Brasov/538815"
+  },
+  {
+   "detail": "Romanian Divizia A CS Targu Mures 92, CSM Steaua Bucuresti 89",
+   "detected_at": "2026-10-23 06:09:11",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-22/CSM-Steaua-Bucuresti-at-CS-Targu-Mures/538817"
+  },
+  {
+   "detail": "Norwegian BLNO Ammerud Basket 99, BK Kongsberg Miners 88",
+   "detected_at": "2026-10-23 06:09:05",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-22/BK-Kongsberg-Miners-at-Ammerud-Basket/530279"
+  },
+  {
+   "detail": "Japanese BLeague Ibaraki Robots 69, Toyota Alvark 66",
+   "detected_at": "2026-10-23 06:09:00",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-22/Ibaraki-Robots-at-Toyota-Alvark/524708"
+  },
+  {
+   "detail": "Japanese BLeague Sendai 89ers 91, Yokohama B Corsairs 72",
+   "detected_at": "2026-10-23 06:08:55",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-22/Yokohama-B-Corsairs-at-Sendai-89ers/524707"
+  },
+  {
+   "detail": "John Konchar  ~ league: - -> GBL EuroLeague",
+   "detected_at": "2026-10-23 06:08:45",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/John_Konchar"
+  },
+  {
+   "detail": "Tazé Moore  ~ number: 76 -> 4",
+   "detected_at": "2026-10-23 06:08:45",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Taz%C3%A9_Moore"
+  },
+  {
+   "detail": "Dušan Miletić  ~ league: Israeli Basketball Premier League EuroCup -> Israeli Premier League EuroCup",
+   "detected_at": "2026-10-23 06:08:45",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Du%C5%A1an_Mileti%C4%87"
+  },
+  {
+   "detail": "Marcelus Kemp  ~ nationality: American -> -",
+   "detected_at": "2026-10-23 06:08:45",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Marcelus_Kemp"
+  },
+  {
+   "detail": "Marvin Bagley III  ~ position: Center / power forward -> Power forward",
+   "detected_at": "2026-10-23 06:08:44",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Marvin_Bagley_III"
+  },
+  {
+   "detail": "~ CHANGED Moussa Cissé  name: Moussa Cisse -> Moussa Cissé",
+   "detected_at": "2026-10-22 23:16:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Klay Thompson  number: 11 -> 22",
+   "detected_at": "2026-10-22 23:16:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "Robert Franks (basketball)  ~ league: - -> Serbian SuperLeague ABA League EuroLeague",
    "detected_at": "2026-10-22 21:32:34",
    "source": "WIKI",
@@ -9763,126 +9901,6 @@
    "detected_at": "2026-10-20 01:11:45",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col12: 4884765 -> 0, col19: 26485755 -> 24036334",
-   "detected_at": "2026-10-20 01:11:45",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED 1st Incremental Tax Bracket  -  col12: 4884765 -> 0",
-   "detected_at": "2026-10-20 01:11:45",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED 5th Incremental Tax Bracket  -  col19: 19665213.75 -> 6805753.5",
-   "detected_at": "2026-10-20 01:11:45",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col12: 4884765 -> 0, col19: 79357713.75 -> 66498253.5",
-   "detected_at": "2026-10-20 01:11:45",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Julian Phillips Houston Rockets",
-   "detected_at": "2026-10-20 01:11:41",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Julian Phillips (CONVERTED) Houston Rockets",
-   "detected_at": "2026-10-20 01:11:41",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Drew Timme Minnesota Timberwolves",
-   "detected_at": "2026-10-20 01:11:41",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Drew Timme (WAIVED - CLAIMED - CONVERTED) Minnesota Timberwolves",
-   "detected_at": "2026-10-20 01:11:41",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Oscar Tshiebwe Houston Rockets",
-   "detected_at": "2026-10-20 01:11:41",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Oscar Tshiebwe (CONVERTED) Houston Rockets",
-   "detected_at": "2026-10-20 01:11:41",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  - REMOVED Jarkel Joiner Charlotte Hornets",
-   "detected_at": "2026-10-20 01:11:41",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Jarkel Joiner (WAIVED) Charlotte Hornets",
-   "detected_at": "2026-10-20 01:11:41",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  - REMOVED Trey Townsend Charlotte Hornets",
-   "detected_at": "2026-10-20 01:11:41",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Trey Townsend (WAIVED) Charlotte Hornets",
-   "detected_at": "2026-10-20 01:11:41",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-10-19  Houston Rockets converted the contract of forward Oscar Tshiebwe to a Two-Way Contract.",
-   "detected_at": "2026-10-20 01:11:40",
-   "source": "TRANSACTIONS",
-   "type": "ContractConverted"
-  },
-  {
-   "detail": "2026-10-19  Houston Rockets converted the contract of forward Julian Phillips to a Two-Way Contract.",
-   "detected_at": "2026-10-20 01:11:40",
-   "source": "TRANSACTIONS",
-   "type": "ContractConverted"
-  },
-  {
-   "detail": "2026-10-19  Charlotte Hornets re-signed forward Brandon Miller to a Rookie Scale Extension.",
-   "detected_at": "2026-10-20 01:11:40",
-   "source": "TRANSACTIONS",
-   "type": "Signing"
-  },
-  {
-   "detail": "2026-10-19  Phoenix Suns waived forward CJ Huntley.",
-   "detected_at": "2026-10-20 01:11:40",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
-  },
-  {
-   "detail": "2026-10-19  Sacramento Kings waived guard Adam Flagler.",
-   "detected_at": "2026-10-20 01:11:40",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
-  },
-  {
-   "detail": "2026-10-19  Phoenix Suns waived guard Koby Brea.",
-   "detected_at": "2026-10-20 01:11:40",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
   }
  ],
  "feeds": {
@@ -9895,20 +9913,20 @@
    "last": "2026-10-22 16:02:01"
   },
   "PLAYERS": {
-   "count": 1916,
-   "last": "2026-10-22 21:24:54"
+   "count": 1918,
+   "last": "2026-10-22 23:16:54"
   },
   "RATINGS": {
    "count": 950,
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 10041,
-   "last": "2026-10-22 21:08:52"
+   "count": 10044,
+   "last": "2026-10-23 06:09:32"
   },
   "SCORES": {
-   "count": 2680,
-   "last": "2026-10-22 21:08:54"
+   "count": 2690,
+   "last": "2026-10-23 06:09:54"
   },
   "SHEETS": {
    "count": 5211,
@@ -9919,14 +9937,14 @@
    "last": "2026-10-22 05:06:27"
   },
   "WIKI": {
-   "count": 6768,
-   "last": "2026-10-22 21:32:34"
+   "count": 6773,
+   "last": "2026-10-23 06:08:45"
   },
   "WIKIWATCH": {
    "count": 540,
    "last": "2026-10-22 18:50:14"
   }
  },
- "generated_at": "2026-10-22T23:04:01",
- "total": 33266
+ "generated_at": "2026-10-23T06:09:57",
+ "total": 33286
 }
