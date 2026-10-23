@@ -1,6 +1,18 @@
 {
  "events": [
   {
+   "detail": "2026-27 Veteran Signings  - REMOVED 4 Years for $11,279,212. Non-Qualifying Veteran Free Agent Exception. Team option to extend the contract to include the 2029-30 Season. Skill; Injury or Illness; Death. Compensation protection for 2028-29 Season is none. Compensation protection for 2028-29 Season is none. Physical Exam.",
+   "detected_at": "2026-10-23 17:54:55",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  4 Years for $11,279,212. Non-Qualifying Veteran Free Agent Exception. Team option to extend the contract to include the 2029-30 Season. Skill; Injury or Illness; Death. Compensation protection for 2028-29 Season is none. Compensation protection for 2029-30 Season is none. Physical Exam.",
+   "detected_at": "2026-10-23 17:54:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "Brazilian NBB Osasco Basquete 93, Basquete Cearense 69",
    "detected_at": "2026-10-23 17:00:18",
    "source": "SCORES",
@@ -9990,24 +10002,12 @@
    "detected_at": "2026-10-20 10:05:14",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "NYK  - REMOVED Brown, Bruce",
-   "detected_at": "2026-10-20 10:05:14",
-   "source": "SHEETS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "NYK  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 225775495 -> 223326074, col9: 648292530 -> 645843109",
-   "detected_at": "2026-10-20 10:05:14",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 4200,
-   "last": "2026-10-22 05:06:28"
+   "count": 4202,
+   "last": "2026-10-23 17:54:55"
   },
   "GLEAGUE": {
    "count": 291,
@@ -10046,6 +10046,6 @@
    "last": "2026-10-23 06:20:56"
   }
  },
- "generated_at": "2026-10-23T17:54:02",
- "total": 33392
+ "generated_at": "2026-10-23T17:55:02",
+ "total": 33394
 }
