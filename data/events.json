@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Robert Franks (basketball)  ~ height_in: 8 -> 7",
+   "detected_at": "2026-10-23 12:22:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Robert_Franks_(basketball)"
+  },
+  {
    "detail": "Mexican LNBP Astros de Jalisco 81, Mineros de Zacatecas 72",
    "detected_at": "2026-10-23 07:31:01",
    "source": "SCORES",
@@ -9900,12 +9907,6 @@
    "detected_at": "2026-10-20 01:11:45",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "HOU  CHANGED Avg, Salary (Mean) (No 10-Day K's)  -  col6: 0 -> 1",
-   "detected_at": "2026-10-20 01:11:45",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -9942,14 +9943,14 @@
    "last": "2026-10-22 05:06:27"
   },
   "WIKI": {
-   "count": 6773,
-   "last": "2026-10-23 06:08:45"
+   "count": 6774,
+   "last": "2026-10-23 12:22:35"
   },
   "WIKIWATCH": {
    "count": 541,
    "last": "2026-10-23 06:20:56"
   }
  },
- "generated_at": "2026-10-23T12:03:02",
- "total": 33291
+ "generated_at": "2026-10-23T12:22:37",
+ "total": 33292
 }
