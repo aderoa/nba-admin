@@ -1,6 +1,18 @@
 {
  "events": [
   {
+   "detail": "2026-27 Veteran Signings  - REMOVED 4 Years for $23,978,467. Bird Exception. Advance Payment ($8,231,461). Player option to extend the contract to include the 2029-30 Season. Skill; Injury or Illness; Death. Compensation protection for 2028-29 Season is for $1,581,241 but will increase to full if team has not requested waivers on player on or before 6/30/2028. Compensation protection for 2028-29 Season is for $1,690,292 but will increase to full if team has not requested waivers on player on or before 6/30/2029. Love of the Game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-10-23 19:27:55",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  4 Years for $23,978,467. Early Bird Exception. Advance Payment ($8,231,461). Player option to extend the contract to include the 2029-30 Season. Skill; Injury or Illness; Death. Compensation protection for 2028-29 Season is for $1,581,241 but will increase to full if team has not requested waivers on player on or before 6/30/2028. Compensation protection for 2028-29 Season is for $1,690,292 but will increase to full if team has not requested waivers on player on or before 6/30/2029. Love of the Game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-10-23 19:27:55",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "2026-27 Veteran Signings  - REMOVED 4 Years for $13704,229. Non-Qualifying Veteran Free Agent Exception. Team option to extend the contract to include the 2029-30 Season. Skill; Injury or Illness; Mental. Compensation protection for 2028-29 Season is none, but will increase to full if team has not requested waivers on player on or before 7/7/2028. Compensation protection for 2029-30 Season is none, but will increase to full if team has not requested waivers on player on or before 7/7/2029. Love of the Game. Physical Exam. Alt. 7(b).",
    "detected_at": "2026-10-23 18:54:56",
    "source": "DOCS",
@@ -10006,24 +10018,12 @@
    "detected_at": "2026-10-20 10:05:14",
    "source": "SHEETS",
    "type": "REMOVED"
-  },
-  {
-   "detail": "MIL  - REMOVED Stephens, Jake",
-   "detected_at": "2026-10-20 10:05:14",
-   "source": "SHEETS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "MIL  CHANGED Porter Jr., Kevin  -  TEAM SALARY CAP REPORT\n       -  MILWAUKEE BUCKS: 1 - FULL SEASON -> 7 - WAIVED",
-   "detected_at": "2026-10-20 10:05:14",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 4206,
-   "last": "2026-10-23 18:54:56"
+   "count": 4208,
+   "last": "2026-10-23 19:27:55"
   },
   "GLEAGUE": {
    "count": 291,
@@ -10062,6 +10062,6 @@
    "last": "2026-10-23 06:20:56"
   }
  },
- "generated_at": "2026-10-23T19:27:03",
- "total": 33414
+ "generated_at": "2026-10-23T19:28:02",
+ "total": 33416
 }
