@@ -1,6 +1,55 @@
 {
  "events": [
   {
+   "detail": "Euroleague Barca 89, AX Armani Exchange Milan 81",
+   "detected_at": "2026-10-23 14:45:31",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-22/Barca-at-AX-Armani-Exchange-Milan/526833"
+  },
+  {
+   "detail": "Euroleague Panathinaikos 85, Baskonia 79",
+   "detected_at": "2026-10-23 14:45:27",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-22/Baskonia-at-Panathinaikos/526831"
+  },
+  {
+   "detail": "Euroleague Real Madrid 113, Maccabi FOX Tel Aviv 99",
+   "detected_at": "2026-10-23 14:45:22",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-22/Real-Madrid-at-Maccabi-FOX-Tel-Aviv/526830"
+  },
+  {
+   "detail": "VTB Youth United League Lokomotiv Kuban 2 85, Dynamo M2 63",
+   "detected_at": "2026-10-23 14:45:18",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-22/Dynamo-M2-at-Lokomotiv-Kuban-2/543410"
+  },
+  {
+   "detail": "VTB Youth United League Zenit 2 96, ChBK 2 74",
+   "detected_at": "2026-10-23 14:45:14",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-22/ChBK-2-at-Zenit-2/543411"
+  },
+  {
+   "detail": "VTB Youth United League ~ RETURN Dmitry Chikishev → Zenit 2 (from Zenit Saint Petersburg)",
+   "detected_at": "2026-10-23 14:45:12",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "Australian NBL Perth 103, Melbourne 102",
+   "detected_at": "2026-10-23 14:45:08",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-23/Melbourne-at-Perth/524412"
+  },
+  {
    "detail": "Terry Taylor (basketball)  ~ CAREER  + 2026–present Austin Spurs",
    "detected_at": "2026-10-23 14:41:35",
    "source": "WIKI",
@@ -9884,48 +9933,6 @@
    "detected_at": "2026-10-20 10:05:05",
    "source": "DOCS",
    "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  - REMOVED Rienk Mast Indiana Pacers",
-   "detected_at": "2026-10-20 10:05:05",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Rienk Mast (WAIVED) Indiana Pacers",
-   "detected_at": "2026-10-20 10:05:05",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  - REMOVED Jalon Moore New Orleans Pelicans",
-   "detected_at": "2026-10-20 10:05:05",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Jalon Moore (WAIVED) New Orleans Pelicans",
-   "detected_at": "2026-10-20 10:05:05",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  - REMOVED Jake Stephens Milwaukee Bucks",
-   "detected_at": "2026-10-20 10:05:05",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  + ADDED  Jake Stephens (WAIVED) Milwaukee Bucks",
-   "detected_at": "2026-10-20 10:05:05",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Rookie Signings  - REMOVED John Ukomadu Detroit Pistons",
-   "detected_at": "2026-10-20 10:05:05",
-   "source": "DOCS",
-   "type": "REMOVED"
   }
  ],
  "feeds": {
@@ -9946,12 +9953,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 10045,
-   "last": "2026-10-23 12:36:07"
+   "count": 10046,
+   "last": "2026-10-23 14:45:12"
   },
   "SCORES": {
-   "count": 2700,
-   "last": "2026-10-23 13:43:55"
+   "count": 2706,
+   "last": "2026-10-23 14:45:31"
   },
   "SHEETS": {
    "count": 5211,
@@ -9970,6 +9977,6 @@
    "last": "2026-10-23 06:20:56"
   }
  },
- "generated_at": "2026-10-23T14:44:02",
- "total": 33312
+ "generated_at": "2026-10-23T14:45:48",
+ "total": 33319
 }
