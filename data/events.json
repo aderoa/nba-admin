@@ -1,6 +1,18 @@
 {
  "events": [
   {
+   "detail": "2026-27 Veteran Signings  - REMOVED 4 Years for $13704,229. Non-Qualifying Veteran Free Agent Exception. Team option to extend the contract to include the 2029-30 Season. Skill; Injury or Illness; Mental. Compensation protection for 2028-29 Season is none, but will increase to full if team has not requested waivers on player on or before 7/7/2028. Compensation protection for 2029-30 Season is none, but will increase to full if team has not requested waivers on player on or before 7/7/2029. Love of the Game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-10-23 18:54:56",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  4 Years for $13,704,229. Non-Qualifying Veteran Free Agent Exception. Team option to extend the contract to include the 2029-30 Season. Skill; Injury or Illness; Mental. Compensation protection for 2028-29 Season is none, but will increase to full if team has not requested waivers on player on or before 7/7/2028. Compensation protection for 2029-30 Season is none, but will increase to full if team has not requested waivers on player on or before 7/7/2029. Love of the Game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-10-23 18:54:56",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "Kevin Porter Jr.  ~ CAREER  + 2024 PAOK",
    "detected_at": "2026-10-23 18:40:35",
    "source": "WIKI",
@@ -10006,24 +10018,12 @@
    "detected_at": "2026-10-20 10:05:14",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "MIL  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 197496165.2 -> 191415760.2, col4: 116758556.2 -> 114001644.2, col9: 493238186.6 -> 484400869.6",
-   "detected_at": "2026-10-20 10:05:14",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "MIL  CHANGED Players Under Contract  -  col3: 171863474.4 -> 160392369.4, col4: 93575286.36 -> 90818374.36",
-   "detected_at": "2026-10-20 10:05:14",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 4204,
-   "last": "2026-10-23 18:33:00"
+   "count": 4206,
+   "last": "2026-10-23 18:54:56"
   },
   "GLEAGUE": {
    "count": 291,
@@ -10062,6 +10062,6 @@
    "last": "2026-10-23 06:20:56"
   }
  },
- "generated_at": "2026-10-23T18:54:02",
- "total": 33412
+ "generated_at": "2026-10-23T18:55:02",
+ "total": 33414
 }
