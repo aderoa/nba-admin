@@ -1,6 +1,25 @@
 {
  "events": [
   {
+   "detail": "Kevin Porter Jr.  ~ CAREER  + 2024 PAOK",
+   "detected_at": "2026-10-23 18:40:35",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Kevin_Porter_Jr."
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED 3 Years for $14,384,484. Bird Exception. Advance Payment ($1,500,000). Player option to extend the contract to include the 2030-31 Season. Insurance Premium Reimbursement. Skill; Injury or Illness; Mental. Love of the Game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-10-23 18:33:00",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  5 Years for $112,000,000. Bird Exception. Advance Payment ($1,500,000). Player option to extend the contract to include the 2030-31 Season. Insurance Premium Reimbursement. Skill; Injury or Illness; Mental. Love of the Game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-10-23 18:33:00",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "Basketball Africa League Qualification Nadi Basket Staoueli 84, Criol Star 69",
    "detected_at": "2026-10-23 18:09:12",
    "source": "SCORES",
@@ -9999,30 +10018,12 @@
    "detected_at": "2026-10-20 10:05:14",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "MIL  CHANGED Full Season Contracts  -  col3: 171863474.4 -> 160392369.4, col4: 93575286.36 -> 90818374.36",
-   "detected_at": "2026-10-20 10:05:14",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "MIL  CHANGED Waived Contracts  -  col3: 23183269.87 -> 28573969.87",
-   "detected_at": "2026-10-20 10:05:14",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "MIL  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 19 -> 15",
-   "detected_at": "2026-10-20 10:05:14",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 4202,
-   "last": "2026-10-23 17:54:55"
+   "count": 4204,
+   "last": "2026-10-23 18:33:00"
   },
   "GLEAGUE": {
    "count": 291,
@@ -10053,14 +10054,14 @@
    "last": "2026-10-22 05:06:27"
   },
   "WIKI": {
-   "count": 6812,
-   "last": "2026-10-23 16:59:35"
+   "count": 6813,
+   "last": "2026-10-23 18:40:35"
   },
   "WIKIWATCH": {
    "count": 541,
    "last": "2026-10-23 06:20:56"
   }
  },
- "generated_at": "2026-10-23T18:22:03",
- "total": 33409
+ "generated_at": "2026-10-23T18:40:37",
+ "total": 33412
 }
