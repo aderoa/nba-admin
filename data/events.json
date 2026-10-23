@@ -1,6 +1,30 @@
 {
  "events": [
   {
+   "detail": "2026-10-21  Traded: Sean Pedulla (Vipers)",
+   "detected_at": "2026-10-23 16:01:02",
+   "source": "GLEAGUE",
+   "type": "Trade"
+  },
+  {
+   "detail": "2026-10-22  Acquired: Walter Clayton Jr (Legends)",
+   "detected_at": "2026-10-23 16:01:02",
+   "source": "GLEAGUE",
+   "type": "Acquired/Assigned"
+  },
+  {
+   "detail": "2026-10-23  Acquired: William Baker (Skyhawks)",
+   "detected_at": "2026-10-23 16:01:02",
+   "source": "GLEAGUE",
+   "type": "Acquired/Assigned"
+  },
+  {
+   "detail": "2026-10-23  Acquired: Isaac Mckneely (Skyhawks)",
+   "detected_at": "2026-10-23 16:01:02",
+   "source": "GLEAGUE",
+   "type": "Acquired/Assigned"
+  },
+  {
    "detail": "Brazilian NBB Uniceub BRB Brasilia 104, Corinthians 92",
    "detected_at": "2026-10-23 15:51:03",
    "source": "SCORES",
@@ -9941,30 +9965,6 @@
    "detected_at": "2026-10-20 10:05:05",
    "source": "DOCS",
    "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Drew Peterson Chicago Bulls",
-   "detected_at": "2026-10-20 10:05:05",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Drew Peterson (WAIVED) Chicago Bulls",
-   "detected_at": "2026-10-20 10:05:05",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Dwight Powell Dallas Mavericks",
-   "detected_at": "2026-10-20 10:05:05",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Dwight Powell (WAIVED) Dallas Mavericks",
-   "detected_at": "2026-10-20 10:05:05",
-   "source": "DOCS",
-   "type": "ADDED"
   }
  ],
  "feeds": {
@@ -9973,8 +9973,8 @@
    "last": "2026-10-22 05:06:28"
   },
   "GLEAGUE": {
-   "count": 287,
-   "last": "2026-10-22 16:02:01"
+   "count": 291,
+   "last": "2026-10-23 16:01:02"
   },
   "PLAYERS": {
    "count": 1918,
@@ -10009,6 +10009,6 @@
    "last": "2026-10-23 06:20:56"
   }
  },
- "generated_at": "2026-10-23T15:51:19",
- "total": 33351
+ "generated_at": "2026-10-23T16:01:04",
+ "total": 33355
 }
