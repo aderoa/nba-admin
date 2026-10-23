@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Adriatic League Liga ABA Slovan Bratislava 98, BC Siroki 91",
+   "detected_at": "2026-10-23 12:36:13",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-22/Slovan-Bratislava-at-BC-Siroki/537348"
+  },
+  {
+   "detail": "Euroleague Anadolu Efes 89, Besiktas Icrypex 80",
+   "detected_at": "2026-10-23 12:36:09",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-22/Besiktas-Icrypex-at-Anadolu-Efes/526829"
+  },
+  {
+   "detail": "Euroleague + Lonnie Walker → Besiktas Icrypex",
+   "detected_at": "2026-10-23 12:36:07",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
    "detail": "Robert Franks (basketball)  ~ height_in: 8 -> 7",
    "detected_at": "2026-10-23 12:22:35",
    "source": "WIKI",
@@ -9889,24 +9910,6 @@
    "detected_at": "2026-10-20 01:11:45",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "HOU  CHANGED Players Under Contract  -  col3: 205312765 -> 200413923",
-   "detected_at": "2026-10-20 01:11:45",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "HOU  CHANGED Full Season Contracts  -  col3: 205312765 -> 200413923",
-   "detected_at": "2026-10-20 01:11:45",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "HOU  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 16 -> 14",
-   "detected_at": "2026-10-20 01:11:45",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -9927,12 +9930,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 10044,
-   "last": "2026-10-23 06:09:32"
+   "count": 10045,
+   "last": "2026-10-23 12:36:07"
   },
   "SCORES": {
-   "count": 2694,
-   "last": "2026-10-23 07:31:01"
+   "count": 2696,
+   "last": "2026-10-23 12:36:13"
   },
   "SHEETS": {
    "count": 5211,
@@ -9951,6 +9954,6 @@
    "last": "2026-10-23 06:20:56"
   }
  },
- "generated_at": "2026-10-23T12:35:02",
- "total": 33292
+ "generated_at": "2026-10-23T12:36:30",
+ "total": 33295
 }
