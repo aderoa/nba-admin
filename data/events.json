@@ -1,6 +1,34 @@
 {
  "events": [
   {
+   "detail": "Mexican LNBP Astros de Jalisco 81, Mineros de Zacatecas 72",
+   "detected_at": "2026-10-23 07:31:01",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-22/Astros-de-Jalisco-at-Mineros-de-Zacatecas/545624"
+  },
+  {
+   "detail": "Mexican LNBP Panteras de Aguascalientes 93, Lobos Plateados 84",
+   "detected_at": "2026-10-23 07:30:56",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-22/Panteras-de-Aguascalientes-at-Lobos-Plateados/545623"
+  },
+  {
+   "detail": "Mexican LNBP Dorados de Chihuahua 120, Fuerza Regia 116",
+   "detected_at": "2026-10-23 07:30:51",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-22/Fuerza-Regia-at-Dorados-de-Chihuahua/545622"
+  },
+  {
+   "detail": "Mexican LNBP Soles 92, Abejas 70",
+   "detected_at": "2026-10-23 07:30:46",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-22/Soles-at-Abejas/545621"
+  },
+  {
    "detail": "John Konchar  ~ 81496: league -> -",
    "detected_at": "2026-10-23 06:20:56",
    "source": "WIKIWATCH",
@@ -9878,30 +9906,6 @@
    "detected_at": "2026-10-20 01:11:45",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "MIN  - REMOVED Timme, Drew",
-   "detected_at": "2026-10-20 01:11:45",
-   "source": "SHEETS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "MIN  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 264621273 -> 262171852, col9: 700820596.6 -> 698371175.6",
-   "detected_at": "2026-10-20 01:11:45",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "MIN  CHANGED Players Under Contract  -  col3: 224858755 -> 222409334",
-   "detected_at": "2026-10-20 01:11:45",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "MIN  CHANGED Full Season Contracts  -  col3: 224858755 -> 222409334",
-   "detected_at": "2026-10-20 01:11:45",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -9926,8 +9930,8 @@
    "last": "2026-10-23 06:09:32"
   },
   "SCORES": {
-   "count": 2690,
-   "last": "2026-10-23 06:09:54"
+   "count": 2694,
+   "last": "2026-10-23 07:31:01"
   },
   "SHEETS": {
    "count": 5211,
@@ -9946,6 +9950,6 @@
    "last": "2026-10-23 06:20:56"
   }
  },
- "generated_at": "2026-10-23T07:04:37",
- "total": 33287
+ "generated_at": "2026-10-23T07:31:25",
+ "total": 33291
 }
