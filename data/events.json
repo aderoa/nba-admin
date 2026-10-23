@@ -1,6 +1,41 @@
 {
  "events": [
   {
+   "detail": "Robert Franks (basketball)  ~ league: Serbian SuperLeague ABA League EuroLeague -> -",
+   "detected_at": "2026-10-23 12:53:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Robert_Franks_(basketball)"
+  },
+  {
+   "detail": "Keenan Evans  ~ team: London Lions -> Žalgiris Kaunas",
+   "detected_at": "2026-10-23 12:53:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Keenan_Evans"
+  },
+  {
+   "detail": "Keenan Evans  ~ league: SLB EuroCup -> LKL EuroLeague",
+   "detected_at": "2026-10-23 12:53:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Keenan_Evans"
+  },
+  {
+   "detail": "Keenan Evans  ~ number: 12 -> -",
+   "detected_at": "2026-10-23 12:53:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Keenan_Evans"
+  },
+  {
+   "detail": "Keenan Evans  ~ CAREER  + 2026 →London Lions",
+   "detected_at": "2026-10-23 12:53:35",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Keenan_Evans"
+  },
+  {
    "detail": "Adriatic League Liga ABA Slovan Bratislava 98, BC Siroki 91",
    "detected_at": "2026-10-23 12:36:13",
    "source": "SCORES",
@@ -9880,36 +9915,6 @@
    "detected_at": "2026-10-20 01:11:45",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "CHA  CHANGED Full Season Contracts  -  col3: 164407398.6 -> 161691872.6",
-   "detected_at": "2026-10-20 01:11:45",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "CHA  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 17 -> 15",
-   "detected_at": "2026-10-20 01:11:45",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "HOU  - REMOVED Phillips, Julian",
-   "detected_at": "2026-10-20 01:11:45",
-   "source": "SHEETS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "HOU  - REMOVED Tshiebwe, Oscar",
-   "detected_at": "2026-10-20 01:11:45",
-   "source": "SHEETS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "HOU  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 217295565 -> 212396723, col9: 808999298.3 -> 804100456.3",
-   "detected_at": "2026-10-20 01:11:45",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -9946,14 +9951,14 @@
    "last": "2026-10-22 05:06:27"
   },
   "WIKI": {
-   "count": 6774,
-   "last": "2026-10-23 12:22:35"
+   "count": 6779,
+   "last": "2026-10-23 12:53:35"
   },
   "WIKIWATCH": {
    "count": 541,
    "last": "2026-10-23 06:20:56"
   }
  },
- "generated_at": "2026-10-23T12:36:30",
- "total": 33295
+ "generated_at": "2026-10-23T12:53:36",
+ "total": 33300
 }
