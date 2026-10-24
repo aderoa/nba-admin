@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Torgeir Bryn  ~ career_start: - -> 1989",
+   "detected_at": "2026-10-24 21:06:34",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Torgeir_Bryn"
+  },
+  {
+   "detail": "Torgeir Bryn  ~ career_end: - -> 2009",
+   "detected_at": "2026-10-24 21:06:34",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Torgeir_Bryn"
+  },
+  {
    "detail": "John Konchar  ~ number: - -> 46",
    "detected_at": "2026-10-24 19:05:34",
    "source": "WIKI",
@@ -9973,20 +9987,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-10-20/Guangdong-Dongguan-at-Beijing-Shougang/542133"
-  },
-  {
-   "detail": "Chinese CBA + Yang Tengfei → Guangdong Dongguan",
-   "detected_at": "2026-10-20 22:54:12",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Chinese CBA + JaKarr Sampson → Beijing Shougang",
-   "detected_at": "2026-10-20 22:54:12",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10023,14 +10023,14 @@
    "last": "2026-10-24 03:20:55"
   },
   "WIKI": {
-   "count": 6890,
-   "last": "2026-10-24 19:05:34"
+   "count": 6892,
+   "last": "2026-10-24 21:06:34"
   },
   "WIKIWATCH": {
    "count": 543,
    "last": "2026-10-24 18:43:15"
   }
  },
- "generated_at": "2026-10-24T20:47:03",
- "total": 34002
+ "generated_at": "2026-10-24T21:06:35",
+ "total": 34004
 }
