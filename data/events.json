@@ -1,6 +1,69 @@
 {
  "events": [
   {
+   "detail": "Tyler Smith (basketball, born 2004)  ~ team: Free agent -> Rio Grande Valley Vipers",
+   "detected_at": "2026-10-24 17:33:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Tyler_Smith_(basketball,_born_2004)"
+  },
+  {
+   "detail": "Tyler Smith (basketball, born 2004)  ~ league: - -> NBA G League",
+   "detected_at": "2026-10-24 17:33:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Tyler_Smith_(basketball,_born_2004)"
+  },
+  {
+   "detail": "Tyler Smith (basketball, born 2004)  ~ CAREER  + 2026–present Rio Grande Valley Vipers",
+   "detected_at": "2026-10-24 17:33:35",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Tyler_Smith_(basketball,_born_2004)"
+  },
+  {
+   "detail": "Kenyon Martin Jr.  ~ team: Free agent -> Iowa Wolves",
+   "detected_at": "2026-10-24 17:33:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kenyon_Martin_Jr."
+  },
+  {
+   "detail": "Kenyon Martin Jr.  ~ league: - -> NBA G League",
+   "detected_at": "2026-10-24 17:33:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kenyon_Martin_Jr."
+  },
+  {
+   "detail": "Kenyon Martin Jr.  ~ CAREER  + 2026–present Iowa Wolves",
+   "detected_at": "2026-10-24 17:33:35",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Kenyon_Martin_Jr."
+  },
+  {
+   "detail": "Trey Jemison  ~ team: Free agent -> Raptors 905",
+   "detected_at": "2026-10-24 17:33:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Trey_Jemison"
+  },
+  {
+   "detail": "Trey Jemison  ~ league: - -> NBA G League",
+   "detected_at": "2026-10-24 17:33:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Trey_Jemison"
+  },
+  {
+   "detail": "Trey Jemison  ~ CAREER  + 2026–present Raptors 905",
+   "detected_at": "2026-10-24 17:33:35",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Trey_Jemison"
+  },
+  {
    "detail": "Elfrid Payton  ~ team: Stockton Kings -> Westchester Knicks",
    "detected_at": "2026-10-24 17:10:35",
    "source": "WIKI",
@@ -9924,69 +9987,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Drew Timme  ~ number: - -> 2",
-   "detected_at": "2026-10-20 22:54:02",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Drew_Timme"
-  },
-  {
-   "detail": "Jeremiah Martin  ~ team: Lokomotiv Kuban -> Free agent",
-   "detected_at": "2026-10-20 22:54:02",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jeremiah_Martin"
-  },
-  {
-   "detail": "Jeremiah Martin  ~ league: VTB United League -> -",
-   "detected_at": "2026-10-20 22:54:02",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jeremiah_Martin"
-  },
-  {
-   "detail": "Jeremiah Martin  ~ number: 5 -> -",
-   "detected_at": "2026-10-20 22:54:02",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jeremiah_Martin"
-  },
-  {
-   "detail": "Jeremiah Martin  ~ CAREER  + 2025–2026 Lokomotiv Kuban",
-   "detected_at": "2026-10-20 22:54:02",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Jeremiah_Martin"
-  },
-  {
-   "detail": "Marcos Knight  ~ CAREER  + 2017 Zaragoza",
-   "detected_at": "2026-10-20 22:54:02",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Marcos_Knight"
-  },
-  {
-   "detail": "Marcos Knight  ~ CAREER  + 2021–2022 ASVEL",
-   "detected_at": "2026-10-20 22:54:02",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Marcos_Knight"
-  },
-  {
-   "detail": "Marcos Knight  ~ CAREER  + 2025 Al Ahly Benghazi",
-   "detected_at": "2026-10-20 22:54:02",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Marcos_Knight"
-  },
-  {
-   "detail": "Marius Runkauskas  ~ team: - -> Neptūnas-Akvaservis",
-   "detected_at": "2026-10-20 22:54:02",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Marius_Runkauskas"
   }
  ],
  "feeds": {
@@ -10023,14 +10023,14 @@
    "last": "2026-10-24 03:20:55"
   },
   "WIKI": {
-   "count": 6880,
-   "last": "2026-10-24 17:10:35"
+   "count": 6889,
+   "last": "2026-10-24 17:33:35"
   },
   "WIKIWATCH": {
    "count": 542,
    "last": "2026-10-24 03:20:40"
   }
  },
- "generated_at": "2026-10-24T17:25:01",
- "total": 33991
+ "generated_at": "2026-10-24T17:33:58",
+ "total": 34000
 }
