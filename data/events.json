@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Jeremy Sochan  ~ 139379: team -> Texas Legends",
+   "detected_at": "2026-10-24 22:15:27",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Free agent"
+  },
+  {
+   "detail": "Jeremy Sochan  ~ 139379: league -> NBA G League",
+   "detected_at": "2026-10-24 22:15:27",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": ""
+  },
+  {
    "detail": "Jeremy Sochan  ~ team: Texas Legends -> Free agent",
    "detected_at": "2026-10-24 22:03:34",
    "source": "WIKI",
@@ -9994,18 +10008,6 @@
    "detected_at": "2026-10-21 20:23:58",
    "source": "TRANSACTIONS",
    "type": "Signing"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED Update 1.3 (7/18/26): O. Agbaji, B. Beal, J. Bernard, R. Beekman, S. Bey, L. Black, B. Boston, T. Bradley, J. Bridges, D. Brooks, K. Brooks, J. Broome, B. Brown, K. Brown, K. Bufkin, T. Burton, J. Butler Jr., K. Caldwell-Pope, D. Carter, K. Chandler, M. Cisse, Y. Collins, I. Crawford, J. Crutcher, J. Cumberland, S. Curry, N. Dante, J. Davison, D. DeRozan, H. Dickinson, J. Duren, D. Eubanks, T. Fall, K. George, A. Gill, J. Gortman, H. Gray, D. Green, J. Harden, M. Hezonja, H. Highsmith, C. Houstan, C. Houstan, H. Ingram, A. Jackson, L. James, J. Johnson, K. Johnson, C. Jones D. Jones, S. Jones, Y. Kawamura, T. Keels, K. Kelley, M. Kelly, K. Knox, C. Koloko, J. Konchar, J. Kuminga, S. Labissiere, P. Larsson, K. Leonard, K. Lewis, C. Livingston, L. Lovering, S. Lundy, N. Marshall, J. Martin, K. Martin, B. Mathurin, B. Mbeng, G. McGlothan, D. Melton, N. Mensah, E. Miller, T. Newton, G. Niang, M. Nowell, T. Okani, N. Omier, M. Oni, E. Payton, G. Payton, T. Peter, D. Peterson, J. Phillips, D. Plowden, B. Podziemski, D. Powell, J. Preston, P. Pritchard, L. Quinones, D. Reath, N. Richards, K. Richmond, A. Reeves, L. Robbins, O. Robinson, H. Sallis, P. Sandfort, J. Schakel, M. Sears, J. Shead, B. Simmons, D. Smith, M. Smith, Z. Smith, J. Sochan, I. Stevens, D. Stockton, C. Swider, J. Tate, T. Taylor, J. Telfort, D. Terry, A. Thompson, A. Thompson, K. Thompson, M. Thybulle, D. Timme, A. Toohey, O. Tshiebwe, M. Wagner, L. Walker, J. Walsh, T. Watford, A. Watson, P. Watson, B. Wesley, P. Wheeler, A. Williams, B. Williams, M. Williams, J. Wiseman, I. Wong, J. Young",
-   "detected_at": "2026-10-21 20:23:58",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  Update 1.3 (7/18/26): O. Agbaji, B. Beal, J. Bernard, R. Beekman, S. Bey, L. Black, B. Boston, T. Bradley, J. Bridges, D. Brooks, K. Brooks, J. Broome, B. Brown, K. Brown, K. Bufkin, T. Burton, J. Butler Jr., K. Caldwell-Pope, D. Carter, K. Chandler, M. Cisse, Y. Collins, I. Crawford, J. Crutcher, J. Cumberland, S. Curry, N. Dante, J. Davison, D. DeRozan, H. Dickinson, J. Duren, D. Eubanks, T. Fall, K. George, A. Gill, J. Gortman, H. Gray, D. Green, J. Harden, M. Hezonja, H. Highsmith, C. Houstan, C. Houstan, O Ighodaro, H. Ingram, A. Jackson, L. James, J. Johnson, K. Johnson, C. Jones D. Jones, S. Jones, Y. Kawamura, T. Keels, K. Kelley, M. Kelly, K. Knox, C. Koloko, J. Konchar, J. Kuminga, S. Labissiere, P. Larsson, K. Leonard, K. Lewis, C. Livingston, L. Lovering, S. Lundy, N. Marshall, J. Martin, K. Martin, B. Mathurin, B. Mbeng, J. McDaniels, G. McGlothan, D. Melton, N. Mensah, E. Miller, T. Newton, G. Niang, M. Nowell, T. Okani, N. Omier, M. Oni, E. Payton, G. Payton, T. Peter, D. Peterson, J. Phillips, D. Plowden, B. Podziemski, D. Powell, J. Preston, P. Pritchard, L. Quinones, D. Reath, N. Richards, K. Richmond, A. Reeves, L. Robbins, O. Robinson, H. Sallis, P. Sandfort, J. Schakel, M. Sears, J. Shead, B. Simmons, D. Smith, M. Smith, Z. Smith, J. Sochan, I. Stevens, D. Stockton, C. Swider, J. Tate, T. Taylor, J. Telfort, D. Terry, A. Thompson, A. Thompson, K. Thompson, M. Thybulle, D. Timme, A. Toohey, O. Tshiebwe, M. Wagner, L. Walker, C. Wallace, J. Walsh, T. Watford, A. Watson, P. Watson, B. Wesley, P. Wheeler, A. Williams, B. Williams, M. Williams, J. Wiseman, I. Wong, J. Young",
-   "detected_at": "2026-10-21 20:23:58",
-   "source": "DOCS",
-   "type": "ADDED"
   }
  ],
  "feeds": {
@@ -10046,10 +10048,10 @@
    "last": "2026-10-24 22:03:34"
   },
   "WIKIWATCH": {
-   "count": 545,
-   "last": "2026-10-24 21:29:52"
+   "count": 547,
+   "last": "2026-10-24 22:15:27"
   }
  },
- "generated_at": "2026-10-24T22:03:36",
- "total": 34042
+ "generated_at": "2026-10-24T22:16:03",
+ "total": 34044
 }
