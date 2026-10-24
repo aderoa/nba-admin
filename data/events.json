@@ -1,6 +1,34 @@
 {
  "events": [
   {
+   "detail": "Kobe Bufkin  ~ number: - -> 0",
+   "detected_at": "2026-10-24 23:34:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kobe_Bufkin"
+  },
+  {
+   "detail": "Sean Pedulla  ~ number: - -> 3",
+   "detected_at": "2026-10-24 23:34:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Sean_Pedulla"
+  },
+  {
+   "detail": "Dalton Knecht  ~ number: - -> 1",
+   "detected_at": "2026-10-24 23:34:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Dalton_Knecht"
+  },
+  {
+   "detail": "Jeremy Sochan  ~ CAREER  + 2020–2022 OrangeAcademy",
+   "detected_at": "2026-10-24 23:34:35",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Jeremy_Sochan"
+  },
+  {
    "detail": "Basketball Africa League Qualification Namuwongo Blazers 85, Patriots BBC 81",
    "detected_at": "2026-10-24 22:49:15",
    "source": "SCORES",
@@ -9987,30 +10015,6 @@
    "detected_at": "2026-10-21 20:24:01",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "OKC  CHANGED Full Season Contracts  -  col4: 176123505.7 -> 199399367.7, col5: 164385845 -> 189523776, col6: 119015818.1 -> 146015818.1, col7: 108874260 -> 137736329, col8: 0 -> 30724138",
-   "detected_at": "2026-10-21 20:24:01",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "PHX  CHANGED Ighodaro, Oso  -  col5: - -> 8950618.0, col6: - -> 9666667.0, col7: - -> 10382715.0, col9: 4783266 -> 33783266",
-   "detected_at": "2026-10-21 20:24:01",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "PHX  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col5: 166094185.9 -> 175044803.9, col6: 145529169.1 -> 155195836.1, col7: 3107142.857 -> 13489857.86, col9: 750647099.4 -> 779647099.4",
-   "detected_at": "2026-10-21 20:24:01",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "PHX  CHANGED Players Under Contract  -  col5: 143604033 -> 152554651, col6: 123039016.2 -> 132705683.2, col7: 0 -> 10382715",
-   "detected_at": "2026-10-21 20:24:01",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10047,14 +10051,14 @@
    "last": "2026-10-24 03:20:55"
   },
   "WIKI": {
-   "count": 6902,
-   "last": "2026-10-24 22:35:35"
+   "count": 6906,
+   "last": "2026-10-24 23:34:35"
   },
   "WIKIWATCH": {
    "count": 547,
    "last": "2026-10-24 22:15:27"
   }
  },
- "generated_at": "2026-10-24T23:16:01",
- "total": 34047
+ "generated_at": "2026-10-24T23:34:36",
+ "total": 34051
 }
