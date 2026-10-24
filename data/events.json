@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Basketball Africa League Qualification Namuwongo Blazers 85, Patriots BBC 81",
+   "detected_at": "2026-10-24 22:49:15",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-24/Namuwongo-Blazers-at-Patriots-BBC/545711"
+  },
+  {
+   "detail": "Chinese CBA Guangdong Dongguan 86, Ningbo Rockets 77",
+   "detected_at": "2026-10-24 22:49:10",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-24/Ningbo-Rockets-at-Guangdong-Dongguan/544307"
+  },
+  {
    "detail": "Kenneth Lofton Jr.  ~ position: Power forward/ Center -> Power forward / center",
    "detected_at": "2026-10-24 22:35:35",
    "source": "WIKI",
@@ -9997,18 +10011,6 @@
    "detected_at": "2026-10-21 20:24:01",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "PHX  CHANGED Full Season Contracts  -  col5: 143604033 -> 152554651, col6: 123039016.2 -> 132705683.2, col7: 0 -> 10382715",
-   "detected_at": "2026-10-21 20:24:01",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "2026-10-19  Phoenix Suns converted the contract of forward Drew Timme to a Two-Way Contract.",
-   "detected_at": "2026-10-21 20:23:58",
-   "source": "TRANSACTIONS",
-   "type": "ContractConverted"
   }
  ],
  "feeds": {
@@ -10033,8 +10035,8 @@
    "last": "2026-10-24 21:44:15"
   },
   "SCORES": {
-   "count": 2802,
-   "last": "2026-10-24 21:44:17"
+   "count": 2804,
+   "last": "2026-10-24 22:49:15"
   },
   "SHEETS": {
    "count": 5211,
@@ -10053,6 +10055,6 @@
    "last": "2026-10-24 22:15:27"
   }
  },
- "generated_at": "2026-10-24T22:35:36",
- "total": 34045
+ "generated_at": "2026-10-24T22:49:38",
+ "total": 34047
 }
