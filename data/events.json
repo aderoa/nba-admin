@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Australian NBL Brisbane 98, Illawarra 81",
+   "detected_at": "2026-10-24 12:24:45",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-24/Brisbane-at-Illawarra/524413"
+  },
+  {
    "detail": "Mangok Mathiang  ~ number: - -> 7",
    "detected_at": "2026-10-24 11:24:35",
    "source": "WIKI",
@@ -10092,13 +10099,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Danuel_House_Jr."
-  },
-  {
-   "detail": "Isaiah Stevens  ~ team: Free agent -> Windy City Bulls",
-   "detected_at": "2026-10-20 11:05:36",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Isaiah_Stevens"
   }
  ],
  "feeds": {
@@ -10123,8 +10123,8 @@
    "last": "2026-10-24 07:04:22"
   },
   "SCORES": {
-   "count": 2794,
-   "last": "2026-10-24 07:04:28"
+   "count": 2795,
+   "last": "2026-10-24 12:24:45"
   },
   "SHEETS": {
    "count": 5211,
@@ -10143,6 +10143,6 @@
    "last": "2026-10-24 03:20:40"
   }
  },
- "generated_at": "2026-10-24T12:03:02",
- "total": 33611
+ "generated_at": "2026-10-24T12:25:06",
+ "total": 33612
 }
