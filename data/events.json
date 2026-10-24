@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Kevon Looney  ~ position: Power forward -> Center",
+   "detected_at": "2026-10-24 13:33:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kevon_Looney"
+  },
+  {
+   "detail": "Dustin Sleva  ~ position: Power forward -> Power forward / center",
+   "detected_at": "2026-10-24 13:33:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Dustin_Sleva"
+  },
+  {
    "detail": "Samardo Samuels  ~ career_end: - -> 2025",
    "detected_at": "2026-10-24 12:47:36",
    "source": "WIKI",
@@ -10085,20 +10099,6 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Isaiah_Wong"
-  },
-  {
-   "detail": "Danuel House Jr.  ~ team: Free agent -> -",
-   "detected_at": "2026-10-20 11:51:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Danuel_House_Jr."
-  },
-  {
-   "detail": "Danuel House Jr.  ~ position: Small forward / power forward -> -",
-   "detected_at": "2026-10-20 11:51:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Danuel_House_Jr."
   }
  ],
  "feeds": {
@@ -10135,14 +10135,14 @@
    "last": "2026-10-24 03:20:55"
   },
   "WIKI": {
-   "count": 6851,
-   "last": "2026-10-24 12:47:36"
+   "count": 6853,
+   "last": "2026-10-24 13:33:35"
   },
   "WIKIWATCH": {
    "count": 542,
    "last": "2026-10-24 03:20:40"
   }
  },
- "generated_at": "2026-10-24T13:25:03",
- "total": 33613
+ "generated_at": "2026-10-24T13:33:36",
+ "total": 33615
 }
