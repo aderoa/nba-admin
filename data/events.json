@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Jeremy Sochan  ~ 139379: team -> Free agent",
+   "detected_at": "2026-10-24 21:29:52",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Texas Legends"
+  },
+  {
+   "detail": "Jeremy Sochan  ~ 139379: league -> -",
+   "detected_at": "2026-10-24 21:29:52",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "NBA G League"
+  },
+  {
    "detail": "Jeremy Sochan  ~ team: Free agent -> Texas Legends",
    "detected_at": "2026-10-24 21:29:35",
    "source": "WIKI",
@@ -9973,20 +9987,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Chinese CBA Sichuan Blue Whales 91, Jilin Northeast 88",
-   "detected_at": "2026-10-20 22:54:23",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-20/Sichuan-Blue-Whales-at-Jilin-Northeast/542131"
-  },
-  {
-   "detail": "Chinese CBA + Xiao Liren → Sichuan Blue Whales",
-   "detected_at": "2026-10-20 22:54:21",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10027,10 +10027,10 @@
    "last": "2026-10-24 21:29:35"
   },
   "WIKIWATCH": {
-   "count": 543,
-   "last": "2026-10-24 18:43:15"
+   "count": 545,
+   "last": "2026-10-24 21:29:52"
   }
  },
- "generated_at": "2026-10-24T21:29:38",
- "total": 34010
+ "generated_at": "2026-10-24T21:30:03",
+ "total": 34012
 }
