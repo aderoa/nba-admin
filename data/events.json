@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "John Konchar  ~ 81496: number -> -",
+   "detected_at": "2026-10-24 18:43:15",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "46"
+  },
+  {
    "detail": "Tyler Smith (basketball, born 2004)  ~ team: Free agent -> Rio Grande Valley Vipers",
    "detected_at": "2026-10-24 17:33:35",
    "source": "WIKI",
@@ -9980,13 +9987,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-10-20/Zhejiang-Guangsha-at-Fujian/542134"
-  },
-  {
-   "detail": "Chinese CBA + Dez Wells → Zhejiang Guangsha",
-   "detected_at": "2026-10-20 22:54:07",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10027,10 +10027,10 @@
    "last": "2026-10-24 17:33:35"
   },
   "WIKIWATCH": {
-   "count": 542,
-   "last": "2026-10-24 03:20:40"
+   "count": 543,
+   "last": "2026-10-24 18:43:15"
   }
  },
- "generated_at": "2026-10-24T18:43:03",
- "total": 34000
+ "generated_at": "2026-10-24T18:44:02",
+ "total": 34001
 }
