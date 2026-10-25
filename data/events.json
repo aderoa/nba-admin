@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "2026-10-23  New York Knicks signed forward Dalton Knecht to a Two-Way Contract.",
+   "detected_at": "2026-10-25 14:56:55",
+   "source": "TRANSACTIONS",
+   "type": "Signing"
+  },
+  {
    "detail": "Brazilian NBB Uniceub BRB Brasilia 91, Paulistano 73",
    "detected_at": "2026-10-25 14:45:02",
    "source": "SCORES",
@@ -10025,13 +10031,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-10-21/NLEX-Road-Warriors-at-San-Miguel-Beermen/544798"
-  },
-  {
-   "detail": "Kobe Bufkin  ~ team: Utah Jazz -> Free agent",
-   "detected_at": "2026-10-22 05:13:36",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Kobe_Bufkin"
   }
  ],
  "feeds": {
@@ -10064,8 +10063,8 @@
    "last": "2026-10-21 20:24:01"
   },
   "TRANSACTIONS": {
-   "count": 675,
-   "last": "2026-10-24 03:20:55"
+   "count": 676,
+   "last": "2026-10-25 14:56:55"
   },
   "WIKI": {
    "count": 6913,
@@ -10076,6 +10075,6 @@
    "last": "2026-10-25 07:32:34"
   }
  },
- "generated_at": "2026-10-25T14:45:11",
- "total": 34364
+ "generated_at": "2026-10-25T14:57:04",
+ "total": 34365
 }
