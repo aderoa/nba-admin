@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Enrique Freeman  ~ CAREER  + 2025–2026 →Iowa Wolves",
+   "detected_at": "2026-10-25 21:22:35",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Enrique_Freeman"
+  },
+  {
+   "detail": "Metecan Birsen  ~ position: Power forward / small forward -> Power forward / center",
+   "detected_at": "2026-10-25 21:22:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Metecan_Birsen"
+  },
+  {
    "detail": "+ ADDED   Kobe Bufkin (UTA)",
    "detected_at": "2026-10-25 18:22:54",
    "source": "PLAYERS",
@@ -9939,20 +9953,6 @@
    "source": "WIKIWATCH",
    "type": "FIELD",
    "url": "Small forward / shooting guard"
-  },
-  {
-   "detail": "Draymond Green  ~ 2369: position -> Power forward",
-   "detected_at": "2026-10-22 12:19:08",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "Power forward / center"
-  },
-  {
-   "detail": "Dennis Schroeder  ~ 26503: number -> -",
-   "detected_at": "2026-10-22 12:19:08",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "17"
   }
  ],
  "feeds": {
@@ -9989,14 +9989,14 @@
    "last": "2026-10-25 17:39:18"
   },
   "WIKI": {
-   "count": 6924,
-   "last": "2026-10-25 17:46:36"
+   "count": 6926,
+   "last": "2026-10-25 21:22:35"
   },
   "WIKIWATCH": {
    "count": 549,
    "last": "2026-10-25 07:32:34"
   }
  },
- "generated_at": "2026-10-25T21:01:02",
- "total": 34454
+ "generated_at": "2026-10-25T21:22:36",
+ "total": 34456
 }
