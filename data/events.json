@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "+ ADDED   Dalton Knecht (NYK)",
+   "detected_at": "2026-10-25 16:11:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
    "detail": "Gregor Glas  ~ team: Free agent -> Bàsquet Girona",
    "detected_at": "2026-10-25 16:03:35",
    "source": "WIKI",
@@ -9953,13 +9959,6 @@
    "source": "WIKIWATCH",
    "type": "FIELD",
    "url": "00"
-  },
-  {
-   "detail": "Buddy Hield  ~ 42415: team -> Atlanta Hawks",
-   "detected_at": "2026-10-22 12:19:03",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "Chicago Bulls"
   }
  ],
  "feeds": {
@@ -9972,8 +9971,8 @@
    "last": "2026-10-25 15:20:01"
   },
   "PLAYERS": {
-   "count": 1920,
-   "last": "2026-10-24 03:20:54"
+   "count": 1921,
+   "last": "2026-10-25 16:11:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10004,6 +10003,6 @@
    "last": "2026-10-25 07:32:34"
   }
  },
- "generated_at": "2026-10-25T16:11:02",
- "total": 34443
+ "generated_at": "2026-10-25T16:12:03",
+ "total": 34444
 }
