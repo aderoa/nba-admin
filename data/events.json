@@ -1,6 +1,52 @@
 {
  "events": [
   {
+   "detail": "Stephen Zimmerman  ~ team: Vancouver Bandits -> Shandong Honey Badger",
+   "detected_at": "2026-10-25 17:46:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Stephen_Zimmerman"
+  },
+  {
+   "detail": "Stephen Zimmerman  ~ league: CEBL -> NBL",
+   "detected_at": "2026-10-25 17:46:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Stephen_Zimmerman"
+  },
+  {
+   "detail": "Stephen Zimmerman  ~ CAREER  + 2026 Vancouver Bandits",
+   "detected_at": "2026-10-25 17:46:36",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Stephen_Zimmerman"
+  },
+  {
+   "detail": "Stephen Zimmerman  ~ CAREER  + 2026-present Shandong Honey Badger",
+   "detected_at": "2026-10-25 17:46:36",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Stephen_Zimmerman"
+  },
+  {
+   "detail": "2026-10-24  Oklahoma City Thunder signed guard Micah Peavy to a Two-Way Contract.",
+   "detected_at": "2026-10-25 17:39:18",
+   "source": "TRANSACTIONS",
+   "type": "Signing"
+  },
+  {
+   "detail": "2026-10-24  Oklahoma City Thunder waived guard Otega Oweh.",
+   "detected_at": "2026-10-25 17:39:18",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-23  Utah Jazz signed guard Kobe Bufkin to a Two-Way Contract.",
+   "detected_at": "2026-10-25 17:39:18",
+   "source": "TRANSACTIONS",
+   "type": "Signing"
+  },
+  {
    "detail": "+ ADDED   Dalton Knecht (NYK)",
    "detected_at": "2026-10-25 16:11:54",
    "source": "PLAYERS",
@@ -9910,55 +9956,6 @@
    "source": "WIKIWATCH",
    "type": "FIELD",
    "url": "Small forward"
-  },
-  {
-   "detail": "Goga Bitadze  ~ 75906: position -> Center",
-   "detected_at": "2026-10-22 12:19:08",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "Center / power forward"
-  },
-  {
-   "detail": "Dean Wade  ~ 84884: position -> Power forward / small forward",
-   "detected_at": "2026-10-22 12:19:08",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "Power forward / center"
-  },
-  {
-   "detail": "Collin Sexton  ~ 104930: league -> -",
-   "detected_at": "2026-10-22 12:19:06",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "NBA"
-  },
-  {
-   "detail": "Caleb Love  ~ 143332: number -> 9",
-   "detected_at": "2026-10-22 12:19:06",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "8"
-  },
-  {
-   "detail": "Cam Whitmore  ~ 176080: team -> Free agent",
-   "detected_at": "2026-10-22 12:19:06",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "Denver Nuggets"
-  },
-  {
-   "detail": "Cam Whitmore  ~ 176080: league -> -",
-   "detected_at": "2026-10-22 12:19:06",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "NBA"
-  },
-  {
-   "detail": "Cam Whitmore  ~ 176080: number -> -",
-   "detected_at": "2026-10-22 12:19:06",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "00"
   }
  ],
  "feeds": {
@@ -9991,18 +9988,18 @@
    "last": "2026-10-21 20:24:01"
   },
   "TRANSACTIONS": {
-   "count": 676,
-   "last": "2026-10-25 14:56:55"
+   "count": 679,
+   "last": "2026-10-25 17:39:18"
   },
   "WIKI": {
-   "count": 6920,
-   "last": "2026-10-25 16:03:35"
+   "count": 6924,
+   "last": "2026-10-25 17:46:36"
   },
   "WIKIWATCH": {
    "count": 549,
    "last": "2026-10-25 07:32:34"
   }
  },
- "generated_at": "2026-10-25T16:12:03",
- "total": 34444
+ "generated_at": "2026-10-25T17:47:05",
+ "total": 34451
 }
