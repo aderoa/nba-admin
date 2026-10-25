@@ -1,6 +1,24 @@
 {
  "events": [
   {
+   "detail": "+ ADDED   Kobe Bufkin (UTA)",
+   "detected_at": "2026-10-25 18:22:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "+ ADDED   Micah Peavy (OKC)",
+   "detected_at": "2026-10-25 18:22:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "- REMOVED Otega Oweh (OKC)",
+   "detected_at": "2026-10-25 18:22:54",
+   "source": "PLAYERS",
+   "type": "REMOVED"
+  },
+  {
    "detail": "Stephen Zimmerman  ~ team: Vancouver Bandits -> Shandong Honey Badger",
    "detected_at": "2026-10-25 17:46:36",
    "source": "WIKI",
@@ -9935,27 +9953,6 @@
    "source": "WIKIWATCH",
    "type": "FIELD",
    "url": "17"
-  },
-  {
-   "detail": "Gary Payton II  ~ 80992: league -> National Basketball Association",
-   "detected_at": "2026-10-22 12:19:08",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "NBA"
-  },
-  {
-   "detail": "Gary Payton II  ~ 80992: position -> Shooting guard / small forward",
-   "detected_at": "2026-10-22 12:19:08",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "Shooting guard"
-  },
-  {
-   "detail": "Duncan Robinson  ~ 79772: position -> Small forward / shooting guard",
-   "detected_at": "2026-10-22 12:19:08",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "Small forward"
   }
  ],
  "feeds": {
@@ -9968,8 +9965,8 @@
    "last": "2026-10-25 15:20:01"
   },
   "PLAYERS": {
-   "count": 1921,
-   "last": "2026-10-25 16:11:54"
+   "count": 1924,
+   "last": "2026-10-25 18:22:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10000,6 +9997,6 @@
    "last": "2026-10-25 07:32:34"
   }
  },
- "generated_at": "2026-10-25T18:09:28",
- "total": 34451
+ "generated_at": "2026-10-25T18:23:06",
+ "total": 34454
 }
