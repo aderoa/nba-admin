@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Adam Flagler  ~ team: Coachella Valley Lakers -> Texas Legends",
+   "detected_at": "2026-10-25 15:40:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Adam_Flagler"
+  },
+  {
+   "detail": "Adam Flagler  ~ CAREER  + 2026–present Texas Legends",
+   "detected_at": "2026-10-25 15:40:35",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Adam_Flagler"
+  },
+  {
    "detail": "2026-10-24  Drafted: Jeremy Sochan (Legends)",
    "detected_at": "2026-10-25 15:20:01",
    "source": "GLEAGUE",
@@ -9946,20 +9960,6 @@
    "source": "WIKIWATCH",
    "type": "FIELD",
    "url": "Center"
-  },
-  {
-   "detail": "Brandon Ingram  ~ 72279: number -> -",
-   "detected_at": "2026-10-22 12:19:01",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "7"
-  },
-  {
-   "detail": "Anthony Gill  ~ 24216: team -> Free agent",
-   "detected_at": "2026-10-22 12:19:01",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "Washington Wizards"
   }
  ],
  "feeds": {
@@ -9996,14 +9996,14 @@
    "last": "2026-10-25 14:56:55"
   },
   "WIKI": {
-   "count": 6913,
-   "last": "2026-10-25 07:13:46"
+   "count": 6915,
+   "last": "2026-10-25 15:40:35"
   },
   "WIKIWATCH": {
    "count": 549,
    "last": "2026-10-25 07:32:34"
   }
  },
- "generated_at": "2026-10-25T15:20:03",
- "total": 34436
+ "generated_at": "2026-10-25T15:40:38",
+ "total": 34438
 }
