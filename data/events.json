@@ -1,6 +1,41 @@
 {
  "events": [
   {
+   "detail": "Slovakian Extraliga BC Prievidza 83, MBK Handlova 81",
+   "detected_at": "2026-10-25 08:26:53",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-24/BC-Prievidza-at-MBK-Handlova/534258"
+  },
+  {
+   "detail": "Slovakian Extraliga MBK Lucenec 90, BK Iskra Svit 83",
+   "detected_at": "2026-10-25 08:26:49",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-24/BK-Iskra-Svit-at-MBK-Lucenec/534257"
+  },
+  {
+   "detail": "Slovakian Extraliga + DeSean Parsons → BK Iskra Svit",
+   "detected_at": "2026-10-25 08:26:47",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Slovakian Extraliga + Matus Zlocha → MBK Lucenec",
+   "detected_at": "2026-10-25 08:26:47",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Slovakian Extraliga Slavia Kosice 86, BC Komarno 59",
+   "detected_at": "2026-10-25 08:26:45",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-24/BC-Komarno-at-Slavia-Kosice/534256"
+  },
+  {
    "detail": "Jeremy Sochan  ~ 139379: team -> Free agent",
    "detected_at": "2026-10-25 07:32:34",
    "source": "WIKIWATCH",
@@ -9987,41 +10022,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "VTB Youth United League + Bogdan Shishatskiy → Avtodor 2",
-   "detected_at": "2026-10-21 20:33:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "VTB Youth United League + Matvey Komzalov → Avtodor 2",
-   "detected_at": "2026-10-21 20:33:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "VTB Youth United League CSKA Moscow U18 75, Samara 2 68",
-   "detected_at": "2026-10-21 20:33:07",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-20/CSKA-Moscow-U18-at-Samara-2/543406"
-  },
-  {
-   "detail": "VTB Youth United League + Konstantin Kalinin → CSKA Moscow U18",
-   "detected_at": "2026-10-21 20:33:06",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "VTB Youth United League + Mikheyev Nikita → CSKA Moscow U18",
-   "detected_at": "2026-10-21 20:33:06",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10042,12 +10042,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 10288,
-   "last": "2026-10-25 07:21:26"
+   "count": 10290,
+   "last": "2026-10-25 08:26:47"
   },
   "SCORES": {
-   "count": 2899,
-   "last": "2026-10-25 07:21:26"
+   "count": 2902,
+   "last": "2026-10-25 08:26:53"
   },
   "SHEETS": {
    "count": 5211,
@@ -10066,6 +10066,6 @@
    "last": "2026-10-25 07:32:34"
   }
  },
- "generated_at": "2026-10-25T08:18:03",
- "total": 34247
+ "generated_at": "2026-10-25T08:27:12",
+ "total": 34252
 }
