@@ -1,6 +1,42 @@
 {
  "events": [
   {
+   "detail": "~ CHANGED Drew Timme  number: 17 -> 2",
+   "detected_at": "2026-10-26 20:19:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Nate Bittle  number: - -> 12",
+   "detected_at": "2026-10-26 20:19:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Jayson Kent  number: - -> 29",
+   "detected_at": "2026-10-26 20:19:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Caleb Love  number: 2 -> 8",
+   "detected_at": "2026-10-26 20:19:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Michael Ajayi  number: - -> 10",
+   "detected_at": "2026-10-26 20:19:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Kylan Boswell  number: - -> 18",
+   "detected_at": "2026-10-26 20:19:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "Chinese CBA Jilin Northeast 85, Ningbo Rockets 76",
    "detected_at": "2026-10-26 19:43:11",
    "source": "SCORES",
@@ -9928,48 +9964,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Brazilian NBB + Matheus Gueiros → Uniceub BRB Brasilia",
-   "detected_at": "2026-10-23 15:51:02",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Brazilian NBB + Matheus Cardoso dos santos → Uniceub BRB Brasilia",
-   "detected_at": "2026-10-23 15:51:02",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Brazilian NBB Minas 88, Uniao Corinthians 71",
-   "detected_at": "2026-10-23 15:50:59",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-22/Minas-at-Uniao-Corinthians/545096"
-  },
-  {
-   "detail": "Belarusian BPL Borisfen Mogilev Youth 101, RGUOR Minsk 74",
-   "detected_at": "2026-10-23 15:50:55",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-22/Borisfen-Mogilev-Youth-at-RGUOR-Minsk/546001"
-  },
-  {
-   "detail": "Belarusian BPL ~ RETURN Ivan Dudchenko → Borisfen Mogilev Youth (from Borisfen Mogilev)",
-   "detected_at": "2026-10-23 15:50:53",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL ~ RETURN Artem Puchko → Borisfen Mogilev Youth (from Borisfen Mogilev)",
-   "detected_at": "2026-10-23 15:50:53",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
   }
  ],
  "feeds": {
@@ -9982,8 +9976,8 @@
    "last": "2026-10-26 15:02:01"
   },
   "PLAYERS": {
-   "count": 1925,
-   "last": "2026-10-26 17:48:54"
+   "count": 1931,
+   "last": "2026-10-26 20:19:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10014,6 +10008,6 @@
    "last": "2026-10-26 00:32:00"
   }
  },
- "generated_at": "2026-10-26T20:05:37",
- "total": 34838
+ "generated_at": "2026-10-26T20:20:05",
+ "total": 34844
 }
