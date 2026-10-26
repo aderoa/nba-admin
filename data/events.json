@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Chinese CBA Jilin Northeast 85, Ningbo Rockets 76",
+   "detected_at": "2026-10-26 19:43:11",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-26/Jilin-Northeast-at-Ningbo-Rockets/544694"
+  },
+  {
+   "detail": "Chinese CBA Shanghai Dongfang 99, Guangdong Dongguan 87",
+   "detected_at": "2026-10-26 19:43:07",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-26/Guangdong-Dongguan-at-Shanghai-Dongfang/544695"
+  },
+  {
    "detail": "RayJ Dennis  ~ nationality: - -> American",
    "detected_at": "2026-10-26 19:28:35",
    "source": "WIKI",
@@ -9956,20 +9970,6 @@
    "source": "REALGM",
    "type": "RETURN",
    "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Nikita Kipen → RGUOR Minsk",
-   "detected_at": "2026-10-23 15:50:53",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Yaroslav Tolkach → RGUOR Minsk",
-   "detected_at": "2026-10-23 15:50:53",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -9994,8 +9994,8 @@
    "last": "2026-10-26 17:35:19"
   },
   "SCORES": {
-   "count": 3105,
-   "last": "2026-10-26 17:35:20"
+   "count": 3107,
+   "last": "2026-10-26 19:43:11"
   },
   "SHEETS": {
    "count": 5212,
@@ -10014,6 +10014,6 @@
    "last": "2026-10-26 00:32:00"
   }
  },
- "generated_at": "2026-10-26T19:42:01",
- "total": 34836
+ "generated_at": "2026-10-26T19:43:32",
+ "total": 34838
 }
