@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Keenan Evans  ~ number: - -> 34",
+   "detected_at": "2026-10-26 20:42:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Keenan_Evans"
+  },
+  {
    "detail": "~ CHANGED Drew Timme  number: 17 -> 2",
    "detected_at": "2026-10-26 20:19:54",
    "source": "PLAYERS",
@@ -9957,13 +9964,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Brazilian NBB + Augusto Leao → Uniceub BRB Brasilia",
-   "detected_at": "2026-10-23 15:51:02",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10000,14 +10000,14 @@
    "last": "2026-10-25 17:39:18"
   },
   "WIKI": {
-   "count": 6965,
-   "last": "2026-10-26 19:28:35"
+   "count": 6966,
+   "last": "2026-10-26 20:42:35"
   },
   "WIKIWATCH": {
    "count": 550,
    "last": "2026-10-26 00:32:00"
   }
  },
- "generated_at": "2026-10-26T20:20:05",
- "total": 34844
+ "generated_at": "2026-10-26T20:42:36",
+ "total": 34845
 }
