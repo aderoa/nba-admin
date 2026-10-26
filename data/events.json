@@ -1,6 +1,18 @@
 {
  "events": [
   {
+   "detail": "2026-27 Two-Way Signings  - REMOVED 1 Year. Rest of Season. Skill; Injury or Illness; Death. Compensation protection for 2026-27 Season is for $91,000. Love of the Game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-10-26 15:55:57",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Two-Way Signings  + ADDED  1 Year. Rest of Season. Love of the Game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-10-26 15:55:57",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "2026-27 Two-Way Signings  - REMOVED Koby Brea Phoenix Suns",
    "detected_at": "2026-10-26 15:48:04",
    "source": "DOCS",
@@ -9959,26 +9971,12 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Robert_Franks_(basketball)"
-  },
-  {
-   "detail": "Keenan Evans  ~ team: London Lions -> Žalgiris Kaunas",
-   "detected_at": "2026-10-23 12:53:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Keenan_Evans"
-  },
-  {
-   "detail": "Keenan Evans  ~ league: SLB EuroCup -> LKL EuroLeague",
-   "detected_at": "2026-10-23 12:53:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Keenan_Evans"
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 4288,
-   "last": "2026-10-26 15:48:04"
+   "count": 4290,
+   "last": "2026-10-26 15:55:57"
   },
   "GLEAGUE": {
    "count": 712,
@@ -10017,6 +10015,6 @@
    "last": "2026-10-26 00:32:00"
   }
  },
- "generated_at": "2026-10-26T15:55:36",
- "total": 34797
+ "generated_at": "2026-10-26T15:56:05",
+ "total": 34799
 }
