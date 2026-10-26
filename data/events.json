@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Basketball Africa League Qualification Onatra 66, Espoir 59",
+   "detected_at": "2026-10-26 20:44:12",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-26/Espoir-at-Onatra/546052"
+  },
+  {
    "detail": "Keenan Evans  ~ number: - -> 34",
    "detected_at": "2026-10-26 20:42:35",
    "source": "WIKI",
@@ -9957,13 +9964,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Brazilian NBB + Kauan Nascimento Raymundo → Uniceub BRB Brasilia",
-   "detected_at": "2026-10-23 15:51:02",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -9988,8 +9988,8 @@
    "last": "2026-10-26 17:35:19"
   },
   "SCORES": {
-   "count": 3107,
-   "last": "2026-10-26 19:43:11"
+   "count": 3108,
+   "last": "2026-10-26 20:44:12"
   },
   "SHEETS": {
    "count": 5212,
@@ -10008,6 +10008,6 @@
    "last": "2026-10-26 00:32:00"
   }
  },
- "generated_at": "2026-10-26T20:43:04",
- "total": 34845
+ "generated_at": "2026-10-26T20:44:35",
+ "total": 34846
 }
