@@ -1,6 +1,33 @@
 {
  "events": [
   {
+   "detail": "Brandon Boston Jr.  ~ team: Windy City Bulls -> Trabzonspor",
+   "detected_at": "2026-10-26 17:56:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Brandon_Boston_Jr."
+  },
+  {
+   "detail": "Brandon Boston Jr.  ~ league: NBA G League -> BSL",
+   "detected_at": "2026-10-26 17:56:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Brandon_Boston_Jr."
+  },
+  {
+   "detail": "Brandon Boston Jr.  ~ CAREER  + 2026–present Trabzonspor",
+   "detected_at": "2026-10-26 17:56:35",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Brandon_Boston_Jr."
+  },
+  {
+   "detail": "~ CHANGED Micah Peavy  number: 7 -> 16",
+   "detected_at": "2026-10-26 17:48:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "Croatian A 1 Liga KK Split 76, KK Alkar 75",
    "detected_at": "2026-10-26 17:35:20",
    "source": "SCORES",
@@ -9943,34 +9970,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Vic_Law"
-  },
-  {
-   "detail": "Vic Law  ~ height_ft: - -> 6",
-   "detected_at": "2026-10-23 15:04:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Vic_Law"
-  },
-  {
-   "detail": "Vic Law  ~ height_in: - -> 7",
-   "detected_at": "2026-10-23 15:04:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Vic_Law"
-  },
-  {
-   "detail": "Vic Law  ~ weight_lb: - -> 201",
-   "detected_at": "2026-10-23 15:04:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Vic_Law"
-  },
-  {
-   "detail": "Vic Law  ~ CAREER  + 2022–2023 Chiba Jets",
-   "detected_at": "2026-10-23 15:04:35",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Vic_Law"
   }
  ],
  "feeds": {
@@ -9983,8 +9982,8 @@
    "last": "2026-10-26 15:02:01"
   },
   "PLAYERS": {
-   "count": 1924,
-   "last": "2026-10-25 18:22:54"
+   "count": 1925,
+   "last": "2026-10-26 17:48:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10007,14 +10006,14 @@
    "last": "2026-10-25 17:39:18"
   },
   "WIKI": {
-   "count": 6951,
-   "last": "2026-10-26 17:20:35"
+   "count": 6954,
+   "last": "2026-10-26 17:56:35"
   },
   "WIKIWATCH": {
    "count": 550,
    "last": "2026-10-26 00:32:00"
   }
  },
- "generated_at": "2026-10-26T17:35:40",
- "total": 34821
+ "generated_at": "2026-10-26T17:56:36",
+ "total": 34825
 }
