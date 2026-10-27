@@ -1,6 +1,46 @@
 {
  "events": [
   {
+   "detail": "John Poulakidas  ~ team: Free agent -> San Diego Clippers",
+   "detected_at": "2026-10-27 17:00:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/John_Poulakidas"
+  },
+  {
+   "detail": "John Poulakidas  ~ league: - -> NBA G League",
+   "detected_at": "2026-10-27 17:00:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/John_Poulakidas"
+  },
+  {
+   "detail": "John Poulakidas  ~ number: - -> 7",
+   "detected_at": "2026-10-27 17:00:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/John_Poulakidas"
+  },
+  {
+   "detail": "John Poulakidas  ~ CAREER  + 2025–present San Diego Clippers",
+   "detected_at": "2026-10-27 17:00:37",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/John_Poulakidas"
+  },
+  {
+   "detail": "~ CHANGED Chris Mañon  name: Chris Manon -> Chris Mañon",
+   "detected_at": "2026-10-27 16:52:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Oscar Tshiebwe  country: Democratic Republic of the Congo -> DRC",
+   "detected_at": "2026-10-27 16:52:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "Japanese BLeague Sendai 89ers 86, Shimane Susanoo Magic 85",
    "detected_at": "2026-10-27 16:35:58",
    "source": "SCORES",
@@ -9920,48 +9960,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Rijeka Pre Qualifier ANGT + Angel Martin → CB Zentro Madrid",
-   "detected_at": "2026-10-24 05:36:48",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Rijeka Pre Qualifier ANGT + Carlos Alvarez → CB Zentro Madrid",
-   "detected_at": "2026-10-24 05:36:48",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Rijeka Pre Qualifier ANGT + Adrian Arredondo → CB Zentro Madrid",
-   "detected_at": "2026-10-24 05:36:48",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Rijeka Pre Qualifier ANGT + Ousmane Sanogo → CB Zentro Madrid",
-   "detected_at": "2026-10-24 05:36:48",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Rijeka Pre Qualifier ANGT Tofas U18 92, Kvarner Academy 59",
-   "detected_at": "2026-10-24 05:36:45",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-23/Tofas-U18-at-Kvarner-Academy/545719"
-  },
-  {
-   "detail": "Rijeka Pre Qualifier ANGT + Emir Karabulut → Tofas U18",
-   "detected_at": "2026-10-24 05:36:44",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -9974,8 +9972,8 @@
    "last": "2026-10-27 15:10:48"
   },
   "PLAYERS": {
-   "count": 1934,
-   "last": "2026-10-27 16:03:54"
+   "count": 1936,
+   "last": "2026-10-27 16:52:54"
   },
   "RATINGS": {
    "count": 950,
@@ -9998,14 +9996,14 @@
    "last": "2026-10-25 17:39:18"
   },
   "WIKI": {
-   "count": 6992,
-   "last": "2026-10-27 15:44:35"
+   "count": 6996,
+   "last": "2026-10-27 17:00:37"
   },
   "WIKIWATCH": {
    "count": 551,
    "last": "2026-10-27 11:21:47"
   }
  },
- "generated_at": "2026-10-27T16:36:17",
- "total": 35053
+ "generated_at": "2026-10-27T17:00:38",
+ "total": 35059
 }
