@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "~ CHANGED Karim López  name: Karim Lopez -> Karim López",
+   "detected_at": "2026-10-27 18:36:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "John Poulakidas  ~ team: Free agent -> San Diego Clippers",
    "detected_at": "2026-10-27 17:00:37",
    "source": "WIKI",
@@ -9953,13 +9959,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Rijeka Pre Qualifier ANGT + Jorge Mas → CB Zentro Madrid",
-   "detected_at": "2026-10-24 05:36:48",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -9972,8 +9971,8 @@
    "last": "2026-10-27 15:10:48"
   },
   "PLAYERS": {
-   "count": 1936,
-   "last": "2026-10-27 16:52:54"
+   "count": 1937,
+   "last": "2026-10-27 18:36:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10004,6 +10003,6 @@
    "last": "2026-10-27 11:21:47"
   }
  },
- "generated_at": "2026-10-27T18:23:02",
- "total": 35059
+ "generated_at": "2026-10-27T18:44:58",
+ "total": 35060
 }
