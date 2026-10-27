@@ -1,6 +1,34 @@
 {
  "events": [
   {
+   "detail": "FIBA Europe Cup BK Levicki Patrioti Levice 78, CS Dinamo Bucuresti 76",
+   "detected_at": "2026-10-27 20:46:13",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-27/BK-Levicki-Patrioti-Levice-at-CS-Dinamo-Bucuresti/543360"
+  },
+  {
+   "detail": "Basketball Champions League Europe Sabah BC 87, Nanterre 92 80",
+   "detected_at": "2026-10-27 20:46:08",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-27/Nanterre-92-at-Sabah-BC/533573"
+  },
+  {
+   "detail": "Basketball Champions League Europe + Quincy Ballard → Sabah BC",
+   "detected_at": "2026-10-27 20:46:06",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Basketball Champions League Europe ~ MOVED Orhan Haciyeva → Sabah BC (from Mersin BSB)",
+   "detected_at": "2026-10-27 20:46:06",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
    "detail": "Jacob Toppin  ~ league: Israeli Premier League EuroLeague -> Israeli Basketball Premier League EuroLeague",
    "detected_at": "2026-10-27 20:19:36",
    "source": "WIKI",
@@ -9931,34 +9959,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Rijeka Pre Qualifier ANGT + Sekou Coulibaly → CB Zentro Madrid",
-   "detected_at": "2026-10-24 05:36:48",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Rijeka Pre Qualifier ANGT + Andres Crespo → CB Zentro Madrid",
-   "detected_at": "2026-10-24 05:36:48",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Rijeka Pre Qualifier ANGT + Pablo Lozano → CB Zentro Madrid",
-   "detected_at": "2026-10-24 05:36:48",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Rijeka Pre Qualifier ANGT + Djibril Diop → CB Zentro Madrid",
-   "detected_at": "2026-10-24 05:36:48",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -9979,12 +9979,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 10554,
-   "last": "2026-10-27 15:19:04"
+   "count": 10556,
+   "last": "2026-10-27 20:46:06"
   },
   "SCORES": {
-   "count": 3164,
-   "last": "2026-10-27 16:35:58"
+   "count": 3166,
+   "last": "2026-10-27 20:46:13"
   },
   "SHEETS": {
    "count": 5212,
@@ -10003,6 +10003,6 @@
    "last": "2026-10-27 11:21:47"
   }
  },
- "generated_at": "2026-10-27T20:45:02",
- "total": 35062
+ "generated_at": "2026-10-27T20:46:32",
+ "total": 35066
 }
