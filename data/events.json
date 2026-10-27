@@ -1,6 +1,440 @@
 {
  "events": [
   {
+   "detail": "E.J. Walker Indiana 79, Western Kentucky 74",
+   "detected_at": "2026-10-27 06:12:26",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-10-25/Western-Kentucky-at-Indiana/546198"
+  },
+  {
+   "detail": "WNBA Golden State Valkyries 64, Atlanta Dream 55",
+   "detected_at": "2026-10-27 06:12:21",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/wnba/boxscore/2026-10-26/Atlanta-at-Golden-State/161834"
+  },
+  {
+   "detail": "Lebanese Division A ~ MOVED Jared Wilson-Frame → Nadim Souaid Academy (from Santos de San Luis Potosi)",
+   "detected_at": "2026-10-27 06:12:07",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Lebanese Division A + George Yves Daaboul → Nadim Souaid Academy",
+   "detected_at": "2026-10-27 06:12:07",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lebanese Division A + Chol Marial → Nadim Souaid Academy",
+   "detected_at": "2026-10-27 06:12:07",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lebanese Division A ~ MOVED Rayshawn Mart → Nadim Souaid Academy (from Santos de San Luis Potosi)",
+   "detected_at": "2026-10-27 06:12:07",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Lebanese Division A + Christophe Khalil → Nadim Souaid Academy",
+   "detected_at": "2026-10-27 06:12:07",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lebanese Division A ~ MOVED Mohamed Ali Haidar → Nadim Souaid Academy (from Sagesse Al Hekmeh Beirut)",
+   "detected_at": "2026-10-27 06:12:07",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Lebanese Division A + Mike Haddad → Nadim Souaid Academy",
+   "detected_at": "2026-10-27 06:12:07",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lebanese Division A + Reigarvius Williams → Central Al Markaziyyah",
+   "detected_at": "2026-10-27 06:12:07",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lebanese Division A ~ MOVED Jad Khalil → Central Al Markaziyyah (from Sagesse Al Hekmeh Beirut)",
+   "detected_at": "2026-10-27 06:12:07",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Lebanese Division A + Marquise Washington → Central Al Markaziyyah",
+   "detected_at": "2026-10-27 06:12:07",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lebanese Division A + Omar Jamaleddine → Central Al Markaziyyah",
+   "detected_at": "2026-10-27 06:12:07",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lebanese Division A + Alberto Aneury Castillo Correa → Central Al Markaziyyah",
+   "detected_at": "2026-10-27 06:12:07",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lebanese Division A + Elios Saad → Central Al Markaziyyah",
+   "detected_at": "2026-10-27 06:12:07",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lebanese Division A + Matt Khoury → Central Al Markaziyyah",
+   "detected_at": "2026-10-27 06:12:07",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL Goztepe 90, Torku Konyaspor 88",
+   "detected_at": "2026-10-27 06:12:02",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-25/Goztepe-at-Torku-Konyaspor/534777"
+  },
+  {
+   "detail": "Turkish TBL + Dogan Senli → Torku Konyaspor",
+   "detected_at": "2026-10-27 06:12:01",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL ~ MOVED Robert Smith → Torku Konyaspor (from KB Peja)",
+   "detected_at": "2026-10-27 06:12:01",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Super League Basketball Liverpool Basketball 77, Newcastle Eagles 74",
+   "detected_at": "2026-10-27 06:11:58",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-25/Newcastle-Eagles-at-Liverpool-Basketball/535550"
+  },
+  {
+   "detail": "Super League Basketball + Tevin Olison → Liverpool Basketball",
+   "detected_at": "2026-10-27 06:11:56",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "German Pro B BSW Sixers 75, Art Giants Dusseldorf 57",
+   "detected_at": "2026-10-27 06:11:54",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-25/BSW-Sixers-at-Art-Giants-Dusseldorf/525533"
+  },
+  {
+   "detail": "German Pro B + Jonathan Askamp → Art Giants Dusseldorf",
+   "detected_at": "2026-10-27 06:11:52",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "German Pro A Giessen 46ers 83, EPG GUARDIANS Koblenz 68",
+   "detected_at": "2026-10-27 06:11:47",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-26/Giessen-46ers-at-EPG-GUARDIANS-Koblenz/528126"
+  },
+  {
+   "detail": "German Pro A + Tyler Peterson → Giessen 46ers",
+   "detected_at": "2026-10-27 06:11:45",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "German Pro A + Frankie Collins → EPG GUARDIANS Koblenz",
+   "detected_at": "2026-10-27 06:11:45",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swedish Basketligan Jamtland Basket 86, Norrkoping 83",
+   "detected_at": "2026-10-27 06:11:42",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-26/Jamtland-Basket-at-Norrkoping/524586"
+  },
+  {
+   "detail": "Israeli BSL Ironi Ramat Gan 90, Elitzur Kiryat Ata 88",
+   "detected_at": "2026-10-27 06:11:37",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-26/Elitzur-Kiryat-Ata-at-Ironi-Ramat-Gan/536912"
+  },
+  {
+   "detail": "Israeli BSL + Jordan Cohen → Elitzur Kiryat Ata",
+   "detected_at": "2026-10-27 06:11:35",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Israeli BSL Hapoel Upper Galilee Safed 77, Maccabi Ashdod 66",
+   "detected_at": "2026-10-27 06:11:32",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-26/Hapoel-Upper-Galilee-Safed-at-Maccabi-Ashdod/536907"
+  },
+  {
+   "detail": "Israeli BSL Bnei Herzelia 96, Hapoel Eilat 93",
+   "detected_at": "2026-10-27 06:11:28",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-26/Hapoel-Eilat-at-Bnei-Herzelia/536909"
+  },
+  {
+   "detail": "Romanian Divizia A SCM Mozzart Bet Timisoara 100, FC Arges Pitesti 97",
+   "detected_at": "2026-10-27 06:11:23",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-26/FC-Arges-Pitesti-at-SCM-Mozzart-Bet-Timisoara/538820"
+  },
+  {
+   "detail": "Romanian Divizia A + Laszlo Lazar → SCM Mozzart Bet Timisoara",
+   "detected_at": "2026-10-27 06:11:20",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Cypriot Division A Proteas EKA AEL 74, Michelin Etha Engomis 70",
+   "detected_at": "2026-10-27 06:11:18",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-26/Proteas-EKA-AEL-at-Michelin-Etha-Engomis/539503"
+  },
+  {
+   "detail": "Austrian A Bundesliga Redwell Gunners Oberwart 79, Chin Min Dragons St Polten 54",
+   "detected_at": "2026-10-27 06:11:13",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-26/Redwell-Gunners-Oberwart-at-Chin-Min-Dragons-St-Polten/532429"
+  },
+  {
+   "detail": "Austrian A Bundesliga + Lukas Fulop → Redwell Gunners Oberwart",
+   "detected_at": "2026-10-27 06:11:12",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Austrian A Bundesliga + Leon Bakic → Chin Min Dragons St Polten",
+   "detected_at": "2026-10-27 06:11:12",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Austrian A Bundesliga + Tobias Hinterhofer → Chin Min Dragons St Polten",
+   "detected_at": "2026-10-27 06:11:12",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Austrian A Bundesliga Arkadia Traiskirchen Lions 91, BK Klosterneuburg Dukes 63",
+   "detected_at": "2026-10-27 06:11:09",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-26/Arkadia-Traiskirchen-Lions-at-BK-Klosterneuburg-Dukes/532428"
+  },
+  {
+   "detail": "Austrian A Bundesliga ece bulls Kapfenberg 101, BC Hallmann Vienna 80",
+   "detected_at": "2026-10-27 06:11:04",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-26/BC-Hallmann-Vienna-at-ece-bulls-Kapfenberg/532427"
+  },
+  {
+   "detail": "Austrian A Bundesliga + Raphael Heigl → ece bulls Kapfenberg",
+   "detected_at": "2026-10-27 06:11:02",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Austrian A Bundesliga Allianz Swans Gmunden 86, COLDAMARIS BBC Nord Dragonz 79",
+   "detected_at": "2026-10-27 06:11:00",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-26/Allianz-Swans-Gmunden-at-COLDAMARIS-BBC-Nord-Dragonz/532425"
+  },
+  {
+   "detail": "Austrian A Bundesliga Raiffeisen Flyers Wels 97, Kufstein Towers 83",
+   "detected_at": "2026-10-27 06:10:55",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-26/Raiffeisen-Flyers-Wels-at-Kufstein-Towers/532426"
+  },
+  {
+   "detail": "Marcus Garrett  ~ number: - -> 13",
+   "detected_at": "2026-10-27 06:10:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Marcus_Garrett"
+  },
+  {
+   "detail": "Jordan Hamilton (basketball)  ~ CAREER  + 2026–present Saitama Broncos",
+   "detected_at": "2026-10-27 06:10:46",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Jordan_Hamilton_(basketball)"
+  },
+  {
+   "detail": "Rakeem Christmas  ~ team: Hangtuah Jakarta -> Manama Club",
+   "detected_at": "2026-10-27 06:10:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Rakeem_Christmas"
+  },
+  {
+   "detail": "Rakeem Christmas  ~ league: IBL -> Bahraini Premier League",
+   "detected_at": "2026-10-27 06:10:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Rakeem_Christmas"
+  },
+  {
+   "detail": "Rakeem Christmas  ~ position: Power forward -> Power forward / center",
+   "detected_at": "2026-10-27 06:10:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Rakeem_Christmas"
+  },
+  {
+   "detail": "Rakeem Christmas  ~ number: 25 -> 34",
+   "detected_at": "2026-10-27 06:10:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Rakeem_Christmas"
+  },
+  {
+   "detail": "Rakeem Christmas  ~ CAREER  + 2024–2026 Amartha Hangtuah",
+   "detected_at": "2026-10-27 06:10:46",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Rakeem_Christmas"
+  },
+  {
+   "detail": "Rakeem Christmas  ~ CAREER  + 2026–present Manama Club",
+   "detected_at": "2026-10-27 06:10:46",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Rakeem_Christmas"
+  },
+  {
+   "detail": "John Butler Jr.  ~ number: - -> 13",
+   "detected_at": "2026-10-27 06:10:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/John_Butler_Jr."
+  },
+  {
+   "detail": "Caleb Love  ~ number: 8 -> 2",
+   "detected_at": "2026-10-27 06:10:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Caleb_Love"
+  },
+  {
+   "detail": "Aleksandar Vezenkov  ~ nationality: Bulgarian / Cypriot / Greek -> -",
+   "detected_at": "2026-10-27 06:10:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Aleksandar_Vezenkov"
+  },
+  {
+   "detail": "Johnny Berhanemeskel  ~ number: - -> 9",
+   "detected_at": "2026-10-27 06:10:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Johnny_Berhanemeskel"
+  },
+  {
+   "detail": "Brandone Francis  ~ team: Rajawali Medan -> Manama Club",
+   "detected_at": "2026-10-27 06:10:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Brandone_Francis"
+  },
+  {
+   "detail": "Brandone Francis  ~ league: IBL -> Bahraini Premier League",
+   "detected_at": "2026-10-27 06:10:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Brandone_Francis"
+  },
+  {
+   "detail": "Brandone Francis  ~ CAREER  + 2025 Cañeros del Este",
+   "detected_at": "2026-10-27 06:10:46",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Brandone_Francis"
+  },
+  {
+   "detail": "Brandone Francis  ~ CAREER  + 2025–2026 Rajawali Medan",
+   "detected_at": "2026-10-27 06:10:46",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Brandone_Francis"
+  },
+  {
+   "detail": "Brandone Francis  ~ CAREER  + 2026–present Manama Club",
+   "detected_at": "2026-10-27 06:10:46",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Brandone_Francis"
+  },
+  {
+   "detail": "Bryant Dunston  ~ nationality: American / Armenian -> -",
+   "detected_at": "2026-10-27 06:10:46",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Bryant_Dunston"
+  },
+  {
+   "detail": "Georgios Tsalmpouris  ~ CAREER  + 2015–2019 AEK Athens",
+   "detected_at": "2026-10-27 06:10:46",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Georgios_Tsalmpouris"
+  },
+  {
    "detail": "Basketball Africa League Qualification Onatra 66, Espoir 59",
    "detected_at": "2026-10-26 20:44:12",
    "source": "SCORES",
@@ -9536,434 +9970,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-10-23/Criol-Star-at-Nadi-Basket-Staoueli/545251"
-  },
-  {
-   "detail": "Basketball Africa League Qualification Urunani 117, Ushindzi de Ouani 58",
-   "detected_at": "2026-10-23 18:09:07",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-23/Ushindzi-de-Ouani-at-Urunani/545708"
-  },
-  {
-   "detail": "Basketball Africa League Qualification Spintex Knights 92, Energie BBC 71",
-   "detected_at": "2026-10-23 18:09:03",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-23/Spintex-Knights-at-Energie-BBC/545250"
-  },
-  {
-   "detail": "Chinese CBA Liaoning 104, Sichuan Blue Whales 93",
-   "detected_at": "2026-10-23 18:08:59",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-23/Sichuan-Blue-Whales-at-Liaoning/544012"
-  },
-  {
-   "detail": "Chinese CBA + Meng Tianyi → Sichuan Blue Whales",
-   "detected_at": "2026-10-23 18:08:57",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Chinese CBA + Yao Yuxin → Sichuan Blue Whales",
-   "detected_at": "2026-10-23 18:08:57",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Chinese CBA + Jinzhou Luo → Sichuan Blue Whales",
-   "detected_at": "2026-10-23 18:08:57",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Chinese CBA Shandong 106, Nanjing Tongxi Monkey King 97",
-   "detected_at": "2026-10-23 18:08:54",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-23/Shandong-at-Nanjing-Tongxi-Monkey-King/544014"
-  },
-  {
-   "detail": "Chinese CBA + Zheng Boxuan → Nanjing Tongxi Monkey King",
-   "detected_at": "2026-10-23 18:08:53",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Chinese CBA Zhejiang Chouzhou 88, Qingdao 80",
-   "detected_at": "2026-10-23 18:08:50",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-23/Qingdao-at-Zhejiang-Chouzhou/544015"
-  },
-  {
-   "detail": "Chinese CBA + Qifang Guo → Qingdao",
-   "detected_at": "2026-10-23 18:08:49",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Chinese CBA + Lin Weikai → Qingdao",
-   "detected_at": "2026-10-23 18:08:49",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Chinese CBA Beijing BeiKong 93, Jiangsu Kendia 82",
-   "detected_at": "2026-10-23 18:08:46",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-23/Jiangsu-Kendia-at-Beijing-BeiKong/544018"
-  },
-  {
-   "detail": "Chinese CBA Tianjin Ronggang 102, Guangzhou Loong Lions 86",
-   "detected_at": "2026-10-23 18:08:42",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-23/Guangzhou-Loong-Lions-at-Tianjin-Ronggang/544017"
-  },
-  {
-   "detail": "Chinese CBA ~ MOVED Daishen Nix → Tianjin Ronggang (from Beijing BeiKong)",
-   "detected_at": "2026-10-23 18:08:41",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
-  },
-  {
-   "detail": "2026-27 Veteran Signings  - REMOVED 4 Years for $11,279,212. Non-Qualifying Veteran Free Agent Exception. Team option to extend the contract to include the 2029-30 Season. Skill; Injury or Illness; Death. Compensation protection for 2028-29 Season is none. Compensation protection for 2028-29 Season is none. Physical Exam.",
-   "detected_at": "2026-10-23 17:54:55",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Veteran Signings  + ADDED  4 Years for $11,279,212. Non-Qualifying Veteran Free Agent Exception. Team option to extend the contract to include the 2029-30 Season. Skill; Injury or Illness; Death. Compensation protection for 2028-29 Season is none. Compensation protection for 2029-30 Season is none. Physical Exam.",
-   "detected_at": "2026-10-23 17:54:55",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "Brazilian NBB Osasco Basquete 93, Basquete Cearense 69",
-   "detected_at": "2026-10-23 17:00:18",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-20/Osasco-Basquete-at-Basquete-Cearense/545091"
-  },
-  {
-   "detail": "Brazilian NBB + Hatila Passos → Osasco Basquete",
-   "detected_at": "2026-10-23 17:00:15",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Brazilian NBB Pinheiros Sky 98, Basquete Cearense 63",
-   "detected_at": "2026-10-23 17:00:10",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-22/Pinheiros-Sky-at-Basquete-Cearense/545097"
-  },
-  {
-   "detail": "Brazilian NBB + Michael Dupree → Basquete Cearense",
-   "detected_at": "2026-10-23 17:00:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Brazilian NBB + Gabriel Fernandes → Basquete Cearense",
-   "detected_at": "2026-10-23 17:00:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Brazilian NBB + Augusto Vieira Costa → Basquete Cearense",
-   "detected_at": "2026-10-23 17:00:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Brazilian NBB + Everton Oliveira → Basquete Cearense",
-   "detected_at": "2026-10-23 17:00:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Brazilian NBB + Luan Rodrigues de Oliveira → Basquete Cearense",
-   "detected_at": "2026-10-23 17:00:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Brazilian NBB + Jean Cardoso → Basquete Cearense",
-   "detected_at": "2026-10-23 17:00:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Brazilian NBB + Samuel Amorim Oliveira → Basquete Cearense",
-   "detected_at": "2026-10-23 17:00:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Brazilian NBB + Wilton Caua de Paula Silva → Basquete Cearense",
-   "detected_at": "2026-10-23 17:00:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Brazilian NBB + Tarek Santana → Basquete Cearense",
-   "detected_at": "2026-10-23 17:00:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Brazilian NBB + Matheus Gomes Pontes → Basquete Cearense",
-   "detected_at": "2026-10-23 17:00:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Brazilian NBB + Pyerri Nascimento → Basquete Cearense",
-   "detected_at": "2026-10-23 17:00:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Brazilian NBB + Vitor Carvalho → Basquete Cearense",
-   "detected_at": "2026-10-23 17:00:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Lithuanian NKL Kedainiu SC 83, Lietuvos Rytas II 69",
-   "detected_at": "2026-10-23 17:00:05",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-22/Lietuvos-Rytas-II-at-Kedainiu-SC/544569"
-  },
-  {
-   "detail": "Lithuanian NKL + Eivydas Markauskas → Kedainiu SC",
-   "detected_at": "2026-10-23 17:00:03",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Lithuanian NKL Vytis Zanavykas Sakiai 97, Kauno LKKA Atletas 85",
-   "detected_at": "2026-10-23 17:00:00",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-22/Kauno-LKKA-Atletas-at-Vytis-Zanavykas-Sakiai/544570"
-  },
-  {
-   "detail": "Lithuanian NKL Neptuans Akvaservis Klaipeda 78, Olimpas Palangos 77",
-   "detected_at": "2026-10-23 16:59:56",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-22/Olimpas-Palangos-at-Neptuans-Akvaservis-Klaipeda/544568"
-  },
-  {
-   "detail": "Lithuanian NKL Telsiai 104, Vilniaus Stekas 70",
-   "detected_at": "2026-10-23 16:59:52",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-22/Vilniaus-Stekas-at-Telsiai/544566"
-  },
-  {
-   "detail": "Lithuanian NKL Plunges Olimpas 80, Mazeikiai 72",
-   "detected_at": "2026-10-23 16:59:47",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-22/Plunges-Olimpas-at-Mazeikiai/544565"
-  },
-  {
-   "detail": "Lithuanian NKL Vilkaviskio Perlas 82, Omega Tauras Kauno 73",
-   "detected_at": "2026-10-23 16:59:43",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-22/Omega-Tauras-Kauno-at-Vilkaviskio-Perlas/544564"
-  },
-  {
-   "detail": "Semi Ojeleye  ~ height_ft: 6 -> -",
-   "detected_at": "2026-10-23 16:59:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Semi_Ojeleye"
-  },
-  {
-   "detail": "Semi Ojeleye  ~ height_in: 6 -> -",
-   "detected_at": "2026-10-23 16:59:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Semi_Ojeleye"
-  },
-  {
-   "detail": "Semi Ojeleye  ~ weight_lb: 240 -> -",
-   "detected_at": "2026-10-23 16:59:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Semi_Ojeleye"
-  },
-  {
-   "detail": "Patrick Baldwin Jr.  ~ height_ft: 6 -> -",
-   "detected_at": "2026-10-23 16:59:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Patrick_Baldwin_Jr."
-  },
-  {
-   "detail": "Patrick Baldwin Jr.  ~ height_in: 10 -> -",
-   "detected_at": "2026-10-23 16:59:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Patrick_Baldwin_Jr."
-  },
-  {
-   "detail": "Jordan Nwora  ~ height_ft: 6 -> -",
-   "detected_at": "2026-10-23 16:59:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jordan_Nwora"
-  },
-  {
-   "detail": "Jordan Nwora  ~ height_in: 8 -> -",
-   "detected_at": "2026-10-23 16:59:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jordan_Nwora"
-  },
-  {
-   "detail": "Christian Koloko  ~ height_ft: 6 -> -",
-   "detected_at": "2026-10-23 16:59:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Christian_Koloko"
-  },
-  {
-   "detail": "Christian Koloko  ~ height_in: 11 -> -",
-   "detected_at": "2026-10-23 16:59:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Christian_Koloko"
-  },
-  {
-   "detail": "Christian Koloko  ~ weight_lb: 225 -> -",
-   "detected_at": "2026-10-23 16:59:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Christian_Koloko"
-  },
-  {
-   "detail": "Jared Butler  ~ height_ft: 6 -> -",
-   "detected_at": "2026-10-23 16:36:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jared_Butler"
-  },
-  {
-   "detail": "Jared Butler  ~ height_in: 3 -> -",
-   "detected_at": "2026-10-23 16:36:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jared_Butler"
-  },
-  {
-   "detail": "Nick Weiler-Babb  ~ height_ft: 6 -> -",
-   "detected_at": "2026-10-23 16:36:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Nick_Weiler-Babb"
-  },
-  {
-   "detail": "Nick Weiler-Babb  ~ height_in: 5 -> -",
-   "detected_at": "2026-10-23 16:36:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Nick_Weiler-Babb"
-  },
-  {
-   "detail": "Nick Weiler-Babb  ~ weight_lb: 205 -> -",
-   "detected_at": "2026-10-23 16:36:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Nick_Weiler-Babb"
-  },
-  {
-   "detail": "2026-10-21  Traded: Sean Pedulla (Vipers)",
-   "detected_at": "2026-10-23 16:01:02",
-   "source": "GLEAGUE",
-   "type": "Trade"
-  },
-  {
-   "detail": "2026-10-22  Acquired: Walter Clayton Jr (Legends)",
-   "detected_at": "2026-10-23 16:01:02",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: William Baker (Skyhawks)",
-   "detected_at": "2026-10-23 16:01:02",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Isaac Mckneely (Skyhawks)",
-   "detected_at": "2026-10-23 16:01:02",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "Brazilian NBB Uniceub BRB Brasilia 104, Corinthians 92",
-   "detected_at": "2026-10-23 15:51:03",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-22/Corinthians-at-Uniceub-BRB-Brasilia/545098"
-  },
-  {
-   "detail": "Brazilian NBB + Kevin Crescenzi → Uniceub BRB Brasilia",
-   "detected_at": "2026-10-23 15:51:02",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Brazilian NBB + Martin Fernandez → Uniceub BRB Brasilia",
-   "detected_at": "2026-10-23 15:51:02",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Brazilian NBB + Jeantal Cylla → Uniceub BRB Brasilia",
-   "detected_at": "2026-10-23 15:51:02",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Brazilian NBB + Matheus Santos Neves da Silva → Uniceub BRB Brasilia",
-   "detected_at": "2026-10-23 15:51:02",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -9984,12 +9990,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 10448,
-   "last": "2026-10-26 17:35:19"
+   "count": 10474,
+   "last": "2026-10-27 06:12:07"
   },
   "SCORES": {
-   "count": 3108,
-   "last": "2026-10-26 20:44:12"
+   "count": 3125,
+   "last": "2026-10-27 06:12:26"
   },
   "SHEETS": {
    "count": 5212,
@@ -10000,14 +10006,14 @@
    "last": "2026-10-25 17:39:18"
   },
   "WIKI": {
-   "count": 6966,
-   "last": "2026-10-26 20:42:35"
+   "count": 6985,
+   "last": "2026-10-27 06:10:46"
   },
   "WIKIWATCH": {
    "count": 550,
    "last": "2026-10-26 00:32:00"
   }
  },
- "generated_at": "2026-10-26T21:19:03",
- "total": 34846
+ "generated_at": "2026-10-27T06:12:30",
+ "total": 34908
 }
