@@ -1,6 +1,24 @@
 {
  "events": [
   {
+   "detail": "~ CHANGED Chris Manon  name: Chris Mañon -> Chris Manon",
+   "detected_at": "2026-10-27 16:03:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Karim Lopez  name: Karim López -> Karim Lopez",
+   "detected_at": "2026-10-27 16:03:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "~ CHANGED Oscar Tshiebwe  country: DRC -> Democratic Republic of the Congo",
+   "detected_at": "2026-10-27 16:03:54",
+   "source": "PLAYERS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "Johnny Juzang  ~ height_in: 5 \"https://gleague.nba.com/player/1630548/johnny-juzang\" -> 7",
    "detected_at": "2026-10-27 15:44:35",
    "source": "WIKI",
@@ -9944,27 +9962,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Rijeka Pre Qualifier ANGT + Demir Karadayi → Tofas U18",
-   "detected_at": "2026-10-24 05:36:44",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Rijeka Pre Qualifier ANGT + Ege Yanmis → Tofas U18",
-   "detected_at": "2026-10-24 05:36:44",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Rijeka Pre Qualifier ANGT + Doruk Uskuplu → Tofas U18",
-   "detected_at": "2026-10-24 05:36:44",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -9977,8 +9974,8 @@
    "last": "2026-10-27 15:10:48"
   },
   "PLAYERS": {
-   "count": 1931,
-   "last": "2026-10-26 20:19:54"
+   "count": 1934,
+   "last": "2026-10-27 16:03:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10009,6 +10006,6 @@
    "last": "2026-10-27 11:21:47"
   }
  },
- "generated_at": "2026-10-27T15:44:37",
- "total": 35045
+ "generated_at": "2026-10-27T16:11:28",
+ "total": 35048
 }
