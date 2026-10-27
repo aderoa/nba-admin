@@ -1,6 +1,41 @@
 {
  "events": [
   {
+   "detail": "Japanese BLeague Sendai 89ers 86, Shimane Susanoo Magic 85",
+   "detected_at": "2026-10-27 16:35:58",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-26/Sendai-89ers-at-Shimane-Susanoo-Magic/524779"
+  },
+  {
+   "detail": "Japanese BLeague Toyota Alvark 112, Saga Ballooners 88",
+   "detected_at": "2026-10-27 16:35:52",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-26/Toyota-Alvark-at-Saga-Ballooners/524780"
+  },
+  {
+   "detail": "Japanese BLeague Nagasaki Velca 101, Ryukyu Golden Kings 84",
+   "detected_at": "2026-10-27 16:35:47",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-26/Ryukyu-Golden-Kings-at-Nagasaki-Velca/524781"
+  },
+  {
+   "detail": "Japanese BLeague Kyoto Hannaryz 79, Akita Northern Happinets 71",
+   "detected_at": "2026-10-27 16:35:41",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-26/Akita-Northern-Happinets-at-Kyoto-Hannaryz/524782"
+  },
+  {
+   "detail": "South Korean KBL Seoul SK 96, Jeonju KCC Egis 87",
+   "detected_at": "2026-10-27 16:35:35",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-27/Jeonju-KCC-Egis-at-Seoul-SK/530390"
+  },
+  {
    "detail": "~ CHANGED Chris Manon  name: Chris Mañon -> Chris Manon",
    "detected_at": "2026-10-27 16:03:54",
    "source": "PLAYERS",
@@ -9927,41 +9962,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Rijeka Pre Qualifier ANGT + Omer Gok → Tofas U18",
-   "detected_at": "2026-10-24 05:36:44",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Rijeka Pre Qualifier ANGT + Doruk Sezer → Tofas U18",
-   "detected_at": "2026-10-24 05:36:44",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Rijeka Pre Qualifier ANGT + Utku Yasan → Tofas U18",
-   "detected_at": "2026-10-24 05:36:44",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Rijeka Pre Qualifier ANGT + Omer Bayraktar → Tofas U18",
-   "detected_at": "2026-10-24 05:36:44",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Rijeka Pre Qualifier ANGT + Ahmet Coban → Tofas U18",
-   "detected_at": "2026-10-24 05:36:44",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -9986,8 +9986,8 @@
    "last": "2026-10-27 15:19:04"
   },
   "SCORES": {
-   "count": 3159,
-   "last": "2026-10-27 15:19:12"
+   "count": 3164,
+   "last": "2026-10-27 16:35:58"
   },
   "SHEETS": {
    "count": 5212,
@@ -10006,6 +10006,6 @@
    "last": "2026-10-27 11:21:47"
   }
  },
- "generated_at": "2026-10-27T16:11:28",
- "total": 35048
+ "generated_at": "2026-10-27T16:36:17",
+ "total": 35053
 }
