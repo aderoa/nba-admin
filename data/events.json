@@ -1,6 +1,41 @@
 {
  "events": [
   {
+   "detail": "Euroleague Valencia Basket 86, Fenerbahce Beko 78",
+   "detected_at": "2026-10-28 09:54:53",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-27/Fenerbahce-Beko-at-Valencia-Basket/526842"
+  },
+  {
+   "detail": "Euroleague Panathinaikos 80, AX Armani Exchange Milan 75",
+   "detected_at": "2026-10-28 09:54:47",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-27/AX-Armani-Exchange-Milan-at-Panathinaikos/526841"
+  },
+  {
+   "detail": "Euroleague Barca 88, Bayern Munich 84",
+   "detected_at": "2026-10-28 09:54:42",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-27/Barca-at-Bayern-Munich/526844"
+  },
+  {
+   "detail": "Euroleague KK Crvena Zvezda 100, Maccabi FOX Tel Aviv 78",
+   "detected_at": "2026-10-28 09:54:37",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-27/Maccabi-FOX-Tel-Aviv-at-KK-Crvena-Zvezda/526840"
+  },
+  {
+   "detail": "Euroleague + Christian Koloko → KK Crvena Zvezda",
+   "detected_at": "2026-10-28 09:54:35",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
    "detail": "Shamorie Ponds  ~ team: Hong Kong Bulls -> Free Agent",
    "detected_at": "2026-10-28 09:31:37",
    "source": "WIKI",
@@ -10007,36 +10042,6 @@
    "detected_at": "2026-10-24 16:17:00",
    "source": "GLEAGUE",
    "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Andre Jackson Jr (Raptors)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Jalen Celestine (Raptors)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Trey Jemison Iii (Raptors)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Olumide Adelodun (Raptors)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Brandon Muntu (Raptors)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
   }
  ],
  "feeds": {
@@ -10057,12 +10062,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 10633,
-   "last": "2026-10-28 07:23:16"
+   "count": 10634,
+   "last": "2026-10-28 09:54:35"
   },
   "SCORES": {
-   "count": 3191,
-   "last": "2026-10-28 08:31:45"
+   "count": 3195,
+   "last": "2026-10-28 09:54:53"
   },
   "SHEETS": {
    "count": 5212,
@@ -10081,6 +10086,6 @@
    "last": "2026-10-27 11:21:47"
   }
  },
- "generated_at": "2026-10-28T09:31:39",
- "total": 35197
+ "generated_at": "2026-10-28T09:55:10",
+ "total": 35202
 }
