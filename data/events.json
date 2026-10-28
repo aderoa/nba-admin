@@ -1,6 +1,412 @@
 {
  "events": [
   {
+   "detail": "Japanese BLeague Ryukyu Golden Kings 93, Gunma Crane Thunders 85",
+   "detected_at": "2026-10-28 15:26:13",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-23/Gunma-Crane-Thunders-at-Ryukyu-Golden-Kings/546047"
+  },
+  {
+   "detail": "Japanese BLeague Shiga Lakestars 89, Nagasaki Velca 85",
+   "detected_at": "2026-10-28 15:26:08",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-23/Nagasaki-Velca-at-Shiga-Lakestars/524709"
+  },
+  {
+   "detail": "Japanese BLeague Hitachi Sun Rockers 95, Osaka Evessa 71",
+   "detected_at": "2026-10-28 15:26:02",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-23/Hitachi-Sun-Rockers-at-Osaka-Evessa/524710"
+  },
+  {
+   "detail": "Japanese BLeague + Keitaro Ohba → Hitachi Sun Rockers",
+   "detected_at": "2026-10-28 15:26:00",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese BLeague Nagoya Diamond Dolphins 96, Hitachi Sun Rockers 85",
+   "detected_at": "2026-10-28 15:25:53",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-25/Nagoya-Diamond-Dolphins-at-Hitachi-Sun-Rockers/524773"
+  },
+  {
+   "detail": "Japanese BLeague Chiba Jets 87, Osaka Evessa 65",
+   "detected_at": "2026-10-28 15:25:48",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-25/Chiba-Jets-at-Osaka-Evessa/524772"
+  },
+  {
+   "detail": "Argentinian Liga A Penarol 95, San Martin Corrientes 76",
+   "detected_at": "2026-10-28 15:25:40",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-27/San-Martin-Corrientes-at-Penarol/542047"
+  },
+  {
+   "detail": "Argentinian Liga A + Martin Chapero → Penarol",
+   "detected_at": "2026-10-28 15:25:37",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Argentinian Liga A + Joaquin Bulchi → Penarol",
+   "detected_at": "2026-10-28 15:25:37",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swedish Basketligan + Ake Swahn → Uppsala Basket",
+   "detected_at": "2026-10-28 15:25:32",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swedish Basketligan + Ebrima Dibba → Sodertalje",
+   "detected_at": "2026-10-28 15:25:32",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Basketball Champions League Europe Peristeri Betsson 80, UCAM Murcia CB 72",
+   "detected_at": "2026-10-28 15:25:29",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-27/Peristeri-Betsson-at-UCAM-Murcia-CB/533576"
+  },
+  {
+   "detail": "Basketball Champions League Europe OpenJobMetis Varese 95, Brose Baskets Bamberg 61",
+   "detected_at": "2026-10-28 15:25:24",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-27/OpenJobMetis-Varese-at-Brose-Baskets-Bamberg/533575"
+  },
+  {
+   "detail": "Basketball Champions League Europe ~ RETURN Jakob Lang → Brose Baskets Bamberg (from BBC Coburg)",
+   "detected_at": "2026-10-28 15:25:22",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "Basketball Champions League Europe ~ MOVED Musa Abra → Brose Baskets Bamberg (from BBC Coburg)",
+   "detected_at": "2026-10-28 15:25:22",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Basketball Champions League Europe BC Igokea 77, SK Slavia Praha ERA NBK 72",
+   "detected_at": "2026-10-28 15:25:20",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-27/SK-Slavia-Praha-ERA-NBK-at-BC-Igokea/533574"
+  },
+  {
+   "detail": "FIBA Europe Cup Keravnos Strovolou 85, BC Hallmann Vienna 83",
+   "detected_at": "2026-10-28 15:25:15",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-27/Keravnos-Strovolou-at-BC-Hallmann-Vienna/543365"
+  },
+  {
+   "detail": "FIBA Europe Cup AEK Larnaca 85, MZT Skopje Aerodrom 69",
+   "detected_at": "2026-10-28 15:25:10",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-27/AEK-Larnaca-at-MZT-Skopje-Aerodrom/543358"
+  },
+  {
+   "detail": "FIBA Europe Cup Bakken Bears 83, BC Prievidza 78",
+   "detected_at": "2026-10-28 15:25:04",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-27/Bakken-Bears-at-BC-Prievidza/543373"
+  },
+  {
+   "detail": "Belarusian BPL Tsmoki Minsk 2 92, Gomel Lynx Youth 61",
+   "detected_at": "2026-10-28 15:24:58",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-27/Tsmoki-Minsk-2-at-Gomel-Lynx-Youth/544775"
+  },
+  {
+   "detail": "Belarusian BPL ~ MOVED Egor Batvenkov → Tsmoki Minsk 2 (from Tsmoki Minsk III)",
+   "detected_at": "2026-10-28 15:24:56",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Belarusian BPL ~ MOVED Matvey Yagutko → Tsmoki Minsk 2 (from Tsmoki Minsk III)",
+   "detected_at": "2026-10-28 15:24:56",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Belarusian BPL ~ MOVED Oleg Saley → Tsmoki Minsk 2 (from Tsmoki Minsk III)",
+   "detected_at": "2026-10-28 15:24:56",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Belarusian BPL ~ MOVED Nikita Leoshin → Tsmoki Minsk 2 (from Tsmoki Minsk III)",
+   "detected_at": "2026-10-28 15:24:56",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Belarusian BPL ~ MOVED Artem Zhebrovsky → Tsmoki Minsk 2 (from Tsmoki Minsk III)",
+   "detected_at": "2026-10-28 15:24:56",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Belarusian BPL ~ MOVED Zakhar Barbashinsky → Tsmoki Minsk 2 (from Tsmoki Minsk III)",
+   "detected_at": "2026-10-28 15:24:56",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Belarusian BPL ~ MOVED Anton Poznyak → Tsmoki Minsk 2 (from Tsmoki Minsk III)",
+   "detected_at": "2026-10-28 15:24:56",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Belarusian BPL ~ MOVED Nazar Zhdanyuk → Tsmoki Minsk 2 (from Tsmoki Minsk III)",
+   "detected_at": "2026-10-28 15:24:56",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Belarusian BPL ~ MOVED Stanislav Kozel → Tsmoki Minsk 2 (from Tsmoki Minsk III)",
+   "detected_at": "2026-10-28 15:24:56",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Belarusian BPL ~ MOVED Mark Shulyak → Tsmoki Minsk 2 (from Tsmoki Minsk III)",
+   "detected_at": "2026-10-28 15:24:56",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Belarusian BPL + Dmitry Drozdov → Tsmoki Minsk 2",
+   "detected_at": "2026-10-28 15:24:56",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Belarusian BPL + Dmitriy Atrushkevich → Tsmoki Minsk 2",
+   "detected_at": "2026-10-28 15:24:56",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Belarusian BPL ~ RETURN Denis Bakshaev → Gomel Lynx Youth (from GOCOR Soj Gomel)",
+   "detected_at": "2026-10-28 15:24:56",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "Belarusian BPL ~ RETURN Georgy Korolenok → Gomel Lynx Youth (from GOCOR Soj Gomel)",
+   "detected_at": "2026-10-28 15:24:56",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "Belarusian BPL ~ MOVED Danil Kanishev → Gomel Lynx Youth (from GOCOR Soj Gomel)",
+   "detected_at": "2026-10-28 15:24:56",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Belarusian BPL + Ivan Tarasenko → Gomel Lynx Youth",
+   "detected_at": "2026-10-28 15:24:56",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Eurocup BAXI Manresa 76, BC Balkan 65",
+   "detected_at": "2026-10-28 15:24:54",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-27/BAXI-Manresa-at-BC-Balkan/527202"
+  },
+  {
+   "detail": "Eurocup ~ MOVED Guillem Naspler → BAXI Manresa (from BAXI Manresa Liga U)",
+   "detected_at": "2026-10-28 15:24:52",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Eurocup + Gustav Erichsen → BAXI Manresa",
+   "detected_at": "2026-10-28 15:24:52",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Australian NBL Sydney 99, Perth 91",
+   "detected_at": "2026-10-28 15:24:48",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-28/Sydney-at-Perth/524417"
+  },
+  {
+   "detail": "Chinese CBA Shenzhen 95, Shanxi Zhongyu 83",
+   "detected_at": "2026-10-28 15:24:43",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-28/Shanxi-Zhongyu-at-Shenzhen/544703"
+  },
+  {
+   "detail": "Max Shulga  ~ weight_lb: 210 -> -",
+   "detected_at": "2026-10-28 15:24:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Max_Shulga"
+  },
+  {
+   "detail": "Kenyon Martin Jr.  ~ number: - -> 6",
+   "detected_at": "2026-10-28 15:24:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kenyon_Martin_Jr."
+  },
+  {
+   "detail": "Dovis Bičkauskis  ~ team: Free agent -> BC Tauragė",
+   "detected_at": "2026-10-28 15:24:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Dovis_Bi%C4%8Dkauskis"
+  },
+  {
+   "detail": "Dovis Bičkauskis  ~ league: - -> Lithuanian Basketball League",
+   "detected_at": "2026-10-28 15:24:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Dovis_Bi%C4%8Dkauskis"
+  },
+  {
+   "detail": "Dovis Bičkauskis  ~ CAREER  + 2026-present BC Tauragė",
+   "detected_at": "2026-10-28 15:24:37",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Dovis_Bi%C4%8Dkauskis"
+  },
+  {
+   "detail": "2026-10-23  Acquired: Jahlil White (Swarm)",
+   "detected_at": "2026-10-28 15:17:39",
+   "source": "GLEAGUE",
+   "type": "Acquired/Assigned"
+  },
+  {
+   "detail": "2026-10-27  Assigned: Santi Aldama (Legends)",
+   "detected_at": "2026-10-28 15:17:39",
+   "source": "GLEAGUE",
+   "type": "Acquired/Assigned"
+  },
+  {
+   "detail": "2026-10-27  Assigned: Zuby Ejiofor (Skyhawks)",
+   "detected_at": "2026-10-28 15:17:39",
+   "source": "GLEAGUE",
+   "type": "Acquired/Assigned"
+  },
+  {
+   "detail": "2026-10-27  Assigned: Jaden Bradley (Raptors)",
+   "detected_at": "2026-10-28 15:17:39",
+   "source": "GLEAGUE",
+   "type": "Acquired/Assigned"
+  },
+  {
+   "detail": "2026-10-27  Assigned: Khalifa Diop (Charge)",
+   "detected_at": "2026-10-28 15:17:39",
+   "source": "GLEAGUE",
+   "type": "Acquired/Assigned"
+  },
+  {
+   "detail": "2026-10-27  Assigned: Bogoljub Markovic (Herd)",
+   "detected_at": "2026-10-28 15:17:39",
+   "source": "GLEAGUE",
+   "type": "Acquired/Assigned"
+  },
+  {
+   "detail": "2026-10-27  Recalled: Jaden Bradley (Raptors)",
+   "detected_at": "2026-10-28 15:17:39",
+   "source": "GLEAGUE",
+   "type": "Call-Up/Recall"
+  },
+  {
+   "detail": "2026-10-27  Traded: Adama Bal (Herd)",
+   "detected_at": "2026-10-28 15:17:39",
+   "source": "GLEAGUE",
+   "type": "Trade"
+  },
+  {
+   "detail": "2026-10-27  Traded: Tuburu Naivalurua (Knicks)",
+   "detected_at": "2026-10-28 15:17:39",
+   "source": "GLEAGUE",
+   "type": "Trade"
+  },
+  {
+   "detail": "2026-10-27  Recalled: Santi Aldama (Legends)",
+   "detected_at": "2026-10-28 15:17:39",
+   "source": "GLEAGUE",
+   "type": "Call-Up/Recall"
+  },
+  {
+   "detail": "2026-10-27  Recalled: Cameron Carr (Lakers)",
+   "detected_at": "2026-10-28 15:17:39",
+   "source": "GLEAGUE",
+   "type": "Call-Up/Recall"
+  },
+  {
+   "detail": "2026-10-27  Recalled: Bogoljub Markovic (Herd)",
+   "detected_at": "2026-10-28 15:17:39",
+   "source": "GLEAGUE",
+   "type": "Call-Up/Recall"
+  },
+  {
+   "detail": "2026-10-27  Waived: Jahlil White (Swarm)",
+   "detected_at": "2026-10-28 15:17:39",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-10-27  Acquired: Enrique Freeman (Wolves)",
+   "detected_at": "2026-10-28 15:17:39",
+   "source": "GLEAGUE",
+   "type": "Acquired/Assigned"
+  },
+  {
    "detail": "Brazilian NBB Pinheiros Sky 75, Uniao Corinthians 63",
    "detected_at": "2026-10-28 10:56:28",
    "source": "SCORES",
@@ -9697,366 +10103,6 @@
    "detected_at": "2026-10-24 16:17:00",
    "source": "GLEAGUE",
    "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Jeremiah Burke (Herd)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Jalen Crutcher (Wolves)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Tahj Malik Campbell (Knicks)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Stephen Thompson (Wolves)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: N'faly Dante (Knicks)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: David Dixon (Knicks)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Nick Jourdain (Knicks)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Oleksandr Kobzystyi (Knicks)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Jules Bernard (Wolves)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Nate Santos (Wolves)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Mitchell Mascari (Knicks)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Kj Martin (Wolves)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Payton Sandfort (Wolves)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Toby Harris (Wolves)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Jordan Derkack (Wolves)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Igor Milicic, Jr (Knicks)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Alejandro Rama (Wolves)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Toby Okani (Knicks)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Dink Pate (Knicks)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Liam Robbins (Knicks)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Paul Zilinskas (Knicks)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Jabri Abdur Rahim (Blue)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Buddy Boeheim (Blue)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Andrew Holifield (Blue)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Peter Suder (Bulls)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Marquel Sutton (Bulls)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Nate Johnson (Blue)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Robert Mccray V (Blue)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Houston Mallette (Bulls)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Anthony Pritchard (Blue)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Zhaire Smith (Blue)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Jaehshon Thomas (Blue)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Jalen Bridges (Bulls)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Orlando Robinson (Bulls)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Drew Peterson (Bulls)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Christoph Tilly (Blue)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Kameron Warrens (Blue)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Dariq Whitehead (Blue)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Lamar Wilkerson (Blue)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Grant Newell (Bulls)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Dj Patrick (Bulls)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Remy Martin (Bulls)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Isaiah Stevens (Bulls)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Ace Baldwin (Magic)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Malaki Branham (Magic)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Anthony Cambo (Magic)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Ricky Council Iv (Magic)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Johnell Davis (Magic)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Jd Davison (Magic)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Jarron Cumberland (Magic)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Caleb Huffman (Magic)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Jordan Minor (Magic)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Mike Sharavjamts (Magic)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Au'diese Toney (Magic)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Koby Brea (Suns)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: John Camden (Suns)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Tyreke Key (Raptors)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Tyson Degenhart (Raptors)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Aj Hoggard (Raptors)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Corey Camper (Suns)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
   }
  ],
  "feeds": {
@@ -10065,8 +10111,8 @@
    "last": "2026-10-28 06:12:45"
   },
   "GLEAGUE": {
-   "count": 727,
-   "last": "2026-10-27 15:10:48"
+   "count": 741,
+   "last": "2026-10-28 15:17:39"
   },
   "PLAYERS": {
    "count": 1938,
@@ -10077,12 +10123,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 10638,
-   "last": "2026-10-28 10:56:26"
+   "count": 10663,
+   "last": "2026-10-28 15:26:00"
   },
   "SCORES": {
-   "count": 3200,
-   "last": "2026-10-28 10:56:28"
+   "count": 3216,
+   "last": "2026-10-28 15:26:13"
   },
   "SHEETS": {
    "count": 5212,
@@ -10093,14 +10139,14 @@
    "last": "2026-10-28 06:12:43"
   },
   "WIKI": {
-   "count": 7029,
-   "last": "2026-10-28 10:54:36"
+   "count": 7034,
+   "last": "2026-10-28 15:24:37"
   },
   "WIKIWATCH": {
    "count": 551,
    "last": "2026-10-27 11:21:47"
   }
  },
- "generated_at": "2026-10-28T10:56:44",
- "total": 35217
+ "generated_at": "2026-10-28T15:26:23",
+ "total": 35277
 }
