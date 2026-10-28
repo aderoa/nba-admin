@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "+ ADDED   Enrique Freeman (MIN)",
+   "detected_at": "2026-10-28 06:41:54",
+   "source": "PLAYERS",
+   "type": "ADDED"
+  },
+  {
    "detail": "Italian Serie A2 Basket RivieraBanca Rimini 96, Zeus Energy Group Rieti 73",
    "detected_at": "2026-10-28 06:22:45",
    "source": "SCORES",
@@ -10008,12 +10014,6 @@
    "detected_at": "2026-10-24 16:17:00",
    "source": "GLEAGUE",
    "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: J'vonne Hadley (Skyforce)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
   }
  ],
  "feeds": {
@@ -10026,8 +10026,8 @@
    "last": "2026-10-27 15:10:48"
   },
   "PLAYERS": {
-   "count": 1937,
-   "last": "2026-10-27 18:36:54"
+   "count": 1938,
+   "last": "2026-10-28 06:41:54"
   },
   "RATINGS": {
    "count": 950,
@@ -10058,6 +10058,6 @@
    "last": "2026-10-27 11:21:47"
   }
  },
- "generated_at": "2026-10-28T06:23:00",
- "total": 35173
+ "generated_at": "2026-10-28T06:50:26",
+ "total": 35174
 }
