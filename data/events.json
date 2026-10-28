@@ -1,6 +1,132 @@
 {
  "events": [
   {
+   "detail": "VTB United League Dynamo Vladivostok 98, Avtodor Saratov 73",
+   "detected_at": "2026-10-28 07:23:18",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-27/Avtodor-Saratov-at-Dynamo-Vladivostok/533308"
+  },
+  {
+   "detail": "VTB United League ~ MOVED Arseny Nikulin → Avtodor Saratov (from Avtodor 2)",
+   "detected_at": "2026-10-28 07:23:16",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "VTB United League CSKA Moscow 79, Parma Basket Perm 57",
+   "detected_at": "2026-10-28 07:23:14",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-27/Parma-Basket-Perm-at-CSKA-Moscow/533309"
+  },
+  {
+   "detail": "Montenegrin Prva A Liga Studentski Centar Podgorica 87, KK Lovcen Cetinje 77",
+   "detected_at": "2026-10-28 07:23:09",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-27/KK-Lovcen-Cetinje-at-Studentski-Centar-Podgorica/544726"
+  },
+  {
+   "detail": "Montenegrin Prva A Liga + Milutin Djukanovic → KK Lovcen Cetinje",
+   "detected_at": "2026-10-28 07:23:07",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Montenegrin Prva A Liga + Vasilije Ivancevic → KK Lovcen Cetinje",
+   "detected_at": "2026-10-28 07:23:07",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Montenegrin Prva A Liga + Carlos Paul III → KK Lovcen Cetinje",
+   "detected_at": "2026-10-28 07:23:07",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Montenegrin Prva A Liga + Blazo Mudresa → KK Lovcen Cetinje",
+   "detected_at": "2026-10-28 07:23:07",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Montenegrin Prva A Liga + Dusan Bevenja → KK Lovcen Cetinje",
+   "detected_at": "2026-10-28 07:23:07",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Montenegrin Prva A Liga + Zdravko Boskovic → KK Lovcen Cetinje",
+   "detected_at": "2026-10-28 07:23:07",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Montenegrin Prva A Liga + Bogdan Bogdanovic → KK Lovcen Cetinje",
+   "detected_at": "2026-10-28 07:23:07",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Montenegrin Prva A Liga + Masan Jovanovic → KK Lovcen Cetinje",
+   "detected_at": "2026-10-28 07:23:07",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Montenegrin Prva A Liga + Nikola Ratknic → KK Lovcen Cetinje",
+   "detected_at": "2026-10-28 07:23:07",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Montenegrin Prva A Liga + Djordje Djukanovic → KK Lovcen Cetinje",
+   "detected_at": "2026-10-28 07:23:07",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Montenegrin Prva A Liga + Rade Novovic → KK Lovcen Cetinje",
+   "detected_at": "2026-10-28 07:23:07",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Montenegrin Prva A Liga + Nikola Vukic → KK Lovcen Cetinje",
+   "detected_at": "2026-10-28 07:23:07",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Montenegrin Prva A Liga + Vuk Scepanovic → Studentski Centar Podgorica",
+   "detected_at": "2026-10-28 07:23:07",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Montenegrin Prva A Liga + Zvonimir Dujakovic → Studentski Centar Podgorica",
+   "detected_at": "2026-10-28 07:23:07",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
    "detail": "+ ADDED   Enrique Freeman (MIN)",
    "detected_at": "2026-10-28 06:41:54",
    "source": "PLAYERS",
@@ -9906,114 +10032,6 @@
    "detected_at": "2026-10-24 16:17:00",
    "source": "GLEAGUE",
    "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Chris Mantis (Legends)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Mark Sears (Remix)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Darin Green (Legends)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Mark Armstrong (Remix)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Jaylen Martin (Remix)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Jasper Floyd (Legends)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Barry Dunning (Remix)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Shammah Scott (Legends)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Hyunjung Lee (Remix)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Kebba Njie (Legends)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Terry Anderson (Remix)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Will Tschetter (Remix)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Caleb Houstan (Remix)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Keylan Boone (Remix)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Samson Johnson (Remix)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: James Karnik (Remix)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Charles Matthews (Remix)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Ian Schieffelin (Skyforce)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
   }
  ],
  "feeds": {
@@ -10034,12 +10052,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 10618,
-   "last": "2026-10-28 06:22:43"
+   "count": 10633,
+   "last": "2026-10-28 07:23:16"
   },
   "SCORES": {
-   "count": 3187,
-   "last": "2026-10-28 06:22:45"
+   "count": 3190,
+   "last": "2026-10-28 07:23:18"
   },
   "SHEETS": {
    "count": 5212,
@@ -10058,6 +10076,6 @@
    "last": "2026-10-27 11:21:47"
   }
  },
- "generated_at": "2026-10-28T07:22:02",
- "total": 35174
+ "generated_at": "2026-10-28T07:23:35",
+ "total": 35192
 }
