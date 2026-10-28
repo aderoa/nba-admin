@@ -1,6 +1,69 @@
 {
  "events": [
   {
+   "detail": "Brazilian NBB Pinheiros Sky 75, Uniao Corinthians 63",
+   "detected_at": "2026-10-28 10:56:28",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-27/Uniao-Corinthians-at-Pinheiros-Sky/545106"
+  },
+  {
+   "detail": "Brazilian NBB + Domnick Bridgewater → Pinheiros Sky",
+   "detected_at": "2026-10-28 10:56:26",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Brazilian NBB Uniceub BRB Brasilia 89, Cruzeiro 80",
+   "detected_at": "2026-10-28 10:56:23",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-27/Uniceub-BRB-Brasilia-at-Cruzeiro/545105"
+  },
+  {
+   "detail": "Brazilian NBB Minas 86, Pato Basquete 65",
+   "detected_at": "2026-10-28 10:56:18",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-27/Pato-Basquete-at-Minas/545104"
+  },
+  {
+   "detail": "Brazilian NBB + Antonio Ramos Silva → Minas",
+   "detected_at": "2026-10-28 10:56:16",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Euroleague Real Madrid 104, Baskonia 86",
+   "detected_at": "2026-10-28 10:56:13",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-27/Real-Madrid-at-Baskonia/526845"
+  },
+  {
+   "detail": "Lithuanian NKL Marijampole Suduva Arvi 113, Kauno LKKA Atletas 63",
+   "detected_at": "2026-10-28 10:56:08",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-27/Kauno-LKKA-Atletas-at-Marijampole-Suduva-Arvi/543805"
+  },
+  {
+   "detail": "Lithuanian NKL + Aurelijus Pukelis → Marijampole Suduva Arvi",
+   "detected_at": "2026-10-28 10:56:06",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian NKL + Augustas Majauskas → Marijampole Suduva Arvi",
+   "detected_at": "2026-10-28 10:56:06",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
    "detail": "Michalis Tsairelis  ~ CAREER  + 2007–2008 Aris Thessaloniki",
    "detected_at": "2026-10-28 10:54:36",
    "source": "WIKI",
@@ -9994,60 +10057,6 @@
    "detected_at": "2026-10-24 16:17:00",
    "source": "GLEAGUE",
    "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Caleb Stone Carrawell (Raptors)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Samuel Hoiberg (Suns)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Jamarion Sharp (Raptors)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Nimari Burnett (Raptors)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Cj Huntley (Suns)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Kennedy Chandler (Suns)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: David Stockton (Suns)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Chucky Hepburn (Raptors)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Phillip Wheeler (Suns)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
   }
  ],
  "feeds": {
@@ -10068,12 +10077,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 10634,
-   "last": "2026-10-28 09:54:35"
+   "count": 10638,
+   "last": "2026-10-28 10:56:26"
   },
   "SCORES": {
-   "count": 3195,
-   "last": "2026-10-28 09:54:53"
+   "count": 3200,
+   "last": "2026-10-28 10:56:28"
   },
   "SHEETS": {
    "count": 5212,
@@ -10092,6 +10101,6 @@
    "last": "2026-10-27 11:21:47"
   }
  },
- "generated_at": "2026-10-28T10:55:02",
- "total": 35208
+ "generated_at": "2026-10-28T10:56:44",
+ "total": 35217
 }
