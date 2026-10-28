@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "FIBA Europe Cup CSM Oradea 99, Neftchi IK 83",
+   "detected_at": "2026-10-28 18:43:46",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-28/CSM-Oradea-at-Neftchi-IK/543380"
+  },
+  {
    "detail": "Norchad Omier  ~ team: Iowa Wolves -> Cleveland Charge",
    "detected_at": "2026-10-28 16:41:37",
    "source": "WIKI",
@@ -10109,12 +10116,6 @@
    "detected_at": "2026-10-24 16:17:00",
    "source": "GLEAGUE",
    "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Dillon Jones (Blue Coats)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
   }
  ],
  "feeds": {
@@ -10139,8 +10140,8 @@
    "last": "2026-10-28 15:26:00"
   },
   "SCORES": {
-   "count": 3216,
-   "last": "2026-10-28 15:26:13"
+   "count": 3217,
+   "last": "2026-10-28 18:43:46"
   },
   "SHEETS": {
    "count": 5212,
@@ -10159,6 +10160,6 @@
    "last": "2026-10-27 11:21:47"
   }
  },
- "generated_at": "2026-10-28T18:42:21",
- "total": 35289
+ "generated_at": "2026-10-28T18:44:03",
+ "total": 35290
 }
