@@ -1,6 +1,48 @@
 {
  "events": [
   {
+   "detail": "FIBA Europe Cup Landau Lions 94, Merkezefendi Belediyesi Denizli Basket 86",
+   "detected_at": "2026-10-28 19:52:02",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-28/Merkezefendi-Belediyesi-Denizli-Basket-at-Landau-Lions/543374"
+  },
+  {
+   "detail": "FIBA Europe Cup Esenler Erokspor 71, Kolossos Rodou BC 69",
+   "detected_at": "2026-10-28 19:51:57",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-28/Esenler-Erokspor-at-Kolossos-Rodou-BC/543376"
+  },
+  {
+   "detail": "FIBA Europe Cup SCM CSU Craiova 103, BC Rilski Sportist 86",
+   "detected_at": "2026-10-28 19:51:52",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-28/BC-Rilski-Sportist-at-SCM-CSU-Craiova/543377"
+  },
+  {
+   "detail": "FIBA Europe Cup + Michael Durr → SCM CSU Craiova",
+   "detected_at": "2026-10-28 19:51:51",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "FIBA Europe Cup KB Trepca Mitrovice 91, Batumi RSU 70",
+   "detected_at": "2026-10-28 19:51:48",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-28/KB-Trepca-Mitrovice-at-Batumi-RSU/543362"
+  },
+  {
+   "detail": "FIBA Europe Cup Gladiators Trier 103, BK Opava 80",
+   "detected_at": "2026-10-28 19:51:43",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-28/Gladiators-Trier-at-BK-Opava/543363"
+  },
+  {
    "detail": "Dan Akin  ~ team: Kolossos Rodou -> CSM Oradea",
    "detected_at": "2026-10-28 19:28:35",
    "source": "WIKI",
@@ -10084,42 +10126,6 @@
    "detected_at": "2026-10-24 16:17:00",
    "source": "GLEAGUE",
    "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Ahmet Jonovic (Gold)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Duke Miles (Blue Coats)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Cris Carroll (Blue Coats)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Taye Fields (Blue Coats)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Jameer Nelson Jr (Blue Coats)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Johni Broome (Herd)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
   }
  ],
  "feeds": {
@@ -10140,12 +10146,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 10663,
-   "last": "2026-10-28 15:26:00"
+   "count": 10664,
+   "last": "2026-10-28 19:51:51"
   },
   "SCORES": {
-   "count": 3217,
-   "last": "2026-10-28 18:43:46"
+   "count": 3222,
+   "last": "2026-10-28 19:52:02"
   },
   "SHEETS": {
    "count": 5212,
@@ -10164,6 +10170,6 @@
    "last": "2026-10-27 11:21:47"
   }
  },
- "generated_at": "2026-10-28T19:42:39",
- "total": 35294
+ "generated_at": "2026-10-28T19:52:20",
+ "total": 35300
 }
