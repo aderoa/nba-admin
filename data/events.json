@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Shaq Buchanan  ~ number: - -> 2",
+   "detected_at": "2026-10-28 20:13:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Shaq_Buchanan"
+  },
+  {
    "detail": "FIBA Europe Cup Landau Lions 94, Merkezefendi Belediyesi Denizli Basket 86",
    "detected_at": "2026-10-28 19:52:02",
    "source": "SCORES",
@@ -10120,12 +10127,6 @@
    "detected_at": "2026-10-24 16:17:00",
    "source": "GLEAGUE",
    "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Trey Edmonds (Gold)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
   }
  ],
  "feeds": {
@@ -10162,14 +10163,14 @@
    "last": "2026-10-28 06:12:43"
   },
   "WIKI": {
-   "count": 7050,
-   "last": "2026-10-28 19:28:35"
+   "count": 7051,
+   "last": "2026-10-28 20:13:36"
   },
   "WIKIWATCH": {
    "count": 551,
    "last": "2026-10-27 11:21:47"
   }
  },
- "generated_at": "2026-10-28T19:52:20",
- "total": 35300
+ "generated_at": "2026-10-28T20:13:37",
+ "total": 35301
 }
