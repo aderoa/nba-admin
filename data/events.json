@@ -1,6 +1,62 @@
 {
  "events": [
   {
+   "detail": "FIBA Europe Cup Korfez Mansia 87, Valmiera Glass Via 85",
+   "detected_at": "2026-10-28 21:13:07",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-28/Korfez-Mansia-at-Valmiera-Glass-Via/543371"
+  },
+  {
+   "detail": "FIBA Europe Cup Lokomotiv Plovdiv 95, Fribourg Olympic 83",
+   "detected_at": "2026-10-28 21:13:02",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-28/Fribourg-Olympic-at-Lokomotiv-Plovdiv/543378"
+  },
+  {
+   "detail": "FIBA Europe Cup Mykonos 90, VEF Riga 88",
+   "detected_at": "2026-10-28 21:12:56",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-28/Mykonos-at-VEF-Riga/543379"
+  },
+  {
+   "detail": "FIBA Europe Cup NHSZ Szolnoki Olajbanyasz 81, CB Girona 79",
+   "detected_at": "2026-10-28 21:12:51",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-28/CB-Girona-at-NHSZ-Szolnoki-Olajbanyasz/543361"
+  },
+  {
+   "detail": "FIBA Europe Cup KK Split 88, ASP Promitheas Patras 82",
+   "detected_at": "2026-10-28 21:12:43",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-28/ASP-Promitheas-Patras-at-KK-Split/543364"
+  },
+  {
+   "detail": "FIBA Europe Cup Nitra Blue Wings 82, Parnu Sadam 80",
+   "detected_at": "2026-10-28 21:12:37",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-28/Parnu-Sadam-at-Nitra-Blue-Wings/543366"
+  },
+  {
+   "detail": "FIBA Europe Cup + Javaunte Hawkins → Nitra Blue Wings",
+   "detected_at": "2026-10-28 21:12:33",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Bennedict Mathurin  ~ height_in: 5 -> 6",
+   "detected_at": "2026-10-28 21:12:27",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Bennedict_Mathurin"
+  },
+  {
    "detail": "Shaq Buchanan  ~ number: - -> 2",
    "detected_at": "2026-10-28 20:13:36",
    "source": "WIKI",
@@ -10079,54 +10135,6 @@
    "detected_at": "2026-10-24 16:17:00",
    "source": "GLEAGUE",
    "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Reese Dixon Waters (Gold)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Keonte Jones (Gold)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Dane Goodwin (Gold)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Emanuel Miller (Gold)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Coleman Hawkins (Gold)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Steven Crowl (Gold)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Pedro Bradshaw (Gold)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Al Green (Gold)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
   }
  ],
  "feeds": {
@@ -10147,12 +10155,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 10664,
-   "last": "2026-10-28 19:51:51"
+   "count": 10665,
+   "last": "2026-10-28 21:12:33"
   },
   "SCORES": {
-   "count": 3222,
-   "last": "2026-10-28 19:52:02"
+   "count": 3228,
+   "last": "2026-10-28 21:13:07"
   },
   "SHEETS": {
    "count": 5212,
@@ -10163,14 +10171,14 @@
    "last": "2026-10-28 06:12:43"
   },
   "WIKI": {
-   "count": 7051,
-   "last": "2026-10-28 20:13:36"
+   "count": 7052,
+   "last": "2026-10-28 21:12:27"
   },
   "WIKIWATCH": {
    "count": 551,
    "last": "2026-10-27 11:21:47"
   }
  },
- "generated_at": "2026-10-28T20:45:39",
- "total": 35301
+ "generated_at": "2026-10-28T21:13:32",
+ "total": 35309
 }
