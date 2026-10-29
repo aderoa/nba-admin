@@ -1,6 +1,34 @@
 {
  "events": [
   {
+   "detail": "Chinese CBA Guangdong Dongguan 82, Jiangsu Kendia 80",
+   "detected_at": "2026-10-29 18:11:53",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-29/Jiangsu-Kendia-at-Guangdong-Dongguan/544706"
+  },
+  {
+   "detail": "Chinese CBA Beijing Shougang 105, Qingdao 86",
+   "detected_at": "2026-10-29 18:11:48",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-29/Beijing-Shougang-at-Qingdao/544707"
+  },
+  {
+   "detail": "Chinese CBA + Yahui Sun → Beijing Shougang",
+   "detected_at": "2026-10-29 18:11:46",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Chinese CBA Xinjiang Guanghui 84, Nanjing Tongxi Monkey King 83",
+   "detected_at": "2026-10-29 18:11:43",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-29/Nanjing-Tongxi-Monkey-King-at-Xinjiang-Guanghui/544708"
+  },
+  {
    "detail": "Dereon Seabron  ~ team: Greensboro Swarm -> Free agent",
    "detected_at": "2026-10-29 17:03:37",
    "source": "WIKI",
@@ -10240,34 +10268,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Jalen_Brunson"
-  },
-  {
-   "detail": "Jalen Brunson  ~ CAREER  + – Dallas Mavericks",
-   "detected_at": "2026-10-24 17:10:35",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Jalen_Brunson"
-  },
-  {
-   "detail": "Adam Flagler  ~ team: Free agent -> Coachella Valley Lakers",
-   "detected_at": "2026-10-24 17:10:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Adam_Flagler"
-  },
-  {
-   "detail": "Adam Flagler  ~ league: - -> NBA G League",
-   "detected_at": "2026-10-24 17:10:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Adam_Flagler"
-  },
-  {
-   "detail": "Adam Flagler  ~ CAREER  + 2026–present Coachella Valley Lakers",
-   "detected_at": "2026-10-24 17:10:35",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Adam_Flagler"
   }
  ],
  "feeds": {
@@ -10288,12 +10288,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 10705,
-   "last": "2026-10-29 16:00:46"
+   "count": 10706,
+   "last": "2026-10-29 18:11:46"
   },
   "SCORES": {
-   "count": 3280,
-   "last": "2026-10-29 16:00:59"
+   "count": 3283,
+   "last": "2026-10-29 18:11:53"
   },
   "SHEETS": {
    "count": 5212,
@@ -10312,6 +10312,6 @@
    "last": "2026-10-29 16:17:13"
   }
  },
- "generated_at": "2026-10-29T18:02:21",
- "total": 35482
+ "generated_at": "2026-10-29T18:12:15",
+ "total": 35486
 }
