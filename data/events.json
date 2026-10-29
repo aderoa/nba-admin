@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "2026-10-29  LA Clippers signed guard Blake Wesley to a 10-Day Contract.",
+   "detected_at": "2026-10-29 18:31:33",
+   "source": "TRANSACTIONS",
+   "type": "Signing"
+  },
+  {
    "detail": "Chinese CBA Guangdong Dongguan 82, Jiangsu Kendia 80",
    "detected_at": "2026-10-29 18:11:53",
    "source": "SCORES",
@@ -10261,13 +10267,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Jalen_Brunson"
-  },
-  {
-   "detail": "Jalen Brunson  ~ draft_team: Soyjak Party -> Dallas Mavericks",
-   "detected_at": "2026-10-24 17:10:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jalen_Brunson"
   }
  ],
  "feeds": {
@@ -10300,8 +10299,8 @@
    "last": "2026-10-26 15:45:59"
   },
   "TRANSACTIONS": {
-   "count": 682,
-   "last": "2026-10-29 07:03:22"
+   "count": 683,
+   "last": "2026-10-29 18:31:33"
   },
   "WIKI": {
    "count": 7114,
@@ -10312,6 +10311,6 @@
    "last": "2026-10-29 16:17:13"
   }
  },
- "generated_at": "2026-10-29T18:12:15",
- "total": 35486
+ "generated_at": "2026-10-29T18:38:38",
+ "total": 35487
 }
