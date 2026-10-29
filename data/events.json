@@ -1,6 +1,55 @@
 {
  "events": [
   {
+   "detail": "FIBA Europe Cup Chalon Sur Saone 94, KB Bashkimi Prizren 66",
+   "detected_at": "2026-10-29 16:00:59",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-28/Chalon-Sur-Saone-at-KB-Bashkimi-Prizren/543372"
+  },
+  {
+   "detail": "FIBA Europe Cup Les Lions de Geneve 93, SL Benfica 90",
+   "detected_at": "2026-10-29 16:00:54",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-28/SL-Benfica-at-Les-Lions-de-Geneve/543375"
+  },
+  {
+   "detail": "Chinese CBA Beijing BeiKong 115, Sichuan Blue Whales 64",
+   "detected_at": "2026-10-29 16:00:48",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-29/Sichuan-Blue-Whales-at-Beijing-BeiKong/544704"
+  },
+  {
+   "detail": "Chinese CBA + Haoyang Jing → Sichuan Blue Whales",
+   "detected_at": "2026-10-29 16:00:46",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Chinese CBA Fujian 102, Shandong 90",
+   "detected_at": "2026-10-29 16:00:43",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-29/Shandong-at-Fujian/544705"
+  },
+  {
+   "detail": "Chinese CBA + Ruoyu Su → Fujian",
+   "detected_at": "2026-10-29 16:00:41",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Panagiotis Kalaitzakis  ~ position: Small forward / shooting guard -> Shooting guard",
+   "detected_at": "2026-10-29 16:00:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Panagiotis_Kalaitzakis"
+  },
+  {
    "detail": "Noam Yaacov  ~ nationality: Israeli / Danish -> Israel / Danish",
    "detected_at": "2026-10-29 15:12:37",
    "source": "WIKI",
@@ -10214,48 +10263,6 @@
    "detected_at": "2026-10-24 16:17:00",
    "source": "GLEAGUE",
    "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Giorgi Bezhanishvili (Skyhawks)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Jahmir Young (Lakers)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Cole Swider (Lakers)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Anton Watson (Lakers)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Adam Flagler (Lakers)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Meechie Johnson (Lakers)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Chase Ross (Lakers)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
   }
  ],
  "feeds": {
@@ -10276,12 +10283,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 10703,
-   "last": "2026-10-29 13:20:50"
+   "count": 10705,
+   "last": "2026-10-29 16:00:46"
   },
   "SCORES": {
-   "count": 3276,
-   "last": "2026-10-29 14:49:48"
+   "count": 3280,
+   "last": "2026-10-29 16:00:59"
   },
   "SHEETS": {
    "count": 5212,
@@ -10292,14 +10299,14 @@
    "last": "2026-10-29 07:03:22"
   },
   "WIKI": {
-   "count": 7087,
-   "last": "2026-10-29 15:12:37"
+   "count": 7088,
+   "last": "2026-10-29 16:00:36"
   },
   "WIKIWATCH": {
    "count": 551,
    "last": "2026-10-27 11:21:47"
   }
  },
- "generated_at": "2026-10-29T15:36:29",
- "total": 35444
+ "generated_at": "2026-10-29T16:01:17",
+ "total": 35451
 }
