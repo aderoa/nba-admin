@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "John Konchar  ~ 81496: number -> 46",
+   "detected_at": "2026-10-29 20:43:54",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "55"
+  },
+  {
    "detail": "Jonas Valančiūnas  ~ weight_lb: - -> 265",
    "detected_at": "2026-10-29 20:43:37",
    "source": "WIKI",
@@ -10240,13 +10247,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Chinese CBA Shanghai Dongfang 94, Fujian 89",
-   "detected_at": "2026-10-24 21:44:09",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-24/Fujian-at-Shanghai-Dongfang/544308"
   }
  ],
  "feeds": {
@@ -10287,10 +10287,10 @@
    "last": "2026-10-29 20:43:37"
   },
   "WIKIWATCH": {
-   "count": 554,
-   "last": "2026-10-29 16:17:13"
+   "count": 555,
+   "last": "2026-10-29 20:43:54"
   }
  },
- "generated_at": "2026-10-29T20:43:39",
- "total": 35512
+ "generated_at": "2026-10-29T20:46:23",
+ "total": 35513
 }
