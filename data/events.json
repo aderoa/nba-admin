@@ -1,6 +1,85 @@
 {
  "events": [
   {
+   "detail": "Noam Yaacov  ~ nationality: Israeli / Danish -> Israel / Danish",
+   "detected_at": "2026-10-29 15:12:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Noam_Yaacov"
+  },
+  {
+   "detail": "2026-10-28  Traded: Cameron Martin (Wolves)",
+   "detected_at": "2026-10-29 15:05:39",
+   "source": "GLEAGUE",
+   "type": "Trade"
+  },
+  {
+   "detail": "2026-10-28  Assigned: Hansen Yang (Remix)",
+   "detected_at": "2026-10-29 15:05:39",
+   "source": "GLEAGUE",
+   "type": "Acquired/Assigned"
+  },
+  {
+   "detail": "2026-10-28  Waivers Cleared: Matthew Moncrieffe",
+   "detected_at": "2026-10-29 15:05:39",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-10-28  Waivers Cleared: Kevin Samuel",
+   "detected_at": "2026-10-29 15:05:39",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-10-28  Recalled: Drake Powell (Nets)",
+   "detected_at": "2026-10-29 15:05:39",
+   "source": "GLEAGUE",
+   "type": "Call-Up/Recall"
+  },
+  {
+   "detail": "2026-10-28  Assigned: Danny Wolf (Nets)",
+   "detected_at": "2026-10-29 15:05:39",
+   "source": "GLEAGUE",
+   "type": "Acquired/Assigned"
+  },
+  {
+   "detail": "2026-10-28  Assigned: Cameron Carr (Lakers)",
+   "detected_at": "2026-10-29 15:05:39",
+   "source": "GLEAGUE",
+   "type": "Acquired/Assigned"
+  },
+  {
+   "detail": "2026-10-28  Recalled: Zuby Ejiofor (Skyhawks)",
+   "detected_at": "2026-10-29 15:05:39",
+   "source": "GLEAGUE",
+   "type": "Call-Up/Recall"
+  },
+  {
+   "detail": "2026-10-28  Recalled: Danny Wolf (Nets)",
+   "detected_at": "2026-10-29 15:05:39",
+   "source": "GLEAGUE",
+   "type": "Call-Up/Recall"
+  },
+  {
+   "detail": "2026-10-28  Assigned: Drake Powell (Nets)",
+   "detected_at": "2026-10-29 15:05:39",
+   "source": "GLEAGUE",
+   "type": "Acquired/Assigned"
+  },
+  {
+   "detail": "2026-10-28  Recalled: Cameron Carr (Lakers)",
+   "detected_at": "2026-10-29 15:05:39",
+   "source": "GLEAGUE",
+   "type": "Call-Up/Recall"
+  },
+  {
+   "detail": "2026-10-29  Assigned: Zuby Ejiofor (Skyhawks)",
+   "detected_at": "2026-10-29 15:05:39",
+   "source": "GLEAGUE",
+   "type": "Acquired/Assigned"
+  },
+  {
    "detail": "FIBA Europe Cup Manchester Basketball 89, BC Kalev Cramo 85",
    "detected_at": "2026-10-29 14:49:48",
    "source": "SCORES",
@@ -10177,84 +10256,6 @@
    "detected_at": "2026-10-24 16:17:00",
    "source": "GLEAGUE",
    "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Niwa Tait Jones (Lakers)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: William Kyle (Lakers)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Tyler Mcghie (Lakers)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Jace Carter (Lakers)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Raysean Seamster (Lakers)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Josiah Allick (Swarm)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Traded: Ethan Taylor (Squadron)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Trade"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Dj Armstrong (Swarm)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Tre Carroll (Swarm)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Wyatt Fricks (Swarm)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Dajuan Gordon (Swarm)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Jarkel Joiner (Swarm)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Kyle Mangas (Swarm)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
   }
  ],
  "feeds": {
@@ -10263,8 +10264,8 @@
    "last": "2026-10-28 06:12:45"
   },
   "GLEAGUE": {
-   "count": 741,
-   "last": "2026-10-28 15:17:39"
+   "count": 753,
+   "last": "2026-10-29 15:05:39"
   },
   "PLAYERS": {
    "count": 1938,
@@ -10291,14 +10292,14 @@
    "last": "2026-10-29 07:03:22"
   },
   "WIKI": {
-   "count": 7086,
-   "last": "2026-10-29 14:14:37"
+   "count": 7087,
+   "last": "2026-10-29 15:12:37"
   },
   "WIKIWATCH": {
    "count": 551,
    "last": "2026-10-27 11:21:47"
   }
  },
- "generated_at": "2026-10-29T14:50:05",
- "total": 35431
+ "generated_at": "2026-10-29T15:12:38",
+ "total": 35444
 }
