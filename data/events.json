@@ -1,6 +1,48 @@
 {
  "events": [
   {
+   "detail": "Killian Tillie  ~ team: Unicaja -> Unicaja Málaga",
+   "detected_at": "2026-10-29 21:32:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Killian_Tillie"
+  },
+  {
+   "detail": "Killian Tillie  ~ CAREER  + 2024–present Unicaja Málaga",
+   "detected_at": "2026-10-29 21:32:37",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Killian_Tillie"
+  },
+  {
+   "detail": "Kendrick Perry  ~ team: Unicaja -> Unicaja Málaga",
+   "detected_at": "2026-10-29 21:32:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kendrick_Perry"
+  },
+  {
+   "detail": "Kendrick Perry  ~ CAREER  + 2022–present Unicaja Málaga",
+   "detected_at": "2026-10-29 21:32:37",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Kendrick_Perry"
+  },
+  {
+   "detail": "David Kravish  ~ team: Unicaja -> Unicaja Málaga",
+   "detected_at": "2026-10-29 21:32:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/David_Kravish"
+  },
+  {
+   "detail": "David Kravish  ~ CAREER  + 2022–present Unicaja Málaga",
+   "detected_at": "2026-10-29 21:32:37",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/David_Kravish"
+  },
+  {
    "detail": "John Konchar  ~ number: 46 -> 55",
    "detected_at": "2026-10-29 21:05:39",
    "source": "WIKI",
@@ -10205,48 +10247,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Jeremy_Sochan"
-  },
-  {
-   "detail": "Jeremy Sochan  ~ league: NBA G League -> -",
-   "detected_at": "2026-10-24 22:03:34",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jeremy_Sochan"
-  },
-  {
-   "detail": "Dillon Jones  ~ position: Shooting Guard/Small Forward -> Small forward",
-   "detected_at": "2026-10-24 22:03:34",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Dillon_Jones"
-  },
-  {
-   "detail": "Basketball Africa League Qualification FAP Basketball 72, Onatra 64",
-   "detected_at": "2026-10-24 21:44:17",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-24/Onatra-at-FAP-Basketball/546048"
-  },
-  {
-   "detail": "Basketball Africa League Qualification + Abraham Suke → Onatra",
-   "detected_at": "2026-10-24 21:44:15",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Africa League Qualification + Michael Tshibende → Onatra",
-   "detected_at": "2026-10-24 21:44:15",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Africa League Qualification + David Nkibisaka → Onatra",
-   "detected_at": "2026-10-24 21:44:15",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10283,14 +10283,14 @@
    "last": "2026-10-29 18:31:33"
   },
   "WIKI": {
-   "count": 7141,
-   "last": "2026-10-29 21:05:39"
+   "count": 7147,
+   "last": "2026-10-29 21:32:37"
   },
   "WIKIWATCH": {
    "count": 555,
    "last": "2026-10-29 20:43:54"
   }
  },
- "generated_at": "2026-10-29T21:05:40",
- "total": 35535
+ "generated_at": "2026-10-29T21:32:57",
+ "total": 35541
 }
