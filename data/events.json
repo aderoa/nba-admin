@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "FIBA Europe Cup Manchester Basketball 89, BC Kalev Cramo 85",
+   "detected_at": "2026-10-29 14:49:48",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-28/BC-Kalev-Cramo-at-Manchester-Basketball/543370"
+  },
+  {
+   "detail": "FIBA Europe Cup Tartu Ulikool MaksMoorits 101, Iraklis BC 100",
+   "detected_at": "2026-10-29 14:49:43",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-28/Iraklis-BC-at-Tartu-Ulikool-MaksMoorits/543369"
+  },
+  {
    "detail": "Lawson Lovering  ~ number: - -> 18",
    "detected_at": "2026-10-29 14:14:37",
    "source": "WIKI",
@@ -10241,18 +10255,6 @@
    "detected_at": "2026-10-24 16:17:00",
    "source": "GLEAGUE",
    "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Colby Rogers (Swarm)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Jaden Seymour (Swarm)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
   }
  ],
  "feeds": {
@@ -10277,8 +10279,8 @@
    "last": "2026-10-29 13:20:50"
   },
   "SCORES": {
-   "count": 3274,
-   "last": "2026-10-29 13:20:57"
+   "count": 3276,
+   "last": "2026-10-29 14:49:48"
   },
   "SHEETS": {
    "count": 5212,
@@ -10297,6 +10299,6 @@
    "last": "2026-10-27 11:21:47"
   }
  },
- "generated_at": "2026-10-29T14:14:41",
- "total": 35429
+ "generated_at": "2026-10-29T14:50:05",
+ "total": 35431
 }
