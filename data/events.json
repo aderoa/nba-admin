@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Jonas Valančiūnas  ~ weight_lb: - -> 265",
+   "detected_at": "2026-10-29 20:43:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jonas_Valan%C4%8Di%C5%ABnas"
+  },
+  {
    "detail": "Kevin Knox II  ~ team: Osceola Magic -> Unicaja Málaga",
    "detected_at": "2026-10-29 20:17:37",
    "source": "WIKI",
@@ -10240,13 +10247,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-10-24/Fujian-at-Shanghai-Dongfang/544308"
-  },
-  {
-   "detail": "Jeremy Sochan  ~ 139379: team -> Free agent",
-   "detected_at": "2026-10-24 21:29:52",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "Texas Legends"
   }
  ],
  "feeds": {
@@ -10283,14 +10283,14 @@
    "last": "2026-10-29 18:31:33"
   },
   "WIKI": {
-   "count": 7118,
-   "last": "2026-10-29 20:17:37"
+   "count": 7119,
+   "last": "2026-10-29 20:43:37"
   },
   "WIKIWATCH": {
    "count": 554,
    "last": "2026-10-29 16:17:13"
   }
  },
- "generated_at": "2026-10-29T20:18:00",
- "total": 35511
+ "generated_at": "2026-10-29T20:43:39",
+ "total": 35512
 }
