@@ -1,6 +1,34 @@
 {
  "events": [
   {
+   "detail": "Bosnian BiH Liga BC Siroki 90, KK Mladost 71",
+   "detected_at": "2026-10-29 11:32:46",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-28/BC-Siroki-at-KK-Mladost/540942"
+  },
+  {
+   "detail": "Jonas Valančiūnas  ~ height_ft: 6 -> -",
+   "detected_at": "2026-10-29 11:32:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jonas_Valan%C4%8Di%C5%ABnas"
+  },
+  {
+   "detail": "Jonas Valančiūnas  ~ height_in: 11 -> -",
+   "detected_at": "2026-10-29 11:32:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jonas_Valan%C4%8Di%C5%ABnas"
+  },
+  {
+   "detail": "Jonas Valančiūnas  ~ weight_lb: 265 -> -",
+   "detected_at": "2026-10-29 11:32:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jonas_Valan%C4%8Di%C5%ABnas"
+  },
+  {
    "detail": "Saulius Kulvietis  ~ team: U-BT Cluj-Napoca -> KK Jurbarkas-Karys",
    "detected_at": "2026-10-29 11:09:37",
    "source": "WIKI",
@@ -10192,30 +10220,6 @@
    "detected_at": "2026-10-24 16:17:00",
    "source": "GLEAGUE",
    "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Kira Lewis Jr (Hustle)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Jordan Bowden (Hustle)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Warith Alatishe (Hustle)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-23  Acquired: Lance Terry (Hustle)",
-   "detected_at": "2026-10-24 16:17:00",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
   }
  ],
  "feeds": {
@@ -10240,8 +10244,8 @@
    "last": "2026-10-29 10:16:36"
   },
   "SCORES": {
-   "count": 3249,
-   "last": "2026-10-29 10:16:38"
+   "count": 3250,
+   "last": "2026-10-29 11:32:46"
   },
   "SHEETS": {
    "count": 5212,
@@ -10252,14 +10256,14 @@
    "last": "2026-10-29 07:03:22"
   },
   "WIKI": {
-   "count": 7082,
-   "last": "2026-10-29 11:09:37"
+   "count": 7085,
+   "last": "2026-10-29 11:32:37"
   },
   "WIKIWATCH": {
    "count": 551,
    "last": "2026-10-27 11:21:47"
   }
  },
- "generated_at": "2026-10-29T11:09:38",
- "total": 35392
+ "generated_at": "2026-10-29T11:33:05",
+ "total": 35396
 }
