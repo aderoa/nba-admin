@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Japanese BLeague Altiri Chiba 89, Akita Northern Happinets 85",
+   "detected_at": "2026-10-30 15:41:47",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-30/Altiri-Chiba-at-Akita-Northern-Happinets/524784"
+  },
+  {
    "detail": "2026-10-28  NBA Call-Up: Lawson Lovering (Hustle)",
    "detected_at": "2026-10-30 15:06:39",
    "source": "GLEAGUE",
@@ -10225,13 +10232,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-10-23/Brose-Baskets-Bamberg-at-EWE-Baskets-Oldenburg/528653"
-  },
-  {
-   "detail": "German BBL ~ MOVED Kyle Gruhler → EWE Baskets Oldenburg (from Baskets Juniors TSG Westerstede)",
-   "detected_at": "2026-10-25 07:20:57",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10256,8 +10256,8 @@
    "last": "2026-10-30 13:32:40"
   },
   "SCORES": {
-   "count": 3316,
-   "last": "2026-10-30 14:40:42"
+   "count": 3317,
+   "last": "2026-10-30 15:41:47"
   },
   "SHEETS": {
    "count": 5212,
@@ -10276,6 +10276,6 @@
    "last": "2026-10-30 12:46:47"
   }
  },
- "generated_at": "2026-10-30T15:40:38",
- "total": 35733
+ "generated_at": "2026-10-30T15:42:07",
+ "total": 35734
 }
