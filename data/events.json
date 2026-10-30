@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Rudy Gobert  ~ weight_lb: - -> 258",
+   "detected_at": "2026-10-30 18:44:33",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Rudy_Gobert"
+  },
+  {
    "detail": "Basketball Africa League Qualification Ferroviario de Beira 92, Soweto Panthers 63",
    "detected_at": "2026-10-30 17:46:11",
    "source": "SCORES",
@@ -10225,13 +10232,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Australian NBL Cairns 86, New Zealand 84",
-   "detected_at": "2026-10-25 11:01:44",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-25/New-Zealand-at-Cairns/524415"
   }
  ],
  "feeds": {
@@ -10268,14 +10268,14 @@
    "last": "2026-10-29 18:31:33"
   },
   "WIKI": {
-   "count": 7242,
-   "last": "2026-10-30 17:41:32"
+   "count": 7243,
+   "last": "2026-10-30 18:44:33"
   },
   "WIKIWATCH": {
    "count": 571,
    "last": "2026-10-30 17:18:47"
   }
  },
- "generated_at": "2026-10-30T18:19:40",
- "total": 35770
+ "generated_at": "2026-10-30T18:44:34",
+ "total": 35771
 }
