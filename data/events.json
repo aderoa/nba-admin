@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Australian NBL Sydney 71, Tasmania 68",
+   "detected_at": "2026-10-30 12:24:30",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-30/Sydney-at-Tasmania/524420"
+  },
+  {
    "detail": "Argentinian Liga A Lanus 81, San Martin Corrientes 72",
    "detected_at": "2026-10-30 11:15:59",
    "source": "SCORES",
@@ -10240,13 +10247,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-10-24/Walter-Tigers-Tubingen-at-PS-Karlsruhe-Lions/528122"
-  },
-  {
-   "detail": "German Pro A ~ MOVED Alexander Richardson → Walter Tigers Tubingen (from BV Chemnitz 99)",
-   "detected_at": "2026-10-25 07:17:16",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10271,8 +10271,8 @@
    "last": "2026-10-30 09:14:08"
   },
   "SCORES": {
-   "count": 3305,
-   "last": "2026-10-30 11:15:59"
+   "count": 3306,
+   "last": "2026-10-30 12:24:30"
   },
   "SHEETS": {
    "count": 5212,
@@ -10291,6 +10291,6 @@
    "last": "2026-10-30 09:30:09"
   }
  },
- "generated_at": "2026-10-30T12:02:35",
- "total": 35641
+ "generated_at": "2026-10-30T12:24:48",
+ "total": 35642
 }
