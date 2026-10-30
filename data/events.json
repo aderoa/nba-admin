@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Izaiah Brockington  ~ team: Scaligera Basket Verona -> Tezenis Verona",
+   "detected_at": "2026-10-30 13:55:33",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Izaiah_Brockington"
+  },
+  {
+   "detail": "Izaiah Brockington  ~ league: Lega Basket Serie A -> LBA",
+   "detected_at": "2026-10-30 13:55:33",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Izaiah_Brockington"
+  },
+  {
    "detail": "Brazilian NBB Pinheiros Sky 89, Osasco Basquete 74",
    "detected_at": "2026-10-30 13:32:42",
    "source": "SCORES",
@@ -10233,20 +10247,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Rijeka Pre Qualifier ANGT KK Split Youth 82, FMP Junior 70",
-   "detected_at": "2026-10-25 07:20:21",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-23/KK-Split-Youth-at-FMP-Junior/545720"
-  },
-  {
-   "detail": "Rijeka Pre Qualifier ANGT + Ivan Coskovic → KK Split Youth",
-   "detected_at": "2026-10-25 07:20:19",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10283,14 +10283,14 @@
    "last": "2026-10-29 18:31:33"
   },
   "WIKI": {
-   "count": 7236,
-   "last": "2026-10-30 13:32:06"
+   "count": 7238,
+   "last": "2026-10-30 13:55:33"
   },
   "WIKIWATCH": {
    "count": 569,
    "last": "2026-10-30 12:46:47"
   }
  },
- "generated_at": "2026-10-30T13:32:59",
- "total": 35712
+ "generated_at": "2026-10-30T13:55:34",
+ "total": 35714
 }
