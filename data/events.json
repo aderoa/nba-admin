@@ -1,6 +1,96 @@
 {
  "events": [
   {
+   "detail": "2026-10-28  NBA Call-Up: Lawson Lovering (Hustle)",
+   "detected_at": "2026-10-30 15:06:39",
+   "source": "GLEAGUE",
+   "type": "Call-Up/Recall"
+  },
+  {
+   "detail": "2026-10-28  Acquired: Lawson Lovering (Lakers)",
+   "detected_at": "2026-10-30 15:06:39",
+   "source": "GLEAGUE",
+   "type": "Acquired/Assigned"
+  },
+  {
+   "detail": "2026-10-29  Recalled: Hansen Yang (Remix)",
+   "detected_at": "2026-10-30 15:06:39",
+   "source": "GLEAGUE",
+   "type": "Call-Up/Recall"
+  },
+  {
+   "detail": "2026-10-29  Waived: Kellen Tynes (Blue Coats)",
+   "detected_at": "2026-10-30 15:06:39",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-10-29  Traded: Aminu Mohammed (Remix)",
+   "detected_at": "2026-10-30 15:06:39",
+   "source": "GLEAGUE",
+   "type": "Trade"
+  },
+  {
+   "detail": "2026-10-29  Traded: Nathan Mariano (Remix)",
+   "detected_at": "2026-10-30 15:06:39",
+   "source": "GLEAGUE",
+   "type": "Trade"
+  },
+  {
+   "detail": "2026-10-29  Traded: Blake Hinson (Kings)",
+   "detected_at": "2026-10-30 15:06:39",
+   "source": "GLEAGUE",
+   "type": "Trade"
+  },
+  {
+   "detail": "2026-10-29  Traded: Damari Monsanto (Blue Coats)",
+   "detected_at": "2026-10-30 15:06:39",
+   "source": "GLEAGUE",
+   "type": "Trade"
+  },
+  {
+   "detail": "2026-10-29  Waivers Cleared: Jahlil White",
+   "detected_at": "2026-10-30 15:06:39",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-10-29  Traded: Jabri Abdur Rahim (Go Go)",
+   "detected_at": "2026-10-30 15:06:39",
+   "source": "GLEAGUE",
+   "type": "Trade"
+  },
+  {
+   "detail": "2026-10-29  Traded: Trae Hannibal (Blue)",
+   "detected_at": "2026-10-30 15:06:39",
+   "source": "GLEAGUE",
+   "type": "Trade"
+  },
+  {
+   "detail": "2026-10-29  Assigned: Kon Knueppel (Swarm)",
+   "detected_at": "2026-10-30 15:06:39",
+   "source": "GLEAGUE",
+   "type": "Acquired/Assigned"
+  },
+  {
+   "detail": "2026-10-29  NBA Call-Up: Blake Wesley (Clippers)",
+   "detected_at": "2026-10-30 15:06:39",
+   "source": "GLEAGUE",
+   "type": "Call-Up/Recall"
+  },
+  {
+   "detail": "2026-10-29  Recalled: Zuby Ejiofor (Skyhawks)",
+   "detected_at": "2026-10-30 15:06:39",
+   "source": "GLEAGUE",
+   "type": "Call-Up/Recall"
+  },
+  {
+   "detail": "2026-10-30  Assigned: Aj Johnson (Squadron)",
+   "detected_at": "2026-10-30 15:06:39",
+   "source": "GLEAGUE",
+   "type": "Acquired/Assigned"
+  },
+  {
    "detail": "South Korean KBL Seoul Samsung Thunders 95, Goyang Sono Skygunners 87",
    "detected_at": "2026-10-30 14:40:42",
    "source": "SCORES",
@@ -10142,111 +10232,6 @@
    "source": "REALGM",
    "type": "MOVED",
    "url": ""
-  },
-  {
-   "detail": "VTB Youth United League Khimki 2 93, Uralmash 2 60",
-   "detected_at": "2026-10-25 07:20:54",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-23/Uralmash-2-at-Khimki-2/543415"
-  },
-  {
-   "detail": "VTB Youth United League + Arkady Sulimov → Khimki 2",
-   "detected_at": "2026-10-25 07:20:52",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "VTB Youth United League + Evgeny Zhavoronkov → Khimki 2",
-   "detected_at": "2026-10-25 07:20:52",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Ukrainian Superleague BC Kyiv 72, BC Khmelnytskyi 51",
-   "detected_at": "2026-10-25 07:20:50",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-23/BC-Kyiv-at-BC-Khmelnytskyi/545168"
-  },
-  {
-   "detail": "Ukrainian Superleague + Ivan Kalishchuk → BC Kyiv",
-   "detected_at": "2026-10-25 07:20:48",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Ukrainian Superleague BC Kharkiv 73, BC Goverla 69",
-   "detected_at": "2026-10-25 07:20:45",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-23/BC-Kharkiv-at-BC-Goverla/546057"
-  },
-  {
-   "detail": "Ukrainian Superleague Rivne Oshvsm 76, SK Cherkasy Monkeys 64",
-   "detected_at": "2026-10-25 07:20:40",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-23/Rivne-Oshvsm-at-SK-Cherkasy-Monkeys/545167"
-  },
-  {
-   "detail": "Ukrainian Superleague + Tarig Eisa → Rivne Oshvsm",
-   "detected_at": "2026-10-25 07:20:38",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Ukrainian Superleague + Yevgeny Petrov → Rivne Oshvsm",
-   "detected_at": "2026-10-25 07:20:38",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Ukrainian Superleague + Jonathan Komagum → SK Cherkasy Monkeys",
-   "detected_at": "2026-10-25 07:20:38",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Cypriot Division A APOEL Nicosia 84, Frederick Achilleas Kaimakliou 62",
-   "detected_at": "2026-10-25 07:20:35",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-23/Frederick-Achilleas-Kaimakliou-at-APOEL-Nicosia/539501"
-  },
-  {
-   "detail": "Cypriot Division A + Alexandros Agrotis → Frederick Achilleas Kaimakliou",
-   "detected_at": "2026-10-25 07:20:34",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Cypriot Division A + Sergios Pourgouris → Frederick Achilleas Kaimakliou",
-   "detected_at": "2026-10-25 07:20:34",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Cypriot Division A + Ely Schlachter → Frederick Achilleas Kaimakliou",
-   "detected_at": "2026-10-25 07:20:34",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Cypriot Division A + Christos Hadjicostas → APOEL Nicosia",
-   "detected_at": "2026-10-25 07:20:34",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10255,8 +10240,8 @@
    "last": "2026-10-29 19:39:15"
   },
   "GLEAGUE": {
-   "count": 753,
-   "last": "2026-10-29 15:05:39"
+   "count": 768,
+   "last": "2026-10-30 15:06:39"
   },
   "PLAYERS": {
    "count": 1938,
@@ -10291,6 +10276,6 @@
    "last": "2026-10-30 12:46:47"
   }
  },
- "generated_at": "2026-10-30T15:05:34",
- "total": 35718
+ "generated_at": "2026-10-30T15:06:41",
+ "total": 35733
 }
