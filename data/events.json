@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Argentinian Liga A Lanus 81, San Martin Corrientes 72",
+   "detected_at": "2026-10-30 11:15:59",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-29/San-Martin-Corrientes-at-Lanus/542052"
+  },
+  {
+   "detail": "Australian NBL Adelaide 108, New Zealand 101",
+   "detected_at": "2026-10-30 11:15:54",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-30/Adelaide-at-New-Zealand/524419"
+  },
+  {
    "detail": "Bonzie Colson  ~ position: Small forward / power forward -> Small forward / shooting guard",
    "detected_at": "2026-10-30 11:07:41",
    "source": "WIKI",
@@ -10233,20 +10247,6 @@
    "source": "REALGM",
    "type": "MOVED",
    "url": ""
-  },
-  {
-   "detail": "German Pro A + Isaiah Hart → PS Karlsruhe Lions",
-   "detected_at": "2026-10-25 07:17:16",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Pro A MLP Academics Heidelberg 80, BG Gottingen 76",
-   "detected_at": "2026-10-25 07:17:13",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-24/BG-Gottingen-at-MLP-Academics-Heidelberg/528121"
   }
  ],
  "feeds": {
@@ -10271,8 +10271,8 @@
    "last": "2026-10-30 09:14:08"
   },
   "SCORES": {
-   "count": 3303,
-   "last": "2026-10-30 09:14:25"
+   "count": 3305,
+   "last": "2026-10-30 11:15:59"
   },
   "SHEETS": {
    "count": 5212,
@@ -10291,6 +10291,6 @@
    "last": "2026-10-30 09:30:09"
   }
  },
- "generated_at": "2026-10-30T11:14:42",
- "total": 35639
+ "generated_at": "2026-10-30T11:16:20",
+ "total": 35641
 }
