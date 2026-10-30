@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Dwight Powell  ~ 9346: team -> Free agent",
+   "detected_at": "2026-10-30 17:18:47",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Fenerbahçe"
+  },
+  {
+   "detail": "Dwight Powell  ~ 9346: league -> -",
+   "detected_at": "2026-10-30 17:18:47",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "BSL EuroLeague"
+  },
+  {
    "detail": "Japanese BLeague Altiri Chiba 89, Akita Northern Happinets 85",
    "detected_at": "2026-10-30 15:41:47",
    "source": "SCORES",
@@ -10218,20 +10232,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-10-23/EBAA-Bears-Academy-at-Svendborg-Rabbits/530332"
-  },
-  {
-   "detail": "Danish Basketligaen + Sebastian Muller → Svendborg Rabbits",
-   "detected_at": "2026-10-25 07:21:01",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German BBL Brose Baskets Bamberg 80, EWE Baskets Oldenburg 70",
-   "detected_at": "2026-10-25 07:20:59",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-23/Brose-Baskets-Bamberg-at-EWE-Baskets-Oldenburg/528653"
   }
  ],
  "feeds": {
@@ -10272,10 +10272,10 @@
    "last": "2026-10-30 14:18:34"
   },
   "WIKIWATCH": {
-   "count": 569,
-   "last": "2026-10-30 12:46:47"
+   "count": 571,
+   "last": "2026-10-30 17:18:47"
   }
  },
- "generated_at": "2026-10-30T17:18:33",
- "total": 35734
+ "generated_at": "2026-10-30T17:19:42",
+ "total": 35736
 }
