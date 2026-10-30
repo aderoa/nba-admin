@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Shane Larkin  ~ 28945: team -> Fenerbahçe Tarfin",
+   "detected_at": "2026-10-30 12:37:11",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Fenerbahçe"
+  },
+  {
+   "detail": "Wade Baldwin  ~ 81056: team -> Fenerbahçe Tarfin",
+   "detected_at": "2026-10-30 12:37:11",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Fenerbahçe"
+  },
+  {
    "detail": "Australian NBL Sydney 71, Tasmania 68",
    "detected_at": "2026-10-30 12:24:30",
    "source": "SCORES",
@@ -10233,20 +10247,6 @@
    "source": "REALGM",
    "type": "RETURN",
    "url": ""
-  },
-  {
-   "detail": "German Pro A Bozic Estriche Knights Kirchheim 103, ETB Miners Essen 99",
-   "detected_at": "2026-10-25 07:17:22",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-24/Bozic-Estriche-Knights-Kirchheim-at-ETB-Miners-Essen/528119"
-  },
-  {
-   "detail": "German Pro A PS Karlsruhe Lions 87, Walter Tigers Tubingen 83",
-   "detected_at": "2026-10-25 07:17:17",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-24/Walter-Tigers-Tubingen-at-PS-Karlsruhe-Lions/528122"
   }
  ],
  "feeds": {
@@ -10287,10 +10287,10 @@
    "last": "2026-10-30 11:07:41"
   },
   "WIKIWATCH": {
-   "count": 563,
-   "last": "2026-10-30 09:30:09"
+   "count": 565,
+   "last": "2026-10-30 12:37:11"
   }
  },
- "generated_at": "2026-10-30T12:24:48",
- "total": 35642
+ "generated_at": "2026-10-30T12:38:41",
+ "total": 35644
 }
