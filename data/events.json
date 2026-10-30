@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Brandon Boston Jr.  ~ number: - -> 5",
+   "detected_at": "2026-10-30 14:18:34",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Brandon_Boston_Jr."
+  },
+  {
    "detail": "Izaiah Brockington  ~ team: Scaligera Basket Verona -> Tezenis Verona",
    "detected_at": "2026-10-30 13:55:33",
    "source": "WIKI",
@@ -10240,13 +10247,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-10-23/Lahti-Basketball-at-Kauhajoki-Karhu/534894"
-  },
-  {
-   "detail": "Finnish Korisliiga + Tevaun Kokko → Kauhajoki Karhu",
-   "detected_at": "2026-10-25 07:20:24",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10283,14 +10283,14 @@
    "last": "2026-10-29 18:31:33"
   },
   "WIKI": {
-   "count": 7238,
-   "last": "2026-10-30 13:55:33"
+   "count": 7239,
+   "last": "2026-10-30 14:18:34"
   },
   "WIKIWATCH": {
    "count": 569,
    "last": "2026-10-30 12:46:47"
   }
  },
- "generated_at": "2026-10-30T13:55:34",
- "total": 35714
+ "generated_at": "2026-10-30T14:18:35",
+ "total": 35715
 }
