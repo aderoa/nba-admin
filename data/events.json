@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "South Korean KBL Seoul Samsung Thunders 95, Goyang Sono Skygunners 87",
+   "detected_at": "2026-10-30 14:40:42",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-30/Seoul-Samsung-Thunders-at-Goyang-Sono-Skygunners/530393"
+  },
+  {
+   "detail": "Japanese BLeague Shinshu Brave Warriors 80, Kyoto Hannaryz 72",
+   "detected_at": "2026-10-30 14:40:37",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-30/Kyoto-Hannaryz-at-Shinshu-Brave-Warriors/524783"
+  },
+  {
+   "detail": "Japanese BLeague Nagoya Diamond Dolphins 104, Shiga Lakestars 69",
+   "detected_at": "2026-10-30 14:40:31",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-30/Shiga-Lakestars-at-Nagoya-Diamond-Dolphins/524785"
+  },
+  {
    "detail": "Brandon Boston Jr.  ~ number: - -> 5",
    "detected_at": "2026-10-30 14:18:34",
    "source": "WIKI",
@@ -10226,27 +10247,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Cypriot Division A + Michalis Mythillos → APOEL Nicosia",
-   "detected_at": "2026-10-25 07:20:34",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Rijeka Pre Qualifier ANGT Pablo Laso Academy U18 80, Tofas U18 60",
-   "detected_at": "2026-10-25 07:20:31",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-23/Tofas-U18-at-Pablo-Laso-Academy-U18/545724"
-  },
-  {
-   "detail": "Finnish Korisliiga Kauhajoki Karhu 73, Lahti Basketball 68",
-   "detected_at": "2026-10-25 07:20:26",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-23/Lahti-Basketball-at-Kauhajoki-Karhu/534894"
   }
  ],
  "feeds": {
@@ -10271,8 +10271,8 @@
    "last": "2026-10-30 13:32:40"
   },
   "SCORES": {
-   "count": 3313,
-   "last": "2026-10-30 13:32:42"
+   "count": 3316,
+   "last": "2026-10-30 14:40:42"
   },
   "SHEETS": {
    "count": 5212,
@@ -10291,6 +10291,6 @@
    "last": "2026-10-30 12:46:47"
   }
  },
- "generated_at": "2026-10-30T14:31:40",
- "total": 35715
+ "generated_at": "2026-10-30T14:41:02",
+ "total": 35718
 }
