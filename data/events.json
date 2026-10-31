@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Boban Marjanović  ~ CAREER  + 2026–present Strong Group Athletics",
+   "detected_at": "2026-10-31 17:34:36",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Boban_Marjanovi%C4%87"
+  },
+  {
+   "detail": "Ochai Agbaji  ~ team: Oklahoma City Thunder -> Free agent",
+   "detected_at": "2026-10-31 17:34:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Ochai_Agbaji"
+  },
+  {
+   "detail": "Ochai Agbaji  ~ league: NBA -> -",
+   "detected_at": "2026-10-31 17:34:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Ochai_Agbaji"
+  },
+  {
    "detail": "Ochai Agbaji  ~ 130970: team -> Oklahoma City Thunder",
    "detected_at": "2026-10-31 17:11:51",
    "source": "WIKIWATCH",
@@ -10262,27 +10283,6 @@
    "source": "REALGM",
    "type": "MOVED",
    "url": ""
-  },
-  {
-   "detail": "German BBL Phoenix Hagen 88, Basketball Lowen Braunschweig 73",
-   "detected_at": "2026-10-26 10:44:11",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-25/Basketball-Lowen-Braunschweig-at-Phoenix-Hagen/528658"
-  },
-  {
-   "detail": "German BBL ~ RETURN Noah Eklou → Basketball Lowen Braunschweig (from SG Braunschweig)",
-   "detected_at": "2026-10-26 10:44:09",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB CB Starlabs Moron 90, Club Baloncesto Toledo Basketball 81",
-   "detected_at": "2026-10-26 10:44:07",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-25/Club-Baloncesto-Toledo-Basketball-at-CB-Starlabs-Moron/527609"
   }
  ],
  "feeds": {
@@ -10319,14 +10319,14 @@
    "last": "2026-10-29 18:31:33"
   },
   "WIKI": {
-   "count": 7306,
-   "last": "2026-10-31 17:11:36"
+   "count": 7309,
+   "last": "2026-10-31 17:34:36"
   },
   "WIKIWATCH": {
    "count": 578,
    "last": "2026-10-31 17:11:51"
   }
  },
- "generated_at": "2026-10-31T17:26:22",
- "total": 36018
+ "generated_at": "2026-10-31T17:34:37",
+ "total": 36021
 }
