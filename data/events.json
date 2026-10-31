@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Zaccharie Risacher  ~ height_in: 8 -> 9",
+   "detected_at": "2026-10-31 18:41:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Zaccharie_Risacher"
+  },
+  {
    "detail": "Semi Ojeleye  ~ team: Crvena zvezda -> Crvena zvezda Meridianbet",
    "detected_at": "2026-10-31 18:19:37",
    "source": "WIKI",
@@ -10276,13 +10283,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB CB Zaragoza 101, LogroBasket Logi7 97",
-   "detected_at": "2026-10-26 10:44:21",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-25/CB-Zaragoza-at-LogroBasket-Logi7/527782"
   }
  ],
  "feeds": {
@@ -10319,14 +10319,14 @@
    "last": "2026-10-29 18:31:33"
   },
   "WIKI": {
-   "count": 7311,
-   "last": "2026-10-31 18:19:37"
+   "count": 7312,
+   "last": "2026-10-31 18:41:37"
   },
   "WIKIWATCH": {
    "count": 578,
    "last": "2026-10-31 17:11:51"
   }
  },
- "generated_at": "2026-10-31T18:33:39",
- "total": 36023
+ "generated_at": "2026-10-31T18:41:38",
+ "total": 36024
 }
