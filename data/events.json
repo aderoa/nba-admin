@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Ochai Agbaji  ~ 130970: team -> Free agent",
+   "detected_at": "2026-10-31 16:53:56",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Oklahoma City Thunder"
+  },
+  {
+   "detail": "Ochai Agbaji  ~ 130970: league -> -",
+   "detected_at": "2026-10-31 16:53:56",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "NBA"
+  },
+  {
    "detail": "Eli Ndiaye  ~ CAREER  + 2021–2025 Real Madrid",
    "detected_at": "2026-10-31 16:47:37",
    "source": "WIKI",
@@ -10269,20 +10283,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-10-25/Olympiacos-at-ASP-Promitheas-Patras/543350"
-  },
-  {
-   "detail": "Greek HEBA A1 + Antonios Karagiannidis → Olympiacos",
-   "detected_at": "2026-10-26 10:43:51",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Greek HEBA A1 + Ioannis Rallis → ASP Promitheas Patras",
-   "detected_at": "2026-10-26 10:43:51",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10323,10 +10323,10 @@
    "last": "2026-10-31 16:47:37"
   },
   "WIKIWATCH": {
-   "count": 574,
-   "last": "2026-10-31 15:32:34"
+   "count": 576,
+   "last": "2026-10-31 16:53:56"
   }
  },
- "generated_at": "2026-10-31T16:53:40",
- "total": 36013
+ "generated_at": "2026-10-31T16:55:41",
+ "total": 36015
 }
