@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Hayden Gray  ~ number: - -> 3",
+   "detected_at": "2026-10-31 07:44:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Hayden_Gray"
+  },
+  {
+   "detail": "Hayden Gray  ~ CAREER  + 2025–2026 Maine Celtics",
+   "detected_at": "2026-10-31 07:44:37",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Hayden_Gray"
+  },
+  {
+   "detail": "Hayden Gray  ~ CAREER  + 2026–present Maine Celtics",
+   "detected_at": "2026-10-31 07:44:37",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Hayden_Gray"
+  },
+  {
    "detail": "Mexican LNBP Soles 83, Panteras de Aguascalientes 65",
    "detected_at": "2026-10-31 07:21:42",
    "source": "SCORES",
@@ -10234,24 +10255,6 @@
    "detected_at": "2026-10-25 15:20:01",
    "source": "GLEAGUE",
    "type": "Drafted"
-  },
-  {
-   "detail": "2026-10-24  Drafted: Tj Clark (Blue Coats)",
-   "detected_at": "2026-10-25 15:20:01",
-   "source": "GLEAGUE",
-   "type": "Drafted"
-  },
-  {
-   "detail": "2026-10-24  Drafted: Anton Brookshire (Wolves)",
-   "detected_at": "2026-10-25 15:20:01",
-   "source": "GLEAGUE",
-   "type": "Drafted"
-  },
-  {
-   "detail": "2026-10-24  Drafted: Olin Carter Iii (Hustle)",
-   "detected_at": "2026-10-25 15:20:01",
-   "source": "GLEAGUE",
-   "type": "Drafted"
   }
  ],
  "feeds": {
@@ -10288,14 +10291,14 @@
    "last": "2026-10-29 18:31:33"
   },
   "WIKI": {
-   "count": 7283,
-   "last": "2026-10-31 06:56:37"
+   "count": 7286,
+   "last": "2026-10-31 07:44:37"
   },
   "WIKIWATCH": {
    "count": 572,
    "last": "2026-10-31 06:21:28"
   }
  },
- "generated_at": "2026-10-31T07:21:52",
- "total": 35884
+ "generated_at": "2026-10-31T07:44:38",
+ "total": 35887
 }
