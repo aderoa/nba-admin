@@ -1,6 +1,118 @@
 {
  "events": [
   {
+   "detail": "BNXT League Telenet BC Oostende 66, Stella Artois Leuven Bears 54",
+   "detected_at": "2026-10-31 23:59:26",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/Stella-Artois-Leuven-Bears-at-Telenet-BC-Oostende/527964"
+  },
+  {
+   "detail": "BNXT League + Stan Solie → Stella Artois Leuven Bears",
+   "detected_at": "2026-10-31 23:59:23",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "BNXT League + Noa Terclavers → Stella Artois Leuven Bears",
+   "detected_at": "2026-10-31 23:59:23",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "BNXT League + Lowie Frederik Marijke Van de Vyver → Stella Artois Leuven Bears",
+   "detected_at": "2026-10-31 23:59:23",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "BNXT League Okapi Aalstar 83, Belfius Mons Hainaut 69",
+   "detected_at": "2026-10-31 23:59:20",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/Belfius-Mons-Hainaut-at-Okapi-Aalstar/527963"
+  },
+  {
+   "detail": "French NM1 Saint Chamond NM1 82, BC Orchies 80",
+   "detected_at": "2026-10-31 23:59:15",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/BC-Orchies-at-Saint-Chamond-NM1/535203"
+  },
+  {
+   "detail": "French NM1 + Guede Kouassi → BC Orchies",
+   "detected_at": "2026-10-31 23:59:12",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French NM1 ~ RETURN Pape Moustapha Diop → Saint Chamond NM1 (from Saint Chamond Pro B)",
+   "detected_at": "2026-10-31 23:59:12",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "BNXT League Port of Antwerp Giants 88, HUBO Limburg United 80",
+   "detected_at": "2026-10-31 23:59:09",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/HUBO-Limburg-United-at-Port-of-Antwerp-Giants/527962"
+  },
+  {
+   "detail": "BNXT League Donar Groningen 96, ZZ Leiden 83",
+   "detected_at": "2026-10-31 23:59:04",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/Donar-Groningen-at-ZZ-Leiden/527961"
+  },
+  {
+   "detail": "Austrian A Bundesliga ece bulls Kapfenberg 94, Kufstein Towers 82",
+   "detected_at": "2026-10-31 23:58:59",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/ece-bulls-Kapfenberg-at-Kufstein-Towers/532432"
+  },
+  {
+   "detail": "Bulgarian NBL BC Rilski Sportist 88, Lokomotiv Plovdiv 79",
+   "detected_at": "2026-10-31 23:58:53",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/Lokomotiv-Plovdiv-at-BC-Rilski-Sportist/539880"
+  },
+  {
+   "detail": "Bulgarian NBL BC Beroe Stara Zagora 99, Polytechnica 58",
+   "detected_at": "2026-10-31 23:58:48",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/Polytechnica-at-BC-Beroe-Stara-Zagora/539881"
+  },
+  {
+   "detail": "Bulgarian NBL + Dimitar Agupkov → BC Beroe Stara Zagora",
+   "detected_at": "2026-10-31 23:58:45",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Bulgarian NBL Spartak Pleven 80, Euroins Cherno More 74",
+   "detected_at": "2026-10-31 23:58:42",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/Spartak-Pleven-at-Euroins-Cherno-More/539878"
+  },
+  {
+   "detail": "Austrian A Bundesliga Redwell Gunners Oberwart 85, BK Klosterneuburg Dukes 66",
+   "detected_at": "2026-10-31 23:58:36",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/BK-Klosterneuburg-Dukes-at-Redwell-Gunners-Oberwart/532430"
+  },
+  {
    "detail": "Nemanja Nedović  ~ team: Crvena zvezda Meridianbet -> Free agent",
    "detected_at": "2026-10-31 23:27:36",
    "source": "WIKI",
@@ -10171,118 +10283,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Italian Lega Basket Serie A Virtus Bologna 98, AX Armani Exchange Milan 94",
-   "detected_at": "2026-10-26 10:45:23",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-25/Virtus-Bologna-at-AX-Armani-Exchange-Milan/529591"
-  },
-  {
-   "detail": "Italian Lega Basket Serie A Grissin Bon Reggio Emilia 81, Acqua San Bernardo Cantu 60",
-   "detected_at": "2026-10-26 10:45:17",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-25/Acqua-San-Bernardo-Cantu-at-Grissin-Bon-Reggio-Emilia/529592"
-  },
-  {
-   "detail": "Italian Lega Basket Serie A Napoli Basket 92, Bertram Tortona 90",
-   "detected_at": "2026-10-26 10:45:12",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-25/Napoli-Basket-at-Bertram-Tortona/529593"
-  },
-  {
-   "detail": "Italian Lega Basket Serie A Universo DeLonghi Treviso 97, Umana Venezia 89",
-   "detected_at": "2026-10-26 10:45:07",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-25/Universo-DeLonghi-Treviso-at-Umana-Venezia/529587"
-  },
-  {
-   "detail": "Italian Lega Basket Serie A + Jeremy Senglin → Universo DeLonghi Treviso",
-   "detected_at": "2026-10-26 10:45:04",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "VTB Youth United League Zenit 2 99, Dynamo M2 65",
-   "detected_at": "2026-10-26 10:45:02",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-25/Dynamo-M2-at-Zenit-2/543419"
-  },
-  {
-   "detail": "VTB Youth United League Lokomotiv Kuban 2 82, ChBK 2 73",
-   "detected_at": "2026-10-26 10:44:57",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-25/ChBK-2-at-Lokomotiv-Kuban-2/543418"
-  },
-  {
-   "detail": "Serbian KLS Borac Zemun 85, KK Hercegovac Gajdobra 71",
-   "detected_at": "2026-10-26 10:44:53",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-25/Borac-Zemun-at-KK-Hercegovac-Gajdobra/545182"
-  },
-  {
-   "detail": "Serbian KLS + Rashun Davis → KK Hercegovac Gajdobra",
-   "detected_at": "2026-10-26 10:44:51",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB CB Algeciras 71, Jaen Paraiso Interior CB 66",
-   "detected_at": "2026-10-26 10:44:48",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-25/Jaen-Paraiso-Interior-CB-at-CB-Algeciras/527605"
-  },
-  {
-   "detail": "Belarusian BPL Rubon 2 83, RCOP SDUSHOR 72",
-   "detected_at": "2026-10-26 10:44:44",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-25/RCOP-SDUSHOR-at-Rubon-2/544774"
-  },
-  {
-   "detail": "Belarusian BPL + Ivan Bohdanovich → RCOP SDUSHOR",
-   "detected_at": "2026-10-26 10:44:42",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Egor Rysevets → RCOP SDUSHOR",
-   "detected_at": "2026-10-26 10:44:42",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Anton Makhanovskiy → Rubon 2",
-   "detected_at": "2026-10-26 10:44:42",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL ~ RETURN Andrey Velesik → Rubon 2 (from Rubon)",
-   "detected_at": "2026-10-26 10:44:42",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL ~ MOVED Kirill Luzan → Rubon 2 (from Rubon)",
-   "detected_at": "2026-10-26 10:44:42",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10303,12 +10303,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 10836,
-   "last": "2026-10-31 15:11:03"
+   "count": 10842,
+   "last": "2026-10-31 23:59:23"
   },
   "SCORES": {
-   "count": 3405,
-   "last": "2026-10-31 15:11:13"
+   "count": 3415,
+   "last": "2026-10-31 23:59:26"
   },
   "SHEETS": {
    "count": 5212,
@@ -10327,6 +10327,6 @@
    "last": "2026-10-31 17:11:51"
   }
  },
- "generated_at": "2026-10-31T23:27:39",
- "total": 36035
+ "generated_at": "2026-10-31T23:59:50",
+ "total": 36051
 }
