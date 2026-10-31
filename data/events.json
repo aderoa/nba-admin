@@ -1,6 +1,76 @@
 {
  "events": [
   {
+   "detail": "Josep Puerto  ~ position: Shooting guard / small forward -> Small forward",
+   "detected_at": "2026-10-31 14:43:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Josep_Puerto"
+  },
+  {
+   "detail": "Josep Puerto  ~ height_ft: - -> 6",
+   "detected_at": "2026-10-31 14:43:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Josep_Puerto"
+  },
+  {
+   "detail": "Josep Puerto  ~ height_in: - -> 6",
+   "detected_at": "2026-10-31 14:43:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Josep_Puerto"
+  },
+  {
+   "detail": "Josep Puerto  ~ weight_lb: - -> 214",
+   "detected_at": "2026-10-31 14:43:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Josep_Puerto"
+  },
+  {
+   "detail": "Kameron Taylor  ~ position: Shooting guard / point guard -> Small forward",
+   "detected_at": "2026-10-31 14:43:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kameron_Taylor"
+  },
+  {
+   "detail": "Nikola Radičević  ~ team: Free agent -> Joventut Badalona",
+   "detected_at": "2026-10-31 14:43:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Nikola_Radi%C4%8Devi%C4%87"
+  },
+  {
+   "detail": "Nikola Radičević  ~ league: - -> Liga ACB Champions League",
+   "detected_at": "2026-10-31 14:43:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Nikola_Radi%C4%8Devi%C4%87"
+  },
+  {
+   "detail": "Nikola Radičević  ~ CAREER  + 2026–present Joventut Badalona",
+   "detected_at": "2026-10-31 14:43:37",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Nikola_Radi%C4%8Devi%C4%87"
+  },
+  {
+   "detail": "Mario Saint-Supéry  ~ position: Shooting guard -> Point guard",
+   "detected_at": "2026-10-31 14:43:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Mario_Saint-Sup%C3%A9ry"
+  },
+  {
+   "detail": "Mario Saint-Supéry  ~ height_in: 4 -> 3",
+   "detected_at": "2026-10-31 14:43:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Mario_Saint-Sup%C3%A9ry"
+  },
+  {
    "detail": "Brazilian NBB Uniao Corinthians 87, Botafogo FR 80",
    "detected_at": "2026-10-31 14:09:44",
    "source": "SCORES",
@@ -10241,76 +10311,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-10-25/Demir-Insaat-Buyukcekmece-at-Darussafaka-Basketbol-Istanbul/534774"
-  },
-  {
-   "detail": "Turkish BSL Galatasaray 102, Bordo Sportif Balikesir 68",
-   "detected_at": "2026-10-25 23:38:49",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-25/Bordo-Sportif-Balikesir-at-Galatasaray/541505"
-  },
-  {
-   "detail": "Turkish BSL + Ozgur Sahin → Bordo Sportif Balikesir",
-   "detected_at": "2026-10-25 23:38:45",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Bulgarian NBL Spartak Pleven 86, BC Rilski Sportist 70",
-   "detected_at": "2026-10-25 23:38:42",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-25/BC-Rilski-Sportist-at-Spartak-Pleven/539875"
-  },
-  {
-   "detail": "Bulgarian NBL + Aleksandar Yanev → BC Rilski Sportist",
-   "detected_at": "2026-10-25 23:38:39",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Pro A Rhein Stars Koeln 105, BBC Bayreuth 98",
-   "detected_at": "2026-10-25 23:38:36",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-25/BBC-Bayreuth-at-Rhein-Stars-Koeln/528125"
-  },
-  {
-   "detail": "German Pro A + Darrell Davis → BBC Bayreuth",
-   "detected_at": "2026-10-25 23:38:33",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Pro A Nurnberg Falcons BC 84, Artland Dragons 77",
-   "detected_at": "2026-10-25 23:38:30",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-25/Artland-Dragons-at-Nurnberg-Falcons-BC/528124"
-  },
-  {
-   "detail": "German Pro A + Larry Austin → Nurnberg Falcons BC",
-   "detected_at": "2026-10-25 23:38:27",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "BNXT League Okapi Aalstar 114, Donar Groningen 90",
-   "detected_at": "2026-10-25 23:38:25",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-25/Donar-Groningen-at-Okapi-Aalstar/527956"
-  },
-  {
-   "detail": "BNXT League + Stan Noels → Okapi Aalstar",
-   "detected_at": "2026-10-25 23:38:22",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10347,14 +10347,14 @@
    "last": "2026-10-29 18:31:33"
   },
   "WIKI": {
-   "count": 7290,
-   "last": "2026-10-31 14:08:28"
+   "count": 7300,
+   "last": "2026-10-31 14:43:37"
   },
   "WIKIWATCH": {
    "count": 572,
    "last": "2026-10-31 06:21:28"
   }
  },
- "generated_at": "2026-10-31T14:10:29",
- "total": 35960
+ "generated_at": "2026-10-31T14:43:38",
+ "total": 35970
 }
