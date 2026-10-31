@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Mexican LNBP Soles 83, Panteras de Aguascalientes 65",
+   "detected_at": "2026-10-31 07:21:42",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-30/Panteras-de-Aguascalientes-at-Soles/546066"
+  },
+  {
+   "detail": "Mexican LNBP Astros de Jalisco 97, Fuerza Regia 90",
+   "detected_at": "2026-10-31 07:21:37",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-30/Fuerza-Regia-at-Astros-de-Jalisco/546067"
+  },
+  {
    "detail": "Kylor Kelley  ~ number: - -> 35",
    "detected_at": "2026-10-31 06:56:37",
    "source": "WIKI",
@@ -10238,18 +10252,6 @@
    "detected_at": "2026-10-25 15:20:01",
    "source": "GLEAGUE",
    "type": "Drafted"
-  },
-  {
-   "detail": "2026-10-24  Drafted: Ben Coupet Jr (Kings)",
-   "detected_at": "2026-10-25 15:20:01",
-   "source": "GLEAGUE",
-   "type": "Drafted"
-  },
-  {
-   "detail": "2026-10-24  Drafted: Austin Benigni (Boom)",
-   "detected_at": "2026-10-25 15:20:01",
-   "source": "GLEAGUE",
-   "type": "Drafted"
   }
  ],
  "feeds": {
@@ -10274,8 +10276,8 @@
    "last": "2026-10-31 05:58:03"
   },
   "SCORES": {
-   "count": 3361,
-   "last": "2026-10-31 05:58:11"
+   "count": 3363,
+   "last": "2026-10-31 07:21:42"
   },
   "SHEETS": {
    "count": 5212,
@@ -10294,6 +10296,6 @@
    "last": "2026-10-31 06:21:28"
   }
  },
- "generated_at": "2026-10-31T06:56:39",
- "total": 35882
+ "generated_at": "2026-10-31T07:21:52",
+ "total": 35884
 }
