@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Kylor Kelley  ~ number: - -> 35",
+   "detected_at": "2026-10-31 06:56:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kylor_Kelley"
+  },
+  {
    "detail": "Dwight Powell  ~ 9346: number -> -",
    "detected_at": "2026-10-31 06:21:28",
    "source": "WIKIWATCH",
@@ -10243,12 +10250,6 @@
    "detected_at": "2026-10-25 15:20:01",
    "source": "GLEAGUE",
    "type": "Drafted"
-  },
-  {
-   "detail": "2026-10-24  Traded: Chris Bell (Squadron)",
-   "detected_at": "2026-10-25 15:20:01",
-   "source": "GLEAGUE",
-   "type": "Trade"
   }
  ],
  "feeds": {
@@ -10285,14 +10286,14 @@
    "last": "2026-10-29 18:31:33"
   },
   "WIKI": {
-   "count": 7282,
-   "last": "2026-10-31 05:54:47"
+   "count": 7283,
+   "last": "2026-10-31 06:56:37"
   },
   "WIKIWATCH": {
    "count": 572,
    "last": "2026-10-31 06:21:28"
   }
  },
- "generated_at": "2026-10-31T06:29:40",
- "total": 35881
+ "generated_at": "2026-10-31T06:56:39",
+ "total": 35882
 }
