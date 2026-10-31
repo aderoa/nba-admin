@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "John Bryant (basketball)  ~ CAREER  + 2026 Eisbären Bremerhaven",
+   "detected_at": "2026-10-31 17:11:36",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/John_Bryant_(basketball)"
+  },
+  {
    "detail": "Ochai Agbaji  ~ 130970: team -> Free agent",
    "detected_at": "2026-10-31 16:53:56",
    "source": "WIKIWATCH",
@@ -10276,13 +10283,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-10-25/Class-Basquet-Sant-Antoni-at-Amics-Castello/527781"
-  },
-  {
-   "detail": "Greek HEBA A1 Olympiacos 85, ASP Promitheas Patras 45",
-   "detected_at": "2026-10-26 10:43:53",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-25/Olympiacos-at-ASP-Promitheas-Patras/543350"
   }
  ],
  "feeds": {
@@ -10319,14 +10319,14 @@
    "last": "2026-10-29 18:31:33"
   },
   "WIKI": {
-   "count": 7305,
-   "last": "2026-10-31 16:47:37"
+   "count": 7306,
+   "last": "2026-10-31 17:11:36"
   },
   "WIKIWATCH": {
    "count": 576,
    "last": "2026-10-31 16:53:56"
   }
  },
- "generated_at": "2026-10-31T17:02:21",
- "total": 36015
+ "generated_at": "2026-10-31T17:11:37",
+ "total": 36016
 }
