@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Mark Sears  ~ number: - -> 19",
+   "detected_at": "2026-11-01 18:22:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Mark_Sears"
+  },
+  {
    "detail": "Jaylen Martin  ~ team: Free agent -> Rip City Remix",
    "detected_at": "2026-11-01 18:00:35",
    "source": "WIKI",
@@ -10367,13 +10374,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/wnba/boxscore/2026-10-26/Atlanta-at-Golden-State/161834"
-  },
-  {
-   "detail": "Lebanese Division A ~ MOVED Jared Wilson-Frame → Nadim Souaid Academy (from Santos de San Luis Potosi)",
-   "detected_at": "2026-10-27 06:12:07",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10410,14 +10410,14 @@
    "last": "2026-10-29 18:31:33"
   },
   "WIKI": {
-   "count": 7391,
-   "last": "2026-11-01 18:00:35"
+   "count": 7392,
+   "last": "2026-11-01 18:22:35"
   },
   "WIKIWATCH": {
    "count": 578,
    "last": "2026-10-31 17:11:51"
   }
  },
- "generated_at": "2026-11-01T18:14:40",
- "total": 36405
+ "generated_at": "2026-11-01T18:23:03",
+ "total": 36406
 }
