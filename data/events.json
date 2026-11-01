@@ -1,6 +1,426 @@
 {
  "events": [
   {
+   "detail": "German Pro A HAKRO Merlins Crailsheim 65, Gartenzaun24 Baskets Paderborn 58",
+   "detected_at": "2026-11-01 01:18:55",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/Gartenzaun24-Baskets-Paderborn-at-HAKRO-Merlins-Crailsheim/528134"
+  },
+  {
+   "detail": "German Pro B Iserlohn Kangaroos 87, EN Baskets Schwelm 80",
+   "detected_at": "2026-11-01 01:18:50",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/Iserlohn-Kangaroos-at-EN-Baskets-Schwelm/525539"
+  },
+  {
+   "detail": "German Pro B ~ RETURN Dyami Janeck → EN Baskets Schwelm (from VfL SparkassenStars Bochum)",
+   "detected_at": "2026-11-01 01:18:47",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "German Pro B Dresden Titans 77, BG Hessing Leitershofen 73",
+   "detected_at": "2026-11-01 01:18:44",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/Dresden-Titans-at-BG-Hessing-Leitershofen/525711"
+  },
+  {
+   "detail": "German Pro A PS Karlsruhe Lions 90, Artland Dragons 82",
+   "detected_at": "2026-11-01 01:18:39",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/PS-Karlsruhe-Lions-at-Artland-Dragons/528133"
+  },
+  {
+   "detail": "German Pro A ~ RETURN Dominik Dolic → Artland Dragons (from SC Rasta Vechta)",
+   "detected_at": "2026-11-01 01:18:35",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "German Pro B BG Hagen 91, SSV lok Bernau Alba 69",
+   "detected_at": "2026-11-01 01:18:32",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/SSV-lok-Bernau-Alba-at-BG-Hagen/525540"
+  },
+  {
+   "detail": "German Pro B ~ RETURN Nevio Bennefeld → SSV lok Bernau Alba (from ALBA Berlin)",
+   "detected_at": "2026-11-01 01:18:27",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "German Pro B + Noah Pany → BG Hagen",
+   "detected_at": "2026-11-01 01:18:27",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite Strasbourg IG 88, Cholet Basket 82",
+   "detected_at": "2026-11-01 01:18:24",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/Cholet-Basket-at-Strasbourg-IG/538606"
+  },
+  {
+   "detail": "French Jeep Elite + JeQuan Lewis → Cholet Basket",
+   "detected_at": "2026-11-01 01:18:18",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French LNB Espoirs Espoirs Limoges 75, Espoirs Boulazac 61",
+   "detected_at": "2026-11-01 01:18:15",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/Espoirs-Boulazac-at-Espoirs-Limoges/537613"
+  },
+  {
+   "detail": "French LNB Espoirs ~ RETURN Yanis Pierrot → Espoirs Boulazac (from Boulazac Basket Dordogne)",
+   "detected_at": "2026-11-01 01:18:10",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "French LNB Espoirs ~ RETURN Bastien Courant → Espoirs Boulazac (from Boulazac Basket Dordogne)",
+   "detected_at": "2026-11-01 01:18:10",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "French LNB Espoirs + Albin Boitrel → Espoirs Boulazac",
+   "detected_at": "2026-11-01 01:18:10",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French LNB Espoirs Espoirs Le Mans 93, Espoirs Pau Lacq Orthez 76",
+   "detected_at": "2026-11-01 01:18:06",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/Espoirs-Pau-Lacq-Orthez-at-Espoirs-Le-Mans/537612"
+  },
+  {
+   "detail": "French LNB Espoirs ~ RETURN Nathan Assira Engoute → Espoirs Pau Lacq Orthez (from Pau Orthez)",
+   "detected_at": "2026-11-01 01:18:03",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "French LNB Espoirs ~ RETURN Tyler Beracou → Espoirs Le Mans (from Le Mans Sarthe Basket)",
+   "detected_at": "2026-11-01 01:18:03",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "French LNB Espoirs ~ RETURN Madiba Diaby-Cisse → Espoirs Le Mans (from Le Mans Sarthe Basket)",
+   "detected_at": "2026-11-01 01:18:03",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "French LNB Espoirs Espoirs Cholet 67, Espoirs Strasbourg 58",
+   "detected_at": "2026-11-01 01:18:00",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/Espoirs-Cholet-at-Espoirs-Strasbourg/537611"
+  },
+  {
+   "detail": "French LNB Espoirs ~ RETURN Boubacar Traore → Espoirs Strasbourg (from Strasbourg IG)",
+   "detected_at": "2026-11-01 01:17:55",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "French LNB Espoirs ~ RETURN Miguell Nguidjol → Espoirs Strasbourg (from Strasbourg IG)",
+   "detected_at": "2026-11-01 01:17:55",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "French LNB Espoirs Espoirs Roanne 94, Espoirs Gravelines Dunkerque 79",
+   "detected_at": "2026-11-01 01:17:52",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/Espoirs-Roanne-at-Espoirs-Gravelines-Dunkerque/537614"
+  },
+  {
+   "detail": "French LNB Espoirs + Adrien Chammartin → Espoirs Gravelines Dunkerque",
+   "detected_at": "2026-11-01 01:17:49",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French LNB Espoirs ~ RETURN Moussa Boune → Espoirs Gravelines Dunkerque (from BCM Gravelines)",
+   "detected_at": "2026-11-01 01:17:49",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "French LNB Espoirs Espoirs Bourg en Bresse 94, Espoirs Nanterre 87",
+   "detected_at": "2026-11-01 01:17:46",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/Espoirs-Nanterre-at-Espoirs-Bourg-en-Bresse/537615"
+  },
+  {
+   "detail": "French LNB Espoirs + Karl Destoc → Espoirs Nanterre",
+   "detected_at": "2026-11-01 01:17:41",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French LNB Espoirs + Jeremy Gohier → Espoirs Nanterre",
+   "detected_at": "2026-11-01 01:17:41",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French LNB Espoirs ~ RETURN Leni Monnet → Espoirs Bourg en Bresse (from JL Bourg en Bresse)",
+   "detected_at": "2026-11-01 01:17:41",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite Chorale Roanne Basket 89, BCM Gravelines 69",
+   "detected_at": "2026-11-01 01:17:37",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/Chorale-Roanne-Basket-at-BCM-Gravelines/538603"
+  },
+  {
+   "detail": "French LNB Espoirs Espoirs Dijon 86, Espoirs Nancy 64",
+   "detected_at": "2026-11-01 01:17:28",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/Espoirs-Nancy-at-Espoirs-Dijon/537617"
+  },
+  {
+   "detail": "French LNB Espoirs ~ RETURN Axel Villain → Espoirs Nancy (from Nancy Basket)",
+   "detected_at": "2026-11-01 01:17:22",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "French LNB Espoirs ~ RETURN Kany N'Kouka → Espoirs Nancy (from Nancy Basket)",
+   "detected_at": "2026-11-01 01:17:22",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "French LNB Espoirs Espoirs Paris Basketball 88, Espoirs Chalon Saone 76",
+   "detected_at": "2026-11-01 01:17:19",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/Espoirs-Chalon-Saone-at-Espoirs-Paris-Basketball/537618"
+  },
+  {
+   "detail": "French LNB Espoirs ~ RETURN Riley Zizi → Espoirs Chalon Saone (from Chalon Sur Saone)",
+   "detected_at": "2026-11-01 01:17:15",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "French LNB Espoirs + Joeidy Mbonzo Mambu → Espoirs Paris Basketball",
+   "detected_at": "2026-11-01 01:17:15",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite Boulazac Basket Dordogne 99, CSP Limoges 89",
+   "detected_at": "2026-11-01 01:17:12",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/Boulazac-Basket-Dordogne-at-CSP-Limoges/538605"
+  },
+  {
+   "detail": "French Jeep Elite ~ MOVED Shannon Bogues → Boulazac Basket Dordogne (from Vikos Ioanninon)",
+   "detected_at": "2026-11-01 01:17:09",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite ~ RETURN Bastien Courant → Boulazac Basket Dordogne (from Espoirs Boulazac)",
+   "detected_at": "2026-11-01 01:17:09",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "French LNB Pro B ADA Blois Basket 93, JA Vichy 75",
+   "detected_at": "2026-11-01 01:17:06",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/JA-Vichy-at-ADA-Blois-Basket/537869"
+  },
+  {
+   "detail": "French LNB Pro B Orleans Loiret Basket 100, Quimper 71",
+   "detected_at": "2026-11-01 01:16:59",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/Quimper-at-Orleans-Loiret-Basket/537870"
+  },
+  {
+   "detail": "French LNB Pro B + Lionel Kouadio → Orleans Loiret Basket",
+   "detected_at": "2026-11-01 01:16:56",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite Le Mans Sarthe Basket 106, Pau Orthez 97",
+   "detected_at": "2026-11-01 01:16:53",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/Pau-Orthez-at-Le-Mans-Sarthe-Basket/538604"
+  },
+  {
+   "detail": "French Jeep Elite ~ MOVED Nathan Assira Engoute → Pau Orthez (from Espoirs Pau Lacq Orthez)",
+   "detected_at": "2026-11-01 01:16:51",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite ~ MOVED Nathan Kuta → Le Mans Sarthe Basket (from Maccabi Rishon Lezion)",
+   "detected_at": "2026-11-01 01:16:51",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Israeli BSL Ironi Ramat Gan 86, Hapoel HaEmek 77",
+   "detected_at": "2026-11-01 01:16:48",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/Ironi-Ramat-Gan-at-Hapoel-HaEmek/536916"
+  },
+  {
+   "detail": "German Pro B TSV Neustadt Temps Shooters 88, Hertener Loewen Basketball 75",
+   "detected_at": "2026-11-01 01:16:42",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/TSV-Neustadt-Temps-Shooters-at-Hertener-Loewen-Basketball/525537"
+  },
+  {
+   "detail": "German Pro B Bayer Giants Leverkusen 93, Dragons Rhoendorf 78",
+   "detected_at": "2026-11-01 01:16:36",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/Bayer-Giants-Leverkusen-at-Dragons-Rhoendorf/525710"
+  },
+  {
+   "detail": "German Pro B SC Rist Wedel 75, Art Giants Dusseldorf 73",
+   "detected_at": "2026-11-01 01:16:31",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/Art-Giants-Dusseldorf-at-SC-Rist-Wedel/525538"
+  },
+  {
+   "detail": "German Pro B ~ RETURN Jamil Muttilib → SC Rist Wedel (from Veolia Towers Hamburg)",
+   "detected_at": "2026-11-01 01:16:28",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "German Pro A Giessen 46ers 93, Walter Tigers Tubingen 82",
+   "detected_at": "2026-11-01 01:16:25",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/Walter-Tigers-Tubingen-at-Giessen-46ers/528132"
+  },
+  {
+   "detail": "German Pro B WWU Baskets Muenster 97, Seawolves Academy 72",
+   "detected_at": "2026-11-01 01:16:20",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/WWU-Baskets-Muenster-at-Seawolves-Academy/525536"
+  },
+  {
+   "detail": "German Pro A BG Gottingen 107, EPG GUARDIANS Koblenz 86",
+   "detected_at": "2026-11-01 01:16:15",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/EPG-GUARDIANS-Koblenz-at-BG-Gottingen/528131"
+  },
+  {
+   "detail": "German Pro A Eisbaren Bremerhaven 82, Nurnberg Falcons BC 75",
+   "detected_at": "2026-11-01 01:16:09",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/Nurnberg-Falcons-BC-at-Eisbaren-Bremerhaven/528130"
+  },
+  {
+   "detail": "German Pro B SC Itzehoe Eagles 73, BSW Sixers 72",
+   "detected_at": "2026-11-01 01:16:04",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/SC-Itzehoe-Eagles-at-BSW-Sixers/525535"
+  },
+  {
+   "detail": "German Pro A Bozic Estriche Knights Kirchheim 72, MLP Academics Heidelberg 64",
+   "detected_at": "2026-11-01 01:15:59",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/MLP-Academics-Heidelberg-at-Bozic-Estriche-Knights-Kirchheim/528129"
+  },
+  {
+   "detail": "Finnish Korisliiga Joensuun Kataja 101, Kauhajoki Karhu 80",
+   "detected_at": "2026-11-01 01:15:54",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/Kauhajoki-Karhu-at-Joensuun-Kataja/535078"
+  },
+  {
+   "detail": "Finnish Korisliiga ~ MOVED Marco Anthony → Kauhajoki Karhu (from Santos de San Luis Potosi)",
+   "detected_at": "2026-11-01 01:15:51",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Finnish Korisliiga + Jeremiah Bailey → Joensuun Kataja",
+   "detected_at": "2026-11-01 01:15:51",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Finnish Korisliiga Kipina 96, Nilan Bisons 73",
+   "detected_at": "2026-11-01 01:15:48",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/Kipina-at-Nilan-Bisons/535077"
+  },
+  {
    "detail": "BNXT League Telenet BC Oostende 66, Stella Artois Leuven Bears 54",
    "detected_at": "2026-10-31 23:59:26",
    "source": "SCORES",
@@ -9863,426 +10283,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Spanish ACB Barca 99, Casademont Zaragoza 81",
-   "detected_at": "2026-10-26 10:47:46",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-24/Casademont-Zaragoza-at-Barca/533449"
-  },
-  {
-   "detail": "Spanish ACB ~ MOVED Carlos Alias → Casademont Zaragoza (from Casademont Zaragoza Liga U)",
-   "detected_at": "2026-10-26 10:47:44",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish ACB + Juan Garcia Correa → Casademont Zaragoza",
-   "detected_at": "2026-10-26 10:47:44",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French LNB Espoirs Espoirs Limoges 81, Espoirs Pau Lacq Orthez 79",
-   "detected_at": "2026-10-26 10:47:41",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-24/Espoirs-Limoges-at-Espoirs-Pau-Lacq-Orthez/537606"
-  },
-  {
-   "detail": "French LNB Espoirs Espoirs Strasbourg 85, Espoirs Chalon Saone 80",
-   "detected_at": "2026-10-26 10:47:36",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-24/Espoirs-Strasbourg-at-Espoirs-Chalon-Saone/537605"
-  },
-  {
-   "detail": "French LNB Espoirs ~ RETURN Antoine Darsonville → Espoirs Chalon Saone (from Chalon Sur Saone)",
-   "detected_at": "2026-10-26 10:47:34",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "French LNB Espoirs ~ RETURN Riley Zizi → Espoirs Chalon Saone (from Chalon Sur Saone)",
-   "detected_at": "2026-10-26 10:47:34",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "French LNB Espoirs + Luqman Kada → Espoirs Chalon Saone",
-   "detected_at": "2026-10-26 10:47:34",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French LNB Espoirs + Chris Chavoudiga → Espoirs Chalon Saone",
-   "detected_at": "2026-10-26 10:47:34",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French LNB Espoirs + Antonin Liard-Bulou → Espoirs Chalon Saone",
-   "detected_at": "2026-10-26 10:47:34",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Hungarian NBIA Atomeromu SE 95, Kometa KVGY Kaposvari KK 76",
-   "detected_at": "2026-10-26 10:47:31",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-24/Atomeromu-SE-at-Kometa-KVGY-Kaposvari-KK/535388"
-  },
-  {
-   "detail": "Hungarian NBIA Phoenix MT Fot 79, Alba Fehervar 67",
-   "detected_at": "2026-10-26 10:47:27",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-24/Alba-Fehervar-at-Phoenix-MT-Fot/535386"
-  },
-  {
-   "detail": "Hungarian NBIA NKA Universitas Pecs 88, Egis Kormend 75",
-   "detected_at": "2026-10-26 10:47:22",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-24/Egis-Kormend-at-NKA-Universitas-Pecs/535383"
-  },
-  {
-   "detail": "Hungarian NBIA SZTE Szedeak 91, DEAC 82",
-   "detected_at": "2026-10-26 10:47:17",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-24/DEAC-at-SZTE-Szedeak/535384"
-  },
-  {
-   "detail": "Hungarian NBIA + Robert Sagodi → DEAC",
-   "detected_at": "2026-10-26 10:47:15",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Danish Basketligaen Team FOG Naestved 99, Gladsaxe Basketball Klub 67",
-   "detected_at": "2026-10-26 10:47:12",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-24/Team-FOG-Naestved-at-Gladsaxe-Basketball-Klub/530336"
-  },
-  {
-   "detail": "Danish Basketligaen + Eskild Sorensen → Gladsaxe Basketball Klub",
-   "detected_at": "2026-10-26 10:47:09",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Pro B SSV lok Bernau Alba 84, Iserlohn Kangaroos 83",
-   "detected_at": "2026-10-26 10:47:07",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-24/SSV-lok-Bernau-Alba-at-Iserlohn-Kangaroos/525528"
-  },
-  {
-   "detail": "German Pro B + Sancho Kruse → SSV lok Bernau Alba",
-   "detected_at": "2026-10-26 10:47:04",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Pro B ~ MOVED Nevio Bennefeld → SSV lok Bernau Alba (from ALBA Berlin)",
-   "detected_at": "2026-10-26 10:47:04",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
-  },
-  {
-   "detail": "German Pro B ~ RETURN Richard Schmitt → SSV lok Bernau Alba (from ALBA Berlin)",
-   "detected_at": "2026-10-26 10:47:04",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "Bulgarian NBL Euroins Cherno More 95, CSKA Sofia 62",
-   "detected_at": "2026-10-26 10:47:01",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-24/Euroins-Cherno-More-at-CSKA-Sofia/539874"
-  },
-  {
-   "detail": "Bulgarian NBL + Denijay Harris → Euroins Cherno More",
-   "detected_at": "2026-10-26 10:46:59",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Bulgarian NBL + Christopher Uzunov → Euroins Cherno More",
-   "detected_at": "2026-10-26 10:46:59",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Bulgarian NBL + Boris Milenov → CSKA Sofia",
-   "detected_at": "2026-10-26 10:46:59",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL Grodno 93 81, Rubon 59",
-   "detected_at": "2026-10-26 10:46:56",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-24/Rubon-at-Grodno-93/544770"
-  },
-  {
-   "detail": "Belarusian BPL ~ RETURN Kirill Luzan → Rubon (from Rubon 2)",
-   "detected_at": "2026-10-26 10:46:54",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL ~ RETURN Ilya Vasilevsky → Rubon (from Rubon 2)",
-   "detected_at": "2026-10-26 10:46:54",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL ~ RETURN Andrey Velesik → Rubon (from Rubon 2)",
-   "detected_at": "2026-10-26 10:46:54",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL ~ RETURN Zakhar Linderov → Rubon (from Rubon 2)",
-   "detected_at": "2026-10-26 10:46:54",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL Brest Region 76, Grondo GrGU 57",
-   "detected_at": "2026-10-26 10:46:51",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-24/Grondo-GrGU-at-Brest-Region/544771"
-  },
-  {
-   "detail": "Belarusian BPL + Evgeny Kryshalovich → Grondo GrGU",
-   "detected_at": "2026-10-26 10:46:48",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Bulgarian NBL Akademik Bulteks 99 Plovdiv 85, Botev 2012 73",
-   "detected_at": "2026-10-26 10:46:46",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-24/Akademik-Bulteks-99-Plovdiv-at-Botev-2012/539872"
-  },
-  {
-   "detail": "Bulgarian NBL + Andrey Chalakov → Akademik Bulteks 99 Plovdiv",
-   "detected_at": "2026-10-26 10:46:44",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Bulgarian NBL + Stanimir Stefanov → Akademik Bulteks 99 Plovdiv",
-   "detected_at": "2026-10-26 10:46:44",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Bulgarian NBL Lokomotiv Plovdiv 87, Polytechnica 65",
-   "detected_at": "2026-10-26 10:46:41",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-24/Polytechnica-at-Lokomotiv-Plovdiv/539871"
-  },
-  {
-   "detail": "Bulgarian NBL + Dimitar Chelenkov → Polytechnica",
-   "detected_at": "2026-10-26 10:46:39",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Bulgarian NBL + Miroslav Lilov → Lokomotiv Plovdiv",
-   "detected_at": "2026-10-26 10:46:39",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Turkish TBL Harem Spor 72, Aykon TED Kolejliler Ankara 66",
-   "detected_at": "2026-10-26 10:46:36",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-24/Harem-Spor-at-Aykon-TED-Kolejliler-Ankara/534780"
-  },
-  {
-   "detail": "Turkish TBL ~ MOVED Deniz Genc Alihan → Harem Spor (from Ormanspor Genc Ankara)",
-   "detected_at": "2026-10-26 10:46:35",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
-  },
-  {
-   "detail": "Romanian Divizia A CS Rapid Bucuresti 88, CS Municipal Ploiesti 72",
-   "detected_at": "2026-10-26 10:46:32",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-24/CS-Rapid-Bucuresti-at-CS-Municipal-Ploiesti/538818"
-  },
-  {
-   "detail": "Romanian Divizia A + Andrei Oinaru → CS Rapid Bucuresti",
-   "detected_at": "2026-10-26 10:46:31",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Romanian Divizia A + Andrei-Sebastian Ciulin → CS Municipal Ploiesti",
-   "detected_at": "2026-10-26 10:46:31",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Argentinian Liga A Quimsa 68, Racing de Chivilcoy 54",
-   "detected_at": "2026-10-26 10:46:26",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-25/Quimsa-at-Racing-de-Chivilcoy/542044"
-  },
-  {
-   "detail": "South Korean KBL Seoul SK 90, Suwon KT Sonicboom 79",
-   "detected_at": "2026-10-26 10:46:21",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-25/Suwon-KT-Sonicboom-at-Seoul-SK/530386"
-  },
-  {
-   "detail": "South Korean KBL Wonju Dongbu Promy 95, Anyang Kwan Jang 93",
-   "detected_at": "2026-10-26 10:46:16",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-25/Wonju-Dongbu-Promy-at-Anyang-Kwan-Jang/530387"
-  },
-  {
-   "detail": "South Korean KBL ~ RETURN Daeheon Lee → Anyang Kwan Jang (from Ulsan Mobis Phoebus)",
-   "detected_at": "2026-10-26 10:46:14",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "South Korean KBL Seoul Samsung Thunders 76, Korea Gas Corporation 68",
-   "detected_at": "2026-10-26 10:46:12",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-25/Seoul-Samsung-Thunders-at-Korea-Gas-Corporation/530388"
-  },
-  {
-   "detail": "Spanish Segunda FEB Spanish Basketball Academy 79, Movistar Estudiantes 69",
-   "detected_at": "2026-10-26 10:46:06",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-25/Movistar-Estudiantes-at-Spanish-Basketball-Academy/527607"
-  },
-  {
-   "detail": "Spanish ACB Real Madrid 122, Forca Lleida CE 86",
-   "detected_at": "2026-10-26 10:46:01",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-25/Real-Madrid-at-Forca-Lleida-CE/533454"
-  },
-  {
-   "detail": "Spanish ACB ~ RETURN Pau Torrens → Forca Lleida CE (from Lleida Liga U)",
-   "detected_at": "2026-10-26 10:45:59",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "Spanish ACB Unicaja 103, Rio Breogan 90",
-   "detected_at": "2026-10-26 10:45:57",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-25/Unicaja-at-Rio-Breogan/533453"
-  },
-  {
-   "detail": "Spanish ACB Valencia Basket 84, Baskonia 75",
-   "detected_at": "2026-10-26 10:45:52",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-25/Baskonia-at-Valencia-Basket/533452"
-  },
-  {
-   "detail": "Spanish ACB CB Girona 101, Joventut Badalona 87",
-   "detected_at": "2026-10-26 10:45:47",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-25/Joventut-Badalona-at-CB-Girona/533447"
-  },
-  {
-   "detail": "Spanish ACB ~ MOVED Gregor Glas → CB Girona (from Samobor)",
-   "detected_at": "2026-10-26 10:45:45",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish ACB Bilbao Basket 88, MoraBanc Andorra 76",
-   "detected_at": "2026-10-26 10:45:42",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-25/MoraBanc-Andorra-at-Bilbao-Basket/533450"
-  },
-  {
-   "detail": "Adriatic League Liga ABA KK Zadar 95, Ilirija 70",
-   "detected_at": "2026-10-26 10:45:37",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-25/Ilirija-at-KK-Zadar/537354"
-  },
-  {
-   "detail": "Italian Lega Basket Serie A Maxima Roma 81, Old Wild West Udine 75",
-   "detected_at": "2026-10-26 10:45:32",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-25/Old-Wild-West-Udine-at-Maxima-Roma/529588"
-  },
-  {
-   "detail": "Italian Lega Basket Serie A Pallacanestro Trieste 2004 108, Tezenis Scaligera Verona 99",
-   "detected_at": "2026-10-26 10:45:27",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-25/Tezenis-Scaligera-Verona-at-Pallacanestro-Trieste-2004/529590"
-  },
-  {
-   "detail": "Italian Lega Basket Serie A + Milan Barbitch → Tezenis Scaligera Verona",
-   "detected_at": "2026-10-26 10:45:25",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10303,12 +10303,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 10842,
-   "last": "2026-10-31 23:59:23"
+   "count": 10872,
+   "last": "2026-11-01 01:18:47"
   },
   "SCORES": {
-   "count": 3415,
-   "last": "2026-10-31 23:59:26"
+   "count": 3445,
+   "last": "2026-11-01 01:18:55"
   },
   "SHEETS": {
    "count": 5212,
@@ -10327,6 +10327,6 @@
    "last": "2026-10-31 17:11:51"
   }
  },
- "generated_at": "2026-11-01T00:48:28",
- "total": 36051
+ "generated_at": "2026-11-01T01:19:24",
+ "total": 36111
 }
