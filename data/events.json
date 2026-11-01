@@ -1,6 +1,62 @@
 {
  "events": [
   {
+   "detail": "Caleb Houstan  ~ number: - -> 33",
+   "detected_at": "2026-11-01 19:25:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Caleb_Houstan"
+  },
+  {
+   "detail": "E. J. Liddell  ~ position: Power forward -> Power forward / small forward",
+   "detected_at": "2026-11-01 19:25:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/E._J._Liddell"
+  },
+  {
+   "detail": "Adam Mokoka  ~ position: Shooting guard -> Shooting guard / small forward",
+   "detected_at": "2026-11-01 19:25:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Adam_Mokoka"
+  },
+  {
+   "detail": "Matt Morgan (basketball)  ~ position: Point guard / shooting guard -> Shooting guard / point guard",
+   "detected_at": "2026-11-01 19:25:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Matt_Morgan_(basketball)"
+  },
+  {
+   "detail": "Sebastián Herrera (basketball)  ~ position: Shooting guard -> Shooting guard / small forward",
+   "detected_at": "2026-11-01 19:25:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Sebasti%C3%A1n_Herrera_(basketball)"
+  },
+  {
+   "detail": "Vassilis Toliopoulos  ~ position: Shooting guard / point guard -> Point guard / shooting guard",
+   "detected_at": "2026-11-01 19:25:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Vassilis_Toliopoulos"
+  },
+  {
+   "detail": "Lefteris Bochoridis  ~ position: Small forward / guard -> Guard / small forward",
+   "detected_at": "2026-11-01 19:25:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Lefteris_Bochoridis"
+  },
+  {
+   "detail": "EJ Liddell  ~ 107392: position -> Power forward",
+   "detected_at": "2026-11-01 19:17:16",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Power forward / small forward"
+  },
+  {
    "detail": "Mark Sears  ~ number: - -> 19",
    "detected_at": "2026-11-01 18:22:35",
    "source": "WIKI",
@@ -10318,62 +10374,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "South Korean KBL Changwon LG Sakers 109, Goyang Sono Skygunners 107",
-   "detected_at": "2026-10-27 09:32:52",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-26/Changwon-LG-Sakers-at-Goyang-Sono-Skygunners/530389"
-  },
-  {
-   "detail": "South Korean KBL + Seokho Jo → Goyang Sono Skygunners",
-   "detected_at": "2026-10-27 09:32:50",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "VTB United League Zenit Saint Petersburg 94, Enisey Krasnoyarsk 86",
-   "detected_at": "2026-10-27 09:32:47",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-26/Enisey-Krasnoyarsk-at-Zenit-Saint-Petersburg/533307"
-  },
-  {
-   "detail": "Serbian KLS KK Sloboda Uzice 95, OKK Beograd 75",
-   "detected_at": "2026-10-27 09:32:43",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-26/KK-Sloboda-Uzice-at-OKK-Beograd/545184"
-  },
-  {
-   "detail": "Serbian KLS ~ RETURN Vasilije Jovanovic → KK Sloboda Uzice (from SL Takovo Leotar)",
-   "detected_at": "2026-10-27 09:32:41",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS + Petar Andic → KK Sloboda Uzice",
-   "detected_at": "2026-10-27 09:32:41",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "E.J. Walker Indiana 79, Western Kentucky 74",
-   "detected_at": "2026-10-27 06:12:26",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-10-25/Western-Kentucky-at-Indiana/546198"
-  },
-  {
-   "detail": "WNBA Golden State Valkyries 64, Atlanta Dream 55",
-   "detected_at": "2026-10-27 06:12:21",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/wnba/boxscore/2026-10-26/Atlanta-at-Golden-State/161834"
   }
  ],
  "feeds": {
@@ -10410,14 +10410,14 @@
    "last": "2026-10-29 18:31:33"
   },
   "WIKI": {
-   "count": 7392,
-   "last": "2026-11-01 18:22:35"
+   "count": 7399,
+   "last": "2026-11-01 19:25:35"
   },
   "WIKIWATCH": {
-   "count": 578,
-   "last": "2026-10-31 17:11:51"
+   "count": 579,
+   "last": "2026-11-01 19:17:16"
   }
  },
- "generated_at": "2026-11-01T19:00:39",
- "total": 36406
+ "generated_at": "2026-11-01T19:26:02",
+ "total": 36414
 }
