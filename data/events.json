@@ -1,6 +1,18 @@
 {
  "events": [
   {
+   "detail": "2026-10-17  Houston Rockets waived guard Bryce Harris.",
+   "detected_at": "2026-11-02 19:49:32",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-10-17  Oklahoma City Thunder waived guard Nate Johnson.",
+   "detected_at": "2026-11-02 19:49:32",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
    "detail": "Patty Mills  ~ birth_date: (Shares a Birthdate with Rocco Sinipoli) -> -",
    "detected_at": "2026-11-02 19:30:46",
    "source": "WIKI",
@@ -10352,20 +10364,6 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Orhan_Ayd%C4%B1n"
-  },
-  {
-   "detail": "Orhan Aydın  ~ CAREER  + 2025–2026 Bandırma Bordo",
-   "detected_at": "2026-10-28 15:55:38",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Orhan_Ayd%C4%B1n"
-  },
-  {
-   "detail": "Orhan Aydın  ~ CAREER  + 2026–present Sabah BC",
-   "detected_at": "2026-10-28 15:55:38",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Orhan_Ayd%C4%B1n"
   }
  ],
  "feeds": {
@@ -10398,8 +10396,8 @@
    "last": "2026-11-02 19:23:33"
   },
   "TRANSACTIONS": {
-   "count": 685,
-   "last": "2026-11-02 19:23:25"
+   "count": 687,
+   "last": "2026-11-02 19:49:32"
   },
   "WIKI": {
    "count": 7486,
@@ -10410,6 +10408,6 @@
    "last": "2026-11-01 19:17:16"
   }
  },
- "generated_at": "2026-11-02T19:30:47",
- "total": 36777
+ "generated_at": "2026-11-02T19:56:37",
+ "total": 36779
 }
