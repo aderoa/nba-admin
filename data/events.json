@@ -1,6 +1,97 @@
 {
  "events": [
   {
+   "detail": "Spanish ACB Barca 92, Unicaja 89",
+   "detected_at": "2026-11-02 10:06:18",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-01/Barca-at-Unicaja/533463"
+  },
+  {
+   "detail": "Spanish ACB Valencia Basket 111, MoraBanc Andorra 79",
+   "detected_at": "2026-11-02 10:06:13",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-01/Valencia-Basket-at-MoraBanc-Andorra/533462"
+  },
+  {
+   "detail": "Spanish ACB ~ MOVED Lucas Mari Tardio → Valencia Basket (from Valencia Liga U)",
+   "detected_at": "2026-11-02 10:06:10",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB Baskonia 106, BAXI Manresa 83",
+   "detected_at": "2026-11-02 10:06:08",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-01/BAXI-Manresa-at-Baskonia/533461"
+  },
+  {
+   "detail": "Spanish ACB ~ MOVED Jan Pumarola → BAXI Manresa (from BAXI Manresa Liga U)",
+   "detected_at": "2026-11-02 10:06:05",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB Real Madrid 90, Siblo San Pablo Burgos 79",
+   "detected_at": "2026-11-02 10:06:02",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-01/Siblo-San-Pablo-Burgos-at-Real-Madrid/533460"
+  },
+  {
+   "detail": "Spanish ACB Rio Breogan 110, Monbus Obradoiro 90",
+   "detected_at": "2026-11-02 10:05:56",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-01/Rio-Breogan-at-Monbus-Obradoiro/533459"
+  },
+  {
+   "detail": "VTB United League Lokomotiv Kuban 107, UNICS Kazan 80",
+   "detected_at": "2026-11-02 10:05:50",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-01/UNICS-Kazan-at-Lokomotiv-Kuban/533311"
+  },
+  {
+   "detail": "VTB United League MBA Moscow 106, Enisey Krasnoyarsk 99",
+   "detected_at": "2026-11-02 10:05:45",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-01/MBA-Moscow-at-Enisey-Krasnoyarsk/533312"
+  },
+  {
+   "detail": "VTB United League + Sergey Balashov → MBA Moscow",
+   "detected_at": "2026-11-02 10:05:42",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish Segunda FEB Biele ISB 80, Amics Castello 74",
+   "detected_at": "2026-11-02 10:05:40",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-01/Biele-ISB-at-Amics-Castello/527791"
+  },
+  {
+   "detail": "Japanese BLeague Levanga Hokkaido 96, Ibaraki Robots 88",
+   "detected_at": "2026-11-02 10:05:35",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-01/Levanga-Hokkaido-at-Ibaraki-Robots/524802"
+  },
+  {
+   "detail": "Japanese BLeague Kobe Storks 90, Nagasaki Velca 87",
+   "detected_at": "2026-11-02 10:05:29",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-01/Nagasaki-Velca-at-Kobe-Storks/524801"
+  },
+  {
    "detail": "Adam Mokoka  ~ position: Shooting guard / small forward -> Shooting guard",
    "detected_at": "2026-11-02 08:30:37",
    "source": "WIKI",
@@ -10307,97 +10398,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-10-27/San-Miguel-Beermen-at-Barangay-Ginebra-Kings/546207"
-  },
-  {
-   "detail": "Estonian Latvian Basketball League Rigas Ekselences Juniori 89, Keila Coolbet 82",
-   "detected_at": "2026-10-28 06:20:57",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-28/Rigas-Ekselences-Juniori-at-Keila-Coolbet/537091"
-  },
-  {
-   "detail": "Estonian Latvian Basketball League ~ MOVED Renars Jasans → Rigas Ekselences Juniori (from BK Liepaja)",
-   "detected_at": "2026-10-28 06:20:55",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
-  },
-  {
-   "detail": "John Poulakidas  ~ CAREER  + 2025–2026 San Diego Clippers",
-   "detected_at": "2026-10-28 06:20:50",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/John_Poulakidas"
-  },
-  {
-   "detail": "John Poulakidas  ~ CAREER  + 2026 →Texas Legends",
-   "detected_at": "2026-10-28 06:20:50",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/John_Poulakidas"
-  },
-  {
-   "detail": "John Poulakidas  ~ CAREER  + 2026–present San Diego Clippers",
-   "detected_at": "2026-10-28 06:20:50",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/John_Poulakidas"
-  },
-  {
-   "detail": "Enrique Freeman  ~ team: Free agent -> Minnesota Timberwolves",
-   "detected_at": "2026-10-28 06:20:50",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Enrique_Freeman"
-  },
-  {
-   "detail": "Enrique Freeman  ~ league: - -> NBA",
-   "detected_at": "2026-10-28 06:20:50",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Enrique_Freeman"
-  },
-  {
-   "detail": "Enrique Freeman  ~ number: - -> 25",
-   "detected_at": "2026-10-28 06:20:50",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Enrique_Freeman"
-  },
-  {
-   "detail": "Enrique Freeman  ~ CAREER  + –present Minnesota Timberwolves",
-   "detected_at": "2026-10-28 06:20:50",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Enrique_Freeman"
-  },
-  {
-   "detail": "Enrique Freeman  ~ CAREER  + 2025–present →Iowa Wolves",
-   "detected_at": "2026-10-28 06:20:50",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Enrique_Freeman"
-  },
-  {
-   "detail": "Byron Mullens  ~ team: Manawatu Jets -> Free agent",
-   "detected_at": "2026-10-28 06:20:50",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Byron_Mullens"
-  },
-  {
-   "detail": "Byron Mullens  ~ league: NZNBL -> -",
-   "detected_at": "2026-10-28 06:20:50",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Byron_Mullens"
-  },
-  {
-   "detail": "Byron Mullens  ~ number: 5 -> -",
-   "detected_at": "2026-10-28 06:20:50",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Byron_Mullens"
   }
  ],
  "feeds": {
@@ -10418,12 +10418,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 11014,
-   "last": "2026-11-02 08:03:56"
+   "count": 11017,
+   "last": "2026-11-02 10:06:10"
   },
   "SCORES": {
-   "count": 3646,
-   "last": "2026-11-02 08:03:58"
+   "count": 3656,
+   "last": "2026-11-02 10:06:18"
   },
   "SHEETS": {
    "count": 5212,
@@ -10442,6 +10442,6 @@
    "last": "2026-11-01 19:17:16"
   }
  },
- "generated_at": "2026-11-02T10:03:38",
- "total": 36579
+ "generated_at": "2026-11-02T10:06:45",
+ "total": 36592
 }
