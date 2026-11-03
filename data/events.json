@@ -1,6 +1,41 @@
 {
  "events": [
   {
+   "detail": "NCAA North Texas 122, Southwestern Christian OK 50",
+   "detected_at": "2026-11-03 14:22:12",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Southwestern-Christian-OK-at-North-Texas/542898"
+  },
+  {
+   "detail": "NCAA Florida State 112, Florida AM 69",
+   "detected_at": "2026-11-03 14:22:06",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Florida-AM-at-Florida-State/530415"
+  },
+  {
+   "detail": "NCAA Grand Canyon 103, Texas Southern 79",
+   "detected_at": "2026-11-03 14:22:01",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Texas-Southern-at-Grand-Canyon/532470"
+  },
+  {
+   "detail": "NCAA Memphis 80, Iowa State 76",
+   "detected_at": "2026-11-03 14:21:55",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Memphis-at-Iowa-State/530403"
+  },
+  {
+   "detail": "Basketball Africa League Qualification Ferroviario de Beira 100, Dolphins BC 68",
+   "detected_at": "2026-11-03 14:21:27",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-03/Ferroviario-de-Beira-at-Dolphins-BC/546342"
+  },
+  {
    "detail": "NCAA Eastern Kentucky 105, Kentucky Christian 54",
    "detected_at": "2026-11-03 13:20:01",
    "source": "SCORES",
@@ -10360,41 +10395,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-10-29/Vytis-Zanavykas-Sakiai-at-Silute/546080"
-  },
-  {
-   "detail": "Lithuanian NKL Telsiai 100, Kauno LKKA Atletas 76",
-   "detected_at": "2026-10-30 09:12:49",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-29/Kauno-LKKA-Atletas-at-Telsiai/546079"
-  },
-  {
-   "detail": "Lithuanian NKL Marijampole Suduva Arvi 109, Mazeikiai 85",
-   "detected_at": "2026-10-30 09:12:44",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-29/Marijampole-Suduva-Arvi-at-Mazeikiai/546078"
-  },
-  {
-   "detail": "N'Faly Dante  ~ number: 16 -> 12",
-   "detected_at": "2026-10-30 09:12:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/N'Faly_Dante"
-  },
-  {
-   "detail": "N'Faly Dante  ~ weight_lb: 262 -> 230",
-   "detected_at": "2026-10-30 09:12:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/N'Faly_Dante"
-  },
-  {
-   "detail": "Dexter Dennis  ~ CAREER  + 2026–present Shimane Susanoo Magic",
-   "detected_at": "2026-10-30 09:12:35",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Dexter_Dennis"
   }
  ],
  "feeds": {
@@ -10419,8 +10419,8 @@
    "last": "2026-11-03 09:56:16"
   },
   "SCORES": {
-   "count": 3914,
-   "last": "2026-11-03 13:20:01"
+   "count": 3919,
+   "last": "2026-11-03 14:22:12"
   },
   "SHEETS": {
    "count": 5240,
@@ -10439,6 +10439,6 @@
    "last": "2026-11-03 12:28:51"
   }
  },
- "generated_at": "2026-11-03T14:19:29",
- "total": 37103
+ "generated_at": "2026-11-03T14:22:15",
+ "total": 37108
 }
