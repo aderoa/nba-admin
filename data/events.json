@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Troy Caupain  ~ team: Free agent -> Pallacanestro Reggiana",
+   "detected_at": "2026-11-03 08:48:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Troy_Caupain"
+  },
+  {
+   "detail": "Troy Caupain  ~ league: - -> LBA",
+   "detected_at": "2026-11-03 08:48:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Troy_Caupain"
+  },
+  {
    "detail": "NCAA Cal Poly 78, Cal State San Marcos 62",
    "detected_at": "2026-11-03 08:19:38",
    "source": "SCORES",
@@ -10381,20 +10395,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Kevin_Knox_II"
-  },
-  {
-   "detail": "Kevin Knox II  ~ league: NBA G League -> Liga ACB BCL",
-   "detected_at": "2026-10-29 20:17:37",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Kevin_Knox_II"
-  },
-  {
-   "detail": "Kevin Knox II  ~ number: 24 -> 11",
-   "detected_at": "2026-10-29 20:17:37",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Kevin_Knox_II"
   }
  ],
  "feeds": {
@@ -10431,14 +10431,14 @@
    "last": "2026-11-02 21:43:22"
   },
   "WIKI": {
-   "count": 7528,
-   "last": "2026-11-03 06:49:37"
+   "count": 7530,
+   "last": "2026-11-03 08:48:37"
   },
   "WIKIWATCH": {
    "count": 579,
    "last": "2026-11-01 19:17:16"
   }
  },
- "generated_at": "2026-11-03T08:19:42",
- "total": 37008
+ "generated_at": "2026-11-03T08:48:38",
+ "total": 37010
 }
