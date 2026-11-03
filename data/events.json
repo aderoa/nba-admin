@@ -1,6 +1,62 @@
 {
  "events": [
   {
+   "detail": "Argentinian Liga A Penarol 87, Ciclista Olimpico 74",
+   "detected_at": "2026-11-03 17:59:02",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-02/Penarol-at-Ciclista-Olimpico/544889"
+  },
+  {
+   "detail": "Brazilian NBB Pinheiros Sky 91, Caxias Do Sul Basquetetriches 53",
+   "detected_at": "2026-11-03 17:58:56",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-02/Caxias-Do-Sul-Basquetetriches-at-Pinheiros-Sky/545135"
+  },
+  {
+   "detail": "Brazilian NBB + Gustavo Avles Fernandes → Caxias Do Sul Basquetetriches",
+   "detected_at": "2026-11-03 17:58:53",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Brazilian NBB Botafogo FR 77, Uniceub BRB Brasilia 76",
+   "detected_at": "2026-11-03 17:58:50",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-02/Botafogo-FR-at-Uniceub-BRB-Brasilia/545136"
+  },
+  {
+   "detail": "Brazilian NBB + Lathaniel Bastian → Uniceub BRB Brasilia",
+   "detected_at": "2026-11-03 17:58:47",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian LKL Kedainiai Nevezis 87, Gargzdu Gargzdai 76",
+   "detected_at": "2026-11-03 17:58:44",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-02/Gargzdu-Gargzdai-at-Kedainiai-Nevezis/532734"
+  },
+  {
+   "detail": "Lithuanian LKL ~ RETURN Jacob Wiley → Kedainiai Nevezis (from Ironi Nes Ziona)",
+   "detected_at": "2026-11-03 17:58:41",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian LKL Zalgiris 94, Lietuvos Rytas 89",
+   "detected_at": "2026-11-03 17:58:38",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-02/Zalgiris-at-Lietuvos-Rytas/532733"
+  },
+  {
    "detail": "Ben Saraf  ~ team: Brooklyn Nets -> Long Island Nets",
    "detected_at": "2026-11-03 17:55:35",
    "source": "WIKI",
@@ -10321,62 +10377,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Jamarr_Sanders"
-  },
-  {
-   "detail": "Jamarr Sanders  ~ number: 42 -> -",
-   "detected_at": "2026-10-30 13:09:33",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jamarr_Sanders"
-  },
-  {
-   "detail": "Jamarr Sanders  ~ CAREER  + 2022–2023 Tezenis Verona",
-   "detected_at": "2026-10-30 13:09:33",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Jamarr_Sanders"
-  },
-  {
-   "detail": "Shavon Shields  ~ 42333: team -> Fenerbahçe Tarfin",
-   "detected_at": "2026-10-30 12:46:47",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "Fenerbahçe"
-  },
-  {
-   "detail": "Will Clyburn  ~ 22382: team -> Fenerbahçe Tarfin",
-   "detected_at": "2026-10-30 12:46:47",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "Fenerbahçe"
-  },
-  {
-   "detail": "Trent Forrest  ~ 85602: team -> Fenerbahçe Tarfin",
-   "detected_at": "2026-10-30 12:46:47",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "Fenerbahçe"
-  },
-  {
-   "detail": "Shane Larkin  ~ team: Fenerbahçe Tarfin -> Fenerbahçe",
-   "detected_at": "2026-10-30 12:46:33",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Shane_Larkin"
-  },
-  {
-   "detail": "Talen Horton-Tucker  ~ team: Fenerbahçe Tarfin -> Fenerbahçe",
-   "detected_at": "2026-10-30 12:46:33",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Talen_Horton-Tucker"
-  },
-  {
-   "detail": "Nicolò Melli  ~ team: Fenerbahçe Tarfin -> Fenerbahçe",
-   "detected_at": "2026-10-30 12:46:33",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Nicol%C3%B2_Melli"
   }
  ],
  "feeds": {
@@ -10397,12 +10397,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 11101,
-   "last": "2026-11-03 16:56:54"
+   "count": 11104,
+   "last": "2026-11-03 17:58:53"
   },
   "SCORES": {
-   "count": 3932,
-   "last": "2026-11-03 16:57:03"
+   "count": 3937,
+   "last": "2026-11-03 17:59:02"
   },
   "SHEETS": {
    "count": 5240,
@@ -10421,6 +10421,6 @@
    "last": "2026-11-03 12:28:51"
   }
  },
- "generated_at": "2026-11-03T17:57:23",
- "total": 37150
+ "generated_at": "2026-11-03T17:59:31",
+ "total": 37158
 }
