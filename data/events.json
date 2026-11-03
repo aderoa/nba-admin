@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Brazilian NBB Sao Jose Unimed Vinac 96, Basquete Cearense 53",
+   "detected_at": "2026-11-03 19:00:18",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-02/Basquete-Cearense-at-Sao-Jose-Unimed-Vinac/545137"
+  },
+  {
+   "detail": "Brazilian NBB + Jackson Oliveira → Sao Jose Unimed Vinac",
+   "detected_at": "2026-11-03 19:00:15",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Brazilian NBB + Jonathan Andrade da Silva → Sao Jose Unimed Vinac",
+   "detected_at": "2026-11-03 19:00:15",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
    "detail": "Willy Hernangómez  ~ CAREER  + 2013–2015 →Sevilla",
    "detected_at": "2026-11-03 18:51:35",
    "source": "WIKI",
@@ -10356,27 +10377,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Onuralp_Bitim"
-  },
-  {
-   "detail": "Onuralp Bitim  ~ height_in: 6 -> -",
-   "detected_at": "2026-10-30 13:09:33",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Onuralp_Bitim"
-  },
-  {
-   "detail": "Chris Silva  ~ team: Fenerbahçe Tarfin -> Fenerbahçe",
-   "detected_at": "2026-10-30 13:09:33",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Chris_Silva"
-  },
-  {
-   "detail": "Braxton Key  ~ team: Fenerbahçe Tarfin -> Fenerbahçe",
-   "detected_at": "2026-10-30 13:09:33",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Braxton_Key"
   }
  ],
  "feeds": {
@@ -10397,12 +10397,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 11104,
-   "last": "2026-11-03 17:58:53"
+   "count": 11106,
+   "last": "2026-11-03 19:00:15"
   },
   "SCORES": {
-   "count": 3937,
-   "last": "2026-11-03 17:59:02"
+   "count": 3938,
+   "last": "2026-11-03 19:00:18"
   },
   "SHEETS": {
    "count": 5240,
@@ -10421,6 +10421,6 @@
    "last": "2026-11-03 12:28:51"
   }
  },
- "generated_at": "2026-11-03T18:58:10",
- "total": 37165
+ "generated_at": "2026-11-03T19:00:42",
+ "total": 37168
 }
