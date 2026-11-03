@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Kendrick Nunn  ~ 24684: position -> Point guard / shooting guard",
+   "detected_at": "2026-11-03 12:28:51",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Shooting guard"
+  },
+  {
+   "detail": "Guerschon Yabusele  ~ 29646: position -> Power forward / small forward",
+   "detected_at": "2026-11-03 12:28:51",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Power forward / center"
+  },
+  {
+   "detail": "Isaac Bonga  ~ 77638: position -> Small forward",
+   "detected_at": "2026-11-03 12:28:51",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Small forward / power forward"
+  },
+  {
    "detail": "Isaac Bonga  ~ position: Small forward / shooting guard -> Small forward / power forward",
    "detected_at": "2026-11-03 12:28:37",
    "source": "WIKI",
@@ -10374,27 +10395,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Jacob_Toppin"
-  },
-  {
-   "detail": "Jacob Toppin  ~ height_ft: 6 -> -",
-   "detected_at": "2026-10-29 23:17:37",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jacob_Toppin"
-  },
-  {
-   "detail": "Jacob Toppin  ~ height_in: 9 -> -",
-   "detected_at": "2026-10-29 23:17:37",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jacob_Toppin"
-  },
-  {
-   "detail": "Jacob Toppin  ~ weight_lb: 200 -> -",
-   "detected_at": "2026-10-29 23:17:37",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jacob_Toppin"
   }
  ],
  "feeds": {
@@ -10435,10 +10435,10 @@
    "last": "2026-11-03 12:28:37"
   },
   "WIKIWATCH": {
-   "count": 580,
-   "last": "2026-11-03 12:20:44"
+   "count": 583,
+   "last": "2026-11-03 12:28:51"
   }
  },
- "generated_at": "2026-11-03T12:28:38",
- "total": 37081
+ "generated_at": "2026-11-03T12:29:40",
+ "total": 37084
 }
