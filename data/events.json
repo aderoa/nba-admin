@@ -1,6 +1,48 @@
 {
  "events": [
   {
+   "detail": "Adriatic League Liga ABA Dubai 89, KK Zadar 75",
+   "detected_at": "2026-11-03 16:57:03",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-02/KK-Zadar-at-Dubai/537367"
+  },
+  {
+   "detail": "Adriatic League Liga ABA KK Partizan 97, U Banca Transilvania Cluj Napoca 77",
+   "detected_at": "2026-11-03 16:56:57",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-02/U-Banca-Transilvania-Cluj-Napoca-at-KK-Partizan/537366"
+  },
+  {
+   "detail": "Adriatic League Liga ABA + Vanja Marinkovic → KK Partizan",
+   "detected_at": "2026-11-03 16:56:54",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Adriatic League Liga ABA KK Spartak Subotica 109, KK Mega Bemax 104",
+   "detected_at": "2026-11-03 16:56:52",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-02/KK-Spartak-Subotica-at-KK-Mega-Bemax/537364"
+  },
+  {
+   "detail": "Basketball Africa League Qualification Brave Hearts BC 64, Harare Kings 56",
+   "detected_at": "2026-11-03 16:56:45",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-03/Brave-Hearts-BC-at-Harare-Kings/546343"
+  },
+  {
+   "detail": "Isaiah Wong  ~ number: 2 -> 21",
+   "detected_at": "2026-11-03 16:56:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Isaiah_Wong"
+  },
+  {
    "detail": "Jordan Bone  ~ team: HLA Alicante -> Free agent",
    "detected_at": "2026-11-03 16:14:27",
    "source": "WIKI",
@@ -10335,48 +10377,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Marcus_Bingham_Jr."
-  },
-  {
-   "detail": "Melih Mahmutoğlu  ~ team: Fenerbahçe Tarfin -> Fenerbahçe",
-   "detected_at": "2026-10-30 12:46:33",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Melih_Mahmuto%C4%9Flu"
-  },
-  {
-   "detail": "Talen Horton-Tucker  ~ 121522: team -> Fenerbahçe Tarfin",
-   "detected_at": "2026-10-30 12:38:53",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "Fenerbahçe"
-  },
-  {
-   "detail": "Shane Larkin  ~ 28945: team -> Fenerbahçe Tarfin",
-   "detected_at": "2026-10-30 12:37:11",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "Fenerbahçe"
-  },
-  {
-   "detail": "Wade Baldwin  ~ 81056: team -> Fenerbahçe Tarfin",
-   "detected_at": "2026-10-30 12:37:11",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "Fenerbahçe"
-  },
-  {
-   "detail": "Australian NBL Sydney 71, Tasmania 68",
-   "detected_at": "2026-10-30 12:24:30",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-30/Sydney-at-Tasmania/524420"
-  },
-  {
-   "detail": "Argentinian Liga A Lanus 81, San Martin Corrientes 72",
-   "detected_at": "2026-10-30 11:15:59",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-29/San-Martin-Corrientes-at-Lanus/542052"
   }
  ],
  "feeds": {
@@ -10397,12 +10397,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 11100,
-   "last": "2026-11-03 15:44:42"
+   "count": 11101,
+   "last": "2026-11-03 16:56:54"
   },
   "SCORES": {
-   "count": 3928,
-   "last": "2026-11-03 15:45:31"
+   "count": 3932,
+   "last": "2026-11-03 16:57:03"
   },
   "SHEETS": {
    "count": 5240,
@@ -10413,14 +10413,14 @@
    "last": "2026-11-02 21:43:22"
   },
   "WIKI": {
-   "count": 7557,
-   "last": "2026-11-03 16:14:27"
+   "count": 7558,
+   "last": "2026-11-03 16:56:35"
   },
   "WIKIWATCH": {
    "count": 583,
    "last": "2026-11-03 12:28:51"
   }
  },
- "generated_at": "2026-11-03T16:28:09",
- "total": 37140
+ "generated_at": "2026-11-03T16:57:29",
+ "total": 37146
 }
