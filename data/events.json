@@ -1,6 +1,139 @@
 {
  "events": [
   {
+   "detail": "NCAA Texas AM 97, Alabama State 66",
+   "detected_at": "2026-11-04 08:54:06",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-03/Alabama-State-at-Texas-AM/539959"
+  },
+  {
+   "detail": "NCAA Iowa 76, Lipscomb 54",
+   "detected_at": "2026-11-04 08:54:00",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-03/Lipscomb-at-Iowa/539960"
+  },
+  {
+   "detail": "NCAA Missouri 111, Cleveland State 50",
+   "detected_at": "2026-11-04 08:53:55",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-03/Cleveland-State-at-Missouri/539958"
+  },
+  {
+   "detail": "French LNB Pro B Poitiers Basket 86 101, Levallois Sport Club 83",
+   "detected_at": "2026-11-04 08:53:32",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-02/Poitiers-Basket-86-at-Levallois-Sport-Club/537917"
+  },
+  {
+   "detail": "Swedish Basketligan Boras Basket 92, Uppsala Basket 51",
+   "detected_at": "2026-11-04 08:53:26",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-02/Boras-Basket-at-Uppsala-Basket/524635"
+  },
+  {
+   "detail": "Swedish Basketligan + David Hook → Boras Basket",
+   "detected_at": "2026-11-04 08:53:24",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swedish Basketligan + Albin Ringheim → Boras Basket",
+   "detected_at": "2026-11-04 08:53:24",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Brazilian NBB Minas 87, Franca 76",
+   "detected_at": "2026-11-04 08:53:20",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-03/Minas-at-Franca/545139"
+  },
+  {
+   "detail": "Brazilian NBB Cruzeiro 78, Bauru 74",
+   "detected_at": "2026-11-04 08:53:14",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-03/Cruzeiro-at-Bauru/545138"
+  },
+  {
+   "detail": "French Basketball Cup Pau Orthez 93, Antibes 87",
+   "detected_at": "2026-11-04 08:53:09",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-03/Pau-Orthez-at-Antibes/546200"
+  },
+  {
+   "detail": "French Basketball Cup ~ RETURN Nathan Assira Engoute → Pau Orthez (from Espoirs Pau Lacq Orthez)",
+   "detected_at": "2026-11-04 08:53:06",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "French Basketball Cup Berck Rang Du Fliers 77, Besancon BCD 68",
+   "detected_at": "2026-11-04 08:53:03",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-03/Berck-Rang-Du-Fliers-at-Besancon-BCD/546201"
+  },
+  {
+   "detail": "Lebanese Division A Hoops Club 81, Central Al Markaziyyah 77",
+   "detected_at": "2026-11-04 08:52:58",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-03/Hoops-Club-at-Central-Al-Markaziyyah/546145"
+  },
+  {
+   "detail": "Lebanese Division A + Antonio Habib → Hoops Club",
+   "detected_at": "2026-11-04 08:52:55",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "PBA - Governors Cup San Miguel Beermen 101, Barangay Ginebra Kings 98",
+   "detected_at": "2026-11-04 08:52:52",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-03/San-Miguel-Beermen-at-Barangay-Ginebra-Kings/546215"
+  },
+  {
+   "detail": "PBA - Governors Cup Converge Fiber Xers 105, Rain or Shine Elasto Painters 89",
+   "detected_at": "2026-11-04 08:52:46",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-03/Converge-Fiber-Xers-at-Rain-or-Shine-Elasto-Painters/546214"
+  },
+  {
+   "detail": "Georgios Bogris  ~ team: Palaio Faliro -> Milon",
+   "detected_at": "2026-11-04 08:52:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Georgios_Bogris"
+  },
+  {
+   "detail": "Georgios Bogris  ~ CAREER  + 2025–2026 Palaio Faliro",
+   "detected_at": "2026-11-04 08:52:37",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Georgios_Bogris"
+  },
+  {
+   "detail": "Georgios Bogris  ~ CAREER  + 2026– Milon",
+   "detected_at": "2026-11-04 08:52:37",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Georgios_Bogris"
+  },
+  {
    "detail": "Swedish Basketligan Sloga Uppsala 80, Hogsbo 79",
    "detected_at": "2026-11-04 06:06:58",
    "source": "SCORES",
@@ -10256,139 +10389,6 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Ochai_Agbaji"
-  },
-  {
-   "detail": "Rudy Gobert  ~ weight_lb: - -> 258",
-   "detected_at": "2026-10-30 18:44:33",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Rudy_Gobert"
-  },
-  {
-   "detail": "Basketball Africa League Qualification Ferroviario de Beira 92, Soweto Panthers 63",
-   "detected_at": "2026-10-30 17:46:11",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-30/Ferroviario-de-Beira-at-Soweto-Panthers/546325"
-  },
-  {
-   "detail": "Basketball Africa League Qualification + Helton Ubisse → Ferroviario de Beira",
-   "detected_at": "2026-10-30 17:46:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Africa League Qualification + Ayad Marfias Munguambe → Ferroviario de Beira",
-   "detected_at": "2026-10-30 17:46:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Africa League Qualification + Josh Thomas → Ferroviario de Beira",
-   "detected_at": "2026-10-30 17:46:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Africa League Qualification + Ke'Tarrious Bouchum → Ferroviario de Beira",
-   "detected_at": "2026-10-30 17:46:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Africa League Qualification + Ismael Nurmamade → Ferroviario de Beira",
-   "detected_at": "2026-10-30 17:46:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Africa League Qualification + Ermelindo Novela → Ferroviario de Beira",
-   "detected_at": "2026-10-30 17:46:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Africa League Qualification + Egidio Zandamela → Ferroviario de Beira",
-   "detected_at": "2026-10-30 17:46:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Africa League Qualification + Celio Chirombe → Ferroviario de Beira",
-   "detected_at": "2026-10-30 17:46:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Africa League Qualification + Hilario Malale → Ferroviario de Beira",
-   "detected_at": "2026-10-30 17:46:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Africa League Qualification + Jorge Nicola → Ferroviario de Beira",
-   "detected_at": "2026-10-30 17:46:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Africa League Qualification + Bruno Moiane → Ferroviario de Beira",
-   "detected_at": "2026-10-30 17:46:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Africa League Qualification + Alioune Tew → Soweto Panthers",
-   "detected_at": "2026-10-30 17:46:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Africa League Qualification + Lebesa Selepe → Soweto Panthers",
-   "detected_at": "2026-10-30 17:46:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Africa League Qualification + Latrell Jones → Soweto Panthers",
-   "detected_at": "2026-10-30 17:46:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Africa League Qualification + Thubelihle Sithole → Soweto Panthers",
-   "detected_at": "2026-10-30 17:46:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Africa League Qualification + Liam Reid-Laynes → Soweto Panthers",
-   "detected_at": "2026-10-30 17:46:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Africa League Qualification + Kwazi Gumede → Soweto Panthers",
-   "detected_at": "2026-10-30 17:46:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10409,12 +10409,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 11129,
-   "last": "2026-11-04 06:06:55"
+   "count": 11133,
+   "last": "2026-11-04 08:53:24"
   },
   "SCORES": {
-   "count": 3974,
-   "last": "2026-11-04 06:06:58"
+   "count": 3986,
+   "last": "2026-11-04 08:54:06"
   },
   "SHEETS": {
    "count": 5240,
@@ -10425,14 +10425,14 @@
    "last": "2026-11-04 02:24:42"
   },
   "WIKI": {
-   "count": 7591,
-   "last": "2026-11-04 02:32:35"
+   "count": 7594,
+   "last": "2026-11-04 08:52:37"
   },
   "WIKIWATCH": {
    "count": 583,
    "last": "2026-11-03 12:28:51"
   }
  },
- "generated_at": "2026-11-04T06:37:41",
- "total": 37252
+ "generated_at": "2026-11-04T08:54:09",
+ "total": 37271
 }
