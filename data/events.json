@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Australian NBL Brisbane 109, Perth 104",
+   "detected_at": "2026-11-04 17:51:43",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-04/Perth-at-Brisbane/524426"
+  },
+  {
    "detail": "Dalen Terry  ~ team: Santa Cruz Warriors -> Oklahoma City Thunder",
    "detected_at": "2026-11-04 17:28:35",
    "source": "WIKI",
@@ -10343,13 +10350,6 @@
    "source": "WIKIWATCH",
    "type": "FIELD",
    "url": "35"
-  },
-  {
-   "detail": "Super League Basketball Newcastle Eagles 101, Leicester Riders 80",
-   "detected_at": "2026-10-31 05:58:11",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-30/Newcastle-Eagles-at-Leicester-Riders/535554"
   }
  ],
  "feeds": {
@@ -10374,8 +10374,8 @@
    "last": "2026-11-04 14:45:56"
   },
   "SCORES": {
-   "count": 4011,
-   "last": "2026-11-04 14:46:04"
+   "count": 4012,
+   "last": "2026-11-04 17:51:43"
   },
   "SHEETS": {
    "count": 5240,
@@ -10394,6 +10394,6 @@
    "last": "2026-11-04 13:40:36"
   }
  },
- "generated_at": "2026-11-04T17:42:20",
- "total": 37379
+ "generated_at": "2026-11-04T17:52:02",
+ "total": 37380
 }
