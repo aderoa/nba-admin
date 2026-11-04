@@ -1,6 +1,38 @@
 {
  "events": [
   {
+   "detail": "Juan Fernández (basketball, born 2002)  ~ number: - -> 21",
+   "detected_at": "2026-11-04 02:32:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Juan_Fern%C3%A1ndez_(basketball,_born_2002)"
+  },
+  {
+   "detail": "Juan Fernández (basketball, born 2002)  ~ nationality: Argentine / Spanish -> -",
+   "detected_at": "2026-11-04 02:32:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Juan_Fern%C3%A1ndez_(basketball,_born_2002)"
+  },
+  {
+   "detail": "2026-27 Two-Way Signings  - REMOVED Enrique Freeman Minnesota Timberwolves",
+   "detected_at": "2026-11-04 02:24:43",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Two-Way Signings  + ADDED  Enrique Freeman (WAIVED) Minnesota Timberwolves",
+   "detected_at": "2026-11-04 02:24:43",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-11-03  Minnesota Timberwolves waived forward Enrique Freeman.",
+   "detected_at": "2026-11-04 02:24:42",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
    "detail": "Basketball Champions League Europe Salon Vilpas 77, Port of Antwerp Giants 69",
    "detected_at": "2026-11-03 21:29:06",
    "source": "SCORES",
@@ -10342,47 +10374,12 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Basketball Africa League Qualification + Deebo Coleman → Dolphins BC",
-   "detected_at": "2026-10-30 13:32:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Africa League Qualification + Kesaobaka Ndawanyana → Dolphins BC",
-   "detected_at": "2026-10-30 13:32:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Africa League Qualification + Makur Jongkuch → Dolphins BC",
-   "detected_at": "2026-10-30 13:32:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Africa League Qualification + Dingani Motswadira → Dolphins BC",
-   "detected_at": "2026-10-30 13:32:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Africa League Qualification + Yaone Badisang → Dolphins BC",
-   "detected_at": "2026-10-30 13:32:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 4314,
-   "last": "2026-10-29 19:39:15"
+   "count": 4316,
+   "last": "2026-11-04 02:24:43"
   },
   "GLEAGUE": {
    "count": 841,
@@ -10409,18 +10406,18 @@
    "last": "2026-11-03 06:42:29"
   },
   "TRANSACTIONS": {
-   "count": 689,
-   "last": "2026-11-02 21:43:22"
+   "count": 690,
+   "last": "2026-11-04 02:24:42"
   },
   "WIKI": {
-   "count": 7589,
-   "last": "2026-11-03 21:02:34"
+   "count": 7591,
+   "last": "2026-11-04 02:32:35"
   },
   "WIKIWATCH": {
    "count": 583,
    "last": "2026-11-03 12:28:51"
   }
  },
- "generated_at": "2026-11-03T21:55:35",
- "total": 37193
+ "generated_at": "2026-11-04T02:33:02",
+ "total": 37198
 }
