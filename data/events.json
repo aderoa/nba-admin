@@ -1,6 +1,83 @@
 {
  "events": [
   {
+   "detail": "Dwight Powell  ~ number: 35 -> 16",
+   "detected_at": "2026-11-04 13:48:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Dwight_Powell"
+  },
+  {
+   "detail": "Enrique Freeman  ~ team: Minnesota Timberwolves -> Free agent",
+   "detected_at": "2026-11-04 13:48:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Enrique_Freeman"
+  },
+  {
+   "detail": "Enrique Freeman  ~ league: NBA -> -",
+   "detected_at": "2026-11-04 13:48:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Enrique_Freeman"
+  },
+  {
+   "detail": "Enrique Freeman  ~ number: 25 -> -",
+   "detected_at": "2026-11-04 13:48:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Enrique_Freeman"
+  },
+  {
+   "detail": "Enrique Freeman  ~ CAREER  + Minnesota Timberwolves",
+   "detected_at": "2026-11-04 13:48:35",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Enrique_Freeman"
+  },
+  {
+   "detail": "Enrique Freeman  ~ CAREER  + 2025–2026 →Iowa Wolves",
+   "detected_at": "2026-11-04 13:48:35",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Enrique_Freeman"
+  },
+  {
+   "detail": "Troy Caupain  ~ league: LBA -> LBA BCL",
+   "detected_at": "2026-11-04 13:48:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Troy_Caupain"
+  },
+  {
+   "detail": "Troy Caupain  ~ number: - -> 10",
+   "detected_at": "2026-11-04 13:48:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Troy_Caupain"
+  },
+  {
+   "detail": "Troy Caupain  ~ CAREER  + 2026–present Reggio Emilia",
+   "detected_at": "2026-11-04 13:48:35",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Troy_Caupain"
+  },
+  {
+   "detail": "Michael Ružić  ~ weight_lb: 235 -> 240",
+   "detected_at": "2026-11-04 13:48:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Michael_Ru%C5%BEi%C4%87"
+  },
+  {
+   "detail": "Dwight Powell  ~ 9346: number -> 35",
+   "detected_at": "2026-11-04 13:40:36",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "16"
+  },
+  {
    "detail": "NCAA Portland State 111, Lewis Clark 59",
    "detected_at": "2026-11-04 13:21:32",
    "source": "SCORES",
@@ -10312,83 +10389,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Jahmir_Young"
-  },
-  {
-   "detail": "Jalen Lecque  ~ position: Shooting guard / point guard -> Point guard / shooting guard",
-   "detected_at": "2026-10-31 05:54:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jalen_Lecque"
-  },
-  {
-   "detail": "Bonzie Colson  ~ position: Small forward / shooting guard -> Small forward / power forward",
-   "detected_at": "2026-10-30 22:37:33",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Bonzie_Colson"
-  },
-  {
-   "detail": "Bandja Sy  ~ team: Free agent -> Lietkabelis Panevėžys",
-   "detected_at": "2026-10-30 22:37:33",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Bandja_Sy"
-  },
-  {
-   "detail": "Bandja Sy  ~ league: - -> LKL EuroCup",
-   "detected_at": "2026-10-30 22:37:33",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Bandja_Sy"
-  },
-  {
-   "detail": "Bandja Sy  ~ number: - -> 95",
-   "detected_at": "2026-10-30 22:37:33",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Bandja_Sy"
-  },
-  {
-   "detail": "Bandja Sy  ~ CAREER  + 2026–present Lietkabelis Panevėžys",
-   "detected_at": "2026-10-30 22:37:33",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Bandja_Sy"
-  },
-  {
-   "detail": "Nikola Mirotić  ~ position: Power forward / small forward -> Power forward",
-   "detected_at": "2026-10-30 20:40:32",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Nikola_Miroti%C4%87"
-  },
-  {
-   "detail": "Basketball Africa League Qualification Munali Suns 79, Brave Hearts BC 66",
-   "detected_at": "2026-10-30 20:16:39",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-30/Brave-Hearts-BC-at-Munali-Suns/546326"
-  },
-  {
-   "detail": "Basketball Africa League Qualification + Henry Chizah → Brave Hearts BC",
-   "detected_at": "2026-10-30 20:16:37",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Africa League Qualification + Ian Owen Limbe → Brave Hearts BC",
-   "detected_at": "2026-10-30 20:16:37",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Africa League Qualification + Tatenda Mutepuka → Brave Hearts BC",
-   "detected_at": "2026-10-30 20:16:37",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10425,14 +10425,14 @@
    "last": "2026-11-04 02:24:42"
   },
   "WIKI": {
-   "count": 7594,
-   "last": "2026-11-04 08:52:37"
+   "count": 7604,
+   "last": "2026-11-04 13:48:35"
   },
   "WIKIWATCH": {
-   "count": 583,
-   "last": "2026-11-03 12:28:51"
+   "count": 584,
+   "last": "2026-11-04 13:40:36"
   }
  },
- "generated_at": "2026-11-04T13:21:36",
- "total": 37295
+ "generated_at": "2026-11-04T13:48:36",
+ "total": 37306
 }
