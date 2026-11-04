@@ -1,6 +1,111 @@
 {
  "events": [
   {
+   "detail": "NCAA Duquesne 78, Fort Wayne 71",
+   "detected_at": "2026-11-04 03:54:03",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-03/Fort-Wayne-at-Duquesne/542912"
+  },
+  {
+   "detail": "NCAA UNC Greensboro 96, Milligan 43",
+   "detected_at": "2026-11-04 03:53:57",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-03/Milligan-at-UNC-Greensboro/542911"
+  },
+  {
+   "detail": "NCAA South Carolina 81, Stetson 55",
+   "detected_at": "2026-11-04 03:53:51",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-03/Stetson-at-South-Carolina/541016"
+  },
+  {
+   "detail": "NCAA Rhode Island 103, Holy Cross 59",
+   "detected_at": "2026-11-04 03:53:45",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-03/Holy-Cross-at-Rhode-Island/539682"
+  },
+  {
+   "detail": "NCAA Georgia Tech 75, Hampton 55",
+   "detected_at": "2026-11-04 03:53:37",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-03/Hampton-at-Georgia-Tech/539680"
+  },
+  {
+   "detail": "NCAA Boston College 76, Wagner 50",
+   "detected_at": "2026-11-04 03:53:31",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-03/Wagner-at-Boston-College/530419"
+  },
+  {
+   "detail": "NCAA Virginia Tech 88, Coppin State 54",
+   "detected_at": "2026-11-04 03:53:25",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-03/Coppin-State-at-Virginia-Tech/539679"
+  },
+  {
+   "detail": "NCAA Kentucky 85, Manhattan 57",
+   "detected_at": "2026-11-04 03:53:20",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-03/Manhattan-at-Kentucky/541018"
+  },
+  {
+   "detail": "NCAA Alabama 96, Sam Houston State 74",
+   "detected_at": "2026-11-04 03:53:15",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-03/Sam-Houston-State-at-Alabama/528944"
+  },
+  {
+   "detail": "NCAA Tennessee 90, Wofford 59",
+   "detected_at": "2026-11-04 03:53:10",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-03/Wofford-at-Tennessee/528943"
+  },
+  {
+   "detail": "FIBA Europe Cup Nancy Basket 86, Keravnos Strovolou 73",
+   "detected_at": "2026-11-04 03:52:48",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-03/Keravnos-Strovolou-at-Nancy-Basket/544808"
+  },
+  {
+   "detail": "FIBA Europe Cup + Vasa Pusica → Keravnos Strovolou",
+   "detected_at": "2026-11-04 03:52:45",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "FIBA Europe Cup CB Girona 90, BK Levicki Patrioti Levice 66",
+   "detected_at": "2026-11-04 03:52:43",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-03/BK-Levicki-Patrioti-Levice-at-CB-Girona/544807"
+  },
+  {
+   "detail": "FIBA Europe Cup ~ RETURN Enric Sanmartin → CB Girona (from Girona Liga U)",
+   "detected_at": "2026-11-04 03:52:40",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "FIBA Europe Cup ~ RETURN Sergi Juher Valdayo → CB Girona (from Girona Liga U)",
+   "detected_at": "2026-11-04 03:52:40",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
    "detail": "Juan Fernández (basketball, born 2002)  ~ number: - -> 21",
    "detected_at": "2026-11-04 02:32:35",
    "source": "WIKI",
@@ -10269,111 +10374,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Izaiah_Brockington"
-  },
-  {
-   "detail": "Izaiah Brockington  ~ league: Lega Basket Serie A -> LBA",
-   "detected_at": "2026-10-30 13:55:33",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Izaiah_Brockington"
-  },
-  {
-   "detail": "Brazilian NBB Pinheiros Sky 89, Osasco Basquete 74",
-   "detected_at": "2026-10-30 13:32:42",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-29/Pinheiros-Sky-at-Osasco-Basquete/545112"
-  },
-  {
-   "detail": "Brazilian NBB + Danillo Araujo Fortunato → Pinheiros Sky",
-   "detected_at": "2026-10-30 13:32:40",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Brazilian NBB + Gabriel Da Silva → Osasco Basquete",
-   "detected_at": "2026-10-30 13:32:40",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "FIBA Europe Cup Gence BC 69, Sporting Clube de Portugal 67",
-   "detected_at": "2026-10-30 13:32:37",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-29/Sporting-Clube-de-Portugal-at-Gence-BC/543381"
-  },
-  {
-   "detail": "Lithuanian NKL Vilkaviskio Perlas 74, Lietuvos Rytas II 72",
-   "detected_at": "2026-10-30 13:32:33",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-29/Lietuvos-Rytas-II-at-Vilkaviskio-Perlas/546077"
-  },
-  {
-   "detail": "Lithuanian NKL + Julius Rollins → Vilkaviskio Perlas",
-   "detected_at": "2026-10-30 13:32:31",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Lithuanian NKL Kedainiu SC 97, Vilniaus Stekas 76",
-   "detected_at": "2026-10-30 13:32:28",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-29/Vilniaus-Stekas-at-Kedainiu-SC/546083"
-  },
-  {
-   "detail": "Lithuanian NKL + Eli Stephens → Vilniaus Stekas",
-   "detected_at": "2026-10-30 13:32:26",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Lithuanian NKL Omega Tauras Kauno 93, Zalgiris II 82",
-   "detected_at": "2026-10-30 13:32:24",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-29/Omega-Tauras-Kauno-at-Zalgiris-II/546072"
-  },
-  {
-   "detail": "Lithuanian NKL + Jonas Siupsinskas → Omega Tauras Kauno",
-   "detected_at": "2026-10-30 13:32:22",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Lithuanian NKL Olimpas Palangos 84, Alytus Alytus 81",
-   "detected_at": "2026-10-30 13:32:19",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-29/Olimpas-Palangos-at-Alytus-Alytus/546076"
-  },
-  {
-   "detail": "Lithuanian NKL + Saimonas Jeremicius → Alytus Alytus",
-   "detected_at": "2026-10-30 13:32:16",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Africa League Qualification Dolphins BC 77, Harare Kings 72",
-   "detected_at": "2026-10-30 13:32:13",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-30/Dolphins-BC-at-Harare-Kings/546324"
-  },
-  {
-   "detail": "Basketball Africa League Qualification + Adrian Breitlauch → Dolphins BC",
-   "detected_at": "2026-10-30 13:32:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10394,12 +10394,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 11106,
-   "last": "2026-11-03 19:00:15"
+   "count": 11109,
+   "last": "2026-11-04 03:52:45"
   },
   "SCORES": {
-   "count": 3943,
-   "last": "2026-11-03 21:29:06"
+   "count": 3955,
+   "last": "2026-11-04 03:54:03"
   },
   "SHEETS": {
    "count": 5240,
@@ -10418,6 +10418,6 @@
    "last": "2026-11-03 12:28:51"
   }
  },
- "generated_at": "2026-11-04T03:16:31",
- "total": 37198
+ "generated_at": "2026-11-04T03:54:06",
+ "total": 37213
 }
