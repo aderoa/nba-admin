@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Dalen Terry  ~ team: Santa Cruz Warriors -> Oklahoma City Thunder",
+   "detected_at": "2026-11-04 17:28:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Dalen_Terry"
+  },
+  {
+   "detail": "Dalen Terry  ~ league: NBA G League -> NBA",
+   "detected_at": "2026-11-04 17:28:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Dalen_Terry"
+  },
+  {
+   "detail": "Dalen Terry  ~ CAREER  + –present Oklahoma City Thunder",
+   "detected_at": "2026-11-04 17:28:35",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Dalen_Terry"
+  },
+  {
    "detail": "Khalifa Diop  ~ team: Cleveland Cavaliers -> Cleveland Charge",
    "detected_at": "2026-11-04 17:04:34",
    "source": "WIKI",
@@ -10329,27 +10350,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-10-30/Newcastle-Eagles-at-Leicester-Riders/535554"
-  },
-  {
-   "detail": "French NM1 Toulouse Basket Club 84, Pays de Fougeres 71",
-   "detected_at": "2026-10-31 05:58:06",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-30/Pays-de-Fougeres-at-Toulouse-Basket-Club/535196"
-  },
-  {
-   "detail": "French NM1 + Calvin Hippolyte → Toulouse Basket Club",
-   "detected_at": "2026-10-31 05:58:03",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "BNXT League Proximus Spirou Charleroi 81, Basic Fit Brussels Basketball 66",
-   "detected_at": "2026-10-31 05:58:01",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-30/Proximus-Spirou-Charleroi-at-Basic-Fit-Brussels-Basketball/527960"
   }
  ],
  "feeds": {
@@ -10386,14 +10386,14 @@
    "last": "2026-11-04 02:24:42"
   },
   "WIKI": {
-   "count": 7615,
-   "last": "2026-11-04 17:04:34"
+   "count": 7618,
+   "last": "2026-11-04 17:28:35"
   },
   "WIKIWATCH": {
    "count": 584,
    "last": "2026-11-04 13:40:36"
   }
  },
- "generated_at": "2026-11-04T17:19:21",
- "total": 37376
+ "generated_at": "2026-11-04T17:28:36",
+ "total": 37379
 }
