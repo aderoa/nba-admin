@@ -1,6 +1,125 @@
 {
  "events": [
   {
+   "detail": "Bosnian BiH Liga Borac Nektar 95, Orlovik 72",
+   "detected_at": "2026-11-04 04:55:07",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-02/Orlovik-at-Borac-Nektar/540947"
+  },
+  {
+   "detail": "Bosnian BiH Liga + Edin Malicbegovic → Orlovik",
+   "detected_at": "2026-11-04 04:55:04",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Bosnian BiH Liga + Nemanja Vucenovic → Borac Nektar",
+   "detected_at": "2026-11-04 04:55:04",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Bosnian BiH Liga + Borisa Zirojevic → Borac Nektar",
+   "detected_at": "2026-11-04 04:55:04",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Bosnian BiH Liga + Matija Vukovic → Borac Nektar",
+   "detected_at": "2026-11-04 04:55:04",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Italian Lega Basket Serie A AX Armani Exchange Milan 95, Acqua San Bernardo Cantu 82",
+   "detected_at": "2026-11-04 04:55:01",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-02/AX-Armani-Exchange-Milan-at-Acqua-San-Bernardo-Cantu/529596"
+  },
+  {
+   "detail": "Italian Lega Basket Serie A + Matteo Molteni → Acqua San Bernardo Cantu",
+   "detected_at": "2026-11-04 04:54:57",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Montenegrin Prva A Liga KK Mornar 79, KK Lovcen Cetinje 71",
+   "detected_at": "2026-11-04 04:54:54",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-02/KK-Mornar-at-KK-Lovcen-Cetinje/544995"
+  },
+  {
+   "detail": "Montenegrin Prva A Liga ~ RETURN Vasilije Vucinic → KK Mornar (from KK Jedinstvo Bijelo Polje)",
+   "detected_at": "2026-11-04 04:54:51",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "Montenegrin Prva A Liga + Nikola Stanojevic → KK Mornar",
+   "detected_at": "2026-11-04 04:54:51",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Montenegrin Prva A Liga + Petar Minic → KK Mornar",
+   "detected_at": "2026-11-04 04:54:51",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Montenegrin Prva A Liga + Iljazi Fedja → KK Lovcen Cetinje",
+   "detected_at": "2026-11-04 04:54:51",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "VTB Youth United League CSKA Moscow U18 86, Khimki 2 58",
+   "detected_at": "2026-11-04 04:54:49",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-02/Khimki-2-at-CSKA-Moscow-U18/543431"
+  },
+  {
+   "detail": "VTB Youth United League + Egor Kudrov → CSKA Moscow U18",
+   "detected_at": "2026-11-04 04:54:46",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "South Korean KBL Jeonju KCC Egis 105, Goyang Sono Skygunners 102",
+   "detected_at": "2026-11-04 04:54:42",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-03/Goyang-Sono-Skygunners-at-Jeonju-KCC-Egis/531784"
+  },
+  {
+   "detail": "VTB United League Parma Basket Perm 109, Samara 68",
+   "detected_at": "2026-11-04 04:54:37",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-03/Samara-at-Parma-Basket-Perm/533313"
+  },
+  {
+   "detail": "VTB United League ~ RETURN Grigory Golovchenko → Parma Basket Perm (from Parma 2)",
+   "detected_at": "2026-11-04 04:54:35",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
    "detail": "NCAA Duquesne 78, Fort Wayne 71",
    "detected_at": "2026-11-04 03:54:03",
    "source": "SCORES",
@@ -10267,113 +10386,6 @@
    "detected_at": "2026-10-30 15:06:39",
    "source": "GLEAGUE",
    "type": "Call-Up/Recall"
-  },
-  {
-   "detail": "2026-10-29  Waived: Kellen Tynes (Blue Coats)",
-   "detected_at": "2026-10-30 15:06:39",
-   "source": "GLEAGUE",
-   "type": "Waived/Buyout"
-  },
-  {
-   "detail": "2026-10-29  Traded: Aminu Mohammed (Remix)",
-   "detected_at": "2026-10-30 15:06:39",
-   "source": "GLEAGUE",
-   "type": "Trade"
-  },
-  {
-   "detail": "2026-10-29  Traded: Nathan Mariano (Remix)",
-   "detected_at": "2026-10-30 15:06:39",
-   "source": "GLEAGUE",
-   "type": "Trade"
-  },
-  {
-   "detail": "2026-10-29  Traded: Blake Hinson (Kings)",
-   "detected_at": "2026-10-30 15:06:39",
-   "source": "GLEAGUE",
-   "type": "Trade"
-  },
-  {
-   "detail": "2026-10-29  Traded: Damari Monsanto (Blue Coats)",
-   "detected_at": "2026-10-30 15:06:39",
-   "source": "GLEAGUE",
-   "type": "Trade"
-  },
-  {
-   "detail": "2026-10-29  Waivers Cleared: Jahlil White",
-   "detected_at": "2026-10-30 15:06:39",
-   "source": "GLEAGUE",
-   "type": "Waived/Buyout"
-  },
-  {
-   "detail": "2026-10-29  Traded: Jabri Abdur Rahim (Go Go)",
-   "detected_at": "2026-10-30 15:06:39",
-   "source": "GLEAGUE",
-   "type": "Trade"
-  },
-  {
-   "detail": "2026-10-29  Traded: Trae Hannibal (Blue)",
-   "detected_at": "2026-10-30 15:06:39",
-   "source": "GLEAGUE",
-   "type": "Trade"
-  },
-  {
-   "detail": "2026-10-29  Assigned: Kon Knueppel (Swarm)",
-   "detected_at": "2026-10-30 15:06:39",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-29  NBA Call-Up: Blake Wesley (Clippers)",
-   "detected_at": "2026-10-30 15:06:39",
-   "source": "GLEAGUE",
-   "type": "Call-Up/Recall"
-  },
-  {
-   "detail": "2026-10-29  Recalled: Zuby Ejiofor (Skyhawks)",
-   "detected_at": "2026-10-30 15:06:39",
-   "source": "GLEAGUE",
-   "type": "Call-Up/Recall"
-  },
-  {
-   "detail": "2026-10-30  Assigned: Aj Johnson (Squadron)",
-   "detected_at": "2026-10-30 15:06:39",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "South Korean KBL Seoul Samsung Thunders 95, Goyang Sono Skygunners 87",
-   "detected_at": "2026-10-30 14:40:42",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-30/Seoul-Samsung-Thunders-at-Goyang-Sono-Skygunners/530393"
-  },
-  {
-   "detail": "Japanese BLeague Shinshu Brave Warriors 80, Kyoto Hannaryz 72",
-   "detected_at": "2026-10-30 14:40:37",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-30/Kyoto-Hannaryz-at-Shinshu-Brave-Warriors/524783"
-  },
-  {
-   "detail": "Japanese BLeague Nagoya Diamond Dolphins 104, Shiga Lakestars 69",
-   "detected_at": "2026-10-30 14:40:31",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-30/Shiga-Lakestars-at-Nagoya-Diamond-Dolphins/524785"
-  },
-  {
-   "detail": "Brandon Boston Jr.  ~ number: - -> 5",
-   "detected_at": "2026-10-30 14:18:34",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Brandon_Boston_Jr."
-  },
-  {
-   "detail": "Izaiah Brockington  ~ team: Scaligera Basket Verona -> Tezenis Verona",
-   "detected_at": "2026-10-30 13:55:33",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Izaiah_Brockington"
   }
  ],
  "feeds": {
@@ -10394,12 +10406,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 11109,
-   "last": "2026-11-04 03:52:45"
+   "count": 11120,
+   "last": "2026-11-04 04:55:04"
   },
   "SCORES": {
-   "count": 3955,
-   "last": "2026-11-04 03:54:03"
+   "count": 3961,
+   "last": "2026-11-04 04:55:07"
   },
   "SHEETS": {
    "count": 5240,
@@ -10418,6 +10430,6 @@
    "last": "2026-11-03 12:28:51"
   }
  },
- "generated_at": "2026-11-04T04:52:42",
- "total": 37213
+ "generated_at": "2026-11-04T04:55:24",
+ "total": 37230
 }
