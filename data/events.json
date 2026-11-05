@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Dwight Powell  ~ CAREER  + 2026–present Fenerbahçe",
+   "detected_at": "2026-11-05 21:40:35",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Dwight_Powell"
+  },
+  {
+   "detail": "Jason Burnell  ~ position: Small forward -> Power forward",
+   "detected_at": "2026-11-05 21:40:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jason_Burnell"
+  },
+  {
    "detail": "Trent Forrest  ~ height_in: 4 -> 5",
    "detected_at": "2026-11-05 21:04:35",
    "source": "WIKI",
@@ -10316,20 +10330,6 @@
    "source": "REALGM",
    "type": "RETURN",
    "url": ""
-  },
-  {
-   "detail": "French LNB Espoirs ~ RETURN Bastien Courant → Espoirs Boulazac (from Boulazac Basket Dordogne)",
-   "detected_at": "2026-11-01 01:18:10",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "French LNB Espoirs + Albin Boitrel → Espoirs Boulazac",
-   "detected_at": "2026-11-01 01:18:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10366,14 +10366,14 @@
    "last": "2026-11-05 17:45:03"
   },
   "WIKI": {
-   "count": 7687,
-   "last": "2026-11-05 21:04:35"
+   "count": 7689,
+   "last": "2026-11-05 21:40:35"
   },
   "WIKIWATCH": {
    "count": 589,
    "last": "2026-11-05 20:26:25"
   }
  },
- "generated_at": "2026-11-05T21:04:36",
- "total": 37596
+ "generated_at": "2026-11-05T21:41:01",
+ "total": 37598
 }
