@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Trent Forrest  ~ height_in: 4 -> 5",
+   "detected_at": "2026-11-05 21:04:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Trent_Forrest"
+  },
+  {
+   "detail": "Jason Burnell  ~ position: Power forward -> Small forward",
+   "detected_at": "2026-11-05 21:04:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jason_Burnell"
+  },
+  {
    "detail": "Trent Forrest  ~ position: Point guard -> Point guard / shooting guard",
    "detected_at": "2026-11-05 20:35:35",
    "source": "WIKI",
@@ -10316,20 +10330,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "French LNB Espoirs Espoirs Le Mans 93, Espoirs Pau Lacq Orthez 76",
-   "detected_at": "2026-11-01 01:18:06",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/Espoirs-Pau-Lacq-Orthez-at-Espoirs-Le-Mans/537612"
-  },
-  {
-   "detail": "French LNB Espoirs ~ RETURN Nathan Assira Engoute → Espoirs Pau Lacq Orthez (from Pau Orthez)",
-   "detected_at": "2026-11-01 01:18:03",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10366,14 +10366,14 @@
    "last": "2026-11-05 17:45:03"
   },
   "WIKI": {
-   "count": 7685,
-   "last": "2026-11-05 20:35:35"
+   "count": 7687,
+   "last": "2026-11-05 21:04:35"
   },
   "WIKIWATCH": {
    "count": 589,
    "last": "2026-11-05 20:26:25"
   }
  },
- "generated_at": "2026-11-05T20:35:59",
- "total": 37594
+ "generated_at": "2026-11-05T21:04:36",
+ "total": 37596
 }
