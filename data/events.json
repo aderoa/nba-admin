@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Trent Forrest  ~ position: Point guard -> Point guard / shooting guard",
+   "detected_at": "2026-11-05 20:35:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Trent_Forrest"
+  },
+  {
+   "detail": "Trent Forrest  ~ height_in: 5 -> 4",
+   "detected_at": "2026-11-05 20:35:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Trent_Forrest"
+  },
+  {
+   "detail": "Trent Forrest  ~ 85602: position -> Point guard",
+   "detected_at": "2026-11-05 20:26:25",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Point guard / shooting guard"
+  },
+  {
    "detail": "Dwight Powell  ~ CAREER  + Toronto Raptors",
    "detected_at": "2026-11-05 19:30:35",
    "source": "WIKI",
@@ -10309,27 +10330,6 @@
    "source": "REALGM",
    "type": "RETURN",
    "url": ""
-  },
-  {
-   "detail": "French LNB Espoirs ~ RETURN Tyler Beracou → Espoirs Le Mans (from Le Mans Sarthe Basket)",
-   "detected_at": "2026-11-01 01:18:03",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "French LNB Espoirs ~ RETURN Madiba Diaby-Cisse → Espoirs Le Mans (from Le Mans Sarthe Basket)",
-   "detected_at": "2026-11-01 01:18:03",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "French LNB Espoirs Espoirs Cholet 67, Espoirs Strasbourg 58",
-   "detected_at": "2026-11-01 01:18:00",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/Espoirs-Cholet-at-Espoirs-Strasbourg/537611"
   }
  ],
  "feeds": {
@@ -10366,14 +10366,14 @@
    "last": "2026-11-05 17:45:03"
   },
   "WIKI": {
-   "count": 7683,
-   "last": "2026-11-05 19:30:35"
+   "count": 7685,
+   "last": "2026-11-05 20:35:35"
   },
   "WIKIWATCH": {
-   "count": 588,
-   "last": "2026-11-05 16:43:03"
+   "count": 589,
+   "last": "2026-11-05 20:26:25"
   }
  },
- "generated_at": "2026-11-05T20:06:36",
- "total": 37591
+ "generated_at": "2026-11-05T20:35:59",
+ "total": 37594
 }
