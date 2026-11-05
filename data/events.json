@@ -1,6 +1,583 @@
 {
  "events": [
   {
+   "detail": "French Basketball Cup JDA Dijon Basket 90, CSP Limoges 74",
+   "detected_at": "2026-11-05 15:48:40",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-03/CSP-Limoges-at-JDA-Dijon-Basket/546202"
+  },
+  {
+   "detail": "Slovenian SKL Krka Novo Mesto 93, Hopsi Polzela 79",
+   "detected_at": "2026-11-05 15:48:34",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-03/Krka-Novo-Mesto-at-Hopsi-Polzela/537261"
+  },
+  {
+   "detail": "Brazilian NBB Flamengo 91, Uniceub BRB Brasilia 87",
+   "detected_at": "2026-11-05 15:48:27",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-04/Flamengo-at-Uniceub-BRB-Brasilia/545142"
+  },
+  {
+   "detail": "Brazilian NBB Mogi das Cruzes 89, Basquete Cearense 78",
+   "detected_at": "2026-11-05 15:48:21",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-04/Basquete-Cearense-at-Mogi-das-Cruzes/545141"
+  },
+  {
+   "detail": "Argentinian Liga A Ciclista Olimpico 95, Lanus 94",
+   "detected_at": "2026-11-05 15:48:15",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-04/Lanus-at-Ciclista-Olimpico/544927"
+  },
+  {
+   "detail": "Euroleague Panathinaikos 115, Real Madrid 112",
+   "detected_at": "2026-11-05 15:48:09",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-04/Panathinaikos-at-Real-Madrid/526863"
+  },
+  {
+   "detail": "VTB Youth United League Zenit 2 92, Uralmash 2 68",
+   "detected_at": "2026-11-05 15:48:04",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-04/Zenit-2-at-Uralmash-2/543435"
+  },
+  {
+   "detail": "Slovenian SKL Rogaska Crystal 77, Ilirija 66",
+   "detected_at": "2026-11-05 15:47:59",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-04/Ilirija-at-Rogaska-Crystal/537259"
+  },
+  {
+   "detail": "Basketball Champions League Europe Telekom Baskets Bonn 101, Bnei Herzelia 89",
+   "detected_at": "2026-11-05 15:47:53",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-04/Bnei-Herzelia-at-Telekom-Baskets-Bonn/534085"
+  },
+  {
+   "detail": "Italian Serie A2 Basket Reale Mutua Torino 70, Montecatini 48",
+   "detected_at": "2026-11-05 15:47:47",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-04/Montecatini-at-Reale-Mutua-Torino/529852"
+  },
+  {
+   "detail": "Danish Basketligaen Holbaek Stenhus 84, Gladsaxe Basketball Klub 81",
+   "detected_at": "2026-11-05 15:47:41",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-04/Holbaek-Stenhus-at-Gladsaxe-Basketball-Klub/530347"
+  },
+  {
+   "detail": "Danish Basketligaen Team FOG Naestved 95, Vaerlose BBK 62",
+   "detected_at": "2026-11-05 15:47:34",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-04/Team-FOG-Naestved-at-Vaerlose-BBK/530346"
+  },
+  {
+   "detail": "Danish Basketligaen Copenhagen Basketball 93, BMS Herlev Wolfpack 67",
+   "detected_at": "2026-11-05 15:47:28",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-04/Copenhagen-Basketball-at-BMS-Herlev-Wolfpack/530345"
+  },
+  {
+   "detail": "Italian Serie A2 Basket Akern Libertas Livorno 76, Sella Cento 63",
+   "detected_at": "2026-11-05 15:47:22",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-04/Sella-Cento-at-Akern-Libertas-Livorno/529859"
+  },
+  {
+   "detail": "Danish Basketligaen Horsens IC 93, EBAA Bears Academy 84",
+   "detected_at": "2026-11-05 15:47:15",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-04/Horsens-IC-at-EBAA-Bears-Academy/530344"
+  },
+  {
+   "detail": "FIBA Europe Cup VEF Riga 97, Fribourg Olympic 65",
+   "detected_at": "2026-11-05 15:47:09",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-04/VEF-Riga-at-Fribourg-Olympic/544820"
+  },
+  {
+   "detail": "FIBA Europe Cup BC Kalev Cramo 74, Chalon Sur Saone 68",
+   "detected_at": "2026-11-05 15:47:03",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-04/BC-Kalev-Cramo-at-Chalon-Sur-Saone/544818"
+  },
+  {
+   "detail": "FIBA Europe Cup SL Benfica 97, Landau Lions 76",
+   "detected_at": "2026-11-05 15:46:57",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-04/Landau-Lions-at-SL-Benfica/544825"
+  },
+  {
+   "detail": "FIBA Europe Cup Telenet BC Oostende 86, NHSZ Szolnoki Olajbanyasz 77",
+   "detected_at": "2026-11-05 15:46:51",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-04/NHSZ-Szolnoki-Olajbanyasz-at-Telenet-BC-Oostende/544822"
+  },
+  {
+   "detail": "FIBA Europe Cup Les Lions de Geneve 97, BC Prievidza 96",
+   "detected_at": "2026-11-05 15:46:45",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-04/BC-Prievidza-at-Les-Lions-de-Geneve/544826"
+  },
+  {
+   "detail": "FIBA Europe Cup Gladiators Trier 96, KB Trepca Mitrovice 59",
+   "detected_at": "2026-11-05 15:46:39",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-04/KB-Trepca-Mitrovice-at-Gladiators-Trier/544813"
+  },
+  {
+   "detail": "FIBA Europe Cup Dziki Warszawa 89, MZT Skopje Aerodrom 66",
+   "detected_at": "2026-11-05 15:46:32",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-04/MZT-Skopje-Aerodrom-at-Dziki-Warszawa/544824"
+  },
+  {
+   "detail": "Estonian-Latvian Basketball League BK Liepaja 92, Keila Coolbet 65",
+   "detected_at": "2026-11-05 15:46:23",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-04/Keila-Coolbet-at-BK-Liepaja/540729"
+  },
+  {
+   "detail": "Czech NBL SK Slavia Praha ERA NBK 89, BK Decin 78",
+   "detected_at": "2026-11-05 15:46:11",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-04/BK-Decin-at-SK-Slavia-Praha-ERA-NBK/527477"
+  },
+  {
+   "detail": "Czech NBL Basket Brno 81, Olomoucko Prostejov 76",
+   "detected_at": "2026-11-05 15:45:58",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-04/Olomoucko-Prostejov-at-Basket-Brno/527481"
+  },
+  {
+   "detail": "Scottie Lewis  ~ team: Johor Southern Tigers -> Free agent",
+   "detected_at": "2026-11-05 15:45:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Scottie_Lewis"
+  },
+  {
+   "detail": "Scottie Lewis  ~ league: Major Basketball League Malaysia -> -",
+   "detected_at": "2026-11-05 15:45:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Scottie_Lewis"
+  },
+  {
+   "detail": "Scottie Lewis  ~ number: 16 -> -",
+   "detected_at": "2026-11-05 15:45:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Scottie_Lewis"
+  },
+  {
+   "detail": "Scottie Lewis  ~ CAREER  + 2026 Johor Southern Tigers",
+   "detected_at": "2026-11-05 15:45:35",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Scottie_Lewis"
+  },
+  {
+   "detail": "Eli Ndiaye  ~ position: Power forward -> Power forward / center",
+   "detected_at": "2026-11-05 15:45:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Eli_Ndiaye"
+  },
+  {
+   "detail": "Christian Burns (basketball)  ~ CAREER  + 2009–2010 Ratiopharm Ulm",
+   "detected_at": "2026-11-05 15:45:35",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Christian_Burns_(basketball)"
+  },
+  {
+   "detail": "Christian Burns (basketball)  ~ CAREER  + 2016–2017 Germani Brescia",
+   "detected_at": "2026-11-05 15:45:35",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Christian_Burns_(basketball)"
+  },
+  {
+   "detail": "Christian Burns (basketball)  ~ CAREER  + 2017–2018 Pallacanestro Cantù",
+   "detected_at": "2026-11-05 15:45:35",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Christian_Burns_(basketball)"
+  },
+  {
+   "detail": "Christian Burns (basketball)  ~ CAREER  + 2020–2023 Germani Brescia",
+   "detected_at": "2026-11-05 15:45:35",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Christian_Burns_(basketball)"
+  },
+  {
+   "detail": "Christian Burns (basketball)  ~ CAREER  + 2022 →Napoli Basket",
+   "detected_at": "2026-11-05 15:45:35",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Christian_Burns_(basketball)"
+  },
+  {
+   "detail": "Christian Burns (basketball)  ~ CAREER  + 2023–2025 Pallacanestro Cantù",
+   "detected_at": "2026-11-05 15:45:35",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Christian_Burns_(basketball)"
+  },
+  {
+   "detail": "Christian Burns (basketball)  ~ CAREER  + 2025–2026 Vanoli Cremona",
+   "detected_at": "2026-11-05 15:45:35",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Christian_Burns_(basketball)"
+  },
+  {
+   "detail": "Mantas Juzėnas  ~ position: Shooting guard -> Shooting guard / small forward",
+   "detected_at": "2026-11-05 15:45:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Mantas_Juz%C4%97nas"
+  },
+  {
+   "detail": "Mantas Juzėnas  ~ number: - -> 0",
+   "detected_at": "2026-11-05 15:45:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Mantas_Juz%C4%97nas"
+  },
+  {
+   "detail": "Mantas Juzėnas  ~ height_ft: - -> 6",
+   "detected_at": "2026-11-05 15:45:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Mantas_Juz%C4%97nas"
+  },
+  {
+   "detail": "Mantas Juzėnas  ~ height_in: - -> 6",
+   "detected_at": "2026-11-05 15:45:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Mantas_Juz%C4%97nas"
+  },
+  {
+   "detail": "Mantas Juzėnas  ~ weight_lb: - -> 205",
+   "detected_at": "2026-11-05 15:45:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Mantas_Juz%C4%97nas"
+  },
+  {
+   "detail": "Mantas Juzėnas  ~ nationality: Lithuanian -> -",
+   "detected_at": "2026-11-05 15:45:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Mantas_Juz%C4%97nas"
+  },
+  {
+   "detail": "2026-11-04  Assigned: Adou Thiero (Lakers)",
+   "detected_at": "2026-11-05 15:37:56",
+   "source": "GLEAGUE",
+   "type": "Acquired/Assigned"
+  },
+  {
+   "detail": "2026-11-04  Assigned: Jonathan Isaac (Magic)",
+   "detected_at": "2026-11-05 15:37:56",
+   "source": "GLEAGUE",
+   "type": "Acquired/Assigned"
+  },
+  {
+   "detail": "2026-11-04  Assigned: Grant Williams (Swarm)",
+   "detected_at": "2026-11-05 15:37:56",
+   "source": "GLEAGUE",
+   "type": "Acquired/Assigned"
+  },
+  {
+   "detail": "2026-11-04  Waivers Cleared: Bj Kolly",
+   "detected_at": "2026-11-05 15:37:56",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-04  Waivers Cleared: Aj Lopez",
+   "detected_at": "2026-11-05 15:37:56",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-04  Waivers Cleared: Olin Carter Iii",
+   "detected_at": "2026-11-05 15:37:56",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-04  Waivers Cleared: Don Mchenry",
+   "detected_at": "2026-11-05 15:37:56",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-04  Waivers Cleared: Cam Young",
+   "detected_at": "2026-11-05 15:37:56",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-04  Waivers Cleared: Tj Clark",
+   "detected_at": "2026-11-05 15:37:56",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-04  Waivers Cleared: Jaeden Zackery",
+   "detected_at": "2026-11-05 15:37:56",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-04  Waivers Cleared: Jason Thirdkill",
+   "detected_at": "2026-11-05 15:37:56",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-04  Waivers Cleared: Jordan Bone",
+   "detected_at": "2026-11-05 15:37:56",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-04  Waivers Cleared: David Cheatom",
+   "detected_at": "2026-11-05 15:37:56",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-04  Waivers Cleared: Vance Jackson",
+   "detected_at": "2026-11-05 15:37:56",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-04  Waived: Kyle Rose (Squadron)",
+   "detected_at": "2026-11-05 15:37:56",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-04  Waived: Shawn Jones, Jr (Squadron)",
+   "detected_at": "2026-11-05 15:37:56",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-04  Recalled: Jonathan Isaac (Magic)",
+   "detected_at": "2026-11-05 15:37:56",
+   "source": "GLEAGUE",
+   "type": "Call-Up/Recall"
+  },
+  {
+   "detail": "2026-11-04  Assigned: Christopher Cenac Jr (Celtics)",
+   "detected_at": "2026-11-05 15:37:56",
+   "source": "GLEAGUE",
+   "type": "Acquired/Assigned"
+  },
+  {
+   "detail": "2026-11-04  Waived: Jaden Henderson (Kings)",
+   "detected_at": "2026-11-05 15:37:56",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-04  Waived: Nana Appiah (Kings)",
+   "detected_at": "2026-11-05 15:37:56",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-04  Waived: Ben Coupet Jr (Kings)",
+   "detected_at": "2026-11-05 15:37:56",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-04  Waived: Tegra Izay (Lakers)",
+   "detected_at": "2026-11-05 15:37:56",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-04  Waived: Kalifa Sakho (Lakers)",
+   "detected_at": "2026-11-05 15:37:56",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-04  Waived: Tyler Mcghie (Lakers)",
+   "detected_at": "2026-11-05 15:37:56",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-04  Waived: Matt Mcandrews (Bulls)",
+   "detected_at": "2026-11-05 15:37:56",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-04  Waived: Jasman Sangha (Bulls)",
+   "detected_at": "2026-11-05 15:37:56",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-04  Waived: Russel Tchewa (Bulls)",
+   "detected_at": "2026-11-05 15:37:56",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-04  Recalled: Christopher Cenac Jr (Celtics)",
+   "detected_at": "2026-11-05 15:37:56",
+   "source": "GLEAGUE",
+   "type": "Call-Up/Recall"
+  },
+  {
+   "detail": "2026-11-04  Waived: Malik Whitaker (Stars)",
+   "detected_at": "2026-11-05 15:37:56",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-04  Waived: Jevin Muniz (Legends)",
+   "detected_at": "2026-11-05 15:37:56",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-04  NBA Call-Up: Dalen Terry (Warriors)",
+   "detected_at": "2026-11-05 15:37:56",
+   "source": "GLEAGUE",
+   "type": "Call-Up/Recall"
+  },
+  {
+   "detail": "2026-11-04  Recalled: Grant Williams (Swarm)",
+   "detected_at": "2026-11-05 15:37:56",
+   "source": "GLEAGUE",
+   "type": "Call-Up/Recall"
+  },
+  {
+   "detail": "2026-11-04  Waived: Olisa Akonobi (Suns)",
+   "detected_at": "2026-11-05 15:37:56",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-04  Waived: Myron Amey (Suns)",
+   "detected_at": "2026-11-05 15:37:56",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-04  Waived: Chris Flippin (Suns)",
+   "detected_at": "2026-11-05 15:37:56",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-04  Waived: Kaleb Johnson (Suns)",
+   "detected_at": "2026-11-05 15:37:56",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-04  Waived: Justin Ndjock Tadjore (Spurs)",
+   "detected_at": "2026-11-05 15:37:56",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-04  Waived: Riley Grigsby (Skyforce)",
+   "detected_at": "2026-11-05 15:37:56",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-04  Waived: Anton Brookshire (Wolves)",
+   "detected_at": "2026-11-05 15:37:56",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-04  Waived: Jordan Derkack (Wolves)",
+   "detected_at": "2026-11-05 15:37:56",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-04  Waived: Tyson Acuff (Cruise)",
+   "detected_at": "2026-11-05 15:37:56",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-04  Waived: Brandon Noel (Cruise)",
+   "detected_at": "2026-11-05 15:37:56",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-04  Waived: Rafael Pinzon (Cruise)",
+   "detected_at": "2026-11-05 15:37:56",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-04  Assigned: Bogoljub Markovic (Herd)",
+   "detected_at": "2026-11-05 15:37:56",
+   "source": "GLEAGUE",
+   "type": "Acquired/Assigned"
+  },
+  {
+   "detail": "2026-11-05  Assigned: Christopher Cenac Jr (Celtics)",
+   "detected_at": "2026-11-05 15:37:56",
+   "source": "GLEAGUE",
+   "type": "Acquired/Assigned"
+  },
+  {
+   "detail": "2026-11-05  Recalled: Khalifa Diop (Charge)",
+   "detected_at": "2026-11-05 15:37:56",
+   "source": "GLEAGUE",
+   "type": "Call-Up/Recall"
+  },
+  {
    "detail": "NCAA Tennessee Tech 117, Blue Mountain College 70",
    "detected_at": "2026-11-05 10:17:19",
    "source": "SCORES",
@@ -9754,607 +10331,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/Ironi-Ramat-Gan-at-Hapoel-HaEmek/536916"
-  },
-  {
-   "detail": "German Pro B TSV Neustadt Temps Shooters 88, Hertener Loewen Basketball 75",
-   "detected_at": "2026-11-01 01:16:42",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/TSV-Neustadt-Temps-Shooters-at-Hertener-Loewen-Basketball/525537"
-  },
-  {
-   "detail": "German Pro B Bayer Giants Leverkusen 93, Dragons Rhoendorf 78",
-   "detected_at": "2026-11-01 01:16:36",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/Bayer-Giants-Leverkusen-at-Dragons-Rhoendorf/525710"
-  },
-  {
-   "detail": "German Pro B SC Rist Wedel 75, Art Giants Dusseldorf 73",
-   "detected_at": "2026-11-01 01:16:31",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/Art-Giants-Dusseldorf-at-SC-Rist-Wedel/525538"
-  },
-  {
-   "detail": "German Pro B ~ RETURN Jamil Muttilib → SC Rist Wedel (from Veolia Towers Hamburg)",
-   "detected_at": "2026-11-01 01:16:28",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "German Pro A Giessen 46ers 93, Walter Tigers Tubingen 82",
-   "detected_at": "2026-11-01 01:16:25",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/Walter-Tigers-Tubingen-at-Giessen-46ers/528132"
-  },
-  {
-   "detail": "German Pro B WWU Baskets Muenster 97, Seawolves Academy 72",
-   "detected_at": "2026-11-01 01:16:20",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/WWU-Baskets-Muenster-at-Seawolves-Academy/525536"
-  },
-  {
-   "detail": "German Pro A BG Gottingen 107, EPG GUARDIANS Koblenz 86",
-   "detected_at": "2026-11-01 01:16:15",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/EPG-GUARDIANS-Koblenz-at-BG-Gottingen/528131"
-  },
-  {
-   "detail": "German Pro A Eisbaren Bremerhaven 82, Nurnberg Falcons BC 75",
-   "detected_at": "2026-11-01 01:16:09",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/Nurnberg-Falcons-BC-at-Eisbaren-Bremerhaven/528130"
-  },
-  {
-   "detail": "German Pro B SC Itzehoe Eagles 73, BSW Sixers 72",
-   "detected_at": "2026-11-01 01:16:04",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/SC-Itzehoe-Eagles-at-BSW-Sixers/525535"
-  },
-  {
-   "detail": "German Pro A Bozic Estriche Knights Kirchheim 72, MLP Academics Heidelberg 64",
-   "detected_at": "2026-11-01 01:15:59",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/MLP-Academics-Heidelberg-at-Bozic-Estriche-Knights-Kirchheim/528129"
-  },
-  {
-   "detail": "Finnish Korisliiga Joensuun Kataja 101, Kauhajoki Karhu 80",
-   "detected_at": "2026-11-01 01:15:54",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/Kauhajoki-Karhu-at-Joensuun-Kataja/535078"
-  },
-  {
-   "detail": "Finnish Korisliiga ~ MOVED Marco Anthony → Kauhajoki Karhu (from Santos de San Luis Potosi)",
-   "detected_at": "2026-11-01 01:15:51",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
-  },
-  {
-   "detail": "Finnish Korisliiga + Jeremiah Bailey → Joensuun Kataja",
-   "detected_at": "2026-11-01 01:15:51",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Finnish Korisliiga Kipina 96, Nilan Bisons 73",
-   "detected_at": "2026-11-01 01:15:48",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/Kipina-at-Nilan-Bisons/535077"
-  },
-  {
-   "detail": "BNXT League Telenet BC Oostende 66, Stella Artois Leuven Bears 54",
-   "detected_at": "2026-10-31 23:59:26",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/Stella-Artois-Leuven-Bears-at-Telenet-BC-Oostende/527964"
-  },
-  {
-   "detail": "BNXT League + Stan Solie → Stella Artois Leuven Bears",
-   "detected_at": "2026-10-31 23:59:23",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "BNXT League + Noa Terclavers → Stella Artois Leuven Bears",
-   "detected_at": "2026-10-31 23:59:23",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "BNXT League + Lowie Frederik Marijke Van de Vyver → Stella Artois Leuven Bears",
-   "detected_at": "2026-10-31 23:59:23",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "BNXT League Okapi Aalstar 83, Belfius Mons Hainaut 69",
-   "detected_at": "2026-10-31 23:59:20",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/Belfius-Mons-Hainaut-at-Okapi-Aalstar/527963"
-  },
-  {
-   "detail": "French NM1 Saint Chamond NM1 82, BC Orchies 80",
-   "detected_at": "2026-10-31 23:59:15",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/BC-Orchies-at-Saint-Chamond-NM1/535203"
-  },
-  {
-   "detail": "French NM1 + Guede Kouassi → BC Orchies",
-   "detected_at": "2026-10-31 23:59:12",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French NM1 ~ RETURN Pape Moustapha Diop → Saint Chamond NM1 (from Saint Chamond Pro B)",
-   "detected_at": "2026-10-31 23:59:12",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "BNXT League Port of Antwerp Giants 88, HUBO Limburg United 80",
-   "detected_at": "2026-10-31 23:59:09",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/HUBO-Limburg-United-at-Port-of-Antwerp-Giants/527962"
-  },
-  {
-   "detail": "BNXT League Donar Groningen 96, ZZ Leiden 83",
-   "detected_at": "2026-10-31 23:59:04",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/Donar-Groningen-at-ZZ-Leiden/527961"
-  },
-  {
-   "detail": "Austrian A Bundesliga ece bulls Kapfenberg 94, Kufstein Towers 82",
-   "detected_at": "2026-10-31 23:58:59",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/ece-bulls-Kapfenberg-at-Kufstein-Towers/532432"
-  },
-  {
-   "detail": "Bulgarian NBL BC Rilski Sportist 88, Lokomotiv Plovdiv 79",
-   "detected_at": "2026-10-31 23:58:53",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/Lokomotiv-Plovdiv-at-BC-Rilski-Sportist/539880"
-  },
-  {
-   "detail": "Bulgarian NBL BC Beroe Stara Zagora 99, Polytechnica 58",
-   "detected_at": "2026-10-31 23:58:48",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/Polytechnica-at-BC-Beroe-Stara-Zagora/539881"
-  },
-  {
-   "detail": "Bulgarian NBL + Dimitar Agupkov → BC Beroe Stara Zagora",
-   "detected_at": "2026-10-31 23:58:45",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Bulgarian NBL Spartak Pleven 80, Euroins Cherno More 74",
-   "detected_at": "2026-10-31 23:58:42",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/Spartak-Pleven-at-Euroins-Cherno-More/539878"
-  },
-  {
-   "detail": "Austrian A Bundesliga Redwell Gunners Oberwart 85, BK Klosterneuburg Dukes 66",
-   "detected_at": "2026-10-31 23:58:36",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/BK-Klosterneuburg-Dukes-at-Redwell-Gunners-Oberwart/532430"
-  },
-  {
-   "detail": "Nemanja Nedović  ~ team: Crvena zvezda Meridianbet -> Free agent",
-   "detected_at": "2026-10-31 23:27:36",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Nemanja_Nedovi%C4%87"
-  },
-  {
-   "detail": "Nemanja Nedović  ~ league: KLS ABA League EuroLeague -> -",
-   "detected_at": "2026-10-31 23:27:36",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Nemanja_Nedovi%C4%87"
-  },
-  {
-   "detail": "Nemanja Nedović  ~ position: Shooting guard / point guard -> Shooting guard",
-   "detected_at": "2026-10-31 23:27:36",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Nemanja_Nedovi%C4%87"
-  },
-  {
-   "detail": "Nemanja Nedović  ~ number: 26 -> -",
-   "detected_at": "2026-10-31 23:27:36",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Nemanja_Nedovi%C4%87"
-  },
-  {
-   "detail": "Nemanja Nedović  ~ CAREER  + 2022–2026 Crvena zvezda",
-   "detected_at": "2026-10-31 23:27:36",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Nemanja_Nedovi%C4%87"
-  },
-  {
-   "detail": "Nemanja Nedović  ~ team: Free agent -> Crvena zvezda Meridianbet",
-   "detected_at": "2026-10-31 22:31:17",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Nemanja_Nedovi%C4%87"
-  },
-  {
-   "detail": "Nemanja Nedović  ~ league: - -> KLS ABA League EuroLeague",
-   "detected_at": "2026-10-31 22:31:17",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Nemanja_Nedovi%C4%87"
-  },
-  {
-   "detail": "Nemanja Nedović  ~ position: Shooting guard -> Shooting guard / point guard",
-   "detected_at": "2026-10-31 22:31:17",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Nemanja_Nedovi%C4%87"
-  },
-  {
-   "detail": "Nemanja Nedović  ~ number: - -> 26",
-   "detected_at": "2026-10-31 22:31:17",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Nemanja_Nedovi%C4%87"
-  },
-  {
-   "detail": "Nemanja Nedović  ~ CAREER  + 2022–present Crvena zvezda",
-   "detected_at": "2026-10-31 22:31:17",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Nemanja_Nedovi%C4%87"
-  },
-  {
-   "detail": "Zaccharie Risacher  ~ height_in: 9 -> 8",
-   "detected_at": "2026-10-31 19:04:36",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Zaccharie_Risacher"
-  },
-  {
-   "detail": "Zaccharie Risacher  ~ height_in: 8 -> 9",
-   "detected_at": "2026-10-31 18:41:37",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Zaccharie_Risacher"
-  },
-  {
-   "detail": "Semi Ojeleye  ~ team: Crvena zvezda -> Crvena zvezda Meridianbet",
-   "detected_at": "2026-10-31 18:19:37",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Semi_Ojeleye"
-  },
-  {
-   "detail": "Semi Ojeleye  ~ CAREER  + 2025–present Crvena zvezda",
-   "detected_at": "2026-10-31 18:19:37",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Semi_Ojeleye"
-  },
-  {
-   "detail": "Boban Marjanović  ~ CAREER  + 2026–present Strong Group Athletics",
-   "detected_at": "2026-10-31 17:34:36",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Boban_Marjanovi%C4%87"
-  },
-  {
-   "detail": "Ochai Agbaji  ~ team: Oklahoma City Thunder -> Free agent",
-   "detected_at": "2026-10-31 17:34:36",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Ochai_Agbaji"
-  },
-  {
-   "detail": "Ochai Agbaji  ~ league: NBA -> -",
-   "detected_at": "2026-10-31 17:34:36",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Ochai_Agbaji"
-  },
-  {
-   "detail": "Ochai Agbaji  ~ 130970: team -> Oklahoma City Thunder",
-   "detected_at": "2026-10-31 17:11:51",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "Free agent"
-  },
-  {
-   "detail": "Ochai Agbaji  ~ 130970: league -> NBA",
-   "detected_at": "2026-10-31 17:11:51",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": ""
-  },
-  {
-   "detail": "John Bryant (basketball)  ~ CAREER  + 2026 Eisbären Bremerhaven",
-   "detected_at": "2026-10-31 17:11:36",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/John_Bryant_(basketball)"
-  },
-  {
-   "detail": "Ochai Agbaji  ~ 130970: team -> Free agent",
-   "detected_at": "2026-10-31 16:53:56",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "Oklahoma City Thunder"
-  },
-  {
-   "detail": "Ochai Agbaji  ~ 130970: league -> -",
-   "detected_at": "2026-10-31 16:53:56",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "NBA"
-  },
-  {
-   "detail": "Eli Ndiaye  ~ CAREER  + 2021–2025 Real Madrid",
-   "detected_at": "2026-10-31 16:47:37",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Eli_Ndiaye"
-  },
-  {
-   "detail": "Eli Ndiaye  ~ CAREER  + 2021–2022 →Real Madrid B",
-   "detected_at": "2026-10-31 16:47:37",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Eli_Ndiaye"
-  },
-  {
-   "detail": "Blake Hinson  ~ team: Free agent -> Stockton Kings",
-   "detected_at": "2026-10-31 15:40:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Blake_Hinson"
-  },
-  {
-   "detail": "Blake Hinson  ~ league: - -> NBA G League",
-   "detected_at": "2026-10-31 15:40:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Blake_Hinson"
-  },
-  {
-   "detail": "Blake Hinson  ~ CAREER  + 2026–present Stockton Kings",
-   "detected_at": "2026-10-31 15:40:38",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Blake_Hinson"
-  },
-  {
-   "detail": "Blake Hinson  ~ 105343: team -> Free agent",
-   "detected_at": "2026-10-31 15:32:34",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "Stockton Kings"
-  },
-  {
-   "detail": "Blake Hinson  ~ 105343: league -> -",
-   "detected_at": "2026-10-31 15:32:34",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "NBA G League"
-  },
-  {
-   "detail": "Italian Serie A2 Basket UEB Gesteco Cividale 74, Sella Cento 64",
-   "detected_at": "2026-10-31 15:11:13",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-30/UEB-Gesteco-Cividale-at-Sella-Cento/529853"
-  },
-  {
-   "detail": "Basketball Africa League Qualification Harare Kings 66, Soweto Panthers 47",
-   "detected_at": "2026-10-31 15:11:06",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/Harare-Kings-at-Soweto-Panthers/546333"
-  },
-  {
-   "detail": "Basketball Africa League Qualification + Eugene Zhoroni → Harare Kings",
-   "detected_at": "2026-10-31 15:11:03",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Chinese CBA Beijing BeiKong 106, Xinjiang Guanghui 84",
-   "detected_at": "2026-10-31 15:11:00",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/Xinjiang-Guanghui-at-Beijing-BeiKong/544714"
-  },
-  {
-   "detail": "Chinese CBA + Yanzhe Li → Xinjiang Guanghui",
-   "detected_at": "2026-10-31 15:10:57",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Chinese CBA Shandong 85, Guangdong Dongguan 76",
-   "detected_at": "2026-10-31 15:10:54",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/Guangdong-Dongguan-at-Shandong/544716"
-  },
-  {
-   "detail": "Chinese CBA + Zhao Haoran → Shandong",
-   "detected_at": "2026-10-31 15:10:51",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Chinese CBA Fujian 95, Qingdao 86",
-   "detected_at": "2026-10-31 15:10:48",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/Qingdao-at-Fujian/544715"
-  },
-  {
-   "detail": "2026-10-30  Assigned: Zuby Ejiofor (Skyhawks)",
-   "detected_at": "2026-10-31 15:08:21",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-30  Recalled: Kon Knueppel (Swarm)",
-   "detected_at": "2026-10-31 15:08:21",
-   "source": "GLEAGUE",
-   "type": "Call-Up/Recall"
-  },
-  {
-   "detail": "2026-10-30  Recalled: Drake Powell (Nets)",
-   "detected_at": "2026-10-31 15:08:21",
-   "source": "GLEAGUE",
-   "type": "Call-Up/Recall"
-  },
-  {
-   "detail": "2026-10-30  Assigned: Bogoljub Markovic (Herd)",
-   "detected_at": "2026-10-31 15:08:21",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-30  Assigned: Koa Peat (Suns)",
-   "detected_at": "2026-10-31 15:08:21",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-30  Assigned: Cameron Carr (Lakers)",
-   "detected_at": "2026-10-31 15:08:21",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-30  Assigned: Johnny Furphy (Boom)",
-   "detected_at": "2026-10-31 15:08:21",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-30  Waived: Colby Rogers (Swarm)",
-   "detected_at": "2026-10-31 15:08:21",
-   "source": "GLEAGUE",
-   "type": "Waived/Buyout"
-  },
-  {
-   "detail": "2026-10-30  Waived: Jaden Seymour (Swarm)",
-   "detected_at": "2026-10-31 15:08:21",
-   "source": "GLEAGUE",
-   "type": "Waived/Buyout"
-  },
-  {
-   "detail": "2026-10-30  Assigned: Tj Mcconnell (Boom)",
-   "detected_at": "2026-10-31 15:08:21",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-30  Recalled: Bogoljub Markovic (Herd)",
-   "detected_at": "2026-10-31 15:08:21",
-   "source": "GLEAGUE",
-   "type": "Call-Up/Recall"
-  },
-  {
-   "detail": "2026-10-30  Waived: Tyler Cochran (Skyforce)",
-   "detected_at": "2026-10-31 15:08:21",
-   "source": "GLEAGUE",
-   "type": "Waived/Buyout"
-  },
-  {
-   "detail": "2026-10-30  Waived: Trey Fort (Skyforce)",
-   "detected_at": "2026-10-31 15:08:21",
-   "source": "GLEAGUE",
-   "type": "Waived/Buyout"
-  },
-  {
-   "detail": "2026-10-30  Waived: Masai Olowokere (Skyforce)",
-   "detected_at": "2026-10-31 15:08:21",
-   "source": "GLEAGUE",
-   "type": "Waived/Buyout"
-  },
-  {
-   "detail": "2026-10-30  Waived: Jaxson Baker (Skyforce)",
-   "detected_at": "2026-10-31 15:08:21",
-   "source": "GLEAGUE",
-   "type": "Waived/Buyout"
-  },
-  {
-   "detail": "2026-10-30  Recalled: Koa Peat (Suns)",
-   "detected_at": "2026-10-31 15:08:21",
-   "source": "GLEAGUE",
-   "type": "Call-Up/Recall"
-  },
-  {
-   "detail": "2026-10-30  Recalled: Aj Johnson (Squadron)",
-   "detected_at": "2026-10-31 15:08:21",
-   "source": "GLEAGUE",
-   "type": "Call-Up/Recall"
-  },
-  {
-   "detail": "2026-10-30  Waived: Quion Burns (Lakers)",
-   "detected_at": "2026-10-31 15:08:21",
-   "source": "GLEAGUE",
-   "type": "Waived/Buyout"
-  },
-  {
-   "detail": "2026-10-30  Waived: Faizon Fields (Lakers)",
-   "detected_at": "2026-10-31 15:08:21",
-   "source": "GLEAGUE",
-   "type": "Waived/Buyout"
-  },
-  {
-   "detail": "2026-10-30  Waived: Jayden Pierre (Lakers)",
-   "detected_at": "2026-10-31 15:08:21",
-   "source": "GLEAGUE",
-   "type": "Waived/Buyout"
-  },
-  {
-   "detail": "2026-10-30  Recalled: Cameron Carr (Lakers)",
-   "detected_at": "2026-10-31 15:08:21",
-   "source": "GLEAGUE",
-   "type": "Call-Up/Recall"
-  },
-  {
-   "detail": "2026-10-30  Assigned: Yanic Konan Niederhauser (Clippers)",
-   "detected_at": "2026-10-31 15:08:21",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
   }
  ],
  "feeds": {
@@ -10363,8 +10339,8 @@
    "last": "2026-11-04 02:24:43"
   },
   "GLEAGUE": {
-   "count": 880,
-   "last": "2026-11-04 15:04:29"
+   "count": 926,
+   "last": "2026-11-05 15:37:56"
   },
   "PLAYERS": {
    "count": 1938,
@@ -10379,8 +10355,8 @@
    "last": "2026-11-05 10:16:39"
   },
   "SCORES": {
-   "count": 4056,
-   "last": "2026-11-05 10:17:19"
+   "count": 4081,
+   "last": "2026-11-05 15:48:40"
   },
   "SHEETS": {
    "count": 5240,
@@ -10391,14 +10367,14 @@
    "last": "2026-11-04 20:08:22"
   },
   "WIKI": {
-   "count": 7655,
-   "last": "2026-11-05 06:48:26"
+   "count": 7673,
+   "last": "2026-11-05 15:45:35"
   },
   "WIKIWATCH": {
    "count": 587,
    "last": "2026-11-05 07:12:12"
   }
  },
- "generated_at": "2026-11-05T10:59:28",
- "total": 37476
+ "generated_at": "2026-11-05T15:48:55",
+ "total": 37565
 }
