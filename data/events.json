@@ -1,6 +1,55 @@
 {
  "events": [
   {
+   "detail": "NCAA Tennessee Tech 117, Blue Mountain College 70",
+   "detected_at": "2026-11-05 10:17:19",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-04/Blue-Mountain-College-at-Tennessee-Tech-/542918"
+  },
+  {
+   "detail": "NCAA Southeast Missouri State 90, Webster 65",
+   "detected_at": "2026-11-05 10:17:14",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-04/Webster-at-Southeast-Missouri-State/542915"
+  },
+  {
+   "detail": "NCAA Furman 121, Bob Jones 52",
+   "detected_at": "2026-11-05 10:17:09",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-04/Bob-Jones-at-Furman/542916"
+  },
+  {
+   "detail": "South Korean KBL Korea Gas Corporation 82, Seoul SK 76",
+   "detected_at": "2026-11-05 10:16:47",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-04/Korea-Gas-Corporation-at-Seoul-SK/531785"
+  },
+  {
+   "detail": "Lebanese Division A Sagesse Al Hekmeh Beirut 76, Homenetmen Beirut 70",
+   "detected_at": "2026-11-05 10:16:42",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-04/Homenetmen-Beirut-at-Sagesse-Al-Hekmeh-Beirut/546146"
+  },
+  {
+   "detail": "Lebanese Division A + Karim Salam → Homenetmen Beirut",
+   "detected_at": "2026-11-05 10:16:39",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lebanese Division A + Raphael Jouljian → Homenetmen Beirut",
+   "detected_at": "2026-11-05 10:16:39",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
    "detail": "Zach LeDay  ~ 42397: position -> Power forward / small forward",
    "detected_at": "2026-11-05 07:12:12",
    "source": "WIKIWATCH",
@@ -10306,49 +10355,6 @@
    "detected_at": "2026-10-31 15:08:21",
    "source": "GLEAGUE",
    "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-30  Assigned: Max Strus (Clippers)",
-   "detected_at": "2026-10-31 15:08:21",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-30  Acquired: Blake Hinson (Kings)",
-   "detected_at": "2026-10-31 15:08:21",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-10-31  Waived: Jeriah Coleman (Nets)",
-   "detected_at": "2026-10-31 15:08:21",
-   "source": "GLEAGUE",
-   "type": "Waived/Buyout"
-  },
-  {
-   "detail": "2026-10-31  Waived: Cedric Mbiaba (Nets)",
-   "detected_at": "2026-10-31 15:08:21",
-   "source": "GLEAGUE",
-   "type": "Waived/Buyout"
-  },
-  {
-   "detail": "2026-10-31  Waived: Wooga Poplar (Nets)",
-   "detected_at": "2026-10-31 15:08:21",
-   "source": "GLEAGUE",
-   "type": "Waived/Buyout"
-  },
-  {
-   "detail": "2026-10-31  Assigned: Bogoljub Markovic (Herd)",
-   "detected_at": "2026-10-31 15:08:21",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "Josep Puerto  ~ position: Shooting guard / small forward -> Small forward",
-   "detected_at": "2026-10-31 14:43:37",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Josep_Puerto"
   }
  ],
  "feeds": {
@@ -10369,12 +10375,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 11161,
-   "last": "2026-11-05 06:51:06"
+   "count": 11163,
+   "last": "2026-11-05 10:16:39"
   },
   "SCORES": {
-   "count": 4051,
-   "last": "2026-11-05 06:52:49"
+   "count": 4056,
+   "last": "2026-11-05 10:17:19"
   },
   "SHEETS": {
    "count": 5240,
@@ -10393,6 +10399,6 @@
    "last": "2026-11-05 07:12:12"
   }
  },
- "generated_at": "2026-11-05T09:49:26",
- "total": 37469
+ "generated_at": "2026-11-05T10:17:22",
+ "total": 37476
 }
