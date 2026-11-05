@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Zach LeDay  ~ 42397: position -> Power forward / small forward",
+   "detected_at": "2026-11-05 07:12:12",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Power forward"
+  },
+  {
+   "detail": "Elijah Bryant  ~ 80581: position -> Shooting guard / point guard",
+   "detected_at": "2026-11-05 07:12:12",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Shooting guard / small forward"
+  },
+  {
+   "detail": "Daniel Oturu  ~ 121152: position -> Center / power forward",
+   "detected_at": "2026-11-05 07:12:12",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Center"
+  },
+  {
    "detail": "NCAA Morgan State 95, Virginia Lynchburg 58",
    "detected_at": "2026-11-05 06:52:49",
    "source": "SCORES",
@@ -10328,27 +10349,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Josep_Puerto"
-  },
-  {
-   "detail": "Josep Puerto  ~ height_ft: - -> 6",
-   "detected_at": "2026-10-31 14:43:37",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Josep_Puerto"
-  },
-  {
-   "detail": "Josep Puerto  ~ height_in: - -> 6",
-   "detected_at": "2026-10-31 14:43:37",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Josep_Puerto"
-  },
-  {
-   "detail": "Josep Puerto  ~ weight_lb: - -> 214",
-   "detected_at": "2026-10-31 14:43:37",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Josep_Puerto"
   }
  ],
  "feeds": {
@@ -10389,10 +10389,10 @@
    "last": "2026-11-05 06:48:26"
   },
   "WIKIWATCH": {
-   "count": 584,
-   "last": "2026-11-04 13:40:36"
+   "count": 587,
+   "last": "2026-11-05 07:12:12"
   }
  },
- "generated_at": "2026-11-05T06:52:52",
- "total": 37466
+ "generated_at": "2026-11-05T07:20:35",
+ "total": 37469
 }
