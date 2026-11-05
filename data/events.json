@@ -1,6 +1,41 @@
 {
  "events": [
   {
+   "detail": "Brazilian NBB Unifacisa Paraiba 71, Paulistano 63",
+   "detected_at": "2026-11-05 16:51:45",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-04/Paulistano-at-Unifacisa-Paraiba/545140"
+  },
+  {
+   "detail": "Jerian Grant  ~ position: Shooting guard / point guard -> Point guard / shooting guard",
+   "detected_at": "2026-11-05 16:51:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jerian_Grant"
+  },
+  {
+   "detail": "Isaac Bonga  ~ position: Small forward / power forward -> Small forward",
+   "detected_at": "2026-11-05 16:51:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Isaac_Bonga"
+  },
+  {
+   "detail": "Panagiotis Kalaitzakis  ~ position: Small forward / shooting guard -> Shooting guard / small forward",
+   "detected_at": "2026-11-05 16:51:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Panagiotis_Kalaitzakis"
+  },
+  {
+   "detail": "Isaac Bonga  ~ 77638: position -> Small forward / power forward",
+   "detected_at": "2026-11-05 16:43:03",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Small forward"
+  },
+  {
    "detail": "NCAA Queens University 96, Loyola Marymount 95",
    "detected_at": "2026-11-05 15:50:28",
    "source": "SCORES",
@@ -10296,41 +10331,6 @@
    "source": "REALGM",
    "type": "RETURN",
    "url": ""
-  },
-  {
-   "detail": "French Jeep Elite Chorale Roanne Basket 89, BCM Gravelines 69",
-   "detected_at": "2026-11-01 01:17:37",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/Chorale-Roanne-Basket-at-BCM-Gravelines/538603"
-  },
-  {
-   "detail": "French LNB Espoirs Espoirs Dijon 86, Espoirs Nancy 64",
-   "detected_at": "2026-11-01 01:17:28",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/Espoirs-Nancy-at-Espoirs-Dijon/537617"
-  },
-  {
-   "detail": "French LNB Espoirs ~ RETURN Axel Villain → Espoirs Nancy (from Nancy Basket)",
-   "detected_at": "2026-11-01 01:17:22",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "French LNB Espoirs ~ RETURN Kany N'Kouka → Espoirs Nancy (from Nancy Basket)",
-   "detected_at": "2026-11-01 01:17:22",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "French LNB Espoirs Espoirs Paris Basketball 88, Espoirs Chalon Saone 76",
-   "detected_at": "2026-11-01 01:17:19",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/Espoirs-Chalon-Saone-at-Espoirs-Paris-Basketball/537618"
   }
  ],
  "feeds": {
@@ -10355,8 +10355,8 @@
    "last": "2026-11-05 10:16:39"
   },
   "SCORES": {
-   "count": 4093,
-   "last": "2026-11-05 15:50:28"
+   "count": 4094,
+   "last": "2026-11-05 16:51:45"
   },
   "SHEETS": {
    "count": 5240,
@@ -10367,14 +10367,14 @@
    "last": "2026-11-04 20:08:22"
   },
   "WIKI": {
-   "count": 7673,
-   "last": "2026-11-05 15:45:35"
+   "count": 7676,
+   "last": "2026-11-05 16:51:36"
   },
   "WIKIWATCH": {
-   "count": 587,
-   "last": "2026-11-05 07:12:12"
+   "count": 588,
+   "last": "2026-11-05 16:43:03"
   }
  },
- "generated_at": "2026-11-05T16:23:37",
- "total": 37577
+ "generated_at": "2026-11-05T16:52:09",
+ "total": 37582
 }
