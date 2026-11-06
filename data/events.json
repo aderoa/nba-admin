@@ -1,6 +1,55 @@
 {
  "events": [
   {
+   "detail": "NCAA Illinois State 100, Central State OH 55",
+   "detected_at": "2026-11-06 13:33:30",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-05/Central-State-OH-at-Illinois-State/543836"
+  },
+  {
+   "detail": "Lithuanian NKL Vytis Zanavykas Sakiai 101, Mazeikiai 77",
+   "detected_at": "2026-11-06 13:33:05",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-05/Vytis-Zanavykas-Sakiai-at-Mazeikiai/546097"
+  },
+  {
+   "detail": "Lithuanian NKL Marijampole Suduva Arvi 94, Neptuans Akvaservis Klaipeda 75",
+   "detected_at": "2026-11-06 13:32:59",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-05/Marijampole-Suduva-Arvi-at-Neptuans-Akvaservis-Klaipeda/546096"
+  },
+  {
+   "detail": "Lithuanian NKL Vilkaviskio Perlas 97, Vilniaus Stekas 74",
+   "detected_at": "2026-11-06 13:32:54",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-05/Vilniaus-Stekas-at-Vilkaviskio-Perlas/546095"
+  },
+  {
+   "detail": "Lithuanian NKL Alytus Alytus 87, Plunges Olimpas 76",
+   "detected_at": "2026-11-06 13:32:48",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-05/Plunges-Olimpas-at-Alytus-Alytus/546094"
+  },
+  {
+   "detail": "Lithuanian NKL Zalgiris II 95, Lietuvos Rytas II 90",
+   "detected_at": "2026-11-06 13:32:43",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-05/Lietuvos-Rytas-II-at-Zalgiris-II/546093"
+  },
+  {
+   "detail": "Semaj Christon  ~ team: Pallacanestro Cantù -> Free agent",
+   "detected_at": "2026-11-06 13:32:33",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Semaj_Christon"
+  },
+  {
    "detail": "South Korean KBL Seoul Samsung Thunders 81, Ulsan Mobis Phoebus 76",
    "detected_at": "2026-11-06 12:25:59",
    "source": "SCORES",
@@ -10279,55 +10328,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-11-01/Brisbane-at-Adelaide/524424"
-  },
-  {
-   "detail": "Australian NBL Tasmania 98, South East Melbourne 89",
-   "detected_at": "2026-11-01 10:48:45",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-01/Tasmania-at-South-East-Melbourne/524423"
-  },
-  {
-   "detail": "Isaiah Crawford  ~ height_in: 11 -> 6",
-   "detected_at": "2026-11-01 10:48:37",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Isaiah_Crawford"
-  },
-  {
-   "detail": "Vladislav Goldin  ~ height_in: 0 -> 1",
-   "detected_at": "2026-11-01 10:48:37",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Vladislav_Goldin"
-  },
-  {
-   "detail": "Vladislav Goldin  ~ weight_lb: 250 -> 260",
-   "detected_at": "2026-11-01 10:48:37",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Vladislav_Goldin"
-  },
-  {
-   "detail": "South Korean KBL Suwon KT Sonicboom 92, Anyang Kwan Jang 90",
-   "detected_at": "2026-11-01 03:42:19",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/Suwon-KT-Sonicboom-at-Anyang-Kwan-Jang/530395"
-  },
-  {
-   "detail": "South Korean KBL + Hyeonseok Lee → Suwon KT Sonicboom",
-   "detected_at": "2026-11-01 03:42:16",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "South Korean KBL ~ RETURN Daeheon Lee → Anyang Kwan Jang (from Ulsan Mobis Phoebus)",
-   "detected_at": "2026-11-01 03:42:16",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10352,8 +10352,8 @@
    "last": "2026-11-06 12:25:56"
   },
   "SCORES": {
-   "count": 4174,
-   "last": "2026-11-06 12:25:59"
+   "count": 4180,
+   "last": "2026-11-06 13:33:30"
   },
   "SHEETS": {
    "count": 5240,
@@ -10364,14 +10364,14 @@
    "last": "2026-11-06 05:52:12"
   },
   "WIKI": {
-   "count": 7704,
-   "last": "2026-11-06 11:55:34"
+   "count": 7705,
+   "last": "2026-11-06 13:32:33"
   },
   "WIKIWATCH": {
    "count": 589,
    "last": "2026-11-05 20:26:25"
   }
  },
- "generated_at": "2026-11-06T13:05:10",
- "total": 37703
+ "generated_at": "2026-11-06T13:33:32",
+ "total": 37710
 }
