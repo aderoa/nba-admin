@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "South Korean KBL Seoul Samsung Thunders 81, Ulsan Mobis Phoebus 76",
+   "detected_at": "2026-11-06 12:25:59",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-05/Seoul-Samsung-Thunders-at-Ulsan-Mobis-Phoebus/531786"
+  },
+  {
+   "detail": "South Korean KBL + Omari Spellman → Ulsan Mobis Phoebus",
+   "detected_at": "2026-11-06 12:25:56",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian LKL Lietuvos Rytas 91, Jonava Jonavos 87",
+   "detected_at": "2026-11-06 12:25:53",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-05/Jonava-Jonavos-at-Lietuvos-Rytas/532735"
+  },
+  {
    "detail": "Joan Sastre (basketball)  ~ number: - -> 43",
    "detected_at": "2026-11-06 11:55:34",
    "source": "WIKI",
@@ -10307,27 +10328,6 @@
    "source": "REALGM",
    "type": "RETURN",
    "url": ""
-  },
-  {
-   "detail": "South Korean KBL Jeonju KCC Egis 90, Wonju Dongbu Promy 74",
-   "detected_at": "2026-11-01 03:42:13",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/Wonju-Dongbu-Promy-at-Jeonju-KCC-Egis/530394"
-  },
-  {
-   "detail": "South Korean KBL + Alan Williams → Wonju Dongbu Promy",
-   "detected_at": "2026-11-01 03:42:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "South Korean KBL + Joon-hee Lee → Wonju Dongbu Promy",
-   "detected_at": "2026-11-01 03:42:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10348,12 +10348,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 11171,
-   "last": "2026-11-06 11:24:37"
+   "count": 11172,
+   "last": "2026-11-06 12:25:56"
   },
   "SCORES": {
-   "count": 4172,
-   "last": "2026-11-06 11:25:39"
+   "count": 4174,
+   "last": "2026-11-06 12:25:59"
   },
   "SHEETS": {
    "count": 5240,
@@ -10372,6 +10372,6 @@
    "last": "2026-11-05 20:26:25"
   }
  },
- "generated_at": "2026-11-06T12:25:40",
- "total": 37700
+ "generated_at": "2026-11-06T12:58:26",
+ "total": 37703
 }
