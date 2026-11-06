@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Argentinian Liga A Gimnasia Indalo 77, Independiente de Oliva 76",
+   "detected_at": "2026-11-06 16:56:43",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-05/Gimnasia-Indalo-at-Independiente-de-Oliva/544928"
+  },
+  {
+   "detail": "Belarusian BPL Grodno 93 74, Borisfen Mogilev 65",
+   "detected_at": "2026-11-06 16:56:37",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-05/Grodno-93-at-Borisfen-Mogilev/544898"
+  },
+  {
+   "detail": "Belarusian BPL ~ RETURN Artem Puchko → Borisfen Mogilev (from Borisfen Mogilev Youth)",
+   "detected_at": "2026-11-06 16:56:34",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
    "detail": "Ryan Rollins  ~ position: Point guard / shooting guard -> Point guard",
    "detected_at": "2026-11-06 16:22:34",
    "source": "WIKI",
@@ -10240,27 +10261,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Spanish Liga U Barca Liga U 89, Casademont Zaragoza Liga U 85",
-   "detected_at": "2026-11-01 10:53:35",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-30/Barca-Liga-U-at-Casademont-Zaragoza-Liga-U/541958"
-  },
-  {
-   "detail": "Spanish Liga U + Carlos Rodriguez Fuentes → Barca Liga U",
-   "detected_at": "2026-11-01 10:53:32",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Liga U + Issa Kamate → Barca Liga U",
-   "detected_at": "2026-11-01 10:53:32",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10281,12 +10281,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 11173,
-   "last": "2026-11-06 14:53:50"
+   "count": 11174,
+   "last": "2026-11-06 16:56:34"
   },
   "SCORES": {
-   "count": 4187,
-   "last": "2026-11-06 15:55:46"
+   "count": 4189,
+   "last": "2026-11-06 16:56:43"
   },
   "SHEETS": {
    "count": 5240,
@@ -10305,6 +10305,6 @@
    "last": "2026-11-05 20:26:25"
   }
  },
- "generated_at": "2026-11-06T16:54:41",
- "total": 37787
+ "generated_at": "2026-11-06T16:57:06",
+ "total": 37790
 }
