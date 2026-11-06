@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Joan Sastre (basketball)  ~ number: - -> 43",
+   "detected_at": "2026-11-06 11:55:34",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Joan_Sastre_(basketball)"
+  },
+  {
+   "detail": "Both Gach  ~ CAREER  + 2023–2024 BC Nokia",
+   "detected_at": "2026-11-06 11:55:34",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Both_Gach"
+  },
+  {
+   "detail": "Boris Tišma  ~ number: - -> 17",
+   "detected_at": "2026-11-06 11:55:34",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Boris_Ti%C5%A1ma"
+  },
+  {
    "detail": "NCAA Western Kentucky 82, Kentucky Wesleyan 48",
    "detected_at": "2026-11-06 11:25:39",
    "source": "SCORES",
@@ -10307,27 +10328,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "South Korean KBL Korea Gas Corporation 94, Ulsan Mobis Phoebus 67",
-   "detected_at": "2026-11-01 03:42:08",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/Ulsan-Mobis-Phoebus-at-Korea-Gas-Corporation/530396"
-  },
-  {
-   "detail": "South Korean KBL ~ RETURN Daeheon Lee → Ulsan Mobis Phoebus (from Anyang Kwan Jang)",
-   "detected_at": "2026-11-01 03:42:05",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "South Korean KBL + Byeonghun Bae → Ulsan Mobis Phoebus",
-   "detected_at": "2026-11-01 03:42:05",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10364,14 +10364,14 @@
    "last": "2026-11-06 05:52:12"
   },
   "WIKI": {
-   "count": 7701,
-   "last": "2026-11-06 08:21:34"
+   "count": 7704,
+   "last": "2026-11-06 11:55:34"
   },
   "WIKIWATCH": {
    "count": 589,
    "last": "2026-11-05 20:26:25"
   }
  },
- "generated_at": "2026-11-06T11:25:42",
- "total": 37697
+ "generated_at": "2026-11-06T11:55:36",
+ "total": 37700
 }
