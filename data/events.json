@@ -1,6 +1,48 @@
 {
  "events": [
   {
+   "detail": "Lithuanian NKL Telsiai 103, Silute 63",
+   "detected_at": "2026-11-06 14:53:58",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-05/Silute-at-Telsiai/546098"
+  },
+  {
+   "detail": "Lithuanian NKL Olimpas Palangos 100, Kretingos Kretinga 86",
+   "detected_at": "2026-11-06 14:53:53",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-05/Olimpas-Palangos-at-Kretingos-Kretinga/546099"
+  },
+  {
+   "detail": "Lithuanian NKL + Matas Vaitkus → Olimpas Palangos",
+   "detected_at": "2026-11-06 14:53:50",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian NKL Kauno LKKA Atletas 80, Kedainiu SC 66",
+   "detected_at": "2026-11-06 14:53:47",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-05/Kauno-LKKA-Atletas-at-Kedainiu-SC/546100"
+  },
+  {
+   "detail": "Lithuanian NKL Jurbarko Jurbarkas Karys 97, Omega Tauras Kauno 86",
+   "detected_at": "2026-11-06 14:53:42",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-05/Jurbarko-Jurbarkas-Karys-at-Omega-Tauras-Kauno/546101"
+  },
+  {
+   "detail": "Bassala Bagayoko  ~ number: - -> 33",
+   "detected_at": "2026-11-06 14:53:34",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Bassala_Bagayoko"
+  },
+  {
    "detail": "NCAA Illinois State 100, Central State OH 55",
    "detected_at": "2026-11-06 13:33:30",
    "source": "SCORES",
@@ -10286,48 +10328,6 @@
    "source": "REALGM",
    "type": "MOVED",
    "url": ""
-  },
-  {
-   "detail": "Greek HEBA A1 Vikos Ioanninon 95, AEK Athens 84",
-   "detected_at": "2026-11-01 10:49:15",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/AEK-Athens-at-Vikos-Ioanninon/543351"
-  },
-  {
-   "detail": "Greek HEBA A1 + Adam Terrell → Vikos Ioanninon",
-   "detected_at": "2026-11-01 10:49:13",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese BLeague Ibaraki Robots 101, Levanga Hokkaido 69",
-   "detected_at": "2026-11-01 10:49:10",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/Levanga-Hokkaido-at-Ibaraki-Robots/524790"
-  },
-  {
-   "detail": "Japanese BLeague Nagasaki Velca 81, Kobe Storks 71",
-   "detected_at": "2026-11-01 10:49:04",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/Nagasaki-Velca-at-Kobe-Storks/524789"
-  },
-  {
-   "detail": "Japanese BLeague Toyama Grouses 100, Chiba Jets 93",
-   "detected_at": "2026-11-01 10:48:59",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/Toyama-Grouses-at-Chiba-Jets/524788"
-  },
-  {
-   "detail": "Australian NBL Brisbane 96, Adelaide 89",
-   "detected_at": "2026-11-01 10:48:51",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-01/Brisbane-at-Adelaide/524424"
   }
  ],
  "feeds": {
@@ -10348,12 +10348,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 11172,
-   "last": "2026-11-06 12:25:56"
+   "count": 11173,
+   "last": "2026-11-06 14:53:50"
   },
   "SCORES": {
-   "count": 4180,
-   "last": "2026-11-06 13:33:30"
+   "count": 4184,
+   "last": "2026-11-06 14:53:58"
   },
   "SHEETS": {
    "count": 5240,
@@ -10364,14 +10364,14 @@
    "last": "2026-11-06 05:52:12"
   },
   "WIKI": {
-   "count": 7705,
-   "last": "2026-11-06 13:32:33"
+   "count": 7706,
+   "last": "2026-11-06 14:53:34"
   },
   "WIKIWATCH": {
    "count": 589,
    "last": "2026-11-05 20:26:25"
   }
  },
- "generated_at": "2026-11-06T14:24:26",
- "total": 37710
+ "generated_at": "2026-11-06T14:54:18",
+ "total": 37716
 }
