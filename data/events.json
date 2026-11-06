@@ -1,6 +1,34 @@
 {
  "events": [
   {
+   "detail": "NCAA Howard 94, Alcorn State 83",
+   "detected_at": "2026-11-06 08:56:26",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-05/Howard-at-Alcorn-State/542923"
+  },
+  {
+   "detail": "NCAA Charleston Southern 86, Columbia International 49",
+   "detected_at": "2026-11-06 08:56:20",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-05/Columbia-International-at-Charleston-Southern/532473"
+  },
+  {
+   "detail": "NCAA Charlotte 77, Georgia State 67",
+   "detected_at": "2026-11-06 08:56:14",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-05/Georgia-State-at-Charlotte/542921"
+  },
+  {
+   "detail": "NCAA Columbia 120, Old Westbury 58",
+   "detected_at": "2026-11-06 08:56:07",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-05/Old-Westbury-at-Columbia/542483"
+  },
+  {
    "detail": "Caio Torres  ~ career_end: - -> 2022",
    "detected_at": "2026-11-06 08:21:34",
    "source": "WIKI",
@@ -10300,34 +10328,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB Club Esportiu Basquet Lliria 70, Ciudad Molina Basket 68",
-   "detected_at": "2026-11-01 03:41:12",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/Club-Esportiu-Basquet-Lliria-at-Ciudad-Molina-Basket/527789"
-  },
-  {
-   "detail": "Spanish Segunda FEB Class Basquet Sant Antoni 71, Reina Proteinas Clavijo 61",
-   "detected_at": "2026-11-01 03:41:07",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/Reina-Proteinas-Clavijo-at-Class-Basquet-Sant-Antoni/527788"
-  },
-  {
-   "detail": "Spanish Segunda FEB Proinbeni UPB Gandia 74, Lobe Huesca La Magia 72",
-   "detected_at": "2026-11-01 03:41:02",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/Lobe-Huesca-La-Magia-at-Proinbeni-UPB-Gandia/527787"
-  },
-  {
-   "detail": "Spanish Segunda FEB + Imru Duke → Lobe Huesca La Magia",
-   "detected_at": "2026-11-01 03:40:59",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10352,8 +10352,8 @@
    "last": "2026-11-06 07:27:52"
   },
   "SCORES": {
-   "count": 4156,
-   "last": "2026-11-06 07:29:26"
+   "count": 4160,
+   "last": "2026-11-06 08:56:26"
   },
   "SHEETS": {
    "count": 5240,
@@ -10372,6 +10372,6 @@
    "last": "2026-11-05 20:26:25"
   }
  },
- "generated_at": "2026-11-06T08:21:35",
- "total": 37680
+ "generated_at": "2026-11-06T08:56:29",
+ "total": 37684
 }
