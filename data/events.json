@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "NCAA Lehigh 71, Cornell 64",
+   "detected_at": "2026-11-06 10:03:18",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-05/Cornell-at-Lehigh/542482"
+  },
+  {
+   "detail": "NCAA Cincinnati 81, Green Bay 64",
+   "detected_at": "2026-11-06 10:03:12",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-05/Green-Bay-at-Cincinnati/541020"
+  },
+  {
+   "detail": "NCAA Syracuse 102, Central Connecticut State 49",
+   "detected_at": "2026-11-06 10:03:06",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-05/Central-Connecticut-State-at-Syracuse/530422"
+  },
+  {
    "detail": "NCAA Howard 94, Alcorn State 83",
    "detected_at": "2026-11-06 08:56:26",
    "source": "SCORES",
@@ -10307,27 +10328,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/KK-Rabotnicki-AD-Skipje-at-KK-Madzari/543382"
-  },
-  {
-   "detail": "Macedonian Superleague + Damjan Stojanoski → KK Madzari",
-   "detected_at": "2026-11-01 03:41:20",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB Melilla Ciudad Del Deporte 92, Movistar Estudiantes 75",
-   "detected_at": "2026-11-01 03:41:18",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-10-31/Melilla-Ciudad-Del-Deporte-at-Movistar-Estudiantes/527614"
-  },
-  {
-   "detail": "Spanish Segunda FEB + Felipe Diaz Martinez → Movistar Estudiantes",
-   "detected_at": "2026-11-01 03:41:15",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10352,8 +10352,8 @@
    "last": "2026-11-06 07:27:52"
   },
   "SCORES": {
-   "count": 4160,
-   "last": "2026-11-06 08:56:26"
+   "count": 4163,
+   "last": "2026-11-06 10:03:18"
   },
   "SHEETS": {
    "count": 5240,
@@ -10372,6 +10372,6 @@
    "last": "2026-11-05 20:26:25"
   }
  },
- "generated_at": "2026-11-06T09:54:29",
- "total": 37684
+ "generated_at": "2026-11-06T10:03:20",
+ "total": 37687
 }
