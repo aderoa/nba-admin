@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Argentinian Liga A Obera Tenis Club 98, Atletico Argentino de Junin 84",
+   "detected_at": "2026-11-06 17:57:46",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-05/Atletico-Argentino-de-Junin-at-Obera-Tenis-Club/544930"
+  },
+  {
+   "detail": "Brazilian NBB Sao Jose Unimed Vinac 90, Osasco Basquete 81",
+   "detected_at": "2026-11-06 17:57:39",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-05/Sao-Jose-Unimed-Vinac-at-Osasco-Basquete/545145"
+  },
+  {
    "detail": "Argentinian Liga A Gimnasia Indalo 77, Independiente de Oliva 76",
    "detected_at": "2026-11-06 16:56:43",
    "source": "SCORES",
@@ -10247,20 +10261,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Spanish Liga U + Mohamed Sangare → CB Canarias Liga U",
-   "detected_at": "2026-11-01 10:53:38",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Liga U + Alejandro Guerra Lozano → CB Canarias Liga U",
-   "detected_at": "2026-11-01 10:53:38",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10285,8 +10285,8 @@
    "last": "2026-11-06 16:56:34"
   },
   "SCORES": {
-   "count": 4189,
-   "last": "2026-11-06 16:56:43"
+   "count": 4191,
+   "last": "2026-11-06 17:57:46"
   },
   "SHEETS": {
    "count": 5240,
@@ -10305,6 +10305,6 @@
    "last": "2026-11-05 20:26:25"
   }
  },
- "generated_at": "2026-11-06T17:56:10",
- "total": 37790
+ "generated_at": "2026-11-06T17:58:10",
+ "total": 37792
 }
