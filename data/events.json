@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "NCAA Fairleigh Dickinson 93, City College of New York 56",
+   "detected_at": "2026-11-07 20:03:05",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-07/City-College-of-New-York-at-Fairleigh-Dickinson/539311"
+  },
+  {
+   "detail": "Australian NBL Melbourne 120, Brisbane 92",
+   "detected_at": "2026-11-07 20:02:38",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-07/Brisbane-at-Melbourne/524430"
+  },
+  {
    "detail": "Karvel Anderson  ~ team: Saint-Quentin -> Saint-Quentin Basket-Ball",
    "detected_at": "2026-11-07 19:10:35",
    "source": "WIKI",
@@ -10211,20 +10225,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-11-01/Black-Fortress-Dinavia-Tbilisi-at-Orbi/543825"
-  },
-  {
-   "detail": "Japanese BLeague Gunma Crane Thunders 102, Osaka Evessa 60",
-   "detected_at": "2026-11-02 19:00:07",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-01/Osaka-Evessa-at-Gunma-Crane-Thunders/524803"
-  },
-  {
-   "detail": "Japanese BLeague Toyota Alvark 106, Link Tochigi Brex 71",
-   "detected_at": "2026-11-02 19:00:02",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-01/Link-Tochigi-Brex-at-Toyota-Alvark/524804"
   }
  ],
  "feeds": {
@@ -10249,8 +10249,8 @@
    "last": "2026-11-07 12:12:27"
   },
   "SCORES": {
-   "count": 4327,
-   "last": "2026-11-07 15:39:27"
+   "count": 4329,
+   "last": "2026-11-07 20:03:05"
   },
   "SHEETS": {
    "count": 5240,
@@ -10269,6 +10269,6 @@
    "last": "2026-11-07 16:53:20"
   }
  },
- "generated_at": "2026-11-07T20:01:10",
- "total": 38134
+ "generated_at": "2026-11-07T20:03:09",
+ "total": 38136
 }
