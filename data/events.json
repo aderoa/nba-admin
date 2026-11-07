@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Karvel Anderson  ~ team: Saint-Quentin -> Saint-Quentin Basket-Ball",
+   "detected_at": "2026-11-07 19:10:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Karvel_Anderson"
+  },
+  {
+   "detail": "Karvel Anderson  ~ number: 0 -> 3",
+   "detected_at": "2026-11-07 19:10:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Karvel_Anderson"
+  },
+  {
    "detail": "Kristaps Porziņģis  ~ career_end: - -> 2026",
    "detected_at": "2026-11-07 18:23:35",
    "source": "WIKI",
@@ -10211,20 +10225,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-11-01/Link-Tochigi-Brex-at-Toyota-Alvark/524804"
-  },
-  {
-   "detail": "Japanese BLeague Aishin Sea Horses 84, Saga Ballooners 78",
-   "detected_at": "2026-11-02 18:59:57",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-01/Saga-Ballooners-at-Aishin-Sea-Horses/524805"
-  },
-  {
-   "detail": "Japanese BLeague Nagoya Diamond Dolphins 87, Shiga Lakestars 64",
-   "detected_at": "2026-11-02 18:59:52",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-01/Shiga-Lakestars-at-Nagoya-Diamond-Dolphins/524806"
   }
  ],
  "feeds": {
@@ -10261,14 +10261,14 @@
    "last": "2026-11-06 05:52:12"
   },
   "WIKI": {
-   "count": 7832,
-   "last": "2026-11-07 18:23:35"
+   "count": 7834,
+   "last": "2026-11-07 19:10:35"
   },
   "WIKIWATCH": {
    "count": 595,
    "last": "2026-11-07 16:53:20"
   }
  },
- "generated_at": "2026-11-07T19:01:38",
- "total": 38132
+ "generated_at": "2026-11-07T19:10:37",
+ "total": 38134
 }
