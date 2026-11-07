@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Grayson Allen  ~ height_in: 3 -> 4",
+   "detected_at": "2026-11-07 23:13:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Grayson_Allen"
+  },
+  {
    "detail": "NCAA North Dakota 93, Winthrop 90",
    "detected_at": "2026-11-07 21:09:11",
    "source": "SCORES",
@@ -10218,13 +10225,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-11-01/Mitteldeutscher-BC-at-Veolia-Towers-Hamburg/528667"
-  },
-  {
-   "detail": "German BBL ~ RETURN Jamil Muttilib → Veolia Towers Hamburg (from SC Rist Wedel)",
-   "detected_at": "2026-11-02 19:00:19",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10261,14 +10261,14 @@
    "last": "2026-11-06 05:52:12"
   },
   "WIKI": {
-   "count": 7835,
-   "last": "2026-11-07 21:08:35"
+   "count": 7836,
+   "last": "2026-11-07 23:13:36"
   },
   "WIKIWATCH": {
    "count": 595,
    "last": "2026-11-07 16:53:20"
   }
  },
- "generated_at": "2026-11-07T22:31:21",
- "total": 38139
+ "generated_at": "2026-11-07T23:13:37",
+ "total": 38140
 }
