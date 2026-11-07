@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "NCAA North Dakota 93, Winthrop 90",
+   "detected_at": "2026-11-07 21:09:11",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-07/North-Dakota-at-Winthrop/542934"
+  },
+  {
+   "detail": "NCAA Louisville 107, Morehead State 57",
+   "detected_at": "2026-11-07 21:09:06",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-07/Morehead-State-at-Louisville/539067"
+  },
+  {
+   "detail": "Isaiah Mobley  ~ number: - -> 33",
+   "detected_at": "2026-11-07 21:08:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Isaiah_Mobley"
+  },
+  {
    "detail": "NCAA Fairleigh Dickinson 93, City College of New York 56",
    "detected_at": "2026-11-07 20:03:05",
    "source": "SCORES",
@@ -10204,27 +10225,6 @@
    "source": "REALGM",
    "type": "RETURN",
    "url": ""
-  },
-  {
-   "detail": "Georgian Super Liga VSA Telavi 89, Kutaisi 80",
-   "detected_at": "2026-11-02 19:00:17",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-01/Kutaisi-at-VSA-Telavi/543826"
-  },
-  {
-   "detail": "Georgian Super Liga + Temur Khitarishvili → Kutaisi",
-   "detected_at": "2026-11-02 19:00:14",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Georgian Super Liga Orbi 82, Black Fortress Dinavia Tbilisi 81",
-   "detected_at": "2026-11-02 19:00:12",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-01/Black-Fortress-Dinavia-Tbilisi-at-Orbi/543825"
   }
  ],
  "feeds": {
@@ -10249,8 +10249,8 @@
    "last": "2026-11-07 12:12:27"
   },
   "SCORES": {
-   "count": 4329,
-   "last": "2026-11-07 20:03:05"
+   "count": 4331,
+   "last": "2026-11-07 21:09:11"
   },
   "SHEETS": {
    "count": 5240,
@@ -10261,14 +10261,14 @@
    "last": "2026-11-06 05:52:12"
   },
   "WIKI": {
-   "count": 7834,
-   "last": "2026-11-07 19:10:35"
+   "count": 7835,
+   "last": "2026-11-07 21:08:35"
   },
   "WIKIWATCH": {
    "count": 595,
    "last": "2026-11-07 16:53:20"
   }
  },
- "generated_at": "2026-11-07T20:34:30",
- "total": 38136
+ "generated_at": "2026-11-07T21:09:15",
+ "total": 38139
 }
