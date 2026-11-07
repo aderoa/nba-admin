@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Kristaps Porziņģis  ~ career_end: - -> 2026",
+   "detected_at": "2026-11-07 18:23:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kristaps_Porzi%C5%86%C4%A3is"
+  },
+  {
+   "detail": "Kristaps Porziņģis  ~ CAREER  + –2026 Golden State Warriors",
+   "detected_at": "2026-11-07 18:23:35",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Kristaps_Porzi%C5%86%C4%A3is"
+  },
+  {
    "detail": "Patrick McCaw  ~ team: Raptors 905 -> Free agent",
    "detected_at": "2026-11-07 17:38:35",
    "source": "WIKI",
@@ -10211,20 +10225,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-11-01/Shiga-Lakestars-at-Nagoya-Diamond-Dolphins/524806"
-  },
-  {
-   "detail": "Japanese BLeague Sanen Neophoenix 96, Ryukyu Golden Kings 86",
-   "detected_at": "2026-11-02 18:59:47",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-01/Sanen-Neophoenix-at-Ryukyu-Golden-Kings/524807"
-  },
-  {
-   "detail": "Japanese BLeague Yokohama B Corsairs 77, Kawasaki Brave Thunders 66",
-   "detected_at": "2026-11-02 18:59:42",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-01/Yokohama-B-Corsairs-at-Kawasaki-Brave-Thunders/524808"
   }
  ],
  "feeds": {
@@ -10261,14 +10261,14 @@
    "last": "2026-11-06 05:52:12"
   },
   "WIKI": {
-   "count": 7830,
-   "last": "2026-11-07 17:38:35"
+   "count": 7832,
+   "last": "2026-11-07 18:23:35"
   },
   "WIKIWATCH": {
    "count": 595,
    "last": "2026-11-07 16:53:20"
   }
  },
- "generated_at": "2026-11-07T18:15:09",
- "total": 38130
+ "generated_at": "2026-11-07T18:23:37",
+ "total": 38132
 }
