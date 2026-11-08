@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Jeremy Pargo  ~ number: - -> 2",
+   "detected_at": "2026-11-08 11:51:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jeremy_Pargo"
+  },
+  {
    "detail": "French Jeep Elite ASVEL Basket 106, Pau Orthez 97",
    "detected_at": "2026-11-08 11:18:51",
    "source": "SCORES",
@@ -10267,13 +10274,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Carnegie-Mellon-at-Princeton/542470"
-  },
-  {
-   "detail": "NCAA George Mason 82, UMBC 54",
-   "detected_at": "2026-11-03 06:07:49",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/UMBC-at-George-Mason/539673"
   }
  ],
  "feeds": {
@@ -10310,14 +10310,14 @@
    "last": "2026-11-08 06:23:40"
   },
   "WIKI": {
-   "count": 7858,
-   "last": "2026-11-08 10:44:35"
+   "count": 7859,
+   "last": "2026-11-08 11:51:35"
   },
   "WIKIWATCH": {
    "count": 595,
    "last": "2026-11-07 16:53:20"
   }
  },
- "generated_at": "2026-11-08T11:19:11",
- "total": 38389
+ "generated_at": "2026-11-08T11:51:38",
+ "total": 38390
 }
