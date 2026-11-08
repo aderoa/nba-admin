@@ -1,6 +1,55 @@
 {
  "events": [
   {
+   "detail": "Terry Taylor (basketball)  ~ number: - -> 32",
+   "detected_at": "2026-11-08 14:01:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Terry_Taylor_(basketball)"
+  },
+  {
+   "detail": "Jazian Gortman  ~ number: - -> 18",
+   "detected_at": "2026-11-08 14:01:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jazian_Gortman"
+  },
+  {
+   "detail": "Kendall Brown (basketball)  ~ number: - -> 5",
+   "detected_at": "2026-11-08 14:01:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kendall_Brown_(basketball)"
+  },
+  {
+   "detail": "Jeremy Sochan  ~ number: - -> 10",
+   "detected_at": "2026-11-08 14:01:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jeremy_Sochan"
+  },
+  {
+   "detail": "Ricky Council IV  ~ number: - -> 14",
+   "detected_at": "2026-11-08 14:01:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Ricky_Council_IV"
+  },
+  {
+   "detail": "Jarron Cumberland  ~ number: - -> 34",
+   "detected_at": "2026-11-08 14:01:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jarron_Cumberland"
+  },
+  {
+   "detail": "Jeremy Sochan  ~ 139379: number -> -",
+   "detected_at": "2026-11-08 13:52:59",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "10"
+  },
+  {
    "detail": "Danish Basketligaen Randers Cimbria 96, Copenhagen Basketball 90",
    "detected_at": "2026-11-08 13:30:36",
    "source": "SCORES",
@@ -10225,55 +10274,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Miami-U--Middletown-at-IU-Indy/539953"
-  },
-  {
-   "detail": "NCAA Oregon State 102, Weber State 61",
-   "detected_at": "2026-11-03 06:11:42",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Weber-State-at-Oregon-State/542892"
-  },
-  {
-   "detail": "NCAA Fresno State 88, Fresno Pacific 79",
-   "detected_at": "2026-11-03 06:11:37",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Fresno-Pacific-at-Fresno-State/544409"
-  },
-  {
-   "detail": "NCAA Davidson 76, Washington State 61",
-   "detected_at": "2026-11-03 06:11:31",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Davidson-at-Washington-State/542901"
-  },
-  {
-   "detail": "NCAA New Mexico 100, Utah Tech 60",
-   "detected_at": "2026-11-03 06:11:25",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Utah-Tech-at-New-Mexico/542466"
-  },
-  {
-   "detail": "NCAA Utah 66, Long Beach State 63",
-   "detected_at": "2026-11-03 06:11:19",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Long-Beach-State-at-Utah/541010"
-  },
-  {
-   "detail": "NCAA Oklahoma State 91, Incarnate Word 60",
-   "detected_at": "2026-11-03 06:11:14",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Incarnate-Word-at-Oklahoma-State/539052"
-  },
-  {
-   "detail": "NCAA Minnesota 85, North Dakota 50",
-   "detected_at": "2026-11-03 06:11:08",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/North-Dakota-at-Minnesota/537432"
   }
  ],
  "feeds": {
@@ -10310,14 +10310,14 @@
    "last": "2026-11-08 06:23:40"
   },
   "WIKI": {
-   "count": 7859,
-   "last": "2026-11-08 11:51:35"
+   "count": 7865,
+   "last": "2026-11-08 14:01:35"
   },
   "WIKIWATCH": {
-   "count": 595,
-   "last": "2026-11-07 16:53:20"
+   "count": 596,
+   "last": "2026-11-08 13:52:59"
   }
  },
- "generated_at": "2026-11-08T13:30:57",
- "total": 38423
+ "generated_at": "2026-11-08T14:01:37",
+ "total": 38430
 }
