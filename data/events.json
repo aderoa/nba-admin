@@ -1,6 +1,587 @@
 {
  "events": [
   {
+   "detail": "Dillon Jones  ~ number: 35 -> 2",
+   "detected_at": "2026-11-08 07:13:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Dillon_Jones"
+  },
+  {
+   "detail": "NCAA UC Riverside 64, Denver 60",
+   "detected_at": "2026-11-08 06:40:02",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-07/Denver-at-UC-Riverside/542938"
+  },
+  {
+   "detail": "NCAA Morgan State 73, Niagara 67",
+   "detected_at": "2026-11-08 06:39:56",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-07/Morgan-State-at-Niagara/542493"
+  },
+  {
+   "detail": "NCAA Western Carolina 83, UNC Asheville 75",
+   "detected_at": "2026-11-08 06:39:50",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-07/Western-Carolina-at-UNC-Asheville/541510"
+  },
+  {
+   "detail": "NCAA Maryland Eastern Shore 81, Cheyney PA 55",
+   "detected_at": "2026-11-08 06:39:44",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-07/Cheyney-PA-at-Maryland-Eastern-Shore/542936"
+  },
+  {
+   "detail": "NCAA Mercyhurst 89, Penn State Shenango 50",
+   "detected_at": "2026-11-08 06:39:38",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-07/Penn-State-Shenango-at-Mercyhurst/539312"
+  },
+  {
+   "detail": "NCAA Sam Houston State 102, Howard Payne 59",
+   "detected_at": "2026-11-08 06:39:32",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-07/Howard-Payne-at-Sam-Houston-State/544425"
+  },
+  {
+   "detail": "NCAA New Orleans 90, Loyola NO 65",
+   "detected_at": "2026-11-08 06:39:27",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-07/Loyola-NO-at-New-Orleans/542487"
+  },
+  {
+   "detail": "NCAA Cal State Fullerton 87, South Dakota 85",
+   "detected_at": "2026-11-08 06:39:20",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-07/Cal-State-Fullerton-at-South-Dakota/539696"
+  },
+  {
+   "detail": "NCAA Georgia State 111, Andrew College 61",
+   "detected_at": "2026-11-08 06:39:14",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-07/Andrew-College-at-Georgia-State/544597"
+  },
+  {
+   "detail": "NCAA Oral Roberts 94, Northwestern Oklahoma State 39",
+   "detected_at": "2026-11-08 06:39:07",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-07/Northwestern-Oklahoma-State--at-Oral-Roberts/544599"
+  },
+  {
+   "detail": "NCAA Evansville 78, Southern Indiana 76",
+   "detected_at": "2026-11-08 06:39:01",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-07/Southern-Indiana-at-Evansville/542146"
+  },
+  {
+   "detail": "NCAA Southeastern Louisiana 83, Little Rock 79",
+   "detected_at": "2026-11-08 06:38:55",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-07/Southeastern-Louisiana-at-Little-Rock/539987"
+  },
+  {
+   "detail": "NCAA Pacific 63, Bradley 52",
+   "detected_at": "2026-11-08 06:38:48",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-07/Pacific-at-Bradley/537983"
+  },
+  {
+   "detail": "NCAA Duquesne 68, Central State OH 58",
+   "detected_at": "2026-11-08 06:38:42",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-07/Central-State-OH-at-Duquesne/542933"
+  },
+  {
+   "detail": "NCAA Georgetown 86, Maryland 74",
+   "detected_at": "2026-11-08 06:38:36",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-07/Maryland-at-Georgetown/530437"
+  },
+  {
+   "detail": "NCAA Davidson 88, Mercer 76",
+   "detected_at": "2026-11-08 06:38:30",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-07/Mercer-at-Davidson/542937"
+  },
+  {
+   "detail": "NCAA Houston Christian 74, Western Illinois 67",
+   "detected_at": "2026-11-08 06:38:23",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-07/Western-Illinois-at-Houston-Christian/542488"
+  },
+  {
+   "detail": "NCAA Northern Illinois 81, Dayton 76",
+   "detected_at": "2026-11-08 06:38:17",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-07/Northern-Illinois-at-Dayton/532316"
+  },
+  {
+   "detail": "NCAA St Bonaventure 88, Canisius 49",
+   "detected_at": "2026-11-08 06:38:10",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-07/St-Bonaventure-at-Canisius/532315"
+  },
+  {
+   "detail": "NCAA George Washington 75, Hampton 61",
+   "detected_at": "2026-11-08 06:38:05",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-07/Hampton-at-George-Washington/543717"
+  },
+  {
+   "detail": "NCAA New Mexico 94, Northern Arizona 65",
+   "detected_at": "2026-11-08 06:37:59",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-07/Northern-Arizona-at-New-Mexico/542491"
+  },
+  {
+   "detail": "NCAA Furman 98, Northern Iowa 83",
+   "detected_at": "2026-11-08 06:37:53",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-07/Northern-Iowa-at-Furman/542931"
+  },
+  {
+   "detail": "NCAA Old Dominion 82, Bucknell 62",
+   "detected_at": "2026-11-08 06:37:47",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-07/Old-Dominion-at-Bucknell/542489"
+  },
+  {
+   "detail": "NCAA Lipscomb 78, SIU Edwardsville 77",
+   "detected_at": "2026-11-08 06:37:41",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-07/SIU-Edwardsville-at-Lipscomb/539990"
+  },
+  {
+   "detail": "NCAA High Point 83, Washington State 71",
+   "detected_at": "2026-11-08 06:37:34",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-07/Washington-State-at-High-Point/539697"
+  },
+  {
+   "detail": "NCAA Miami OH 80, Bellarmine 73",
+   "detected_at": "2026-11-08 06:37:28",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-07/Bellarmine-at-Miami-OH/531978"
+  },
+  {
+   "detail": "NCAA UC Santa Barbara 90, Oakland 67",
+   "detected_at": "2026-11-08 06:37:22",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-07/Oakland-at-UC-Santa-Barbara/544334"
+  },
+  {
+   "detail": "NCAA UNLV 88, Samford 79",
+   "detected_at": "2026-11-08 06:37:15",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-07/Samford-at-UNLV/542490"
+  },
+  {
+   "detail": "NCAA Saint Josephs 67, Lafayette 57",
+   "detected_at": "2026-11-08 06:37:09",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-07/Lafayette-at-Saint-Josephs/539695"
+  },
+  {
+   "detail": "NCAA Rhode Island 84, Monmouth 66",
+   "detected_at": "2026-11-08 06:37:03",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-07/Monmouth-at-Rhode-Island/539694"
+  },
+  {
+   "detail": "NCAA La Salle 88, Long Island 80",
+   "detected_at": "2026-11-08 06:36:57",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-07/Long-Island-at-La-Salle/539310"
+  },
+  {
+   "detail": "NCAA San Diego State 77, Colorado 66",
+   "detected_at": "2026-11-08 06:36:50",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-07/Colorado-at-San-Diego-State/530435"
+  },
+  {
+   "detail": "NCAA Montana State 83, Long Beach State 70",
+   "detected_at": "2026-11-08 06:36:44",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-07/Long-Beach-State-at-Montana-State/542366"
+  },
+  {
+   "detail": "NCAA Longwood 80, North Carolina Central 75",
+   "detected_at": "2026-11-08 06:36:37",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-07/North-Carolina-Central-at-Longwood/541509"
+  },
+  {
+   "detail": "NCAA Liberty 113, Boyce 54",
+   "detected_at": "2026-11-08 06:36:31",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-07/Boyce-at-Liberty/543716"
+  },
+  {
+   "detail": "NCAA Drexel 77, Colgate 74",
+   "detected_at": "2026-11-08 06:36:25",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-07/Colgate-at-Drexel/539988"
+  },
+  {
+   "detail": "NCAA Toledo 81, Marshall 76",
+   "detected_at": "2026-11-08 06:36:19",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-07/Toledo-at-Marshall/539986"
+  },
+  {
+   "detail": "NCAA UNC Wilmington 78, East Carolina 75",
+   "detected_at": "2026-11-08 06:36:14",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-07/UNC-Wilmington-at-East-Carolina/539068"
+  },
+  {
+   "detail": "NCAA Abilene Christian 83, Lamar 81",
+   "detected_at": "2026-11-08 06:36:08",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-07/Lamar-at-Abilene-Christian/538489"
+  },
+  {
+   "detail": "NCAA Ohio 80, North Carolina AT 70",
+   "detected_at": "2026-11-08 06:36:02",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-07/North-Carolina-AT-at-Ohio/539985"
+  },
+  {
+   "detail": "NCAA Grand Canyon 99, Bethune Cookman 81",
+   "detected_at": "2026-11-08 06:35:56",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-07/Bethune-Cookman-at-Grand-Canyon/532477"
+  },
+  {
+   "detail": "NCAA Utah State 90, Omaha 56",
+   "detected_at": "2026-11-08 06:35:50",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-07/Omaha-at-Utah-State/544598"
+  },
+  {
+   "detail": "NCAA Memphis 89, VCU 88",
+   "detected_at": "2026-11-08 06:35:43",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-07/VCU-at-Memphis/539066"
+  },
+  {
+   "detail": "NCAA Nebraska 67, Providence 58",
+   "detected_at": "2026-11-08 06:35:36",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-07/Nebraska-at-Providence/530436"
+  },
+  {
+   "detail": "NCAA Gonzaga 109, New Mexico State 68",
+   "detected_at": "2026-11-08 06:35:28",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-07/New-Mexico-State-at-Gonzaga/544424"
+  },
+  {
+   "detail": "Montenegrin Prva A Liga KK Sutjeska 109, KK Lovcen Cetinje 88",
+   "detected_at": "2026-11-08 06:35:05",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-06/KK-Lovcen-Cetinje-at-KK-Sutjeska/546032"
+  },
+  {
+   "detail": "Montenegrin Prva A Liga + Uros Dakovic → KK Sutjeska",
+   "detected_at": "2026-11-08 06:35:01",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Serbian KLS KK Vojvodina Novi Sad 101, Radnicki 1950 Kragujevac 69",
+   "detected_at": "2026-11-08 06:34:58",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-06/Radnicki-1950-Kragujevac-at-KK-Vojvodina-Novi-Sad/545557"
+  },
+  {
+   "detail": "Serbian KLS + Dimitrije Otovic → Radnicki 1950 Kragujevac",
+   "detected_at": "2026-11-08 06:34:55",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "South Korean KBL Suwon KT Sonicboom 92, Korea Gas Corporation 81",
+   "detected_at": "2026-11-08 06:34:50",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-07/Korea-Gas-Corporation-at-Suwon-KT-Sonicboom/531790"
+  },
+  {
+   "detail": "South Korean KBL + Min-Jae Park → Suwon KT Sonicboom",
+   "detected_at": "2026-11-08 06:34:47",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "South Korean KBL Changwon LG Sakers 86, Goyang Sono Skygunners 85",
+   "detected_at": "2026-11-08 06:34:44",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-07/Goyang-Sono-Skygunners-at-Changwon-LG-Sakers/531788"
+  },
+  {
+   "detail": "South Korean KBL + Jong Ha Park → Goyang Sono Skygunners",
+   "detected_at": "2026-11-08 06:34:40",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "South Korean KBL + Kwangjin Lee → Changwon LG Sakers",
+   "detected_at": "2026-11-08 06:34:40",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "South Korean KBL Wonju Dongbu Promy 84, Seoul Samsung Thunders 76",
+   "detected_at": "2026-11-08 06:34:38",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-07/Seoul-Samsung-Thunders-at-Wonju-Dongbu-Promy/531789"
+  },
+  {
+   "detail": "South Korean KBL + Yeo Jun-Hyung → Seoul Samsung Thunders",
+   "detected_at": "2026-11-08 06:34:34",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish Segunda FEB Lobe Huesca La Magia 84, CB Zaragoza 80",
+   "detected_at": "2026-11-08 06:34:31",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-07/CB-Zaragoza-at-Lobe-Huesca-La-Magia/527794"
+  },
+  {
+   "detail": "Spanish Primera FEB Dreamland Gran Canaria 87, Gipuzkoa Basket 66",
+   "detected_at": "2026-11-08 06:34:25",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-07/Gipuzkoa-Basket-at-Dreamland-Gran-Canaria/532918"
+  },
+  {
+   "detail": "Spanish Primera FEB + Kevin Bercy → Gipuzkoa Basket",
+   "detected_at": "2026-11-08 06:34:21",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "VTB United League Lokomotiv Kuban 106, Parma Basket Perm 84",
+   "detected_at": "2026-11-08 06:34:19",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-07/Parma-Basket-Perm-at-Lokomotiv-Kuban/533315"
+  },
+  {
+   "detail": "Spanish ACB Baskonia 98, Forca Lleida CE 93",
+   "detected_at": "2026-11-08 06:34:12",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-07/Baskonia-at-Forca-Lleida-CE/533466"
+  },
+  {
+   "detail": "VTB United League Uralmash 101, MBA Moscow 85",
+   "detected_at": "2026-11-08 06:34:07",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-07/MBA-Moscow-at-Uralmash/533316"
+  },
+  {
+   "detail": "VTB United League ~ RETURN Ivan Karpenko → MBA Moscow (from MBA 2 Moscow)",
+   "detected_at": "2026-11-08 06:34:03",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "VTB United League ~ RETURN Mikhail Chernyshev → MBA Moscow (from MBA 2 Moscow)",
+   "detected_at": "2026-11-08 06:34:03",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "VTB United League Dynamo Vladivostok 111, Enisey Krasnoyarsk 97",
+   "detected_at": "2026-11-08 06:34:01",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-07/Dynamo-Vladivostok-at-Enisey-Krasnoyarsk/533317"
+  },
+  {
+   "detail": "Spanish ACB BAXI Manresa 100, Monbus Obradoiro 99",
+   "detected_at": "2026-11-08 06:33:55",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-07/Monbus-Obradoiro-at-BAXI-Manresa/533464"
+  },
+  {
+   "detail": "Spanish ACB + Isaiah Mobley → BAXI Manresa",
+   "detected_at": "2026-11-08 06:33:51",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB CB Girona 92, Bilbao Basket 87",
+   "detected_at": "2026-11-08 06:33:49",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-07/Bilbao-Basket-at-CB-Girona/533465"
+  },
+  {
+   "detail": "Spanish ACB + Isaac Vazquez → CB Girona",
+   "detected_at": "2026-11-08 06:33:45",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Serbian KLS KK Nis 78, KK Metalac Valjevo 64",
+   "detected_at": "2026-11-08 06:33:43",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-07/KK-Nis-at-KK-Metalac-Valjevo/545556"
+  },
+  {
+   "detail": "Serbian KLS KK Sloboda Uzice 81, KK Mladost Admiral Zemun 77",
+   "detected_at": "2026-11-08 06:33:37",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-07/KK-Sloboda-Uzice-at-KK-Mladost-Admiral-Zemun/545555"
+  },
+  {
+   "detail": "Spanish Segunda FEB CB Getafe 88, Movistar Estudiantes 80",
+   "detected_at": "2026-11-08 06:33:31",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-07/Movistar-Estudiantes-at-CB-Getafe/527620"
+  },
+  {
+   "detail": "Spanish Primera FEB Basquet Menorca 62, Buenos Arenas Albacete Basket 56",
+   "detected_at": "2026-11-08 06:33:25",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-07/Basquet-Menorca-at-Buenos-Arenas-Albacete-Basket/532915"
+  },
+  {
+   "detail": "Spanish Primera FEB Grupo Alega Cantabria Estela 73, Movistar Estudiantes 71",
+   "detected_at": "2026-11-08 06:33:19",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-07/Movistar-Estudiantes-at-Grupo-Alega-Cantabria-Estela/532917"
+  },
+  {
+   "detail": "Spanish Primera FEB HLA Alicante 97, Palma Basquet Mallorca 93",
+   "detected_at": "2026-11-08 06:33:12",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-07/Palma-Basquet-Mallorca-at-HLA-Alicante/532916"
+  },
+  {
+   "detail": "Spanish Segunda FEB Caceres Patrimonio La Humanidad 83, Culturaly Y Deportiva Leonesa 81",
+   "detected_at": "2026-11-08 06:33:06",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-07/Culturaly-Y-Deportiva-Leonesa-at-Caceres-Patrimonio-La-Humanidad/527618"
+  },
+  {
+   "detail": "Spanish Segunda FEB CB Tres Cantos 67, CB Badajoz 63",
+   "detected_at": "2026-11-08 06:32:49",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-07/CB-Tres-Cantos-at-CB-Badajoz/527617"
+  },
+  {
+   "detail": "Spanish Segunda FEB Club Esportiu Basquet Lliria 69, Basket Cartagena 63",
+   "detected_at": "2026-11-08 06:32:36",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-07/Basket-Cartagena-at-Club-Esportiu-Basquet-Lliria/527793"
+  },
+  {
+   "detail": "Spanish Primera FEB Club Ourense Baloncesto 86, Baloncesto Fuenlabrada 84",
+   "detected_at": "2026-11-08 06:32:27",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-07/Club-Ourense-Baloncesto-at-Baloncesto-Fuenlabrada/532914"
+  },
+  {
+   "detail": "Spanish Primera FEB Alimerka Oviedo Baloncesto 70, Coto Cordoba CB 63",
+   "detected_at": "2026-11-08 06:32:18",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-07/Coto-Cordoba-CB-at-Alimerka-Oviedo-Baloncesto/532920"
+  },
+  {
+   "detail": "Greek HEBA A1 Iraklis BC 95, Mykonos 64",
+   "detected_at": "2026-11-08 06:32:10",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-07/Mykonos-at-Iraklis-BC/543808"
+  },
+  {
+   "detail": "Greek HEBA A1 Kolossos Rodou BC 81, Peristeri Betsson 78",
+   "detected_at": "2026-11-08 06:32:00",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-07/Peristeri-Betsson-at-Kolossos-Rodou-BC/543807"
+  },
+  {
    "detail": "Greek HEBA A1 Aris Midea Thessaloniki 88, AE Doxa Lefkadas 77",
    "detected_at": "2026-11-08 06:31:16",
    "source": "SCORES",
@@ -9686,543 +10267,6 @@
    "detected_at": "2026-11-02 19:23:36",
    "source": "GLEAGUE",
    "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-11-01  Acquired: Ak Okereke (Lakers)",
-   "detected_at": "2026-11-02 19:23:36",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-11-01  Recalled: Jonathan Isaac (Magic)",
-   "detected_at": "2026-11-02 19:23:36",
-   "source": "GLEAGUE",
-   "type": "Call-Up/Recall"
-  },
-  {
-   "detail": "2026-11-01  Waivers Cleared: Colby Rogers",
-   "detected_at": "2026-11-02 19:23:36",
-   "source": "GLEAGUE",
-   "type": "Waived/Buyout"
-  },
-  {
-   "detail": "2026-11-01  Waivers Cleared: Jaden Seymour",
-   "detected_at": "2026-11-02 19:23:36",
-   "source": "GLEAGUE",
-   "type": "Waived/Buyout"
-  },
-  {
-   "detail": "2026-11-01  Waivers Cleared: Tyler Cochran",
-   "detected_at": "2026-11-02 19:23:36",
-   "source": "GLEAGUE",
-   "type": "Waived/Buyout"
-  },
-  {
-   "detail": "2026-11-01  Waivers Cleared: Trey Fort",
-   "detected_at": "2026-11-02 19:23:36",
-   "source": "GLEAGUE",
-   "type": "Waived/Buyout"
-  },
-  {
-   "detail": "2026-11-01  Waivers Cleared: Masai Olowokere",
-   "detected_at": "2026-11-02 19:23:36",
-   "source": "GLEAGUE",
-   "type": "Waived/Buyout"
-  },
-  {
-   "detail": "2026-11-01  Waivers Cleared: Jaxson Baker",
-   "detected_at": "2026-11-02 19:23:36",
-   "source": "GLEAGUE",
-   "type": "Waived/Buyout"
-  },
-  {
-   "detail": "2026-11-01  Waivers Cleared: Quion Burns",
-   "detected_at": "2026-11-02 19:23:36",
-   "source": "GLEAGUE",
-   "type": "Waived/Buyout"
-  },
-  {
-   "detail": "2026-11-01  Waivers Cleared: Faizon Fields",
-   "detected_at": "2026-11-02 19:23:36",
-   "source": "GLEAGUE",
-   "type": "Waived/Buyout"
-  },
-  {
-   "detail": "2026-11-01  Waivers Cleared: Jayden Pierre",
-   "detected_at": "2026-11-02 19:23:36",
-   "source": "GLEAGUE",
-   "type": "Waived/Buyout"
-  },
-  {
-   "detail": "2026-11-01  Recalled: Aj Johnson (Squadron)",
-   "detected_at": "2026-11-02 19:23:36",
-   "source": "GLEAGUE",
-   "type": "Call-Up/Recall"
-  },
-  {
-   "detail": "2026-11-01  Waived: Charles Matthews (Remix)",
-   "detected_at": "2026-11-02 19:23:36",
-   "source": "GLEAGUE",
-   "type": "Waived/Buyout"
-  },
-  {
-   "detail": "2026-11-01  Waived: Quinn Slazinski (Remix)",
-   "detected_at": "2026-11-02 19:23:36",
-   "source": "GLEAGUE",
-   "type": "Waived/Buyout"
-  },
-  {
-   "detail": "2026-11-01  Recalled: Max Strus (Clippers)",
-   "detected_at": "2026-11-02 19:23:36",
-   "source": "GLEAGUE",
-   "type": "Call-Up/Recall"
-  },
-  {
-   "detail": "2026-11-01  Recalled: Brandon Ingram (Clippers)",
-   "detected_at": "2026-11-02 19:23:36",
-   "source": "GLEAGUE",
-   "type": "Call-Up/Recall"
-  },
-  {
-   "detail": "2026-11-01  Recalled: Yanic Konan Niederhauser (Clippers)",
-   "detected_at": "2026-11-02 19:23:36",
-   "source": "GLEAGUE",
-   "type": "Call-Up/Recall"
-  },
-  {
-   "detail": "2026-11-02  Acquired: Tony Carr (Gold)",
-   "detected_at": "2026-11-02 19:23:36",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "CHA  CHANGED Salaun, Tidjane  -  col4: 10445631.84 -> -, col9: 18683511.84 -> 8237880",
-   "detected_at": "2026-11-02 19:23:33",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "CHA  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col4: 135694940.8 -> 125249309, col9: 437618918 -> 427173286.1",
-   "detected_at": "2026-11-02 19:23:33",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "CHA  CHANGED Players Under Contract  -  col4: 135694940.8 -> 125249309",
-   "detected_at": "2026-11-02 19:23:33",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "CHA  CHANGED Full Season Contracts  -  col4: 135694940.8 -> 125249309",
-   "detected_at": "2026-11-02 19:23:33",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "DEN  CHANGED Holmes, DaRon  -  col4: 5547137.4 -> -, col9: 8919257.4 -> 3372120",
-   "detected_at": "2026-11-02 19:23:33",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "DEN  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col4: 196195842 -> 190648704.6, col9: 612279462.3 -> 606732324.9",
-   "detected_at": "2026-11-02 19:23:33",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "DEN  CHANGED Players Under Contract  -  col4: 195529175.4 -> 189982038",
-   "detected_at": "2026-11-02 19:23:33",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "DEN  CHANGED Full Season Contracts  -  col4: 195529175.4 -> 189982038",
-   "detected_at": "2026-11-02 19:23:33",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "MIN  CHANGED Williams, Cody  -  col4: 7669889.999999999 -> -, col9: 13685490 -> 6015600",
-   "detected_at": "2026-11-02 19:23:33",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "MIN  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col4: 214138239.6 -> 206468349.6, col9: 728837796.6 -> 721167906.6",
-   "detected_at": "2026-11-02 19:23:33",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "MIN  CHANGED Players Under Contract  -  col4: 212083239.6 -> 204413349.6",
-   "detected_at": "2026-11-02 19:23:33",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "MIN  CHANGED Full Season Contracts  -  col4: 212083239.6 -> 204413349.6",
-   "detected_at": "2026-11-02 19:23:33",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "NOL  CHANGED Johnson, AJ  -  col4: 5493392.640000001 -> -, col9: 8730512.64 -> 3237120",
-   "detected_at": "2026-11-02 19:23:33",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "NOL  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col4: 185520545.3 -> 180027152.7, col9: 529714619.2 -> 524221226.6",
-   "detected_at": "2026-11-02 19:23:33",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "NOL  CHANGED Players Under Contract  -  col4: 185520545.3 -> 180027152.7",
-   "detected_at": "2026-11-02 19:23:33",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "NOL  CHANGED Full Season Contracts  -  col4: 185520545.3 -> 180027152.7",
-   "detected_at": "2026-11-02 19:23:33",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "NYK  CHANGED Dadiet, Pacome  -  col4: 5373608.0 -> -, col9: 8357288 -> 2983680",
-   "detected_at": "2026-11-02 19:23:33",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "NYK  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col4: 226663438 -> 221289830, col9: 645843109 -> 640469501",
-   "detected_at": "2026-11-02 19:23:33",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "NYK  CHANGED Players Under Contract  -  col4: 226663438 -> 221289830",
-   "detected_at": "2026-11-02 19:23:33",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "NYK  CHANGED Full Season Contracts  -  col4: 226663438 -> 221289830",
-   "detected_at": "2026-11-02 19:23:33",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "OKC  CHANGED Topic, Nikola  -  col4: 7482209.28 -> -, col9: 12911969.28 -> 5429760",
-   "detected_at": "2026-11-02 19:23:33",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "OKC  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col4: 199399367.7 -> 191917158.4, col9: 919864036.8 -> 912381827.5",
-   "detected_at": "2026-11-02 19:23:33",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "OKC  CHANGED Players Under Contract  -  col4: 199399367.7 -> 191917158.4",
-   "detected_at": "2026-11-02 19:23:33",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "OKC  CHANGED Full Season Contracts  -  col4: 199399367.7 -> 191917158.4",
-   "detected_at": "2026-11-02 19:23:33",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "2026-10-17  Boston Celtics waived forward Tucker DeVries.",
-   "detected_at": "2026-11-02 19:23:25",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
-  },
-  {
-   "detail": "2026-10-17  Cleveland Cavaliers waived forward Rashaun Agee.",
-   "detected_at": "2026-11-02 19:23:25",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
-  },
-  {
-   "detail": "NCAA High Point 72, Liberty 57",
-   "detected_at": "2026-11-02 19:03:31",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-01/Liberty-at-High-Point/545716"
-  },
-  {
-   "detail": "Argentinian Liga A Gimnasia Indalo 58, Instituto Atletico Central Cordoba 57",
-   "detected_at": "2026-11-02 19:03:05",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-01/Gimnasia-Indalo-at-Instituto-Atletico-Central-Cordoba/544887"
-  },
-  {
-   "detail": "Argentinian Liga A Asociacion Deportiva Atenas 95, Racing de Chivilcoy 94",
-   "detected_at": "2026-11-02 19:03:00",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-01/Racing-de-Chivilcoy-at-Asociacion-Deportiva-Atenas/544888"
-  },
-  {
-   "detail": "Argentinian Liga A ~ MOVED Joaquin Valinotti → Racing de Chivilcoy (from Mineros de Zacatecas)",
-   "detected_at": "2026-11-02 19:02:57",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
-  },
-  {
-   "detail": "Brazilian NBB Flamengo 83, Uniao Corinthians 65",
-   "detected_at": "2026-11-02 19:02:55",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-01/Uniao-Corinthians-at-Flamengo/545116"
-  },
-  {
-   "detail": "Brazilian NBB + Sam Freeman → Flamengo",
-   "detected_at": "2026-11-02 19:02:52",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Portuguese LPB Braga 98, Sporting Clube de Portugal 86",
-   "detected_at": "2026-11-02 19:02:50",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-01/Sporting-Clube-de-Portugal-at-Braga/534158"
-  },
-  {
-   "detail": "Portuguese LPB CD Povoa 75, Vitoria Alves Guimaraes 68",
-   "detected_at": "2026-11-02 19:02:45",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-01/CD-Povoa-at-Vitoria-Alves-Guimaraes/534160"
-  },
-  {
-   "detail": "Kosovo FBK Bora 88, KB Peja 75",
-   "detected_at": "2026-11-02 19:02:39",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-01/Bora-at-KB-Peja/535094"
-  },
-  {
-   "detail": "Kosovo FBK KB Trepca Mitrovice 89, Sigal Prishtina 79",
-   "detected_at": "2026-11-02 19:02:34",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-01/KB-Trepca-Mitrovice-at-Sigal-Prishtina/535093"
-  },
-  {
-   "detail": "German BBL Brose Baskets Bamberg 88, Science City Jena 78",
-   "detected_at": "2026-11-02 19:02:29",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-01/Science-City-Jena-at-Brose-Baskets-Bamberg/528665"
-  },
-  {
-   "detail": "Polish OBL King Szczecin 95, Gornik Zamek Ksiaz Walbrzych 86",
-   "detected_at": "2026-11-02 19:02:23",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-01/King-Szczecin-at-Gornik-Zamek-Ksiaz-Walbrzych/531876"
-  },
-  {
-   "detail": "Polish OBL WKS Slask Wroclaw 96, GTK Gliwice 84",
-   "detected_at": "2026-11-02 19:02:18",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-01/WKS-Slask-Wroclaw-at-GTK-Gliwice/531882"
-  },
-  {
-   "detail": "Polish OBL MKS Dabrowa Gornicza 96, Start Lublin 89",
-   "detected_at": "2026-11-02 19:02:13",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-01/MKS-Dabrowa-Gornicza-at-Start-Lublin/531883"
-  },
-  {
-   "detail": "Montenegrin Prva A Liga ABS Primorje 1945 99, KK Podgorica 89",
-   "detected_at": "2026-11-02 19:02:08",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-01/KK-Podgorica-at-ABS-Primorje-1945/544998"
-  },
-  {
-   "detail": "Montenegrin Prva A Liga + Srdja Bulatovic → KK Podgorica",
-   "detected_at": "2026-11-02 19:02:05",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Montenegrin Prva A Liga + Lazar Vukcevic → ABS Primorje 1945",
-   "detected_at": "2026-11-02 19:02:05",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Montenegrin Prva A Liga + Filip Bakic → ABS Primorje 1945",
-   "detected_at": "2026-11-02 19:02:05",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Montenegrin Prva A Liga + Marko Grkovic → ABS Primorje 1945",
-   "detected_at": "2026-11-02 19:02:05",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Montenegrin Prva A Liga + Luka Petrovic → ABS Primorje 1945",
-   "detected_at": "2026-11-02 19:02:05",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Montenegrin Prva A Liga + Vladimir Tomasevic → ABS Primorje 1945",
-   "detected_at": "2026-11-02 19:02:05",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Montenegrin Prva A Liga + Vasilije Todorovic → ABS Primorje 1945",
-   "detected_at": "2026-11-02 19:02:05",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Montenegrin Prva A Liga + Novak Pekovic → ABS Primorje 1945",
-   "detected_at": "2026-11-02 19:02:05",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Montenegrin Prva A Liga + Dimitrije Maric → ABS Primorje 1945",
-   "detected_at": "2026-11-02 19:02:05",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Montenegrin Prva A Liga + Nedeljko Kosanin → ABS Primorje 1945",
-   "detected_at": "2026-11-02 19:02:05",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Montenegrin Prva A Liga KK Jedinstvo Bijelo Polje 86, Decic 80",
-   "detected_at": "2026-11-02 19:02:02",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-01/Decic-at-KK-Jedinstvo-Bijelo-Polje/545000"
-  },
-  {
-   "detail": "Montenegrin Prva A Liga + Ognjen Carapic → KK Jedinstvo Bijelo Polje",
-   "detected_at": "2026-11-02 19:02:00",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Montenegrin Prva A Liga + Nemanja Knezevic → KK Jedinstvo Bijelo Polje",
-   "detected_at": "2026-11-02 19:02:00",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS KK Dynamic 81, KK Vojvodina Novi Sad 64",
-   "detected_at": "2026-11-02 19:01:57",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-01/KK-Vojvodina-Novi-Sad-at-KK-Dynamic/545190"
-  },
-  {
-   "detail": "Serbian KLS + Braden Sparks → KK Dynamic",
-   "detected_at": "2026-11-02 19:01:54",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS Zlatibor Cajetina 94, Borac Zemun 84",
-   "detected_at": "2026-11-02 19:01:51",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-01/Zlatibor-Cajetina-at-Borac-Zemun/545195"
-  },
-  {
-   "detail": "German BBL Rostock Seawolves 69, Bayern Munich 67",
-   "detected_at": "2026-11-02 19:01:46",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-01/Bayern-Munich-at-Rostock-Seawolves/546364"
-  },
-  {
-   "detail": "Bosnian BiH Liga Basket Zivinice 81, Promo Donji Vakuf 65",
-   "detected_at": "2026-11-02 19:01:41",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-01/Basket-Zivinice-at-Promo-Donji-Vakuf/540946"
-  },
-  {
-   "detail": "Bosnian BiH Liga KK Radnik Bijeljina 87, KK Gradina Srebrenik 82",
-   "detected_at": "2026-11-02 19:01:36",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-01/KK-Gradina-Srebrenik-at-KK-Radnik-Bijeljina/540944"
-  },
-  {
-   "detail": "Bosnian BiH Liga SL Takovo Leotar 70, Drina Princip 68",
-   "detected_at": "2026-11-02 19:01:30",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-01/SL-Takovo-Leotar-at-Drina-Princip/540941"
-  },
-  {
-   "detail": "Belarusian BPL Borisfen Mogilev Youth 93, Gomel Lynx Youth 79",
-   "detected_at": "2026-11-02 19:01:25",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-01/Gomel-Lynx-Youth-at-Borisfen-Mogilev-Youth/544895"
-  },
-  {
-   "detail": "Belarusian BPL ~ RETURN Artem Pototsky → Gomel Lynx Youth (from GOCOR Soj Gomel)",
-   "detected_at": "2026-11-02 19:01:23",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL ~ RETURN Artem Puchko → Borisfen Mogilev Youth (from Borisfen Mogilev)",
-   "detected_at": "2026-11-02 19:01:23",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "Estonian Latvian Basketball League Parnu Sadam 76, Valmiera Glass Via 74",
-   "detected_at": "2026-11-02 19:01:20",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-01/Valmiera-Glass-Via-at-Parnu-Sadam/537095"
   }
  ],
  "feeds": {
@@ -10243,12 +10287,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 11205,
-   "last": "2026-11-07 12:12:27"
+   "count": 11216,
+   "last": "2026-11-08 06:35:01"
   },
   "SCORES": {
-   "count": 4338,
-   "last": "2026-11-08 06:31:16"
+   "count": 4409,
+   "last": "2026-11-08 06:40:02"
   },
   "SHEETS": {
    "count": 5240,
@@ -10259,14 +10303,14 @@
    "last": "2026-11-08 06:23:40"
   },
   "WIKI": {
-   "count": 7855,
-   "last": "2026-11-08 06:30:10"
+   "count": 7856,
+   "last": "2026-11-08 07:13:36"
   },
   "WIKIWATCH": {
    "count": 595,
    "last": "2026-11-07 16:53:20"
   }
  },
- "generated_at": "2026-11-08T06:31:30",
- "total": 38168
+ "generated_at": "2026-11-08T07:13:37",
+ "total": 38251
 }
