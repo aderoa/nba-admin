@@ -1,6 +1,69 @@
 {
  "events": [
   {
+   "detail": "Australian NBL Sydney 110, South East Melbourne 99",
+   "detected_at": "2026-11-08 19:59:48",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-08/South-East-Melbourne-at-Sydney/524431"
+  },
+  {
+   "detail": "Australian NBL Cairns 100, Perth 92",
+   "detected_at": "2026-11-08 19:59:42",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-08/Cairns-at-Perth/524432"
+  },
+  {
+   "detail": "Jarrod Uthoff  ~ team: Petkim Spor -> -",
+   "detected_at": "2026-11-08 19:59:34",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jarrod_Uthoff"
+  },
+  {
+   "detail": "Jarrod Uthoff  ~ league: BSL -> -",
+   "detected_at": "2026-11-08 19:59:34",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jarrod_Uthoff"
+  },
+  {
+   "detail": "Jarrod Uthoff  ~ number: 9 -> -",
+   "detected_at": "2026-11-08 19:59:34",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jarrod_Uthoff"
+  },
+  {
+   "detail": "Jarrod Uthoff  ~ CAREER  + 2026 Petkim Spor",
+   "detected_at": "2026-11-08 19:59:34",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Jarrod_Uthoff"
+  },
+  {
+   "detail": "Nique Clifford  ~ team: Sacramento Kings -> Oklahoma City Thunder",
+   "detected_at": "2026-11-08 19:59:34",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Nique_Clifford"
+  },
+  {
+   "detail": "Nique Clifford  ~ number: 10 -> -",
+   "detected_at": "2026-11-08 19:59:34",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Nique_Clifford"
+  },
+  {
+   "detail": "Alberto Abalde  ~ position: Small forward / shooting guard -> Power forward / small forward",
+   "detected_at": "2026-11-08 19:59:34",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Alberto_Abalde"
+  },
+  {
    "detail": "Tyus Jones  ~ team: Boston Celtics -> Denver Nuggets",
    "detected_at": "2026-11-08 18:22:34",
    "source": "WIKI",
@@ -10186,69 +10249,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Texas-AM-Kingsville-at-Texas-RGV/542475"
-  },
-  {
-   "detail": "NCAA Lamar 124, Schreiner 62",
-   "detected_at": "2026-11-03 07:16:45",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Schreiner-at-Lamar/542472"
-  },
-  {
-   "detail": "NCAA Colorado State 84, Montana State 74",
-   "detected_at": "2026-11-03 07:16:40",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Montana-State-at-Colorado-State/542896"
-  },
-  {
-   "detail": "NCAA Arizona State 75, East Tennessee State 65",
-   "detected_at": "2026-11-03 07:16:34",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/East-Tennessee-State-at-Arizona-State/541009"
-  },
-  {
-   "detail": "NCAA Oregon 87, Montana 69",
-   "detected_at": "2026-11-03 07:16:29",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Montana-at-Oregon/541005"
-  },
-  {
-   "detail": "NCAA Stanford 74, Eastern Washington 65",
-   "detected_at": "2026-11-03 07:16:24",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Eastern-Washington-at-Stanford/539949"
-  },
-  {
-   "detail": "NCAA Washington 90, Colgate 76",
-   "detected_at": "2026-11-03 07:16:19",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Colgate-at-Washington/539946"
-  },
-  {
-   "detail": "NCAA San Francisco 76, Radford 62",
-   "detected_at": "2026-11-03 07:16:14",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Radford-at-San-Francisco/539939"
-  },
-  {
-   "detail": "NCAA UC San Diego 100, Whittier 75",
-   "detected_at": "2026-11-03 07:16:09",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Whittier-at-UC-San-Diego/539676"
-  },
-  {
-   "detail": "NCAA Saint Marys 90, Illinois State 85",
-   "detected_at": "2026-11-03 07:16:04",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Illinois-State-at-Saint-Marys/537973"
   }
  ],
  "feeds": {
@@ -10273,8 +10273,8 @@
    "last": "2026-11-08 13:30:13"
   },
   "SCORES": {
-   "count": 4530,
-   "last": "2026-11-08 13:30:36"
+   "count": 4532,
+   "last": "2026-11-08 19:59:48"
   },
   "SHEETS": {
    "count": 5240,
@@ -10285,14 +10285,14 @@
    "last": "2026-11-08 06:23:40"
   },
   "WIKI": {
-   "count": 7882,
-   "last": "2026-11-08 18:22:34"
+   "count": 7889,
+   "last": "2026-11-08 19:59:34"
   },
   "WIKIWATCH": {
    "count": 597,
    "last": "2026-11-08 14:26:07"
   }
  },
- "generated_at": "2026-11-08T19:08:27",
- "total": 38477
+ "generated_at": "2026-11-08T20:00:11",
+ "total": 38486
 }
