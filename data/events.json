@@ -1,6 +1,97 @@
 {
  "events": [
   {
+   "detail": "NCAA UC San Diego 81, Fresno State 65",
+   "detected_at": "2026-11-08 08:46:52",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-07/Fresno-State-at-UC-San-Diego/539698"
+  },
+  {
+   "detail": "NCAA Seattle 79, Portland State 60",
+   "detected_at": "2026-11-08 08:46:46",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-07/Portland-State-at-Seattle/537984"
+  },
+  {
+   "detail": "NCAA UC Irvine 91, San Jose State 79",
+   "detected_at": "2026-11-08 08:46:40",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-07/San-Jose-State-at-UC-Irvine/532476"
+  },
+  {
+   "detail": "NCAA Pepperdine 116, Bethesda University 43",
+   "detected_at": "2026-11-08 08:46:34",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-07/Bethesda-University-at-Pepperdine/542932"
+  },
+  {
+   "detail": "NCAA Murray State 93, Northwestern State 71",
+   "detected_at": "2026-11-08 08:46:28",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-07/Northwestern-State-at-Murray-State/542486"
+  },
+  {
+   "detail": "NCAA Santa Clara 83, Sacramento State 77",
+   "detected_at": "2026-11-08 08:46:22",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-07/Sacramento-State-at-Santa-Clara/537982"
+  },
+  {
+   "detail": "Italian Lega Basket Serie A Umana Venezia 83, Grissin Bon Reggio Emilia 78",
+   "detected_at": "2026-11-08 08:45:58",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-07/Umana-Venezia-at-Grissin-Bon-Reggio-Emilia/529608"
+  },
+  {
+   "detail": "Italian Lega Basket Serie A + Elhadji Fainke → Grissin Bon Reggio Emilia",
+   "detected_at": "2026-11-08 08:45:54",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Italian Lega Basket Serie A ~ MOVED Troy Caupain → Grissin Bon Reggio Emilia (from Trabzonspor)",
+   "detected_at": "2026-11-08 08:45:54",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Norwegian BLNO Ammerud Basket 118, Nidaros Jets 100",
+   "detected_at": "2026-11-08 08:45:51",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-07/Ammerud-Basket-at-Nidaros-Jets/530291"
+  },
+  {
+   "detail": "Norwegian BLNO BK Kongsberg Miners 93, Gimle BBK 79",
+   "detected_at": "2026-11-08 08:45:44",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-07/BK-Kongsberg-Miners-at-Gimle-BBK/530292"
+  },
+  {
+   "detail": "Greek HEBA A1 PAOK BC 93, Vikos Ioanninon 67",
+   "detected_at": "2026-11-08 08:45:38",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-07/Vikos-Ioanninon-at-PAOK-BC/543810"
+  },
+  {
+   "detail": "Greek HEBA A1 + Vassilis Patras → Vikos Ioanninon",
+   "detected_at": "2026-11-08 08:45:36",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
    "detail": "Slovakian Extraliga MBK Handlova 84, Slavia Kosice 62",
    "detected_at": "2026-11-08 07:45:02",
    "source": "SCORES",
@@ -10179,97 +10270,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Adama_Bal"
-  },
-  {
-   "detail": "Adama Bal  ~ league: - -> NBA G League",
-   "detected_at": "2026-11-02 19:30:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Adama_Bal"
-  },
-  {
-   "detail": "Adama Bal  ~ CAREER  + 2026–present Wisconsin Herd",
-   "detected_at": "2026-11-02 19:30:46",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Adama_Bal"
-  },
-  {
-   "detail": "Troy Caupain  ~ team: Trabzonspor -> Free agent",
-   "detected_at": "2026-11-02 19:30:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Troy_Caupain"
-  },
-  {
-   "detail": "Troy Caupain  ~ league: Basketbol Süper Ligi FIBA Champions League -> -",
-   "detected_at": "2026-11-02 19:30:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Troy_Caupain"
-  },
-  {
-   "detail": "Troy Caupain  ~ number: 10 -> -",
-   "detected_at": "2026-11-02 19:30:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Troy_Caupain"
-  },
-  {
-   "detail": "Troy Caupain  ~ CAREER  + 2021–2022 Darüşşafaka",
-   "detected_at": "2026-11-02 19:30:46",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Troy_Caupain"
-  },
-  {
-   "detail": "Troy Caupain  ~ CAREER  + 2022–2023 Leonessa Brescia",
-   "detected_at": "2026-11-02 19:30:46",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Troy_Caupain"
-  },
-  {
-   "detail": "Troy Caupain  ~ CAREER  + 2023–2025 UCAM Murcia",
-   "detected_at": "2026-11-02 19:30:46",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Troy_Caupain"
-  },
-  {
-   "detail": "Troy Caupain  ~ CAREER  + 2025–2026 Reggio Emilia",
-   "detected_at": "2026-11-02 19:30:46",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Troy_Caupain"
-  },
-  {
-   "detail": "Troy Caupain  ~ CAREER  + 2026 Trabzonspor",
-   "detected_at": "2026-11-02 19:30:46",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Troy_Caupain"
-  },
-  {
-   "detail": "Bandja Sy  ~ number: 95 -> -",
-   "detected_at": "2026-11-02 19:30:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Bandja_Sy"
-  },
-  {
-   "detail": "Ben Mbala  ~ team: Quimper Rams -> Cedi Osman Basket",
-   "detected_at": "2026-11-02 19:30:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Ben_Mbala"
-  },
-  {
-   "detail": "Ben Mbala  ~ league: LNB Pro B -> TBL",
-   "detected_at": "2026-11-02 19:30:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Ben_Mbala"
   }
  ],
  "feeds": {
@@ -10290,12 +10290,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 11218,
-   "last": "2026-11-08 07:44:59"
+   "count": 11221,
+   "last": "2026-11-08 08:45:54"
   },
   "SCORES": {
-   "count": 4413,
-   "last": "2026-11-08 07:45:02"
+   "count": 4423,
+   "last": "2026-11-08 08:46:52"
   },
   "SHEETS": {
    "count": 5240,
@@ -10314,6 +10314,6 @@
    "last": "2026-11-07 16:53:20"
   }
  },
- "generated_at": "2026-11-08T08:44:30",
- "total": 38257
+ "generated_at": "2026-11-08T08:46:55",
+ "total": 38270
 }
