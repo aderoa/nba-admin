@@ -1,6 +1,48 @@
 {
  "events": [
   {
+   "detail": "Slovakian Extraliga MBK Handlova 84, Slavia Kosice 62",
+   "detected_at": "2026-11-08 07:45:02",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-07/MBK-Handlova-at-Slavia-Kosice/534267"
+  },
+  {
+   "detail": "Slovakian Extraliga + Brandon McKissic → MBK Handlova",
+   "detected_at": "2026-11-08 07:44:59",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Slovakian Extraliga Nitra Blue Wings 84, BK Spisska Rytieri 83",
+   "detected_at": "2026-11-08 07:44:56",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-07/BK-Spisska-Rytieri-at-Nitra-Blue-Wings/534268"
+  },
+  {
+   "detail": "Slovakian Extraliga BK Levicki Patrioti Levice 88, BK Iskra Svit 79",
+   "detected_at": "2026-11-08 07:44:51",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-07/BK-Iskra-Svit-at-BK-Levicki-Patrioti-Levice/534271"
+  },
+  {
+   "detail": "Slovakian Extraliga ~ MOVED T.J. Biel → BK Iskra Svit (from Jamtland Basket)",
+   "detected_at": "2026-11-08 07:44:48",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Greek HEBA A1 AS Karditsas 90, ASP Promitheas Patras 73",
+   "detected_at": "2026-11-08 07:44:45",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-07/AS-Karditsas-at-ASP-Promitheas-Patras/543809"
+  },
+  {
    "detail": "Dillon Jones  ~ number: 35 -> 2",
    "detected_at": "2026-11-08 07:13:36",
    "source": "WIKI",
@@ -10228,45 +10270,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Ben_Mbala"
-  },
-  {
-   "detail": "Ben Mbala  ~ number: - -> 0",
-   "detected_at": "2026-11-02 19:30:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Ben_Mbala"
-  },
-  {
-   "detail": "Ben Mbala  ~ CAREER  + 2026 Quimper Rams",
-   "detected_at": "2026-11-02 19:30:46",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Ben_Mbala"
-  },
-  {
-   "detail": "Ben Mbala  ~ CAREER  + 2026–present Cedi Osman Basket",
-   "detected_at": "2026-11-02 19:30:46",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Ben_Mbala"
-  },
-  {
-   "detail": "2026-11-01  Recalled: Zuby Ejiofor (Skyhawks)",
-   "detected_at": "2026-11-02 19:23:36",
-   "source": "GLEAGUE",
-   "type": "Call-Up/Recall"
-  },
-  {
-   "detail": "2026-11-01  Assigned: Jonathan Isaac (Magic)",
-   "detected_at": "2026-11-02 19:23:36",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-11-01  Assigned: Aj Johnson (Squadron)",
-   "detected_at": "2026-11-02 19:23:36",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
   }
  ],
  "feeds": {
@@ -10287,12 +10290,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 11216,
-   "last": "2026-11-08 06:35:01"
+   "count": 11218,
+   "last": "2026-11-08 07:44:59"
   },
   "SCORES": {
-   "count": 4409,
-   "last": "2026-11-08 06:40:02"
+   "count": 4413,
+   "last": "2026-11-08 07:45:02"
   },
   "SHEETS": {
    "count": 5240,
@@ -10311,6 +10314,6 @@
    "last": "2026-11-07 16:53:20"
   }
  },
- "generated_at": "2026-11-08T07:13:37",
- "total": 38251
+ "generated_at": "2026-11-08T07:45:24",
+ "total": 38257
 }
