@@ -1,6 +1,187 @@
 {
  "events": [
   {
+   "detail": "Mantas Rubštavičius  ~ number: - -> 17",
+   "detected_at": "2026-11-08 15:10:34",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Mantas_Rub%C5%A1tavi%C4%8Dius"
+  },
+  {
+   "detail": "2026-11-07  Recalled: Bruce Thornton (Vipers)",
+   "detected_at": "2026-11-08 15:03:40",
+   "source": "GLEAGUE",
+   "type": "Call-Up/Recall"
+  },
+  {
+   "detail": "2026-11-07  Assigned: Alex Karaban (Kings)",
+   "detected_at": "2026-11-08 15:03:40",
+   "source": "GLEAGUE",
+   "type": "Acquired/Assigned"
+  },
+  {
+   "detail": "2026-11-07  Assigned: Karim Lopez (Hustle)",
+   "detected_at": "2026-11-08 15:03:40",
+   "source": "GLEAGUE",
+   "type": "Acquired/Assigned"
+  },
+  {
+   "detail": "2026-11-07  Waivers Cleared: Al Green",
+   "detected_at": "2026-11-08 15:03:40",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-07  Waivers Cleared: Ahmet Jonovic",
+   "detected_at": "2026-11-08 15:03:40",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-07  Waivers Cleared: Tj Bickerstaff",
+   "detected_at": "2026-11-08 15:03:40",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-07  Waivers Cleared: Themus Fulks",
+   "detected_at": "2026-11-08 15:03:40",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-07  Waivers Cleared: Austin Benigni",
+   "detected_at": "2026-11-08 15:03:40",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-07  Waivers Cleared: Conor Enright",
+   "detected_at": "2026-11-08 15:03:40",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-07  Waivers Cleared: Michael Folarin",
+   "detected_at": "2026-11-08 15:03:40",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-07  Waivers Cleared: Yacine Toumi",
+   "detected_at": "2026-11-08 15:03:40",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-07  Waivers Cleared: Esteban Ezequiel Roacho Amador",
+   "detected_at": "2026-11-08 15:03:40",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-07  Waivers Cleared: Chance Moore",
+   "detected_at": "2026-11-08 15:03:40",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-07  Waivers Cleared: Ian Martinez",
+   "detected_at": "2026-11-08 15:03:40",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-07  Waivers Cleared: Patrick Suemnick",
+   "detected_at": "2026-11-08 15:03:40",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-07  Waivers Cleared: Jaden Brownell",
+   "detected_at": "2026-11-08 15:03:40",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-07  Waivers Cleared: Pierre Crockrell Ii",
+   "detected_at": "2026-11-08 15:03:40",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-07  Waivers Cleared: Lacey James",
+   "detected_at": "2026-11-08 15:03:40",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-07  Waivers Cleared: Will Tschetter",
+   "detected_at": "2026-11-08 15:03:40",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-07  Waivers Cleared: Lydell Elmore",
+   "detected_at": "2026-11-08 15:03:40",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-07  Waivers Cleared: Shammah Scott",
+   "detected_at": "2026-11-08 15:03:40",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-07  Acquired from Player Pool: Jaden Brownell (Hustle)",
+   "detected_at": "2026-11-08 15:03:40",
+   "source": "GLEAGUE",
+   "type": "Acquired/Assigned"
+  },
+  {
+   "detail": "2026-11-07  Recalled: Khalifa Diop (Charge)",
+   "detected_at": "2026-11-08 15:03:40",
+   "source": "GLEAGUE",
+   "type": "Call-Up/Recall"
+  },
+  {
+   "detail": "2026-11-07  Waived: Alejandro Rama (Wolves)",
+   "detected_at": "2026-11-08 15:03:40",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-07  Waived: Ileri Ayo Faleye (Clippers)",
+   "detected_at": "2026-11-08 15:03:40",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-07  Acquired: Riley Minix (Charge)",
+   "detected_at": "2026-11-08 15:03:40",
+   "source": "GLEAGUE",
+   "type": "Acquired/Assigned"
+  },
+  {
+   "detail": "2026-11-07  NBA Call-Up: Richie Saunders (Hustle)",
+   "detected_at": "2026-11-08 15:03:40",
+   "source": "GLEAGUE",
+   "type": "Call-Up/Recall"
+  },
+  {
+   "detail": "2026-11-07  Acquired: Richie Saunders (Hustle)",
+   "detected_at": "2026-11-08 15:03:40",
+   "source": "GLEAGUE",
+   "type": "Acquired/Assigned"
+  },
+  {
+   "detail": "2026-11-07  Recalled: Alex Karaban (Kings)",
+   "detected_at": "2026-11-08 15:03:40",
+   "source": "GLEAGUE",
+   "type": "Call-Up/Recall"
+  },
+  {
    "detail": "Emanuel Miller (basketball)  ~ number: - -> 1",
    "detected_at": "2026-11-08 14:34:35",
    "source": "WIKI",
@@ -10068,212 +10249,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Northern-Kentucky-at-UTEP/532468"
-  },
-  {
-   "detail": "NCAA Santa Clara 89, Towson 70",
-   "detected_at": "2026-11-03 07:15:28",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Towson-at-Santa-Clara/537971"
-  },
-  {
-   "detail": "NCAA Nevada 86, Robert Morris 49",
-   "detected_at": "2026-11-03 07:15:23",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Robert-Morris-at-Nevada/532464"
-  },
-  {
-   "detail": "NCAA Brigham Young 94, Ohio State 83",
-   "detected_at": "2026-11-03 07:15:17",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Ohio-State-at-Brigham-Young/537431"
-  },
-  {
-   "detail": "NCAA USC 95, Milwaukee 63",
-   "detected_at": "2026-11-03 07:15:11",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Milwaukee-at-USC/543709"
-  },
-  {
-   "detail": "NCAA UCLA 84, Arizona 75",
-   "detected_at": "2026-11-03 07:15:05",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/UCLA-at-Arizona/530417"
-  },
-  {
-   "detail": "NCAA UConn 86, Gardner Webb 46",
-   "detected_at": "2026-11-03 07:15:00",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Gardner-Webb-at-UConn/532465"
-  },
-  {
-   "detail": "Romeo Langford  ~ team: Free Agent -> Free agent",
-   "detected_at": "2026-11-03 06:49:37",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Romeo_Langford"
-  },
-  {
-   "detail": "Elfrid Payton  ~ team: Westchester Knicks -> Free agent",
-   "detected_at": "2026-11-03 06:49:37",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Elfrid_Payton"
-  },
-  {
-   "detail": "Elfrid Payton  ~ league: NBA G League -> -",
-   "detected_at": "2026-11-03 06:49:37",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Elfrid_Payton"
-  },
-  {
-   "detail": "Willy Hernangómez  ~ CAREER  + 2013–2015 →Baloncesto Sevilla",
-   "detected_at": "2026-11-03 06:49:37",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Willy_Hernang%C3%B3mez"
-  },
-  {
-   "detail": "Tomáš Satoranský  ~ CAREER  + 2009–2014 Cajasol Sevilla",
-   "detected_at": "2026-11-03 06:49:37",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Satoransk%C3%BD"
-  },
-  {
-   "detail": "Zach Lofton  ~ team: Al Riyadi -> Al Wahda",
-   "detected_at": "2026-11-03 06:49:37",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Zach_Lofton"
-  },
-  {
-   "detail": "Zach Lofton  ~ league: Lebanese Basketball League -> Syrian Basketball League",
-   "detected_at": "2026-11-03 06:49:37",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Zach_Lofton"
-  },
-  {
-   "detail": "Zach Lofton  ~ number: 23 -> 3",
-   "detected_at": "2026-11-03 06:49:37",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Zach_Lofton"
-  },
-  {
-   "detail": "Zach Lofton  ~ CAREER  + 2026 Al Riyadi",
-   "detected_at": "2026-11-03 06:49:37",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Zach_Lofton"
-  },
-  {
-   "detail": "Zach Lofton  ~ CAREER  + 2026–present Al Wahda",
-   "detected_at": "2026-11-03 06:49:37",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Zach_Lofton"
-  },
-  {
-   "detail": "Nate Williams (basketball, born 1999)  ~ league: B. League -> B.League",
-   "detected_at": "2026-11-03 06:49:37",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Nate_Williams_(basketball,_born_1999)"
-  },
-  {
-   "detail": "Rob Gray (basketball)  ~ number: - -> 32",
-   "detected_at": "2026-11-03 06:49:37",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Rob_Gray_(basketball)"
-  },
-  {
-   "detail": "UTH  CHANGED Collier, Isaiah  -  col4: 4988947.800000001 -> -, col9: 7752907.8 -> 2763960",
-   "detected_at": "2026-11-03 06:42:29",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "UTH  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col4: 191116199.8 -> 186127252, col9: 712772761.1 -> 707783813.3",
-   "detected_at": "2026-11-03 06:42:29",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "UTH  CHANGED Players Under Contract  -  col4: 191116199.8 -> 186127252",
-   "detected_at": "2026-11-03 06:42:29",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "UTH  CHANGED Full Season Contracts  -  col4: 191116199.8 -> 186127252",
-   "detected_at": "2026-11-03 06:42:29",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "NCAA Alabama AM 90, Oakwood 57",
-   "detected_at": "2026-11-03 06:13:33",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Oakwood-at-Alabama-AM-/542909"
-  },
-  {
-   "detail": "NCAA Portland 133, Willamette 89",
-   "detected_at": "2026-11-03 06:13:27",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Willamette-at-Portland/537975"
-  },
-  {
-   "detail": "NCAA Kennesaw State 116, Midway 57",
-   "detected_at": "2026-11-03 06:13:21",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Midway-at-Kennesaw-State/543708"
-  },
-  {
-   "detail": "NCAA SIU Edwardsville 91, Eureka 39",
-   "detected_at": "2026-11-03 06:13:15",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Eureka-at-SIU-Edwardsville/542908"
-  },
-  {
-   "detail": "NCAA Prairie View AM 86, Paul Quinn 65",
-   "detected_at": "2026-11-03 06:13:09",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Paul-Quinn-at-Prairie-View-AM/542905"
-  },
-  {
-   "detail": "NCAA St Thomas 87, Presbyterian 78",
-   "detected_at": "2026-11-03 06:13:03",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/St-Thomas-at-Presbyterian/539945"
-  },
-  {
-   "detail": "NCAA Dartmouth 69, Marist 62",
-   "detected_at": "2026-11-03 06:12:57",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Dartmouth-at-Marist/539671"
-  },
-  {
-   "detail": "NCAA Stonehill 84, Curry College 56",
-   "detected_at": "2026-11-03 06:12:52",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Curry-College-at-Stonehill/539306"
   }
  ],
  "feeds": {
@@ -10282,8 +10257,8 @@
    "last": "2026-11-04 02:24:43"
   },
   "GLEAGUE": {
-   "count": 1035,
-   "last": "2026-11-07 15:02:39"
+   "count": 1064,
+   "last": "2026-11-08 15:03:40"
   },
   "PLAYERS": {
    "count": 1938,
@@ -10310,14 +10285,14 @@
    "last": "2026-11-08 06:23:40"
   },
   "WIKI": {
-   "count": 7875,
-   "last": "2026-11-08 14:34:35"
+   "count": 7876,
+   "last": "2026-11-08 15:10:34"
   },
   "WIKIWATCH": {
    "count": 597,
    "last": "2026-11-08 14:26:07"
   }
  },
- "generated_at": "2026-11-08T14:35:02",
- "total": 38441
+ "generated_at": "2026-11-08T15:10:38",
+ "total": 38471
 }
