@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Tyus Jones  ~ team: Boston Celtics -> Denver Nuggets",
+   "detected_at": "2026-11-08 18:22:34",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Tyus_Jones"
+  },
+  {
    "detail": "Dominic Artis  ~ team: Club Antonin Sportif -> Peja",
    "detected_at": "2026-11-08 17:37:34",
    "source": "WIKI",
@@ -10242,13 +10249,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Illinois-State-at-Saint-Marys/537973"
-  },
-  {
-   "detail": "NCAA North Alabama 79, UC Davis 75",
-   "detected_at": "2026-11-03 07:15:59",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/North-Alabama-at-UC-Davis/532463"
   }
  ],
  "feeds": {
@@ -10285,14 +10285,14 @@
    "last": "2026-11-08 06:23:40"
   },
   "WIKI": {
-   "count": 7881,
-   "last": "2026-11-08 17:37:34"
+   "count": 7882,
+   "last": "2026-11-08 18:22:34"
   },
   "WIKIWATCH": {
    "count": 597,
    "last": "2026-11-08 14:26:07"
   }
  },
- "generated_at": "2026-11-08T18:14:29",
- "total": 38476
+ "generated_at": "2026-11-08T18:23:01",
+ "total": 38477
 }
