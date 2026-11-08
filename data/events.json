@@ -1,6 +1,18 @@
 {
  "events": [
   {
+   "detail": "2026-11-08  Oklahoma City Thunder received guard Nique Clifford from Sacramento Kings.",
+   "detected_at": "2026-11-08 22:22:05",
+   "source": "TRANSACTIONS",
+   "type": "Trade"
+  },
+  {
+   "detail": "2026-11-07  Memphis Grizzlies waived forward Carson Cooper.",
+   "detected_at": "2026-11-08 22:22:05",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
    "detail": "Nique Clifford  ~ CAREER  + – Sacramento Kings",
    "detected_at": "2026-11-08 20:52:52",
    "source": "WIKI",
@@ -10235,20 +10247,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-11-02/Soles-at-Panteras-de-Aguascalientes/546069"
-  },
-  {
-   "detail": "Turkish BSL Anadolu Efes 87, Socar Petkimspor 77",
-   "detected_at": "2026-11-03 08:17:36",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-02/Anadolu-Efes-at-Socar-Petkimspor/542206"
-  },
-  {
-   "detail": "NCAA Idaho 97, George Fox 56",
-   "detected_at": "2026-11-03 07:17:04",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/George-Fox-at-Idaho/541004"
   }
  ],
  "feeds": {
@@ -10281,8 +10279,8 @@
    "last": "2026-11-03 06:42:29"
   },
   "TRANSACTIONS": {
-   "count": 696,
-   "last": "2026-11-08 06:23:40"
+   "count": 698,
+   "last": "2026-11-08 22:22:05"
   },
   "WIKI": {
    "count": 7892,
@@ -10293,6 +10291,6 @@
    "last": "2026-11-08 14:26:07"
   }
  },
- "generated_at": "2026-11-08T20:52:55",
- "total": 38489
+ "generated_at": "2026-11-08T22:30:13",
+ "total": 38491
 }
