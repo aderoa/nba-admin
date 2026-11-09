@@ -1,6 +1,36 @@
 {
  "events": [
   {
+   "detail": "2026-11-08  Assigned: Khalifa Diop (Charge)",
+   "detected_at": "2026-11-09 15:07:41",
+   "source": "GLEAGUE",
+   "type": "Acquired/Assigned"
+  },
+  {
+   "detail": "2026-11-08  Recalled: Dailyn Swain (Bulls)",
+   "detected_at": "2026-11-09 15:07:41",
+   "source": "GLEAGUE",
+   "type": "Call-Up/Recall"
+  },
+  {
+   "detail": "2026-11-08  Recalled: Blake Wesley (Clippers)",
+   "detected_at": "2026-11-09 15:07:41",
+   "source": "GLEAGUE",
+   "type": "Call-Up/Recall"
+  },
+  {
+   "detail": "2026-11-08  Waivers Cleared: Elijah Pemberton",
+   "detected_at": "2026-11-09 15:07:41",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-08  Recalled: Bogoljub Markovic (Herd)",
+   "detected_at": "2026-11-09 15:07:41",
+   "source": "GLEAGUE",
+   "type": "Call-Up/Recall"
+  },
+  {
    "detail": "Giordano Bortolani  ~ career_start: 2016 -> 2018",
    "detected_at": "2026-11-09 15:06:35",
    "source": "WIKI",
@@ -10231,41 +10261,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-11-03/Joventut-Badalona-at-FC-Porto-Ferpinta/534086"
-  },
-  {
-   "detail": "Basketball Champions League Europe Strasbourg IG 95, KK Cibona 70",
-   "detected_at": "2026-11-04 14:45:59",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-03/KK-Cibona-at-Strasbourg-IG/534082"
-  },
-  {
-   "detail": "Basketball Champions League Europe ~ RETURN Boubacar Traore → Strasbourg IG (from Espoirs Strasbourg)",
-   "detected_at": "2026-11-04 14:45:56",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Champions League Europe Unicaja 99, Grissin Bon Reggio Emilia 94",
-   "detected_at": "2026-11-04 14:45:53",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-03/Grissin-Bon-Reggio-Emilia-at-Unicaja/534081"
-  },
-  {
-   "detail": "Basketball Champions League Europe Juventus 98, BK JIP Pardubice 95",
-   "detected_at": "2026-11-04 14:45:48",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-03/BK-JIP-Pardubice-at-Juventus/534080"
-  },
-  {
-   "detail": "Montenegrin Prva A Liga KK Teodo Tivat 86, Studentski Centar Podgorica 76",
-   "detected_at": "2026-11-04 14:45:43",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-03/Studentski-Centar-Podgorica-at-KK-Teodo-Tivat/544996"
   }
  ],
  "feeds": {
@@ -10274,8 +10269,8 @@
    "last": "2026-11-04 02:24:43"
   },
   "GLEAGUE": {
-   "count": 1064,
-   "last": "2026-11-08 15:03:40"
+   "count": 1069,
+   "last": "2026-11-09 15:07:41"
   },
   "PLAYERS": {
    "count": 1938,
@@ -10310,6 +10305,6 @@
    "last": "2026-11-09 12:03:52"
   }
  },
- "generated_at": "2026-11-09T15:06:37",
- "total": 38824
+ "generated_at": "2026-11-09T15:07:43",
+ "total": 38829
 }
