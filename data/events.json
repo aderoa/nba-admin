@@ -1,6 +1,204 @@
 {
  "events": [
   {
+   "detail": "OKC  + ADDED  Clifford, Nique",
+   "detected_at": "2026-11-09 17:39:07",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "OKC  + ADDED  Terry, Dalen",
+   "detected_at": "2026-11-09 17:39:07",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "OKC  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 216464608 -> 219833636.7, col4: 191917158.4 -> 195335958.4, col5: 189523776 -> 195503257, col9: 912381827.5 -> 925149137.2",
+   "detected_at": "2026-11-09 17:39:07",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "OKC  CHANGED Players Under Contract  -  col3: 214279492 -> 217542892, col4: 191917158.4 -> 195335958.4, col5: 189523776 -> 195503257",
+   "detected_at": "2026-11-09 17:39:07",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "OKC  CHANGED Full Season Contracts  -  col3: 214279492 -> 217542892, col4: 191917158.4 -> 195335958.4, col5: 189523776 -> 195503257",
+   "detected_at": "2026-11-09 17:39:07",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "OKC  CHANGED Waived Contracts  -  col3: 0 -> 105628.6724",
+   "detected_at": "2026-11-09 17:39:07",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "OKC  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 14 -> 15",
+   "detected_at": "2026-11-09 17:39:07",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "OKC  CHANGED Avg, Salary (Mean) (No 10-Day K's)  -  col6: 1 -> 0",
+   "detected_at": "2026-11-09 17:39:07",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "SAC  - REMOVED Clifford, Nique",
+   "detected_at": "2026-11-09 17:39:07",
+   "source": "SHEETS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "SAC  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 213633189.3 -> 210369789.3, col4: 130291532.3 -> 126872732.3, col5: 54809594.33 -> 48830113.33, col9: 477587219.6 -> 464925538.6",
+   "detected_at": "2026-11-09 17:39:07",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "SAC  CHANGED Players Under Contract  -  col3: 193946824 -> 190683424, col4: 126958199 -> 123539399, col5: 51476261 -> 45496780",
+   "detected_at": "2026-11-09 17:39:07",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "SAC  CHANGED Full Season Contracts  -  col3: 193946824 -> 190683424, col4: 126958199 -> 123539399, col5: 51476261 -> 45496780",
+   "detected_at": "2026-11-09 17:39:07",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "SAC  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 14 -> 13",
+   "detected_at": "2026-11-09 17:39:07",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "SAC  CHANGED Avg, Salary (Mean) (No 10-Day K's)  -  col6: 1 -> 2",
+   "detected_at": "2026-11-09 17:39:07",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Luxury Tax  -  col22: 13851492 -> 17220520.67",
+   "detected_at": "2026-11-09 17:39:07",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 3rd Incremental Tax Bracket  -  col22: 8685222 -> 19897500",
+   "detected_at": "2026-11-09 17:39:07",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED 4th Incremental Tax Bracket  -  col22: 0 -> 786223.194",
+   "detected_at": "2026-11-09 17:39:07",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col22: 21476472 -> 33474973.19",
+   "detected_at": "2026-11-09 17:39:07",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED Update 1.4 (10/20/26): B. Wesley",
+   "detected_at": "2026-11-09 17:39:04",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Update 1.4 (10/20/26): D. Terry, B. Wesley",
+   "detected_at": "2026-11-09 17:39:04",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Dalen Terry (WAIVED) Oklahoma City Thunder",
+   "detected_at": "2026-11-09 17:39:04",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  26-27 $2,399,280",
+   "detected_at": "2026-11-09 17:39:04",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  27-28 $2,988,178 (Team Option)",
+   "detected_at": "2026-11-09 17:39:04",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  2 Years for $5,387,458 . Rest of Season. Minimum Salary Exception. Team option to extend the contract to include the 2027-28 Season. Love of the Game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-11-09 17:39:04",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 11/4/26",
+   "detected_at": "2026-11-09 17:39:04",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Two-Way Signings  - REMOVED Update 1.4 (10/20/26): W. Clayton, D. Knecht, E. Freeman, L. Lovering, M. Peavy, S. Pedulla",
+   "detected_at": "2026-11-09 17:39:04",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Two-Way Signings  + ADDED  Update 1.4 (10/20/26): W. Clayton, E. Freeman, D. Knecht, L. Lovering, K. McCullar, N. Omier, M. Peavy, S. Pedulla, R. Saunders",
+   "detected_at": "2026-11-09 17:39:04",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Two-Way Signings  + ADDED  Kevin McCullar Jr. Toronto Raptors",
+   "detected_at": "2026-11-09 17:39:04",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Two-Way Signings  + ADDED  1 Year. Rest of Season. Skill; Injury or Illness; Death. Compensation protection for 2026-27 Season is for $91,000. Love of the Game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-11-09 17:39:04",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Two-Way Signings  + ADDED  Execution Date: 11/5/26",
+   "detected_at": "2026-11-09 17:39:04",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Two-Way Signings  + ADDED  Norchad Omier Cleveland Cavaliers",
+   "detected_at": "2026-11-09 17:39:04",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Two-Way Signings  + ADDED  2 Years. Rest of Season. Skill; Injury or Illness; Mental; Death. Compensation protection for 2026-27 Season is for $91,000. Compensation protection for 2027-28 Season is none. Love of the Game. Alt. 7(b).",
+   "detected_at": "2026-11-09 17:39:04",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Two-Way Signings  + ADDED  Execution Date: 11/5/26",
+   "detected_at": "2026-11-09 17:39:04",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "Italian Serie A2 Basket Ferraroni Juvi Cremona 85, Reale Mutua Torino 62",
    "detected_at": "2026-11-09 16:53:35",
    "source": "SCORES",
@@ -10058,242 +10256,12 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Gonzalo_Corbal%C3%A1n"
-  },
-  {
-   "detail": "Tai Odiase  ~ position: Center / power forward -> Center",
-   "detected_at": "2026-11-05 06:48:26",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Tai_Odiase"
-  },
-  {
-   "detail": "Neal Sako  ~ position: Center / power forward -> Center",
-   "detected_at": "2026-11-05 06:48:26",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Neal_Sako"
-  },
-  {
-   "detail": "Bar Timor  ~ position: Point guard -> Shooting guard / point guard",
-   "detected_at": "2026-11-05 06:48:26",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Bar_Timor"
-  },
-  {
-   "detail": "Zach LeDay  ~ position: Power forward / small forward -> Power forward",
-   "detected_at": "2026-11-05 06:48:26",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Zach_LeDay"
-  },
-  {
-   "detail": "Oz Blayzer  ~ position: Shooting guard / power forward -> Small forward / power forward",
-   "detected_at": "2026-11-05 06:48:26",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Oz_Blayzer"
-  },
-  {
-   "detail": "Jordan Bowden  ~ team: Free Agent -> Memphis Hustle",
-   "detected_at": "2026-11-05 06:48:26",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jordan_Bowden"
-  },
-  {
-   "detail": "Jordan Bowden  ~ league: - -> NBA G League",
-   "detected_at": "2026-11-05 06:48:26",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jordan_Bowden"
-  },
-  {
-   "detail": "Jordan Bowden  ~ number: - -> 8",
-   "detected_at": "2026-11-05 06:48:26",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jordan_Bowden"
-  },
-  {
-   "detail": "Jordan Bowden  ~ CAREER  + 2021–2023 Long Island Nets",
-   "detected_at": "2026-11-05 06:48:26",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Jordan_Bowden"
-  },
-  {
-   "detail": "Jordan Bowden  ~ CAREER  + 2026–present Memphis Hustle",
-   "detected_at": "2026-11-05 06:48:26",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Jordan_Bowden"
-  },
-  {
-   "detail": "Jacob Toppin  ~ position: Power forward / small forward -> Power forward",
-   "detected_at": "2026-11-05 06:48:25",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jacob_Toppin"
-  },
-  {
-   "detail": "Jacob Toppin  ~ height_ft: - -> 6",
-   "detected_at": "2026-11-05 06:48:25",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jacob_Toppin"
-  },
-  {
-   "detail": "Jacob Toppin  ~ height_in: - -> 9",
-   "detected_at": "2026-11-05 06:48:25",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jacob_Toppin"
-  },
-  {
-   "detail": "Jacob Toppin  ~ weight_lb: - -> 200",
-   "detected_at": "2026-11-05 06:48:25",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jacob_Toppin"
-  },
-  {
-   "detail": "Chris Boucher (basketball)  ~ team: Free agent -> Shanghai Sharks",
-   "detected_at": "2026-11-05 06:48:25",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Chris_Boucher_(basketball)"
-  },
-  {
-   "detail": "Chris Boucher (basketball)  ~ league: - -> CBA",
-   "detected_at": "2026-11-05 06:48:25",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Chris_Boucher_(basketball)"
-  },
-  {
-   "detail": "Chris Boucher (basketball)  ~ CAREER  + 2026–present Shanghai Sharks",
-   "detected_at": "2026-11-05 06:48:25",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Chris_Boucher_(basketball)"
-  },
-  {
-   "detail": "Vasilije Micić  ~ position: Point guard / shooting guard -> Point guard",
-   "detected_at": "2026-11-05 06:48:25",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Vasilije_Mici%C4%87"
-  },
-  {
-   "detail": "Vasilije Micić  ~ height_ft: - -> 6",
-   "detected_at": "2026-11-05 06:48:25",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Vasilije_Mici%C4%87"
-  },
-  {
-   "detail": "Vasilije Micić  ~ height_in: - -> 5",
-   "detected_at": "2026-11-05 06:48:25",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Vasilije_Mici%C4%87"
-  },
-  {
-   "detail": "Vasilije Micić  ~ weight_lb: - -> 188",
-   "detected_at": "2026-11-05 06:48:25",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Vasilije_Mici%C4%87"
-  },
-  {
-   "detail": "Antonio Blakeney  ~ position: Point guard / shooting guard -> Shooting guard / small forward",
-   "detected_at": "2026-11-05 06:48:25",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Antonio_Blakeney"
-  },
-  {
-   "detail": "Tomáš Satoranský  ~ position: Point guard / shooting guard -> Point guard",
-   "detected_at": "2026-11-05 06:48:25",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Satoransk%C3%BD"
-  },
-  {
-   "detail": "Tomáš Satoranský  ~ height_in: 8 -> 7",
-   "detected_at": "2026-11-05 06:48:25",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Satoransk%C3%BD"
-  },
-  {
-   "detail": "Isaiah Mobley  ~ CAREER  + 2026–present Bàsquet Manresa",
-   "detected_at": "2026-11-05 06:48:25",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Isaiah_Mobley"
-  },
-  {
-   "detail": "Daniel Oturu  ~ position: Center / power forward -> Center",
-   "detected_at": "2026-11-05 06:48:25",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Daniel_Oturu"
-  },
-  {
-   "detail": "Daniel Oturu  ~ height_ft: - -> 6",
-   "detected_at": "2026-11-05 06:48:25",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Daniel_Oturu"
-  },
-  {
-   "detail": "Daniel Oturu  ~ height_in: - -> 10",
-   "detected_at": "2026-11-05 06:48:25",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Daniel_Oturu"
-  },
-  {
-   "detail": "2026-11-04  Oklahoma City Thunder signed forward Dalen Terry to a Rest-of-Season Contract.",
-   "detected_at": "2026-11-04 20:08:22",
-   "source": "TRANSACTIONS",
-   "type": "Signing"
-  },
-  {
-   "detail": "Dalen Terry  ~ number: - -> 77",
-   "detected_at": "2026-11-04 18:57:34",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Dalen_Terry"
-  },
-  {
-   "detail": "Australian NBL Brisbane 109, Perth 104",
-   "detected_at": "2026-11-04 17:51:43",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-04/Perth-at-Brisbane/524426"
-  },
-  {
-   "detail": "Dalen Terry  ~ team: Santa Cruz Warriors -> Oklahoma City Thunder",
-   "detected_at": "2026-11-04 17:28:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Dalen_Terry"
-  },
-  {
-   "detail": "Dalen Terry  ~ league: NBA G League -> NBA",
-   "detected_at": "2026-11-04 17:28:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Dalen_Terry"
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 4324,
-   "last": "2026-11-09 16:45:31"
+   "count": 4339,
+   "last": "2026-11-09 17:39:04"
   },
   "GLEAGUE": {
    "count": 1069,
@@ -10316,8 +10284,8 @@
    "last": "2026-11-09 16:53:35"
   },
   "SHEETS": {
-   "count": 5244,
-   "last": "2026-11-09 16:45:37"
+   "count": 5262,
+   "last": "2026-11-09 17:39:07"
   },
   "TRANSACTIONS": {
    "count": 700,
@@ -10332,6 +10300,6 @@
    "last": "2026-11-09 15:56:23"
   }
  },
- "generated_at": "2026-11-09T16:54:00",
- "total": 38877
+ "generated_at": "2026-11-09T17:46:37",
+ "total": 38910
 }
