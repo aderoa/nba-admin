@@ -1,6 +1,48 @@
 {
  "events": [
   {
+   "detail": "Italian Serie A2 Basket RivieraBanca Rimini 76, Elachem Vigevano 68",
+   "detected_at": "2026-11-09 18:41:09",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-08/Elachem-Vigevano-at-RivieraBanca-Rimini/529863"
+  },
+  {
+   "detail": "South Korean KBL Seoul Samsung Thunders 85, Suwon KT Sonicboom 78",
+   "detected_at": "2026-11-09 18:41:01",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-09/Suwon-KT-Sonicboom-at-Seoul-Samsung-Thunders/531794"
+  },
+  {
+   "detail": "Japanese B.League Altiri Chiba 85, Kawasaki Brave Thunders 76",
+   "detected_at": "2026-11-09 18:40:55",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-09/Altiri-Chiba-at-Kawasaki-Brave-Thunders/524826"
+  },
+  {
+   "detail": "Japanese B.League Shimane Susanoo Magic 108, Toyama Grouses 75",
+   "detected_at": "2026-11-09 18:40:49",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-09/Toyama-Grouses-at-Shimane-Susanoo-Magic/524827"
+  },
+  {
+   "detail": "Japanese B.League Sendai 89ers 107, Nagasaki Velca 87",
+   "detected_at": "2026-11-09 18:40:43",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-09/Sendai-89ers-at-Nagasaki-Velca/524828"
+  },
+  {
+   "detail": "Cole Swider  ~ number: - -> 21",
+   "detected_at": "2026-11-09 18:40:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Cole_Swider"
+  },
+  {
    "detail": "2026-27 Two-Way Signings  - REMOVED Update 1.4 (10/20/26): W. Clayton, E. Freeman, D. Knecht, L. Lovering, K. McCullar, N. Omier, M. Peavy, S. Pedulla, R. Saunders",
    "detected_at": "2026-11-09 17:47:33",
    "source": "DOCS",
@@ -10206,48 +10248,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-11-04/Fraport-Skyliners-at-Turk-Telekom/527212"
-  },
-  {
-   "detail": "Eurocup ~ RETURN Jamie Edoka → Fraport Skyliners (from Fraport Skyliners Juniors)",
-   "detected_at": "2026-11-05 06:49:01",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "Finnish Korisliiga Lahti Basketball 93, Nilan Bisons 90",
-   "detected_at": "2026-11-05 06:48:59",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-04/Lahti-Basketball-at-Nilan-Bisons/535082"
-  },
-  {
-   "detail": "Finnish Korisliiga Korihait 87, Kauhajoki Karhu 79",
-   "detected_at": "2026-11-05 06:48:52",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-04/Kauhajoki-Karhu-at-Korihait/535084"
-  },
-  {
-   "detail": "Finnish Korisliiga ~ MOVED C.J. Dunston → Korihait (from UMEA Bskt)",
-   "detected_at": "2026-11-05 06:48:48",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
-  },
-  {
-   "detail": "Finnish Korisliiga Kipina 104, KTP Basket 99",
-   "detected_at": "2026-11-05 06:48:45",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-04/KTP-Basket-at-Kipina/535083"
-  },
-  {
-   "detail": "FIBA Europe Cup KK Split 97, Batumi RSU 77",
-   "detected_at": "2026-11-05 06:48:37",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-04/KK-Split-at-Batumi-RSU/544811"
   }
  ],
  "feeds": {
@@ -10272,8 +10272,8 @@
    "last": "2026-11-09 16:53:07"
   },
   "SCORES": {
-   "count": 4713,
-   "last": "2026-11-09 16:53:35"
+   "count": 4718,
+   "last": "2026-11-09 18:41:09"
   },
   "SHEETS": {
    "count": 5262,
@@ -10284,14 +10284,14 @@
    "last": "2026-11-09 04:38:06"
   },
   "WIKI": {
-   "count": 7967,
-   "last": "2026-11-09 16:52:35"
+   "count": 7968,
+   "last": "2026-11-09 18:40:35"
   },
   "WIKIWATCH": {
    "count": 605,
    "last": "2026-11-09 15:56:23"
   }
  },
- "generated_at": "2026-11-09T17:50:29",
- "total": 38918
+ "generated_at": "2026-11-09T18:41:32",
+ "total": 38924
 }
