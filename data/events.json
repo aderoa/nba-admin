@@ -1,6 +1,431 @@
 {
  "events": [
   {
+   "detail": "NCAA Merrimack College 73, Albany 60",
+   "detected_at": "2026-11-09 04:50:13",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-08/Merrimack-College-at-Albany/541043"
+  },
+  {
+   "detail": "NCAA Central Connecticut State 78, Dartmouth 71",
+   "detected_at": "2026-11-09 04:50:03",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-08/Central-Connecticut-State-at-Dartmouth/539701"
+  },
+  {
+   "detail": "NCAA Fairfield 68, Bryant 59",
+   "detected_at": "2026-11-09 04:49:52",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-08/Fairfield-at-Bryant/541046"
+  },
+  {
+   "detail": "NCAA Sacred Heart 81, New Hampshire 76",
+   "detected_at": "2026-11-09 04:49:43",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-08/Sacred-Heart-at-New-Hampshire/541044"
+  },
+  {
+   "detail": "NCAA UMass Lowell 63, Marist 61",
+   "detected_at": "2026-11-09 04:49:34",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-08/Marist-at-UMass-Lowell/541042"
+  },
+  {
+   "detail": "NCAA Quinnipiac 79, Vermont 76",
+   "detected_at": "2026-11-09 04:49:24",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-08/Quinnipiac-at-Vermont/539995"
+  },
+  {
+   "detail": "NCAA Green Bay 76, St Thomas 67",
+   "detected_at": "2026-11-09 04:49:15",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-08/Green-Bay-at-St-Thomas/539994"
+  },
+  {
+   "detail": "NCAA Western Michigan 87, Campbell 71",
+   "detected_at": "2026-11-09 04:49:03",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-08/Campbell-at-Western-Michigan/539992"
+  },
+  {
+   "detail": "NCAA Boise State 100, Butler 81",
+   "detected_at": "2026-11-09 04:48:53",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-08/Butler-at-Boise-State/528952"
+  },
+  {
+   "detail": "NCAA Milwaukee 99, Ripon College 48",
+   "detected_at": "2026-11-09 04:48:44",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-08/Ripon-College-at-Milwaukee/543718"
+  },
+  {
+   "detail": "NCAA Siena 82, Princeton 68",
+   "detected_at": "2026-11-09 04:48:35",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-08/Princeton-at-Siena/542495"
+  },
+  {
+   "detail": "NCAA Manhattan 68, Maine 62",
+   "detected_at": "2026-11-09 04:48:25",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-08/Manhattan-at-Maine/541045"
+  },
+  {
+   "detail": "NCAA South Carolina 78, Southeast Missouri State 68",
+   "detected_at": "2026-11-09 04:48:16",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-08/Southeast-Missouri-State-at-South-Carolina/541041"
+  },
+  {
+   "detail": "NCAA Navy 102, Central Penn 46",
+   "detected_at": "2026-11-09 04:48:08",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-08/Central-Penn-at-Navy/539993"
+  },
+  {
+   "detail": "NCAA Harvard 63, Chicago 47",
+   "detected_at": "2026-11-09 04:47:58",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-08/Harvard-at-Chicago/539700"
+  },
+  {
+   "detail": "NCAA St Johns 104, Iona 65",
+   "detected_at": "2026-11-09 04:47:49",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-08/Iona-at-St-Johns/542494"
+  },
+  {
+   "detail": "NCAA Virginia 91, Arkansas 72",
+   "detected_at": "2026-11-09 04:47:41",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-08/Arkansas-at-Virginia/539699"
+  },
+  {
+   "detail": "Hungarian NBIA NHSZ Szolnoki Olajbanyasz 88, SZTE Szedeak 79",
+   "detected_at": "2026-11-09 04:47:06",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-07/SZTE-Szedeak-at-NHSZ-Szolnoki-Olajbanyasz/535408"
+  },
+  {
+   "detail": "Hungarian NBIA + Andrew Henderson → SZTE Szedeak",
+   "detected_at": "2026-11-09 04:46:59",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Hungarian NBIA Atomeromu SE 112, KTE Duna Aszfalt 66",
+   "detected_at": "2026-11-09 04:46:56",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-07/KTE-Duna-Aszfalt-at-Atomeromu-SE/535406"
+  },
+  {
+   "detail": "Hungarian NBIA + Benedek Jantner → KTE Duna Aszfalt",
+   "detected_at": "2026-11-09 04:46:50",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Hungarian NBIA Phoenix MT Fot 82, Oroszlanyi Sporteglet E Lions 69",
+   "detected_at": "2026-11-09 04:46:47",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-07/Oroszlanyi-Sporteglet-E-Lions-at-Phoenix-MT-Fot/535409"
+  },
+  {
+   "detail": "Hungarian NBIA Falco Vulcano Energia KC Szombathely 82, Sopron KC 56",
+   "detected_at": "2026-11-09 04:46:38",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-07/Falco-Vulcano-Energia-KC-Szombathely-at-Sopron-KC/535403"
+  },
+  {
+   "detail": "Hungarian NBIA + Aron Kovacs → Sopron KC",
+   "detected_at": "2026-11-09 04:46:34",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Italian Lega Basket Serie A Old Wild West Udine 84, OpenJobMetis Varese 81",
+   "detected_at": "2026-11-09 04:46:27",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-08/Old-Wild-West-Udine-at-OpenJobMetis-Varese/529605"
+  },
+  {
+   "detail": "Italian Lega Basket Serie A Bertram Tortona 87, Universo DeLonghi Treviso 76",
+   "detected_at": "2026-11-09 04:46:17",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-08/Universo-DeLonghi-Treviso-at-Bertram-Tortona/529609"
+  },
+  {
+   "detail": "Italian Lega Basket Serie A AX Armani Exchange Milan 88, Dolomiti Energia Trento 86",
+   "detected_at": "2026-11-09 04:46:08",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-08/Dolomiti-Energia-Trento-at-AX-Armani-Exchange-Milan/529607"
+  },
+  {
+   "detail": "Italian Lega Basket Serie A Maxima Roma 99, Acqua San Bernardo Cantu 87",
+   "detected_at": "2026-11-09 04:46:00",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-08/Acqua-San-Bernardo-Cantu-at-Maxima-Roma/529604"
+  },
+  {
+   "detail": "Italian Lega Basket Serie A + Andrea Bresciani → Maxima Roma",
+   "detected_at": "2026-11-09 04:45:52",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Dalano Banton  ~ team: Shandong Hi-Speed Kirin -> Free agent",
+   "detected_at": "2026-11-09 04:45:43",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Dalano_Banton"
+  },
+  {
+   "detail": "Dalano Banton  ~ league: CBA -> -",
+   "detected_at": "2026-11-09 04:45:43",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Dalano_Banton"
+  },
+  {
+   "detail": "Dalano Banton  ~ number: 45 -> -",
+   "detected_at": "2026-11-09 04:45:43",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Dalano_Banton"
+  },
+  {
+   "detail": "Dalano Banton  ~ CAREER  + 2026 Shandong Hi-Speed Kirin",
+   "detected_at": "2026-11-09 04:45:43",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Dalano_Banton"
+  },
+  {
+   "detail": "Kenneth Faried  ~ CAREER  + 2023 Santurce Crabbers",
+   "detected_at": "2026-11-09 04:45:43",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Kenneth_Faried"
+  },
+  {
+   "detail": "Kenneth Faried  ~ CAREER  + 2025 Santurce Crabbers",
+   "detected_at": "2026-11-09 04:45:43",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Kenneth_Faried"
+  },
+  {
+   "detail": "Kenneth Faried  ~ CAREER  + 2026 Santurce Crabbers",
+   "detected_at": "2026-11-09 04:45:43",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Kenneth_Faried"
+  },
+  {
+   "detail": "Drake Powell  ~ CAREER  + 2025–2026 →Long Island Nets",
+   "detected_at": "2026-11-09 04:45:43",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Drake_Powell"
+  },
+  {
+   "detail": "Cody Martin (basketball)  ~ team: Mexico City Capitanes -> Free agent",
+   "detected_at": "2026-11-09 04:45:43",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Cody_Martin_(basketball)"
+  },
+  {
+   "detail": "Cody Martin (basketball)  ~ league: NBA G League -> -",
+   "detected_at": "2026-11-09 04:45:43",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Cody_Martin_(basketball)"
+  },
+  {
+   "detail": "Tomáš Satoranský  ~ league: Israeli Premier League EuroLeague -> Israeli Basketball Premier League EuroLeague",
+   "detected_at": "2026-11-09 04:45:43",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Satoransk%C3%BD"
+  },
+  {
+   "detail": "Axel Toupane  ~ number: - -> 33",
+   "detected_at": "2026-11-09 04:45:43",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Axel_Toupane"
+  },
+  {
+   "detail": "Thad McFadden (basketball)  ~ CAREER  + 2013–2014 APOEL Nicosia",
+   "detected_at": "2026-11-09 04:45:43",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Thad_McFadden_(basketball)"
+  },
+  {
+   "detail": "Thad McFadden (basketball)  ~ CAREER  + 2016–2017 PAOK Thessaloniki",
+   "detected_at": "2026-11-09 04:45:43",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Thad_McFadden_(basketball)"
+  },
+  {
+   "detail": "Thad McFadden (basketball)  ~ CAREER  + 2018–2019 Laguna Tenerife",
+   "detected_at": "2026-11-09 04:45:43",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Thad_McFadden_(basketball)"
+  },
+  {
+   "detail": "Thad McFadden (basketball)  ~ CAREER  + 2019 Joventut Badalona",
+   "detected_at": "2026-11-09 04:45:43",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Thad_McFadden_(basketball)"
+  },
+  {
+   "detail": "Thad McFadden (basketball)  ~ CAREER  + 2021–2023 UCAM Murcia",
+   "detected_at": "2026-11-09 04:45:43",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Thad_McFadden_(basketball)"
+  },
+  {
+   "detail": "Thad McFadden (basketball)  ~ CAREER  + 2023 Trotamundos de Carabobo",
+   "detected_at": "2026-11-09 04:45:43",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Thad_McFadden_(basketball)"
+  },
+  {
+   "detail": "Sergio Llorente  ~ team: HLA Alicante -> Fibwi Palma",
+   "detected_at": "2026-11-09 04:45:43",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Sergio_Llorente"
+  },
+  {
+   "detail": "Sergio Llorente  ~ CAREER  + 2025–2026 HLA Alicante",
+   "detected_at": "2026-11-09 04:45:43",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Sergio_Llorente"
+  },
+  {
+   "detail": "Sergio Llorente  ~ CAREER  + 2026–present Fibwi Palma",
+   "detected_at": "2026-11-09 04:45:43",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Sergio_Llorente"
+  },
+  {
+   "detail": "Paul Rigot  ~ number: 1 -> 30",
+   "detected_at": "2026-11-09 04:45:43",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Paul_Rigot"
+  },
+  {
+   "detail": "Milutin Vujičić  ~ team: FMP -> Igokea",
+   "detected_at": "2026-11-09 04:45:43",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Milutin_Vuji%C4%8Di%C4%87"
+  },
+  {
+   "detail": "Milutin Vujičić  ~ league: Basketball League of Serbia Adriatic League -> Bosnian League ABA League",
+   "detected_at": "2026-11-09 04:45:43",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Milutin_Vuji%C4%8Di%C4%87"
+  },
+  {
+   "detail": "Milutin Vujičić  ~ CAREER  + 2021–2023 Crvena zvezda",
+   "detected_at": "2026-11-09 04:45:43",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Milutin_Vuji%C4%8Di%C4%87"
+  },
+  {
+   "detail": "Milutin Vujičić  ~ CAREER  + 2021–2022 →FMP",
+   "detected_at": "2026-11-09 04:45:43",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Milutin_Vuji%C4%8Di%C4%87"
+  },
+  {
+   "detail": "Milutin Vujičić  ~ CAREER  + 2023–2024 Zlatibor",
+   "detected_at": "2026-11-09 04:45:43",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Milutin_Vuji%C4%8Di%C4%87"
+  },
+  {
+   "detail": "Milutin Vujičić  ~ CAREER  + 2024 Čačak 94",
+   "detected_at": "2026-11-09 04:45:43",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Milutin_Vuji%C4%8Di%C4%87"
+  },
+  {
+   "detail": "Milutin Vujičić  ~ CAREER  + 2025–2026 Uppsala",
+   "detected_at": "2026-11-09 04:45:43",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Milutin_Vuji%C4%8Di%C4%87"
+  },
+  {
+   "detail": "Milutin Vujičić  ~ CAREER  + 2026–present Igokea",
+   "detected_at": "2026-11-09 04:45:43",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Milutin_Vuji%C4%8Di%C4%87"
+  },
+  {
+   "detail": "2026-11-08  Oklahoma City Thunder waived forward Dalen Terry.",
+   "detected_at": "2026-11-09 04:38:06",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
+   "detail": "2026-11-07  Cleveland Cavaliers waived forward Tristan Enaruna.",
+   "detected_at": "2026-11-09 04:38:06",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
    "detail": "Portuguese LPB CD Povoa 84, Portimonense 74",
    "detected_at": "2026-11-09 03:21:46",
    "source": "SCORES",
@@ -9820,433 +10245,6 @@
    "source": "WIKIWATCH",
    "type": "FIELD",
    "url": "Small forward / power forward"
-  },
-  {
-   "detail": "Isaac Bonga  ~ position: Small forward / shooting guard -> Small forward / power forward",
-   "detected_at": "2026-11-03 12:28:37",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Isaac_Bonga"
-  },
-  {
-   "detail": "Isaac Bonga  ~ height_ft: - -> 6",
-   "detected_at": "2026-11-03 12:28:37",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Isaac_Bonga"
-  },
-  {
-   "detail": "Isaac Bonga  ~ height_in: - -> 8",
-   "detected_at": "2026-11-03 12:28:37",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Isaac_Bonga"
-  },
-  {
-   "detail": "Mathias Lessort  ~ position: Center / power forward -> Center",
-   "detected_at": "2026-11-03 12:28:37",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Mathias_Lessort"
-  },
-  {
-   "detail": "Brancou Badio  ~ position: Shooting guard / point guard -> Shooting guard",
-   "detected_at": "2026-11-03 12:28:37",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Brancou_Badio"
-  },
-  {
-   "detail": "Awudu Abass  ~ team: Free agent -> Dubai Basketball",
-   "detected_at": "2026-11-03 12:28:37",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Awudu_Abass"
-  },
-  {
-   "detail": "Awudu Abass  ~ league: - -> ABA League EuroLeague",
-   "detected_at": "2026-11-03 12:28:37",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Awudu_Abass"
-  },
-  {
-   "detail": "Awudu Abass  ~ number: - -> 5",
-   "detected_at": "2026-11-03 12:28:37",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Awudu_Abass"
-  },
-  {
-   "detail": "Awudu Abass  ~ CAREER  + 2024–present Dubai Basketball",
-   "detected_at": "2026-11-03 12:28:37",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Awudu_Abass"
-  },
-  {
-   "detail": "Panagiotis Kalaitzakis  ~ position: Shooting guard -> Small forward / shooting guard",
-   "detected_at": "2026-11-03 12:28:37",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Panagiotis_Kalaitzakis"
-  },
-  {
-   "detail": "Isaac Bonga  ~ 77638: position -> Small forward / shooting guard",
-   "detected_at": "2026-11-03 12:20:44",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "Small forward"
-  },
-  {
-   "detail": "NCAA Morgan State 103, Cheyney PA 50",
-   "detected_at": "2026-11-03 12:03:13",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Cheyney-PA-at-Morgan-State/544411"
-  },
-  {
-   "detail": "NCAA Jacksonville 105, Trinity College of Jacksonville 61",
-   "detected_at": "2026-11-03 12:03:07",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Trinity-College-of-Jacksonville-at-Jacksonville/539944"
-  },
-  {
-   "detail": "NCAA Albany 74, Rhode Island College 67",
-   "detected_at": "2026-11-03 12:03:02",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Rhode-Island-College-at-Albany/542141"
-  },
-  {
-   "detail": "NCAA Virginia Military 115, Virginia Lynchburg 83",
-   "detected_at": "2026-11-03 12:02:57",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Virginia-Lynchburg-at-Virginia-Military/542904"
-  },
-  {
-   "detail": "NCAA San Jose State 95, Texas San Antonio 74",
-   "detected_at": "2026-11-03 12:02:51",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Texas-San-Antonio-at-San-Jose-State/532471"
-  },
-  {
-   "detail": "NCAA Southern Illinois 82, Maryville MO 40",
-   "detected_at": "2026-11-03 12:02:46",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Maryville-MO-at-Southern-Illinois/541712"
-  },
-  {
-   "detail": "NCAA Northwestern 86, Binghamton 60",
-   "detected_at": "2026-11-03 12:02:41",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Binghamton-at-Northwestern/539948"
-  },
-  {
-   "detail": "NCAA Utah Valley 84, Western Colorado 63",
-   "detected_at": "2026-11-03 12:02:35",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Western-Colorado-at-Utah-Valley/539670"
-  },
-  {
-   "detail": "NCAA Arkansas State 71, Toledo 70",
-   "detected_at": "2026-11-03 12:02:30",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Toledo-at-Arkansas-State/531969"
-  },
-  {
-   "detail": "NCAA Florida Atlantic 74, Long Island 60",
-   "detected_at": "2026-11-03 12:02:24",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Long-Island-at-Florida-Atlantic-/539304"
-  },
-  {
-   "detail": "NCAA Eastern Michigan 71, Coastal Carolina 70",
-   "detected_at": "2026-11-03 12:02:19",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Eastern-Michigan-at-Coastal-Carolina/531970"
-  },
-  {
-   "detail": "NCAA TCU 98, Lindenwood 59",
-   "detected_at": "2026-11-03 12:02:13",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Lindenwood-at-TCU/539051"
-  },
-  {
-   "detail": "NCAA North Carolina 80, Western Carolina 72",
-   "detected_at": "2026-11-03 12:02:08",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Western-Carolina-at-North-Carolina/534463"
-  },
-  {
-   "detail": "NCAA Illinois 120, Fairleigh Dickinson 45",
-   "detected_at": "2026-11-03 12:02:02",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Fairleigh-Dickinson-at-Illinois/534510"
-  },
-  {
-   "detail": "NCAA Norfolk State 68, Regent 45",
-   "detected_at": "2026-11-03 11:01:22",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Regent-at-Norfolk-State/542910"
-  },
-  {
-   "detail": "NCAA Bryant 80, Siena 75",
-   "detected_at": "2026-11-03 11:01:17",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Siena-at-Bryant/542142"
-  },
-  {
-   "detail": "NCAA Texas Arlington 89, UNT Dallas 56",
-   "detected_at": "2026-11-03 11:01:12",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/UNT-Dallas-at-Texas-Arlington/544587"
-  },
-  {
-   "detail": "NCAA Valparaiso 80, Western Illinois 58",
-   "detected_at": "2026-11-03 11:01:07",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Western-Illinois-at-Valparaiso/544413"
-  },
-  {
-   "detail": "NCAA Evansville 80, Indiana Kokomo 70",
-   "detected_at": "2026-11-03 11:01:01",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Indiana-Kokomo-at-Evansville/544020"
-  },
-  {
-   "detail": "NCAA Bradley 85, Monmouth IL 41",
-   "detected_at": "2026-11-03 11:00:56",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Monmouth-IL-at-Bradley/543833"
-  },
-  {
-   "detail": "NCAA Tulsa 98, Ottawa University KS 50",
-   "detected_at": "2026-11-03 11:00:51",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Ottawa-University-KS-at-Tulsa/543308"
-  },
-  {
-   "detail": "NCAA Ohio 86, South Alabama 77",
-   "detected_at": "2026-11-03 11:00:46",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Ohio-at-South-Alabama/531965"
-  },
-  {
-   "detail": "NCAA Creighton 76, UMKC 61",
-   "detected_at": "2026-11-03 11:00:41",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/UMKC-at-Creighton/530414"
-  },
-  {
-   "detail": "NCAA DePaul 75, West Georgia 58",
-   "detected_at": "2026-11-03 11:00:35",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/West-Georgia-at-DePaul/530413"
-  },
-  {
-   "detail": "NCAA Wake Forest 83, Maryland Eastern Shore 62",
-   "detected_at": "2026-11-03 11:00:30",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Maryland-Eastern-Shore-at-Wake-Forest/530405"
-  },
-  {
-   "detail": "NCAA East Texas AM 68, Oklahoma 64",
-   "detected_at": "2026-11-03 11:00:25",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/East-Texas-AM-at-Oklahoma/528938"
-  },
-  {
-   "detail": "NCAA West Virginia 91, Niagara 46",
-   "detected_at": "2026-11-03 11:00:20",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Niagara-at-West-Virginia/541007"
-  },
-  {
-   "detail": "NCAA Iona 56, Vermont 55",
-   "detected_at": "2026-11-03 11:00:15",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Vermont-at-Iona/539956"
-  },
-  {
-   "detail": "NCAA Boston University 93, Northeastern 85",
-   "detected_at": "2026-11-03 11:00:10",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Northeastern-at-Boston-University/539947"
-  },
-  {
-   "detail": "Italian Serie A2 Basket Akern Libertas Livorno 87, Elachem Vigevano 81",
-   "detected_at": "2026-11-03 10:59:44",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-01/Akern-Libertas-Livorno-at-Elachem-Vigevano/529854"
-  },
-  {
-   "detail": "Italian Serie A2 Basket Unieuro Forli 86, Crifo Wines Ruvo di Puglia 71",
-   "detected_at": "2026-11-03 10:59:39",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-01/Crifo-Wines-Ruvo-di-Puglia-at-Unieuro-Forli/529855"
-  },
-  {
-   "detail": "Johnny Berhanemeskel  ~ league: LNB Élite -> LNB Élite EuroCup",
-   "detected_at": "2026-11-03 10:56:37",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Johnny_Berhanemeskel"
-  },
-  {
-   "detail": "NCAA Tarleton State 86, Cameron 60",
-   "detected_at": "2026-11-03 09:58:39",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Cameron-at-Tarleton-State/544586"
-  },
-  {
-   "detail": "NCAA Omaha 73, Mid America Christian 65",
-   "detected_at": "2026-11-03 09:58:33",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Mid-America-Christian-at-Omaha/544584"
-  },
-  {
-   "detail": "NCAA Florida International 101, New College FL 58",
-   "detected_at": "2026-11-03 09:58:27",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/New-College-FL-at-Florida-International/544332"
-  },
-  {
-   "detail": "NCAA UMass Lowell 121, Rivier 57",
-   "detected_at": "2026-11-03 09:58:21",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Rivier-at-UMass-Lowell/542143"
-  },
-  {
-   "detail": "NCAA Hawaii 74, Seattle 73",
-   "detected_at": "2026-11-03 09:58:15",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Seattle-at-Hawaii/537974"
-  },
-  {
-   "detail": "NCAA North Dakota State 90, Minnesota Crookston 59",
-   "detected_at": "2026-11-03 09:58:08",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Minnesota-Crookston-at-North-Dakota-State/544585"
-  },
-  {
-   "detail": "NCAA Southern Mississippi 82, Tougaloo 35",
-   "detected_at": "2026-11-03 09:58:02",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Tougaloo-at-Southern-Mississippi/544583"
-  },
-  {
-   "detail": "NCAA Texas State 67, Texas AM CC 55",
-   "detected_at": "2026-11-03 09:57:57",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Texas-AM-CC-at-Texas-State/542465"
-  },
-  {
-   "detail": "NCAA Charleston 111, Southern Wesleyan 55",
-   "detected_at": "2026-11-03 09:57:51",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Southern-Wesleyan-at-Charleston/546073"
-  },
-  {
-   "detail": "NCAA Green Bay 94, Lawrence WI 51",
-   "detected_at": "2026-11-03 09:57:44",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Lawrence-WI-at-Green-Bay/544412"
-  },
-  {
-   "detail": "NCAA NC State 83, Campbell 64",
-   "detected_at": "2026-11-03 09:57:37",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Campbell-at-NC-State/539055"
-  },
-  {
-   "detail": "NCAA Georgia 78, North Carolina Central 62",
-   "detected_at": "2026-11-03 09:57:30",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/North-Carolina-Central-at-Georgia/528940"
-  },
-  {
-   "detail": "NCAA Mississippi State 106, Tennessee Tech 88",
-   "detected_at": "2026-11-03 09:57:22",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Tennessee-Tech--at-Mississippi-State/528939"
-  },
-  {
-   "detail": "NCAA UCF 96, Florida Gulf Coast 95",
-   "detected_at": "2026-11-03 09:57:14",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Florida-Gulf-Coast-at-UCF/541008"
-  },
-  {
-   "detail": "NCAA Kansas 95, Fordham 65",
-   "detected_at": "2026-11-03 09:57:07",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Fordham-at-Kansas/530402"
-  },
-  {
-   "detail": "NCAA Michigan State 96, Quinnipiac 59",
-   "detected_at": "2026-11-03 09:57:00",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-02/Quinnipiac-at-Michigan-State/542467"
-  },
-  {
-   "detail": "Italian Serie A2 Basket Fortituto Kontatto Bologna 66, Georgio Tesi Group Pistoia 64",
-   "detected_at": "2026-11-03 09:56:27",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-01/Fortituto-Kontatto-Bologna-at-Georgio-Tesi-Group-Pistoia/529848"
-  },
-  {
-   "detail": "Italian Serie A2 Basket Zeus Energy Group Rieti 73, Ferraroni Juvi Cremona 65",
-   "detected_at": "2026-11-03 09:56:20",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-01/Ferraroni-Juvi-Cremona-at-Zeus-Energy-Group-Rieti/529849"
   }
  ],
  "feeds": {
@@ -10267,30 +10265,30 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 11273,
-   "last": "2026-11-09 03:21:43"
+   "count": 11277,
+   "last": "2026-11-09 04:46:59"
   },
   "SCORES": {
-   "count": 4545,
-   "last": "2026-11-09 03:21:46"
+   "count": 4570,
+   "last": "2026-11-09 04:50:13"
   },
   "SHEETS": {
    "count": 5240,
    "last": "2026-11-03 06:42:29"
   },
   "TRANSACTIONS": {
-   "count": 698,
-   "last": "2026-11-08 22:22:05"
+   "count": 700,
+   "last": "2026-11-09 04:38:06"
   },
   "WIKI": {
-   "count": 7896,
-   "last": "2026-11-09 03:20:09"
+   "count": 7926,
+   "last": "2026-11-09 04:45:43"
   },
   "WIKIWATCH": {
    "count": 600,
    "last": "2026-11-08 23:40:35"
   }
  },
- "generated_at": "2026-11-09T03:22:13",
- "total": 38520
+ "generated_at": "2026-11-09T04:50:18",
+ "total": 38581
 }
