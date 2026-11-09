@@ -1,6 +1,111 @@
 {
  "events": [
   {
+   "detail": "Italian Serie A2 Basket Gemini Mestre 85, Carpegna Prosciutto Basket Pesaro 73",
+   "detected_at": "2026-11-09 15:10:21",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-07/Gemini-Mestre-at-Carpegna-Prosciutto-Basket-Pesaro/529861"
+  },
+  {
+   "detail": "Italian Serie A2 Basket + Segato Francesco → Gemini Mestre",
+   "detected_at": "2026-11-09 15:10:18",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Kosovo FBK KB Trepca Mitrovice 92, KB Rahoveci 58",
+   "detected_at": "2026-11-09 15:10:14",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-08/KB-Rahoveci-at-KB-Trepca-Mitrovice/535097"
+  },
+  {
+   "detail": "Kosovo FBK + Elif Hajrullaga → KB Rahoveci",
+   "detected_at": "2026-11-09 15:10:11",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Bosnian BiH Liga KK Gradina Srebrenik 80, HKK Zrinjski 79",
+   "detected_at": "2026-11-09 15:10:08",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-08/HKK-Zrinjski-at-KK-Gradina-Srebrenik/540951"
+  },
+  {
+   "detail": "Croatian A-1 Liga KK Alkar 91, KK Dubrovnik 72",
+   "detected_at": "2026-11-09 15:10:02",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-08/KK-Dubrovnik-at-KK-Alkar/539568"
+  },
+  {
+   "detail": "Croatian A-1 Liga + Mateo Tomasevic → KK Dubrovnik",
+   "detected_at": "2026-11-09 15:09:59",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Bosnian BiH Liga Drina Princip 99, KK Mladost 72",
+   "detected_at": "2026-11-09 15:09:56",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-08/KK-Mladost-at-Drina-Princip/540954"
+  },
+  {
+   "detail": "Bosnian BiH Liga + JaJa Davis → KK Mladost",
+   "detected_at": "2026-11-09 15:09:53",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Bosnian BiH Liga Orlovik 75, SL Takovo Leotar 55",
+   "detected_at": "2026-11-09 15:09:50",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-08/Orlovik-at-SL-Takovo-Leotar/540948"
+  },
+  {
+   "detail": "Bosnian BiH Liga ~ RETURN Vasilije Jovanovic → SL Takovo Leotar (from KK Sloboda Uzice)",
+   "detected_at": "2026-11-09 15:09:47",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "Bosnian BiH Liga + Filip Cvjetinovic → SL Takovo Leotar",
+   "detected_at": "2026-11-09 15:09:47",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Bosnian BiH Liga KK Igman Burch Ilidza 85, Promo Donji Vakuf 81",
+   "detected_at": "2026-11-09 15:09:44",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-08/Promo-Donji-Vakuf-at-KK-Igman-Burch-Ilidza/540950"
+  },
+  {
+   "detail": "Bosnian BiH Liga ~ MOVED Benjamin Teletovic → KK Igman Burch Ilidza (from OKK Beograd)",
+   "detected_at": "2026-11-09 15:09:41",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Czech NBL Sokol Srsni Pisek 92, Olomoucko Prostejov 65",
+   "detected_at": "2026-11-09 15:09:38",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-08/Sokol-Srsni-Pisek-at-Olomoucko-Prostejov/527488"
+  },
+  {
    "detail": "2026-11-08  Assigned: Khalifa Diop (Charge)",
    "detected_at": "2026-11-09 15:07:41",
    "source": "GLEAGUE",
@@ -10170,97 +10275,6 @@
    "detected_at": "2026-11-04 15:04:29",
    "source": "GLEAGUE",
    "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-11-03  Waived: Jamar Brown (Celtics)",
-   "detected_at": "2026-11-04 15:04:29",
-   "source": "GLEAGUE",
-   "type": "Waived/Buyout"
-  },
-  {
-   "detail": "2026-11-03  Waived: Desmond Cambridge (Celtics)",
-   "detected_at": "2026-11-04 15:04:29",
-   "source": "GLEAGUE",
-   "type": "Waived/Buyout"
-  },
-  {
-   "detail": "2026-11-03  Waived: Kaleb Lowery (Celtics)",
-   "detected_at": "2026-11-04 15:04:29",
-   "source": "GLEAGUE",
-   "type": "Waived/Buyout"
-  },
-  {
-   "detail": "2026-11-03  Waived: Gabe Osabuohien (Celtics)",
-   "detected_at": "2026-11-04 15:04:29",
-   "source": "GLEAGUE",
-   "type": "Waived/Buyout"
-  },
-  {
-   "detail": "2026-11-03  Waived: Jesiah West (Celtics)",
-   "detected_at": "2026-11-04 15:04:29",
-   "source": "GLEAGUE",
-   "type": "Waived/Buyout"
-  },
-  {
-   "detail": "2026-11-03  Waived: Jaiden Delaire (Raptors)",
-   "detected_at": "2026-11-04 15:04:29",
-   "source": "GLEAGUE",
-   "type": "Waived/Buyout"
-  },
-  {
-   "detail": "2026-11-03  Waived: Brandon Muntu (Raptors)",
-   "detected_at": "2026-11-04 15:04:29",
-   "source": "GLEAGUE",
-   "type": "Waived/Buyout"
-  },
-  {
-   "detail": "2026-11-03  Waived: Justin Lee Wilson (Raptors)",
-   "detected_at": "2026-11-04 15:04:29",
-   "source": "GLEAGUE",
-   "type": "Waived/Buyout"
-  },
-  {
-   "detail": "2026-11-03  Waived: Daveon Thomas (Raptors)",
-   "detected_at": "2026-11-04 15:04:29",
-   "source": "GLEAGUE",
-   "type": "Waived/Buyout"
-  },
-  {
-   "detail": "2026-11-03  Waived: Jalen Celestine (Raptors)",
-   "detected_at": "2026-11-04 15:04:29",
-   "source": "GLEAGUE",
-   "type": "Waived/Buyout"
-  },
-  {
-   "detail": "2026-11-03  Waived: Javon Ruffin (Vipers)",
-   "detected_at": "2026-11-04 15:04:29",
-   "source": "GLEAGUE",
-   "type": "Waived/Buyout"
-  },
-  {
-   "detail": "2026-11-03  Waived: Cearius Warren (Vipers)",
-   "detected_at": "2026-11-04 15:04:29",
-   "source": "GLEAGUE",
-   "type": "Waived/Buyout"
-  },
-  {
-   "detail": "2026-11-03  Waived: Ja'sean Jackson (Vipers)",
-   "detected_at": "2026-11-04 15:04:29",
-   "source": "GLEAGUE",
-   "type": "Waived/Buyout"
-  },
-  {
-   "detail": "2026-11-03  Waived: Carter Whitt (Vipers)",
-   "detected_at": "2026-11-04 15:04:29",
-   "source": "GLEAGUE",
-   "type": "Waived/Buyout"
-  },
-  {
-   "detail": "Basketball Champions League Europe Joventut Badalona 81, FC Porto Ferpinta 64",
-   "detected_at": "2026-11-04 14:46:04",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-03/Joventut-Badalona-at-FC-Porto-Ferpinta/534086"
   }
  ],
  "feeds": {
@@ -10281,12 +10295,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 11357,
-   "last": "2026-11-09 14:06:45"
+   "count": 11364,
+   "last": "2026-11-09 15:10:18"
   },
   "SCORES": {
-   "count": 4696,
-   "last": "2026-11-09 14:07:49"
+   "count": 4704,
+   "last": "2026-11-09 15:10:21"
   },
   "SHEETS": {
    "count": 5240,
@@ -10305,6 +10319,6 @@
    "last": "2026-11-09 12:03:52"
   }
  },
- "generated_at": "2026-11-09T15:07:43",
- "total": 38829
+ "generated_at": "2026-11-09T15:10:42",
+ "total": 38844
 }
