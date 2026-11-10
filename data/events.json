@@ -1,6 +1,417 @@
 {
  "events": [
   {
+   "detail": "Brazilian NBB Uniao Corinthians 70, Uniceub BRB Brasilia 61",
+   "detected_at": "2026-11-10 17:58:54",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-09/Uniceub-BRB-Brasilia-at-Uniao-Corinthians/545152"
+  },
+  {
+   "detail": "Argentinian Liga A Obera Tenis Club 95, Gimnasia Indalo 92",
+   "detected_at": "2026-11-10 17:58:48",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-09/Obera-Tenis-Club-at-Gimnasia-Indalo/542051"
+  },
+  {
+   "detail": "Brazilian NBB Bauru 98, Pato Basquete 78",
+   "detected_at": "2026-11-10 17:58:42",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-09/Bauru-at-Pato-Basquete/545151"
+  },
+  {
+   "detail": "Brazilian NBB Corinthians 75, Basquete Cearense 68",
+   "detected_at": "2026-11-10 17:58:35",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-09/Corinthians-at-Basquete-Cearense/545153"
+  },
+  {
+   "detail": "Brazilian NBB Mogi das Cruzes 85, Pinheiros Sky 70",
+   "detected_at": "2026-11-10 17:58:29",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-09/Mogi-das-Cruzes-at-Pinheiros-Sky/545154"
+  },
+  {
+   "detail": "VTB Youth United League Khimki 2 102, Nizhny Novgorod 2 62",
+   "detected_at": "2026-11-10 17:58:20",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-09/Nizhny-Novgorod-2-at-Khimki-2/543436"
+  },
+  {
+   "detail": "Serbian KLS Zlatibor Cajetina 103, KK Sloga 88",
+   "detected_at": "2026-11-10 17:58:13",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-09/KK-Sloga-at-Zlatibor-Cajetina/545552"
+  },
+  {
+   "detail": "Serbian KLS + Tai'reon Joseph → KK Sloga",
+   "detected_at": "2026-11-10 17:58:09",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Serbian KLS + Aleksa Simovic → KK Sloga",
+   "detected_at": "2026-11-10 17:58:09",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Serbian KLS + Grigorije Stanisavljevic → KK Sloga",
+   "detected_at": "2026-11-10 17:58:09",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "VTB Youth United League Parma 2 63, Dynamo M2 54",
+   "detected_at": "2026-11-10 17:58:07",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-09/Parma-2-at-Dynamo-M2/543441"
+  },
+  {
+   "detail": "VTB Youth United League ~ RETURN Grigory Golovchenko → Parma 2 (from Parma Basket Perm)",
+   "detected_at": "2026-11-10 17:58:03",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "VTB Youth United League ChBK 2 74, Uralmash 2 64",
+   "detected_at": "2026-11-10 17:58:00",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-09/Uralmash-2-at-ChBK-2/543440"
+  },
+  {
+   "detail": "VTB Youth United League Zenit 2 69, CSKA Moscow U18 68",
+   "detected_at": "2026-11-10 17:57:54",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-09/CSKA-Moscow-U18-at-Zenit-2/543439"
+  },
+  {
+   "detail": "VTB Youth United League + Ershov Vladimir → CSKA Moscow U18",
+   "detected_at": "2026-11-10 17:57:51",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "VTB Youth United League ~ RETURN Dmitry Chikishev → Zenit 2 (from Zenit Saint Petersburg)",
+   "detected_at": "2026-11-10 17:57:51",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "N'Faly Dante  ~ number: 12 -> 16",
+   "detected_at": "2026-11-10 17:57:44",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/N'Faly_Dante"
+  },
+  {
+   "detail": "George King (basketball, born 1994)  ~ team: San Miguel Beermen -> Free agent",
+   "detected_at": "2026-11-10 17:57:44",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/George_King_(basketball,_born_1994)"
+  },
+  {
+   "detail": "George King (basketball, born 1994)  ~ league: PBA -> -",
+   "detected_at": "2026-11-10 17:57:44",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/George_King_(basketball,_born_1994)"
+  },
+  {
+   "detail": "George King (basketball, born 1994)  ~ number: 94 -> -",
+   "detected_at": "2026-11-10 17:57:44",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/George_King_(basketball,_born_1994)"
+  },
+  {
+   "detail": "George King (basketball, born 1994)  ~ CAREER  + 2026 San Miguel Beermen",
+   "detected_at": "2026-11-10 17:57:44",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/George_King_(basketball,_born_1994)"
+  },
+  {
+   "detail": "Jazian Gortman  ~ number: 18 -> 00",
+   "detected_at": "2026-11-10 17:57:44",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jazian_Gortman"
+  },
+  {
+   "detail": "Lester Quiñones  ~ number: 24 -> 25",
+   "detected_at": "2026-11-10 17:57:44",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Lester_Qui%C3%B1ones"
+  },
+  {
+   "detail": "Adama Bal  ~ number: - -> 8",
+   "detected_at": "2026-11-10 17:57:44",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Adama_Bal"
+  },
+  {
+   "detail": "Toby Okani  ~ number: 11 -> 5",
+   "detected_at": "2026-11-10 17:57:44",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Toby_Okani"
+  },
+  {
+   "detail": "Trevor Keels  ~ number: 13 -> 0",
+   "detected_at": "2026-11-10 17:57:44",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Trevor_Keels"
+  },
+  {
+   "detail": "Liam Robbins  ~ number: 31 -> 21",
+   "detected_at": "2026-11-10 17:57:44",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Liam_Robbins"
+  },
+  {
+   "detail": "Rolands Šmits  ~ team: Ningbo Rockets -> Free agent",
+   "detected_at": "2026-11-10 17:57:44",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Rolands_%C5%A0mits"
+  },
+  {
+   "detail": "Rolands Šmits  ~ league: CBA -> -",
+   "detected_at": "2026-11-10 17:57:44",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Rolands_%C5%A0mits"
+  },
+  {
+   "detail": "Rolands Šmits  ~ number: 11 -> -",
+   "detected_at": "2026-11-10 17:57:44",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Rolands_%C5%A0mits"
+  },
+  {
+   "detail": "Rolands Šmits  ~ CAREER  + 2012–2017 Fuenlabrada",
+   "detected_at": "2026-11-10 17:57:44",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Rolands_%C5%A0mits"
+  },
+  {
+   "detail": "Rolands Šmits  ~ CAREER  + 2014–2015 →Getafe Fuenlabrada",
+   "detected_at": "2026-11-10 17:57:44",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Rolands_%C5%A0mits"
+  },
+  {
+   "detail": "Rolands Šmits  ~ CAREER  + 2017–2018 →Fuenlabrada",
+   "detected_at": "2026-11-10 17:57:44",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Rolands_%C5%A0mits"
+  },
+  {
+   "detail": "Rolands Šmits  ~ CAREER  + 2026 Ningbo Rockets",
+   "detected_at": "2026-11-10 17:57:44",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Rolands_%C5%A0mits"
+  },
+  {
+   "detail": "Kamar Baldwin  ~ team: Bayern Munich -> Free agent",
+   "detected_at": "2026-11-10 17:57:44",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kamar_Baldwin"
+  },
+  {
+   "detail": "Kamar Baldwin  ~ league: BBL EuroLeague -> -",
+   "detected_at": "2026-11-10 17:57:44",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kamar_Baldwin"
+  },
+  {
+   "detail": "Kamar Baldwin  ~ number: 44 -> -",
+   "detected_at": "2026-11-10 17:57:44",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kamar_Baldwin"
+  },
+  {
+   "detail": "Kamar Baldwin  ~ CAREER  + 2024–2025 Baskonia",
+   "detected_at": "2026-11-10 17:57:44",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Kamar_Baldwin"
+  },
+  {
+   "detail": "Kamar Baldwin  ~ CAREER  + 2025–2026 Bayern Munich",
+   "detected_at": "2026-11-10 17:57:44",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Kamar_Baldwin"
+  },
+  {
+   "detail": "Mike Myers (basketball)  ~ CAREER  + 2025 Büyükçekmece",
+   "detected_at": "2026-11-10 17:57:44",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Mike_Myers_(basketball)"
+  },
+  {
+   "detail": "Vasilije Pušica  ~ team: Free Agent -> Keravnos",
+   "detected_at": "2026-11-10 17:57:44",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Vasilije_Pu%C5%A1ica"
+  },
+  {
+   "detail": "Vasilije Pušica  ~ league: - -> Cyprus Basketball Division A",
+   "detected_at": "2026-11-10 17:57:44",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Vasilije_Pu%C5%A1ica"
+  },
+  {
+   "detail": "Vasilije Pušica  ~ CAREER  + 2021–2022 Prienai",
+   "detected_at": "2026-11-10 17:57:44",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Vasilije_Pu%C5%A1ica"
+  },
+  {
+   "detail": "Vasilije Pušica  ~ CAREER  + 2022 Galatasaray",
+   "detected_at": "2026-11-10 17:57:44",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Vasilije_Pu%C5%A1ica"
+  },
+  {
+   "detail": "Vasilije Pušica  ~ CAREER  + 2025–2026 Büyükçekmece",
+   "detected_at": "2026-11-10 17:57:44",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Vasilije_Pu%C5%A1ica"
+  },
+  {
+   "detail": "Vasilije Pušica  ~ CAREER  + 2026–present Keravnos",
+   "detected_at": "2026-11-10 17:57:44",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Vasilije_Pu%C5%A1ica"
+  },
+  {
+   "detail": "Jaron Johnson  ~ team: Free Agent -> Juvecaserta",
+   "detected_at": "2026-11-10 17:57:44",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jaron_Johnson"
+  },
+  {
+   "detail": "Jaron Johnson  ~ league: - -> Serie A2",
+   "detected_at": "2026-11-10 17:57:44",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jaron_Johnson"
+  },
+  {
+   "detail": "Jaron Johnson  ~ number: - -> 92",
+   "detected_at": "2026-11-10 17:57:44",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jaron_Johnson"
+  },
+  {
+   "detail": "Jaron Johnson  ~ CAREER  + 2025–2026 Büyükçekmece",
+   "detected_at": "2026-11-10 17:57:44",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Jaron_Johnson"
+  },
+  {
+   "detail": "Jaron Johnson  ~ CAREER  + 2026–present JuveCaserta",
+   "detected_at": "2026-11-10 17:57:44",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Jaron_Johnson"
+  },
+  {
+   "detail": "2026-11-09  Assigned: Isaiah Evans (Wolves)",
+   "detected_at": "2026-11-10 17:50:07",
+   "source": "GLEAGUE",
+   "type": "Acquired/Assigned"
+  },
+  {
+   "detail": "2026-11-09  Waivers Cleared: Giddy Potts",
+   "detected_at": "2026-11-10 17:50:07",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-09  Waivers Cleared: Alejandro Rama",
+   "detected_at": "2026-11-10 17:50:07",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-09  Waivers Cleared: Ileri Ayo Faleye",
+   "detected_at": "2026-11-10 17:50:07",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-09  Acquired from Player Pool: Ileri Ayo Faleye (Clippers)",
+   "detected_at": "2026-11-10 17:50:07",
+   "source": "GLEAGUE",
+   "type": "Acquired/Assigned"
+  },
+  {
+   "detail": "2026-11-09  Recalled: Christopher Cenac Jr (Celtics)",
+   "detected_at": "2026-11-10 17:50:07",
+   "source": "GLEAGUE",
+   "type": "Call-Up/Recall"
+  },
+  {
+   "detail": "2026-11-09  Acquired: Adama Bal (Herd)",
+   "detected_at": "2026-11-10 17:50:07",
+   "source": "GLEAGUE",
+   "type": "Acquired/Assigned"
+  },
+  {
+   "detail": "2026-11-09  Acquired from Player Pool: Shawn Jones, Jr (Squadron)",
+   "detected_at": "2026-11-10 17:50:07",
+   "source": "GLEAGUE",
+   "type": "Acquired/Assigned"
+  },
+  {
+   "detail": "2026-11-10  Assigned: Chaz Lanier (Cruise)",
+   "detected_at": "2026-11-10 17:50:07",
+   "source": "GLEAGUE",
+   "type": "Acquired/Assigned"
+  },
+  {
    "detail": "Argentinian Liga A Boca Juniors 97, La Union de Formosa 93",
    "detected_at": "2026-11-10 13:48:21",
    "source": "SCORES",
@@ -9872,423 +10283,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-11-05/Keila-Korvpallikool-at-Rigas-Ekselences-Juniori/540728"
-  },
-  {
-   "detail": "Estonian-Latvian Basketball League + Ojars Berzins → Keila Korvpallikool",
-   "detected_at": "2026-11-06 05:59:59",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Estonian-Latvian Basketball League + Janis Kalnins → Rigas Ekselences Juniori",
-   "detected_at": "2026-11-06 05:59:59",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Estonian-Latvian Basketball League + Ronijs Darels Jeromanovs → Rigas Ekselences Juniori",
-   "detected_at": "2026-11-06 05:59:59",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Stanley Johnson (basketball)  ~ number: - -> 14",
-   "detected_at": "2026-11-06 05:59:52",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Stanley_Johnson_(basketball)"
-  },
-  {
-   "detail": "Yuri Collins  ~ number: 99 -> 1",
-   "detected_at": "2026-11-06 05:59:52",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Yuri_Collins"
-  },
-  {
-   "detail": "Khalifa Diop  ~ team: Cleveland Charge -> Cleveland Cavaliers",
-   "detected_at": "2026-11-06 05:59:52",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Khalifa_Diop"
-  },
-  {
-   "detail": "Khalifa Diop  ~ league: NBA G League -> NBA",
-   "detected_at": "2026-11-06 05:59:52",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Khalifa_Diop"
-  },
-  {
-   "detail": "2026-11-05  Cleveland Cavaliers signed forward Norchad Omier to a Two-Way Contract.",
-   "detected_at": "2026-11-06 05:52:12",
-   "source": "TRANSACTIONS",
-   "type": "Signing"
-  },
-  {
-   "detail": "2026-11-05  Cleveland Cavaliers waived forward Riley Minix.",
-   "detected_at": "2026-11-06 05:52:12",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
-  },
-  {
-   "detail": "Kevin Porter Jr.  ~ CAREER  + 2026 PAOK B.C.",
-   "detected_at": "2026-11-05 22:12:35",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Kevin_Porter_Jr."
-  },
-  {
-   "detail": "Dwight Powell  ~ CAREER  + 2026–present Fenerbahçe",
-   "detected_at": "2026-11-05 21:40:35",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Dwight_Powell"
-  },
-  {
-   "detail": "Jason Burnell  ~ position: Small forward -> Power forward",
-   "detected_at": "2026-11-05 21:40:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jason_Burnell"
-  },
-  {
-   "detail": "Trent Forrest  ~ height_in: 4 -> 5",
-   "detected_at": "2026-11-05 21:04:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Trent_Forrest"
-  },
-  {
-   "detail": "Jason Burnell  ~ position: Power forward -> Small forward",
-   "detected_at": "2026-11-05 21:04:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jason_Burnell"
-  },
-  {
-   "detail": "Trent Forrest  ~ position: Point guard -> Point guard / shooting guard",
-   "detected_at": "2026-11-05 20:35:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Trent_Forrest"
-  },
-  {
-   "detail": "Trent Forrest  ~ height_in: 5 -> 4",
-   "detected_at": "2026-11-05 20:35:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Trent_Forrest"
-  },
-  {
-   "detail": "Trent Forrest  ~ 85602: position -> Point guard",
-   "detected_at": "2026-11-05 20:26:25",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "Point guard / shooting guard"
-  },
-  {
-   "detail": "Dwight Powell  ~ CAREER  + Toronto Raptors",
-   "detected_at": "2026-11-05 19:30:35",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Dwight_Powell"
-  },
-  {
-   "detail": "Dwight Powell  ~ CAREER  + 2026–present Vilniaus Rytas 2",
-   "detected_at": "2026-11-05 19:30:35",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Dwight_Powell"
-  },
-  {
-   "detail": "Mexican LNBP Astros de Jalisco 82, Fuerza Regia 77",
-   "detected_at": "2026-11-05 18:16:46",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-03/Astros-de-Jalisco-at-Fuerza-Regia/546070"
-  },
-  {
-   "detail": "Kevin McCullar Jr.  ~ team: Free agent -> Toronto Raptors",
-   "detected_at": "2026-11-05 18:16:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Kevin_McCullar_Jr."
-  },
-  {
-   "detail": "Kevin McCullar Jr.  ~ league: - -> NBA",
-   "detected_at": "2026-11-05 18:16:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Kevin_McCullar_Jr."
-  },
-  {
-   "detail": "Kevin McCullar Jr.  ~ number: - -> 11",
-   "detected_at": "2026-11-05 18:16:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Kevin_McCullar_Jr."
-  },
-  {
-   "detail": "Kevin McCullar Jr.  ~ CAREER  + –present Toronto Raptors",
-   "detected_at": "2026-11-05 18:16:35",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Kevin_McCullar_Jr."
-  },
-  {
-   "detail": "Kevin McCullar Jr.  ~ CAREER  + 2026–present →Raptors 905",
-   "detected_at": "2026-11-05 18:16:35",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Kevin_McCullar_Jr."
-  },
-  {
-   "detail": "2026-11-05  Toronto Raptors signed guard Kevin McCullar Jr. to a Two-Way Contract.",
-   "detected_at": "2026-11-05 17:45:03",
-   "source": "TRANSACTIONS",
-   "type": "Signing"
-  },
-  {
-   "detail": "Brazilian NBB Unifacisa Paraiba 71, Paulistano 63",
-   "detected_at": "2026-11-05 16:51:45",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-04/Paulistano-at-Unifacisa-Paraiba/545140"
-  },
-  {
-   "detail": "Jerian Grant  ~ position: Shooting guard / point guard -> Point guard / shooting guard",
-   "detected_at": "2026-11-05 16:51:36",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jerian_Grant"
-  },
-  {
-   "detail": "Isaac Bonga  ~ position: Small forward / power forward -> Small forward",
-   "detected_at": "2026-11-05 16:51:36",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Isaac_Bonga"
-  },
-  {
-   "detail": "Panagiotis Kalaitzakis  ~ position: Small forward / shooting guard -> Shooting guard / small forward",
-   "detected_at": "2026-11-05 16:51:36",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Panagiotis_Kalaitzakis"
-  },
-  {
-   "detail": "Isaac Bonga  ~ 77638: position -> Small forward / power forward",
-   "detected_at": "2026-11-05 16:43:03",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "Small forward"
-  },
-  {
-   "detail": "NCAA Queens University 96, Loyola Marymount 95",
-   "detected_at": "2026-11-05 15:50:28",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-04/Queens-University-at-Loyola-Marymount/537979"
-  },
-  {
-   "detail": "NCAA Utah Tech 103, Grace University CA 52",
-   "detected_at": "2026-11-05 15:50:23",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-04/Grace-University-CA-at-Utah-Tech/542917"
-  },
-  {
-   "detail": "NCAA Northern Kentucky 102, South Dakota 94",
-   "detected_at": "2026-11-05 15:50:17",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-04/Northern-Kentucky-at-South-Dakota/544417"
-  },
-  {
-   "detail": "NCAA Norfolk State 78, Randolph 71",
-   "detected_at": "2026-11-05 15:50:11",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-04/Randolph-at-Norfolk-State/542919"
-  },
-  {
-   "detail": "NCAA Southern Indiana 112, Saint Mary of the Woods 42",
-   "detected_at": "2026-11-05 15:50:06",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-04/Saint-Mary-of-the-Woods--at-Southern-Indiana/542144"
-  },
-  {
-   "detail": "NCAA Louisiana Monroe 99, Champion Christian 55",
-   "detected_at": "2026-11-05 15:50:00",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-04/Champion-Christian-at-Louisiana-Monroe-/538566"
-  },
-  {
-   "detail": "NCAA Saint Marys 105, North Dakota State 64",
-   "detected_at": "2026-11-05 15:49:54",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-04/North-Dakota-State-at-Saint-Marys/537978"
-  },
-  {
-   "detail": "NCAA Boise State 132, West Coast Baptist College 53",
-   "detected_at": "2026-11-05 15:49:48",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-04/West-Coast-Baptist-College-at-Boise-State/544415"
-  },
-  {
-   "detail": "NCAA Montana 105, Salish Kootenai College 40",
-   "detected_at": "2026-11-05 15:49:43",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-04/Salish-Kootenai-College-at-Montana/541019"
-  },
-  {
-   "detail": "NCAA California 84, Radford 70",
-   "detected_at": "2026-11-05 15:49:37",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-04/Radford-at-California/538486"
-  },
-  {
-   "detail": "NCAA Santa Clara 95, Milwaukee 72",
-   "detected_at": "2026-11-05 15:49:32",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-04/Milwaukee-at-Santa-Clara/537977"
-  },
-  {
-   "detail": "NCAA Auburn 92, Southeastern Louisiana 59",
-   "detected_at": "2026-11-05 15:49:27",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-04/Southeastern-Louisiana-at-Auburn/539962"
-  },
-  {
-   "detail": "French Basketball Cup JDA Dijon Basket 90, CSP Limoges 74",
-   "detected_at": "2026-11-05 15:48:40",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-03/CSP-Limoges-at-JDA-Dijon-Basket/546202"
-  },
-  {
-   "detail": "Slovenian SKL Krka Novo Mesto 93, Hopsi Polzela 79",
-   "detected_at": "2026-11-05 15:48:34",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-03/Krka-Novo-Mesto-at-Hopsi-Polzela/537261"
-  },
-  {
-   "detail": "Brazilian NBB Flamengo 91, Uniceub BRB Brasilia 87",
-   "detected_at": "2026-11-05 15:48:27",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-04/Flamengo-at-Uniceub-BRB-Brasilia/545142"
-  },
-  {
-   "detail": "Brazilian NBB Mogi das Cruzes 89, Basquete Cearense 78",
-   "detected_at": "2026-11-05 15:48:21",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-04/Basquete-Cearense-at-Mogi-das-Cruzes/545141"
-  },
-  {
-   "detail": "Argentinian Liga A Ciclista Olimpico 95, Lanus 94",
-   "detected_at": "2026-11-05 15:48:15",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-04/Lanus-at-Ciclista-Olimpico/544927"
-  },
-  {
-   "detail": "Euroleague Panathinaikos 115, Real Madrid 112",
-   "detected_at": "2026-11-05 15:48:09",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-04/Panathinaikos-at-Real-Madrid/526863"
-  },
-  {
-   "detail": "VTB Youth United League Zenit 2 92, Uralmash 2 68",
-   "detected_at": "2026-11-05 15:48:04",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-04/Zenit-2-at-Uralmash-2/543435"
-  },
-  {
-   "detail": "Slovenian SKL Rogaska Crystal 77, Ilirija 66",
-   "detected_at": "2026-11-05 15:47:59",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-04/Ilirija-at-Rogaska-Crystal/537259"
-  },
-  {
-   "detail": "Basketball Champions League Europe Telekom Baskets Bonn 101, Bnei Herzelia 89",
-   "detected_at": "2026-11-05 15:47:53",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-04/Bnei-Herzelia-at-Telekom-Baskets-Bonn/534085"
-  },
-  {
-   "detail": "Italian Serie A2 Basket Reale Mutua Torino 70, Montecatini 48",
-   "detected_at": "2026-11-05 15:47:47",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-04/Montecatini-at-Reale-Mutua-Torino/529852"
-  },
-  {
-   "detail": "Danish Basketligaen Holbaek Stenhus 84, Gladsaxe Basketball Klub 81",
-   "detected_at": "2026-11-05 15:47:41",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-04/Holbaek-Stenhus-at-Gladsaxe-Basketball-Klub/530347"
-  },
-  {
-   "detail": "Danish Basketligaen Team FOG Naestved 95, Vaerlose BBK 62",
-   "detected_at": "2026-11-05 15:47:34",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-04/Team-FOG-Naestved-at-Vaerlose-BBK/530346"
-  },
-  {
-   "detail": "Danish Basketligaen Copenhagen Basketball 93, BMS Herlev Wolfpack 67",
-   "detected_at": "2026-11-05 15:47:28",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-04/Copenhagen-Basketball-at-BMS-Herlev-Wolfpack/530345"
-  },
-  {
-   "detail": "Italian Serie A2 Basket Akern Libertas Livorno 76, Sella Cento 63",
-   "detected_at": "2026-11-05 15:47:22",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-04/Sella-Cento-at-Akern-Libertas-Livorno/529859"
-  },
-  {
-   "detail": "Danish Basketligaen Horsens IC 93, EBAA Bears Academy 84",
-   "detected_at": "2026-11-05 15:47:15",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-04/Horsens-IC-at-EBAA-Bears-Academy/530344"
-  },
-  {
-   "detail": "FIBA Europe Cup VEF Riga 97, Fribourg Olympic 65",
-   "detected_at": "2026-11-05 15:47:09",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-04/VEF-Riga-at-Fribourg-Olympic/544820"
-  },
-  {
-   "detail": "FIBA Europe Cup BC Kalev Cramo 74, Chalon Sur Saone 68",
-   "detected_at": "2026-11-05 15:47:03",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-04/BC-Kalev-Cramo-at-Chalon-Sur-Saone/544818"
   }
  ],
  "feeds": {
@@ -10297,8 +10291,8 @@
    "last": "2026-11-10 04:55:36"
   },
   "GLEAGUE": {
-   "count": 1069,
-   "last": "2026-11-09 15:07:41"
+   "count": 1078,
+   "last": "2026-11-10 17:50:07"
   },
   "PLAYERS": {
    "count": 1938,
@@ -10309,12 +10303,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 11395,
-   "last": "2026-11-10 13:48:11"
+   "count": 11401,
+   "last": "2026-11-10 17:58:09"
   },
   "SCORES": {
-   "count": 4791,
-   "last": "2026-11-10 13:48:21"
+   "count": 4801,
+   "last": "2026-11-10 17:58:54"
   },
   "SHEETS": {
    "count": 5265,
@@ -10325,14 +10319,14 @@
    "last": "2026-11-09 04:38:06"
   },
   "WIKI": {
-   "count": 7985,
-   "last": "2026-11-10 07:17:37"
+   "count": 8020,
+   "last": "2026-11-10 17:57:44"
   },
   "WIKIWATCH": {
    "count": 606,
    "last": "2026-11-10 06:01:36"
   }
  },
- "generated_at": "2026-11-10T14:38:29",
- "total": 39048
+ "generated_at": "2026-11-10T17:59:19",
+ "total": 39108
 }
