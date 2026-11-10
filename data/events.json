@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Zach LeDay  ~ 42397: league -> Israeli Premier League EuroLeague",
+   "detected_at": "2026-11-10 06:01:36",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Israeli Basketball Premier League EuroLeague"
+  },
+  {
    "detail": "NCAA Jacksonville 79, UMKC 61",
    "detected_at": "2026-11-10 05:10:07",
    "source": "SCORES",
@@ -10264,12 +10271,6 @@
    "detected_at": "2026-11-05 15:37:56",
    "source": "GLEAGUE",
    "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-11-04  Waived: Jaden Henderson (Kings)",
-   "detected_at": "2026-11-05 15:37:56",
-   "source": "GLEAGUE",
-   "type": "Waived/Buyout"
   }
  ],
  "feeds": {
@@ -10310,10 +10311,10 @@
    "last": "2026-11-10 05:02:28"
   },
   "WIKIWATCH": {
-   "count": 605,
-   "last": "2026-11-09 15:56:23"
+   "count": 606,
+   "last": "2026-11-10 06:01:36"
   }
  },
- "generated_at": "2026-11-10T05:10:14",
- "total": 39003
+ "generated_at": "2026-11-10T06:10:08",
+ "total": 39004
 }
