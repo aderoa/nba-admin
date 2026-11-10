@@ -1,6 +1,104 @@
 {
  "events": [
   {
+   "detail": "NCAA Pennsylvania 78, Howard 65",
+   "detected_at": "2026-11-10 07:18:32",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-09/Howard-at-Pennsylvania-/540004"
+  },
+  {
+   "detail": "French Jeep Elite CSP Limoges 79, Nancy Basket 77",
+   "detected_at": "2026-11-10 07:18:04",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-07/CSP-Limoges-at-Nancy-Basket/538612"
+  },
+  {
+   "detail": "French Jeep Elite + Chris-Ebou Ndow → CSP Limoges",
+   "detected_at": "2026-11-10 07:18:00",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Basketball Cup SO Maritime Boulogne 73, Union Rennes Basket 69",
+   "detected_at": "2026-11-10 07:17:54",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-09/Union-Rennes-Basket-at-SO-Maritime-Boulogne/546203"
+  },
+  {
+   "detail": "French Basketball Cup + Raphael Cristini → Union Rennes Basket",
+   "detected_at": "2026-11-10 07:17:50",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Croatian A-1 Liga KK Zadar 109, KK Kvarner 2010 80",
+   "detected_at": "2026-11-10 07:17:47",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-09/KK-Kvarner-2010-at-KK-Zadar/539566"
+  },
+  {
+   "detail": "Hamed Haddadi  ~ height_ft: 8 -> 7",
+   "detected_at": "2026-11-10 07:17:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Hamed_Haddadi"
+  },
+  {
+   "detail": "Hamed Haddadi  ~ height_in: 6 -> 2",
+   "detected_at": "2026-11-10 07:17:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Hamed_Haddadi"
+  },
+  {
+   "detail": "Hamed Haddadi  ~ weight_lb: 329 -> 263",
+   "detected_at": "2026-11-10 07:17:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Hamed_Haddadi"
+  },
+  {
+   "detail": "Blake Wesley (basketball)  ~ team: Free agent -> San Diego Clippers",
+   "detected_at": "2026-11-10 07:17:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Blake_Wesley_(basketball)"
+  },
+  {
+   "detail": "Blake Wesley (basketball)  ~ league: - -> NBA G League",
+   "detected_at": "2026-11-10 07:17:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Blake_Wesley_(basketball)"
+  },
+  {
+   "detail": "Blake Wesley (basketball)  ~ number: - -> 20",
+   "detected_at": "2026-11-10 07:17:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Blake_Wesley_(basketball)"
+  },
+  {
+   "detail": "Blake Wesley (basketball)  ~ CAREER  + 2026–present San Diego Clippers",
+   "detected_at": "2026-11-10 07:17:37",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Blake_Wesley_(basketball)"
+  },
+  {
+   "detail": "Cypriot Division A Enosis Neon Paralimni 80, Apollon Limassol BC 69",
+   "detected_at": "2026-11-10 06:10:24",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-09/Apollon-Limassol-BC-at-Enosis-Neon-Paralimni/542065"
+  },
+  {
    "detail": "Zach LeDay  ~ 42397: league -> Israeli Premier League EuroLeague",
    "detected_at": "2026-11-10 06:01:36",
    "source": "WIKIWATCH",
@@ -10187,90 +10285,6 @@
    "detected_at": "2026-11-05 15:37:56",
    "source": "GLEAGUE",
    "type": "Waived/Buyout"
-  },
-  {
-   "detail": "2026-11-04  Waivers Cleared: Aj Lopez",
-   "detected_at": "2026-11-05 15:37:56",
-   "source": "GLEAGUE",
-   "type": "Waived/Buyout"
-  },
-  {
-   "detail": "2026-11-04  Waivers Cleared: Olin Carter Iii",
-   "detected_at": "2026-11-05 15:37:56",
-   "source": "GLEAGUE",
-   "type": "Waived/Buyout"
-  },
-  {
-   "detail": "2026-11-04  Waivers Cleared: Don Mchenry",
-   "detected_at": "2026-11-05 15:37:56",
-   "source": "GLEAGUE",
-   "type": "Waived/Buyout"
-  },
-  {
-   "detail": "2026-11-04  Waivers Cleared: Cam Young",
-   "detected_at": "2026-11-05 15:37:56",
-   "source": "GLEAGUE",
-   "type": "Waived/Buyout"
-  },
-  {
-   "detail": "2026-11-04  Waivers Cleared: Tj Clark",
-   "detected_at": "2026-11-05 15:37:56",
-   "source": "GLEAGUE",
-   "type": "Waived/Buyout"
-  },
-  {
-   "detail": "2026-11-04  Waivers Cleared: Jaeden Zackery",
-   "detected_at": "2026-11-05 15:37:56",
-   "source": "GLEAGUE",
-   "type": "Waived/Buyout"
-  },
-  {
-   "detail": "2026-11-04  Waivers Cleared: Jason Thirdkill",
-   "detected_at": "2026-11-05 15:37:56",
-   "source": "GLEAGUE",
-   "type": "Waived/Buyout"
-  },
-  {
-   "detail": "2026-11-04  Waivers Cleared: Jordan Bone",
-   "detected_at": "2026-11-05 15:37:56",
-   "source": "GLEAGUE",
-   "type": "Waived/Buyout"
-  },
-  {
-   "detail": "2026-11-04  Waivers Cleared: David Cheatom",
-   "detected_at": "2026-11-05 15:37:56",
-   "source": "GLEAGUE",
-   "type": "Waived/Buyout"
-  },
-  {
-   "detail": "2026-11-04  Waivers Cleared: Vance Jackson",
-   "detected_at": "2026-11-05 15:37:56",
-   "source": "GLEAGUE",
-   "type": "Waived/Buyout"
-  },
-  {
-   "detail": "2026-11-04  Waived: Kyle Rose (Squadron)",
-   "detected_at": "2026-11-05 15:37:56",
-   "source": "GLEAGUE",
-   "type": "Waived/Buyout"
-  },
-  {
-   "detail": "2026-11-04  Waived: Shawn Jones, Jr (Squadron)",
-   "detected_at": "2026-11-05 15:37:56",
-   "source": "GLEAGUE",
-   "type": "Waived/Buyout"
-  },
-  {
-   "detail": "2026-11-04  Recalled: Jonathan Isaac (Magic)",
-   "detected_at": "2026-11-05 15:37:56",
-   "source": "GLEAGUE",
-   "type": "Call-Up/Recall"
-  },
-  {
-   "detail": "2026-11-04  Assigned: Christopher Cenac Jr (Celtics)",
-   "detected_at": "2026-11-05 15:37:56",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
   }
  ],
  "feeds": {
@@ -10291,12 +10305,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 11386,
-   "last": "2026-11-10 05:04:27"
+   "count": 11388,
+   "last": "2026-11-10 07:18:00"
   },
   "SCORES": {
-   "count": 4763,
-   "last": "2026-11-10 05:10:07"
+   "count": 4768,
+   "last": "2026-11-10 07:18:32"
   },
   "SHEETS": {
    "count": 5265,
@@ -10307,14 +10321,14 @@
    "last": "2026-11-09 04:38:06"
   },
   "WIKI": {
-   "count": 7978,
-   "last": "2026-11-10 05:02:28"
+   "count": 7985,
+   "last": "2026-11-10 07:17:37"
   },
   "WIKIWATCH": {
    "count": 606,
    "last": "2026-11-10 06:01:36"
   }
  },
- "generated_at": "2026-11-10T06:10:08",
- "total": 39004
+ "generated_at": "2026-11-10T07:18:36",
+ "total": 39018
 }
