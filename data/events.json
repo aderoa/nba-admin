@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "2026-11-10  Los Angeles Lakers waived center Lawson Lovering.",
+   "detected_at": "2026-11-10 23:47:22",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
    "detail": "Basketball Africa League - Qualification JCA Abidjan BC 72, BC Avenir du Rail 58",
    "detected_at": "2026-11-10 22:35:16",
    "source": "SCORES",
@@ -10275,13 +10281,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-05/Stonehill-at-Fordham/532313"
-  },
-  {
-   "detail": "NCAA Fort Valley State 75, Florida AM 70",
-   "detected_at": "2026-11-06 06:03:55",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-05/Fort-Valley-State-at-Florida-AM/544592"
   }
  ],
  "feeds": {
@@ -10314,8 +10313,8 @@
    "last": "2026-11-09 19:24:17"
   },
   "TRANSACTIONS": {
-   "count": 701,
-   "last": "2026-11-10 22:27:26"
+   "count": 702,
+   "last": "2026-11-10 23:47:22"
   },
   "WIKI": {
    "count": 8035,
@@ -10326,6 +10325,6 @@
    "last": "2026-11-10 06:01:36"
   }
  },
- "generated_at": "2026-11-10T22:35:47",
- "total": 39147
+ "generated_at": "2026-11-10T23:54:55",
+ "total": 39148
 }
