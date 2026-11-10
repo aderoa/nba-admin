@@ -1,6 +1,76 @@
 {
  "events": [
   {
+   "detail": "NCAA Auburn 75, Appalachian State 53",
+   "detected_at": "2026-11-10 10:58:10",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-09/Appalachian-State-at-Auburn/540000"
+  },
+  {
+   "detail": "NCAA Seton Hall 68, Charlotte 62",
+   "detected_at": "2026-11-10 10:58:04",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-09/Seton-Hall-at-Charlotte/539998"
+  },
+  {
+   "detail": "NCAA DePaul 84, Alabama AM 47",
+   "detected_at": "2026-11-10 10:57:57",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-09/Alabama-AM--at-DePaul/530440"
+  },
+  {
+   "detail": "NCAA Purdue 76, Illinois State 59",
+   "detected_at": "2026-11-10 10:57:50",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-09/Illinois-State-at-Purdue/542942"
+  },
+  {
+   "detail": "NCAA Louisiana 56, Southern New Orleans 39",
+   "detected_at": "2026-11-10 10:57:44",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-09/Southern-New-Orleans-at-Louisiana/544601"
+  },
+  {
+   "detail": "NCAA Missouri 96, SIU Edwardsville 58",
+   "detected_at": "2026-11-10 10:57:37",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-09/SIU-Edwardsville-at-Missouri/541047"
+  },
+  {
+   "detail": "NCAA Tennessee State 123, Fisk 73",
+   "detected_at": "2026-11-10 10:57:30",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-09/Fisk-at-Tennessee-State/540007"
+  },
+  {
+   "detail": "NCAA Northwestern 72, Boston University 55",
+   "detected_at": "2026-11-10 10:57:23",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-09/Boston-University-at-Northwestern/540001"
+  },
+  {
+   "detail": "NCAA Oklahoma 81, North Alabama 72",
+   "detected_at": "2026-11-10 10:57:16",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-09/North-Alabama-at-Oklahoma/528955"
+  },
+  {
+   "detail": "NCAA Texas AM 108, Louisiana Monroe 67",
+   "detected_at": "2026-11-10 10:57:10",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-09/Louisiana-Monroe--at-Texas-AM/538492"
+  },
+  {
    "detail": "NCAA Pennsylvania 78, Howard 65",
    "detected_at": "2026-11-10 07:18:32",
    "source": "SCORES",
@@ -10219,72 +10289,6 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Christian_Burns_(basketball)"
-  },
-  {
-   "detail": "Mantas Juzėnas  ~ position: Shooting guard -> Shooting guard / small forward",
-   "detected_at": "2026-11-05 15:45:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Mantas_Juz%C4%97nas"
-  },
-  {
-   "detail": "Mantas Juzėnas  ~ number: - -> 0",
-   "detected_at": "2026-11-05 15:45:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Mantas_Juz%C4%97nas"
-  },
-  {
-   "detail": "Mantas Juzėnas  ~ height_ft: - -> 6",
-   "detected_at": "2026-11-05 15:45:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Mantas_Juz%C4%97nas"
-  },
-  {
-   "detail": "Mantas Juzėnas  ~ height_in: - -> 6",
-   "detected_at": "2026-11-05 15:45:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Mantas_Juz%C4%97nas"
-  },
-  {
-   "detail": "Mantas Juzėnas  ~ weight_lb: - -> 205",
-   "detected_at": "2026-11-05 15:45:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Mantas_Juz%C4%97nas"
-  },
-  {
-   "detail": "Mantas Juzėnas  ~ nationality: Lithuanian -> -",
-   "detected_at": "2026-11-05 15:45:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Mantas_Juz%C4%97nas"
-  },
-  {
-   "detail": "2026-11-04  Assigned: Adou Thiero (Lakers)",
-   "detected_at": "2026-11-05 15:37:56",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-11-04  Assigned: Jonathan Isaac (Magic)",
-   "detected_at": "2026-11-05 15:37:56",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-11-04  Assigned: Grant Williams (Swarm)",
-   "detected_at": "2026-11-05 15:37:56",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-11-04  Waivers Cleared: Bj Kolly",
-   "detected_at": "2026-11-05 15:37:56",
-   "source": "GLEAGUE",
-   "type": "Waived/Buyout"
   }
  ],
  "feeds": {
@@ -10309,8 +10313,8 @@
    "last": "2026-11-10 07:18:00"
   },
   "SCORES": {
-   "count": 4768,
-   "last": "2026-11-10 07:18:32"
+   "count": 4778,
+   "last": "2026-11-10 10:58:10"
   },
   "SHEETS": {
    "count": 5265,
@@ -10329,6 +10333,6 @@
    "last": "2026-11-10 06:01:36"
   }
  },
- "generated_at": "2026-11-10T09:59:38",
- "total": 39018
+ "generated_at": "2026-11-10T10:58:13",
+ "total": 39028
 }
