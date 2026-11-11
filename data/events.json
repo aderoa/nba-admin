@@ -1,6 +1,69 @@
 {
  "events": [
   {
+   "detail": "FIBA Europe Cup Neftchi IK 84, Mykonos 80",
+   "detected_at": "2026-11-11 19:54:03",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-11/Mykonos-at-Neftchi-IK/544841"
+  },
+  {
+   "detail": "FIBA Europe Cup + Derin Berkoz → Neftchi IK",
+   "detected_at": "2026-11-11 19:53:59",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "FIBA Europe Cup Korfez Mansia 101, BC Kalev Cramo 75",
+   "detected_at": "2026-11-11 19:53:56",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-11/BC-Kalev-Cramo-at-Korfez-Mansia/544839"
+  },
+  {
+   "detail": "FIBA Europe Cup Gladiators Trier 122, Batumi RSU 57",
+   "detected_at": "2026-11-11 19:53:47",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-11/Gladiators-Trier-at-Batumi-RSU/544844"
+  },
+  {
+   "detail": "Nick Smith Jr.  ~ position: Shooting guard / point guard -> Point guard",
+   "detected_at": "2026-11-11 19:53:34",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Nick_Smith_Jr."
+  },
+  {
+   "detail": "Nick Smith Jr.  ~ height_in: 3 -> 2",
+   "detected_at": "2026-11-11 19:53:34",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Nick_Smith_Jr."
+  },
+  {
+   "detail": "Andrés Feliz  ~ position: Shooting guard / Point guard -> Point guard",
+   "detected_at": "2026-11-11 19:53:34",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Andr%C3%A9s_Feliz"
+  },
+  {
+   "detail": "Andrés Feliz  ~ CAREER  + 2021–2024 Joventut Badalona",
+   "detected_at": "2026-11-11 19:53:34",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Andr%C3%A9s_Feliz"
+  },
+  {
+   "detail": "Nick Smith  ~ 151487: position -> Shooting guard / point guard",
+   "detected_at": "2026-11-11 19:45:00",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Point guard"
+  },
+  {
    "detail": "2026-11-10  Los Angeles Lakers signed forward Carson Cooper to a Two-Way Contract.",
    "detected_at": "2026-11-11 18:52:33",
    "source": "TRANSACTIONS",
@@ -10283,69 +10346,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Norchad_Omier"
-  },
-  {
-   "detail": "Norchad Omier  ~ CAREER  + –present Cleveland Cavaliers",
-   "detected_at": "2026-11-07 07:26:46",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Norchad_Omier"
-  },
-  {
-   "detail": "Norchad Omier  ~ CAREER  + 2026–present → Cleveland Charge",
-   "detected_at": "2026-11-07 07:26:46",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Norchad_Omier"
-  },
-  {
-   "detail": "Isaac Bonga  ~ position: Small forward -> Small forward / power forward",
-   "detected_at": "2026-11-07 07:26:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Isaac_Bonga"
-  },
-  {
-   "detail": "Hamed Haddadi  ~ height_ft: 7 -> 8",
-   "detected_at": "2026-11-07 07:26:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Hamed_Haddadi"
-  },
-  {
-   "detail": "Hamed Haddadi  ~ height_in: 2 -> 6",
-   "detected_at": "2026-11-07 07:26:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Hamed_Haddadi"
-  },
-  {
-   "detail": "Hamed Haddadi  ~ weight_lb: 263 -> 329",
-   "detected_at": "2026-11-07 07:26:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Hamed_Haddadi"
-  },
-  {
-   "detail": "OG Anunoby  ~ position: Power forward / shooting guard -> Small forward / shooting guard",
-   "detected_at": "2026-11-07 07:26:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/OG_Anunoby"
-  },
-  {
-   "detail": "Perry Jones  ~ number: 13 -> 2",
-   "detected_at": "2026-11-07 07:26:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Perry_Jones"
-  },
-  {
-   "detail": "Conor Morgan  ~ height_in: 11 -> 9",
-   "detected_at": "2026-11-07 07:26:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Conor_Morgan"
   }
  ],
  "feeds": {
@@ -10366,12 +10366,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 11438,
-   "last": "2026-11-11 14:55:20"
+   "count": 11439,
+   "last": "2026-11-11 19:53:59"
   },
   "SCORES": {
-   "count": 4904,
-   "last": "2026-11-11 14:55:24"
+   "count": 4907,
+   "last": "2026-11-11 19:54:03"
   },
   "SHEETS": {
    "count": 5265,
@@ -10382,14 +10382,14 @@
    "last": "2026-11-11 18:52:33"
   },
   "WIKI": {
-   "count": 8068,
-   "last": "2026-11-11 18:51:34"
+   "count": 8072,
+   "last": "2026-11-11 19:53:34"
   },
   "WIKIWATCH": {
-   "count": 609,
-   "last": "2026-11-11 14:45:59"
+   "count": 610,
+   "last": "2026-11-11 19:45:00"
   }
  },
- "generated_at": "2026-11-11T18:57:28",
- "total": 39303
+ "generated_at": "2026-11-11T19:54:33",
+ "total": 39312
 }
