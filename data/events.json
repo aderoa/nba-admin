@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "2026-11-10  Los Angeles Lakers signed forward Carson Cooper to a Two-Way Contract.",
+   "detected_at": "2026-11-11 18:52:33",
+   "source": "TRANSACTIONS",
+   "type": "Signing"
+  },
+  {
    "detail": "Facundo Campazzo  ~ height_in: 10 -> 11",
    "detected_at": "2026-11-11 18:51:34",
    "source": "WIKI",
@@ -10340,13 +10346,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Conor_Morgan"
-  },
-  {
-   "detail": "MarQuez Haynes  ~ number: 24 -> 24, 5, 8, 0, 00",
-   "detected_at": "2026-11-07 07:26:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/MarQuez_Haynes"
   }
  ],
  "feeds": {
@@ -10379,8 +10378,8 @@
    "last": "2026-11-09 19:24:17"
   },
   "TRANSACTIONS": {
-   "count": 702,
-   "last": "2026-11-10 23:47:22"
+   "count": 703,
+   "last": "2026-11-11 18:52:33"
   },
   "WIKI": {
    "count": 8068,
@@ -10391,6 +10390,6 @@
    "last": "2026-11-11 14:45:59"
   }
  },
- "generated_at": "2026-11-11T18:51:35",
- "total": 39302
+ "generated_at": "2026-11-11T18:52:40",
+ "total": 39303
 }
