@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Facundo Campazzo  ~ height_in: 10 -> 11",
+   "detected_at": "2026-11-11 18:51:34",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Facundo_Campazzo"
+  },
+  {
+   "detail": "Facundo Campazzo  ~ nationality: Argentine / Spanish -> Argentine / Italian",
+   "detected_at": "2026-11-11 18:51:34",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Facundo_Campazzo"
+  },
+  {
    "detail": "Kenan Kamenjaš  ~ team: Saski Baskonia -> Baskonia",
    "detected_at": "2026-11-11 17:20:35",
    "source": "WIKI",
@@ -10333,20 +10347,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/MarQuez_Haynes"
-  },
-  {
-   "detail": "Juhann Begarin  ~ team: ASVEL -> Free agent",
-   "detected_at": "2026-11-07 07:26:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Juhann_Begarin"
-  },
-  {
-   "detail": "Juhann Begarin  ~ league: LNB Élite EuroLeague -> -",
-   "detected_at": "2026-11-07 07:26:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Juhann_Begarin"
   }
  ],
  "feeds": {
@@ -10383,14 +10383,14 @@
    "last": "2026-11-10 23:47:22"
   },
   "WIKI": {
-   "count": 8066,
-   "last": "2026-11-11 17:20:35"
+   "count": 8068,
+   "last": "2026-11-11 18:51:34"
   },
   "WIKIWATCH": {
    "count": 609,
    "last": "2026-11-11 14:45:59"
   }
  },
- "generated_at": "2026-11-11T18:42:39",
- "total": 39300
+ "generated_at": "2026-11-11T18:51:35",
+ "total": 39302
 }
