@@ -1,6 +1,61 @@
 {
  "events": [
   {
+   "detail": "Chris Silva  ~ team: Fenerbahçe -> Partizan",
+   "detected_at": "2026-11-11 15:49:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Chris_Silva"
+  },
+  {
+   "detail": "Chris Silva  ~ league: BSL EuroLeague -> ABA EuroLeague",
+   "detected_at": "2026-11-11 15:49:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Chris_Silva"
+  },
+  {
+   "detail": "Chris Silva  ~ CAREER  + 2026 Fenerbahçe",
+   "detected_at": "2026-11-11 15:49:35",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Chris_Silva"
+  },
+  {
+   "detail": "Chris Silva  ~ CAREER  + 2026-? Partizan",
+   "detected_at": "2026-11-11 15:49:35",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Chris_Silva"
+  },
+  {
+   "detail": "Kenan Kamenjaš  ~ team: Dubai Basketball -> Saski Baskonia",
+   "detected_at": "2026-11-11 15:49:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kenan_Kamenja%C5%A1"
+  },
+  {
+   "detail": "Kenan Kamenjaš  ~ league: ABA League EuroLeague -> Liga ACB EuroLeague",
+   "detected_at": "2026-11-11 15:49:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kenan_Kamenja%C5%A1"
+  },
+  {
+   "detail": "Kenan Kamenjaš  ~ CAREER  + 2026–present →Saski Baskonia",
+   "detected_at": "2026-11-11 15:49:35",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Kenan_Kamenja%C5%A1"
+  },
+  {
+   "detail": "2026-11-10  Assigned: Hannes Steinbach (Swarm)",
+   "detected_at": "2026-11-11 15:42:30",
+   "source": "GLEAGUE",
+   "type": "Acquired/Assigned"
+  },
+  {
    "detail": "Brazilian NBB Franca 84, Flamengo 73",
    "detected_at": "2026-11-11 14:55:24",
    "source": "SCORES",
@@ -10292,62 +10347,6 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Mantas_Rub%C5%A1tavi%C4%8Dius"
-  },
-  {
-   "detail": "Isaac Bonga  ~ 77638: position -> Small forward",
-   "detected_at": "2026-11-06 23:06:01",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "Small forward / power forward"
-  },
-  {
-   "detail": "Sebastián Herrera (basketball)  ~ position: Shooting guard / small forward -> Shooting guard",
-   "detected_at": "2026-11-06 21:34:34",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Sebasti%C3%A1n_Herrera_(basketball)"
-  },
-  {
-   "detail": "Argentinian Liga A Obera Tenis Club 98, Atletico Argentino de Junin 84",
-   "detected_at": "2026-11-06 17:57:46",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-05/Atletico-Argentino-de-Junin-at-Obera-Tenis-Club/544930"
-  },
-  {
-   "detail": "Brazilian NBB Sao Jose Unimed Vinac 90, Osasco Basquete 81",
-   "detected_at": "2026-11-06 17:57:39",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-05/Sao-Jose-Unimed-Vinac-at-Osasco-Basquete/545145"
-  },
-  {
-   "detail": "Argentinian Liga A Gimnasia Indalo 77, Independiente de Oliva 76",
-   "detected_at": "2026-11-06 16:56:43",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-05/Gimnasia-Indalo-at-Independiente-de-Oliva/544928"
-  },
-  {
-   "detail": "Belarusian BPL Grodno 93 74, Borisfen Mogilev 65",
-   "detected_at": "2026-11-06 16:56:37",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-05/Grodno-93-at-Borisfen-Mogilev/544898"
-  },
-  {
-   "detail": "Belarusian BPL ~ RETURN Artem Puchko → Borisfen Mogilev (from Borisfen Mogilev Youth)",
-   "detected_at": "2026-11-06 16:56:34",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "Ryan Rollins  ~ position: Point guard / shooting guard -> Point guard",
-   "detected_at": "2026-11-06 16:22:34",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Ryan_Rollins"
   }
  ],
  "feeds": {
@@ -10356,8 +10355,8 @@
    "last": "2026-11-10 04:55:36"
   },
   "GLEAGUE": {
-   "count": 1078,
-   "last": "2026-11-10 17:50:07"
+   "count": 1079,
+   "last": "2026-11-11 15:42:30"
   },
   "PLAYERS": {
    "count": 1938,
@@ -10384,14 +10383,14 @@
    "last": "2026-11-10 23:47:22"
   },
   "WIKI": {
-   "count": 8053,
-   "last": "2026-11-11 14:01:35"
+   "count": 8060,
+   "last": "2026-11-11 15:49:35"
   },
   "WIKIWATCH": {
    "count": 609,
    "last": "2026-11-11 14:45:59"
   }
  },
- "generated_at": "2026-11-11T14:55:50",
- "total": 39286
+ "generated_at": "2026-11-11T15:49:37",
+ "total": 39294
 }
