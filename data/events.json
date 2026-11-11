@@ -1,6 +1,83 @@
 {
  "events": [
   {
+   "detail": "NCAA Dartmouth 85, Albany 76",
+   "detected_at": "2026-11-11 23:01:51",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-11/Dartmouth-at-Albany/539708"
+  },
+  {
+   "detail": "NCAA UMKC 87, Florida AM 65",
+   "detected_at": "2026-11-11 23:01:42",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-11/Florida-AM-at-UMKC/535204"
+  },
+  {
+   "detail": "NCAA Fairleigh Dickinson 80, East Texas AM 76",
+   "detected_at": "2026-11-11 23:01:33",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-11/Fairleigh-Dickinson-at-East-Texas-AM/539317"
+  },
+  {
+   "detail": "FIBA Europe Cup KK Split 81, BK Opava 77",
+   "detected_at": "2026-11-11 23:01:02",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-11/BK-Opava-at-KK-Split/544846"
+  },
+  {
+   "detail": "FIBA Europe Cup Valmiera Glass Via 85, KB Bashkimi Prizren 77",
+   "detected_at": "2026-11-11 23:00:55",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-11/KB-Bashkimi-Prizren-at-Valmiera-Glass-Via/544840"
+  },
+  {
+   "detail": "FIBA Europe Cup + Gavin Kensmil → KB Bashkimi Prizren",
+   "detected_at": "2026-11-11 23:00:49",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "FIBA Europe Cup BC Rilski Sportist 86, Sporting Clube de Portugal 76",
+   "detected_at": "2026-11-11 23:00:47",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-11/Sporting-Clube-de-Portugal-at-BC-Rilski-Sportist/544847"
+  },
+  {
+   "detail": "Chris Silva  ~ position: Power forward / center -> Center",
+   "detected_at": "2026-11-11 23:00:34",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Chris_Silva"
+  },
+  {
+   "detail": "Kyle Allman Jr.  ~ position: Shooting guard -> Point guard",
+   "detected_at": "2026-11-11 23:00:34",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kyle_Allman_Jr."
+  },
+  {
+   "detail": "Kyle Allman Jr.  ~ height_in: 5 -> 3",
+   "detected_at": "2026-11-11 23:00:34",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kyle_Allman_Jr."
+  },
+  {
+   "detail": "Kyle Allman Jr.  ~ weight_lb: 195 -> 174",
+   "detected_at": "2026-11-11 23:00:34",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kyle_Allman_Jr."
+  },
+  {
    "detail": "Basketball Champions League Europe Lietuvos Rytas 102, Nanterre 92 82",
    "detected_at": "2026-11-11 21:26:38",
    "source": "SCORES",
@@ -10269,83 +10346,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-11-06/Denain-ASC-Voltaire-at-Union-La-Rochelle/537872"
-  },
-  {
-   "detail": "French LNB Pro B JA Vichy 75, Hermine Nantes Atlantique 74",
-   "detected_at": "2026-11-07 07:28:02",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-06/JA-Vichy-at-Hermine-Nantes-Atlantique/537876"
-  },
-  {
-   "detail": "French LNB Pro B Antibes 91, Poitiers Basket 86 90",
-   "detected_at": "2026-11-07 07:27:56",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-06/Antibes-at-Poitiers-Basket-86/537877"
-  },
-  {
-   "detail": "French LNB Pro B ALM Evreux Basket 89, Champagne Chalons Reims CB 59",
-   "detected_at": "2026-11-07 07:27:50",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-06/ALM-Evreux-Basket-at-Champagne-Chalons-Reims-CB/537873"
-  },
-  {
-   "detail": "French LNB Pro B Levallois Sport Club 78, Fos Sur Mer Byers 74",
-   "detected_at": "2026-11-07 07:27:45",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-06/Fos-Sur-Mer-Byers-at-Levallois-Sport-Club/537879"
-  },
-  {
-   "detail": "French LNB Pro B Saint Chamond Pro B 84, Rouen Metropole Basket 81",
-   "detected_at": "2026-11-07 07:27:39",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-06/Rouen-Metropole-Basket-at-Saint-Chamond-Pro-B/537880"
-  },
-  {
-   "detail": "French LNB Pro B ~ RETURN Pape Moustapha Diop → Saint Chamond Pro B (from Saint Chamond NM1)",
-   "detected_at": "2026-11-07 07:27:36",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "French LNB Pro B ~ RETURN Zakaria Mechergui → Saint Chamond Pro B (from Saint Chamond NM1)",
-   "detected_at": "2026-11-07 07:27:36",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "French Jeep Elite Boulazac Basket Dordogne 83, BCM Gravelines 69",
-   "detected_at": "2026-11-07 07:27:33",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-06/BCM-Gravelines-at-Boulazac-Basket-Dordogne/538610"
-  },
-  {
-   "detail": "French Jeep Elite + Vafessa Fofana → BCM Gravelines",
-   "detected_at": "2026-11-07 07:27:30",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French Jeep Elite ~ RETURN Moussa Boune → BCM Gravelines (from Espoirs Gravelines Dunkerque)",
-   "detected_at": "2026-11-07 07:27:30",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "Romanian Divizia A CS Valcea 1924 75, FC Arges Pitesti 74",
-   "detected_at": "2026-11-07 07:27:27",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-06/FC-Arges-Pitesti-at-CS-Valcea-1924/539007"
   }
  ],
  "feeds": {
@@ -10366,12 +10366,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 11439,
-   "last": "2026-11-11 19:53:59"
+   "count": 11440,
+   "last": "2026-11-11 23:00:49"
   },
   "SCORES": {
-   "count": 4913,
-   "last": "2026-11-11 21:26:38"
+   "count": 4919,
+   "last": "2026-11-11 23:01:51"
   },
   "SHEETS": {
    "count": 5265,
@@ -10382,14 +10382,14 @@
    "last": "2026-11-11 18:52:33"
   },
   "WIKI": {
-   "count": 8078,
-   "last": "2026-11-11 21:25:35"
+   "count": 8082,
+   "last": "2026-11-11 23:00:34"
   },
   "WIKIWATCH": {
    "count": 610,
    "last": "2026-11-11 19:45:00"
   }
  },
- "generated_at": "2026-11-11T21:27:17",
- "total": 39324
+ "generated_at": "2026-11-11T23:01:57",
+ "total": 39335
 }
