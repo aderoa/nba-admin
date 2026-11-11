@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Chris Silva  ~ team: Partizan -> Fenerbahçe",
+   "detected_at": "2026-11-11 16:12:34",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Chris_Silva"
+  },
+  {
+   "detail": "Chris Silva  ~ league: ABA EuroLeague -> BSL EuroLeague",
+   "detected_at": "2026-11-11 16:12:34",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Chris_Silva"
+  },
+  {
+   "detail": "Chris Silva  ~ CAREER  + 2026–present Fenerbahçe",
+   "detected_at": "2026-11-11 16:12:34",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Chris_Silva"
+  },
+  {
    "detail": "Chris Silva  ~ team: Fenerbahçe -> Partizan",
    "detected_at": "2026-11-11 15:49:35",
    "source": "WIKI",
@@ -10326,27 +10347,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Sam_Griesel"
-  },
-  {
-   "detail": "Mantas Rubštavičius  ~ team: Auburn Tigers -> Tofaş",
-   "detected_at": "2026-11-07 07:26:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Mantas_Rub%C5%A1tavi%C4%8Dius"
-  },
-  {
-   "detail": "Mantas Rubštavičius  ~ league: Southeastern Conference -> BSL",
-   "detected_at": "2026-11-07 07:26:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Mantas_Rub%C5%A1tavi%C4%8Dius"
-  },
-  {
-   "detail": "Mantas Rubštavičius  ~ CAREER  + 2026–present Tofaş",
-   "detected_at": "2026-11-07 07:26:46",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Mantas_Rub%C5%A1tavi%C4%8Dius"
   }
  ],
  "feeds": {
@@ -10383,14 +10383,14 @@
    "last": "2026-11-10 23:47:22"
   },
   "WIKI": {
-   "count": 8060,
-   "last": "2026-11-11 15:49:35"
+   "count": 8063,
+   "last": "2026-11-11 16:12:34"
   },
   "WIKIWATCH": {
    "count": 609,
    "last": "2026-11-11 14:45:59"
   }
  },
- "generated_at": "2026-11-11T16:04:28",
- "total": 39294
+ "generated_at": "2026-11-11T16:12:36",
+ "total": 39297
 }
