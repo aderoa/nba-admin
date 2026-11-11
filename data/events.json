@@ -1,6 +1,132 @@
 {
  "events": [
   {
+   "detail": "Brazilian NBB Franca 84, Flamengo 73",
+   "detected_at": "2026-11-11 14:55:24",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-10/Franca-at-Flamengo/545155"
+  },
+  {
+   "detail": "Brazilian NBB + Alexey Thiago Borges → Flamengo",
+   "detected_at": "2026-11-11 14:55:20",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Argentinian Liga A Instituto Atletico Central Cordoba 83, Ciclista Olimpico 82",
+   "detected_at": "2026-11-11 14:55:17",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-10/Instituto-Atletico-Central-Cordoba-at-Ciclista-Olimpico/544939"
+  },
+  {
+   "detail": "Argentinian Liga A San Martin Corrientes 87, Ferrocarril Oeste Buenos Aires 84",
+   "detected_at": "2026-11-11 14:55:10",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-10/San-Martin-Corrientes-at-Ferrocarril-Oeste-Buenos-Aires/544940"
+  },
+  {
+   "detail": "Argentinian Liga A + Tobias Tamagusuku → Ferrocarril Oeste Buenos Aires",
+   "detected_at": "2026-11-11 14:55:07",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Argentinian Liga A Atletico Argentino de Junin 79, Regatas Corrientes 69",
+   "detected_at": "2026-11-11 14:55:04",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-10/Regatas-Corrientes-at-Atletico-Argentino-de-Junin/544941"
+  },
+  {
+   "detail": "Montenegrin Prva A Liga Studentski Centar Podgorica 100, KK Lim Berane 79",
+   "detected_at": "2026-11-11 14:54:57",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-10/KK-Lim-Berane-at-Studentski-Centar-Podgorica/546031"
+  },
+  {
+   "detail": "Montenegrin Prva A Liga + Luka Bogavac → KK Lim Berane",
+   "detected_at": "2026-11-11 14:54:54",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Montenegrin Prva A Liga + Marko Milic → KK Lim Berane",
+   "detected_at": "2026-11-11 14:54:54",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Montenegrin Prva A Liga + Dusan Ticic → Studentski Centar Podgorica",
+   "detected_at": "2026-11-11 14:54:54",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Montenegrin Prva A Liga + Maksim Bajceta → Studentski Centar Podgorica",
+   "detected_at": "2026-11-11 14:54:54",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Montenegrin Prva A Liga + Luka Zivaljevic → Studentski Centar Podgorica",
+   "detected_at": "2026-11-11 14:54:54",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian NKL Kauno LKKA Atletas 102, Silute 92",
+   "detected_at": "2026-11-11 14:54:51",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-10/Silute-at-Kauno-LKKA-Atletas/544573"
+  },
+  {
+   "detail": "Lithuanian NKL ~ MOVED Azoulas Hopenas → Kauno LKKA Atletas (from Omega Tauras Kauno)",
+   "detected_at": "2026-11-11 14:54:47",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese B.League Hitachi Sun Rockers 108, Kobe Storks 87",
+   "detected_at": "2026-11-11 14:54:45",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-10/Hitachi-Sun-Rockers-at-Kobe-Storks/524832"
+  },
+  {
+   "detail": "Marcelinho Huertas  ~ 2707: team -> La Laguna Tenerife",
+   "detected_at": "2026-11-11 14:45:59",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Free agent"
+  },
+  {
+   "detail": "Marcelinho Huertas  ~ 2707: league -> Liga ACB",
+   "detected_at": "2026-11-11 14:45:59",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": ""
+  },
+  {
+   "detail": "Marcelinho Huertas  ~ 2707: number -> 9",
+   "detected_at": "2026-11-11 14:45:59",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": ""
+  },
+  {
    "detail": "Damion Baugh  ~ position: Point guard -> Point guard / shooting guard",
    "detected_at": "2026-11-11 14:01:35",
    "source": "WIKI",
@@ -10222,117 +10348,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Ryan_Rollins"
-  },
-  {
-   "detail": "NCAA Tennessee State 127, East West University 61",
-   "detected_at": "2026-11-06 15:55:46",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-05/East-West-University-at-Tennessee-State/539972"
-  },
-  {
-   "detail": "Brazilian NBB Minas 77, Bauru 64",
-   "detected_at": "2026-11-06 15:55:21",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-05/Minas-at-Bauru/545143"
-  },
-  {
-   "detail": "Brazilian NBB Franca 98, Cruzeiro 77",
-   "detected_at": "2026-11-06 15:55:16",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-05/Cruzeiro-at-Franca/545144"
-  },
-  {
-   "detail": "2026-11-05  Assigned: Karim Lopez (Hustle)",
-   "detected_at": "2026-11-06 15:18:10",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-11-05  Waived: Al Green (Gold)",
-   "detected_at": "2026-11-06 15:18:10",
-   "source": "GLEAGUE",
-   "type": "Waived/Buyout"
-  },
-  {
-   "detail": "2026-11-05  Waived: Ahmet Jonovic (Gold)",
-   "detected_at": "2026-11-06 15:18:10",
-   "source": "GLEAGUE",
-   "type": "Waived/Buyout"
-  },
-  {
-   "detail": "2026-11-05  Assigned: Nic Claxton (Bulls)",
-   "detected_at": "2026-11-06 15:18:10",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-11-05  Assigned: Bruce Thornton (Vipers)",
-   "detected_at": "2026-11-06 15:18:10",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-11-05  Assigned: Dailyn Swain (Bulls)",
-   "detected_at": "2026-11-06 15:18:10",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-11-05  Waived: Tj Bickerstaff (Gold)",
-   "detected_at": "2026-11-06 15:18:10",
-   "source": "GLEAGUE",
-   "type": "Waived/Buyout"
-  },
-  {
-   "detail": "2026-11-05  Waived: Themus Fulks (Gold)",
-   "detected_at": "2026-11-06 15:18:10",
-   "source": "GLEAGUE",
-   "type": "Waived/Buyout"
-  },
-  {
-   "detail": "2026-11-05  Recalled: Adou Thiero (Lakers)",
-   "detected_at": "2026-11-06 15:18:10",
-   "source": "GLEAGUE",
-   "type": "Call-Up/Recall"
-  },
-  {
-   "detail": "2026-11-05  Waived: Austin Benigni (Boom)",
-   "detected_at": "2026-11-06 15:18:10",
-   "source": "GLEAGUE",
-   "type": "Waived/Buyout"
-  },
-  {
-   "detail": "2026-11-05  Waived: Conor Enright (Boom)",
-   "detected_at": "2026-11-06 15:18:10",
-   "source": "GLEAGUE",
-   "type": "Waived/Buyout"
-  },
-  {
-   "detail": "2026-11-05  Waived: Michael Folarin (Boom)",
-   "detected_at": "2026-11-06 15:18:10",
-   "source": "GLEAGUE",
-   "type": "Waived/Buyout"
-  },
-  {
-   "detail": "2026-11-05  Waived: Yacine Toumi (Boom)",
-   "detected_at": "2026-11-06 15:18:10",
-   "source": "GLEAGUE",
-   "type": "Waived/Buyout"
-  },
-  {
-   "detail": "2026-11-05  Assigned: Bronny James (Lakers)",
-   "detected_at": "2026-11-06 15:18:10",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-11-05  Assigned: Christian Anderson (Swarm)",
-   "detected_at": "2026-11-06 15:18:10",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
   }
  ],
  "feeds": {
@@ -10353,12 +10368,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 11430,
-   "last": "2026-11-11 13:08:41"
+   "count": 11438,
+   "last": "2026-11-11 14:55:20"
   },
   "SCORES": {
-   "count": 4897,
-   "last": "2026-11-11 13:08:51"
+   "count": 4904,
+   "last": "2026-11-11 14:55:24"
   },
   "SHEETS": {
    "count": 5265,
@@ -10373,10 +10388,10 @@
    "last": "2026-11-11 14:01:35"
   },
   "WIKIWATCH": {
-   "count": 606,
-   "last": "2026-11-10 06:01:36"
+   "count": 609,
+   "last": "2026-11-11 14:45:59"
   }
  },
- "generated_at": "2026-11-11T14:01:37",
- "total": 39268
+ "generated_at": "2026-11-11T14:55:50",
+ "total": 39286
 }
