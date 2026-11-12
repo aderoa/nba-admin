@@ -1,6 +1,482 @@
 {
  "events": [
   {
+   "detail": "NCAA USC Upstate 104, Bob Jones 49",
+   "detected_at": "2026-11-12 06:12:07",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-11/Bob-Jones-at-USC-Upstate/541513"
+  },
+  {
+   "detail": "NCAA IU Indy 74, Southern Indiana 70",
+   "detected_at": "2026-11-12 06:12:00",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-11/Southern-Indiana-at-IU-Indy/540023"
+  },
+  {
+   "detail": "NCAA Eastern Michigan 108, Great Lakes Christian 44",
+   "detected_at": "2026-11-12 06:11:54",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-11/Great-Lakes-Christian-at-Eastern-Michigan/540018"
+  },
+  {
+   "detail": "NCAA Western Carolina 136, Virginia Lynchburg 68",
+   "detected_at": "2026-11-12 06:11:48",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-11/Virginia-Lynchburg-at-Western-Carolina/542954"
+  },
+  {
+   "detail": "NCAA New Hampshire 114, Thomas College 55",
+   "detected_at": "2026-11-12 06:11:41",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-11/Thomas-College-at-New-Hampshire/542147"
+  },
+  {
+   "detail": "NCAA East Carolina 72, North Carolina AT 67",
+   "detected_at": "2026-11-12 06:11:35",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-11/North-Carolina-AT-at-East-Carolina/539077"
+  },
+  {
+   "detail": "NCAA UNC Wilmington 91, Kent State 73",
+   "detected_at": "2026-11-12 06:11:29",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-11/Kent-State-at-UNC-Wilmington/543722"
+  },
+  {
+   "detail": "NCAA Milwaukee 82, Indiana State 73",
+   "detected_at": "2026-11-12 06:11:22",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-11/Milwaukee-at-Indiana-State/543721"
+  },
+  {
+   "detail": "NCAA UNC Greensboro 91, Lees McRae 84",
+   "detected_at": "2026-11-12 06:11:16",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-11/Lees-McRae-at-UNC-Greensboro/543310"
+  },
+  {
+   "detail": "NCAA Old Dominion 71, Norfolk State 60",
+   "detected_at": "2026-11-12 06:11:09",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-11/Old-Dominion-at-Norfolk-State/542966"
+  },
+  {
+   "detail": "NCAA Wagner 117, Bryant Stratton Albany 51",
+   "detected_at": "2026-11-12 06:11:02",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-11/Bryant-Stratton-Albany-at-Wagner/542965"
+  },
+  {
+   "detail": "NCAA Notre Dame 99, South Carolina State 59",
+   "detected_at": "2026-11-12 06:10:55",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-11/South-Carolina-State-at-Notre-Dame/542962"
+  },
+  {
+   "detail": "NCAA Princeton 69, Stony Brook 59",
+   "detected_at": "2026-11-12 06:10:48",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-11/Stony-Brook-at-Princeton/542506"
+  },
+  {
+   "detail": "NCAA South Carolina 77, Saint Peters 41",
+   "detected_at": "2026-11-12 06:10:41",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-11/Saint-Peters-at-South-Carolina/541056"
+  },
+  {
+   "detail": "NCAA James Madison 71, Delaware 61",
+   "detected_at": "2026-11-12 06:10:35",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-11/James-Madison-at-Delaware/540024"
+  },
+  {
+   "detail": "NCAA East Tennessee State 68, Campbell 53",
+   "detected_at": "2026-11-12 06:10:28",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-11/Campbell-at-East-Tennessee-State/540020"
+  },
+  {
+   "detail": "NCAA Furman 80, Holy Cross 67",
+   "detected_at": "2026-11-12 06:10:22",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-11/Furman-at-Holy-Cross/540015"
+  },
+  {
+   "detail": "NCAA Florida Atlantic 95, William Mary 90",
+   "detected_at": "2026-11-12 06:10:16",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-11/William-Mary-at-Florida-Atlantic-/538831"
+  },
+  {
+   "detail": "NCAA Charleston 91, Temple 81",
+   "detected_at": "2026-11-12 06:10:09",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-11/Charleston-at-Temple/542958"
+  },
+  {
+   "detail": "NCAA Virginia Military 65, North Carolina Central 51",
+   "detected_at": "2026-11-12 06:10:03",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-11/North-Carolina-Central-at-Virginia-Military/542964"
+  },
+  {
+   "detail": "NCAA Wofford 91, Voorhees 47",
+   "detected_at": "2026-11-12 06:09:56",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-11/Voorhees-at-Wofford/542963"
+  },
+  {
+   "detail": "NCAA Navy 81, Pennsylvania 76",
+   "detected_at": "2026-11-12 06:09:50",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-11/Pennsylvania--at-Navy/540022"
+  },
+  {
+   "detail": "NCAA San Diego State 88, Bethune Cookman 75",
+   "detected_at": "2026-11-12 06:09:44",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-11/Bethune-Cookman-at-San-Diego-State/542960"
+  },
+  {
+   "detail": "NCAA Saint Josephs 83, South Florida 80",
+   "detected_at": "2026-11-12 06:09:38",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-11/Saint-Josephs-at-South-Florida/539076"
+  },
+  {
+   "detail": "NCAA Air Force 107, Loyola IL 93",
+   "detected_at": "2026-11-12 06:09:31",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-11/Loyola-IL-at-Air-Force/532325"
+  },
+  {
+   "detail": "NCAA UC Davis 81, Incarnate Word 69",
+   "detected_at": "2026-11-12 06:09:25",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-11/Incarnate-Word-at-UC-Davis/532481"
+  },
+  {
+   "detail": "NCAA St Johns 90, Colgate 59",
+   "detected_at": "2026-11-12 06:09:19",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-11/Colgate-at-St-Johns/540021"
+  },
+  {
+   "detail": "Euroleague KK Partizan 80, Baskonia 66",
+   "detected_at": "2026-11-12 06:08:51",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-11/Baskonia-at-KK-Partizan/526873"
+  },
+  {
+   "detail": "Euroleague Paris Basketball 111, Fenerbahce Beko 109",
+   "detected_at": "2026-11-12 06:08:44",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-11/Fenerbahce-Beko-at-Paris-Basketball/526874"
+  },
+  {
+   "detail": "Italian Serie A2 Basket Unieuro Forli 81, RivieraBanca Rimini 70",
+   "detected_at": "2026-11-12 06:08:37",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-11/RivieraBanca-Rimini-at-Unieuro-Forli/529869"
+  },
+  {
+   "detail": "Basketball Champions League Europe UCAM Murcia CB 98, Brose Baskets Bamberg 66",
+   "detected_at": "2026-11-12 06:08:31",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-11/Brose-Baskets-Bamberg-at-UCAM-Murcia-CB/534094"
+  },
+  {
+   "detail": "Italian Serie A2 Basket UEB Gesteco Cividale 81, Gemini Mestre 79",
+   "detected_at": "2026-11-12 06:08:24",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-11/UEB-Gesteco-Cividale-at-Gemini-Mestre/529870"
+  },
+  {
+   "detail": "Italian Serie A2 Basket ~ MOVED Simon Anumba → UEB Gesteco Cividale (from Fortituto Kontatto Bologna)",
+   "detected_at": "2026-11-12 06:08:20",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Italian Serie A2 Basket Georgio Tesi Group Pistoia 78, Pasta Reggia JuveCaserta 70",
+   "detected_at": "2026-11-12 06:08:17",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-11/Pasta-Reggia-JuveCaserta-at-Georgio-Tesi-Group-Pistoia/529871"
+  },
+  {
+   "detail": "Basketball Champions League Europe Peristeri Betsson 101, OpenJobMetis Varese 96",
+   "detected_at": "2026-11-12 06:08:08",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-11/OpenJobMetis-Varese-at-Peristeri-Betsson/534093"
+  },
+  {
+   "detail": "Basketball Champions League Europe + William McDowell-White → OpenJobMetis Varese",
+   "detected_at": "2026-11-12 06:08:04",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "FIBA Europe Cup Nancy Basket 101, BC Hallmann Vienna 86",
+   "detected_at": "2026-11-12 06:08:01",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-11/Nancy-Basket-at-BC-Hallmann-Vienna/544851"
+  },
+  {
+   "detail": "FIBA Europe Cup ~ RETURN Kany N'Kouka → Nancy Basket (from Espoirs Nancy)",
+   "detected_at": "2026-11-12 06:07:57",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "FIBA Europe Cup ~ RETURN Erwan Djoni → Nancy Basket (from Espoirs Nancy)",
+   "detected_at": "2026-11-12 06:07:57",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "FIBA Europe Cup Zastal Zielona Gora 103, NHSZ Szolnoki Olajbanyasz 66",
+   "detected_at": "2026-11-12 06:07:54",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-11/NHSZ-Szolnoki-Olajbanyasz-at-Zastal-Zielona-Gora/544853"
+  },
+  {
+   "detail": "FIBA Europe Cup ~ MOVED A.J. Ferguson, Jr. → NHSZ Szolnoki Olajbanyasz (from Tapiolan Honka)",
+   "detected_at": "2026-11-12 06:07:50",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "FIBA Europe Cup + Zalan Kovacs → NHSZ Szolnoki Olajbanyasz",
+   "detected_at": "2026-11-12 06:07:50",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "FIBA Europe Cup + Sebastian Marciniak → Zastal Zielona Gora",
+   "detected_at": "2026-11-12 06:07:50",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "FIBA Europe Cup Dziki Warszawa 91, Tartu Ulikool MaksMoorits 84",
+   "detected_at": "2026-11-12 06:07:47",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-11/Tartu-Ulikool-MaksMoorits-at-Dziki-Warszawa/544856"
+  },
+  {
+   "detail": "Italian Serie A2 Basket Ferraroni Juvi Cremona 79, Sella Cento 77",
+   "detected_at": "2026-11-12 06:07:41",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-11/Ferraroni-Juvi-Cremona-at-Sella-Cento/529868"
+  },
+  {
+   "detail": "Italian Serie A2 Basket Fortituto Kontatto Bologna 78, Reale Mutua Torino 75",
+   "detected_at": "2026-11-12 06:07:34",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-11/Fortituto-Kontatto-Bologna-at-Reale-Mutua-Torino/529867"
+  },
+  {
+   "detail": "Italian Serie A2 Basket Sidigas Avellino 93, Urania Milano 85",
+   "detected_at": "2026-11-12 06:07:28",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-11/Urania-Milano-at-Sidigas-Avellino/529866"
+  },
+  {
+   "detail": "Eurocup Roma SPQR 83, Ratiopharm Ulm 78",
+   "detected_at": "2026-11-12 06:07:21",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-11/Ratiopharm-Ulm-at-Roma-SPQR/527259"
+  },
+  {
+   "detail": "FIBA Europe Cup CSM Oradea 86, Fribourg Olympic 80",
+   "detected_at": "2026-11-12 06:07:15",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-11/CSM-Oradea-at-Fribourg-Olympic/544843"
+  },
+  {
+   "detail": "FIBA Europe Cup + Natan Jurkovitz → Fribourg Olympic",
+   "detected_at": "2026-11-12 06:07:11",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Eurocup Hapoel Bank Yahav Jerusalem 91, Bertram Tortona 77",
+   "detected_at": "2026-11-12 06:07:09",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-11/Hapoel-Bank-Yahav-Jerusalem-at-Bertram-Tortona/527248"
+  },
+  {
+   "detail": "Eurocup ~ MOVED Christian Vital → Bertram Tortona (from Zhejiang Chouzhou)",
+   "detected_at": "2026-11-12 06:07:05",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Eurocup Napoli Basket 112, BV Chemnitz 99 90",
+   "detected_at": "2026-11-12 06:07:02",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-11/Napoli-Basket-at-BV-Chemnitz-99/527256"
+  },
+  {
+   "detail": "Eurocup ~ RETURN Luca Kellig → BV Chemnitz 99 (from Dresden Titans)",
+   "detected_at": "2026-11-12 06:06:59",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "FIBA Europe Cup Iraklis BC 103, MZT Skopje Aerodrom 73",
+   "detected_at": "2026-11-12 06:06:56",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-11/MZT-Skopje-Aerodrom-at-Iraklis-BC/544855"
+  },
+  {
+   "detail": "FIBA Europe Cup ~ MOVED Jake Forrester → Iraklis BC (from ASP Promitheas Patras)",
+   "detected_at": "2026-11-12 06:06:52",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Eurocup Aris Midea Thessaloniki 105, Rigas Zelli 81",
+   "detected_at": "2026-11-12 06:06:50",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-11/Rigas-Zelli-at-Aris-Midea-Thessaloniki/527247"
+  },
+  {
+   "detail": "Norwegian BLNO Flyyingen BBK 83, Froya Basket 76",
+   "detected_at": "2026-11-12 06:06:43",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-11/Froya-Basket-at-Flyyingen-BBK/530295"
+  },
+  {
+   "detail": "FIBA Europe Cup VEF Riga 85, Lokomotiv Plovdiv 83",
+   "detected_at": "2026-11-12 06:06:37",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-11/VEF-Riga-at-Lokomotiv-Plovdiv/544842"
+  },
+  {
+   "detail": "Eurocup Lenovo Tenerife 86, Siauliai 71",
+   "detected_at": "2026-11-12 06:06:30",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-11/Lenovo-Tenerife-at-Siauliai/527250"
+  },
+  {
+   "detail": "Eurocup Bahcesehir Koleji 99, 7Bet Lietkabelis Panevezys 61",
+   "detected_at": "2026-11-12 06:06:24",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-11/7Bet-Lietkabelis-Panevezys-at-Bahcesehir-Koleji/527258"
+  },
+  {
+   "detail": "Australian NBL Illawarra 120, South East Melbourne 110",
+   "detected_at": "2026-11-12 06:06:18",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-11/Illawarra-at-South-East-Melbourne/524433"
+  },
+  {
+   "detail": "Facundo Campazzo  ~ height_in: 11 -> 10",
+   "detected_at": "2026-11-12 06:06:06",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Facundo_Campazzo"
+  },
+  {
+   "detail": "Facundo Campazzo  ~ nationality: Argentine / Italian -> Argentine / Spanish",
+   "detected_at": "2026-11-12 06:06:06",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Facundo_Campazzo"
+  },
+  {
+   "detail": "Stefan Joksimović  ~ position: Power forward / small forward -> Shooting guard",
+   "detected_at": "2026-11-12 06:06:06",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Stefan_Joksimovi%C4%87"
+  },
+  {
+   "detail": "Kyle Allman Jr.  ~ position: Point guard -> Shooting guard",
+   "detected_at": "2026-11-12 06:06:06",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kyle_Allman_Jr."
+  },
+  {
+   "detail": "Kyle Allman Jr.  ~ height_in: 3 -> 5",
+   "detected_at": "2026-11-12 06:06:06",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kyle_Allman_Jr."
+  },
+  {
+   "detail": "Kyle Allman Jr.  ~ weight_lb: 174 -> 195",
+   "detected_at": "2026-11-12 06:06:06",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kyle_Allman_Jr."
+  },
+  {
    "detail": "NCAA Dartmouth 85, Albany 76",
    "detected_at": "2026-11-11 23:01:51",
    "source": "SCORES",
@@ -9870,482 +10346,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-11-06/Phoenix-Hagen-at-ALBA-Berlin/528670"
-  },
-  {
-   "detail": "German BBL ~ RETURN Richard Schmitt → ALBA Berlin (from SSV lok Bernau Alba)",
-   "detected_at": "2026-11-07 09:38:05",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "Danish Basketligaen BK Vejen 80, Holbaek Stenhus 78",
-   "detected_at": "2026-11-07 09:38:02",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-06/Holbaek-Stenhus-at-BK-Vejen/530348"
-  },
-  {
-   "detail": "VTB United League UNICS Kazan 79, Avtodor Saratov 62",
-   "detected_at": "2026-11-07 09:37:57",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-06/UNICS-Kazan-at-Avtodor-Saratov/533314"
-  },
-  {
-   "detail": "VTB United League + Ilya Platonov → Avtodor Saratov",
-   "detected_at": "2026-11-07 09:37:54",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Slovakian Extraliga Slovan Bratislava 88, BC Komarno 75",
-   "detected_at": "2026-11-07 09:37:51",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-06/Slovan-Bratislava-at-BC-Komarno/534270"
-  },
-  {
-   "detail": "Slovakian Extraliga + Tydus Verhoeven → BC Komarno",
-   "detected_at": "2026-11-07 09:37:48",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Georgian Super Liga Orbi 81, Kutaisi 80",
-   "detected_at": "2026-11-07 09:37:45",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-06/Orbi-at-Kutaisi/543827"
-  },
-  {
-   "detail": "Czech NBL SK Slavia Praha ERA NBK 114, BK Loko Interconex Plzen 82",
-   "detected_at": "2026-11-07 09:37:39",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-06/BK-Loko-Interconex-Plzen-at-SK-Slavia-Praha-ERA-NBK/527489"
-  },
-  {
-   "detail": "Adriatic League Liga ABA KK Spartak Subotica 67, KK Zadar 51",
-   "detected_at": "2026-11-07 08:36:07",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-06/KK-Zadar-at-KK-Spartak-Subotica/537368"
-  },
-  {
-   "detail": "Croatian A-1 Liga KK Cibona 88, KK Dinamo 75",
-   "detected_at": "2026-11-07 08:35:59",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-06/KK-Dinamo-at-KK-Cibona/539571"
-  },
-  {
-   "detail": "Euroleague Zalgiris 83, Besiktas Icrypex 67",
-   "detected_at": "2026-11-07 08:35:51",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-06/Zalgiris-at-Besiktas-Icrypex/526869"
-  },
-  {
-   "detail": "Grayson Allen  ~ height_in: 4 -> 3",
-   "detected_at": "2026-11-07 08:35:36",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Grayson_Allen"
-  },
-  {
-   "detail": "NCAA Eastern Kentucky 106, Midway 68",
-   "detected_at": "2026-11-07 07:33:12",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-06/Midway-at-Eastern-Kentucky/544594"
-  },
-  {
-   "detail": "NCAA The Citadel 100, Erskine 57",
-   "detected_at": "2026-11-07 07:33:07",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-06/Erskine-at-The-Citadel/542926"
-  },
-  {
-   "detail": "NCAA South Carolina State 78, USC Upstate 70",
-   "detected_at": "2026-11-07 07:33:01",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-06/South-Carolina-State-at-USC-Upstate/541508"
-  },
-  {
-   "detail": "NCAA Florida International 85, West Florida 75",
-   "detected_at": "2026-11-07 07:32:55",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-06/West-Florida-at-Florida-International/541028"
-  },
-  {
-   "detail": "NCAA Wisconsin 73, Delaware 64",
-   "detected_at": "2026-11-07 07:32:49",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-06/Delaware-at-Wisconsin/539977"
-  },
-  {
-   "detail": "NCAA Kent State 102, Roberts Wesleyan College 50",
-   "detected_at": "2026-11-07 07:32:44",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-06/Roberts-Wesleyan-College-at-Kent-State/544421"
-  },
-  {
-   "detail": "NCAA Charleston 112, Newberry 66",
-   "detected_at": "2026-11-07 07:32:38",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-06/Newberry-at-Charleston/543715"
-  },
-  {
-   "detail": "NCAA Rutgers 81, New Haven 54",
-   "detected_at": "2026-11-07 07:32:32",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-06/New-Haven-at-Rutgers/542927"
-  },
-  {
-   "detail": "NCAA UCF 87, Yale 75",
-   "detected_at": "2026-11-07 07:32:27",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-06/Yale-at-UCF/541035"
-  },
-  {
-   "detail": "NCAA West Virginia 91, Stetson 53",
-   "detected_at": "2026-11-07 07:32:21",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-06/Stetson-at-West-Virginia/541034"
-  },
-  {
-   "detail": "NCAA Florida Gulf Coast 89, New College FL 69",
-   "detected_at": "2026-11-07 07:32:15",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-06/New-College-FL-at-Florida-Gulf-Coast/541030"
-  },
-  {
-   "detail": "NCAA Mount St Marys 68, Loyola MD 57",
-   "detected_at": "2026-11-07 07:32:09",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-06/Loyola-MD-at-Mount-St-Marys/539984"
-  },
-  {
-   "detail": "NCAA Cleveland State 103, Michigan Dearborn 79",
-   "detected_at": "2026-11-07 07:32:02",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-06/Michigan-Dearborn-at-Cleveland-State/539983"
-  },
-  {
-   "detail": "NCAA Elon 74, UNC Greensboro 65",
-   "detected_at": "2026-11-07 07:31:57",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-06/UNC-Greensboro-at-Elon/539974"
-  },
-  {
-   "detail": "NCAA George Mason 68, Coppin State 51",
-   "detected_at": "2026-11-07 07:31:50",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-06/Coppin-State-at-George-Mason/539692"
-  },
-  {
-   "detail": "NCAA Georgia Tech 95, Georgia Southern 83",
-   "detected_at": "2026-11-07 07:31:45",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-06/Georgia-Southern-at-Georgia-Tech/539691"
-  },
-  {
-   "detail": "NCAA NC State 77, East Tennessee State 63",
-   "detected_at": "2026-11-07 07:31:39",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-06/East-Tennessee-State-at-NC-State/539065"
-  },
-  {
-   "detail": "NCAA Kennesaw State 71, Austin Peay 69",
-   "detected_at": "2026-11-07 07:31:33",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-06/Austin-Peay-at-Kennesaw-State/538487"
-  },
-  {
-   "detail": "NCAA Clemson 82, American University 73",
-   "detected_at": "2026-11-07 07:31:27",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-06/American-University-at-Clemson/533620"
-  },
-  {
-   "detail": "NCAA Boston University 72, Brown 67",
-   "detected_at": "2026-11-07 07:31:22",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-06/Boston-University-at-Brown/532475"
-  },
-  {
-   "detail": "NCAA Indiana State 69, Ball State 66",
-   "detected_at": "2026-11-07 07:31:16",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-06/Indiana-State-at-Ball-State/531977"
-  },
-  {
-   "detail": "NCAA Central Michigan 93, Alma College 50",
-   "detected_at": "2026-11-07 07:31:11",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-06/Alma-College-at-Central-Michigan/531976"
-  },
-  {
-   "detail": "NCAA Xavier 76, Eastern Michigan 53",
-   "detected_at": "2026-11-07 07:31:06",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-06/Eastern-Michigan-at-Xavier/530432"
-  },
-  {
-   "detail": "NCAA Florida State 91, Troy 68",
-   "detected_at": "2026-11-07 07:31:00",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-06/Troy-at-Florida-State/530430"
-  },
-  {
-   "detail": "NCAA Georgia 91, Presbyterian 77",
-   "detected_at": "2026-11-07 07:30:54",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-06/Presbyterian-at-Georgia/528950"
-  },
-  {
-   "detail": "NCAA Oregon 98, Eastern Washington 71",
-   "detected_at": "2026-11-07 07:30:48",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-06/Eastern-Washington-at-Oregon/539981"
-  },
-  {
-   "detail": "NCAA Baylor 109, Arkansas Pine Bluff 53",
-   "detected_at": "2026-11-07 07:30:42",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-06/Arkansas-Pine-Bluff--at-Baylor/530434"
-  },
-  {
-   "detail": "NCAA Boston College 71, Massachusetts 55",
-   "detected_at": "2026-11-07 07:30:36",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-06/Massachusetts-at-Boston-College/530431"
-  },
-  {
-   "detail": "NCAA Villanova 95, Holy Cross 66",
-   "detected_at": "2026-11-07 07:30:30",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-06/Holy-Cross-at-Villanova/539973"
-  },
-  {
-   "detail": "NCAA North Carolina 109, Wofford 70",
-   "detected_at": "2026-11-07 07:30:25",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-06/Wofford-at-North-Carolina/534464"
-  },
-  {
-   "detail": "NCAA Ohio State 89, Youngstown State 65",
-   "detected_at": "2026-11-07 07:30:19",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-06/Youngstown-State-at-Ohio-State/537565"
-  },
-  {
-   "detail": "NCAA Valparaiso 83, Purdue 80",
-   "detected_at": "2026-11-07 07:30:14",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-06/Valparaiso-at-Purdue/542928"
-  },
-  {
-   "detail": "NCAA Saint Louis 90, Missouri 84",
-   "detected_at": "2026-11-07 07:30:07",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-06/Missouri-at-Saint-Louis/532314"
-  },
-  {
-   "detail": "NCAA Kentucky 89, James Madison 80",
-   "detected_at": "2026-11-07 07:30:01",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-06/James-Madison-at-Kentucky/541033"
-  },
-  {
-   "detail": "NCAA Alabama 101, Arkansas State 86",
-   "detected_at": "2026-11-07 07:29:56",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-06/Arkansas-State-at-Alabama/528951"
-  },
-  {
-   "detail": "NCAA Virginia 97, Northeastern 72",
-   "detected_at": "2026-11-07 07:29:50",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-06/Northeastern-at-Virginia/539689"
-  },
-  {
-   "detail": "Super League Basketball Leicester Riders 97, London Lions 76",
-   "detected_at": "2026-11-07 07:29:18",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-06/Leicester-Riders-at-London-Lions/535558"
-  },
-  {
-   "detail": "Super League Basketball Cheshire Phoenix 93, Manchester Basketball 90",
-   "detected_at": "2026-11-07 07:29:12",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-06/Cheshire-Phoenix-at-Manchester-Basketball/535559"
-  },
-  {
-   "detail": "BNXT League CB Liege Mailleux 88, Landstede Zwolle 84",
-   "detected_at": "2026-11-07 07:29:07",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-06/Landstede-Zwolle-at-CB-Liege-Mailleux/527967"
-  },
-  {
-   "detail": "BNXT League + Ali Sow → CB Liege Mailleux",
-   "detected_at": "2026-11-07 07:29:04",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Israeli BSL Hapoel Upper Galilee Safed 110, Hapoel Unet Holon 101",
-   "detected_at": "2026-11-07 07:29:01",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-06/Hapoel-Upper-Galilee-Safed-at-Hapoel-Unet-Holon/536924"
-  },
-  {
-   "detail": "Israeli BSL + Liad Shmuel → Hapoel Unet Holon",
-   "detected_at": "2026-11-07 07:28:58",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French LNB Pro B Orleans Loiret Basket 95, STB Le Havre 92",
-   "detected_at": "2026-11-07 07:28:55",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-06/Orleans-Loiret-Basket-at-STB-Le-Havre/537875"
-  },
-  {
-   "detail": "Swedish Basketligan Koping Stars 89, KFUM Nassjo Basket 81",
-   "detected_at": "2026-11-07 07:28:49",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-06/Koping-Stars-at-KFUM-Nassjo-Basket/524640"
-  },
-  {
-   "detail": "Swedish Basketligan + Max Wirestig → KFUM Nassjo Basket",
-   "detected_at": "2026-11-07 07:28:47",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Swedish Basketligan Boras Basket 81, Sodertalje 76",
-   "detected_at": "2026-11-07 07:28:44",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-06/Sodertalje-at-Boras-Basket/524638"
-  },
-  {
-   "detail": "Swedish Basketligan ~ MOVED Jalen Lake → Boras Basket (from Joensuun Kataja)",
-   "detected_at": "2026-11-07 07:28:41",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Liga U Casademont Zaragoza Liga U 77, Burgos Liga U 65",
-   "detected_at": "2026-11-07 07:28:38",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-06/Casademont-Zaragoza-Liga-U-at-Burgos-Liga-U/541960"
-  },
-  {
-   "detail": "Spanish Liga U UCAM Murcia Liga U 83, BAXI Manresa Liga U 52",
-   "detected_at": "2026-11-07 07:28:33",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-06/BAXI-Manresa-Liga-U-at-UCAM-Murcia-Liga-U/541963"
-  },
-  {
-   "detail": "Spanish Liga U ~ RETURN Jan Pumarola → BAXI Manresa Liga U (from BAXI Manresa)",
-   "detected_at": "2026-11-07 07:28:30",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Liga U + Eloi Pujol → BAXI Manresa Liga U",
-   "detected_at": "2026-11-07 07:28:30",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Liga U Unicaja Liga U 78, Lleida Liga U 67",
-   "detected_at": "2026-11-07 07:28:27",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-06/Unicaja-Liga-U-at-Lleida-Liga-U/541964"
-  },
-  {
-   "detail": "Spanish Liga U ~ RETURN Pau Torrens → Lleida Liga U (from Forca Lleida CE)",
-   "detected_at": "2026-11-07 07:28:22",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Liga U Bilbao Liga U 79, Obradoiro Liga U 63",
-   "detected_at": "2026-11-07 07:28:19",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-06/Obradoiro-Liga-U-at-Bilbao-Liga-U/541962"
-  },
-  {
-   "detail": "Swedish Basketligan BC Lulea 104, Uppsala Basket 79",
-   "detected_at": "2026-11-07 07:28:14",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-06/Uppsala-Basket-at-BC-Lulea/524637"
-  },
-  {
-   "detail": "French LNB Pro B Union La Rochelle 85, Denain ASC Voltaire 73",
-   "detected_at": "2026-11-07 07:28:08",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-06/Denain-ASC-Voltaire-at-Union-La-Rochelle/537872"
   }
  ],
  "feeds": {
@@ -10366,12 +10366,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 11440,
-   "last": "2026-11-11 23:00:49"
+   "count": 11451,
+   "last": "2026-11-12 06:08:20"
   },
   "SCORES": {
-   "count": 4919,
-   "last": "2026-11-11 23:01:51"
+   "count": 4970,
+   "last": "2026-11-12 06:12:07"
   },
   "SHEETS": {
    "count": 5265,
@@ -10382,14 +10382,14 @@
    "last": "2026-11-11 18:52:33"
   },
   "WIKI": {
-   "count": 8082,
-   "last": "2026-11-11 23:00:34"
+   "count": 8088,
+   "last": "2026-11-12 06:06:06"
   },
   "WIKIWATCH": {
    "count": 610,
    "last": "2026-11-11 19:45:00"
   }
  },
- "generated_at": "2026-11-11T23:01:57",
- "total": 39335
+ "generated_at": "2026-11-12T06:12:16",
+ "total": 39403
 }
