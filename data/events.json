@@ -1,6 +1,55 @@
 {
  "events": [
   {
+   "detail": "Hungarian NBIA Falco Vulcano Energia KC Szombathely 87, Alba Fehervar 76",
+   "detected_at": "2026-11-12 10:30:01",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-11/Alba-Fehervar-at-Falco-Vulcano-Energia-KC-Szombathely/535410"
+  },
+  {
+   "detail": "Hungarian NBIA Atomeromu SE 83, DEAC 74",
+   "detected_at": "2026-11-12 10:29:55",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-11/Atomeromu-SE-at-DEAC/535412"
+  },
+  {
+   "detail": "Hungarian NBIA SZTE Szedeak 81, Oroszlanyi Sporteglet E Lions 65",
+   "detected_at": "2026-11-12 10:29:50",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-11/Oroszlanyi-Sporteglet-E-Lions-at-SZTE-Szedeak/535416"
+  },
+  {
+   "detail": "Hungarian NBIA + David Debreczeny → Oroszlanyi Sporteglet E Lions",
+   "detected_at": "2026-11-12 10:29:47",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Hungarian NBIA Phoenix MT Fot 90, NKA Universitas Pecs 76",
+   "detected_at": "2026-11-12 10:29:44",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-11/Phoenix-MT-Fot-at-NKA-Universitas-Pecs/535415"
+  },
+  {
+   "detail": "Hungarian NBIA + Botond Kiss → NKA Universitas Pecs",
+   "detected_at": "2026-11-12 10:29:41",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Sebastián Herrera (basketball)  ~ CAREER  + 2015–2017 Gladiators Trier",
+   "detected_at": "2026-11-12 10:29:35",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Sebasti%C3%A1n_Herrera_(basketball)"
+  },
+  {
    "detail": "NCAA USC 77, California 65",
    "detected_at": "2026-11-12 09:28:50",
    "source": "SCORES",
@@ -10297,55 +10346,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-11-06/Nagasaki-Velca-at-Hiroshima-Dragonflies/524814"
-  },
-  {
-   "detail": "Japanese B.League Levanga Hokkaido 123, Akita Northern Happinets 118",
-   "detected_at": "2026-11-07 12:12:00",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-06/Akita-Northern-Happinets-at-Levanga-Hokkaido/524809"
-  },
-  {
-   "detail": "Japanese B.League + Angelo Chol → Akita Northern Happinets",
-   "detected_at": "2026-11-07 12:11:55",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese B.League Sendai 89ers 96, Toyota Alvark 69",
-   "detected_at": "2026-11-07 12:11:52",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-06/Toyota-Alvark-at-Sendai-89ers/524810"
-  },
-  {
-   "detail": "Japanese B.League Chiba Jets 89, Altiri Chiba 87",
-   "detected_at": "2026-11-07 12:11:44",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-06/Altiri-Chiba-at-Chiba-Jets/524811"
-  },
-  {
-   "detail": "Japanese B.League + Brandon Randolph → Chiba Jets",
-   "detected_at": "2026-11-07 12:11:41",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese B.League Gunma Crane Thunders 90, Aishin Sea Horses 83",
-   "detected_at": "2026-11-07 12:11:38",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-06/Gunma-Crane-Thunders-at-Aishin-Sea-Horses/524812"
-  },
-  {
-   "detail": "Japanese B.League Shiga Lakestars 81, Kawasaki Brave Thunders 75",
-   "detected_at": "2026-11-07 12:11:32",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-06/Kawasaki-Brave-Thunders-at-Shiga-Lakestars/524813"
   }
  ],
  "feeds": {
@@ -10366,12 +10366,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 11452,
-   "last": "2026-11-12 09:27:41"
+   "count": 11454,
+   "last": "2026-11-12 10:29:47"
   },
   "SCORES": {
-   "count": 5015,
-   "last": "2026-11-12 09:28:50"
+   "count": 5019,
+   "last": "2026-11-12 10:30:01"
   },
   "SHEETS": {
    "count": 5265,
@@ -10382,14 +10382,14 @@
    "last": "2026-11-11 18:52:33"
   },
   "WIKI": {
-   "count": 8108,
-   "last": "2026-11-12 09:27:35"
+   "count": 8109,
+   "last": "2026-11-12 10:29:35"
   },
   "WIKIWATCH": {
    "count": 611,
    "last": "2026-11-12 07:22:56"
   }
  },
- "generated_at": "2026-11-12T09:28:53",
- "total": 39470
+ "generated_at": "2026-11-12T10:30:23",
+ "total": 39477
 }
