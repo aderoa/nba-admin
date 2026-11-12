@@ -1,6 +1,62 @@
 {
  "events": [
   {
+   "detail": "Tyler Cook  ~ team: Jilin Northeast Tigers -> Free agent",
+   "detected_at": "2026-11-12 08:27:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Tyler_Cook"
+  },
+  {
+   "detail": "Tyler Cook  ~ league: CBA -> -",
+   "detected_at": "2026-11-12 08:27:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Tyler_Cook"
+  },
+  {
+   "detail": "Tyler Cook  ~ number: 9 -> -",
+   "detected_at": "2026-11-12 08:27:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Tyler_Cook"
+  },
+  {
+   "detail": "Tyler Cook  ~ CAREER  + 2026 Jilin Northeast Tigers",
+   "detected_at": "2026-11-12 08:27:35",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Tyler_Cook"
+  },
+  {
+   "detail": "Daryl Macon  ~ team: Fujian Sturgeons -> Free agent",
+   "detected_at": "2026-11-12 08:27:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Daryl_Macon"
+  },
+  {
+   "detail": "Daryl Macon  ~ league: CBA -> -",
+   "detected_at": "2026-11-12 08:27:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Daryl_Macon"
+  },
+  {
+   "detail": "Daryl Macon  ~ number: 4 -> -",
+   "detected_at": "2026-11-12 08:27:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Daryl_Macon"
+  },
+  {
+   "detail": "Daryl Macon  ~ CAREER  + 2026 Fujian Sturgeons",
+   "detected_at": "2026-11-12 08:27:35",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Daryl_Macon"
+  },
+  {
    "detail": "NCAA Chicago State 81, California Baptist 62",
    "detected_at": "2026-11-12 07:36:29",
    "source": "SCORES",
@@ -10290,62 +10346,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-11-06/Union-Tarbes-Lourdes-Pyrennes-Basket-at-Les-Sables-Vendee-Basket/535717"
-  },
-  {
-   "detail": "French NM1 Saint Vallier 78, Pays Salonais 72",
-   "detected_at": "2026-11-07 11:09:41",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-06/Saint-Vallier-at-Pays-Salonais/535709"
-  },
-  {
-   "detail": "Polish OBL Enea Abramczyk Astoria Bydgoszcz 70, Start Lublin 62",
-   "detected_at": "2026-11-07 11:09:35",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-06/Start-Lublin-at-Enea-Abramczyk-Astoria-Bydgoszcz/531884"
-  },
-  {
-   "detail": "Hungarian NBIA Alba Fehervar 93, DEAC 74",
-   "detected_at": "2026-11-07 11:09:29",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-06/DEAC-at-Alba-Fehervar/535404"
-  },
-  {
-   "detail": "Hungarian NBIA + Akos Gyurakovics → Alba Fehervar",
-   "detected_at": "2026-11-07 11:09:24",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Hungarian NBIA Kometa KVGY Kaposvari KK 97, NKA Universitas Pecs 94",
-   "detected_at": "2026-11-07 11:09:22",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-06/NKA-Universitas-Pecs-at-Kometa-KVGY-Kaposvari-KK/535407"
-  },
-  {
-   "detail": "Hungarian NBIA ~ MOVED Chris Payton → Kometa KVGY Kaposvari KK (from Abejas)",
-   "detected_at": "2026-11-07 11:09:18",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
-  },
-  {
-   "detail": "Montenegrin Prva A Liga KK Mornar 91, KK Teodo Tivat 89",
-   "detected_at": "2026-11-07 11:09:16",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-06/KK-Teodo-Tivat-at-KK-Mornar/546030"
-  },
-  {
-   "detail": "Ukrainian Superleague Stariy Lutsk Volyn 73, BC Khmelnytskyi 72",
-   "detected_at": "2026-11-07 11:09:10",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-06/BC-Khmelnytskyi-at-Stariy-Lutsk-Volyn/546328"
   }
  ],
  "feeds": {
@@ -10382,14 +10382,14 @@
    "last": "2026-11-11 18:52:33"
   },
   "WIKI": {
-   "count": 8099,
-   "last": "2026-11-12 07:32:36"
+   "count": 8107,
+   "last": "2026-11-12 08:27:35"
   },
   "WIKIWATCH": {
    "count": 611,
    "last": "2026-11-12 07:22:56"
   }
  },
- "generated_at": "2026-11-12T07:36:31",
- "total": 39452
+ "generated_at": "2026-11-12T08:27:36",
+ "total": 39460
 }
