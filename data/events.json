@@ -1,6 +1,48 @@
 {
  "events": [
   {
+   "detail": "NCAA Washington State 123, Northwest WA 87",
+   "detected_at": "2026-11-14 12:08:31",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-14/Northwest-WA-at-Washington-State/544609"
+  },
+  {
+   "detail": "NCAA Drexel 66, Maine 64",
+   "detected_at": "2026-11-14 12:08:27",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-14/Drexel-at-Maine/542150"
+  },
+  {
+   "detail": "NCAA Vermont 104, Plattsburgh State 59",
+   "detected_at": "2026-11-14 12:08:23",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-14/Plattsburgh-State-at-Vermont/540041"
+  },
+  {
+   "detail": "NCAA Akron 65, Tulane 63",
+   "detected_at": "2026-11-14 12:08:19",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-14/Tulane-at-Akron/539081"
+  },
+  {
+   "detail": "Matt Thomas (basketball)  ~ team: Unicaja Málaga -> Rytas Vilnius",
+   "detected_at": "2026-11-14 12:07:52",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Matt_Thomas_(basketball)"
+  },
+  {
+   "detail": "Matt Thomas (basketball)  ~ league: Liga ACB BCL -> LKL BCL",
+   "detected_at": "2026-11-14 12:07:52",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Matt_Thomas_(basketball)"
+  },
+  {
    "detail": "Australian NBL Perth 111, Illawarra 100",
    "detected_at": "2026-11-14 11:02:47",
    "source": "SCORES",
@@ -10312,46 +10354,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Dominic_Artis"
-  },
-  {
-   "detail": "Dominic Artis  ~ CAREER  + 2026 Club Antonin Sportif",
-   "detected_at": "2026-11-08 17:37:34",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Dominic_Artis"
-  },
-  {
-   "detail": "Dominic Artis  ~ CAREER  + 2026–present Peja",
-   "detected_at": "2026-11-08 17:37:34",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Dominic_Artis"
-  },
-  {
-   "detail": "Shekinah Munanga  ~ number: 4 -> 00",
-   "detected_at": "2026-11-08 16:15:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Shekinah_Munanga"
-  },
-  {
-   "detail": "Mantas Rubštavičius  ~ number: - -> 17",
-   "detected_at": "2026-11-08 15:10:34",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Mantas_Rub%C5%A1tavi%C4%8Dius"
-  },
-  {
-   "detail": "2026-11-07  Recalled: Bruce Thornton (Vipers)",
-   "detected_at": "2026-11-08 15:03:40",
-   "source": "GLEAGUE",
-   "type": "Call-Up/Recall"
-  },
-  {
-   "detail": "2026-11-07  Assigned: Alex Karaban (Kings)",
-   "detected_at": "2026-11-08 15:03:40",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
   }
  ],
  "feeds": {
@@ -10376,8 +10378,8 @@
    "last": "2026-11-14 09:04:30"
   },
   "SCORES": {
-   "count": 5266,
-   "last": "2026-11-14 11:02:47"
+   "count": 5270,
+   "last": "2026-11-14 12:08:31"
   },
   "SHEETS": {
    "count": 5268,
@@ -10388,14 +10390,14 @@
    "last": "2026-11-14 08:44:05"
   },
   "WIKI": {
-   "count": 8235,
-   "last": "2026-11-14 08:52:43"
+   "count": 8237,
+   "last": "2026-11-14 12:07:52"
   },
   "WIKIWATCH": {
    "count": 618,
    "last": "2026-11-14 09:12:27"
   }
  },
- "generated_at": "2026-11-14T11:38:23",
- "total": 39968
+ "generated_at": "2026-11-14T12:08:34",
+ "total": 39974
 }
