@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "NCAA Wyoming 76, Denver 53",
+   "detected_at": "2026-11-14 17:43:49",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-14/Wyoming-at-Denver/542515"
+  },
+  {
+   "detail": "Japanese B.League Chiba Jets 86, Nagasaki Velca 80",
+   "detected_at": "2026-11-14 17:43:26",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-14/Nagasaki-Velca-at-Chiba-Jets/524849"
+  },
+  {
    "detail": "Jerry Grote (basketball)  ~ nationality: American -> -",
    "detected_at": "2026-11-14 17:38:11",
    "source": "WIKI",
@@ -10378,18 +10392,6 @@
    "detected_at": "2026-11-09 17:39:07",
    "source": "SHEETS",
    "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED 4th Incremental Tax Bracket  -  col22: 0 -> 786223.194",
-   "detected_at": "2026-11-09 17:39:07",
-   "source": "SHEETS",
-   "type": "CHANGED"
-  },
-  {
-   "detail": "Luxury Tax Calculator  CHANGED Tax Liability  -  col22: 21476472 -> 33474973.19",
-   "detected_at": "2026-11-09 17:39:07",
-   "source": "SHEETS",
-   "type": "CHANGED"
   }
  ],
  "feeds": {
@@ -10414,8 +10416,8 @@
    "last": "2026-11-14 16:40:41"
   },
   "SCORES": {
-   "count": 5325,
-   "last": "2026-11-14 16:40:51"
+   "count": 5327,
+   "last": "2026-11-14 17:43:49"
   },
   "SHEETS": {
    "count": 5268,
@@ -10434,6 +10436,6 @@
    "last": "2026-11-14 09:12:27"
   }
  },
- "generated_at": "2026-11-14T17:41:20",
- "total": 40392
+ "generated_at": "2026-11-14T17:43:54",
+ "total": 40394
 }
