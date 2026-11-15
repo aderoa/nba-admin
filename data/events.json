@@ -1,6 +1,48 @@
 {
  "events": [
   {
+   "detail": "Swiss LNA SAM Basket Massagno 81, Fribourg Olympic 66",
+   "detected_at": "2026-11-14 16:40:51",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-14/Fribourg-Olympic-at-SAM-Basket-Massagno/534223"
+  },
+  {
+   "detail": "Swiss LNA BBC Nyon 95, Zurich 81",
+   "detected_at": "2026-11-14 16:40:47",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-14/Zurich-at-BBC-Nyon/534224"
+  },
+  {
+   "detail": "Turkish BSL Bordo Sportif Balikesir 83, Pinar Karsiyaka 75",
+   "detected_at": "2026-11-14 16:40:42",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-14/Pinar-Karsiyaka-at-Bordo-Sportif-Balikesir/542224"
+  },
+  {
+   "detail": "Turkish BSL + Cyril Langevine → Pinar Karsiyaka",
+   "detected_at": "2026-11-14 16:40:41",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish BSL Tofas SC 75, Trabzonspor 61",
+   "detected_at": "2026-11-14 16:40:38",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-14/Trabzonspor-at-Tofas-SC/542221"
+  },
+  {
+   "detail": "Turkish BSL Korfez Mansia 82, Galatasaray 81",
+   "detected_at": "2026-11-14 16:40:33",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-14/Galatasaray-at-Korfez-Mansia/542219"
+  },
+  {
    "detail": "Dimitrios Verginis  ~ weight_lb: - -> 205",
    "detected_at": "2026-11-14 16:37:45",
    "source": "WIKI",
@@ -10316,48 +10358,6 @@
    "source": "REALGM",
    "type": "MOVED",
    "url": ""
-  },
-  {
-   "detail": "German Pro B SV Fellbach 103, FC Bayern Munchen II 73",
-   "detected_at": "2026-11-09 12:19:59",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-07/FC-Bayern-Munchen-II-at-SV-Fellbach/525717"
-  },
-  {
-   "detail": "German Pro B ~ RETURN Niko Jerkic → FC Bayern Munchen II (from Bayern Munich)",
-   "detected_at": "2026-11-09 12:19:56",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "German Pro B + Kofi Hamilton → SV Fellbach",
-   "detected_at": "2026-11-09 12:19:56",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Ukrainian Superleague MBC Mykolaiv 89, Ferro ZNTU Zaporozhye 73",
-   "detected_at": "2026-11-09 12:19:53",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-07/MBC-Mykolaiv-at-Ferro-ZNTU-Zaporozhye/546331"
-  },
-  {
-   "detail": "Finnish Korisliiga Kipina 87, Salon Vilpas 86",
-   "detected_at": "2026-11-09 12:19:48",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-07/Salon-Vilpas-at-Kipina/536896"
-  },
-  {
-   "detail": "Finnish Korisliiga + Rob Martin → Salon Vilpas",
-   "detected_at": "2026-11-09 12:19:45",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10378,12 +10378,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 11512,
-   "last": "2026-11-14 15:39:19"
+   "count": 11513,
+   "last": "2026-11-14 16:40:41"
   },
   "SCORES": {
-   "count": 5320,
-   "last": "2026-11-14 15:39:20"
+   "count": 5325,
+   "last": "2026-11-14 16:40:51"
   },
   "SHEETS": {
    "count": 5268,
@@ -10402,6 +10402,6 @@
    "last": "2026-11-14 09:12:27"
   }
  },
- "generated_at": "2026-11-14T16:37:47",
- "total": 40224
+ "generated_at": "2026-11-14T16:41:27",
+ "total": 40230
 }
