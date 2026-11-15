@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Kessler Edwards  ~ position: Small forward -> Small forward / power forward",
+   "detected_at": "2026-11-15 10:55:34",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kessler_Edwards"
+  },
+  {
+   "detail": "Trent Frazier  ~ position: Point guard -> Point guard / shooting guard",
+   "detected_at": "2026-11-15 10:55:34",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Trent_Frazier"
+  },
+  {
    "detail": "Jarrod Uthoff  ~ team: - -> Maroussi",
    "detected_at": "2026-11-15 07:31:34",
    "source": "WIKI",
@@ -10485,20 +10499,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/LJ_Cryer"
-  },
-  {
-   "detail": "Brandin Podziemski  ~ weight_lb: - -> 208",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Brandin_Podziemski"
-  },
-  {
-   "detail": "Nico Mannion  ~ nationality: Italian / American -> -",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Nico_Mannion"
   }
  ],
  "feeds": {
@@ -10535,14 +10535,14 @@
    "last": "2026-11-14 08:44:05"
   },
   "WIKI": {
-   "count": 10089,
-   "last": "2026-11-15 07:31:34"
+   "count": 10091,
+   "last": "2026-11-15 10:55:34"
   },
   "WIKIWATCH": {
    "count": 652,
    "last": "2026-11-15 07:22:11"
   }
  },
- "generated_at": "2026-11-15T10:15:22",
- "total": 42153
+ "generated_at": "2026-11-15T10:55:37",
+ "total": 42155
 }
