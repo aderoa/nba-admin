@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Australian NBL Sydney 111, New Zealand 102",
+   "detected_at": "2026-11-15 12:39:40",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/New-Zealand-at-Sydney/524440"
+  },
+  {
+   "detail": "Australian NBL Tasmania 104, Brisbane 92",
+   "detected_at": "2026-11-15 12:39:36",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Tasmania-at-Brisbane/524441"
+  },
+  {
    "detail": "Amari Williams  ~ position: Center / power forward -> Center",
    "detected_at": "2026-11-15 12:27:17",
    "source": "WIKI",
@@ -10485,20 +10499,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Jonathan_Kuminga"
-  },
-  {
-   "detail": "Ömer Yurtseven  ~ nationality: Turkish -> -",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/%C3%96mer_Yurtseven"
-  },
-  {
-   "detail": "Jeff Dowtin Jr.  ~ weight_lb: - -> 177",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jeff_Dowtin_Jr."
   }
  ],
  "feeds": {
@@ -10523,8 +10523,8 @@
    "last": "2026-11-15 07:00:29"
   },
   "SCORES": {
-   "count": 5476,
-   "last": "2026-11-15 07:04:04"
+   "count": 5478,
+   "last": "2026-11-15 12:39:40"
   },
   "SHEETS": {
    "count": 5268,
@@ -10543,6 +10543,6 @@
    "last": "2026-11-15 07:22:11"
   }
  },
- "generated_at": "2026-11-15T12:36:43",
- "total": 42157
+ "generated_at": "2026-11-15T12:39:50",
+ "total": 42159
 }
