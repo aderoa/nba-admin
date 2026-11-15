@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Amari Williams  ~ position: Center / power forward -> Center",
+   "detected_at": "2026-11-15 12:27:17",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Amari_Williams"
+  },
+  {
+   "detail": "Jabari Walker  ~ position: Power forward -> Power forward / small forward",
+   "detected_at": "2026-11-15 12:27:17",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jabari_Walker"
+  },
+  {
    "detail": "Kessler Edwards  ~ position: Small forward -> Small forward / power forward",
    "detected_at": "2026-11-15 10:55:34",
    "source": "WIKI",
@@ -10485,20 +10499,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Jeff_Dowtin_Jr."
-  },
-  {
-   "detail": "Jackson Rowe  ~ weight_lb: - -> 210",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jackson_Rowe"
-  },
-  {
-   "detail": "LJ Cryer  ~ weight_lb: - -> 197",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/LJ_Cryer"
   }
  ],
  "feeds": {
@@ -10535,14 +10535,14 @@
    "last": "2026-11-14 08:44:05"
   },
   "WIKI": {
-   "count": 10091,
-   "last": "2026-11-15 10:55:34"
+   "count": 10093,
+   "last": "2026-11-15 12:27:17"
   },
   "WIKIWATCH": {
    "count": 652,
    "last": "2026-11-15 07:22:11"
   }
  },
- "generated_at": "2026-11-15T11:45:22",
- "total": 42155
+ "generated_at": "2026-11-15T12:27:20",
+ "total": 42157
 }
