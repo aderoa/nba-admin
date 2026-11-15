@@ -1,6 +1,111 @@
 {
  "events": [
   {
+   "detail": "Danish Basketligaen Bakken Bears 126, BK Vejen 61",
+   "detected_at": "2026-11-14 18:45:03",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-13/Bakken-Bears-at-BK-Vejen/531723"
+  },
+  {
+   "detail": "Danish Basketligaen + Marcus Vinther → Bakken Bears",
+   "detected_at": "2026-11-14 18:45:02",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Danish Basketligaen + Jose Kapche → BK Vejen",
+   "detected_at": "2026-11-14 18:45:02",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Bosnian BiH Liga OKK Sloboda Tuzla 80, Drina Princip 66",
+   "detected_at": "2026-11-14 18:44:59",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-13/Drina-Princip-at-OKK-Sloboda-Tuzla/540956"
+  },
+  {
+   "detail": "Bosnian BiH Liga + Dario Kreitmayer → OKK Sloboda Tuzla",
+   "detected_at": "2026-11-14 18:44:58",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Georgian Super Liga Kavkasia Tbilisi 96, Tbilisi State University 89",
+   "detected_at": "2026-11-14 18:44:55",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-13/Kavkasia-Tbilisi-at-Tbilisi-State-University/544022"
+  },
+  {
+   "detail": "Georgian Super Liga + Donte Powers → Tbilisi State University",
+   "detected_at": "2026-11-14 18:44:54",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish Segunda FEB Class Basquet Sant Antoni 90, Ciudad Molina Basket 48",
+   "detected_at": "2026-11-14 18:44:50",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-14/Ciudad-Molina-Basket-at-Class-Basquet-Sant-Antoni/527802"
+  },
+  {
+   "detail": "Spanish Segunda FEB Proinbeni UPB Gandia 85, Club Esportiu Basquet Lliria 75",
+   "detected_at": "2026-11-14 18:44:46",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-14/Club-Esportiu-Basquet-Lliria-at-Proinbeni-UPB-Gandia/527801"
+  },
+  {
+   "detail": "Spanish Segunda FEB Sol Girones Bisbal Basquet 87, Lobe Huesca La Magia 80",
+   "detected_at": "2026-11-14 18:44:42",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-14/Lobe-Huesca-La-Magia-at-Sol-Girones-Bisbal-Basquet/527799"
+  },
+  {
+   "detail": "Japanese B.League Toyota Alvark 99, Hiroshima Dragonflies 83",
+   "detected_at": "2026-11-14 18:44:38",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-14/Hiroshima-Dragonflies-at-Toyota-Alvark/524853"
+  },
+  {
+   "detail": "Japanese B.League Aishin Sea Horses 111, Toyama Grouses 70",
+   "detected_at": "2026-11-14 18:44:34",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-14/Toyama-Grouses-at-Aishin-Sea-Horses/524852"
+  },
+  {
+   "detail": "Japanese B.League + Takuma Yahagi → Aishin Sea Horses",
+   "detected_at": "2026-11-14 18:44:33",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Japanese B.League Shiga Lakestars 98, Yokohama B Corsairs 88",
+   "detected_at": "2026-11-14 18:44:30",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-14/Shiga-Lakestars-at-Yokohama-B-Corsairs/524851"
+  },
+  {
+   "detail": "Japanese B.League Sanen Neophoenix 86, Altiri Chiba 69",
+   "detected_at": "2026-11-14 18:44:26",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-14/Sanen-Neophoenix-at-Altiri-Chiba/524850"
+  },
+  {
    "detail": "Omari Spellman  ~ CAREER  + 2025 Wonju DB Promy",
    "detected_at": "2026-11-14 18:34:19",
    "source": "WIKI",
@@ -10325,111 +10430,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Lester_Qui%C3%B1ones"
-  },
-  {
-   "detail": "Adama Bal  ~ number: - -> 8",
-   "detected_at": "2026-11-10 17:57:44",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Adama_Bal"
-  },
-  {
-   "detail": "Toby Okani  ~ number: 11 -> 5",
-   "detected_at": "2026-11-10 17:57:44",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Toby_Okani"
-  },
-  {
-   "detail": "Trevor Keels  ~ number: 13 -> 0",
-   "detected_at": "2026-11-10 17:57:44",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Trevor_Keels"
-  },
-  {
-   "detail": "Liam Robbins  ~ number: 31 -> 21",
-   "detected_at": "2026-11-10 17:57:44",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Liam_Robbins"
-  },
-  {
-   "detail": "Rolands Šmits  ~ team: Ningbo Rockets -> Free agent",
-   "detected_at": "2026-11-10 17:57:44",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Rolands_%C5%A0mits"
-  },
-  {
-   "detail": "Rolands Šmits  ~ league: CBA -> -",
-   "detected_at": "2026-11-10 17:57:44",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Rolands_%C5%A0mits"
-  },
-  {
-   "detail": "Rolands Šmits  ~ number: 11 -> -",
-   "detected_at": "2026-11-10 17:57:44",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Rolands_%C5%A0mits"
-  },
-  {
-   "detail": "Rolands Šmits  ~ CAREER  + 2012–2017 Fuenlabrada",
-   "detected_at": "2026-11-10 17:57:44",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Rolands_%C5%A0mits"
-  },
-  {
-   "detail": "Rolands Šmits  ~ CAREER  + 2014–2015 →Getafe Fuenlabrada",
-   "detected_at": "2026-11-10 17:57:44",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Rolands_%C5%A0mits"
-  },
-  {
-   "detail": "Rolands Šmits  ~ CAREER  + 2017–2018 →Fuenlabrada",
-   "detected_at": "2026-11-10 17:57:44",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Rolands_%C5%A0mits"
-  },
-  {
-   "detail": "Rolands Šmits  ~ CAREER  + 2026 Ningbo Rockets",
-   "detected_at": "2026-11-10 17:57:44",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Rolands_%C5%A0mits"
-  },
-  {
-   "detail": "Kamar Baldwin  ~ team: Bayern Munich -> Free agent",
-   "detected_at": "2026-11-10 17:57:44",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Kamar_Baldwin"
-  },
-  {
-   "detail": "Kamar Baldwin  ~ league: BBL EuroLeague -> -",
-   "detected_at": "2026-11-10 17:57:44",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Kamar_Baldwin"
-  },
-  {
-   "detail": "Kamar Baldwin  ~ number: 44 -> -",
-   "detected_at": "2026-11-10 17:57:44",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Kamar_Baldwin"
-  },
-  {
-   "detail": "Kamar Baldwin  ~ CAREER  + 2024–2025 Baskonia",
-   "detected_at": "2026-11-10 17:57:44",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Kamar_Baldwin"
   }
  ],
  "feeds": {
@@ -10450,12 +10450,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 11513,
-   "last": "2026-11-14 16:40:41"
+   "count": 11518,
+   "last": "2026-11-14 18:45:02"
   },
   "SCORES": {
-   "count": 5327,
-   "last": "2026-11-14 17:43:49"
+   "count": 5337,
+   "last": "2026-11-14 18:45:03"
   },
   "SHEETS": {
    "count": 5268,
@@ -10474,6 +10474,6 @@
    "last": "2026-11-14 09:12:27"
   }
  },
- "generated_at": "2026-11-14T18:42:42",
- "total": 40570
+ "generated_at": "2026-11-14T18:45:25",
+ "total": 40585
 }
