@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "A. J. Lawson  ~ draft_year: 2022 -> 2021",
+   "detected_at": "2026-11-15 13:21:34",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/A._J._Lawson"
+  },
+  {
+   "detail": "Andre Jackson Jr.  ~ position: Shooting guard -> Shooting guard / small forward",
+   "detected_at": "2026-11-15 13:21:34",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Andre_Jackson_Jr."
+  },
+  {
+   "detail": "BNXT League Okapi Aalstar 102, Heroes Den Bosch 100",
+   "detected_at": "2026-11-15 12:40:02",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-14/Heroes-Den-Bosch-at-Okapi-Aalstar/527978"
+  },
+  {
    "detail": "Australian NBL Sydney 111, New Zealand 102",
    "detected_at": "2026-11-15 12:39:40",
    "source": "SCORES",
@@ -10478,27 +10499,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Juan_Toscano-Anderson"
-  },
-  {
-   "detail": "Jerome Robinson  ~ weight_lb: - -> 190",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jerome_Robinson"
-  },
-  {
-   "detail": "Alen Smailagić  ~ nationality: Serbian -> -",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Alen_Smailagi%C4%87"
-  },
-  {
-   "detail": "Jonathan Kuminga  ~ weight_lb: - -> 225",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jonathan_Kuminga"
   }
  ],
  "feeds": {
@@ -10523,8 +10523,8 @@
    "last": "2026-11-15 07:00:29"
   },
   "SCORES": {
-   "count": 5478,
-   "last": "2026-11-15 12:39:40"
+   "count": 5479,
+   "last": "2026-11-15 12:40:02"
   },
   "SHEETS": {
    "count": 5268,
@@ -10535,14 +10535,14 @@
    "last": "2026-11-14 08:44:05"
   },
   "WIKI": {
-   "count": 10093,
-   "last": "2026-11-15 12:27:17"
+   "count": 10095,
+   "last": "2026-11-15 13:21:34"
   },
   "WIKIWATCH": {
    "count": 652,
    "last": "2026-11-15 07:22:11"
   }
  },
- "generated_at": "2026-11-15T12:39:50",
- "total": 42159
+ "generated_at": "2026-11-15T13:21:36",
+ "total": 42162
 }
