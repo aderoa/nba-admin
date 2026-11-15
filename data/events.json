@@ -1,6 +1,573 @@
 {
  "events": [
   {
+   "detail": "Kyrie Irving  ~ weight_lb: - -> 195",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kyrie_Irving"
+  },
+  {
+   "detail": "Kyrie Irving  ~ nationality: American -> -",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kyrie_Irving"
+  },
+  {
+   "detail": "Nikola Mirotić  ~ nationality: Montenegrin / Spanish -> -",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Nikola_Miroti%C4%87"
+  },
+  {
+   "detail": "Jimmy Butler  ~ weight_lb: - -> 230",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jimmy_Butler"
+  },
+  {
+   "detail": "Raul Neto  ~ nationality: Brazilian / Italian -> -",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Raul_Neto"
+  },
+  {
+   "detail": "Boban Marjanović  ~ nationality: Serbian -> -",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Boban_Marjanovi%C4%87"
+  },
+  {
+   "detail": "Rodrigue Beaubois  ~ nationality: French -> -",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Rodrigue_Beaubois"
+  },
+  {
+   "detail": "Dario Šarić  ~ weight_lb: - -> 225",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Dario_%C5%A0ari%C4%87"
+  },
+  {
+   "detail": "Dwight Buycks  ~ team: Esteghlal Tehran -> Free agent",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Dwight_Buycks"
+  },
+  {
+   "detail": "Dwight Buycks  ~ league: Iranian Basketball Super League -> -",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Dwight_Buycks"
+  },
+  {
+   "detail": "Dwight Buycks  ~ number: 0 -> -",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Dwight_Buycks"
+  },
+  {
+   "detail": "Viacheslav Kravtsov  ~ weight_lb: - -> 255",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Viacheslav_Kravtsov"
+  },
+  {
+   "detail": "Viacheslav Kravtsov  ~ nationality: Ukrainian -> -",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Viacheslav_Kravtsov"
+  },
+  {
+   "detail": "Zoran Dragić  ~ nationality: Slovenian -> -",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Zoran_Dragi%C4%87"
+  },
+  {
+   "detail": "Jacob Pullen  ~ nationality: American / Georgian -> -",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jacob_Pullen"
+  },
+  {
+   "detail": "Kaspars Bērziņš  ~ weight_lb: - -> 225",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kaspars_B%C4%93rzi%C5%86%C5%A1"
+  },
+  {
+   "detail": "Kaspars Bērziņš  ~ nationality: Latvian -> -",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kaspars_B%C4%93rzi%C5%86%C5%A1"
+  },
+  {
+   "detail": "Vladimir Lučić  ~ nationality: Serbian -> -",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Vladimir_Lu%C4%8Di%C4%87"
+  },
+  {
+   "detail": "Mohamed Koné (basketball)  ~ nationality: Ivorian / French -> -",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Mohamed_Kon%C3%A9_(basketball)"
+  },
+  {
+   "detail": "John Shurna  ~ nationality: American / Lithuanian -> -",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/John_Shurna"
+  },
+  {
+   "detail": "Hervé Touré  ~ nationality: French -> -",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Herv%C3%A9_Tour%C3%A9"
+  },
+  {
+   "detail": "Makrem Ben Romdhane  ~ nationality: Tunisian -> -",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Makrem_Ben_Romdhane"
+  },
+  {
+   "detail": "Marcos Mata  ~ weight_lb: - -> 235",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Marcos_Mata"
+  },
+  {
+   "detail": "Marcos Mata  ~ nationality: Argentine / Italian -> -",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Marcos_Mata"
+  },
+  {
+   "detail": "Marcos Mata  ~ CAREER  + 2021–2022 Aguada",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Marcos_Mata"
+  },
+  {
+   "detail": "Marcos Mata  ~ CAREER  + 2022–2024 Boca Juniors",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Marcos_Mata"
+  },
+  {
+   "detail": "Marcos Mata  ~ CAREER  + 2024-present Obras Sanitarias",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Marcos_Mata"
+  },
+  {
+   "detail": "Edwin Jackson (basketball)  ~ weight_lb: - -> 200",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Edwin_Jackson_(basketball)"
+  },
+  {
+   "detail": "Rašid Mahalbašić  ~ nationality: Slovenian / Austrian -> -",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Ra%C5%A1id_Mahalba%C5%A1i%C4%87"
+  },
+  {
+   "detail": "Raško Katić  ~ nationality: Serbian -> -",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Ra%C5%A1ko_Kati%C4%87"
+  },
+  {
+   "detail": "Sasu Salin  ~ weight_lb: - -> 198",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Sasu_Salin"
+  },
+  {
+   "detail": "Nemanja Jaramaz  ~ nationality: Serbian -> -",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Nemanja_Jaramaz"
+  },
+  {
+   "detail": "Jakim Donaldson  ~ nationality: American -> -",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jakim_Donaldson"
+  },
+  {
+   "detail": "Dragan Milosavljević  ~ nationality: Serbian -> -",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Dragan_Milosavljevi%C4%87"
+  },
+  {
+   "detail": "Strahinja Milošević  ~ nationality: Serbian -> -",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Strahinja_Milo%C5%A1evi%C4%87"
+  },
+  {
+   "detail": "Evgeny Kolesnikov  ~ weight_lb: - -> 210",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Evgeny_Kolesnikov"
+  },
+  {
+   "detail": "Evgeny Kolesnikov  ~ nationality: Russian -> -",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Evgeny_Kolesnikov"
+  },
+  {
+   "detail": "Max Kouguère  ~ nationality: Congolese / Central African -> -",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Max_Kougu%C3%A8re"
+  },
+  {
+   "detail": "Vladimir Dašić  ~ weight_lb: - -> 235",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Vladimir_Da%C5%A1i%C4%87"
+  },
+  {
+   "detail": "Vladimir Dašić  ~ nationality: Montenegrin -> -",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Vladimir_Da%C5%A1i%C4%87"
+  },
+  {
+   "detail": "Rolands Freimanis  ~ nationality: Latvian -> -",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Rolands_Freimanis"
+  },
+  {
+   "detail": "Panchi Barrera  ~ weight_lb: - -> 205",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Panchi_Barrera"
+  },
+  {
+   "detail": "Panchi Barrera  ~ nationality: Uruguayan / Spanish -> -",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Panchi_Barrera"
+  },
+  {
+   "detail": "Pablo Aguilar (basketball)  ~ weight_lb: - -> 235",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Pablo_Aguilar_(basketball)"
+  },
+  {
+   "detail": "A. J. Slaughter  ~ nationality: American / Polish -> -",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/A._J._Slaughter"
+  },
+  {
+   "detail": "Mario Delaš  ~ weight_lb: - -> 227",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Mario_Dela%C5%A1"
+  },
+  {
+   "detail": "Mario Delaš  ~ nationality: Croatian -> -",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Mario_Dela%C5%A1"
+  },
+  {
+   "detail": "Cuthbert Victor  ~ nationality: U.S. Virgin Islands -> -",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Cuthbert_Victor"
+  },
+  {
+   "detail": "Michael Umeh  ~ nationality: Nigerian / American -> -",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Michael_Umeh"
+  },
+  {
+   "detail": "Ángel Daniel Vassallo  ~ weight_lb: - -> 216",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/%C3%81ngel_Daniel_Vassallo"
+  },
+  {
+   "detail": "Ángel Daniel Vassallo  ~ nationality: Puerto Rican -> -",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/%C3%81ngel_Daniel_Vassallo"
+  },
+  {
+   "detail": "Deniz Kılıçlı  ~ nationality: Turkish -> -",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Deniz_K%C4%B1l%C4%B1%C3%A7l%C4%B1"
+  },
+  {
+   "detail": "Ryan Richards  ~ nationality: English / Jamaican -> -",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Ryan_Richards"
+  },
+  {
+   "detail": "Michael Efevberha  ~ nationality: Nigerian / American -> -",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Michael_Efevberha"
+  },
+  {
+   "detail": "Alexey Zhukanenko  ~ nationality: Russian / Kazakhstani -> -",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Alexey_Zhukanenko"
+  },
+  {
+   "detail": "Evgeny Voronov  ~ weight_lb: - -> 209",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Evgeny_Voronov"
+  },
+  {
+   "detail": "Evgeny Voronov  ~ nationality: Russian -> -",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Evgeny_Voronov"
+  },
+  {
+   "detail": "Vangelis Mantzaris  ~ weight_lb: - -> 210",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Vangelis_Mantzaris"
+  },
+  {
+   "detail": "Eren Beyaz  ~ weight_lb: - -> 256",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Eren_Beyaz"
+  },
+  {
+   "detail": "Eren Beyaz  ~ nationality: Turkish -> -",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Eren_Beyaz"
+  },
+  {
+   "detail": "Göksenin Köksal  ~ weight_lb: - -> 206",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/G%C3%B6ksenin_K%C3%B6ksal"
+  },
+  {
+   "detail": "Erbil Eroğlu  ~ weight_lb: - -> 187",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Erbil_Ero%C4%9Flu"
+  },
+  {
+   "detail": "Erbil Eroğlu  ~ nationality: Turkish -> -",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Erbil_Ero%C4%9Flu"
+  },
+  {
+   "detail": "Evren Büker  ~ weight_lb: - -> 205",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Evren_B%C3%BCker"
+  },
+  {
+   "detail": "Evren Büker  ~ nationality: Turkish -> -",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Evren_B%C3%BCker"
+  },
+  {
+   "detail": "Amit Simhon  ~ nationality: Israeli -> -",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Amit_Simhon"
+  },
+  {
+   "detail": "Nebojša Joksimović (basketball)  ~ nationality: Slovenian / Serbian -> -",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Neboj%C5%A1a_Joksimovi%C4%87_(basketball)"
+  },
+  {
+   "detail": "Matic Sirnik  ~ nationality: Slovenian -> -",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Matic_Sirnik"
+  },
+  {
+   "detail": "Mirza Sarajlija  ~ nationality: Slovenian -> -",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Mirza_Sarajlija"
+  },
+  {
+   "detail": "Dino Murić  ~ nationality: Slovenian -> -",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Dino_Muri%C4%87"
+  },
+  {
+   "detail": "Branislav Đekić  ~ nationality: Serbian -> -",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Branislav_%C4%90eki%C4%87"
+  },
+  {
+   "detail": "Namori Meite  ~ nationality: Côte d'Ivoirean / French -> -",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Namori_Meite"
+  },
+  {
+   "detail": "William Gradit  ~ weight_lb: - -> 211",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/William_Gradit"
+  },
+  {
+   "detail": "Wilfrid Aka  ~ nationality: Ivorian / French -> -",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Wilfrid_Aka"
+  },
+  {
+   "detail": "Jaime Lloreda  ~ weight_lb: - -> 255",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jaime_Lloreda"
+  },
+  {
+   "detail": "Issife Soumahoro  ~ nationality: Ivorian / French -> -",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Issife_Soumahoro"
+  },
+  {
+   "detail": "Romain Duport  ~ weight_lb: - -> 254",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Romain_Duport"
+  },
+  {
+   "detail": "Romain Duport  ~ nationality: French -> -",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Romain_Duport"
+  },
+  {
+   "detail": "Dimitrios Katsivelis  ~ weight_lb: - -> 212",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Dimitrios_Katsivelis"
+  },
+  {
+   "detail": "Leonidas Kaselakis  ~ weight_lb: - -> 250",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Leonidas_Kaselakis"
+  },
+  {
+   "detail": "Gaios Skordilis  ~ weight_lb: - -> 275",
+   "detected_at": "2026-11-14 17:15:19",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Gaios_Skordilis"
+  },
+  {
    "detail": "Swiss LNA SAM Basket Massagno 81, Fribourg Olympic 66",
    "detected_at": "2026-11-14 16:40:51",
    "source": "SCORES",
@@ -9791,573 +10358,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-11-08/Zastal-Zielona-Gora-at-Stal-Ostrow-Wielkopolski/531888"
-  },
-  {
-   "detail": "Polish OBL GTK Gliwice 84, Trefl Sopot 77",
-   "detected_at": "2026-11-09 14:06:50",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-08/Trefl-Sopot-at-GTK-Gliwice/531890"
-  },
-  {
-   "detail": "Polish OBL ~ MOVED Malique Jacobs → Trefl Sopot (from ABA Strumica)",
-   "detected_at": "2026-11-09 14:06:45",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
-  },
-  {
-   "detail": "Polish OBL + Milosz Szul → GTK Gliwice",
-   "detected_at": "2026-11-09 14:06:45",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Polish OBL Krajowa Grupa Spozywcza Arka Gdynia 67, Legia Warszawa 60",
-   "detected_at": "2026-11-09 14:06:42",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-08/Legia-Warszawa-at-Krajowa-Grupa-Spozywcza-Arka-Gdynia/531891"
-  },
-  {
-   "detail": "Polish OBL + Jaroslaw Zyskowski → Krajowa Grupa Spozywcza Arka Gdynia",
-   "detected_at": "2026-11-09 14:06:38",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Danish Basketligaen Team FOG Naestved 80, Bakken Bears 77",
-   "detected_at": "2026-11-09 14:06:34",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-08/Bakken-Bears-at-Team-FOG-Naestved/530353"
-  },
-  {
-   "detail": "Italian Lega Basket Serie A Napoli Basket 91, Givova Scafati 89",
-   "detected_at": "2026-11-09 14:06:27",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-08/Napoli-Basket-at-Givova-Scafati/529610"
-  },
-  {
-   "detail": "Italian Lega Basket Serie A + Mehdy Ngouama → Givova Scafati",
-   "detected_at": "2026-11-09 14:06:24",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Danish Basketligaen Horsens IC 98, BMS Herlev Wolfpack 57",
-   "detected_at": "2026-11-09 14:06:21",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-08/BMS-Herlev-Wolfpack-at-Horsens-IC/530352"
-  },
-  {
-   "detail": "Montenegrin Prva A Liga Vukovi Zeta 94, Decic 50",
-   "detected_at": "2026-11-09 14:06:15",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-08/Decic-at-Vukovi-Zeta/546028"
-  },
-  {
-   "detail": "Montenegrin Prva A Liga + Karim Gusmirovic → Decic",
-   "detected_at": "2026-11-09 14:06:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Montenegrin Prva A Liga + Leonardo Bojovic → Decic",
-   "detected_at": "2026-11-09 14:06:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Montenegrin Prva A Liga + James Jordan → Decic",
-   "detected_at": "2026-11-09 14:06:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Montenegrin Prva A Liga + Lazar Carapic → Vukovi Zeta",
-   "detected_at": "2026-11-09 14:06:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Montenegrin Prva A Liga + Vasilije Maras → Vukovi Zeta",
-   "detected_at": "2026-11-09 14:06:11",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German BBL Bayern Munich 94, sOliver Baskets 73",
-   "detected_at": "2026-11-09 14:06:08",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-08/Bayern-Munich-at-sOliver-Baskets/528676"
-  },
-  {
-   "detail": "German BBL + Paul Julius Plato → sOliver Baskets",
-   "detected_at": "2026-11-09 14:06:03",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Lithuanian LKL Gargzdu Gargzdai 91, Jonava Jonavos 70",
-   "detected_at": "2026-11-09 14:06:00",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-08/Gargzdu-Gargzdai-at-Jonava-Jonavos/532740"
-  },
-  {
-   "detail": "Lithuanian LKL Siauliai 83, Kedainiai Nevezis 76",
-   "detected_at": "2026-11-09 14:05:53",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-08/Siauliai-at-Kedainiai-Nevezis/532739"
-  },
-  {
-   "detail": "Lithuanian LKL Zalgiris 94, Juventus 85",
-   "detected_at": "2026-11-09 14:05:47",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-08/Zalgiris-at-Juventus/532738"
-  },
-  {
-   "detail": "Siim-Sander Vene  ~ team: Derthona Basket -> Free agent",
-   "detected_at": "2026-11-09 14:05:36",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Siim-Sander_Vene"
-  },
-  {
-   "detail": "Siim-Sander Vene  ~ league: LBA EuroCup -> -",
-   "detected_at": "2026-11-09 14:05:36",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Siim-Sander_Vene"
-  },
-  {
-   "detail": "Siim-Sander Vene  ~ number: 11 -> -",
-   "detected_at": "2026-11-09 14:05:36",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Siim-Sander_Vene"
-  },
-  {
-   "detail": "Ignas Sargiūnas  ~ CAREER  + 2015–2018 →Žalgiris-2 Kaunas",
-   "detected_at": "2026-11-09 14:05:36",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Ignas_Sargi%C5%ABnas"
-  },
-  {
-   "detail": "Ignas Sargiūnas  ~ CAREER  + 2020–2022 Prienai",
-   "detected_at": "2026-11-09 14:05:36",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Ignas_Sargi%C5%ABnas"
-  },
-  {
-   "detail": "Paul Biligha  ~ team: Derthona Basket -> Free agent",
-   "detected_at": "2026-11-09 14:05:36",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Paul_Biligha"
-  },
-  {
-   "detail": "Paul Biligha  ~ league: LBA -> -",
-   "detected_at": "2026-11-09 14:05:36",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Paul_Biligha"
-  },
-  {
-   "detail": "Paul Biligha  ~ number: 19 -> -",
-   "detected_at": "2026-11-09 14:05:36",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Paul_Biligha"
-  },
-  {
-   "detail": "Paul Biligha  ~ nationality: Cameroonian / Italian -> -",
-   "detected_at": "2026-11-09 14:05:36",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Paul_Biligha"
-  },
-  {
-   "detail": "Paul Biligha  ~ CAREER  + 2008–2012 UC Casalpusterlengo",
-   "detected_at": "2026-11-09 14:05:36",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Paul_Biligha"
-  },
-  {
-   "detail": "Paul Biligha  ~ CAREER  + 2008–2009 →Verolanuova",
-   "detected_at": "2026-11-09 14:05:36",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Paul_Biligha"
-  },
-  {
-   "detail": "Paul Biligha  ~ CAREER  + 2010 →Pallacanestro Crema",
-   "detected_at": "2026-11-09 14:05:36",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Paul_Biligha"
-  },
-  {
-   "detail": "Paul Biligha  ~ CAREER  + 2010–2011 →Pavia",
-   "detected_at": "2026-11-09 14:05:36",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Paul_Biligha"
-  },
-  {
-   "detail": "Paul Biligha  ~ CAREER  + 2023–2024 Aquila Trento",
-   "detected_at": "2026-11-09 14:05:36",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Paul_Biligha"
-  },
-  {
-   "detail": "Paul Biligha  ~ CAREER  + 2024–2026 Derthona Basket",
-   "detected_at": "2026-11-09 14:05:36",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Paul_Biligha"
-  },
-  {
-   "detail": "Deividas Sirvydis  ~ height_in: 8.5 -> 9",
-   "detected_at": "2026-11-09 13:11:36",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Deividas_Sirvydis"
-  },
-  {
-   "detail": "NCAA Portland 130, Bethesda University 56",
-   "detected_at": "2026-11-09 12:22:36",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-08/Bethesda-University-at-Portland/544882"
-  },
-  {
-   "detail": "NCAA William Mary 104, Norfolk State 73",
-   "detected_at": "2026-11-09 12:22:30",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-08/Norfolk-State-at-William-Mary/538830"
-  },
-  {
-   "detail": "NCAA Hawaii 71, Texas Arlington 62",
-   "detected_at": "2026-11-09 12:22:25",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-08/Texas-Arlington-at-Hawaii/544428"
-  },
-  {
-   "detail": "NCAA Pittsburgh 82, Penn State 76",
-   "detected_at": "2026-11-09 12:22:19",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-08/Penn-State-at-Pittsburgh/530438"
-  },
-  {
-   "detail": "NCAA UTEP 79, Incarnate Word 60",
-   "detected_at": "2026-11-09 12:22:13",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-08/Incarnate-Word-at-UTEP/544600"
-  },
-  {
-   "detail": "NCAA Cal State Bakersfield 91, North Dakota State 80",
-   "detected_at": "2026-11-09 12:22:07",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-08/North-Dakota-State-at-Cal-State-Bakersfield/539702"
-  },
-  {
-   "detail": "NCAA Richmond 79, Temple 53",
-   "detected_at": "2026-11-09 12:22:01",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-08/Richmond-at-Temple/532317"
-  },
-  {
-   "detail": "NCAA NJIT 54, Saint Peters 52",
-   "detected_at": "2026-11-09 12:21:55",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-08/Saint-Peters-at-NJIT/539991"
-  },
-  {
-   "detail": "NCAA Nevada 96, Saint Marys 95",
-   "detected_at": "2026-11-09 12:21:50",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-08/Saint-Marys-at-Nevada/532478"
-  },
-  {
-   "detail": "NCAA USC 93, Wichita State 86",
-   "detected_at": "2026-11-09 12:21:44",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-08/USC-at-Wichita-State/539069"
-  },
-  {
-   "detail": "NCAA Houston 86, California 68",
-   "detected_at": "2026-11-09 12:21:39",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-08/Houston-at-California/538490"
-  },
-  {
-   "detail": "French LNB Espoirs Espoirs Nancy 115, Espoirs Limoges 61",
-   "detected_at": "2026-11-09 12:21:16",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-07/Espoirs-Limoges-at-Espoirs-Nancy/537622"
-  },
-  {
-   "detail": "French LNB Espoirs ~ RETURN Clement Dubos → Espoirs Limoges (from CSP Limoges)",
-   "detected_at": "2026-11-09 12:21:13",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "French LNB Espoirs ~ RETURN Valentin Delenclos → Espoirs Limoges (from CSP Limoges)",
-   "detected_at": "2026-11-09 12:21:13",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "French LNB Espoirs + Elliot Ekollo → Espoirs Limoges",
-   "detected_at": "2026-11-09 12:21:13",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French LNB Espoirs ~ RETURN Kany N'Kouka → Espoirs Nancy (from Nancy Basket)",
-   "detected_at": "2026-11-09 12:21:13",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "French LNB Espoirs ~ RETURN Erwan Djoni → Espoirs Nancy (from Nancy Basket)",
-   "detected_at": "2026-11-09 12:21:13",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "French LNB Espoirs ~ RETURN Abdoul Ba → Espoirs Nancy (from Nancy Basket)",
-   "detected_at": "2026-11-09 12:21:13",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "French LNB Espoirs ~ RETURN Antonin Dietz-Hill → Espoirs Nancy (from Nancy Basket)",
-   "detected_at": "2026-11-09 12:21:13",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "French LNB Espoirs + Joshua Beuze → Espoirs Nancy",
-   "detected_at": "2026-11-09 12:21:13",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French LNB Espoirs + Edwin Dija → Espoirs Nancy",
-   "detected_at": "2026-11-09 12:21:13",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French LNB Espoirs Espoirs Roanne 114, Espoirs Saint Quentin 89",
-   "detected_at": "2026-11-09 12:21:11",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-07/Espoirs-Saint-Quentin-at-Espoirs-Roanne/537620"
-  },
-  {
-   "detail": "French LNB Espoirs + Kyziah Ferrand → Espoirs Roanne",
-   "detected_at": "2026-11-09 12:21:07",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French LNB Espoirs Espoirs Chalon Saone 88, Espoirs Nanterre 84",
-   "detected_at": "2026-11-09 12:21:04",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-07/Espoirs-Chalon-Saone-at-Espoirs-Nanterre/537623"
-  },
-  {
-   "detail": "French LNB Espoirs ~ RETURN Antoine Darsonville → Espoirs Chalon Saone (from Chalon Sur Saone)",
-   "detected_at": "2026-11-09 12:21:01",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "French LNB Espoirs ~ RETURN Jim Samanos → Espoirs Nanterre (from Nanterre 92)",
-   "detected_at": "2026-11-09 12:21:01",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "French LNB Espoirs + Youssef Kallel → Espoirs Nanterre",
-   "detected_at": "2026-11-09 12:21:01",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Macedonian Superleague KK Stip 92, KK Pelister Sport Bitola 87",
-   "detected_at": "2026-11-09 12:20:53",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-07/KK-Stip-at-KK-Pelister-Sport-Bitola/543388"
-  },
-  {
-   "detail": "Macedonian Superleague + Langston Love → KK Stip",
-   "detected_at": "2026-11-09 12:20:49",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Macedonian Superleague KK Rabotnicki AD Skipje 83, Kozuv Gevgelija 80",
-   "detected_at": "2026-11-09 12:20:46",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-07/Kozuv-Gevgelija-at-KK-Rabotnicki-AD-Skipje/543389"
-  },
-  {
-   "detail": "Italian Serie A2 Basket Fortituto Kontatto Bologna 83, Urania Milano 66",
-   "detected_at": "2026-11-09 12:20:41",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-07/Urania-Milano-at-Fortituto-Kontatto-Bologna/529862"
-  },
-  {
-   "detail": "Swiss LNA Fribourg Olympic 92, BBC Lausanne 75",
-   "detected_at": "2026-11-09 12:20:35",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-07/BBC-Lausanne-at-Fribourg-Olympic/534153"
-  },
-  {
-   "detail": "Swiss LNA + Abishai Arvine Kumarasamy → Fribourg Olympic",
-   "detected_at": "2026-11-09 12:20:31",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "German Pro B Ahorn Camp BIS Baskets Speyer 81, TSV Oberhaching Tropics 79",
-   "detected_at": "2026-11-09 12:20:29",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-07/TSV-Oberhaching-Tropics-at-Ahorn-Camp-BIS-Baskets-Speyer/525719"
-  },
-  {
-   "detail": "German Pro B ~ MOVED David Galusic → TSV Oberhaching Tropics (from TSV Oberhanching Tropics)",
-   "detected_at": "2026-11-09 12:20:26",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
-  },
-  {
-   "detail": "German Pro B + Sam Stockton → Ahorn Camp BIS Baskets Speyer",
-   "detected_at": "2026-11-09 12:20:26",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Romanian Divizia A CS Dinamo Bucuresti 97, CSO Voluntari 86",
-   "detected_at": "2026-11-09 12:20:23",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-07/CS-Dinamo-Bucuresti-at-CSO-Voluntari/539008"
-  },
-  {
-   "detail": "Cypriot Division A Proteas EKA AEL 82, Anorthosis Ammohostou 74",
-   "detected_at": "2026-11-09 12:20:17",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-07/Proteas-EKA-AEL-at-Anorthosis-Ammohostou/542061"
-  },
-  {
-   "detail": "Cypriot Division A + Zayd Muosa → Anorthosis Ammohostou",
-   "detected_at": "2026-11-09 12:20:14",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Lebanese Division A Sagesse Al Hekmeh Beirut 96, Hoops Club 76",
-   "detected_at": "2026-11-09 12:20:11",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-07/Sagesse-Al-Hekmeh-Beirut-at-Hoops-Club/546150"
-  },
-  {
-   "detail": "Lebanese Division A + Jamal Jones → Sagesse Al Hekmeh Beirut",
-   "detected_at": "2026-11-09 12:20:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Lebanese Division A + Joe Kheres → Sagesse Al Hekmeh Beirut",
-   "detected_at": "2026-11-09 12:20:08",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Turkish TBL Demir Insaat Buyukcekmece 74, Aykon TED Kolejliler Ankara 67",
-   "detected_at": "2026-11-09 12:20:06",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-07/Demir-Insaat-Buyukcekmece-at-Aykon-TED-Kolejliler-Ankara/534801"
-  },
-  {
-   "detail": "Turkish TBL + Can Ogut → Demir Insaat Buyukcekmece",
-   "detected_at": "2026-11-09 12:20:02",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Turkish TBL ~ MOVED Bora Can Isik → Demir Insaat Buyukcekmece (from Kecioren Baglum)",
-   "detected_at": "2026-11-09 12:20:02",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10394,14 +10394,14 @@
    "last": "2026-11-14 08:44:05"
   },
   "WIKI": {
-   "count": 8425,
-   "last": "2026-11-14 16:37:45"
+   "count": 8506,
+   "last": "2026-11-14 17:15:19"
   },
   "WIKIWATCH": {
    "count": 618,
    "last": "2026-11-14 09:12:27"
   }
  },
- "generated_at": "2026-11-14T16:41:27",
- "total": 40230
+ "generated_at": "2026-11-14T17:15:22",
+ "total": 40311
 }
