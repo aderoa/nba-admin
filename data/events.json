@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Fred VanVleet  ~ position: Point guard / shooting guard -> Point guard",
+   "detected_at": "2026-11-16 08:02:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Fred_VanVleet"
+  },
+  {
    "detail": "Italian Serie A2 Basket RivieraBanca Rimini 88, UEB Gesteco Cividale 79",
    "detected_at": "2026-11-16 07:25:54",
    "source": "SCORES",
@@ -10482,13 +10489,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Isaiah_Jackson_(basketball)"
-  },
-  {
-   "detail": "Ben Moore (basketball)  ~ weight_lb: - -> 220",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Ben_Moore_(basketball)"
   }
  ],
  "feeds": {
@@ -10525,14 +10525,14 @@
    "last": "2026-11-14 08:44:05"
   },
   "WIKI": {
-   "count": 10112,
-   "last": "2026-11-16 06:46:56"
+   "count": 10113,
+   "last": "2026-11-16 08:02:36"
   },
   "WIKIWATCH": {
    "count": 659,
    "last": "2026-11-16 07:10:19"
   }
  },
- "generated_at": "2026-11-16T07:26:20",
- "total": 42480
+ "generated_at": "2026-11-16T08:02:38",
+ "total": 42481
 }
