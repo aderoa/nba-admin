@@ -1,6 +1,76 @@
 {
  "events": [
   {
+   "detail": "Mason Plumlee  ~ number: 45 -> 24",
+   "detected_at": "2026-11-16 05:20:50",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Mason_Plumlee"
+  },
+  {
+   "detail": "Paul Zipser  ~ league: Basketball Bundesliga -> ProA",
+   "detected_at": "2026-11-16 05:20:50",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Paul_Zipser"
+  },
+  {
+   "detail": "Cory Joseph  ~ position: Point guard / Shooting guard -> Point guard / shooting guard",
+   "detected_at": "2026-11-16 05:20:50",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Cory_Joseph"
+  },
+  {
+   "detail": "Johni Broome  ~ position: Power forward -> Center",
+   "detected_at": "2026-11-16 05:20:50",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Johni_Broome"
+  },
+  {
+   "detail": "Nick Weiler-Babb  ~ position: Small forward / shooting guard -> Point guard / shooting guard",
+   "detected_at": "2026-11-16 05:20:50",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Nick_Weiler-Babb"
+  },
+  {
+   "detail": "Bryant Dunston  ~ position: Power forward / center -> Center / power forward",
+   "detected_at": "2026-11-16 05:20:50",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Bryant_Dunston"
+  },
+  {
+   "detail": "Marcelinho Huertas  ~ 2707: team -> Free agent",
+   "detected_at": "2026-11-16 05:11:13",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Dubai Basketball"
+  },
+  {
+   "detail": "Marcelinho Huertas  ~ 2707: league -> -",
+   "detected_at": "2026-11-16 05:11:13",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "ABA League EuroLeague"
+  },
+  {
+   "detail": "Marcelinho Huertas  ~ 2707: position -> Point guard / shooting guard",
+   "detected_at": "2026-11-16 05:11:13",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Point guard"
+  },
+  {
+   "detail": "Marcelinho Huertas  ~ 2707: number -> -",
+   "detected_at": "2026-11-16 05:11:13",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "9"
+  },
+  {
    "detail": "French Jeep Elite BCM Gravelines 96, Nancy Basket 89",
    "detected_at": "2026-11-15 17:57:32",
    "source": "SCORES",
@@ -10429,76 +10499,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Trey_Alexander"
-  },
-  {
-   "detail": "Thomas Welsh (basketball)  ~ draft_year: - -> 2018",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Thomas_Welsh_(basketball)"
-  },
-  {
-   "detail": "Thomas Welsh (basketball)  ~ draft_team: - -> Denver Nuggets",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Thomas_Welsh_(basketball)"
-  },
-  {
-   "detail": "Gary Clark (basketball)  ~ weight_lb: - -> 225",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Gary_Clark_(basketball)"
-  },
-  {
-   "detail": "Emmanuel Mudiay  ~ nationality: Congolese / American -> -",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Emmanuel_Mudiay"
-  },
-  {
-   "detail": "Davon Reed  ~ nationality: Puerto Rican -> -",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Davon_Reed"
-  },
-  {
-   "detail": "Collin Gillespie  ~ weight_lb: - -> 195",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Collin_Gillespie"
-  },
-  {
-   "detail": "Bobi Klintman  ~ weight_lb: - -> 225",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Bobi_Klintman"
-  },
-  {
-   "detail": "Jamorko Pickett  ~ weight_lb: - -> 206",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jamorko_Pickett"
-  },
-  {
-   "detail": "Ausar Thompson  ~ draft_year: - -> 2023",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Ausar_Thompson"
-  },
-  {
-   "detail": "Ausar Thompson  ~ draft_team: - -> Detroit Pistons",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Ausar_Thompson"
   }
  ],
  "feeds": {
@@ -10535,14 +10535,14 @@
    "last": "2026-11-14 08:44:05"
   },
   "WIKI": {
-   "count": 10102,
-   "last": "2026-11-15 17:56:33"
+   "count": 10108,
+   "last": "2026-11-16 05:20:50"
   },
   "WIKIWATCH": {
-   "count": 652,
-   "last": "2026-11-15 07:22:11"
+   "count": 656,
+   "last": "2026-11-16 05:11:13"
   }
  },
- "generated_at": "2026-11-15T18:33:34",
- "total": 42180
+ "generated_at": "2026-11-16T05:20:51",
+ "total": 42190
 }
