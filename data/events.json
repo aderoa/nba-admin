@@ -1,6 +1,62 @@
 {
  "events": [
   {
+   "detail": "Italian Serie A2 Basket RivieraBanca Rimini 88, UEB Gesteco Cividale 79",
+   "detected_at": "2026-11-16 07:25:54",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/UEB-Gesteco-Cividale-at-RivieraBanca-Rimini/529879"
+  },
+  {
+   "detail": "Italian Serie A2 Basket Akern Libertas Livorno 78, Montecatini 58",
+   "detected_at": "2026-11-16 07:25:49",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Akern-Libertas-Livorno-at-Montecatini/529877"
+  },
+  {
+   "detail": "Italian Serie A2 Basket Gemini Mestre 85, Ferraroni Juvi Cremona 73",
+   "detected_at": "2026-11-16 07:25:45",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Gemini-Mestre-at-Ferraroni-Juvi-Cremona/529885"
+  },
+  {
+   "detail": "Italian Serie A2 Basket Pasta Reggia JuveCaserta 91, Unieuro Forli 79",
+   "detected_at": "2026-11-16 07:25:40",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Unieuro-Forli-at-Pasta-Reggia-JuveCaserta/529884"
+  },
+  {
+   "detail": "Italian Serie A2 Basket + Francesco Sorbo → Pasta Reggia JuveCaserta",
+   "detected_at": "2026-11-16 07:25:39",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Italian Serie A2 Basket Sidigas Avellino 68, Banco di Sardegna Sassari 67",
+   "detected_at": "2026-11-16 07:25:36",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Sidigas-Avellino-at-Banco-di-Sardegna-Sassari/529883"
+  },
+  {
+   "detail": "Italian Serie A2 Basket Enel Brindisi 83, Sella Cento 79",
+   "detected_at": "2026-11-16 07:25:31",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Sella-Cento-at-Enel-Brindisi/529882"
+  },
+  {
+   "detail": "Italian Serie A2 Basket Elachem Vigevano 78, Carpegna Prosciutto Basket Pesaro 67",
+   "detected_at": "2026-11-16 07:25:27",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Elachem-Vigevano-at-Carpegna-Prosciutto-Basket-Pesaro/529878"
+  },
+  {
    "detail": "John Konchar  ~ 81496: team -> Olympiacos",
    "detected_at": "2026-11-16 07:10:19",
    "source": "WIKIWATCH",
@@ -10433,62 +10489,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Ben_Moore_(basketball)"
-  },
-  {
-   "detail": "Kendall Brown (basketball)  ~ weight_lb: - -> 205",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Kendall_Brown_(basketball)"
-  },
-  {
-   "detail": "Ronald Kozlicki  ~ nationality: American -> -",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Ronald_Kozlicki"
-  },
-  {
-   "detail": "MarJon Beauchamp  ~ weight_lb: - -> 199",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/MarJon_Beauchamp"
-  },
-  {
-   "detail": "Jason Preston  ~ weight_lb: - -> 181",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jason_Preston"
-  },
-  {
-   "detail": "Joshua Primo  ~ weight_lb: - -> 189",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Joshua_Primo"
-  },
-  {
-   "detail": "Sean Pedulla  ~ weight_lb: - -> 197",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Sean_Pedulla"
-  },
-  {
-   "detail": "Mo Bamba  ~ weight_lb: - -> 231",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Mo_Bamba"
-  },
-  {
-   "detail": "Drew Eubanks  ~ weight_lb: - -> 245",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Drew_Eubanks"
   }
  ],
  "feeds": {
@@ -10509,12 +10509,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 11667,
-   "last": "2026-11-16 06:20:58"
+   "count": 11668,
+   "last": "2026-11-16 07:25:39"
   },
   "SCORES": {
-   "count": 5657,
-   "last": "2026-11-16 06:24:15"
+   "count": 5664,
+   "last": "2026-11-16 07:25:54"
   },
   "SHEETS": {
    "count": 5268,
@@ -10533,6 +10533,6 @@
    "last": "2026-11-16 07:10:19"
   }
  },
- "generated_at": "2026-11-16T07:23:20",
- "total": 42472
+ "generated_at": "2026-11-16T07:26:20",
+ "total": 42480
 }
