@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "John Konchar  ~ 81496: team -> Olympiacos",
+   "detected_at": "2026-11-16 07:10:19",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Free agent"
+  },
+  {
+   "detail": "John Konchar  ~ 81496: league -> GBL EuroLeague",
+   "detected_at": "2026-11-16 07:10:19",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": ""
+  },
+  {
+   "detail": "John Konchar  ~ 81496: number -> 55",
+   "detected_at": "2026-11-16 07:10:19",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": ""
+  },
+  {
    "detail": "John Konchar  ~ team: Olympiacos -> Free agent",
    "detected_at": "2026-11-16 06:46:56",
    "source": "WIKI",
@@ -10468,27 +10489,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Drew_Eubanks"
-  },
-  {
-   "detail": "Jay Scrubb  ~ weight_lb: - -> 220",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jay_Scrubb"
-  },
-  {
-   "detail": "Daniel Oturu  ~ weight_lb: - -> 240",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Daniel_Oturu"
-  },
-  {
-   "detail": "Daniel Oturu  ~ nationality: American / Nigerian -> -",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Daniel_Oturu"
   }
  ],
  "feeds": {
@@ -10529,10 +10529,10 @@
    "last": "2026-11-16 06:46:56"
   },
   "WIKIWATCH": {
-   "count": 656,
-   "last": "2026-11-16 05:11:13"
+   "count": 659,
+   "last": "2026-11-16 07:10:19"
   }
  },
- "generated_at": "2026-11-16T06:46:58",
- "total": 42469
+ "generated_at": "2026-11-16T07:19:37",
+ "total": 42472
 }
