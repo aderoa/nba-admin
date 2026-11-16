@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Pascal Siakam  ~ weight_lb: 246 -> 245",
+   "detected_at": "2026-11-16 13:30:26",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Pascal_Siakam"
+  },
+  {
+   "detail": "Aaron Doornekamp  ~ CAREER  + 2020–present La Laguna Tenerife",
+   "detected_at": "2026-11-16 13:30:26",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Aaron_Doornekamp"
+  },
+  {
    "detail": "Moritz Wagner (basketball)  ~ position: Center / power forward -> Center",
    "detected_at": "2026-11-16 12:20:27",
    "source": "WIKI",
@@ -10475,20 +10489,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Kenyon_Martin_Jr."
-  },
-  {
-   "detail": "Mason Jones (basketball)  ~ weight_lb: - -> 200",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Mason_Jones_(basketball)"
-  },
-  {
-   "detail": "Josh Christopher  ~ weight_lb: - -> 215",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Josh_Christopher"
   }
  ],
  "feeds": {
@@ -10525,14 +10525,14 @@
    "last": "2026-11-14 08:44:05"
   },
   "WIKI": {
-   "count": 10118,
-   "last": "2026-11-16 12:20:27"
+   "count": 10120,
+   "last": "2026-11-16 13:30:26"
   },
   "WIKIWATCH": {
    "count": 659,
    "last": "2026-11-16 07:10:19"
   }
  },
- "generated_at": "2026-11-16T13:22:26",
- "total": 42505
+ "generated_at": "2026-11-16T13:30:28",
+ "total": 42507
 }
