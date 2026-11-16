@@ -1,6 +1,139 @@
 {
  "events": [
   {
+   "detail": "Turkish TBL Kecioren Baglum 120, Mersin BSB 89",
+   "detected_at": "2026-11-16 11:42:54",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-14/Kecioren-Baglum-at-Mersin-BSB/534804"
+  },
+  {
+   "detail": "Turkish TBL ~ MOVED Jamari Traylor → Kecioren Baglum (from Goztepe)",
+   "detected_at": "2026-11-16 11:42:53",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Faik Kasikci → Mersin BSB",
+   "detected_at": "2026-11-16 11:42:53",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL ~ MOVED Ferhat Seniceli → Mersin BSB (from Goztepe)",
+   "detected_at": "2026-11-16 11:42:53",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Halil Ates → Mersin BSB",
+   "detected_at": "2026-11-16 11:42:53",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Ahmet Hakan Kara → Mersin BSB",
+   "detected_at": "2026-11-16 11:42:53",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Omer Altan Soylu → Mersin BSB",
+   "detected_at": "2026-11-16 11:42:53",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Yigithan Ergenc → Mersin BSB",
+   "detected_at": "2026-11-16 11:42:53",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Macedonian Superleague KK Kumanovo 85, ABA Strumica 48",
+   "detected_at": "2026-11-16 11:42:48",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/ABA-Strumica-at-KK-Kumanovo/543394"
+  },
+  {
+   "detail": "Macedonian Superleague + Lazar Kuzmanovski → KK Kumanovo",
+   "detected_at": "2026-11-16 11:42:47",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL Harem Spor 82, Final Spor Genclik 78",
+   "detected_at": "2026-11-16 11:42:44",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Final-Spor-Genclik-at-Harem-Spor/534805"
+  },
+  {
+   "detail": "Turkish TBL ~ MOVED Dorukhan Engindeniz → Harem Spor (from Mersin BSB)",
+   "detected_at": "2026-11-16 11:42:42",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL ~ MOVED Yigit Baran Sarikaya → Harem Spor (from Mersin BSB)",
+   "detected_at": "2026-11-16 11:42:42",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Super League Basketball Newcastle Eagles 89, Cheshire Phoenix 61",
+   "detected_at": "2026-11-16 11:42:39",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Newcastle-Eagles-at-Cheshire-Phoenix/535568"
+  },
+  {
+   "detail": "Super League Basketball + Jaxson Baker → Cheshire Phoenix",
+   "detected_at": "2026-11-16 11:42:38",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "BNXT League Donar Groningen 83, Rotterdam City Basketball 70",
+   "detected_at": "2026-11-16 11:42:35",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Donar-Groningen-at-Rotterdam-City-Basketball/527980"
+  },
+  {
+   "detail": "BNXT League + Savior Melfor → Rotterdam City Basketball",
+   "detected_at": "2026-11-16 11:42:33",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "BNXT League + Yahadanai Leeuwin → Rotterdam City Basketball",
+   "detected_at": "2026-11-16 11:42:33",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "BNXT League + Shane Lieuw On → Rotterdam City Basketball",
+   "detected_at": "2026-11-16 11:42:33",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
    "detail": "Pascal Siakam  ~ weight_lb: 245 -> 246",
    "detected_at": "2026-11-16 10:56:35",
    "source": "WIKI",
@@ -10356,139 +10489,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Butch_Joyner"
-  },
-  {
-   "detail": "D. J. Wilson  ~ CAREER  + 2024–2025 Shanghai Sharks",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/D._J._Wilson"
-  },
-  {
-   "detail": "D. J. Wilson  ~ CAREER  + 2025–present Jilin Northeast Tigers",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/D._J._Wilson"
-  },
-  {
-   "detail": "Jordan Nwora  ~ weight_lb: - -> 225",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jordan_Nwora"
-  },
-  {
-   "detail": "Jordan Nwora  ~ nationality: Nigerian / American -> -",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jordan_Nwora"
-  },
-  {
-   "detail": "Jerry McKee  ~ nationality: American -> -",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jerry_McKee"
-  },
-  {
-   "detail": "Duane Washington Jr.  ~ weight_lb: - -> 197",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Duane_Washington_Jr."
-  },
-  {
-   "detail": "Duane Washington Jr.  ~ nationality: American / German -> -",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Duane_Washington_Jr."
-  },
-  {
-   "detail": "Ben Sheppard (basketball)  ~ weight_lb: - -> 190",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Ben_Sheppard_(basketball)"
-  },
-  {
-   "detail": "T. J. Leaf  ~ nationality: Israeli / American -> -",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/T._J._Leaf"
-  },
-  {
-   "detail": "Rakeem Christmas  ~ team: Manama Club -> Free agent",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Rakeem_Christmas"
-  },
-  {
-   "detail": "Rakeem Christmas  ~ league: Bahraini Premier League -> -",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Rakeem_Christmas"
-  },
-  {
-   "detail": "Rakeem Christmas  ~ number: 34 -> -",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Rakeem_Christmas"
-  },
-  {
-   "detail": "Rakeem Christmas  ~ CAREER  + 2026 Manama Club",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Rakeem_Christmas"
-  },
-  {
-   "detail": "Earle Higgins  ~ nationality: American -> -",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Earle_Higgins"
-  },
-  {
-   "detail": "Naz Mitrou-Long  ~ nationality: Canadian / Greek -> -",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Naz_Mitrou-Long"
-  },
-  {
-   "detail": "Jalen Lecque  ~ weight_lb: - -> 185",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jalen_Lecque"
-  },
-  {
-   "detail": "Jarace Walker  ~ weight_lb: - -> 235",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jarace_Walker"
-  },
-  {
-   "detail": "Jarace Walker  ~ draft_year: - -> 2023",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jarace_Walker"
-  },
-  {
-   "detail": "Jarace Walker  ~ draft_team: - -> Washington Wizards",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jarace_Walker"
   }
  ],
  "feeds": {
@@ -10509,12 +10509,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 11668,
-   "last": "2026-11-16 07:25:39"
+   "count": 11682,
+   "last": "2026-11-16 11:42:53"
   },
   "SCORES": {
-   "count": 5664,
-   "last": "2026-11-16 07:25:54"
+   "count": 5669,
+   "last": "2026-11-16 11:42:54"
   },
   "SHEETS": {
    "count": 5268,
@@ -10533,6 +10533,6 @@
    "last": "2026-11-16 07:10:19"
   }
  },
- "generated_at": "2026-11-16T11:32:45",
- "total": 42485
+ "generated_at": "2026-11-16T11:43:24",
+ "total": 42504
 }
