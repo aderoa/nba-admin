@@ -1,6 +1,1861 @@
 {
  "events": [
   {
+   "detail": "NCAA San Jose State 80, Alabama State 68",
+   "detected_at": "2026-11-16 06:24:15",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-15/Alabama-State-at-San-Jose-State/532493"
+  },
+  {
+   "detail": "NCAA Bethune Cookman 88, Stillman 64",
+   "detected_at": "2026-11-16 06:24:11",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-15/Stillman-at-Bethune-Cookman/542987"
+  },
+  {
+   "detail": "NCAA Tennessee Martin 128, Ecclesia College 44",
+   "detected_at": "2026-11-16 06:24:07",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-15/Ecclesia-College-at-Tennessee-Martin/543729"
+  },
+  {
+   "detail": "NCAA Montana State 77, Cal Poly 52",
+   "detected_at": "2026-11-16 06:24:03",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-15/Cal-Poly-at-Montana-State/539724"
+  },
+  {
+   "detail": "NCAA South Dakota 81, Doane College 57",
+   "detected_at": "2026-11-16 06:23:59",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-15/Doane-College-at-South-Dakota/544611"
+  },
+  {
+   "detail": "NCAA Loyola Marymount 86, Chicago State 49",
+   "detected_at": "2026-11-16 06:23:55",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-15/Chicago-State-at-Loyola-Marymount/537994"
+  },
+  {
+   "detail": "NCAA Tennessee Tech 101, Wright State Lake 34",
+   "detected_at": "2026-11-16 06:23:50",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-15/Wright-State-Lake-at-Tennessee-Tech-/543312"
+  },
+  {
+   "detail": "NCAA Robert Morris 94, Capital University OH 45",
+   "detected_at": "2026-11-16 06:23:46",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-15/Capital-University-OH-at-Robert-Morris/544447"
+  },
+  {
+   "detail": "NCAA Georgia State 78, Norfolk State 53",
+   "detected_at": "2026-11-16 06:23:42",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-15/Norfolk-State-at-Georgia-State/542985"
+  },
+  {
+   "detail": "NCAA Central Connecticut State 72, Quinnipiac 67",
+   "detected_at": "2026-11-16 06:23:38",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-15/Quinnipiac-at-Central-Connecticut-State/542518"
+  },
+  {
+   "detail": "NCAA Texas State 87, Texas San Antonio 67",
+   "detected_at": "2026-11-16 06:23:35",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-15/Texas-State-at-Texas-San-Antonio/544445"
+  },
+  {
+   "detail": "NCAA Wisconsin 89, Coastal Carolina 81",
+   "detected_at": "2026-11-16 06:23:31",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-15/Coastal-Carolina-at-Wisconsin/540049"
+  },
+  {
+   "detail": "NCAA Buffalo 79, Canisius 55",
+   "detected_at": "2026-11-16 06:23:27",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-15/Canisius-at-Buffalo/532132"
+  },
+  {
+   "detail": "NCAA Western Michigan 80, Southern Indiana 59",
+   "detected_at": "2026-11-16 06:23:23",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-15/Western-Michigan-at-Southern-Indiana/542152"
+  },
+  {
+   "detail": "NCAA Penn State 86, New Haven 52",
+   "detected_at": "2026-11-16 06:23:19",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-15/New-Haven-at-Penn-State/537824"
+  },
+  {
+   "detail": "NCAA San Diego State 73, New Mexico State 61",
+   "detected_at": "2026-11-16 06:23:15",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-15/San-Diego-State-at-New-Mexico-State/544446"
+  },
+  {
+   "detail": "NCAA UC Santa Barbara 97, UC Merced 47",
+   "detected_at": "2026-11-16 06:23:11",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-15/UC-Merced-at-UC-Santa-Barbara/544335"
+  },
+  {
+   "detail": "NCAA James Madison 80, Mercyhurst 71",
+   "detected_at": "2026-11-16 06:23:06",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-15/Mercyhurst-at-James-Madison/539321"
+  },
+  {
+   "detail": "NCAA Seattle 77, Idaho State 70",
+   "detected_at": "2026-11-16 06:23:01",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-15/Idaho-State-at-Seattle/537993"
+  },
+  {
+   "detail": "NCAA Pacific 93, Air Force 69",
+   "detected_at": "2026-11-16 06:22:57",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-15/Air-Force-at-Pacific/532494"
+  },
+  {
+   "detail": "NCAA Fort Wayne 86, Eastern Illinois 74",
+   "detected_at": "2026-11-16 06:22:53",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-15/Fort-Wayne-at-Eastern-Illinois/542989"
+  },
+  {
+   "detail": "NCAA Cleveland State 74, Alabama AM 73",
+   "detected_at": "2026-11-16 06:22:49",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-15/Cleveland-State-at-Alabama-AM-/540048"
+  },
+  {
+   "detail": "NCAA Temple 84, La Salle 71",
+   "detected_at": "2026-11-16 06:22:45",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-15/Temple-at-La-Salle/542986"
+  },
+  {
+   "detail": "NCAA Charleston 90, South Carolina State 66",
+   "detected_at": "2026-11-16 06:22:41",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-15/South-Carolina-State-at-Charleston/542984"
+  },
+  {
+   "detail": "NCAA Yale 103, Emmanuel MA 58",
+   "detected_at": "2026-11-16 06:22:37",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-15/Emmanuel-MA-at-Yale/542519"
+  },
+  {
+   "detail": "NCAA Albany 62, Holy Cross 60",
+   "detected_at": "2026-11-16 06:22:33",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-15/Albany-at-Holy-Cross/540047"
+  },
+  {
+   "detail": "NCAA Rhode Island 79, Princeton 72",
+   "detected_at": "2026-11-16 06:22:29",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-15/Princeton-at-Rhode-Island/539723"
+  },
+  {
+   "detail": "NCAA Cal State Bakersfield 73, North Dakota State 69",
+   "detected_at": "2026-11-16 06:22:25",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-15/Cal-State-Bakersfield-at-North-Dakota-State/539722"
+  },
+  {
+   "detail": "NCAA Boston College 67, New Hampshire 55",
+   "detected_at": "2026-11-16 06:22:20",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-15/New-Hampshire-at-Boston-College/530462"
+  },
+  {
+   "detail": "NCAA Delaware 64, Colgate 58",
+   "detected_at": "2026-11-16 06:22:16",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-15/Colgate-at-Delaware/540051"
+  },
+  {
+   "detail": "NCAA Boston University 90, Dartmouth 75",
+   "detected_at": "2026-11-16 06:22:12",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-15/Dartmouth-at-Boston-University/539721"
+  },
+  {
+   "detail": "NCAA American University 70, Harvard 64",
+   "detected_at": "2026-11-16 06:22:08",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-15/Harvard-at-American-University/533624"
+  },
+  {
+   "detail": "NCAA Florida Gulf Coast 99, Abraham Baldwin 31",
+   "detected_at": "2026-11-16 06:22:03",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-15/Abraham-Baldwin-at-Florida-Gulf-Coast/544688"
+  },
+  {
+   "detail": "NCAA Missouri 69, Marquette 64",
+   "detected_at": "2026-11-16 06:21:59",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-15/Missouri-at-Marquette/530463"
+  },
+  {
+   "detail": "NCAA Creighton 70, Iowa 69",
+   "detected_at": "2026-11-16 06:21:55",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-15/Iowa-at-Creighton/530464"
+  },
+  {
+   "detail": "NCAA Iowa State 66, Niagara 45",
+   "detected_at": "2026-11-16 06:21:51",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-15/Niagara-at-Iowa-State/530461"
+  },
+  {
+   "detail": "NCAA High Point 68, Saint Louis 58",
+   "detected_at": "2026-11-16 06:21:47",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-15/High-Point-at-Saint-Louis/532333"
+  },
+  {
+   "detail": "NCAA Nebraska 102, Boise State 75",
+   "detected_at": "2026-11-16 06:21:43",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-15/Boise-State-at-Nebraska/542982"
+  },
+  {
+   "detail": "NCAA USC 122, Arkansas Pine Bluff 46",
+   "detected_at": "2026-11-16 06:21:40",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-15/Arkansas-Pine-Bluff--at-USC/543728"
+  },
+  {
+   "detail": "NCAA Michigan 123, William Mary 79",
+   "detected_at": "2026-11-16 06:21:36",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-15/William-Mary-at-Michigan/538832"
+  },
+  {
+   "detail": "NCAA St Johns 79, Syracuse 62",
+   "detected_at": "2026-11-16 06:21:32",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-15/Syracuse-at-St-Johns/540050"
+  },
+  {
+   "detail": "NCAA Memphis 98, Louisville 78",
+   "detected_at": "2026-11-16 06:21:28",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-15/Louisville-at-Memphis/539085"
+  },
+  {
+   "detail": "NCAA Texas 75, Baylor 72",
+   "detected_at": "2026-11-16 06:21:24",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-15/Baylor-at-Texas/528967"
+  },
+  {
+   "detail": "Hungarian NBIA SZTE Szedeak 84, NKA Universitas Pecs 78",
+   "detected_at": "2026-11-16 06:21:03",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-14/NKA-Universitas-Pecs-at-SZTE-Szedeak/535423"
+  },
+  {
+   "detail": "Hungarian NBIA KTE Duna Aszfalt 84, Oroszlanyi Sporteglet E Lions 76",
+   "detected_at": "2026-11-16 06:20:59",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-14/KTE-Duna-Aszfalt-at-Oroszlanyi-Sporteglet-E-Lions/535422"
+  },
+  {
+   "detail": "Hungarian NBIA + Luka Mitrovic → KTE Duna Aszfalt",
+   "detected_at": "2026-11-16 06:20:58",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Hungarian NBIA Egis Kormend 108, Phoenix MT Fot 96",
+   "detected_at": "2026-11-16 06:20:55",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-14/Egis-Kormend-at-Phoenix-MT-Fot/535421"
+  },
+  {
+   "detail": "Hungarian NBIA Sopron KC 119, Kometa KVGY Kaposvari KK 112",
+   "detected_at": "2026-11-16 06:20:51",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-14/Sopron-KC-at-Kometa-KVGY-Kaposvari-KK/535419"
+  },
+  {
+   "detail": "Hungarian NBIA Atomeromu SE 102, Alba Fehervar 91",
+   "detected_at": "2026-11-16 06:20:47",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-14/Alba-Fehervar-at-Atomeromu-SE/535418"
+  },
+  {
+   "detail": "Hungarian NBIA Budapesti Honved Se 96, Falco Vulcano Energia KC Szombathely 87",
+   "detected_at": "2026-11-16 06:20:43",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-14/Falco-Vulcano-Energia-KC-Szombathely-at-Budapesti-Honved-Se/535417"
+  },
+  {
+   "detail": "Polish OBL WKS Slask Wroclaw 91, Zastal Zielona Gora 85",
+   "detected_at": "2026-11-16 06:20:39",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-14/Zastal-Zielona-Gora-at-WKS-Slask-Wroclaw/531894"
+  },
+  {
+   "detail": "Polish OBL + Anthony Lewis → Zastal Zielona Gora",
+   "detected_at": "2026-11-16 06:20:37",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Serbian KLS KK Sloga 102, OKK Beograd 87",
+   "detected_at": "2026-11-16 06:20:34",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-14/OKK-Beograd-at-KK-Sloga/545565"
+  },
+  {
+   "detail": "Serbian KLS ~ MOVED Strahinja Jovanovic → OKK Beograd (from SCM Mozzart Bet Timisoara)",
+   "detected_at": "2026-11-16 06:20:33",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Serbian KLS + Aleksandar Vilotic → OKK Beograd",
+   "detected_at": "2026-11-16 06:20:33",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Serbian KLS + Viktor Markovic → OKK Beograd",
+   "detected_at": "2026-11-16 06:20:33",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Serbian KLS ~ MOVED Aleksej Ivkovic → OKK Beograd (from KK Dynamic)",
+   "detected_at": "2026-11-16 06:20:33",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Serbian KLS + Veljko Krstic → OKK Beograd",
+   "detected_at": "2026-11-16 06:20:33",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite Chalon Sur Saone 97, Boulazac Basket Dordogne 74",
+   "detected_at": "2026-11-16 06:20:30",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-14/Boulazac-Basket-Dordogne-at-Chalon-Sur-Saone/538619"
+  },
+  {
+   "detail": "French Jeep Elite ~ MOVED Matthew-Alexander Moncrieffe → Boulazac Basket Dordogne (from Brampton Honey Badgers)",
+   "detected_at": "2026-11-16 06:20:29",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite ~ RETURN Riley Zizi → Chalon Sur Saone (from Espoirs Chalon Saone)",
+   "detected_at": "2026-11-16 06:20:29",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "Macedonian Superleague TFT Skopje 88, Kozuv Gevgelija 86",
+   "detected_at": "2026-11-16 06:20:26",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-14/TFT-Skopje-at-Kozuv-Gevgelija/543393"
+  },
+  {
+   "detail": "Macedonian Superleague + Paolo Blazevski → Kozuv Gevgelija",
+   "detected_at": "2026-11-16 06:20:25",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian NKL Marijampole Suduva Arvi 93, Lietuvos Rytas II 79",
+   "detected_at": "2026-11-16 06:20:23",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-14/Marijampole-Suduva-Arvi-at-Lietuvos-Rytas-II/546128"
+  },
+  {
+   "detail": "Lithuanian NKL + Justas Boruta → Marijampole Suduva Arvi",
+   "detected_at": "2026-11-16 06:20:21",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian NKL ~ RETURN Kornelijus Snitka → Lietuvos Rytas II (from Lietuvos Rytas)",
+   "detected_at": "2026-11-16 06:20:21",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "Norwegian BLNO Nidaros Jets 117, TNT Towers 92",
+   "detected_at": "2026-11-16 06:20:19",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-14/Nidaros-Jets-at-TNT-Towers/530298"
+  },
+  {
+   "detail": "Norwegian BLNO + Kyllian-Nicolas Pellet → TNT Towers",
+   "detected_at": "2026-11-16 06:20:17",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Romanian Divizia A CS Municipal Ploiesti 86, CSM Phoenix Galati 81",
+   "detected_at": "2026-11-16 06:20:15",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-14/CSM-Phoenix-Galati-at-CS-Municipal-Ploiesti/539014"
+  },
+  {
+   "detail": "Romanian Divizia A + Alexandru Iambu → CS Municipal Ploiesti",
+   "detected_at": "2026-11-16 06:20:13",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL Ormanspor Genc Ankara 79, Aykon TED Kolejliler Ankara 59",
+   "detected_at": "2026-11-16 06:20:10",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-14/Aykon-TED-Kolejliler-Ankara-at-Ormanspor-Genc-Ankara/534809"
+  },
+  {
+   "detail": "Turkish TBL ~ MOVED Ricky Tarrant → Aykon TED Kolejliler Ankara (from Vellaznimi Gjakove)",
+   "detected_at": "2026-11-16 06:20:09",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL ~ MOVED Arca Tuluoglu → Ormanspor Genc Ankara (from Mersin BSB)",
+   "detected_at": "2026-11-16 06:20:09",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL Darussafaka Basketbol Istanbul 94, Ankaragucu Mamak 88",
+   "detected_at": "2026-11-16 06:20:06",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-14/Darussafaka-Basketbol-Istanbul-at-Ankaragucu-Mamak/534808"
+  },
+  {
+   "detail": "Turkish TBL ~ MOVED Mevlut Melih Dogan → Ankaragucu Mamak (from Royal Hali Gaziantep)",
+   "detected_at": "2026-11-16 06:20:03",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL ~ MOVED Emirali Gokturk → Ankaragucu Mamak (from Balikesir Buyuksehir Belediysepor)",
+   "detected_at": "2026-11-16 06:20:03",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL Demir Insaat Buyukcekmece 93, Balikesir Buyuksehir Belediysepor 77",
+   "detected_at": "2026-11-16 06:19:59",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-14/Balikesir-Buyuksehir-Belediysepor-at-Demir-Insaat-Buyukcekmece/534803"
+  },
+  {
+   "detail": "Turkish TBL + Berkay Bayar → Balikesir Buyuksehir Belediysepor",
+   "detected_at": "2026-11-16 06:19:58",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Tevfik Akdamar → Demir Insaat Buyukcekmece",
+   "detected_at": "2026-11-16 06:19:58",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Cypriot Division A Apollon Limassol BC 66, Michelin Etha Engomis 51",
+   "detected_at": "2026-11-16 06:19:55",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-14/Michelin-Etha-Engomis-at-Apollon-Limassol-BC/542069"
+  },
+  {
+   "detail": "Cypriot Division A + Constantinos Gkinis → Michelin Etha Engomis",
+   "detected_at": "2026-11-16 06:19:53",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Cypriot Division A + Pavlos Shermazanian → Michelin Etha Engomis",
+   "detected_at": "2026-11-16 06:19:53",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Cypriot Division A + Askan Hoseini → Apollon Limassol BC",
+   "detected_at": "2026-11-16 06:19:53",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish BSL Socar Petkimspor 88, Turk Telekom 84",
+   "detected_at": "2026-11-16 06:19:51",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-14/Turk-Telekom-at-Socar-Petkimspor/542220"
+  },
+  {
+   "detail": "Turkish BSL + Ata Vatansever → Turk Telekom",
+   "detected_at": "2026-11-16 06:19:49",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL Goztepe 87, Cedi Osman Spor Kulubu 56",
+   "detected_at": "2026-11-16 06:19:46",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-14/Cedi-Osman-Spor-Kulubu-at-Goztepe/534802"
+  },
+  {
+   "detail": "Turkish TBL + Berk Guner → Cedi Osman Spor Kulubu",
+   "detected_at": "2026-11-16 06:19:45",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Cuneyt Gumus → Cedi Osman Spor Kulubu",
+   "detected_at": "2026-11-16 06:19:45",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL ~ MOVED Kaan Sariaslan → Goztepe (from Mersin BSB)",
+   "detected_at": "2026-11-16 06:19:45",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL ~ MOVED DeAndre Pinckney → Goztepe (from AEK Athens)",
+   "detected_at": "2026-11-16 06:19:45",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Finnish Korisliiga Kauhajoki Karhu 77, Pyrinto Tampere 72",
+   "detected_at": "2026-11-16 06:19:42",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-14/Pyrinto-Tampere-at-Kauhajoki-Karhu/536906"
+  },
+  {
+   "detail": "Finnish Korisliiga + Eetu Honkaniemi → Pyrinto Tampere",
+   "detected_at": "2026-11-16 06:19:41",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Finnish Korisliiga Joensuun Kataja 92, KTP Basket 55",
+   "detected_at": "2026-11-16 06:19:38",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-14/KTP-Basket-at-Joensuun-Kataja/536904"
+  },
+  {
+   "detail": "Finnish Korisliiga + Herman Pettersson → KTP Basket",
+   "detected_at": "2026-11-16 06:19:37",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Finnish Korisliiga + Antti Kanervo → Joensuun Kataja",
+   "detected_at": "2026-11-16 06:19:37",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish Liga U Real Madrid Liga U 99, Valencia Liga U 75",
+   "detected_at": "2026-11-16 06:19:34",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-14/Real-Madrid-Liga-U-at-Valencia-Liga-U/541970"
+  },
+  {
+   "detail": "Spanish Liga U ~ RETURN Pablo Mera → Real Madrid Liga U (from Real Madrid)",
+   "detected_at": "2026-11-16 06:19:33",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "Spanish Liga U + Lucas Manzanera → Valencia Liga U",
+   "detected_at": "2026-11-16 06:19:33",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish Segunda FEB CB Prat 87, Amics Castello 73",
+   "detected_at": "2026-11-16 06:19:30",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-14/CB-Prat-at-Amics-Castello/527804"
+  },
+  {
+   "detail": "Spanish Segunda FEB + Robert Cosialls → CB Prat",
+   "detected_at": "2026-11-16 06:19:29",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish Segunda FEB + Ricardo Wright → Amics Castello",
+   "detected_at": "2026-11-16 06:19:29",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "South Korean KBL Jeonju KCC Egis 80, Korea Gas Corporation 77",
+   "detected_at": "2026-11-16 06:19:24",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Korea-Gas-Corporation-at-Jeonju-KCC-Egis/531804"
+  },
+  {
+   "detail": "South Korean KBL Goyang Sono Skygunners 89, Wonju Dongbu Promy 83",
+   "detected_at": "2026-11-16 06:19:20",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Wonju-Dongbu-Promy-at-Goyang-Sono-Skygunners/531802"
+  },
+  {
+   "detail": "South Korean KBL Changwon LG Sakers 83, Suwon KT Sonicboom 81",
+   "detected_at": "2026-11-16 06:19:16",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Suwon-KT-Sonicboom-at-Changwon-LG-Sakers/531801"
+  },
+  {
+   "detail": "Argentinian Liga A San Martin Corrientes 86, Quimsa 81",
+   "detected_at": "2026-11-16 06:19:12",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Quimsa-at-San-Martin-Corrientes/544951"
+  },
+  {
+   "detail": "Argentinian Liga A La Union de Formosa 76, Asociacion Deportiva Atenas 69",
+   "detected_at": "2026-11-16 06:19:08",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Asociacion-Deportiva-Atenas-at-La-Union-de-Formosa/544950"
+  },
+  {
+   "detail": "Spanish Segunda FEB Melilla Ciudad Del Deporte 83, Spanish Basketball Academy 66",
+   "detected_at": "2026-11-16 06:19:03",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Melilla-Ciudad-Del-Deporte-at-Spanish-Basketball-Academy/527629"
+  },
+  {
+   "detail": "Spanish Segunda FEB ~ MOVED Guillem Vazquez Vallejo → Melilla Ciudad Del Deporte (from Intermaquinas Benicarlo)",
+   "detected_at": "2026-11-16 06:19:02",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Adriatic League Liga ABA KK Crvena Zvezda 94, KK Cedevita Olimpija Ljubljana 83",
+   "detected_at": "2026-11-16 06:18:59",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/KK-Cedevita-Olimpija-Ljubljana-at-KK-Crvena-Zvezda/537383"
+  },
+  {
+   "detail": "Kosovo FBK KB Trepca Mitrovice 85, KB Peja 83",
+   "detected_at": "2026-11-16 06:18:56",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/KB-Trepca-Mitrovice-at-KB-Peja/535919"
+  },
+  {
+   "detail": "Kosovo FBK ~ MOVED Jack Hemphill → KB Peja (from Torku Konyaspor)",
+   "detected_at": "2026-11-16 06:18:54",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Kosovo FBK KB Bashkimi Prizren 108, KB Rahoveci 65",
+   "detected_at": "2026-11-16 06:18:52",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/KB-Rahoveci-at-KB-Bashkimi-Prizren/535922"
+  },
+  {
+   "detail": "Kosovo FBK + Neron Sylka → KB Rahoveci",
+   "detected_at": "2026-11-16 06:18:50",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Kosovo FBK + Elber Kerek → KB Bashkimi Prizren",
+   "detected_at": "2026-11-16 06:18:50",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Israeli BSL Maccabi Ashdod 89, Elitzur Kiryat Ata 74",
+   "detected_at": "2026-11-16 06:18:48",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Maccabi-Ashdod-at-Elitzur-Kiryat-Ata/536930"
+  },
+  {
+   "detail": "Israeli BSL ~ MOVED Joirdon Nicholas → Maccabi Ashdod (from ASP Promitheas Patras)",
+   "detected_at": "2026-11-16 06:18:47",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Israeli BSL Ironi Nes Ziona 90, Ironi Ramat Gan 74",
+   "detected_at": "2026-11-16 06:18:44",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Ironi-Nes-Ziona-at-Ironi-Ramat-Gan/536932"
+  },
+  {
+   "detail": "Israeli BSL ~ RETURN Jacob Wiley → Ironi Nes Ziona (from Kedainiai Nevezis)",
+   "detected_at": "2026-11-16 06:18:43",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "Adriatic League Liga ABA KK Bosna 85, KK Mega Bemax 77",
+   "detected_at": "2026-11-16 06:18:40",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/KK-Mega-Bemax-at-KK-Bosna/537385"
+  },
+  {
+   "detail": "Adriatic League Liga ABA Dubai 93, KK Spartak Subotica 75",
+   "detected_at": "2026-11-16 06:18:36",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/KK-Spartak-Subotica-at-Dubai/537384"
+  },
+  {
+   "detail": "Spanish ACB Real Madrid 98, Baskonia 84",
+   "detected_at": "2026-11-16 06:18:32",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Real-Madrid-at-Baskonia/533481"
+  },
+  {
+   "detail": "Spanish ACB ~ MOVED Rolands Smits → Baskonia (from Ningbo Rockets)",
+   "detected_at": "2026-11-16 06:18:30",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB ~ MOVED Kenan Kamenjas → Baskonia (from Dubai)",
+   "detected_at": "2026-11-16 06:18:30",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Polish OBL Enea Abramczyk Astoria Bydgoszcz 91, Gornik Zamek Ksiaz Walbrzych 87",
+   "detected_at": "2026-11-16 06:18:28",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Gornik-Zamek-Ksiaz-Walbrzych-at-Enea-Abramczyk-Astoria-Bydgoszcz/531896"
+  },
+  {
+   "detail": "Polish OBL ~ MOVED Hugo Toom → Enea Abramczyk Astoria Bydgoszcz (from BC Kalev Cramo)",
+   "detected_at": "2026-11-16 06:18:26",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB UCAM Murcia CB 84, Bilbao Basket 76",
+   "detected_at": "2026-11-16 06:18:24",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/UCAM-Murcia-CB-at-Bilbao-Basket/533480"
+  },
+  {
+   "detail": "Spanish ACB Barca 108, Monbus Obradoiro 83",
+   "detected_at": "2026-11-16 06:18:19",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Monbus-Obradoiro-at-Barca/533479"
+  },
+  {
+   "detail": "Spanish ACB ~ MOVED Abdrahamane Kone → Barca (from Barca Liga U)",
+   "detected_at": "2026-11-16 06:18:18",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB Unicaja 82, CB Girona 70",
+   "detected_at": "2026-11-16 06:18:15",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/CB-Girona-at-Unicaja/533478"
+  },
+  {
+   "detail": "Spanish ACB Valencia Basket 111, CB Coruna 97",
+   "detected_at": "2026-11-16 06:18:11",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/CB-Coruna-at-Valencia-Basket/533477"
+  },
+  {
+   "detail": "Spanish ACB + Eric del Castillo Lindo → CB Coruna",
+   "detected_at": "2026-11-16 06:18:10",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish ACB BAXI Manresa 98, Forca Lleida CE 92",
+   "detected_at": "2026-11-16 06:18:07",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/BAXI-Manresa-at-Forca-Lleida-CE/533476"
+  },
+  {
+   "detail": "Swiss LNA BBC Lausanne 89, Union Neuchatel Basket 74",
+   "detected_at": "2026-11-16 06:18:03",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Union-Neuchatel-Basket-at-BBC-Lausanne/534221"
+  },
+  {
+   "detail": "Swiss LNA + Ryan Muhr → BBC Lausanne",
+   "detected_at": "2026-11-16 06:18:02",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Swiss LNA Lugano Tigers 77, Starwings Basket Regio Basel 69",
+   "detected_at": "2026-11-16 06:17:59",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Starwings-Basket-Regio-Basel-at-Lugano-Tigers/534222"
+  },
+  {
+   "detail": "VTB United League Zenit Saint Petersburg 93, Parma Basket Perm 71",
+   "detected_at": "2026-11-16 06:17:55",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Zenit-Saint-Petersburg-at-Parma-Basket-Perm/533326"
+  },
+  {
+   "detail": "VTB United League ~ RETURN Dmitry Chikishev → Zenit Saint Petersburg (from Zenit 2)",
+   "detected_at": "2026-11-16 06:17:53",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "VTB United League ~ RETURN Grigory Golovchenko → Parma Basket Perm (from Parma 2)",
+   "detected_at": "2026-11-16 06:17:53",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "Hungarian NBIA NHSZ Szolnoki Olajbanyasz 96, DEAC 87",
+   "detected_at": "2026-11-16 06:17:50",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/DEAC-at-NHSZ-Szolnoki-Olajbanyasz/535420"
+  },
+  {
+   "detail": "Polish OBL Dziki Warszawa 73, Stal Ostrow Wielkopolski 59",
+   "detected_at": "2026-11-16 06:17:46",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Dziki-Warszawa-at-Stal-Ostrow-Wielkopolski/531898"
+  },
+  {
+   "detail": "Polish OBL + Szymon Soszynski → Stal Ostrow Wielkopolski",
+   "detected_at": "2026-11-16 06:17:45",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite Le Mans Sarthe Basket 109, ASVEL Basket 93",
+   "detected_at": "2026-11-16 06:17:43",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/ASVEL-Basket-at-Le-Mans-Sarthe-Basket/538622"
+  },
+  {
+   "detail": "French Jeep Elite ~ MOVED Yohan Bassoumba → ASVEL Basket (from Espoirs Asvel)",
+   "detected_at": "2026-11-16 06:17:41",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "French Jeep Elite ~ RETURN Madiba Diaby-Cisse → Le Mans Sarthe Basket (from Espoirs Le Mans)",
+   "detected_at": "2026-11-16 06:17:41",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "Basketball Africa League - Qualification Al Ittihad Alexandria 92, JCA Abidjan BC 80",
+   "detected_at": "2026-11-16 06:17:39",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Al-Ittihad-Alexandria-at-JCA-Abidjan-BC/546443"
+  },
+  {
+   "detail": "Italian Lega Basket Serie A Virtus Bologna 88, Dolomiti Energia Trento 75",
+   "detected_at": "2026-11-16 06:17:30",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Virtus-Bologna-at-Dolomiti-Energia-Trento/529614"
+  },
+  {
+   "detail": "Italian Lega Basket Serie A + Marco Milazzo → Virtus Bologna",
+   "detected_at": "2026-11-16 06:17:29",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Italian Lega Basket Serie A AX Armani Exchange Milan 83, Old Wild West Udine 70",
+   "detected_at": "2026-11-16 06:17:26",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/AX-Armani-Exchange-Milan-at-Old-Wild-West-Udine/529613"
+  },
+  {
+   "detail": "Italian Lega Basket Serie A + Igor Stjepanovic → Old Wild West Udine",
+   "detected_at": "2026-11-16 06:17:25",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Italian Lega Basket Serie A Bertram Tortona 106, Acqua San Bernardo Cantu 92",
+   "detected_at": "2026-11-16 06:17:22",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Bertram-Tortona-at-Acqua-San-Bernardo-Cantu/529612"
+  },
+  {
+   "detail": "Italian Lega Basket Serie A ~ MOVED Erick Green → Acqua San Bernardo Cantu (from Umana Venezia)",
+   "detected_at": "2026-11-16 06:17:21",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Italian Lega Basket Serie A Umana Venezia 88, Maxima Roma 81",
+   "detected_at": "2026-11-16 06:17:18",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Maxima-Roma-at-Umana-Venezia/529611"
+  },
+  {
+   "detail": "Italian Lega Basket Serie A + Sir'Jabari Rice → Umana Venezia",
+   "detected_at": "2026-11-16 06:17:17",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Italian Lega Basket Serie A Universo DeLonghi Treviso 91, Givova Scafati 81",
+   "detected_at": "2026-11-16 06:17:14",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Givova-Scafati-at-Universo-DeLonghi-Treviso/529615"
+  },
+  {
+   "detail": "Serbian KLS KK Mladost Admiral Zemun 95, KK Tamis 71",
+   "detected_at": "2026-11-16 06:17:10",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/KK-Mladost-Admiral-Zemun-at-KK-Tamis/545563"
+  },
+  {
+   "detail": "Serbian KLS KK Hercegovac Gajdobra 86, Zlatibor Cajetina 84",
+   "detected_at": "2026-11-16 06:17:06",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Zlatibor-Cajetina-at-KK-Hercegovac-Gajdobra/545566"
+  },
+  {
+   "detail": "Montenegrin Prva A Liga KK Lovcen Cetinje 99, Decic 69",
+   "detected_at": "2026-11-16 06:17:02",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Decic-at-KK-Lovcen-Cetinje/546034"
+  },
+  {
+   "detail": "Montenegrin Prva A Liga + Ahmed Pepic → Decic",
+   "detected_at": "2026-11-16 06:17:00",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Montenegrin Prva A Liga + Matija Spicanovic → Decic",
+   "detected_at": "2026-11-16 06:17:00",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Montenegrin Prva A Liga + Emanuel Ljucovic → Decic",
+   "detected_at": "2026-11-16 06:17:00",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "German Pro B SC Itzehoe Eagles 100, TSV Neustadt Temps Shooters 91",
+   "detected_at": "2026-11-16 06:16:58",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/TSV-Neustadt-Temps-Shooters-at-SC-Itzehoe-Eagles/525559"
+  },
+  {
+   "detail": "Italian Lega Basket Serie A Napoli Basket 90, Pallacanestro Trieste 2004 89",
+   "detected_at": "2026-11-16 06:16:54",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Pallacanestro-Trieste-2004-at-Napoli-Basket/529618"
+  },
+  {
+   "detail": "Croatian A-1 Liga KK Alkar 81, KK Kvarner 2010 78",
+   "detected_at": "2026-11-16 06:16:50",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/KK-Alkar-at-KK-Kvarner-2010/539576"
+  },
+  {
+   "detail": "Croatian A-1 Liga KK Zadar 95, KK Dubrava Zagreb 60",
+   "detected_at": "2026-11-16 06:16:46",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/KK-Zadar-at-KK-Dubrava-Zagreb/539577"
+  },
+  {
+   "detail": "Croatian A-1 Liga + Marin Gerovac → KK Dubrava Zagreb",
+   "detected_at": "2026-11-16 06:16:44",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Bosnian BiH Liga SL Takovo Leotar 74, KK Mladost 71",
+   "detected_at": "2026-11-16 06:16:41",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/SL-Takovo-Leotar-at-KK-Mladost/540955"
+  },
+  {
+   "detail": "Bosnian BiH Liga + Aidan Lambert → KK Mladost",
+   "detected_at": "2026-11-16 06:16:39",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Bosnian BiH Liga + Dallas Graziani → KK Mladost",
+   "detected_at": "2026-11-16 06:16:39",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Italian Serie A2 Basket Reale Mutua Torino 74, Crifo Wines Ruvo di Puglia 70",
+   "detected_at": "2026-11-16 06:16:36",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Reale-Mutua-Torino-at-Crifo-Wines-Ruvo-di-Puglia/529881"
+  },
+  {
+   "detail": "Italian Serie A2 Basket Fortituto Kontatto Bologna 89, Zeus Energy Group Rieti 78",
+   "detected_at": "2026-11-16 06:16:32",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Zeus-Energy-Group-Rieti-at-Fortituto-Kontatto-Bologna/529880"
+  },
+  {
+   "detail": "Italian Serie A2 Basket ~ RETURN Simon Anumba → Fortituto Kontatto Bologna (from UEB Gesteco Cividale)",
+   "detected_at": "2026-11-16 06:16:30",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "Spanish Segunda FEB Clinica Ponferrada SDP 106, Jaen Paraiso Interior CB 77",
+   "detected_at": "2026-11-16 06:16:28",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Jaen-Paraiso-Interior-CB-at-Clinica-Ponferrada-SDP/527626"
+  },
+  {
+   "detail": "Turkish TBL Torku Konyaspor 105, Fenerbache Koleji 2nd Team 100",
+   "detected_at": "2026-11-16 06:16:24",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Fenerbache-Koleji-2nd-Team-at-Torku-Konyaspor/534807"
+  },
+  {
+   "detail": "Turkish TBL + Ali Karagulle Sedat → Torku Konyaspor",
+   "detected_at": "2026-11-16 06:16:22",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Norwegian BLNO Froya Basket 92, Centrum Tigers 67",
+   "detected_at": "2026-11-16 06:16:19",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Centrum-Tigers-at-Froya-Basket/530299"
+  },
+  {
+   "detail": "Norwegian BLNO Baerum Basket 107, Nidaros Jets 76",
+   "detected_at": "2026-11-16 06:16:15",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Nidaros-Jets-at-Baerum-Basket/530300"
+  },
+  {
+   "detail": "Norwegian BLNO + Kian Saethre → Baerum Basket",
+   "detected_at": "2026-11-16 06:16:14",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Norwegian BLNO + Nathaniel Selfors → Baerum Basket",
+   "detected_at": "2026-11-16 06:16:14",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Romanian Divizia A CS Valcea 1924 76, CS Dinamo Bucuresti 68",
+   "detected_at": "2026-11-16 06:16:11",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/CS-Valcea-1924-at-CS-Dinamo-Bucuresti/539013"
+  },
+  {
+   "detail": "Romanian Divizia A CS Rapid Bucuresti 109, SCM CSU Craiova 104",
+   "detected_at": "2026-11-16 06:16:07",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/SCM-CSU-Craiova-at-CS-Rapid-Bucuresti/539015"
+  },
+  {
+   "detail": "Cypriot Division A Frederick Achilleas Kaimakliou 82, Morphou 77",
+   "detected_at": "2026-11-16 06:16:03",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Morphou-at-Frederick-Achilleas-Kaimakliou/542066"
+  },
+  {
+   "detail": "Turkish BSL Bahcesehir Koleji 93, Esenler Erokspor 57",
+   "detected_at": "2026-11-16 06:15:59",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Bahcesehir-Koleji-at-Esenler-Erokspor/542218"
+  },
+  {
+   "detail": "Turkish BSL Fenerbahce Beko 77, Anadolu Efes 75",
+   "detected_at": "2026-11-16 06:15:55",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Anadolu-Efes-at-Fenerbahce-Beko/542222"
+  },
+  {
+   "detail": "Turkish BSL Merkezefendi Belediyesi Denizli Basket 101, Cayirova 98",
+   "detected_at": "2026-11-16 06:15:51",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Cayirova-at-Merkezefendi-Belediyesi-Denizli-Basket/542223"
+  },
+  {
+   "detail": "Turkish BSL ~ MOVED Isaiah Miles → Merkezefendi Belediyesi Denizli Basket (from Acqua San Bernardo Cantu)",
+   "detected_at": "2026-11-16 06:15:49",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish BSL Besiktas Icrypex 76, Bursaspor 71",
+   "detected_at": "2026-11-16 06:15:46",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Bursaspor-at-Besiktas-Icrypex/542225"
+  },
+  {
+   "detail": "Belarusian BPL Gomel Lynx Youth 107, Brest Region II 60",
+   "detected_at": "2026-11-16 06:15:42",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Gomel-Lynx-Youth-at-Brest-Region-II/544909"
+  },
+  {
+   "detail": "Belarusian BPL ~ RETURN Artem Pototsky → Gomel Lynx Youth (from GOCOR Soj Gomel)",
+   "detected_at": "2026-11-16 06:15:41",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "Belarusian BPL ~ RETURN Danil Kanishev → Gomel Lynx Youth (from GOCOR Soj Gomel)",
+   "detected_at": "2026-11-16 06:15:41",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "Belarusian BPL + Ivan Polyakov → Gomel Lynx Youth",
+   "detected_at": "2026-11-16 06:15:41",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Belarusian BPL + Torchilevskiy Vladislav → Gomel Lynx Youth",
+   "detected_at": "2026-11-16 06:15:41",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Belarusian BPL Tsmoki Minsk 2 85, RCOP SDUSHOR 41",
+   "detected_at": "2026-11-16 06:15:38",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Tsmoki-Minsk-2-at-RCOP-SDUSHOR/544908"
+  },
+  {
+   "detail": "Belarusian BPL ~ RETURN Egor Batvenkov → Tsmoki Minsk 2 (from Tsmoki Minsk III)",
+   "detected_at": "2026-11-16 06:15:36",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "Belarusian BPL ~ RETURN Matvey Yagutko → Tsmoki Minsk 2 (from Tsmoki Minsk III)",
+   "detected_at": "2026-11-16 06:15:36",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "Belarusian BPL ~ RETURN Oleg Saley → Tsmoki Minsk 2 (from Tsmoki Minsk III)",
+   "detected_at": "2026-11-16 06:15:36",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "Belarusian BPL ~ RETURN Nikita Leoshin → Tsmoki Minsk 2 (from Tsmoki Minsk III)",
+   "detected_at": "2026-11-16 06:15:36",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "Belarusian BPL ~ RETURN Artem Zhebrovsky → Tsmoki Minsk 2 (from Tsmoki Minsk III)",
+   "detected_at": "2026-11-16 06:15:36",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "Belarusian BPL + Nikita Kudryavtsev → Tsmoki Minsk 2",
+   "detected_at": "2026-11-16 06:15:36",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Belarusian BPL ~ RETURN Anton Poznyak → Tsmoki Minsk 2 (from Tsmoki Minsk III)",
+   "detected_at": "2026-11-16 06:15:36",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "Belarusian BPL ~ RETURN Nazar Zhdanyuk → Tsmoki Minsk 2 (from Tsmoki Minsk III)",
+   "detected_at": "2026-11-16 06:15:36",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "Belarusian BPL ~ RETURN Stanislav Kozel → Tsmoki Minsk 2 (from Tsmoki Minsk III)",
+   "detected_at": "2026-11-16 06:15:36",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "Belarusian BPL ~ MOVED Artem Smargun → Tsmoki Minsk 2 (from Tsmoki Minsk III)",
+   "detected_at": "2026-11-16 06:15:36",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Belarusian BPL ~ RETURN Mark Shulyak → Tsmoki Minsk 2 (from Tsmoki Minsk III)",
+   "detected_at": "2026-11-16 06:15:36",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "Romanian Divizia A CSM Steaua Bucuresti 82, FC Arges Pitesti 81",
+   "detected_at": "2026-11-16 06:15:33",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/FC-Arges-Pitesti-at-CSM-Steaua-Bucuresti/539009"
+  },
+  {
+   "detail": "Estonian-Latvian Basketball League TalTech ALEXELA 97, Keila Coolbet 56",
+   "detected_at": "2026-11-16 06:15:29",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/TalTech-ALEXELA-at-Keila-Coolbet/537103"
+  },
+  {
+   "detail": "Estonian-Latvian Basketball League Tartu Ulikool MaksMoorits 70, Parnu Sadam 67",
+   "detected_at": "2026-11-16 06:15:24",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Tartu-Ulikool-MaksMoorits-at-Parnu-Sadam/537102"
+  },
+  {
+   "detail": "Spanish Segunda FEB Culturaly Y Deportiva Leonesa 105, CB Algeciras 98",
+   "detected_at": "2026-11-16 06:15:20",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/CB-Algeciras-at-Culturaly-Y-Deportiva-Leonesa/527630"
+  },
+  {
+   "detail": "German Pro A VfL SparkassenStars Bochum 88, Artland Dragons 87",
+   "detected_at": "2026-11-16 06:15:14",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Artland-Dragons-at-VfL-SparkassenStars-Bochum/528160"
+  },
+  {
+   "detail": "German BBL BV Chemnitz 99 111, Basketball Lowen Braunschweig 79",
+   "detected_at": "2026-11-16 06:15:09",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Basketball-Lowen-Braunschweig-at-BV-Chemnitz-99/528686"
+  },
+  {
+   "detail": "German BBL + Eddy Edigin → Basketball Lowen Braunschweig",
+   "detected_at": "2026-11-16 06:15:08",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "German BBL ~ RETURN Noah Eklou → Basketball Lowen Braunschweig (from SG Braunschweig)",
+   "detected_at": "2026-11-16 06:15:08",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "German BBL + Alfons Milatz → BV Chemnitz 99",
+   "detected_at": "2026-11-16 06:15:08",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian LKL Lietuvos Rytas 96, Jonava Jonavos 79",
+   "detected_at": "2026-11-16 06:15:05",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Lietuvos-Rytas-at-Jonava-Jonavos/532745"
+  },
+  {
+   "detail": "Lithuanian LKL ~ RETURN Kornelijus Snitka → Lietuvos Rytas (from Lietuvos Rytas II)",
+   "detected_at": "2026-11-16 06:15:03",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "German Pro B WWU Baskets Muenster 90, Hertener Loewen Basketball 44",
+   "detected_at": "2026-11-16 06:14:59",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Hertener-Loewen-Basketball-at-WWU-Baskets-Muenster/525562"
+  },
+  {
+   "detail": "Spanish Primera FEB Palma Basquet Mallorca 80, Buenos Arenas Albacete Basket 74",
+   "detected_at": "2026-11-16 06:14:54",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Buenos-Arenas-Albacete-Basket-at-Palma-Basquet-Mallorca/532929"
+  },
+  {
+   "detail": "Spanish Segunda FEB Biele ISB 84, LogroBasket Logi7 77",
+   "detected_at": "2026-11-16 06:14:47",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/LogroBasket-Logi7-at-Biele-ISB/527805"
+  },
+  {
+   "detail": "German Pro A PS Karlsruhe Lions 79, Orange Academy Ratiopharm 69",
+   "detected_at": "2026-11-16 06:14:41",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Orange-Academy-Ratiopharm-at-PS-Karlsruhe-Lions/528159"
+  },
+  {
+   "detail": "German Pro B SV Fellbach 97, Bayer Giants Leverkusen 92",
+   "detected_at": "2026-11-16 06:14:33",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Bayer-Giants-Leverkusen-at-SV-Fellbach/525737"
+  },
+  {
+   "detail": "German Pro B Iserlohn Kangaroos 80, Art Giants Dusseldorf 75",
+   "detected_at": "2026-11-16 06:14:29",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Iserlohn-Kangaroos-at-Art-Giants-Dusseldorf/525561"
+  },
+  {
+   "detail": "German Pro B TSG Reutlingen Ravens 97, TSV Oberhaching Tropics 73",
+   "detected_at": "2026-11-16 06:14:25",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/TSV-Oberhaching-Tropics-at-TSG-Reutlingen-Ravens/525736"
+  },
+  {
+   "detail": "German Pro B SC Rist Wedel 78, Baskets Juniors TSG Westerstede 76",
+   "detected_at": "2026-11-16 06:14:21",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Baskets-Juniors-TSG-Westerstede-at-SC-Rist-Wedel/525558"
+  },
+  {
+   "detail": "German Pro B ~ RETURN Jamil Muttilib → SC Rist Wedel (from Veolia Towers Hamburg)",
+   "detected_at": "2026-11-16 06:14:20",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "Czech NBL Sokol Srsni Pisek 107, SLUNETA Usti nad Labem 98",
+   "detected_at": "2026-11-16 06:14:17",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/SLUNETA-Usti-nad-Labem-at-Sokol-Srsni-Pisek/527496"
+  },
+  {
+   "detail": "German Pro B SSV lok Bernau Alba 94, BSW Sixers 54",
+   "detected_at": "2026-11-16 06:14:13",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/BSW-Sixers-at-SSV-lok-Bernau-Alba/525557"
+  },
+  {
+   "detail": "Basketball Africa League - Qualification Stade Malien 82, Nadi Basket Staoueli 60",
+   "detected_at": "2026-11-16 06:14:09",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Stade-Malien-at-Nadi-Basket-Staoueli/546442"
+  },
+  {
+   "detail": "German Pro B BG Hagen 73, EN Baskets Schwelm 59",
+   "detected_at": "2026-11-16 06:14:05",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/EN-Baskets-Schwelm-at-BG-Hagen/525560"
+  },
+  {
+   "detail": "German Pro A Nurnberg Falcons BC 86, BBC Bayreuth 83",
+   "detected_at": "2026-11-16 06:14:00",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/BBC-Bayreuth-at-Nurnberg-Falcons-BC/528158"
+  },
+  {
+   "detail": "Super League Basketball Leicester Riders 91, Caledonia Gladiators 80",
+   "detected_at": "2026-11-16 06:13:56",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Leicester-Riders-at-Caledonia-Gladiators/535566"
+  },
+  {
+   "detail": "Super League Basketball Liverpool Basketball 81, Sheffield Sharks 68",
+   "detected_at": "2026-11-16 06:13:52",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Sheffield-Sharks-at-Liverpool-Basketball/535567"
+  },
+  {
+   "detail": "German BBL Bayern Munich 91, Mitteldeutscher BC 61",
+   "detected_at": "2026-11-16 06:13:48",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Mitteldeutscher-BC-at-Bayern-Munich/528685"
+  },
+  {
+   "detail": "German Pro B Porsche BBA 83, Ahorn Camp BIS Baskets Speyer 77",
+   "detected_at": "2026-11-16 06:13:44",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Porsche-BBA-at-Ahorn-Camp-BIS-Baskets-Speyer/525734"
+  },
+  {
+   "detail": "German Pro B ~ MOVED Julius Leander Baumer → Porsche BBA (from MHP Riesen)",
+   "detected_at": "2026-11-16 06:13:42",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "German Pro B BG Hessing Leitershofen 82, BBC Coburg 69",
+   "detected_at": "2026-11-16 06:13:40",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/BBC-Coburg-at-BG-Hessing-Leitershofen/525735"
+  },
+  {
+   "detail": "German Pro B ~ RETURN Jakob Lang → BBC Coburg (from Brose Baskets Bamberg)",
+   "detected_at": "2026-11-16 06:13:38",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "German Pro B SG Braunschweig 91, Seawolves Academy 75",
+   "detected_at": "2026-11-16 06:13:32",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/SG-Braunschweig-at-Seawolves-Academy/525556"
+  },
+  {
+   "detail": "Greek HEBA A1 Aris Midea Thessaloniki 100, Olympiacos 78",
+   "detected_at": "2026-11-16 06:13:28",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Olympiacos-at-Aris-Midea-Thessaloniki/544044"
+  },
+  {
+   "detail": "German Pro B Dragons Rhoendorf 85, TV 1862 Langen 74",
+   "detected_at": "2026-11-16 06:13:24",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/TV-1862-Langen-at-Dragons-Rhoendorf/525731"
+  },
+  {
+   "detail": "Super League Basketball Bristol Flyers 86, Manchester Basketball 84",
+   "detected_at": "2026-11-16 06:13:20",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Bristol-Flyers-at-Manchester-Basketball/535565"
+  },
+  {
+   "detail": "German Pro B Fraport Skyliners Juniors 64, CATL Basketball Lowen 56",
+   "detected_at": "2026-11-16 06:13:16",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/CATL-Basketball-Lowen-at-Fraport-Skyliners-Juniors/525732"
+  },
+  {
+   "detail": "German Pro B ~ RETURN Ivan Crnjac → Fraport Skyliners Juniors (from Fraport Skyliners)",
+   "detected_at": "2026-11-16 06:13:15",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "German Pro B ~ RETURN Jamie Edoka → Fraport Skyliners Juniors (from Fraport Skyliners)",
+   "detected_at": "2026-11-16 06:13:15",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "German Pro B Dresden Titans 82, Culture City Weimar 54",
+   "detected_at": "2026-11-16 06:13:12",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Culture-City-Weimar-at-Dresden-Titans/525733"
+  },
+  {
+   "detail": "German Pro B + Malte Silbermann → Culture City Weimar",
+   "detected_at": "2026-11-16 06:13:11",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "German Pro A ETB Miners Essen 66, Giessen 46ers 59",
+   "detected_at": "2026-11-16 06:13:08",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Giessen-46ers-at-ETB-Miners-Essen/528157"
+  },
+  {
+   "detail": "German Pro A Bozic Estriche Knights Kirchheim 74, Walter Tigers Tubingen 64",
+   "detected_at": "2026-11-16 06:13:04",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Bozic-Estriche-Knights-Kirchheim-at-Walter-Tigers-Tubingen/528156"
+  },
+  {
+   "detail": "Lithuanian LKL Zalgiris 87, Neptunas 82",
+   "detected_at": "2026-11-16 06:13:00",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Neptunas-at-Zalgiris/532744"
+  },
+  {
+   "detail": "Lithuanian LKL ~ RETURN Simas Sarakauskas → Neptunas (from Neptuans Akvaservis Klaipeda)",
+   "detected_at": "2026-11-16 06:12:59",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "Czech NBL SK Slavia Praha ERA NBK 97, USK Praha 71",
+   "detected_at": "2026-11-16 06:12:56",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/USK-Praha-at-SK-Slavia-Praha-ERA-NBK/527492"
+  },
+  {
+   "detail": "Czech NBL + Jakub Chaloupka → USK Praha",
+   "detected_at": "2026-11-16 06:12:55",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "German Pro A HAKRO Merlins Crailsheim 76, MLP Academics Heidelberg 70",
+   "detected_at": "2026-11-16 06:12:52",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/HAKRO-Merlins-Crailsheim-at-MLP-Academics-Heidelberg/528155"
+  },
+  {
+   "detail": "German Pro A BG Gottingen 82, Eisbaren Bremerhaven 71",
+   "detected_at": "2026-11-16 06:12:48",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/BG-Gottingen-at-Eisbaren-Bremerhaven/528154"
+  },
+  {
+   "detail": "Greek HEBA A1 Maroussi BC 104, Vikos Ioanninon 93",
+   "detected_at": "2026-11-16 06:12:44",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Maroussi-BC-at-Vikos-Ioanninon/544043"
+  },
+  {
+   "detail": "Greek HEBA A1 ~ MOVED Jarrod Uthoff → Maroussi BC (from Socar Petkimspor)",
+   "detected_at": "2026-11-16 06:12:43",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Georgian Super Liga Black Fortress Dinavia Tbilisi 94, Mega Tbilisi 81",
+   "detected_at": "2026-11-16 06:12:40",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Black-Fortress-Dinavia-Tbilisi-at-Mega-Tbilisi/544026"
+  },
+  {
+   "detail": "German BBL Rostock Seawolves 86, SC Rasta Vechta 75",
+   "detected_at": "2026-11-16 06:12:35",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/SC-Rasta-Vechta-at-Rostock-Seawolves/528684"
+  },
+  {
+   "detail": "German BBL Gladiators Trier 99, Fraport Skyliners 85",
+   "detected_at": "2026-11-16 06:12:31",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Gladiators-Trier-at-Fraport-Skyliners/528683"
+  },
+  {
+   "detail": "Greek HEBA A1 Panathinaikos 78, Kolossos Rodou BC 73",
+   "detected_at": "2026-11-16 06:12:25",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Kolossos-Rodou-BC-at-Panathinaikos/544041"
+  },
+  {
+   "detail": "Spanish Segunda FEB Intermaquinas Benicarlo 82, CB Zaragoza 75",
+   "detected_at": "2026-11-16 06:12:20",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Intermaquinas-Benicarlo-at-CB-Zaragoza/527803"
+  },
+  {
+   "detail": "Spanish Segunda FEB ~ MOVED Josep Gascon → Intermaquinas Benicarlo (from Amics Castello)",
+   "detected_at": "2026-11-16 06:12:19",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Greek HEBA A1 Peristeri Betsson 84, Mykonos 67",
+   "detected_at": "2026-11-16 06:12:16",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Mykonos-at-Peristeri-Betsson/544042"
+  },
+  {
+   "detail": "Japanese B.League Akita Northern Happinets 82, Osaka Evessa 76",
+   "detected_at": "2026-11-16 06:12:12",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Osaka-Evessa-at-Akita-Northern-Happinets/524856"
+  },
+  {
+   "detail": "Japanese B.League Levanga Hokkaido 107, Saga Ballooners 70",
+   "detected_at": "2026-11-16 06:12:08",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Saga-Ballooners-at-Levanga-Hokkaido/524855"
+  },
+  {
+   "detail": "Japanese B.League Shimane Susanoo Magic 83, Link Tochigi Brex 69",
+   "detected_at": "2026-11-16 06:12:03",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Link-Tochigi-Brex-at-Shimane-Susanoo-Magic/524854"
+  },
+  {
+   "detail": "Japanese B.League Hitachi Sun Rockers 105, Nagoya Diamond Dolphins 73",
+   "detected_at": "2026-11-16 06:11:59",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Hitachi-Sun-Rockers-at-Nagoya-Diamond-Dolphins/524858"
+  },
+  {
    "detail": "2026-11-15  Waived: Russel Tchewa (Bulls)",
    "detected_at": "2026-11-16 06:01:12",
    "source": "GLEAGUE",
@@ -8634,1861 +10489,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Deandre_Ayton"
-  },
-  {
-   "detail": "Josh Hart  ~ weight_lb: - -> 215",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Josh_Hart"
-  },
-  {
-   "detail": "Jemerrio Jones  ~ weight_lb: - -> 175",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jemerrio_Jones"
-  },
-  {
-   "detail": "Dakota Mathias  ~ weight_lb: - -> 200",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Dakota_Mathias"
-  },
-  {
-   "detail": "Matthew Hurt  ~ weight_lb: - -> 233",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Matthew_Hurt"
-  },
-  {
-   "detail": "Zach Edey  ~ weight_lb: - -> 305",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Zach_Edey"
-  },
-  {
-   "detail": "John Konchar  ~ weight_lb: - -> 210",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/John_Konchar"
-  },
-  {
-   "detail": "Taylor Hendricks  ~ weight_lb: - -> 215",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Taylor_Hendricks"
-  },
-  {
-   "detail": "Bryce Cotton  ~ nationality: American / Australian -> -",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Bryce_Cotton"
-  },
-  {
-   "detail": "Dusty Hannahs  ~ weight_lb: - -> 210",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Dusty_Hannahs"
-  },
-  {
-   "detail": "Yves Pons  ~ weight_lb: - -> 215",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Yves_Pons"
-  },
-  {
-   "detail": "Yves Pons  ~ nationality: Haitian / French -> -",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Yves_Pons"
-  },
-  {
-   "detail": "Kennedy Chandler  ~ weight_lb: - -> 170",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Kennedy_Chandler"
-  },
-  {
-   "detail": "Vince Williams Jr.  ~ weight_lb: - -> 205",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Vince_Williams_Jr."
-  },
-  {
-   "detail": "Cam Spencer  ~ weight_lb: - -> 205",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Cam_Spencer"
-  },
-  {
-   "detail": "Kenneth Lofton Jr.  ~ weight_lb: - -> 275",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Kenneth_Lofton_Jr."
-  },
-  {
-   "detail": "Tyler Burton  ~ weight_lb: - -> 215",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Tyler_Burton"
-  },
-  {
-   "detail": "GG Jackson  ~ weight_lb: - -> 210",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/GG_Jackson"
-  },
-  {
-   "detail": "GG Jackson  ~ draft_year: - -> 2023",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/GG_Jackson"
-  },
-  {
-   "detail": "GG Jackson  ~ draft_team: - -> Memphis Grizzlies",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/GG_Jackson"
-  },
-  {
-   "detail": "Rayan Rupert  ~ draft_year: - -> 2023",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Rayan_Rupert"
-  },
-  {
-   "detail": "Rayan Rupert  ~ draft_team: - -> Portland Trail Blazers",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Rayan_Rupert"
-  },
-  {
-   "detail": "Walter Clayton Jr.  ~ weight_lb: - -> 195",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Walter_Clayton_Jr."
-  },
-  {
-   "detail": "Zyon Pullin  ~ draft_year: - -> 2024",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Zyon_Pullin"
-  },
-  {
-   "detail": "Yante Maten  ~ weight_lb: - -> 240",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Yante_Maten"
-  },
-  {
-   "detail": "Jontay Porter  ~ weight_lb: - -> 240",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jontay_Porter"
-  },
-  {
-   "detail": "Timmy Allen  ~ weight_lb: - -> 210",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Timmy_Allen"
-  },
-  {
-   "detail": "Okaro White  ~ nationality: American / Jamaican -> -",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Okaro_White"
-  },
-  {
-   "detail": "Javonte Smart  ~ draft_year: - -> 2021",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Javonte_Smart"
-  },
-  {
-   "detail": "Jamal Cain  ~ weight_lb: - -> 207",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jamal_Cain"
-  },
-  {
-   "detail": "Precious Achiuwa  ~ weight_lb: - -> 243",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Precious_Achiuwa"
-  },
-  {
-   "detail": "Trevor Keels  ~ weight_lb: - -> 215",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Trevor_Keels"
-  },
-  {
-   "detail": "Nikola Jović  ~ nationality: Serbian -> -",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Nikola_Jovi%C4%87"
-  },
-  {
-   "detail": "Myron Gardner  ~ weight_lb: - -> 220",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Myron_Gardner"
-  },
-  {
-   "detail": "Damien Inglis  ~ nationality: French -> -",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Damien_Inglis"
-  },
-  {
-   "detail": "Georgios Kalaitzakis  ~ weight_lb: - -> 209",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Georgios_Kalaitzakis"
-  },
-  {
-   "detail": "Andre Jackson Jr.  ~ weight_lb: - -> 209",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Andre_Jackson_Jr."
-  },
-  {
-   "detail": "Andre Jackson Jr.  ~ draft_year: - -> 2023",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Andre_Jackson_Jr."
-  },
-  {
-   "detail": "Andre Jackson Jr.  ~ draft_team: - -> Orlando Magic",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Andre_Jackson_Jr."
-  },
-  {
-   "detail": "Sandro Mamukelashvili  ~ weight_lb: - -> 240",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Sandro_Mamukelashvili"
-  },
-  {
-   "detail": "Sandro Mamukelashvili  ~ nationality: Georgian -> -",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Sandro_Mamukelashvili"
-  },
-  {
-   "detail": "Bonzie Colson  ~ weight_lb: - -> 225",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Bonzie_Colson"
-  },
-  {
-   "detail": "Luca Vildoza  ~ nationality: Argentine / Italian -> -",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Luca_Vildoza"
-  },
-  {
-   "detail": "Mark Sears  ~ weight_lb: - -> 185",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Mark_Sears"
-  },
-  {
-   "detail": "Cole Anthony  ~ weight_lb: - -> 185",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Cole_Anthony"
-  },
-  {
-   "detail": "Jericho Sims  ~ weight_lb: - -> 250",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jericho_Sims"
-  },
-  {
-   "detail": "Cormac Ryan  ~ weight_lb: - -> 205",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Cormac_Ryan"
-  },
-  {
-   "detail": "Jaden McDaniels  ~ weight_lb: - -> 185",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jaden_McDaniels"
-  },
-  {
-   "detail": "Anthony Edwards (basketball)  ~ weight_lb: - -> 225",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Anthony_Edwards_(basketball)"
-  },
-  {
-   "detail": "Leandro Bolmaro  ~ nationality: Argentine / Italian -> -",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Leandro_Bolmaro"
-  },
-  {
-   "detail": "Marcus Georges-Hunt  ~ nationality: American / U.S. Virgin Islander -> -",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Marcus_Georges-Hunt"
-  },
-  {
-   "detail": "Jalen Crutcher  ~ weight_lb: - -> 175",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jalen_Crutcher"
-  },
-  {
-   "detail": "Izaiah Brockington  ~ draft_year: - -> 2022",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Izaiah_Brockington"
-  },
-  {
-   "detail": "Karlo Matković  ~ weight_lb: - -> 255",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Karlo_Matkovi%C4%87"
-  },
-  {
-   "detail": "Keion Brooks Jr.  ~ weight_lb: - -> 210",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Keion_Brooks_Jr."
-  },
-  {
-   "detail": "Jordan Hawkins  ~ weight_lb: - -> 190",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jordan_Hawkins"
-  },
-  {
-   "detail": "Jeremiah Fears  ~ weight_lb: - -> 188",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jeremiah_Fears"
-  },
-  {
-   "detail": "Zion Williamson  ~ weight_lb: - -> 277",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Zion_Williamson"
-  },
-  {
-   "detail": "Jared Harper  ~ weight_lb: - -> 175",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jared_Harper"
-  },
-  {
-   "detail": "Didi Louzada  ~ weight_lb: - -> 220",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Didi_Louzada"
-  },
-  {
-   "detail": "Jose Alvarado (basketball)  ~ weight_lb: - -> 179",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jose_Alvarado_(basketball)"
-  },
-  {
-   "detail": "Dereon Seabron  ~ weight_lb: - -> 180",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Dereon_Seabron"
-  },
-  {
-   "detail": "Billy Garrett Jr.  ~ weight_lb: - -> 213",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Billy_Garrett_Jr."
-  },
-  {
-   "detail": "Mohamed Diawara  ~ weight_lb: - -> 225",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Mohamed_Diawara"
-  },
-  {
-   "detail": "Isaiah Hicks  ~ weight_lb: - -> 230",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Isaiah_Hicks"
-  },
-  {
-   "detail": "Kevin McCullar Jr.  ~ weight_lb: - -> 210",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Kevin_McCullar_Jr."
-  },
-  {
-   "detail": "Ignas Brazdeikis  ~ nationality: Lithuanian / Canadian -> -",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Ignas_Brazdeikis"
-  },
-  {
-   "detail": "Tyler Hall (basketball)  ~ weight_lb: - -> 209",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Tyler_Hall_(basketball)"
-  },
-  {
-   "detail": "Feron Hunt  ~ weight_lb: - -> 195",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Feron_Hunt"
-  },
-  {
-   "detail": "Jared Butler  ~ weight_lb: - -> 193",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jared_Butler"
-  },
-  {
-   "detail": "Chris Youngblood (basketball)  ~ weight_lb: - -> 221",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Chris_Youngblood_(basketball)"
-  },
-  {
-   "detail": "Alex Ducas  ~ weight_lb: - -> 220",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Alex_Ducas"
-  },
-  {
-   "detail": "Tyler Davis (basketball)  ~ weight_lb: - -> 270",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Tyler_Davis_(basketball)"
-  },
-  {
-   "detail": "Tyler Davis (basketball)  ~ nationality: American / Puerto Rican -> -",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Tyler_Davis_(basketball)"
-  },
-  {
-   "detail": "Isaiah Roby  ~ weight_lb: - -> 230",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Isaiah_Roby"
-  },
-  {
-   "detail": "Aaron Wiggins  ~ weight_lb: - -> 190",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Aaron_Wiggins"
-  },
-  {
-   "detail": "Ajay Mitchell  ~ weight_lb: - -> 190",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Ajay_Mitchell"
-  },
-  {
-   "detail": "Brooks Barnhizer  ~ weight_lb: - -> 230",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Brooks_Barnhizer"
-  },
-  {
-   "detail": "Jaylen Hoard  ~ weight_lb: - -> 216",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jaylen_Hoard"
-  },
-  {
-   "detail": "Jaylen Hoard  ~ nationality: French / American -> -",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jaylen_Hoard"
-  },
-  {
-   "detail": "Donte Grantham  ~ nationality: American / Qatari -> -",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Donte_Grantham"
-  },
-  {
-   "detail": "Isaiah Joe  ~ weight_lb: - -> 165",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Isaiah_Joe"
-  },
-  {
-   "detail": "Jaylin Williams (basketball, born 2002)  ~ weight_lb: - -> 240",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jaylin_Williams_(basketball,_born_2002)"
-  },
-  {
-   "detail": "Troy Caupain  ~ weight_lb: - -> 210",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Troy_Caupain"
-  },
-  {
-   "detail": "Chuma Okeke  ~ weight_lb: - -> 229",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Chuma_Okeke"
-  },
-  {
-   "detail": "Hassani Gravett  ~ weight_lb: - -> 187",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Hassani_Gravett"
-  },
-  {
-   "detail": "Freddie Gillespie  ~ weight_lb: - -> 245",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Freddie_Gillespie"
-  },
-  {
-   "detail": "Karim Mané  ~ nationality: Senegalese / Canadian -> -",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Karim_Man%C3%A9"
-  },
-  {
-   "detail": "Paolo Banchero  ~ nationality: American / Italian -> -",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Paolo_Banchero"
-  },
-  {
-   "detail": "Anthony Black (basketball)  ~ draft_year: - -> 2023",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Anthony_Black_(basketball)"
-  },
-  {
-   "detail": "Anthony Black (basketball)  ~ draft_team: - -> Orlando Magic",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Anthony_Black_(basketball)"
-  },
-  {
-   "detail": "Tristan da Silva  ~ weight_lb: - -> 217",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Tristan_da_Silva"
-  },
-  {
-   "detail": "Tristan da Silva  ~ nationality: German / Brazilian -> -",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Tristan_da_Silva"
-  },
-  {
-   "detail": "Markelle Fultz  ~ weight_lb: - -> 209",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Markelle_Fultz"
-  },
-  {
-   "detail": "Patricio Garino  ~ nationality: Argentine / Italian -> -",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Patricio_Garino"
-  },
-  {
-   "detail": "Jamel Artis  ~ weight_lb: - -> 213",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jamel_Artis"
-  },
-  {
-   "detail": "Kevon Harris  ~ weight_lb: - -> 215",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Kevon_Harris"
-  },
-  {
-   "detail": "Devin Cannady  ~ weight_lb: - -> 183",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Devin_Cannady"
-  },
-  {
-   "detail": "Alex Morales  ~ weight_lb: - -> 195",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Alex_Morales"
-  },
-  {
-   "detail": "Alex Morales  ~ nationality: Puerto Rican -> -",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Alex_Morales"
-  },
-  {
-   "detail": "Admiral Schofield  ~ weight_lb: - -> 240",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Admiral_Schofield"
-  },
-  {
-   "detail": "Admiral Schofield  ~ nationality: American -> -",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Admiral_Schofield"
-  },
-  {
-   "detail": "Tyrese Maxey  ~ weight_lb: - -> 200",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Tyrese_Maxey"
-  },
-  {
-   "detail": "Jalen Suggs  ~ weight_lb: - -> 207",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jalen_Suggs"
-  },
-  {
-   "detail": "Johni Broome  ~ weight_lb: - -> 244",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Johni_Broome"
-  },
-  {
-   "detail": "Michael Foster Jr.  ~ weight_lb: - -> 250",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Michael_Foster_Jr."
-  },
-  {
-   "detail": "Aleem Ford  ~ weight_lb: - -> 220",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Aleem_Ford"
-  },
-  {
-   "detail": "Joel Embiid  ~ nationality: Cameroonian / French / American -> -",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Joel_Embiid"
-  },
-  {
-   "detail": "Rod Freeman  ~ nationality: American -> -",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Rod_Freeman"
-  },
-  {
-   "detail": "Furkan Korkmaz  ~ weight_lb: - -> 202",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Furkan_Korkmaz"
-  },
-  {
-   "detail": "Jonah Bolden  ~ nationality: Australian / American -> -",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jonah_Bolden"
-  },
-  {
-   "detail": "Hunter Sallis  ~ weight_lb: - -> 185",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Hunter_Sallis"
-  },
-  {
-   "detail": "Matisse Thybulle  ~ nationality: Australian / American -> -",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Matisse_Thybulle"
-  },
-  {
-   "detail": "Zhaire Smith  ~ weight_lb: - -> 205",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Zhaire_Smith"
-  },
-  {
-   "detail": "Aaron Henry (basketball)  ~ draft_year: - -> 2021",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Aaron_Henry_(basketball)"
-  },
-  {
-   "detail": "Jabari Walker  ~ weight_lb: - -> 237",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jabari_Walker"
-  },
-  {
-   "detail": "Marial Shayok  ~ nationality: South Sudanese / Canadian -> -",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Marial_Shayok"
-  },
-  {
-   "detail": "Marcus Bagley  ~ weight_lb: - -> 217",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Marcus_Bagley"
-  },
-  {
-   "detail": "Joe Reaves  ~ weight_lb: - -> 210",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Joe_Reaves"
-  },
-  {
-   "detail": "Tariq Owens  ~ weight_lb: - -> 205",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Tariq_Owens"
-  },
-  {
-   "detail": "C. J. Huntley  ~ weight_lb: - -> 230",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/C._J._Huntley"
-  },
-  {
-   "detail": "Ish Wainright  ~ nationality: American / Ugandan -> -",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Ish_Wainright"
-  },
-  {
-   "detail": "Ron Knight (basketball)  ~ nationality: American -> -",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Ron_Knight_(basketball)"
-  },
-  {
-   "detail": "Jalen Bridges  ~ weight_lb: - -> 221",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jalen_Bridges"
-  },
-  {
-   "detail": "Cam McGriff  ~ weight_lb: - -> 220",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Cam_McGriff"
-  },
-  {
-   "detail": "Scoot Henderson  ~ draft_year: - -> 2023",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Scoot_Henderson"
-  },
-  {
-   "detail": "Scoot Henderson  ~ draft_team: - -> Portland Trail Blazers",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Scoot_Henderson"
-  },
-  {
-   "detail": "John Butler Jr.  ~ weight_lb: - -> 220",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/John_Butler_Jr."
-  },
-  {
-   "detail": "Justin Minaya  ~ nationality: American / Dominican -> -",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Justin_Minaya"
-  },
-  {
-   "detail": "Bob Davis (basketball player)  ~ nationality: American -> -",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Bob_Davis_(basketball_player)"
-  },
-  {
-   "detail": "Elijah Hughes  ~ weight_lb: - -> 215",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Elijah_Hughes"
-  },
-  {
-   "detail": "Caleb Love  ~ weight_lb: - -> 212",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Caleb_Love"
-  },
-  {
-   "detail": "Ibou Badji  ~ weight_lb: - -> 250",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Ibou_Badji"
-  },
-  {
-   "detail": "Deni Avdija  ~ nationality: Israeli / Serbia -> -",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Deni_Avdija"
-  },
-  {
-   "detail": "Blake Wesley (basketball)  ~ weight_lb: - -> 190",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Blake_Wesley_(basketball)"
-  },
-  {
-   "detail": "Sidy Cissoko  ~ draft_year: - -> 2023",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Sidy_Cissoko"
-  },
-  {
-   "detail": "Sidy Cissoko  ~ draft_team: - -> San Antonio Spurs",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Sidy_Cissoko"
-  },
-  {
-   "detail": "Javonte Cooke  ~ weight_lb: - -> 185",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Javonte_Cooke"
-  },
-  {
-   "detail": "Jordan Ford  ~ weight_lb: - -> 175",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jordan_Ford"
-  },
-  {
-   "detail": "Duje Dukan  ~ nationality: Croatian / American -> -",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Duje_Dukan"
-  },
-  {
-   "detail": "Colby Jones  ~ draft_year: - -> 2023",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Colby_Jones"
-  },
-  {
-   "detail": "Colby Jones  ~ draft_team: - -> Charlotte Hornets",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Colby_Jones"
-  },
-  {
-   "detail": "PJ Dozier  ~ weight_lb: - -> 206",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/PJ_Dozier"
-  },
-  {
-   "detail": "Landry Shamet  ~ weight_lb: - -> 190",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Landry_Shamet"
-  },
-  {
-   "detail": "Day'Ron Sharpe  ~ weight_lb: - -> 265",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Day'Ron_Sharpe"
-  },
-  {
-   "detail": "Dariq Whitehead  ~ weight_lb: - -> 220",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Dariq_Whitehead"
-  },
-  {
-   "detail": "Ben Saraf  ~ weight_lb: - -> 212",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Ben_Saraf"
-  },
-  {
-   "detail": "Mikal Bridges  ~ weight_lb: - -> 209",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Mikal_Bridges"
-  },
-  {
-   "detail": "Michael Porter Jr.  ~ weight_lb: - -> 232",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Michael_Porter_Jr."
-  },
-  {
-   "detail": "Drew Timme  ~ weight_lb: - -> 235",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Drew_Timme"
-  },
-  {
-   "detail": "Jevon Carter  ~ weight_lb: - -> 190",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jevon_Carter"
-  },
-  {
-   "detail": "Killian Hayes  ~ nationality: French / American -> -",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Killian_Hayes"
-  },
-  {
-   "detail": "Dru Smith  ~ draft_year: - -> 2021",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Dru_Smith"
-  },
-  {
-   "detail": "Alondes Williams  ~ weight_lb: - -> 210",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Alondes_Williams"
-  },
-  {
-   "detail": "Tyler Cook  ~ weight_lb: - -> 245",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Tyler_Cook"
-  },
-  {
-   "detail": "Trevon Scott  ~ weight_lb: - -> 225",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Trevon_Scott"
-  },
-  {
-   "detail": "E. J. Liddell  ~ weight_lb: - -> 240",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/E._J._Liddell"
-  },
-  {
-   "detail": "Ziaire Williams  ~ weight_lb: - -> 185",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Ziaire_Williams"
-  },
-  {
-   "detail": "Donta Hall  ~ weight_lb: - -> 232",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Donta_Hall"
-  },
-  {
-   "detail": "Donta Hall  ~ nationality: American / Azerbaijani -> -",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Donta_Hall"
-  },
-  {
-   "detail": "Jacob Gilyard  ~ weight_lb: - -> 160",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jacob_Gilyard"
-  },
-  {
-   "detail": "David Duke Jr.  ~ draft_year: - -> 2021",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/David_Duke_Jr."
-  },
-  {
-   "detail": "Maxwell Lewis  ~ weight_lb: - -> 215",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Maxwell_Lewis"
-  },
-  {
-   "detail": "Džanan Musa  ~ weight_lb: - -> 223",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/D%C5%BEanan_Musa"
-  },
-  {
-   "detail": "Norvel Pelle  ~ nationality: American / Antiguan / Lebanese -> -",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Norvel_Pelle"
-  },
-  {
-   "detail": "Tyson Etienne  ~ weight_lb: - -> 200",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Tyson_Etienne"
-  },
-  {
-   "detail": "Rondae Hollis-Jefferson  ~ nationality: American / Jordanian -> -",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Rondae_Hollis-Jefferson"
-  },
-  {
-   "detail": "Jacob Wiley  ~ nationality: American / Macedonian -> -",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jacob_Wiley"
-  },
-  {
-   "detail": "Keon Johnson (basketball, born 2002)  ~ weight_lb: - -> 185",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Keon_Johnson_(basketball,_born_2002)"
-  },
-  {
-   "detail": "Grant Nelson (basketball)  ~ weight_lb: - -> 240",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Grant_Nelson_(basketball)"
-  },
-  {
-   "detail": "Mason Plumlee  ~ number: 24 -> 45",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Mason_Plumlee"
-  },
-  {
-   "detail": "Wenyen Gabriel  ~ nationality: South Sudanese / American -> -",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Wenyen_Gabriel"
-  },
-  {
-   "detail": "Marcus Garrett  ~ weight_lb: - -> 205",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Marcus_Garrett"
-  },
-  {
-   "detail": "Cam Thomas  ~ nationality: American -> -",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Cam_Thomas"
-  },
-  {
-   "detail": "Xavier Sneed  ~ weight_lb: - -> 215",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Xavier_Sneed"
-  },
-  {
-   "detail": "Malachi Smith (basketball)  ~ weight_lb: - -> 205",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Malachi_Smith_(basketball)"
-  },
-  {
-   "detail": "Noah Clowney  ~ weight_lb: - -> 240",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Noah_Clowney"
-  },
-  {
-   "detail": "Josh Green (basketball)  ~ weight_lb: - -> 200",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Josh_Green_(basketball)"
-  },
-  {
-   "detail": "Aleksej Pokuševski  ~ weight_lb: - -> 210",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Aleksej_Poku%C5%A1evski"
-  },
-  {
-   "detail": "Aleksej Pokuševski  ~ nationality: Serbian -> -",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Aleksej_Poku%C5%A1evski"
-  },
-  {
-   "detail": "Tre Mann  ~ weight_lb: - -> 178",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Tre_Mann"
-  },
-  {
-   "detail": "Leaky Black  ~ weight_lb: - -> 209",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Leaky_Black"
-  },
-  {
-   "detail": "Leaky Black  ~ draft_year: - -> 2023",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Leaky_Black"
-  },
-  {
-   "detail": "Nick Smith Jr.  ~ weight_lb: - -> 185",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Nick_Smith_Jr."
-  },
-  {
-   "detail": "Nate Darling  ~ weight_lb: - -> 200",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Nate_Darling"
-  },
-  {
-   "detail": "Moussa Diabaté  ~ weight_lb: - -> 210",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Moussa_Diabat%C3%A9"
-  },
-  {
-   "detail": "Amari Bailey  ~ weight_lb: - -> 185",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Amari_Bailey"
-  },
-  {
-   "detail": "Brandon Miller (basketball, born 2002)  ~ draft_year: - -> 2023",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Brandon_Miller_(basketball,_born_2002)"
-  },
-  {
-   "detail": "Brandon Miller (basketball, born 2002)  ~ draft_team: - -> Charlotte Hornets",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Brandon_Miller_(basketball,_born_2002)"
-  },
-  {
-   "detail": "Antonio Reeves  ~ weight_lb: - -> 205",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Antonio_Reeves"
-  },
-  {
-   "detail": "Collin Sexton  ~ weight_lb: - -> 190",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Collin_Sexton"
-  },
-  {
-   "detail": "Mangok Mathiang  ~ nationality: South Sudanese / Australian -> -",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Mangok_Mathiang"
-  },
-  {
-   "detail": "Jaylen Sims  ~ weight_lb: - -> 210",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jaylen_Sims"
-  },
-  {
-   "detail": "Cody Martin (basketball)  ~ weight_lb: - -> 205",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Cody_Martin_(basketball)"
-  },
-  {
-   "detail": "Malachi Flynn  ~ weight_lb: - -> 185",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Malachi_Flynn"
-  },
-  {
-   "detail": "Damion Baugh  ~ weight_lb: - -> 194",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Damion_Baugh"
-  },
-  {
-   "detail": "Caleb Martin (basketball)  ~ weight_lb: - -> 205",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Caleb_Martin_(basketball)"
-  },
-  {
-   "detail": "Grant Riller  ~ weight_lb: - -> 190",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Grant_Riller"
-  },
-  {
-   "detail": "Jared Rhoden  ~ weight_lb: - -> 210",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jared_Rhoden"
-  },
-  {
-   "detail": "Jared Rhoden  ~ draft_year: - -> 2022",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jared_Rhoden"
-  },
-  {
-   "detail": "Kelly Oubre Jr.  ~ weight_lb: - -> 210",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Kelly_Oubre_Jr."
-  },
-  {
-   "detail": "Marques Bolden  ~ nationality: American / Indonesian -> -",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Marques_Bolden"
-  },
-  {
-   "detail": "JT Thor  ~ weight_lb: - -> 203",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/JT_Thor"
-  },
-  {
-   "detail": "Tidjane Salaün  ~ weight_lb: - -> 207",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Tidjane_Sala%C3%BCn"
-  },
-  {
-   "detail": "Miles Bridges  ~ weight_lb: - -> 225",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Miles_Bridges"
-  },
-  {
-   "detail": "James Bouknight  ~ weight_lb: - -> 190",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/James_Bouknight"
-  },
-  {
-   "detail": "PJ Hall  ~ weight_lb: - -> 245",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/PJ_Hall"
-  },
-  {
-   "detail": "Julian Phillips (basketball)  ~ draft_year: - -> 2023",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Julian_Phillips_(basketball)"
-  },
-  {
-   "detail": "Julian Phillips (basketball)  ~ draft_team: - -> Boston Celtics",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Julian_Phillips_(basketball)"
-  },
-  {
-   "detail": "Ayo Dosunmu  ~ weight_lb: - -> 201",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Ayo_Dosunmu"
-  },
-  {
-   "detail": "Rob Dillingham  ~ number: - -> 00",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Rob_Dillingham"
-  },
-  {
-   "detail": "Rob Dillingham  ~ height_in: 1 -> 2",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Rob_Dillingham"
-  },
-  {
-   "detail": "Chandler Hutchison  ~ nationality: American -> -",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Chandler_Hutchison"
-  },
-  {
-   "detail": "Carlik Jones  ~ weight_lb: - -> 178",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Carlik_Jones"
-  },
-  {
-   "detail": "Carlik Jones  ~ draft_year: - -> 2021",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Carlik_Jones"
-  },
-  {
-   "detail": "Carlik Jones  ~ nationality: American / South Sudanese -> -",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Carlik_Jones"
-  },
-  {
-   "detail": "Chris Duarte (basketball)  ~ weight_lb: - -> 190",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Chris_Duarte_(basketball)"
-  },
-  {
-   "detail": "Chris Duarte (basketball)  ~ nationality: Dominican / Canadian -> -",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Chris_Duarte_(basketball)"
-  },
-  {
-   "detail": "Leonard Miller (basketball)  ~ draft_year: - -> 2023",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Leonard_Miller_(basketball)"
-  },
-  {
-   "detail": "Leonard Miller (basketball)  ~ draft_team: - -> San Antonio Spurs",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Leonard_Miller_(basketball)"
-  },
-  {
-   "detail": "Adam Mokoka  ~ weight_lb: - -> 190",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Adam_Mokoka"
-  },
-  {
-   "detail": "Mouhamadou Gueye  ~ weight_lb: - -> 210",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Mouhamadou_Gueye"
-  },
-  {
-   "detail": "Andrew Funk  ~ weight_lb: - -> 200",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Andrew_Funk"
-  },
-  {
-   "detail": "Marko Simonović (basketball, born 1999)  ~ nationality: Montenegrin -> -",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Marko_Simonovi%C4%87_(basketball,_born_1999)"
-  },
-  {
-   "detail": "Emanuel Miller (basketball)  ~ weight_lb: - -> 215",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Emanuel_Miller_(basketball)"
-  },
-  {
-   "detail": "Matas Buzelis  ~ nationality: Lithuanian / American -> -",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Matas_Buzelis"
-  },
-  {
-   "detail": "Noa Essengue  ~ weight_lb: - -> 194",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Noa_Essengue"
-  },
-  {
-   "detail": "Terry Taylor (basketball)  ~ weight_lb: - -> 230",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Terry_Taylor_(basketball)"
-  },
-  {
-   "detail": "Wendell Carter Jr.  ~ weight_lb: - -> 262",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Wendell_Carter_Jr."
-  },
-  {
-   "detail": "Trentyn Flowers  ~ weight_lb: - -> 185",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Trentyn_Flowers"
-  },
-  {
-   "detail": "Matt Thomas (basketball)  ~ CAREER  + 2025–2026 Coviran Granada",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Matt_Thomas_(basketball)"
-  },
-  {
-   "detail": "Matt Thomas (basketball)  ~ CAREER  + 2026 Unicaja Málaga",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Matt_Thomas_(basketball)"
-  },
-  {
-   "detail": "Matt Thomas (basketball)  ~ CAREER  + 2026–present Rytas Vilnius",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Matt_Thomas_(basketball)"
-  },
-  {
-   "detail": "Lauri Markkanen  ~ weight_lb: - -> 240",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Lauri_Markkanen"
-  },
-  {
-   "detail": "Deng Adel  ~ nationality: South Sudanese / Australian -> -",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Deng_Adel"
-  },
-  {
-   "detail": "Will Cherry  ~ weight_lb: - -> 176",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Will_Cherry"
-  },
-  {
-   "detail": "Jordan Clarkson  ~ nationality: American / Filipino -> -",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jordan_Clarkson"
-  },
-  {
-   "detail": "Tristan Enaruna  ~ weight_lb: - -> 220",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Tristan_Enaruna"
-  },
-  {
-   "detail": "RJ Nembhard  ~ weight_lb: - -> 200",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/RJ_Nembhard"
-  },
-  {
-   "detail": "RJ Nembhard  ~ draft_year: - -> 2021",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/RJ_Nembhard"
-  },
-  {
-   "detail": "Thon Maker  ~ nationality: South Sudanese -> -",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Thon_Maker"
-  },
-  {
-   "detail": "Chris Livingston  ~ weight_lb: - -> 220",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Chris_Livingston"
-  },
-  {
-   "detail": "Isaiah Hartenstein  ~ nationality: American / German -> -",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Isaiah_Hartenstein"
-  },
-  {
-   "detail": "Malik Newman  ~ weight_lb: - -> 190",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Malik_Newman"
-  },
-  {
-   "detail": "Emoni Bates  ~ weight_lb: - -> 202",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Emoni_Bates"
-  },
-  {
-   "detail": "Matt Mooney  ~ weight_lb: - -> 199",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Matt_Mooney"
-  },
-  {
-   "detail": "Craig Porter Jr.  ~ weight_lb: - -> 194",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Craig_Porter_Jr."
-  },
-  {
-   "detail": "Donovan Mitchell  ~ weight_lb: - -> 228",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Donovan_Mitchell"
-  },
-  {
-   "detail": "Riley Minix  ~ weight_lb: - -> 230",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Riley_Minix"
-  },
-  {
-   "detail": "Miles Kelly  ~ weight_lb: - -> 190",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Miles_Kelly"
-  },
-  {
-   "detail": "Eugene Omoruyi  ~ nationality: Nigerian / Canadian -> -",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Eugene_Omoruyi"
-  },
-  {
-   "detail": "Olivier-Maxence Prosper  ~ weight_lb: - -> 230",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Olivier-Maxence_Prosper"
-  },
-  {
-   "detail": "A. J. Lawson  ~ weight_lb: - -> 185",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/A._J._Lawson"
-  },
-  {
-   "detail": "Tyler Bey  ~ weight_lb: - -> 215",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Tyler_Bey"
-  },
-  {
-   "detail": "Josh Reaves  ~ nationality: American / Bolivian -> -",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Josh_Reaves"
-  },
-  {
-   "detail": "Jazian Gortman  ~ weight_lb: - -> 184",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jazian_Gortman"
-  },
-  {
-   "detail": "Daryl Macon  ~ weight_lb: - -> 185",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Daryl_Macon"
-  },
-  {
-   "detail": "McKinley Wright IV  ~ weight_lb: - -> 192",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/McKinley_Wright_IV"
-  },
-  {
-   "detail": "Jalen Brunson  ~ weight_lb: - -> 190",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jalen_Brunson"
-  },
-  {
-   "detail": "Moussa Cissé (basketball)  ~ weight_lb: - -> 220",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Moussa_Ciss%C3%A9_(basketball)"
-  },
-  {
-   "detail": "Dereck Lively II  ~ weight_lb: - -> 230",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Dereck_Lively_II"
-  },
-  {
-   "detail": "Jay Huff  ~ weight_lb: - -> 240",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jay_Huff"
-  },
-  {
-   "detail": "Dario Šarić  ~ height_in: 10 -> 11",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Dario_%C5%A0ari%C4%87"
-  },
-  {
-   "detail": "Nikola Jokić  ~ nationality: Serbian -> -",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Nikola_Joki%C4%87"
-  },
-  {
-   "detail": "Petr Cornelie  ~ nationality: French / Czech -> -",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Petr_Cornelie"
-  },
-  {
-   "detail": "DeVaughn Akoon-Purcell  ~ weight_lb: - -> 200",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/DeVaughn_Akoon-Purcell"
   }
  ],
  "feeds": {
@@ -10509,12 +10509,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 11571,
-   "last": "2026-11-15 17:57:28"
+   "count": 11667,
+   "last": "2026-11-16 06:20:58"
   },
   "SCORES": {
-   "count": 5488,
-   "last": "2026-11-15 17:57:32"
+   "count": 5657,
+   "last": "2026-11-16 06:24:15"
   },
   "SHEETS": {
    "count": 5268,
@@ -10533,6 +10533,6 @@
    "last": "2026-11-16 05:11:13"
   }
  },
- "generated_at": "2026-11-16T06:09:47",
- "total": 42200
+ "generated_at": "2026-11-16T06:24:17",
+ "total": 42465
 }
