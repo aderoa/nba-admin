@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Isaiah Miles  ~ team: Yukatel Denizli Basket -> Denizli Basket",
+   "detected_at": "2026-11-16 09:14:08",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Isaiah_Miles"
+  },
+  {
+   "detail": "Isaiah Miles  ~ CAREER  + 2025–2026 Merkezefendi Belediyesi",
+   "detected_at": "2026-11-16 09:14:08",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Isaiah_Miles"
+  },
+  {
    "detail": "Fred VanVleet  ~ position: Point guard / shooting guard -> Point guard",
    "detected_at": "2026-11-16 08:02:36",
    "source": "WIKI",
@@ -10475,20 +10489,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Johnny_Furphy"
-  },
-  {
-   "detail": "Obi Toppin  ~ weight_lb: - -> 220",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Obi_Toppin"
-  },
-  {
-   "detail": "Isaiah Jackson (basketball)  ~ weight_lb: - -> 205",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Isaiah_Jackson_(basketball)"
   }
  ],
  "feeds": {
@@ -10525,14 +10525,14 @@
    "last": "2026-11-14 08:44:05"
   },
   "WIKI": {
-   "count": 10113,
-   "last": "2026-11-16 08:02:36"
+   "count": 10115,
+   "last": "2026-11-16 09:14:08"
   },
   "WIKIWATCH": {
    "count": 659,
    "last": "2026-11-16 07:10:19"
   }
  },
- "generated_at": "2026-11-16T09:06:20",
- "total": 42481
+ "generated_at": "2026-11-16T09:14:11",
+ "total": 42483
 }
