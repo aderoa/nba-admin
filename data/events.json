@@ -1,6 +1,66 @@
 {
  "events": [
   {
+   "detail": "2026-11-15  Waived: Russel Tchewa (Bulls)",
+   "detected_at": "2026-11-16 06:01:12",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-15  Assigned: Orlando Robinson (Bulls)",
+   "detected_at": "2026-11-16 06:01:12",
+   "source": "GLEAGUE",
+   "type": "Acquired/Assigned"
+  },
+  {
+   "detail": "2026-11-15  Acquired from Player Pool: Lacey James (Bulls)",
+   "detected_at": "2026-11-16 06:01:12",
+   "source": "GLEAGUE",
+   "type": "Acquired/Assigned"
+  },
+  {
+   "detail": "2026-11-15  Assigned: Dailyn Swain (Bulls)",
+   "detected_at": "2026-11-16 06:01:12",
+   "source": "GLEAGUE",
+   "type": "Acquired/Assigned"
+  },
+  {
+   "detail": "2026-11-15  Waivers Cleared: Bryson Tucker",
+   "detected_at": "2026-11-16 06:01:12",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-15  Acquired from Player Pool: Brandon Muntu (Raptors)",
+   "detected_at": "2026-11-16 06:01:12",
+   "source": "GLEAGUE",
+   "type": "Acquired/Assigned"
+  },
+  {
+   "detail": "2026-11-15  Acquired from Player Pool: Tj Bickerstaff (Raptors)",
+   "detected_at": "2026-11-16 06:01:12",
+   "source": "GLEAGUE",
+   "type": "Acquired/Assigned"
+  },
+  {
+   "detail": "2026-11-15  Assigned: Drake Powell (Nets)",
+   "detected_at": "2026-11-16 06:01:12",
+   "source": "GLEAGUE",
+   "type": "Acquired/Assigned"
+  },
+  {
+   "detail": "2026-11-15  Waived: Markhi Strickland (Charge)",
+   "detected_at": "2026-11-16 06:01:12",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-15  Acquired from Player Pool: Ian Martinez (Charge)",
+   "detected_at": "2026-11-16 06:01:12",
+   "source": "GLEAGUE",
+   "type": "Acquired/Assigned"
+  },
+  {
    "detail": "Mason Plumlee  ~ number: 45 -> 24",
    "detected_at": "2026-11-16 05:20:50",
    "source": "WIKI",
@@ -10429,76 +10489,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/DeVaughn_Akoon-Purcell"
-  },
-  {
-   "detail": "DeVaughn Akoon-Purcell  ~ nationality: Trinidadian / American -> -",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/DeVaughn_Akoon-Purcell"
-  },
-  {
-   "detail": "Bones Hyland  ~ weight_lb: - -> 169",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Bones_Hyland"
-  },
-  {
-   "detail": "Christian Braun  ~ weight_lb: - -> 220",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Christian_Braun"
-  },
-  {
-   "detail": "DaRon Holmes II  ~ weight_lb: - -> 225",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/DaRon_Holmes_II"
-  },
-  {
-   "detail": "Vlatko Čančar  ~ weight_lb: - -> 236",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Vlatko_%C4%8Can%C4%8Dar"
-  },
-  {
-   "detail": "Bol Bol  ~ nationality: American / South Sudanese -> -",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Bol_Bol"
-  },
-  {
-   "detail": "R. J. Hampton  ~ weight_lb: - -> 175",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/R._J._Hampton"
-  },
-  {
-   "detail": "Jalen Pickett  ~ draft_year: - -> 2023",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jalen_Pickett"
-  },
-  {
-   "detail": "Jalen Pickett  ~ draft_team: - -> Indiana Pacers",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jalen_Pickett"
-  },
-  {
-   "detail": "Trey Alexander  ~ weight_lb: - -> 185",
-   "detected_at": "2026-11-15 06:54:06",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Trey_Alexander"
   }
  ],
  "feeds": {
@@ -10507,8 +10497,8 @@
    "last": "2026-11-14 08:44:06"
   },
   "GLEAGUE": {
-   "count": 1150,
-   "last": "2026-11-15 06:18:34"
+   "count": 1160,
+   "last": "2026-11-16 06:01:12"
   },
   "PLAYERS": {
    "count": 1938,
@@ -10543,6 +10533,6 @@
    "last": "2026-11-16 05:11:13"
   }
  },
- "generated_at": "2026-11-16T05:58:36",
- "total": 42190
+ "generated_at": "2026-11-16T06:01:15",
+ "total": 42200
 }
