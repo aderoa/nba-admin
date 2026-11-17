@@ -1,6 +1,193 @@
 {
  "events": [
   {
+   "detail": "Asa Newell  ~ CAREER  + 2025–2026 →College Park Skyhawks",
+   "detected_at": "2026-11-17 12:29:35",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Asa_Newell"
+  },
+  {
+   "detail": "SAC  + ADDED  Plumlee, Mason",
+   "detected_at": "2026-11-17 12:22:18",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "SAC  + ADDED  Baldwin Jr., Patrick",
+   "detected_at": "2026-11-17 12:22:18",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "SAC  CHANGED Crowder, Jae  -  col9: 2449421 -> 2449421.0",
+   "detected_at": "2026-11-17 12:22:18",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "SAC  CHANGED Hayes, Killian  -  col9: 2449421 -> 2449421.0",
+   "detected_at": "2026-11-17 12:22:18",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "SAC  CHANGED McDermott, Doug  -  col9: 2449421 -> 2449421.0",
+   "detected_at": "2026-11-17 12:22:18",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "SAC  CHANGED McGee, JaVale  -  col9: 2449421 -> 2449421.0",
+   "detected_at": "2026-11-17 12:22:18",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "SAC  CHANGED Westbrook, Russell  -  col3: 2185116.0 -> 2449421.0, col9: 2185116 -> 2185116.0",
+   "detected_at": "2026-11-17 12:22:18",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "SAC  CHANGED Ford, Jordan  -  col9: 2185116 -> 2185116.0",
+   "detected_at": "2026-11-17 12:22:18",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "SAC  CHANGED Jones, Mason  -  col9: 2185116 -> 2185116.0",
+   "detected_at": "2026-11-17 12:22:18",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "SAC  CHANGED DeRozan, DeMar  -  col9: 10000000 -> 10000000.0",
+   "detected_at": "2026-11-17 12:22:18",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "SAC  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 210369789.3 -> 214958934.3, col9: 464925538.6 -> 469514683.6",
+   "detected_at": "2026-11-17 12:22:18",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "SAC  CHANGED Players Under Contract  -  col3: 190683424 -> 192823148",
+   "detected_at": "2026-11-17 12:22:18",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "SAC  CHANGED Rest of Season Contracts  -  col3: 0 -> 2139724",
+   "detected_at": "2026-11-17 12:22:18",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "SAC  CHANGED Cap Holds  -  col3: 16353032 -> 18802453",
+   "detected_at": "2026-11-17 12:22:18",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "SAC  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 13 -> 14",
+   "detected_at": "2026-11-17 12:22:18",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "SAC  CHANGED Avg, Salary (Mean) (No 10-Day K's)  -  col6: 2 -> 1",
+   "detected_at": "2026-11-17 12:22:18",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED Update 1.4 (10/20/26): D. Terry, B. Wesley",
+   "detected_at": "2026-11-17 12:22:15",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Update 1.4 (10/20/26 - 11/17/26): M. Plumlee, D. Terry, B. Wesley",
+   "detected_at": "2026-11-17 12:22:15",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Two-Way Signings  - REMOVED Update 1.4 (10/20/26): W. Clayton, E. Freeman, D. Knecht, L. Lovering, K. McCullar, R. Minix, N. Omier, M. Peavy, S. Pedulla, R. Saunders",
+   "detected_at": "2026-11-17 12:22:15",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Two-Way Signings  - REMOVED Update 1.5 (11/12/26): C. Cooper",
+   "detected_at": "2026-11-17 12:22:15",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Two-Way Signings  + ADDED  Update 1.4 (10/20/26 - 11/17/26): J. Aidoo, J. Broome, R. Castro, W. Clayton, C. Cooper, E. Freeman, D. Knecht, L. Lovering, K. McCullar, R. Minix, N. Omier, M. Peavy, S. Pedulla, R. Saunders,",
+   "detected_at": "2026-11-17 12:22:15",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Two-Way Signings  + ADDED  Jonas Aidoo Utah Jazz",
+   "detected_at": "2026-11-17 12:22:15",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Two-Way Signings  + ADDED  2 Years. Skill; Injury or Illness. Compensation protection for 2026-27 Season is for $91,000. Love of the Game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-11-17 12:22:15",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Two-Way Signings  + ADDED  Execution Date: 7/7/26",
+   "detected_at": "2026-11-17 12:22:15",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Two-Way Signings  + ADDED  Johni Broome Minnesota Timberwolves",
+   "detected_at": "2026-11-17 12:22:15",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Two-Way Signings  + ADDED  1 Year. Rest of Season. Skill; Injury or Illness. Compensation protection for 2026-27 Season is for $91,000. Physical Exam.",
+   "detected_at": "2026-11-17 12:22:15",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Two-Way Signings  + ADDED  Execution Date: 11/12/26",
+   "detected_at": "2026-11-17 12:22:15",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Two-Way Signings  + ADDED  Rafael Castro Atlanta Hawks",
+   "detected_at": "2026-11-17 12:22:15",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Two-Way Signings  + ADDED  1 Year. Skill; Injury or Illness. Compensation protection for 2026-27 Season is none. Love of the game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-11-17 12:22:15",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Two-Way Signings  + ADDED  Execution Date: 11/16/26",
+   "detected_at": "2026-11-17 12:22:15",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "2026-27 Veteran Signings  + ADDED  Mason Plumlee Sacramento Kings",
    "detected_at": "2026-11-17 11:45:14",
    "source": "DOCS",
@@ -10240,229 +10427,12 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Miye_Oni"
-  },
-  {
-   "detail": "Joël Ayayi  ~ draft_year: - -> 2021",
-   "detected_at": "2026-11-15 06:54:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jo%C3%ABl_Ayayi"
-  },
-  {
-   "detail": "Walker Kessler  ~ weight_lb: - -> 245",
-   "detected_at": "2026-11-15 06:54:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Walker_Kessler"
-  },
-  {
-   "detail": "Keyonte George  ~ weight_lb: - -> 185",
-   "detected_at": "2026-11-15 06:54:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Keyonte_George"
-  },
-  {
-   "detail": "Kyshawn George  ~ nationality: Swiss / Canadian -> -",
-   "detected_at": "2026-11-15 06:54:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Kyshawn_George"
-  },
-  {
-   "detail": "Craig Sword  ~ weight_lb: - -> 196",
-   "detected_at": "2026-11-15 06:54:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Craig_Sword"
-  },
-  {
-   "detail": "Jordan Schakel  ~ weight_lb: - -> 200",
-   "detected_at": "2026-11-15 06:54:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jordan_Schakel"
-  },
-  {
-   "detail": "Jules Bernard  ~ weight_lb: - -> 210",
-   "detected_at": "2026-11-15 06:54:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jules_Bernard"
-  },
-  {
-   "detail": "Bilal Coulibaly  ~ weight_lb: - -> 195",
-   "detected_at": "2026-11-15 06:54:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Bilal_Coulibaly"
-  },
-  {
-   "detail": "Tristan Vukčević  ~ nationality: Serbian / Greek / Swedish -> -",
-   "detected_at": "2026-11-15 06:54:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Tristan_Vuk%C4%8Devi%C4%87"
-  },
-  {
-   "detail": "Wardell Jackson  ~ nationality: American -> -",
-   "detected_at": "2026-11-15 06:54:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Wardell_Jackson"
-  },
-  {
-   "detail": "Leo Čizmić  ~ nationality: Croatian -> -",
-   "detected_at": "2026-11-15 06:54:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Leo_%C4%8Cizmi%C4%87"
-  },
-  {
-   "detail": "Joe Thomasson  ~ nationality: American / Georgian -> -",
-   "detected_at": "2026-11-15 06:54:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Joe_Thomasson"
-  },
-  {
-   "detail": "Román Martínez (basketball)  ~ nationality: Mexican -> -",
-   "detected_at": "2026-11-15 06:54:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Rom%C3%A1n_Mart%C3%ADnez_(basketball)"
-  },
-  {
-   "detail": "Isaac Fotu  ~ nationality: New Zealand / British -> -",
-   "detected_at": "2026-11-15 06:54:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Isaac_Fotu"
-  },
-  {
-   "detail": "Alpha Kaba  ~ nationality: French / Guinean -> -",
-   "detected_at": "2026-11-15 06:54:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Alpha_Kaba"
-  },
-  {
-   "detail": "Jokūbas Gintvainis  ~ career_end: - -> 2021",
-   "detected_at": "2026-11-15 06:54:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jok%C5%ABbas_Gintvainis"
-  },
-  {
-   "detail": "Jokūbas Gintvainis  ~ nationality: Lithuanian -> -",
-   "detected_at": "2026-11-15 06:54:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jok%C5%ABbas_Gintvainis"
-  },
-  {
-   "detail": "Amar Sylla  ~ nationality: Senegalese -> -",
-   "detected_at": "2026-11-15 06:54:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Amar_Sylla"
-  },
-  {
-   "detail": "Josip Sobin  ~ nationality: Croatian -> -",
-   "detected_at": "2026-11-15 06:54:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Josip_Sobin"
-  },
-  {
-   "detail": "DeAndre Kane  ~ nationality: American / Hungarian -> -",
-   "detected_at": "2026-11-15 06:54:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/DeAndre_Kane"
-  },
-  {
-   "detail": "Kendrick Perry  ~ nationality: American / Montenegrin -> -",
-   "detected_at": "2026-11-15 06:54:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Kendrick_Perry"
-  },
-  {
-   "detail": "Chris Czerapowicz  ~ nationality: Swedish / American -> -",
-   "detected_at": "2026-11-15 06:54:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Chris_Czerapowicz"
-  },
-  {
-   "detail": "Martinas Geben  ~ nationality: Lithuanian -> -",
-   "detected_at": "2026-11-15 06:54:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Martinas_Geben"
-  },
-  {
-   "detail": "Alexander Madsen  ~ nationality: Finnish -> -",
-   "detected_at": "2026-11-15 06:54:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Alexander_Madsen"
-  },
-  {
-   "detail": "Vasilije Vučetić  ~ nationality: Serbian -> -",
-   "detected_at": "2026-11-15 06:54:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Vasilije_Vu%C4%8Deti%C4%87"
-  },
-  {
-   "detail": "Philip Scrubb  ~ weight_lb: - -> 185",
-   "detected_at": "2026-11-15 06:54:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Philip_Scrubb"
-  },
-  {
-   "detail": "Philip Scrubb  ~ nationality: Canadian / British -> -",
-   "detected_at": "2026-11-15 06:54:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Philip_Scrubb"
-  },
-  {
-   "detail": "Željko Šakić  ~ nationality: Croatian -> -",
-   "detected_at": "2026-11-15 06:54:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/%C5%BDeljko_%C5%A0aki%C4%87"
-  },
-  {
-   "detail": "Spencer Butterfield  ~ nationality: American -> -",
-   "detected_at": "2026-11-15 06:54:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Spencer_Butterfield"
-  },
-  {
-   "detail": "Yannis Morin  ~ weight_lb: - -> 210",
-   "detected_at": "2026-11-15 06:54:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Yannis_Morin"
-  },
-  {
-   "detail": "Sek Henry  ~ nationality: American / Jamaican -> -",
-   "detected_at": "2026-11-15 06:54:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Sek_Henry"
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 4359,
-   "last": "2026-11-17 11:45:14"
+   "count": 4373,
+   "last": "2026-11-17 12:22:15"
   },
   "GLEAGUE": {
    "count": 1186,
@@ -10485,22 +10455,22 @@
    "last": "2026-11-17 10:46:45"
   },
   "SHEETS": {
-   "count": 5268,
-   "last": "2026-11-12 20:36:23"
+   "count": 5284,
+   "last": "2026-11-17 12:22:18"
   },
   "TRANSACTIONS": {
    "count": 708,
    "last": "2026-11-16 14:39:14"
   },
   "WIKI": {
-   "count": 10188,
-   "last": "2026-11-17 10:46:35"
+   "count": 10189,
+   "last": "2026-11-17 12:29:35"
   },
   "WIKIWATCH": {
    "count": 660,
    "last": "2026-11-16 17:41:27"
   }
  },
- "generated_at": "2026-11-17T11:53:02",
- "total": 42675
+ "generated_at": "2026-11-17T12:29:38",
+ "total": 42706
 }
