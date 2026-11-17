@@ -1,6 +1,48 @@
 {
  "events": [
   {
+   "detail": "NCAA Ohio State 86, Prairie View AM 59",
+   "detected_at": "2026-11-16 18:14:11",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-16/Prairie-View-AM-at-Ohio-State/537567"
+  },
+  {
+   "detail": "NCAA UMBC 75, Iona 67",
+   "detected_at": "2026-11-16 18:14:06",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-16/Iona-at-UMBC/540055"
+  },
+  {
+   "detail": "NCAA Maryland 117, Alcorn State 57",
+   "detected_at": "2026-11-16 18:14:00",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-16/Alcorn-State-at-Maryland/537444"
+  },
+  {
+   "detail": "German Pro A Rhein Stars Koeln 87, EPG GUARDIANS Koblenz 63",
+   "detected_at": "2026-11-16 18:13:23",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-16/EPG-GUARDIANS-Koblenz-at-Rhein-Stars-Koeln/528161"
+  },
+  {
+   "detail": "Cypriot Division A Keravnos Strovolou 73, Proteas EKA AEL 66",
+   "detected_at": "2026-11-16 18:13:18",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-16/Proteas-EKA-AEL-at-Keravnos-Strovolou/542070"
+  },
+  {
+   "detail": "Jalen Crutcher  ~ number: 18 -> 4",
+   "detected_at": "2026-11-16 18:13:11",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Jalen_Crutcher"
+  },
+  {
    "detail": "Trey Alexander  ~ team: Utah Jazz -> Free agent",
    "detected_at": "2026-11-16 17:50:35",
    "source": "WIKI",
@@ -10445,48 +10487,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Moussa_Diagne"
-  },
-  {
-   "detail": "Eulis Báez  ~ weight_lb: - -> 245",
-   "detected_at": "2026-11-15 06:54:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Eulis_B%C3%A1ez"
-  },
-  {
-   "detail": "Eulis Báez  ~ nationality: Dominican / Spanish -> -",
-   "detected_at": "2026-11-15 06:54:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Eulis_B%C3%A1ez"
-  },
-  {
-   "detail": "Pierriá Henry  ~ nationality: American / Senegalese -> -",
-   "detected_at": "2026-11-15 06:54:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Pierri%C3%A1_Henry"
-  },
-  {
-   "detail": "David Krämer  ~ weight_lb: - -> 202",
-   "detected_at": "2026-11-15 06:54:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/David_Kr%C3%A4mer"
-  },
-  {
-   "detail": "David Krämer  ~ nationality: German / Slovak -> -",
-   "detected_at": "2026-11-15 06:54:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/David_Kr%C3%A4mer"
-  },
-  {
-   "detail": "Haukur Pálsson  ~ nationality: Icelandic -> -",
-   "detected_at": "2026-11-15 06:54:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Haukur_P%C3%A1lsson"
   }
  ],
  "feeds": {
@@ -10511,8 +10511,8 @@
    "last": "2026-11-16 11:42:53"
   },
   "SCORES": {
-   "count": 5677,
-   "last": "2026-11-16 17:10:38"
+   "count": 5682,
+   "last": "2026-11-16 18:14:11"
   },
   "SHEETS": {
    "count": 5268,
@@ -10523,14 +10523,14 @@
    "last": "2026-11-16 14:39:14"
   },
   "WIKI": {
-   "count": 10143,
-   "last": "2026-11-16 17:50:35"
+   "count": 10144,
+   "last": "2026-11-16 18:13:11"
   },
   "WIKIWATCH": {
    "count": 660,
    "last": "2026-11-16 17:41:27"
   }
  },
- "generated_at": "2026-11-16T18:04:45",
- "total": 42541
+ "generated_at": "2026-11-16T18:14:17",
+ "total": 42547
 }
