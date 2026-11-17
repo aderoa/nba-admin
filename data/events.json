@@ -1,6 +1,37 @@
 {
  "events": [
   {
+   "detail": "2026-27 Two-Way Signings  - REMOVED 2 Years. Skill; Injury or Illness. Compensation protection for 2026-27 Season is for $91,000. Love of the Game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-11-17 12:57:14",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Two-Way Signings  - REMOVED Execution Date: 7/7/26",
+   "detected_at": "2026-11-17 12:57:14",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Two-Way Signings  + ADDED  2 Years. Skill; Injury or Illness. Compensation protection for 2026-27 Season is none. Compensation protection for 2027-28 Season is none. Love of the Game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-11-17 12:57:14",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Two-Way Signings  + ADDED  Execution Date: 11/17/26",
+   "detected_at": "2026-11-17 12:57:14",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "Blake Wesley  ~ 131835: number -> -",
+   "detected_at": "2026-11-17 12:55:26",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "20"
+  },
+  {
    "detail": "Asa Newell  ~ CAREER  + 2025–2026 →College Park Skyhawks",
    "detected_at": "2026-11-17 12:29:35",
    "source": "WIKI",
@@ -10392,47 +10423,12 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Jordan_Loyd"
-  },
-  {
-   "detail": "Nigel Williams-Goss  ~ weight_lb: - -> 191",
-   "detected_at": "2026-11-15 06:54:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Nigel_Williams-Goss"
-  },
-  {
-   "detail": "Justin Wright-Foreman  ~ weight_lb: - -> 190",
-   "detected_at": "2026-11-15 06:54:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Justin_Wright-Foreman"
-  },
-  {
-   "detail": "Kyle Filipowski  ~ weight_lb: - -> 250",
-   "detected_at": "2026-11-15 06:54:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Kyle_Filipowski"
-  },
-  {
-   "detail": "Daniel Ochefu  ~ nationality: Nigerian / American -> -",
-   "detected_at": "2026-11-15 06:54:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Daniel_Ochefu"
-  },
-  {
-   "detail": "Miye Oni  ~ weight_lb: - -> 206",
-   "detected_at": "2026-11-15 06:54:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Miye_Oni"
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 4373,
-   "last": "2026-11-17 12:22:15"
+   "count": 4377,
+   "last": "2026-11-17 12:57:14"
   },
   "GLEAGUE": {
    "count": 1186,
@@ -10467,10 +10463,10 @@
    "last": "2026-11-17 12:29:35"
   },
   "WIKIWATCH": {
-   "count": 660,
-   "last": "2026-11-16 17:41:27"
+   "count": 661,
+   "last": "2026-11-17 12:55:26"
   }
  },
- "generated_at": "2026-11-17T12:29:38",
- "total": 42706
+ "generated_at": "2026-11-17T13:04:42",
+ "total": 42711
 }
