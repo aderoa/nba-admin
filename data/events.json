@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Mexican LNBP Astros de Jalisco 75, Soles 74",
+   "detected_at": "2026-11-17 10:46:45",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-16/Soles-at-Astros-de-Jalisco/546397"
+  },
+  {
+   "detail": "Coty Clarke  ~ CAREER  + 2026-2026 Caimito, Minao",
+   "detected_at": "2026-11-17 10:46:35",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Coty_Clarke"
+  },
+  {
    "detail": "Kobi Simmons  ~ team: Saski Baskonia -> Baskonia",
    "detected_at": "2026-11-17 10:03:36",
    "source": "WIKI",
@@ -10447,20 +10461,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Dejan_Todorovi%C4%87"
-  },
-  {
-   "detail": "Mamadou Niang (basketball)  ~ nationality: Senegalese -> -",
-   "detected_at": "2026-11-15 06:54:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Mamadou_Niang_(basketball)"
-  },
-  {
-   "detail": "Nikos Rogkavopoulos  ~ weight_lb: - -> 200",
-   "detected_at": "2026-11-15 06:54:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Nikos_Rogkavopoulos"
   }
  ],
  "feeds": {
@@ -10485,8 +10485,8 @@
    "last": "2026-11-17 04:10:09"
   },
   "SCORES": {
-   "count": 5725,
-   "last": "2026-11-17 04:10:11"
+   "count": 5726,
+   "last": "2026-11-17 10:46:45"
   },
   "SHEETS": {
    "count": 5268,
@@ -10497,14 +10497,14 @@
    "last": "2026-11-16 14:39:14"
   },
   "WIKI": {
-   "count": 10187,
-   "last": "2026-11-17 10:03:36"
+   "count": 10188,
+   "last": "2026-11-17 10:46:35"
   },
   "WIKIWATCH": {
    "count": 660,
    "last": "2026-11-16 17:41:27"
   }
  },
- "generated_at": "2026-11-17T10:12:24",
- "total": 42669
+ "generated_at": "2026-11-17T10:47:13",
+ "total": 42671
 }
