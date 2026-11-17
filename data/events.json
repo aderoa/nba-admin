@@ -1,6 +1,34 @@
 {
  "events": [
   {
+   "detail": "NCAA North Alabama 87, Fisk 49",
+   "detected_at": "2026-11-16 16:09:04",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-16/Fisk-at-North-Alabama/544612"
+  },
+  {
+   "detail": "NCAA Morehead State 104, Miami U Hamilton 69",
+   "detected_at": "2026-11-16 16:08:59",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-16/Miami-U--Hamilton-at-Morehead-State/540052"
+  },
+  {
+   "detail": "NCAA UTEP 79, Florida AM 46",
+   "detected_at": "2026-11-16 16:08:55",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-16/Florida-AM-at-UTEP/544610"
+  },
+  {
+   "detail": "NCAA George Washington 94, Ferrum 57",
+   "detected_at": "2026-11-16 16:08:51",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-16/Ferrum-at-George-Washington/532335"
+  },
+  {
    "detail": "2026-11-16  Atlanta Hawks waived guard Keshon Gilbert.",
    "detected_at": "2026-11-16 14:39:14",
    "source": "TRANSACTIONS",
@@ -10459,34 +10487,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Amen_Thompson"
-  },
-  {
-   "detail": "Amen Thompson  ~ draft_team: - -> Houston Rockets",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Amen_Thompson"
-  },
-  {
-   "detail": "Jabari Smith Jr.  ~ weight_lb: - -> 231",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jabari_Smith_Jr."
-  },
-  {
-   "detail": "Vincent Edwards (basketball)  ~ weight_lb: - -> 225",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Vincent_Edwards_(basketball)"
-  },
-  {
-   "detail": "Jermaine Samuels  ~ weight_lb: - -> 239",
-   "detected_at": "2026-11-15 06:54:07",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jermaine_Samuels"
   }
  ],
  "feeds": {
@@ -10511,8 +10511,8 @@
    "last": "2026-11-16 11:42:53"
   },
   "SCORES": {
-   "count": 5669,
-   "last": "2026-11-16 11:42:54"
+   "count": 5673,
+   "last": "2026-11-16 16:09:04"
   },
   "SHEETS": {
    "count": 5268,
@@ -10531,6 +10531,6 @@
    "last": "2026-11-16 07:10:19"
   }
  },
- "generated_at": "2026-11-16T16:00:25",
- "total": 42509
+ "generated_at": "2026-11-16T16:09:09",
+ "total": 42513
 }
