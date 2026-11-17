@@ -1,6 +1,32 @@
 {
  "events": [
   {
+   "detail": "Dragan Apić  ~ CAREER  + 2021–2022 Zielona Góra",
+   "detected_at": "2026-11-17 13:44:35",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Dragan_Api%C4%87"
+  },
+  {
+   "detail": "Dragan Apić  ~ CAREER  + 2024–2026 Breogán",
+   "detected_at": "2026-11-17 13:44:35",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Dragan_Api%C4%87"
+  },
+  {
+   "detail": "2026-11-17  Utah Jazz signed center Jonas Aidoo to a Two-Way Contract.",
+   "detected_at": "2026-11-17 13:37:34",
+   "source": "TRANSACTIONS",
+   "type": "Signing"
+  },
+  {
+   "detail": "2026-11-16  Atlanta Hawks signed center Rafael Castro to a Two-Way Contract.",
+   "detected_at": "2026-11-17 13:37:34",
+   "source": "TRANSACTIONS",
+   "type": "Signing"
+  },
+  {
    "detail": "2026-27 Two-Way Signings  - REMOVED 2 Years. Skill; Injury or Illness. Compensation protection for 2026-27 Season is for $91,000. Love of the Game. Physical Exam. Alt. 7(b).",
    "detected_at": "2026-11-17 12:57:14",
    "source": "DOCS",
@@ -10395,34 +10421,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Malik_Williams"
-  },
-  {
-   "detail": "Jamison Battle  ~ weight_lb: - -> 220",
-   "detected_at": "2026-11-15 06:54:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jamison_Battle"
-  },
-  {
-   "detail": "Markquis Nowell  ~ weight_lb: - -> 163",
-   "detected_at": "2026-11-15 06:54:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Markquis_Nowell"
-  },
-  {
-   "detail": "Greg Deane  ~ nationality: American -> -",
-   "detected_at": "2026-11-15 06:54:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Greg_Deane"
-  },
-  {
-   "detail": "Jordan Loyd  ~ nationality: American / Polish -> -",
-   "detected_at": "2026-11-15 06:54:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jordan_Loyd"
   }
  ],
  "feeds": {
@@ -10455,18 +10453,18 @@
    "last": "2026-11-17 12:22:18"
   },
   "TRANSACTIONS": {
-   "count": 708,
-   "last": "2026-11-16 14:39:14"
+   "count": 710,
+   "last": "2026-11-17 13:37:34"
   },
   "WIKI": {
-   "count": 10189,
-   "last": "2026-11-17 12:29:35"
+   "count": 10191,
+   "last": "2026-11-17 13:44:35"
   },
   "WIKIWATCH": {
    "count": 661,
    "last": "2026-11-17 12:55:26"
   }
  },
- "generated_at": "2026-11-17T13:04:42",
- "total": 42711
+ "generated_at": "2026-11-17T13:44:36",
+ "total": 42715
 }
