@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Orlando Robinson  ~ team: Chicago Bulls -> Windy City Bulls",
+   "detected_at": "2026-11-17 07:19:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Orlando_Robinson"
+  },
+  {
+   "detail": "Orlando Robinson  ~ league: NBA -> NBA G League",
+   "detected_at": "2026-11-17 07:19:37",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Orlando_Robinson"
+  },
+  {
+   "detail": "Orlando Robinson  ~ CAREER  + 2026–present →Windy City Bulls",
+   "detected_at": "2026-11-17 07:19:37",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Orlando_Robinson"
+  },
+  {
    "detail": "Darío Brizuela  ~ position: Shooting guard / point guard -> Shooting guard",
    "detected_at": "2026-11-17 06:32:35",
    "source": "WIKI",
@@ -10440,27 +10461,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Scott_Bamforth"
-  },
-  {
-   "detail": "Stephen Holt (basketball)  ~ nationality: American / Filipino -> -",
-   "detected_at": "2026-11-15 06:54:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Stephen_Holt_(basketball)"
-  },
-  {
-   "detail": "Omari Gudul  ~ nationality: Congolese -> -",
-   "detected_at": "2026-11-15 06:54:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Omari_Gudul"
-  },
-  {
-   "detail": "Jarrod Jones  ~ weight_lb: - -> 232",
-   "detected_at": "2026-11-15 06:54:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jarrod_Jones"
   }
  ],
  "feeds": {
@@ -10497,14 +10497,14 @@
    "last": "2026-11-16 14:39:14"
   },
   "WIKI": {
-   "count": 10172,
-   "last": "2026-11-17 06:32:35"
+   "count": 10175,
+   "last": "2026-11-17 07:19:37"
   },
   "WIKIWATCH": {
    "count": 660,
    "last": "2026-11-16 17:41:27"
   }
  },
- "generated_at": "2026-11-17T07:10:20",
- "total": 42654
+ "generated_at": "2026-11-17T07:20:02",
+ "total": 42657
 }
