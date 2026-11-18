@@ -1,6 +1,60 @@
 {
  "events": [
   {
+   "detail": "2026-11-17  Waivers Cleared: Russel Tchewa",
+   "detected_at": "2026-11-18 06:06:43",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-17  Waivers Cleared: Markhi Strickland",
+   "detected_at": "2026-11-18 06:06:43",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-17  Acquired from Player Pool: Carter Whitt (Remix)",
+   "detected_at": "2026-11-18 06:06:43",
+   "source": "GLEAGUE",
+   "type": "Acquired/Assigned"
+  },
+  {
+   "detail": "2026-11-17  Assigned: Khalifa Diop (Charge)",
+   "detected_at": "2026-11-18 06:06:43",
+   "source": "GLEAGUE",
+   "type": "Acquired/Assigned"
+  },
+  {
+   "detail": "2026-11-17  Acquired from Player Pool: Olisa Akonobi (Squadron)",
+   "detected_at": "2026-11-18 06:06:43",
+   "source": "GLEAGUE",
+   "type": "Acquired/Assigned"
+  },
+  {
+   "detail": "2026-11-17  NBA Call-Up: Jonas Aidoo (Stars)",
+   "detected_at": "2026-11-18 06:06:43",
+   "source": "GLEAGUE",
+   "type": "Call-Up/Recall"
+  },
+  {
+   "detail": "2026-11-17  Acquired: Jonas Aidoo (Stars)",
+   "detected_at": "2026-11-18 06:06:43",
+   "source": "GLEAGUE",
+   "type": "Acquired/Assigned"
+  },
+  {
+   "detail": "2026-11-17  NBA Call-Up: Rafael Castro (Capitanes)",
+   "detected_at": "2026-11-18 06:06:43",
+   "source": "GLEAGUE",
+   "type": "Call-Up/Recall"
+  },
+  {
+   "detail": "2026-11-17  Acquired: Rafael Castro (Skyhawks)",
+   "detected_at": "2026-11-18 06:06:43",
+   "source": "GLEAGUE",
+   "type": "Acquired/Assigned"
+  },
+  {
    "detail": "Killian Hayes  ~ team: Free agent -> FC Barcelona",
    "detected_at": "2026-11-18 06:05:04",
    "source": "WIKI",
@@ -10358,69 +10412,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Lazar_Radosavljevi%C4%87"
-  },
-  {
-   "detail": "Đorđe Kaplanović  ~ nationality: Serbian / Montenegrin -> -",
-   "detected_at": "2026-11-15 06:54:09",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/%C4%90or%C4%91e_Kaplanovi%C4%87"
-  },
-  {
-   "detail": "Kamil Łączyński  ~ nationality: Polish -> -",
-   "detected_at": "2026-11-15 06:54:09",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Kamil_%C5%81%C4%85czy%C5%84ski"
-  },
-  {
-   "detail": "Marcus Weathers  ~ weight_lb: - -> 215",
-   "detected_at": "2026-11-15 06:54:09",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Marcus_Weathers"
-  },
-  {
-   "detail": "Karlo Vragović  ~ nationality: Croatian -> -",
-   "detected_at": "2026-11-15 06:54:09",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Karlo_Vragovi%C4%87"
-  },
-  {
-   "detail": "Adam Łapeta  ~ nationality: Polish -> -",
-   "detected_at": "2026-11-15 06:54:09",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Adam_%C5%81apeta"
-  },
-  {
-   "detail": "Stefan Kenić  ~ nationality: Serbian -> -",
-   "detected_at": "2026-11-15 06:54:09",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Stefan_Keni%C4%87"
-  },
-  {
-   "detail": "Armani Moore  ~ nationality: American -> -",
-   "detected_at": "2026-11-15 06:54:09",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Armani_Moore"
-  },
-  {
-   "detail": "Einaras Tubutis  ~ nationality: Lithuanian -> -",
-   "detected_at": "2026-11-15 06:54:09",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Einaras_Tubutis"
-  },
-  {
-   "detail": "Ben Emelogu  ~ weight_lb: - -> 215",
-   "detected_at": "2026-11-15 06:54:09",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Ben_Emelogu"
   }
  ],
  "feeds": {
@@ -10429,8 +10420,8 @@
    "last": "2026-11-17 12:57:14"
   },
   "GLEAGUE": {
-   "count": 1186,
-   "last": "2026-11-17 06:10:21"
+   "count": 1195,
+   "last": "2026-11-18 06:06:43"
   },
   "PLAYERS": {
    "count": 1938,
@@ -10465,6 +10456,6 @@
    "last": "2026-11-18 05:55:43"
   }
  },
- "generated_at": "2026-11-18T06:05:36",
- "total": 42838
+ "generated_at": "2026-11-18T06:06:45",
+ "total": 42847
 }
