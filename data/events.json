@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "NCAA Southern 100, Louisiana Christian 58",
+   "detected_at": "2026-11-17 17:18:53",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-17/Louisiana-Christian-at-Southern/544336"
+  },
+  {
+   "detail": "NCAA Houston 85, Rutgers 73",
+   "detected_at": "2026-11-17 17:18:49",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-17/Rutgers-at-Houston/535209"
+  },
+  {
+   "detail": "NCAA Florida 86, Notre Dame 78",
+   "detected_at": "2026-11-17 17:18:45",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-17/Notre-Dame-at-Florida/535208"
+  },
+  {
    "detail": "OG Anunoby  ~ position: Small forward / shooting guard -> Small Forward / Power Forward",
    "detected_at": "2026-11-17 17:08:34",
    "source": "WIKI",
@@ -10400,27 +10421,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Keldon_Johnson"
-  },
-  {
-   "detail": "Joe Wieskamp  ~ weight_lb: - -> 205",
-   "detected_at": "2026-11-15 06:54:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Joe_Wieskamp"
-  },
-  {
-   "detail": "Jordan Hall (basketball)  ~ weight_lb: - -> 215",
-   "detected_at": "2026-11-15 06:54:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jordan_Hall_(basketball)"
-  },
-  {
-   "detail": "Luka Šamanić  ~ weight_lb: - -> 240",
-   "detected_at": "2026-11-15 06:54:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Luka_%C5%A0amani%C4%87"
   }
  ],
  "feeds": {
@@ -10445,8 +10445,8 @@
    "last": "2026-11-17 04:10:09"
   },
   "SCORES": {
-   "count": 5728,
-   "last": "2026-11-17 16:18:03"
+   "count": 5731,
+   "last": "2026-11-17 17:18:53"
   },
   "SHEETS": {
    "count": 5284,
@@ -10465,6 +10465,6 @@
    "last": "2026-11-17 12:55:26"
   }
  },
- "generated_at": "2026-11-17T17:16:40",
- "total": 42727
+ "generated_at": "2026-11-17T17:18:57",
+ "total": 42730
 }
