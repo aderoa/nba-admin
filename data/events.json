@@ -1,6 +1,62 @@
 {
  "events": [
   {
+   "detail": "NCAA Murray State 82, Hofstra 66",
+   "detected_at": "2026-11-17 16:18:03",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-17/Murray-State-at-Hofstra/543848"
+  },
+  {
+   "detail": "NCAA Delaware 93, Wilson College 47",
+   "detected_at": "2026-11-17 16:17:59",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-17/Wilson-College-at-Delaware/540062"
+  },
+  {
+   "detail": "Lahaou Konaté  ~ team: ESSM Le Portel -> Metropolitans",
+   "detected_at": "2026-11-17 16:17:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Lahaou_Konat%C3%A9"
+  },
+  {
+   "detail": "Lahaou Konaté  ~ league: LNB Pro A -> Élite 2",
+   "detected_at": "2026-11-17 16:17:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Lahaou_Konat%C3%A9"
+  },
+  {
+   "detail": "Lahaou Konaté  ~ position: Shooting guard / small forward -> Small forward / shooting guard",
+   "detected_at": "2026-11-17 16:17:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Lahaou_Konat%C3%A9"
+  },
+  {
+   "detail": "Lahaou Konaté  ~ number: 5 -> 55",
+   "detected_at": "2026-11-17 16:17:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Lahaou_Konat%C3%A9"
+  },
+  {
+   "detail": "Lahaou Konaté  ~ CAREER  + 2024–2026 ESSM Le Portel",
+   "detected_at": "2026-11-17 16:17:35",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Lahaou_Konat%C3%A9"
+  },
+  {
+   "detail": "Lahaou Konaté  ~ CAREER  + 2026–present Metropolitans Levallois",
+   "detected_at": "2026-11-17 16:17:35",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Lahaou_Konat%C3%A9"
+  },
+  {
    "detail": "Isaiah Canaan  ~ team: Free Agent -> Free agent",
    "detected_at": "2026-11-17 15:32:35",
    "source": "WIKI",
@@ -10365,62 +10421,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/David_Jones_Garc%C3%ADa"
-  },
-  {
-   "detail": "Ken Smith (basketball, born 1953)  ~ nationality: American -> -",
-   "detected_at": "2026-11-15 06:54:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Ken_Smith_(basketball,_born_1953)"
-  },
-  {
-   "detail": "Jalen Harris  ~ nationality: American / Jordanian -> -",
-   "detected_at": "2026-11-15 06:54:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jalen_Harris"
-  },
-  {
-   "detail": "David Johnson (basketball)  ~ weight_lb: - -> 203",
-   "detected_at": "2026-11-15 06:54:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/David_Johnson_(basketball)"
-  },
-  {
-   "detail": "Harrison Ingram  ~ weight_lb: - -> 230",
-   "detected_at": "2026-11-15 06:54:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Harrison_Ingram"
-  },
-  {
-   "detail": "Javon Freeman-Liberty  ~ weight_lb: - -> 190",
-   "detected_at": "2026-11-15 06:54:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Javon_Freeman-Liberty"
-  },
-  {
-   "detail": "Dewan Hernandez  ~ weight_lb: - -> 235",
-   "detected_at": "2026-11-15 06:54:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Dewan_Hernandez"
-  },
-  {
-   "detail": "Shamorie Ponds  ~ weight_lb: - -> 175",
-   "detected_at": "2026-11-15 06:54:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Shamorie_Ponds"
-  },
-  {
-   "detail": "Scottie Barnes  ~ weight_lb: - -> 237",
-   "detected_at": "2026-11-15 06:54:08",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Scottie_Barnes"
   }
  ],
  "feeds": {
@@ -10445,8 +10445,8 @@
    "last": "2026-11-17 04:10:09"
   },
   "SCORES": {
-   "count": 5726,
-   "last": "2026-11-17 10:46:45"
+   "count": 5728,
+   "last": "2026-11-17 16:18:03"
   },
   "SHEETS": {
    "count": 5284,
@@ -10457,14 +10457,14 @@
    "last": "2026-11-17 13:37:34"
   },
   "WIKI": {
-   "count": 10194,
-   "last": "2026-11-17 15:32:35"
+   "count": 10200,
+   "last": "2026-11-17 16:17:35"
   },
   "WIKIWATCH": {
    "count": 661,
    "last": "2026-11-17 12:55:26"
   }
  },
- "generated_at": "2026-11-17T16:08:21",
- "total": 42718
+ "generated_at": "2026-11-17T16:18:07",
+ "total": 42726
 }
