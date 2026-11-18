@@ -1,6 +1,48 @@
 {
  "events": [
   {
+   "detail": "Argentinian Liga A Racing de Chivilcoy 69, Lanus 66",
+   "detected_at": "2026-11-18 08:38:48",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-17/Lanus-at-Racing-de-Chivilcoy/544954"
+  },
+  {
+   "detail": "South Korean KBL Anyang Kwan Jang 82, Wonju Dongbu Promy 77",
+   "detected_at": "2026-11-18 08:38:42",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-17/Anyang-Kwan-Jang-at-Wonju-Dongbu-Promy/531806"
+  },
+  {
+   "detail": "South Korean KBL ~ RETURN Daeheon Lee → Anyang Kwan Jang (from Ulsan Mobis Phoebus)",
+   "detected_at": "2026-11-18 08:38:39",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "Brazilian NBB Unifacisa Paraiba 104, Botafogo FR 95",
+   "detected_at": "2026-11-18 08:38:36",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-17/Botafogo-FR-at-Unifacisa-Paraiba/545209"
+  },
+  {
+   "detail": "Brazilian NBB + David Chaves → Unifacisa Paraiba",
+   "detected_at": "2026-11-18 08:38:34",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Brazilian NBB Corinthians 79, Paulistano 73",
+   "detected_at": "2026-11-18 08:38:31",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-17/Paulistano-at-Corinthians/545210"
+  },
+  {
    "detail": "Slovenian SKL Krka Novo Mesto 89, ECE Triglav 66",
    "detected_at": "2026-11-18 07:36:49",
    "source": "SCORES",
@@ -10370,48 +10412,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Amath_M'Baye"
-  },
-  {
-   "detail": "Rıdvan Öncel  ~ weight_lb: - -> 194",
-   "detected_at": "2026-11-15 06:54:09",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/R%C4%B1dvan_%C3%96ncel"
-  },
-  {
-   "detail": "Doğuş Özdemiroğlu  ~ weight_lb: - -> 194",
-   "detected_at": "2026-11-15 06:54:09",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Do%C4%9Fu%C5%9F_%C3%96zdemiro%C4%9Flu"
-  },
-  {
-   "detail": "Furkan Haltalı  ~ weight_lb: - -> 210",
-   "detected_at": "2026-11-15 06:54:09",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Furkan_Haltal%C4%B1"
-  },
-  {
-   "detail": "Novak Musić  ~ nationality: Serbian -> -",
-   "detected_at": "2026-11-15 06:54:09",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Novak_Musi%C4%87"
-  },
-  {
-   "detail": "Nikola Mišković  ~ nationality: Serbian -> -",
-   "detected_at": "2026-11-15 06:54:09",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Nikola_Mi%C5%A1kovi%C4%87"
-  },
-  {
-   "detail": "Adrian Bogucki  ~ nationality: Polish -> -",
-   "detected_at": "2026-11-15 06:54:09",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Adrian_Bogucki"
   }
  ],
  "feeds": {
@@ -10432,12 +10432,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 11697,
-   "last": "2026-11-18 05:29:39"
+   "count": 11699,
+   "last": "2026-11-18 08:38:39"
   },
   "SCORES": {
-   "count": 5819,
-   "last": "2026-11-18 07:36:49"
+   "count": 5823,
+   "last": "2026-11-18 08:38:48"
   },
   "SHEETS": {
    "count": 5284,
@@ -10456,6 +10456,6 @@
    "last": "2026-11-18 05:55:43"
   }
  },
- "generated_at": "2026-11-18T08:36:21",
- "total": 42849
+ "generated_at": "2026-11-18T08:39:19",
+ "total": 42855
 }
