@@ -1,6 +1,26 @@
 {
  "events": [
   {
+   "detail": "Shane Larkin  ~ position: Point guard -> Point guard / shooting guard",
+   "detected_at": "2026-11-18 10:28:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Shane_Larkin"
+  },
+  {
+   "detail": "2026-11-18  Cleveland Cavaliers signed guard Zack Austin to a Two-Way Contract.",
+   "detected_at": "2026-11-18 10:21:35",
+   "source": "TRANSACTIONS",
+   "type": "Signing"
+  },
+  {
+   "detail": "Shane Larkin  ~ 28945: position -> Point guard",
+   "detected_at": "2026-11-18 10:20:15",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Point guard / shooting guard"
+  },
+  {
    "detail": "Argentinian Liga A Obera Tenis Club 79, Asociacion Deportiva Atenas 72",
    "detected_at": "2026-11-18 09:45:48",
    "source": "SCORES",
@@ -10377,27 +10397,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Rihards_Loma%C5%BEs"
-  },
-  {
-   "detail": "Chris Jones (basketball, born 1993)  ~ nationality: American / Armenian -> -",
-   "detected_at": "2026-11-15 06:54:09",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Chris_Jones_(basketball,_born_1993)"
-  },
-  {
-   "detail": "İsmet Akpınar  ~ nationality: Turkish / German -> -",
-   "detected_at": "2026-11-15 06:54:09",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/%C4%B0smet_Akp%C4%B1nar"
-  },
-  {
-   "detail": "Akeem Vargas  ~ nationality: American / German -> -",
-   "detected_at": "2026-11-15 06:54:09",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Akeem_Vargas"
   }
  ],
  "feeds": {
@@ -10430,18 +10429,18 @@
    "last": "2026-11-18 09:14:20"
   },
   "TRANSACTIONS": {
-   "count": 710,
-   "last": "2026-11-17 13:37:34"
+   "count": 711,
+   "last": "2026-11-18 10:21:35"
   },
   "WIKI": {
-   "count": 10220,
-   "last": "2026-11-18 09:21:35"
+   "count": 10221,
+   "last": "2026-11-18 10:28:36"
   },
   "WIKIWATCH": {
-   "count": 664,
-   "last": "2026-11-18 05:55:43"
+   "count": 665,
+   "last": "2026-11-18 10:20:15"
   }
  },
- "generated_at": "2026-11-18T09:46:29",
- "total": 42887
+ "generated_at": "2026-11-18T10:28:37",
+ "total": 42890
 }
