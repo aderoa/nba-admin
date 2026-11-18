@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Slovenian SKL Krka Novo Mesto 89, ECE Triglav 66",
+   "detected_at": "2026-11-18 07:36:49",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-17/Krka-Novo-Mesto-at-ECE-Triglav/537272"
+  },
+  {
    "detail": "Euroleague Virtus Bologna 84, Panathinaikos 79",
    "detected_at": "2026-11-18 06:35:30",
    "source": "SCORES",
@@ -10405,13 +10412,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Adrian_Bogucki"
-  },
-  {
-   "detail": "Courtney Ramey  ~ weight_lb: - -> 185",
-   "detected_at": "2026-11-15 06:54:09",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Courtney_Ramey"
   }
  ],
  "feeds": {
@@ -10436,8 +10436,8 @@
    "last": "2026-11-18 05:29:39"
   },
   "SCORES": {
-   "count": 5818,
-   "last": "2026-11-18 06:35:30"
+   "count": 5819,
+   "last": "2026-11-18 07:36:49"
   },
   "SHEETS": {
    "count": 5284,
@@ -10456,6 +10456,6 @@
    "last": "2026-11-18 05:55:43"
   }
  },
- "generated_at": "2026-11-18T07:35:37",
- "total": 42848
+ "generated_at": "2026-11-18T07:37:18",
+ "total": 42849
 }
