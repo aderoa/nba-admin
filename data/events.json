@@ -1,6 +1,125 @@
 {
  "events": [
   {
+   "detail": "Riley Minix  ~ team: Cleveland Cavaliers -> -",
+   "detected_at": "2026-11-18 09:21:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Riley_Minix"
+  },
+  {
+   "detail": "Riley Minix  ~ league: NBA -> -",
+   "detected_at": "2026-11-18 09:21:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Riley_Minix"
+  },
+  {
+   "detail": "Riley Minix  ~ number: 12 -> -",
+   "detected_at": "2026-11-18 09:21:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Riley_Minix"
+  },
+  {
+   "detail": "Riley Minix  ~ CAREER  + Cleveland Cavaliers",
+   "detected_at": "2026-11-18 09:21:35",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Riley_Minix"
+  },
+  {
+   "detail": "Riley Minix  ~ CAREER  + 2026 →Cleveland Charge",
+   "detected_at": "2026-11-18 09:21:35",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Riley_Minix"
+  },
+  {
+   "detail": "CHI  + ADDED  Robinson, Orlando",
+   "detected_at": "2026-11-18 09:14:20",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "CHI  CHANGED Jones, Kam  -  col9: 1075459 -> 1075459.0",
+   "detected_at": "2026-11-18 09:14:20",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "CHI  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 165770083 -> 168033555, col9: 400715636.9 -> 402979108.9",
+   "detected_at": "2026-11-18 09:14:20",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "CHI  CHANGED Players Under Contract  -  col3: 164694624 -> 166958096",
+   "detected_at": "2026-11-18 09:14:20",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "CHI  CHANGED Rest of Season Contracts  -  col3: 0 -> 2263472",
+   "detected_at": "2026-11-18 09:14:20",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "CHI  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 14 -> 15",
+   "detected_at": "2026-11-18 09:14:20",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "CHI  CHANGED Avg, Salary (Mean) (No 10-Day K's)  -  col6: 1 -> 0",
+   "detected_at": "2026-11-18 09:14:20",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  - REMOVED Update 1.4 (10/20/26 - 11/17/26): M. Plumlee, D. Terry, B. Wesley",
+   "detected_at": "2026-11-18 09:14:16",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Update 1.4 (10/20/26 - 11/17/26): M. Plumlee, O. Robinson, D. Terry, B. Wesley",
+   "detected_at": "2026-11-18 09:14:16",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Orlando Robinson Chicago Bulls",
+   "detected_at": "2026-11-18 09:14:16",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  26-27 $2,263,472",
+   "detected_at": "2026-11-18 09:14:16",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  27-28 $2,988,178 (Team Option)",
+   "detected_at": "2026-11-18 09:14:16",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  2 Years for $5,251,650. Rest of Season. Minimum Salary Exception.",
+   "detected_at": "2026-11-18 09:14:16",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Veteran Signings  + ADDED  Execution Date: 11/13/26",
+   "detected_at": "2026-11-18 09:14:16",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "Argentinian Liga A Racing de Chivilcoy 69, Lanus 66",
    "detected_at": "2026-11-18 08:38:48",
    "source": "SCORES",
@@ -10279,145 +10398,12 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Nick_Weiler-Babb"
-  },
-  {
-   "detail": "Erkan Yılmaz  ~ weight_lb: - -> 192",
-   "detected_at": "2026-11-15 06:54:09",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Erkan_Y%C4%B1lmaz"
-  },
-  {
-   "detail": "Egemen Güven  ~ weight_lb: - -> 220",
-   "detected_at": "2026-11-15 06:54:09",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Egemen_G%C3%BCven"
-  },
-  {
-   "detail": "Egemen Güven  ~ nationality: Turkish -> -",
-   "detected_at": "2026-11-15 06:54:09",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Egemen_G%C3%BCven"
-  },
-  {
-   "detail": "Tolga Geçim  ~ weight_lb: - -> 200",
-   "detected_at": "2026-11-15 06:54:09",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Tolga_Ge%C3%A7im"
-  },
-  {
-   "detail": "Emircan Koşut  ~ weight_lb: - -> 220",
-   "detected_at": "2026-11-15 06:54:09",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Emircan_Ko%C5%9Fut"
-  },
-  {
-   "detail": "Emircan Koşut  ~ nationality: Turkish -> -",
-   "detected_at": "2026-11-15 06:54:09",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Emircan_Ko%C5%9Fut"
-  },
-  {
-   "detail": "Buğrahan Tuncer  ~ weight_lb: - -> 198",
-   "detected_at": "2026-11-15 06:54:09",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Bu%C4%9Frahan_Tuncer"
-  },
-  {
-   "detail": "Berk Demir  ~ weight_lb: - -> 220",
-   "detected_at": "2026-11-15 06:54:09",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Berk_Demir"
-  },
-  {
-   "detail": "Erten Gazi  ~ weight_lb: - -> 205",
-   "detected_at": "2026-11-15 06:54:09",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Erten_Gazi"
-  },
-  {
-   "detail": "Erten Gazi  ~ nationality: Turkish / Cypriot -> -",
-   "detected_at": "2026-11-15 06:54:09",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Erten_Gazi"
-  },
-  {
-   "detail": "Ercan Osmani  ~ weight_lb: - -> 225",
-   "detected_at": "2026-11-15 06:54:09",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Ercan_Osmani"
-  },
-  {
-   "detail": "Ercan Osmani  ~ nationality: Turkish/ Albanian -> -",
-   "detected_at": "2026-11-15 06:54:09",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Ercan_Osmani"
-  },
-  {
-   "detail": "Ahmet Düverioğlu  ~ nationality: Jordanian / Turkish -> -",
-   "detected_at": "2026-11-15 06:54:09",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Ahmet_D%C3%BCverio%C4%9Flu"
-  },
-  {
-   "detail": "Muhaymin Mustafa  ~ weight_lb: - -> 200",
-   "detected_at": "2026-11-15 06:54:09",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Muhaymin_Mustafa"
-  },
-  {
-   "detail": "Muhaymin Mustafa  ~ nationality: Sudanese / Turkish -> -",
-   "detected_at": "2026-11-15 06:54:09",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Muhaymin_Mustafa"
-  },
-  {
-   "detail": "Yiğitcan Saybir  ~ weight_lb: - -> 191",
-   "detected_at": "2026-11-15 06:54:09",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Yi%C4%9Fitcan_Saybir"
-  },
-  {
-   "detail": "Şehmus Hazer  ~ weight_lb: - -> 198",
-   "detected_at": "2026-11-15 06:54:09",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/%C5%9Eehmus_Hazer"
-  },
-  {
-   "detail": "Burak Can Yıldızlı  ~ weight_lb: - -> 190",
-   "detected_at": "2026-11-15 06:54:09",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Burak_Can_Y%C4%B1ld%C4%B1zl%C4%B1"
-  },
-  {
-   "detail": "Amath M'Baye  ~ weight_lb: - -> 225",
-   "detected_at": "2026-11-15 06:54:09",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Amath_M'Baye"
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 4377,
-   "last": "2026-11-17 12:57:14"
+   "count": 4384,
+   "last": "2026-11-18 09:14:16"
   },
   "GLEAGUE": {
    "count": 1195,
@@ -10440,22 +10426,22 @@
    "last": "2026-11-18 08:38:48"
   },
   "SHEETS": {
-   "count": 5284,
-   "last": "2026-11-17 12:22:18"
+   "count": 5291,
+   "last": "2026-11-18 09:14:20"
   },
   "TRANSACTIONS": {
    "count": 710,
    "last": "2026-11-17 13:37:34"
   },
   "WIKI": {
-   "count": 10215,
-   "last": "2026-11-18 06:05:04"
+   "count": 10220,
+   "last": "2026-11-18 09:21:35"
   },
   "WIKIWATCH": {
    "count": 664,
    "last": "2026-11-18 05:55:43"
   }
  },
- "generated_at": "2026-11-18T08:39:19",
- "total": 42855
+ "generated_at": "2026-11-18T09:21:38",
+ "total": 42874
 }
