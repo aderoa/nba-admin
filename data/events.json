@@ -1,6 +1,26 @@
 {
  "events": [
   {
+   "detail": "Carlik Jones  ~ height_in: 0 -> 1",
+   "detected_at": "2026-11-18 15:09:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Carlik_Jones"
+  },
+  {
+   "detail": "Carlik Jones  ~ weight_lb: 178 -> 174",
+   "detected_at": "2026-11-18 15:09:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Carlik_Jones"
+  },
+  {
+   "detail": "2026-11-18  Cleveland Cavaliers waived forward Riley Minix.",
+   "detected_at": "2026-11-18 15:02:13",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
    "detail": "Mexican LNBP Soles 76, Astros de Jalisco 75",
    "detected_at": "2026-11-18 14:41:03",
    "source": "SCORES",
@@ -10374,27 +10394,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Charlon_Kloof"
-  },
-  {
-   "detail": "Luka Božić  ~ team: Guangdong Southern Tigers -> Free Agent",
-   "detected_at": "2026-11-15 06:54:09",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Luka_Bo%C5%BEi%C4%87"
-  },
-  {
-   "detail": "Luka Božić  ~ league: CBA -> -",
-   "detected_at": "2026-11-15 06:54:09",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Luka_Bo%C5%BEi%C4%87"
-  },
-  {
-   "detail": "Luka Božić  ~ number: 29 -> -",
-   "detected_at": "2026-11-15 06:54:09",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Luka_Bo%C5%BEi%C4%87"
   }
  ],
  "feeds": {
@@ -10427,18 +10426,18 @@
    "last": "2026-11-18 09:14:20"
   },
   "TRANSACTIONS": {
-   "count": 711,
-   "last": "2026-11-18 10:21:35"
+   "count": 712,
+   "last": "2026-11-18 15:02:13"
   },
   "WIKI": {
-   "count": 10246,
-   "last": "2026-11-18 14:39:38"
+   "count": 10248,
+   "last": "2026-11-18 15:09:38"
   },
   "WIKIWATCH": {
    "count": 671,
    "last": "2026-11-18 14:30:22"
   }
  },
- "generated_at": "2026-11-18T14:41:26",
- "total": 42951
+ "generated_at": "2026-11-18T15:09:40",
+ "total": 42954
 }
