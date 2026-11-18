@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Euroleague Virtus Bologna 84, Panathinaikos 79",
+   "detected_at": "2026-11-18 06:35:30",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-17/Panathinaikos-at-Virtus-Bologna/526893"
+  },
+  {
    "detail": "2026-11-17  Waivers Cleared: Russel Tchewa",
    "detected_at": "2026-11-18 06:06:43",
    "source": "GLEAGUE",
@@ -10405,13 +10412,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Courtney_Ramey"
-  },
-  {
-   "detail": "Lazar Radosavljević  ~ nationality: Serbian -> -",
-   "detected_at": "2026-11-15 06:54:09",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Lazar_Radosavljevi%C4%87"
   }
  ],
  "feeds": {
@@ -10436,8 +10436,8 @@
    "last": "2026-11-18 05:29:39"
   },
   "SCORES": {
-   "count": 5817,
-   "last": "2026-11-18 05:34:40"
+   "count": 5818,
+   "last": "2026-11-18 06:35:30"
   },
   "SHEETS": {
    "count": 5284,
@@ -10456,6 +10456,6 @@
    "last": "2026-11-18 05:55:43"
   }
  },
- "generated_at": "2026-11-18T06:33:39",
- "total": 42847
+ "generated_at": "2026-11-18T06:35:53",
+ "total": 42848
 }
