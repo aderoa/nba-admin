@@ -1,6 +1,48 @@
 {
  "events": [
   {
+   "detail": "Bobi Klintman  ~ position: Power forward / small forward -> Power forward / center",
+   "detected_at": "2026-11-18 12:43:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Bobi_Klintman"
+  },
+  {
+   "detail": "Marcus Sasser  ~ position: Point guard -> Shooting guard / point guard",
+   "detected_at": "2026-11-18 12:43:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Marcus_Sasser"
+  },
+  {
+   "detail": "Stefan Pot  ~ team: Slovan Bratislava -> -",
+   "detected_at": "2026-11-18 12:43:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Stefan_Pot"
+  },
+  {
+   "detail": "Stefan Pot  ~ league: SBL ABA League -> -",
+   "detected_at": "2026-11-18 12:43:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Stefan_Pot"
+  },
+  {
+   "detail": "Stefan Pot  ~ number: 11 -> -",
+   "detected_at": "2026-11-18 12:43:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Stefan_Pot"
+  },
+  {
+   "detail": "Stefan Pot  ~ CAREER  + 2026 Slovan Bratislava",
+   "detected_at": "2026-11-18 12:43:35",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Stefan_Pot"
+  },
+  {
    "detail": "Marcus Sasser  ~ position: Shooting guard / point guard -> Point guard",
    "detected_at": "2026-11-18 12:00:36",
    "source": "WIKI",
@@ -10355,48 +10397,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/David_Kravish"
-  },
-  {
-   "detail": "Charlie Moore (basketball)  ~ weight_lb: - -> 180",
-   "detected_at": "2026-11-15 06:54:09",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Charlie_Moore_(basketball)"
-  },
-  {
-   "detail": "Charlie Moore (basketball)  ~ nationality: American -> -",
-   "detected_at": "2026-11-15 06:54:09",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Charlie_Moore_(basketball)"
-  },
-  {
-   "detail": "David Michineau  ~ weight_lb: - -> 180",
-   "detected_at": "2026-11-15 06:54:09",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/David_Michineau"
-  },
-  {
-   "detail": "David Michineau  ~ nationality: French -> -",
-   "detected_at": "2026-11-15 06:54:09",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/David_Michineau"
-  },
-  {
-   "detail": "Vitto Brown  ~ weight_lb: - -> 235",
-   "detected_at": "2026-11-15 06:54:09",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Vitto_Brown"
-  },
-  {
-   "detail": "Jonathan Tornato  ~ nationality: French -> -",
-   "detected_at": "2026-11-15 06:54:09",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jonathan_Tornato"
   }
  ],
  "feeds": {
@@ -10433,14 +10433,14 @@
    "last": "2026-11-18 10:21:35"
   },
   "WIKI": {
-   "count": 10232,
-   "last": "2026-11-18 12:00:36"
+   "count": 10238,
+   "last": "2026-11-18 12:43:35"
   },
   "WIKIWATCH": {
    "count": 670,
    "last": "2026-11-18 11:17:47"
   }
  },
- "generated_at": "2026-11-18T12:01:12",
- "total": 42912
+ "generated_at": "2026-11-18T12:43:36",
+ "total": 42918
 }
