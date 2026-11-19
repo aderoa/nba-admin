@@ -1,6 +1,30 @@
 {
  "events": [
   {
+   "detail": "2026-27 Two-Way Signings  - REMOVED 2 Years. Skill; Injury or Illness. Compensation protection for 2026-27 Season is none. Compensation protection for 2027-28 Season is none. Love of the Game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-11-19 11:07:14",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Two-Way Signings  + ADDED  2 Years. Rest of Season. Skill; Injury or Illness. Compensation protection for 2026-27 Season is none. Compensation protection for 2027-28 Season is none. Love of the Game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-11-19 11:07:14",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "2026-27 Two-Way Signings  - REMOVED 1 Year. Skill; Injury or Illness. Compensation protection for 2026-27 Season is none. Love of the game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-11-19 11:07:14",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Two-Way Signings  + ADDED  1 Year. Rest of Season Skill; Injury or Illness. Compensation protection for 2026-27 Season is none. Love of the game. Physical Exam. Alt. 7(b).",
+   "detected_at": "2026-11-19 11:07:14",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "Romanian Divizia A CS Rapid Bucuresti 89, CSM Corona Brasov 87",
    "detected_at": "2026-11-19 10:36:46",
    "source": "SCORES",
@@ -10358,40 +10382,12 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Jon_Dalzell"
-  },
-  {
-   "detail": "Erez Markovich  ~ nationality: Israeli -> -",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Erez_Markovich"
-  },
-  {
-   "detail": "Yuval Sznajderman  ~ weight_lb: - -> 180",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Yuval_Sznajderman"
-  },
-  {
-   "detail": "Yuval Sznajderman  ~ nationality: Israeli -> -",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Yuval_Sznajderman"
-  },
-  {
-   "detail": "Adam Ariel  ~ nationality: Israeli / German -> -",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Adam_Ariel"
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 4386,
-   "last": "2026-11-18 14:32:22"
+   "count": 4390,
+   "last": "2026-11-19 11:07:14"
   },
   "GLEAGUE": {
    "count": 1203,
@@ -10430,6 +10426,6 @@
    "last": "2026-11-18 14:30:22"
   }
  },
- "generated_at": "2026-11-19T11:05:36",
- "total": 43159
+ "generated_at": "2026-11-19T11:07:20",
+ "total": 43163
 }
