@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Mike Phelps  ~ CAREER  + 1988–1989 San Miguel Beermen",
+   "detected_at": "2026-11-19 14:07:35",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Mike_Phelps"
+  },
+  {
+   "detail": "Mike Phelps  ~ CAREER  + 1989-1990 Santa Barbara Islanders",
+   "detected_at": "2026-11-19 14:07:35",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Mike_Phelps"
+  },
+  {
+   "detail": "Mike Phelps  ~ CAREER  + 1990 San Miguel Beermen",
+   "detected_at": "2026-11-19 14:07:35",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Mike_Phelps"
+  },
+  {
    "detail": "FIBA Europe Cup Zastal Zielona Gora 90, BK Levicki Patrioti Levice 88",
    "detected_at": "2026-11-19 11:56:41",
    "source": "SCORES",
@@ -10361,27 +10382,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Jo_Lual-Acuil"
-  },
-  {
-   "detail": "Jalen Adams  ~ weight_lb: - -> 195",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jalen_Adams"
-  },
-  {
-   "detail": "Ryan Lexer  ~ nationality: American -> -",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Ryan_Lexer"
-  },
-  {
-   "detail": "Uri Cohen-Mintz  ~ nationality: Israeli -> -",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Uri_Cohen-Mintz"
   }
  ],
  "feeds": {
@@ -10418,14 +10418,14 @@
    "last": "2026-11-18 15:02:13"
   },
   "WIKI": {
-   "count": 10289,
-   "last": "2026-11-19 08:21:36"
+   "count": 10292,
+   "last": "2026-11-19 14:07:35"
   },
   "WIKIWATCH": {
    "count": 671,
    "last": "2026-11-18 14:30:22"
   }
  },
- "generated_at": "2026-11-19T13:35:21",
- "total": 43164
+ "generated_at": "2026-11-19T14:07:57",
+ "total": 43167
 }
