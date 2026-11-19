@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Ethan Thompson  ~ height_in: 5 -> 4",
+   "detected_at": "2026-11-18 16:32:47",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Ethan_Thompson"
+  },
+  {
    "detail": "Carlik Jones  ~ height_in: 0 -> 1",
    "detected_at": "2026-11-18 15:09:38",
    "source": "WIKI",
@@ -10387,13 +10394,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Gonzalo_Corbal%C3%A1n"
-  },
-  {
-   "detail": "Charlon Kloof  ~ nationality: Dutch / Surinamese -> -",
-   "detected_at": "2026-11-15 06:54:09",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Charlon_Kloof"
   }
  ],
  "feeds": {
@@ -10430,14 +10430,14 @@
    "last": "2026-11-18 15:02:13"
   },
   "WIKI": {
-   "count": 10248,
-   "last": "2026-11-18 15:09:38"
+   "count": 10249,
+   "last": "2026-11-18 16:32:47"
   },
   "WIKIWATCH": {
    "count": 671,
    "last": "2026-11-18 14:30:22"
   }
  },
- "generated_at": "2026-11-18T16:23:21",
- "total": 42954
+ "generated_at": "2026-11-18T16:32:49",
+ "total": 42955
 }
