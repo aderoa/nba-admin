@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Romanian Divizia A CS Rapid Bucuresti 89, CSM Corona Brasov 87",
+   "detected_at": "2026-11-19 10:36:46",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-19/CS-Rapid-Bucuresti-at-CSM-Corona-Brasov/539017"
+  },
+  {
+   "detail": "Australian NBL Illawarra 103, Adelaide 97",
+   "detected_at": "2026-11-19 10:36:42",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-19/Adelaide-at-Illawarra/524443"
+  },
+  {
    "detail": "Clifford Omoruyi  ~ team: Free agent -> SIG Strasbourg",
    "detected_at": "2026-11-19 08:21:36",
    "source": "WIKI",
@@ -10372,20 +10386,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Adam_Ariel"
-  },
-  {
-   "detail": "Siniša Kelečević  ~ nationality: Croatian -> -",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Sini%C5%A1a_Kele%C4%8Devi%C4%87"
-  },
-  {
-   "detail": "Keith Bennett (basketball)  ~ nationality: American / Israeli -> -",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Keith_Bennett_(basketball)"
   }
  ],
  "feeds": {
@@ -10410,8 +10410,8 @@
    "last": "2026-11-19 06:10:08"
   },
   "SCORES": {
-   "count": 5985,
-   "last": "2026-11-19 06:12:21"
+   "count": 5987,
+   "last": "2026-11-19 10:36:46"
   },
   "SHEETS": {
    "count": 5291,
@@ -10430,6 +10430,6 @@
    "last": "2026-11-18 14:30:22"
   }
  },
- "generated_at": "2026-11-19T10:06:24",
- "total": 43157
+ "generated_at": "2026-11-19T10:37:09",
+ "total": 43159
 }
