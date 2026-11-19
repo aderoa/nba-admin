@@ -1,6 +1,54 @@
 {
  "events": [
   {
+   "detail": "2026-11-18  Waivers Cleared: Shawn Jones, Jr",
+   "detected_at": "2026-11-19 06:42:31",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-18  Acquired from Player Pool: Shawn Jones, Jr (Squadron)",
+   "detected_at": "2026-11-19 06:42:31",
+   "source": "GLEAGUE",
+   "type": "Acquired/Assigned"
+  },
+  {
+   "detail": "2026-11-18  NBA Call-Up: Zack Austin (Charge)",
+   "detected_at": "2026-11-19 06:42:31",
+   "source": "GLEAGUE",
+   "type": "Call-Up/Recall"
+  },
+  {
+   "detail": "2026-11-18  Acquired: Zack Austin (Charge)",
+   "detected_at": "2026-11-19 06:42:31",
+   "source": "GLEAGUE",
+   "type": "Acquired/Assigned"
+  },
+  {
+   "detail": "2026-11-18  Recalled: Khalifa Diop (Charge)",
+   "detected_at": "2026-11-19 06:42:31",
+   "source": "GLEAGUE",
+   "type": "Call-Up/Recall"
+  },
+  {
+   "detail": "2026-11-18  Acquired from Player Pool: Shammah Scott (Charge)",
+   "detected_at": "2026-11-19 06:42:31",
+   "source": "GLEAGUE",
+   "type": "Acquired/Assigned"
+  },
+  {
+   "detail": "2026-11-18  Recalled: Bogoljub Markovic (Herd)",
+   "detected_at": "2026-11-19 06:42:31",
+   "source": "GLEAGUE",
+   "type": "Call-Up/Recall"
+  },
+  {
+   "detail": "2026-11-19  Assigned: Khalifa Diop (Charge)",
+   "detected_at": "2026-11-19 06:42:31",
+   "source": "GLEAGUE",
+   "type": "Acquired/Assigned"
+  },
+  {
    "detail": "NCAA Texas RGV 98, College Of Biblical Studies 40",
    "detected_at": "2026-11-19 06:12:21",
    "source": "SCORES",
@@ -10338,62 +10386,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Owen_Klassen"
-  },
-  {
-   "detail": "Robert Rikić  ~ nationality: Croatian -> -",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Robert_Riki%C4%87"
-  },
-  {
-   "detail": "Ognjen Čarapić  ~ nationality: Montenegrin -> -",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Ognjen_%C4%8Carapi%C4%87"
-  },
-  {
-   "detail": "William Coleman (basketball)  ~ nationality: American -> -",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/William_Coleman_(basketball)"
-  },
-  {
-   "detail": "Petar Popović (basketball, born 1996)  ~ nationality: Montenegrin -> -",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Petar_Popovi%C4%87_(basketball,_born_1996)"
-  },
-  {
-   "detail": "Bogdan Bojić  ~ nationality: Montenegrin -> -",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Bogdan_Boji%C4%87"
-  },
-  {
-   "detail": "Milan Milošević  ~ nationality: Bosnian -> -",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Milan_Milo%C5%A1evi%C4%87"
-  },
-  {
-   "detail": "Vasilije Baćović  ~ nationality: Montenegrin -> -",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Vasilije_Ba%C4%87ovi%C4%87"
-  },
-  {
-   "detail": "Marko Mugoša (basketball)  ~ nationality: Montenegrin -> -",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Marko_Mugo%C5%A1a_(basketball)"
   }
  ],
  "feeds": {
@@ -10402,8 +10394,8 @@
    "last": "2026-11-18 14:32:22"
   },
   "GLEAGUE": {
-   "count": 1195,
-   "last": "2026-11-18 06:06:43"
+   "count": 1203,
+   "last": "2026-11-19 06:42:31"
   },
   "PLAYERS": {
    "count": 1938,
@@ -10438,6 +10430,6 @@
    "last": "2026-11-18 14:30:22"
   }
  },
- "generated_at": "2026-11-19T06:12:25",
- "total": 43141
+ "generated_at": "2026-11-19T06:49:37",
+ "total": 43149
 }
