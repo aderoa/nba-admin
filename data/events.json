@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Norman Powell  ~ position: Shooting guard -> Shooting guard / Small Forward",
+   "detected_at": "2026-11-19 19:18:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Norman_Powell"
+  },
+  {
+   "detail": "Norman Powell  ~ height_in: 4 -> 3",
+   "detected_at": "2026-11-19 19:18:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Norman_Powell"
+  },
+  {
    "detail": "NCAA Notre Dame 78, Auburn 73",
    "detected_at": "2026-11-19 17:19:02",
    "source": "SCORES",
@@ -10368,20 +10382,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Willy_Workman"
-  },
-  {
-   "detail": "H Waldman  ~ nationality: American / Israeli -> -",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/H_Waldman"
-  },
-  {
-   "detail": "David Bernsley  ~ nationality: American / Israeli -> -",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/David_Bernsley"
   }
  ],
  "feeds": {
@@ -10418,14 +10418,14 @@
    "last": "2026-11-18 15:02:13"
   },
   "WIKI": {
-   "count": 10293,
-   "last": "2026-11-19 15:00:35"
+   "count": 10295,
+   "last": "2026-11-19 19:18:36"
   },
   "WIKIWATCH": {
    "count": 671,
    "last": "2026-11-18 14:30:22"
   }
  },
- "generated_at": "2026-11-19T19:09:22",
- "total": 43170
+ "generated_at": "2026-11-19T19:18:40",
+ "total": 43172
 }
