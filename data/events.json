@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Serbian KLS KK Nis 78, BKK Radnicki Beograd 75",
+   "detected_at": "2026-11-20 03:39:28",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-19/KK-Nis-at-BKK-Radnicki-Beograd/545603"
+  },
+  {
    "detail": "JaVale McGee  ~ team: - -> Shanghai Sharks",
    "detected_at": "2026-11-20 03:08:35",
    "source": "WIKI",
@@ -10375,13 +10382,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Omari_Moore"
-  },
-  {
-   "detail": "Tuğberk Gedikli  ~ weight_lb: - -> 210",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Tu%C4%9Fberk_Gedikli"
   }
  ],
  "feeds": {
@@ -10406,8 +10406,8 @@
    "last": "2026-11-19 06:10:08"
   },
   "SCORES": {
-   "count": 6026,
-   "last": "2026-11-20 02:38:28"
+   "count": 6027,
+   "last": "2026-11-20 03:39:28"
   },
   "SHEETS": {
    "count": 5291,
@@ -10426,6 +10426,6 @@
    "last": "2026-11-18 14:30:22"
   }
  },
- "generated_at": "2026-11-20T03:37:22",
- "total": 43226
+ "generated_at": "2026-11-20T03:39:47",
+ "total": 43227
 }
