@@ -1,6 +1,34 @@
 {
  "events": [
   {
+   "detail": "French Jeep Elite Chorale Roanne Basket 85, CSP Limoges 82",
+   "detected_at": "2026-11-20 13:10:55",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-20/CSP-Limoges-at-Chorale-Roanne-Basket/538632"
+  },
+  {
+   "detail": "Finnish Korisliiga Salon Vilpas 90, Kauhajoki Karhu 76",
+   "detected_at": "2026-11-20 13:10:50",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-20/Kauhajoki-Karhu-at-Salon-Vilpas/537399"
+  },
+  {
+   "detail": "Finnish Korisliiga KTP Basket 99, Helsinki Seagulls 82",
+   "detected_at": "2026-11-20 13:10:45",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-20/Helsinki-Seagulls-at-KTP-Basket/537398"
+  },
+  {
+   "detail": "Australian NBL Cairns 98, Perth 90",
+   "detected_at": "2026-11-20 13:10:41",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-20/Perth-at-Cairns/524444"
+  },
+  {
    "detail": "NCAA Maryland Eastern Shore 87, Bloomfield 77",
    "detected_at": "2026-11-20 12:05:24",
    "source": "SCORES",
@@ -10332,34 +10360,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Vassilis_Toliopoulos"
-  },
-  {
-   "detail": "Vassilis Christidis  ~ weight_lb: - -> 240",
-   "detected_at": "2026-11-15 06:54:11",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Vassilis_Christidis"
-  },
-  {
-   "detail": "Nikos Michalos  ~ weight_lb: - -> 190",
-   "detected_at": "2026-11-15 06:54:11",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Nikos_Michalos"
-  },
-  {
-   "detail": "Nikos Michalos  ~ nationality: Greek -> -",
-   "detected_at": "2026-11-15 06:54:11",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Nikos_Michalos"
-  },
-  {
-   "detail": "Andreas Tsoumanis  ~ weight_lb: - -> 220",
-   "detected_at": "2026-11-15 06:54:11",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Andreas_Tsoumanis"
   }
  ],
  "feeds": {
@@ -10384,8 +10384,8 @@
    "last": "2026-11-20 08:52:35"
   },
   "SCORES": {
-   "count": 6060,
-   "last": "2026-11-20 12:05:24"
+   "count": 6064,
+   "last": "2026-11-20 13:10:55"
   },
   "SHEETS": {
    "count": 5291,
@@ -10404,6 +10404,6 @@
    "last": "2026-11-18 14:30:22"
   }
  },
- "generated_at": "2026-11-20T13:00:45",
- "total": 43311
+ "generated_at": "2026-11-20T13:11:17",
+ "total": 43315
 }
