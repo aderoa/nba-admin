@@ -1,6 +1,55 @@
 {
  "events": [
   {
+   "detail": "NCAA St Thomas 93, Southeast Missouri State 61",
+   "detected_at": "2026-11-19 20:31:14",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-19/Southeast-Missouri-State-at-St-Thomas/540080"
+  },
+  {
+   "detail": "NCAA Georgia Southern 86, Houston Christian 79",
+   "detected_at": "2026-11-19 20:31:10",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-19/Georgia-Southern-at-Houston-Christian/540078"
+  },
+  {
+   "detail": "NCAA North Dakota 91, Mayville State 66",
+   "detected_at": "2026-11-19 20:31:06",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-19/Mayville-State-at-North-Dakota/544617"
+  },
+  {
+   "detail": "NCAA Illinois State 123, Eureka 48",
+   "detected_at": "2026-11-19 20:31:02",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-19/Eureka-at-Illinois-State/543851"
+  },
+  {
+   "detail": "NCAA Texas AM 90, TCU 87",
+   "detected_at": "2026-11-19 20:30:58",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-19/Texas-AM-at-TCU/539089"
+  },
+  {
+   "detail": "NCAA Louisville 83, Stetson 69",
+   "detected_at": "2026-11-19 20:30:54",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-19/Stetson-at-Louisville/539091"
+  },
+  {
+   "detail": "NCAA Texas 92, Southern Utah 68",
+   "detected_at": "2026-11-19 20:30:50",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-19/Southern-Utah-at-Texas/528974"
+  },
+  {
    "detail": "NCAA North Alabama 74, Tusculum 67",
    "detected_at": "2026-11-19 19:23:34",
    "source": "SCORES",
@@ -10333,55 +10382,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Vasilije_Pu%C5%A1ica"
-  },
-  {
-   "detail": "Akwasi Yeboah  ~ weight_lb: - -> 230",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Akwasi_Yeboah"
-  },
-  {
-   "detail": "Akwasi Yeboah  ~ nationality: British / Ghanaian -> -",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Akwasi_Yeboah"
-  },
-  {
-   "detail": "Emir Gökalp  ~ weight_lb: - -> 175",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Emir_G%C3%B6kalp"
-  },
-  {
-   "detail": "Emir Gökalp  ~ nationality: Turkish -> -",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Emir_G%C3%B6kalp"
-  },
-  {
-   "detail": "Fabian White Jr.  ~ weight_lb: - -> 230",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Fabian_White_Jr."
-  },
-  {
-   "detail": "Şuacan Pişkin  ~ weight_lb: - -> 187",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/%C5%9Euacan_Pi%C5%9Fkin"
-  },
-  {
-   "detail": "Şuacan Pişkin  ~ nationality: Turkish -> -",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/%C5%9Euacan_Pi%C5%9Fkin"
   }
  ],
  "feeds": {
@@ -10406,8 +10406,8 @@
    "last": "2026-11-19 06:10:08"
   },
   "SCORES": {
-   "count": 6004,
-   "last": "2026-11-19 19:23:34"
+   "count": 6011,
+   "last": "2026-11-19 20:31:14"
   },
   "SHEETS": {
    "count": 5291,
@@ -10426,6 +10426,6 @@
    "last": "2026-11-18 14:30:22"
   }
  },
- "generated_at": "2026-11-19T20:04:19",
- "total": 43186
+ "generated_at": "2026-11-19T20:31:17",
+ "total": 43193
 }
