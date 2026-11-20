@@ -1,6 +1,48 @@
 {
  "events": [
   {
+   "detail": "Brazilian NBB Unifacisa Paraiba 102, Flamengo 79",
+   "detected_at": "2026-11-20 05:47:52",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-19/Flamengo-at-Unifacisa-Paraiba/545212"
+  },
+  {
+   "detail": "Argentinian Liga A Atletico Argentino de Junin 86, Lanus 69",
+   "detected_at": "2026-11-20 05:47:47",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-19/Lanus-at-Atletico-Argentino-de-Junin/544952"
+  },
+  {
+   "detail": "Argentinian Liga A Obera Tenis Club 96, Independiente de Oliva 89",
+   "detected_at": "2026-11-20 05:47:43",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-19/Independiente-de-Oliva-at-Obera-Tenis-Club/539281"
+  },
+  {
+   "detail": "Argentinian Liga A Ferrocarril Oeste Buenos Aires 84, Ciclista Olimpico 80",
+   "detected_at": "2026-11-20 05:47:38",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-19/Ferrocarril-Oeste-Buenos-Aires-at-Ciclista-Olimpico/544959"
+  },
+  {
+   "detail": "Argentinian Liga A + Emiliano Basabe → Ciclista Olimpico",
+   "detected_at": "2026-11-20 05:47:36",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Euroleague Paris Basketball 97, Hapoel Tel Aviv 96",
+   "detected_at": "2026-11-20 05:47:33",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-19/Hapoel-Tel-Aviv-at-Paris-Basketball/526899"
+  },
+  {
    "detail": "Euroleague Valencia Basket 92, Virtus Bologna 87",
    "detected_at": "2026-11-20 04:40:54",
    "source": "SCORES",
@@ -10340,48 +10382,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Tyree_Appleby"
-  },
-  {
-   "detail": "Scottie Wilbekin  ~ weight_lb: - -> 176",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Scottie_Wilbekin"
-  },
-  {
-   "detail": "Scottie Wilbekin  ~ nationality: American / Turkish -> -",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Scottie_Wilbekin"
-  },
-  {
-   "detail": "Yunus Emre Sonsırma  ~ weight_lb: - -> 190",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Yunus_Emre_Sons%C4%B1rma"
-  },
-  {
-   "detail": "Yunus Emre Sonsırma  ~ nationality: Turkish -> -",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Yunus_Emre_Sons%C4%B1rma"
-  },
-  {
-   "detail": "Metin Türen  ~ weight_lb: - -> 209",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Metin_T%C3%BCren"
-  },
-  {
-   "detail": "Metin Türen  ~ nationality: Turkish -> -",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Metin_T%C3%BCren"
   }
  ],
  "feeds": {
@@ -10402,12 +10402,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 11732,
-   "last": "2026-11-19 06:10:08"
+   "count": 11733,
+   "last": "2026-11-20 05:47:36"
   },
   "SCORES": {
-   "count": 6032,
-   "last": "2026-11-20 04:40:54"
+   "count": 6037,
+   "last": "2026-11-20 05:47:52"
   },
   "SHEETS": {
    "count": 5291,
@@ -10426,6 +10426,6 @@
    "last": "2026-11-18 14:30:22"
   }
  },
- "generated_at": "2026-11-20T05:39:42",
- "total": 43237
+ "generated_at": "2026-11-20T05:48:15",
+ "total": 43243
 }
