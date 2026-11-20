@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "NCAA USC 96, Tarleton State 51",
+   "detected_at": "2026-11-20 02:38:28",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-19/Tarleton-State-at-USC/543733"
+  },
+  {
+   "detail": "Danish Basketligaen Vaerlose BBK 83, Copenhagen Basketball 82",
+   "detected_at": "2026-11-20 02:38:06",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-19/Copenhagen-Basketball-at-Vaerlose-BBK/531729"
+  },
+  {
+   "detail": "Norwegian BLNO BK Kongsberg Miners 103, Centrum Tigers 76",
+   "detected_at": "2026-11-20 02:38:02",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-19/Centrum-Tigers-at-BK-Kongsberg-Miners/530302"
+  },
+  {
    "detail": "Chris Boucher (basketball)  ~ team: Shanghai Sharks -> Free agent",
    "detected_at": "2026-11-20 02:27:17",
    "source": "WIKI",
@@ -10361,27 +10382,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Sebastian_Schmitt"
-  },
-  {
-   "detail": "Jason George (basketball)  ~ weight_lb: - -> 202",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jason_George_(basketball)"
-  },
-  {
-   "detail": "Jason George (basketball)  ~ nationality: German -> -",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jason_George_(basketball)"
-  },
-  {
-   "detail": "Ivan Volf  ~ nationality: Croatian / German -> -",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Ivan_Volf"
   }
  ],
  "feeds": {
@@ -10406,8 +10406,8 @@
    "last": "2026-11-19 06:10:08"
   },
   "SCORES": {
-   "count": 6023,
-   "last": "2026-11-20 01:37:16"
+   "count": 6026,
+   "last": "2026-11-20 02:38:28"
   },
   "SHEETS": {
    "count": 5291,
@@ -10426,6 +10426,6 @@
    "last": "2026-11-18 14:30:22"
   }
  },
- "generated_at": "2026-11-20T02:36:21",
- "total": 43209
+ "generated_at": "2026-11-20T02:38:30",
+ "total": 43212
 }
