@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Ben Saraf  ~ team: Long Island Nets -> Brooklyn Nets",
+   "detected_at": "2026-11-20 06:42:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Ben_Saraf"
+  },
+  {
+   "detail": "Ben Saraf  ~ league: NBA G League -> NBA",
+   "detected_at": "2026-11-20 06:42:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Ben_Saraf"
+  },
+  {
+   "detail": "Ben Saraf  ~ CAREER  + 2025–2026 →Long Island Nets",
+   "detected_at": "2026-11-20 06:42:35",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Ben_Saraf"
+  },
+  {
    "detail": "2026-11-19  Waived: Myron Amey (Suns)",
    "detected_at": "2026-11-20 06:12:20",
    "source": "GLEAGUE",
@@ -10348,27 +10369,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Isaiah_Blackmon"
-  },
-  {
-   "detail": "Berkay Taşkıran  ~ weight_lb: - -> 190",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Berkay_Ta%C5%9Fk%C4%B1ran"
-  },
-  {
-   "detail": "Berkay Taşkıran  ~ nationality: Turkish -> -",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Berkay_Ta%C5%9Fk%C4%B1ran"
-  },
-  {
-   "detail": "Uroš Plavšić  ~ nationality: Serbian -> -",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Uro%C5%A1_Plav%C5%A1i%C4%87"
   }
  ],
  "feeds": {
@@ -10405,14 +10405,14 @@
    "last": "2026-11-18 15:02:13"
   },
   "WIKI": {
-   "count": 10318,
-   "last": "2026-11-20 04:14:34"
+   "count": 10321,
+   "last": "2026-11-20 06:42:35"
   },
   "WIKIWATCH": {
    "count": 671,
    "last": "2026-11-18 14:30:22"
   }
  },
- "generated_at": "2026-11-20T06:34:22",
- "total": 43256
+ "generated_at": "2026-11-20T06:42:36",
+ "total": 43259
 }
