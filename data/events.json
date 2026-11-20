@@ -1,6 +1,104 @@
 {
  "events": [
   {
+   "detail": "Lithuanian NKL Telsiai 88, Kretingos Kretinga 64",
+   "detected_at": "2026-11-20 07:50:16",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-19/Kretingos-Kretinga-at-Telsiai/546133"
+  },
+  {
+   "detail": "Lithuanian NKL Mazeikiai 95, Zalgiris II 75",
+   "detected_at": "2026-11-20 07:50:12",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-19/Zalgiris-II-at-Mazeikiai/546134"
+  },
+  {
+   "detail": "Lithuanian NKL + Einartas Survila → Zalgiris II",
+   "detected_at": "2026-11-20 07:50:11",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian NKL + Danielius Jasikevicius → Zalgiris II",
+   "detected_at": "2026-11-20 07:50:11",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian NKL Neptuans Akvaservis Klaipeda 89, Vilkaviskio Perlas 82",
+   "detected_at": "2026-11-20 07:50:08",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-19/Vilkaviskio-Perlas-at-Neptuans-Akvaservis-Klaipeda/546135"
+  },
+  {
+   "detail": "Lithuanian NKL ~ RETURN Simas Sarakauskas → Neptuans Akvaservis Klaipeda (from Neptunas)",
+   "detected_at": "2026-11-20 07:50:07",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian NKL Kedainiu SC 89, Alytus Alytus 80",
+   "detected_at": "2026-11-20 07:50:04",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-19/Alytus-Alytus-at-Kedainiu-SC/546137"
+  },
+  {
+   "detail": "Lithuanian NKL ~ MOVED Grantas Vasiliauskas → Alytus Alytus (from Jonava Jonavos)",
+   "detected_at": "2026-11-20 07:50:02",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian NKL Omega Tauras Kauno 81, Silute 71",
+   "detected_at": "2026-11-20 07:50:00",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-19/Omega-Tauras-Kauno-at-Silute/546132"
+  },
+  {
+   "detail": "Lithuanian NKL + Tomas Balciunas → Silute",
+   "detected_at": "2026-11-20 07:49:58",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian NKL Olimpas Palangos 92, Vytis Zanavykas Sakiai 85",
+   "detected_at": "2026-11-20 07:49:55",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-19/Olimpas-Palangos-at-Vytis-Zanavykas-Sakiai/546131"
+  },
+  {
+   "detail": "Lithuanian NKL + Zygimantas Sabaliauskas → Vytis Zanavykas Sakiai",
+   "detected_at": "2026-11-20 07:49:54",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian NKL Kauno LKKA Atletas 105, Lietuvos Rytas II 91",
+   "detected_at": "2026-11-20 07:49:51",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-19/Lietuvos-Rytas-II-at-Kauno-LKKA-Atletas/546130"
+  },
+  {
+   "detail": "Lithuanian NKL Marijampole Suduva Arvi 90, Plunges Olimpas 59",
+   "detected_at": "2026-11-20 07:49:47",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-19/Plunges-Olimpas-at-Marijampole-Suduva-Arvi/546129"
+  },
+  {
    "detail": "Brazilian NBB Corinthians 74, Pato Basquete 73",
    "detected_at": "2026-11-20 06:48:37",
    "source": "SCORES",
@@ -10271,104 +10369,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Amir_Bell"
-  },
-  {
-   "detail": "Sunday Adebayo  ~ weight_lb: - -> 225",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Sunday_Adebayo"
-  },
-  {
-   "detail": "Akil Mitchell  ~ nationality: Panamanian / American -> -",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Akil_Mitchell"
-  },
-  {
-   "detail": "Kyle Lofton  ~ weight_lb: - -> 188",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Kyle_Lofton"
-  },
-  {
-   "detail": "Ibi Watson  ~ weight_lb: - -> 195",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Ibi_Watson"
-  },
-  {
-   "detail": "Ibi Watson  ~ draft_year: - -> 2021",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Ibi_Watson"
-  },
-  {
-   "detail": "Ibi Watson  ~ nationality: American -> -",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Ibi_Watson"
-  },
-  {
-   "detail": "EJ Onu  ~ weight_lb: - -> 240",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/EJ_Onu"
-  },
-  {
-   "detail": "EJ Onu  ~ draft_year: - -> 2021",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/EJ_Onu"
-  },
-  {
-   "detail": "Barış Güney  ~ weight_lb: - -> 209",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Bar%C4%B1%C5%9F_G%C3%BCney"
-  },
-  {
-   "detail": "Barış Güney  ~ nationality: Turkish -> -",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Bar%C4%B1%C5%9F_G%C3%BCney"
-  },
-  {
-   "detail": "Brynton Lemar  ~ nationality: American / Jamaican -> -",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Brynton_Lemar"
-  },
-  {
-   "detail": "Toddrick Gotcher  ~ nationality: American -> -",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Toddrick_Gotcher"
-  },
-  {
-   "detail": "Berkan Durmaz  ~ nationality: Turkish -> -",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Berkan_Durmaz"
-  },
-  {
-   "detail": "Sadık Emir Kabaca  ~ weight_lb: - -> 215",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Sad%C4%B1k_Emir_Kabaca"
   }
  ],
  "feeds": {
@@ -10389,12 +10389,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 11734,
-   "last": "2026-11-20 06:48:31"
+   "count": 11740,
+   "last": "2026-11-20 07:50:11"
   },
   "SCORES": {
-   "count": 6040,
-   "last": "2026-11-20 06:48:37"
+   "count": 6048,
+   "last": "2026-11-20 07:50:16"
   },
   "SHEETS": {
    "count": 5291,
@@ -10413,6 +10413,6 @@
    "last": "2026-11-18 14:30:22"
   }
  },
- "generated_at": "2026-11-20T07:48:21",
- "total": 43263
+ "generated_at": "2026-11-20T07:50:38",
+ "total": 43277
 }
