@@ -1,6 +1,84 @@
 {
  "events": [
   {
+   "detail": "2026-11-19  Waived: Myron Amey (Suns)",
+   "detected_at": "2026-11-20 06:12:20",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-19  Recalled: Ben Saraf (Nets)",
+   "detected_at": "2026-11-20 06:12:20",
+   "source": "GLEAGUE",
+   "type": "Call-Up/Recall"
+  },
+  {
+   "detail": "2026-11-19  Recalled: Joshua Jefferson (Nets)",
+   "detected_at": "2026-11-20 06:12:20",
+   "source": "GLEAGUE",
+   "type": "Call-Up/Recall"
+  },
+  {
+   "detail": "2026-11-19  Recalled: Drake Powell (Nets)",
+   "detected_at": "2026-11-20 06:12:20",
+   "source": "GLEAGUE",
+   "type": "Call-Up/Recall"
+  },
+  {
+   "detail": "2026-11-19  Assigned: Jaden Bradley (Raptors)",
+   "detected_at": "2026-11-20 06:12:20",
+   "source": "GLEAGUE",
+   "type": "Acquired/Assigned"
+  },
+  {
+   "detail": "2026-11-19  Assigned: Cameron Carr (Lakers)",
+   "detected_at": "2026-11-20 06:12:20",
+   "source": "GLEAGUE",
+   "type": "Acquired/Assigned"
+  },
+  {
+   "detail": "2026-11-19  Recalled: Ebuka Okorie (Cruise)",
+   "detected_at": "2026-11-20 06:12:20",
+   "source": "GLEAGUE",
+   "type": "Call-Up/Recall"
+  },
+  {
+   "detail": "2026-11-19  Waived: Kalifa Sakho (Go Go)",
+   "detected_at": "2026-11-20 06:12:20",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-19  Assigned: Bruce Thornton (Vipers)",
+   "detected_at": "2026-11-20 06:12:20",
+   "source": "GLEAGUE",
+   "type": "Acquired/Assigned"
+  },
+  {
+   "detail": "2026-11-19  Recalled: Hannes Steinbach (Swarm)",
+   "detected_at": "2026-11-20 06:12:20",
+   "source": "GLEAGUE",
+   "type": "Call-Up/Recall"
+  },
+  {
+   "detail": "2026-11-19  Acquired from Player Pool: Tj Bickerstaff (Raptors)",
+   "detected_at": "2026-11-20 06:12:20",
+   "source": "GLEAGUE",
+   "type": "Acquired/Assigned"
+  },
+  {
+   "detail": "2026-11-19  Assigned: Dailyn Swain (Bulls)",
+   "detected_at": "2026-11-20 06:12:20",
+   "source": "GLEAGUE",
+   "type": "Acquired/Assigned"
+  },
+  {
+   "detail": "2026-11-20  Recalled: Cameron Carr (Lakers)",
+   "detected_at": "2026-11-20 06:12:20",
+   "source": "GLEAGUE",
+   "type": "Call-Up/Recall"
+  },
+  {
    "detail": "Brazilian NBB Unifacisa Paraiba 102, Flamengo 79",
    "detected_at": "2026-11-20 05:47:52",
    "source": "SCORES",
@@ -10291,97 +10369,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Uro%C5%A1_Plav%C5%A1i%C4%87"
-  },
-  {
-   "detail": "Marcus Norris  ~ nationality: American -> -",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Marcus_Norris"
-  },
-  {
-   "detail": "Matt Coleman III  ~ weight_lb: - -> 180",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Matt_Coleman_III"
-  },
-  {
-   "detail": "Sarper David Mutaf  ~ weight_lb: - -> 188",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Sarper_David_Mutaf"
-  },
-  {
-   "detail": "Sarper David Mutaf  ~ nationality: Turkish / Russian -> -",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Sarper_David_Mutaf"
-  },
-  {
-   "detail": "Kur Kuath  ~ nationality: South Sudanese / American -> -",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Kur_Kuath"
-  },
-  {
-   "detail": "Ege Arar  ~ weight_lb: - -> 230",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Ege_Arar"
-  },
-  {
-   "detail": "Aleksandar Petrović (basketball, born 1987)  ~ nationality: Serbian -> -",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Aleksandar_Petrovi%C4%87_(basketball,_born_1987)"
-  },
-  {
-   "detail": "Isaiah Piñeiro  ~ weight_lb: - -> 221",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Isaiah_Pi%C3%B1eiro"
-  },
-  {
-   "detail": "Isaiah Piñeiro  ~ nationality: Puerto Rican -> -",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Isaiah_Pi%C3%B1eiro"
-  },
-  {
-   "detail": "Muhsin Yaşar  ~ weight_lb: - -> 212",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Muhsin_Ya%C5%9Far"
-  },
-  {
-   "detail": "Berke Atar  ~ weight_lb: - -> 231",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Berke_Atar"
-  },
-  {
-   "detail": "Berke Atar  ~ nationality: Turkish -> -",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Berke_Atar"
-  },
-  {
-   "detail": "Tyree Appleby  ~ weight_lb: - -> 175",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Tyree_Appleby"
   }
  ],
  "feeds": {
@@ -10390,8 +10377,8 @@
    "last": "2026-11-19 11:07:14"
   },
   "GLEAGUE": {
-   "count": 1203,
-   "last": "2026-11-19 06:42:31"
+   "count": 1216,
+   "last": "2026-11-20 06:12:20"
   },
   "PLAYERS": {
    "count": 1938,
@@ -10426,6 +10413,6 @@
    "last": "2026-11-18 14:30:22"
   }
  },
- "generated_at": "2026-11-20T05:48:15",
- "total": 43243
+ "generated_at": "2026-11-20T06:19:35",
+ "total": 43256
 }
