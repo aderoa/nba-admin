@@ -1,6 +1,48 @@
 {
  "events": [
   {
+   "detail": "NCAA Maryland Eastern Shore 87, Bloomfield 77",
+   "detected_at": "2026-11-20 12:05:24",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-20/Bloomfield-at-Maryland-Eastern-Shore/543011"
+  },
+  {
+   "detail": "NCAA William Mary 85, Averett 39",
+   "detected_at": "2026-11-20 12:05:17",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-20/Averett-at-William-Mary/538833"
+  },
+  {
+   "detail": "NCAA Temple 85, Middle Tennessee State 76",
+   "detected_at": "2026-11-20 12:05:12",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-20/Middle-Tennessee-State-at-Temple/535246"
+  },
+  {
+   "detail": "NCAA Florida State 87, Green Bay 63",
+   "detected_at": "2026-11-20 12:05:06",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-20/Green-Bay-at-Florida-State/530483"
+  },
+  {
+   "detail": "NCAA Minnesota 85, Oklahoma State 70",
+   "detected_at": "2026-11-20 12:05:02",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-20/Oklahoma-State-at-Minnesota/541087"
+  },
+  {
+   "detail": "Jackson Rowe  ~ CAREER  + Golden State Warriors",
+   "detected_at": "2026-11-20 12:04:34",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Jackson_Rowe"
+  },
+  {
    "detail": "Awudu Abass  ~ number: - -> 55",
    "detected_at": "2026-11-20 10:11:35",
    "source": "WIKI",
@@ -10318,48 +10360,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Andreas_Tsoumanis"
-  },
-  {
-   "detail": "Andreas Tsoumanis  ~ nationality: Greek -> -",
-   "detected_at": "2026-11-15 06:54:11",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Andreas_Tsoumanis"
-  },
-  {
-   "detail": "Iosif Koloveros  ~ weight_lb: - -> 185",
-   "detected_at": "2026-11-15 06:54:11",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Iosif_Koloveros"
-  },
-  {
-   "detail": "Thomas Zevgaras  ~ weight_lb: - -> 225",
-   "detected_at": "2026-11-15 06:54:11",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Thomas_Zevgaras"
-  },
-  {
-   "detail": "George Papas  ~ nationality: American / Greek -> -",
-   "detected_at": "2026-11-15 06:54:11",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/George_Papas"
-  },
-  {
-   "detail": "Dimitris Kalaitzidis (basketball)  ~ weight_lb: - -> 210",
-   "detected_at": "2026-11-15 06:54:11",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Dimitris_Kalaitzidis_(basketball)"
-  },
-  {
-   "detail": "Dimitris Kalaitzidis (basketball)  ~ nationality: Greek -> -",
-   "detected_at": "2026-11-15 06:54:11",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Dimitris_Kalaitzidis_(basketball)"
   }
  ],
  "feeds": {
@@ -10384,8 +10384,8 @@
    "last": "2026-11-20 08:52:35"
   },
   "SCORES": {
-   "count": 6055,
-   "last": "2026-11-20 08:52:52"
+   "count": 6060,
+   "last": "2026-11-20 12:05:24"
   },
   "SHEETS": {
    "count": 5291,
@@ -10396,14 +10396,14 @@
    "last": "2026-11-18 15:02:13"
   },
   "WIKI": {
-   "count": 10324,
-   "last": "2026-11-20 10:11:35"
+   "count": 10325,
+   "last": "2026-11-20 12:04:34"
   },
   "WIKIWATCH": {
    "count": 671,
    "last": "2026-11-18 14:30:22"
   }
  },
- "generated_at": "2026-11-20T11:28:40",
- "total": 43305
+ "generated_at": "2026-11-20T12:05:32",
+ "total": 43311
 }
