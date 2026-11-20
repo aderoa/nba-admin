@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "NCAA Southern Mississippi 103, Grambling State 100",
+   "detected_at": "2026-11-19 23:35:08",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-19/Southern-Mississippi-at-Grambling-State/544358"
+  },
+  {
+   "detail": "NCAA UC Santa Barbara 88, Pepperdine 80",
+   "detected_at": "2026-11-19 23:35:04",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-19/UC-Santa-Barbara-at-Pepperdine/544338"
+  },
+  {
+   "detail": "NCAA UTEP 84, New Mexico State 69",
+   "detected_at": "2026-11-19 23:35:00",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-19/UTEP-at-New-Mexico-State/532500"
+  },
+  {
    "detail": "Jackson Rowe  ~ league: Ligat HaAl -> Israeli Basketball Premier League",
    "detected_at": "2026-11-19 22:59:35",
    "source": "WIKI",
@@ -10361,27 +10382,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Valentin_Pastal"
-  },
-  {
-   "detail": "Kristijan Nikolov  ~ nationality: Macedonian / Turkish -> -",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Kristijan_Nikolov"
-  },
-  {
-   "detail": "Göktürk Gökalp Ural  ~ nationality: Turkish -> -",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/G%C3%B6kt%C3%BCrk_G%C3%B6kalp_Ural"
-  },
-  {
-   "detail": "Marko Arapović  ~ nationality: Croatian -> -",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Marko_Arapovi%C4%87"
   }
  ],
  "feeds": {
@@ -10406,8 +10406,8 @@
    "last": "2026-11-19 06:10:08"
   },
   "SCORES": {
-   "count": 6013,
-   "last": "2026-11-19 22:34:02"
+   "count": 6016,
+   "last": "2026-11-19 23:35:08"
   },
   "SHEETS": {
    "count": 5291,
@@ -10426,6 +10426,6 @@
    "last": "2026-11-18 14:30:22"
   }
  },
- "generated_at": "2026-11-19T23:33:21",
- "total": 43196
+ "generated_at": "2026-11-19T23:35:12",
+ "total": 43199
 }
