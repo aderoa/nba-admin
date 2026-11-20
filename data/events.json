@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "NCAA Notre Dame 78, Auburn 73",
+   "detected_at": "2026-11-19 17:19:02",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-19/Auburn-at-Notre-Dame/546468"
+  },
+  {
+   "detail": "NCAA Florida 85, West Virginia 72",
+   "detected_at": "2026-11-19 17:18:58",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-19/West-Virginia-at-Florida/535215"
+  },
+  {
    "detail": "Sebastián Herrera (basketball)  ~ position: Shooting guard -> Shooting guard / small forward",
    "detected_at": "2026-11-19 15:00:35",
    "source": "WIKI",
@@ -10368,20 +10382,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/David_Bernsley"
-  },
-  {
-   "detail": "Justin Smith (basketball)  ~ weight_lb: - -> 230",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Justin_Smith_(basketball)"
-  },
-  {
-   "detail": "Nimrod Levi  ~ nationality: Israel / Sweden -> -",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Nimrod_Levi"
   }
  ],
  "feeds": {
@@ -10406,8 +10406,8 @@
    "last": "2026-11-19 06:10:08"
   },
   "SCORES": {
-   "count": 5988,
-   "last": "2026-11-19 11:56:41"
+   "count": 5990,
+   "last": "2026-11-19 17:19:02"
   },
   "SHEETS": {
    "count": 5291,
@@ -10426,6 +10426,6 @@
    "last": "2026-11-18 14:30:22"
   }
  },
- "generated_at": "2026-11-19T17:10:21",
- "total": 43168
+ "generated_at": "2026-11-19T17:19:06",
+ "total": 43170
 }
