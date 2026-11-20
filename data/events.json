@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Lucius Davis  ~ career_start: - -> 1992",
+   "detected_at": "2026-11-20 09:48:34",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Lucius_Davis"
+  },
+  {
+   "detail": "Lucius Davis  ~ career_end: - -> 2005",
+   "detected_at": "2026-11-20 09:48:34",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Lucius_Davis"
+  },
+  {
    "detail": "2026-27 Two-Way Signings  - REMOVED Update 1.4 (10/20/26 - 11/17/26): J. Aidoo, J. Broome, R. Castro, W. Clayton, C. Cooper, E. Freeman, D. Knecht, L. Lovering, K. McCullar, R. Minix, N. Omier, M. Peavy, S. Pedulla, R. Saunders,",
    "detected_at": "2026-11-20 09:18:14",
    "source": "DOCS",
@@ -10346,20 +10360,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Sotiris_Oikonomopoulos"
-  },
-  {
-   "detail": "Rion Brown  ~ weight_lb: - -> 216",
-   "detected_at": "2026-11-15 06:54:11",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Rion_Brown"
-  },
-  {
-   "detail": "Rion Brown  ~ nationality: American -> -",
-   "detected_at": "2026-11-15 06:54:11",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Rion_Brown"
   }
  ],
  "feeds": {
@@ -10396,14 +10396,14 @@
    "last": "2026-11-18 15:02:13"
   },
   "WIKI": {
-   "count": 10321,
-   "last": "2026-11-20 06:42:35"
+   "count": 10323,
+   "last": "2026-11-20 09:48:34"
   },
   "WIKIWATCH": {
    "count": 671,
    "last": "2026-11-18 14:30:22"
   }
  },
- "generated_at": "2026-11-20T09:39:22",
- "total": 43302
+ "generated_at": "2026-11-20T09:48:35",
+ "total": 43304
 }
