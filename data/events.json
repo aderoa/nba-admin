@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "NCAA Rutgers 89, UNLV 70",
+   "detected_at": "2026-11-19 22:34:02",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-19/UNLV-at-Rutgers/546469"
+  },
+  {
+   "detail": "NCAA Seton Hall 74, Wisconsin 69",
+   "detected_at": "2026-11-19 22:33:58",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-19/Wisconsin-at-Seton-Hall/535233"
+  },
+  {
    "detail": "NCAA St Thomas 93, Southeast Missouri State 61",
    "detected_at": "2026-11-19 20:31:14",
    "source": "SCORES",
@@ -10368,20 +10382,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/John_Petrucelli"
-  },
-  {
-   "detail": "Caner Erdeniz  ~ nationality: Turkish -> -",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Caner_Erdeniz"
-  },
-  {
-   "detail": "Vasilije Pušica  ~ nationality: Serbian -> -",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Vasilije_Pu%C5%A1ica"
   }
  ],
  "feeds": {
@@ -10406,8 +10406,8 @@
    "last": "2026-11-19 06:10:08"
   },
   "SCORES": {
-   "count": 6011,
-   "last": "2026-11-19 20:31:14"
+   "count": 6013,
+   "last": "2026-11-19 22:34:02"
   },
   "SHEETS": {
    "count": 5291,
@@ -10426,6 +10426,6 @@
    "last": "2026-11-18 14:30:22"
   }
  },
- "generated_at": "2026-11-19T22:24:19",
- "total": 43193
+ "generated_at": "2026-11-19T22:34:06",
+ "total": 43195
 }
