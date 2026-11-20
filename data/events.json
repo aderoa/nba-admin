@@ -1,6 +1,34 @@
 {
  "events": [
   {
+   "detail": "NCAA Stanford 78, Sacramento State 65",
+   "detected_at": "2026-11-20 01:37:16",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-19/Sacramento-State-at-Stanford/539733"
+  },
+  {
+   "detail": "NCAA California 86, East Texas AM 54",
+   "detected_at": "2026-11-20 01:37:12",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-19/East-Texas-AM-at-California/538509"
+  },
+  {
+   "detail": "NCAA VCU 83, Santa Clara 77",
+   "detected_at": "2026-11-20 01:37:08",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-19/VCU-at-Santa-Clara/537999"
+  },
+  {
+   "detail": "NCAA Houston 92, Kansas 83",
+   "detected_at": "2026-11-20 01:37:04",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-19/Houston-at-Kansas/535214"
+  },
+  {
    "detail": "NCAA Portland State 132, Northwest Indian 41",
    "detected_at": "2026-11-20 00:35:52",
    "source": "SCORES",
@@ -10354,34 +10382,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Armando_Bacot"
-  },
-  {
-   "detail": "Ekrem Sancaklı  ~ weight_lb: - -> 191",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Ekrem_Sancakl%C4%B1"
-  },
-  {
-   "detail": "Mert Emre Ekşioğlu  ~ weight_lb: - -> 187",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Mert_Emre_Ek%C5%9Fio%C4%9Flu"
-  },
-  {
-   "detail": "Ahmet Can Duran  ~ nationality: Turkish -> -",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Ahmet_Can_Duran"
-  },
-  {
-   "detail": "Tarik Biberović  ~ nationality: Bosnian / Turkish -> -",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Tarik_Biberovi%C4%87"
   }
  ],
  "feeds": {
@@ -10406,8 +10406,8 @@
    "last": "2026-11-19 06:10:08"
   },
   "SCORES": {
-   "count": 6019,
-   "last": "2026-11-20 00:35:52"
+   "count": 6023,
+   "last": "2026-11-20 01:37:16"
   },
   "SHEETS": {
    "count": 5291,
@@ -10426,6 +10426,6 @@
    "last": "2026-11-18 14:30:22"
   }
  },
- "generated_at": "2026-11-20T01:35:41",
- "total": 43202
+ "generated_at": "2026-11-20T01:37:18",
+ "total": 43206
 }
