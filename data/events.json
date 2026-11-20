@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "NCAA Portland State 132, Northwest Indian 41",
+   "detected_at": "2026-11-20 00:35:52",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-19/Northwest-Indian-at-Portland-State/543004"
+  },
+  {
+   "detail": "NCAA Oregon State 82, Oregon 71",
+   "detected_at": "2026-11-20 00:35:48",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-19/Oregon-State-at-Oregon/545826"
+  },
+  {
+   "detail": "NCAA Washington 82, Utah Tech 69",
+   "detected_at": "2026-11-20 00:35:44",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-19/Utah-Tech-at-Washington/543002"
+  },
+  {
    "detail": "NCAA Southern Mississippi 103, Grambling State 100",
    "detected_at": "2026-11-19 23:35:08",
    "source": "SCORES",
@@ -10361,27 +10382,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Tarik_Biberovi%C4%87"
-  },
-  {
-   "detail": "Ömer Ege Ziyaettin  ~ nationality: Turkish -> -",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/%C3%96mer_Ege_Ziyaettin"
-  },
-  {
-   "detail": "Valentin Pastal  ~ weight_lb: - -> 210",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Valentin_Pastal"
-  },
-  {
-   "detail": "Valentin Pastal  ~ nationality: Turkish / Turkmen -> -",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Valentin_Pastal"
   }
  ],
  "feeds": {
@@ -10406,8 +10406,8 @@
    "last": "2026-11-19 06:10:08"
   },
   "SCORES": {
-   "count": 6016,
-   "last": "2026-11-19 23:35:08"
+   "count": 6019,
+   "last": "2026-11-20 00:35:52"
   },
   "SHEETS": {
    "count": 5291,
@@ -10426,6 +10426,6 @@
    "last": "2026-11-18 14:30:22"
   }
  },
- "generated_at": "2026-11-20T00:33:20",
- "total": 43199
+ "generated_at": "2026-11-20T00:35:54",
+ "total": 43202
 }
