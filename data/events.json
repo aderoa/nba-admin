@@ -1,6 +1,18 @@
 {
  "events": [
   {
+   "detail": "2026-27 Two-Way Signings  - REMOVED Riley Minix Cleveland Cavaliers",
+   "detected_at": "2026-11-20 14:01:36",
+   "source": "DOCS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "2026-27 Two-Way Signings  + ADDED  Riley Minix (WAIVED) Cleveland Cavaliers",
+   "detected_at": "2026-11-20 14:01:36",
+   "source": "DOCS",
+   "type": "ADDED"
+  },
+  {
    "detail": "French Jeep Elite Chorale Roanne Basket 85, CSP Limoges 82",
    "detected_at": "2026-11-20 13:10:55",
    "source": "SCORES",
@@ -10346,26 +10358,12 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Nadir_Hifi"
-  },
-  {
-   "detail": "Kevin Franceschi  ~ nationality: Moroccan / French -> -",
-   "detected_at": "2026-11-15 06:54:11",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Kevin_Franceschi"
-  },
-  {
-   "detail": "Vassilis Toliopoulos  ~ weight_lb: - -> 174",
-   "detected_at": "2026-11-15 06:54:11",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Vassilis_Toliopoulos"
   }
  ],
  "feeds": {
   "DOCS": {
-   "count": 4399,
-   "last": "2026-11-20 09:18:14"
+   "count": 4401,
+   "last": "2026-11-20 14:01:36"
   },
   "GLEAGUE": {
    "count": 1216,
@@ -10404,6 +10402,6 @@
    "last": "2026-11-18 14:30:22"
   }
  },
- "generated_at": "2026-11-20T13:59:44",
- "total": 43315
+ "generated_at": "2026-11-20T14:08:01",
+ "total": 43317
 }
