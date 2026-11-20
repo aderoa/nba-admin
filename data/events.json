@@ -1,6 +1,41 @@
 {
  "events": [
   {
+   "detail": "Euroleague Valencia Basket 92, Virtus Bologna 87",
+   "detected_at": "2026-11-20 04:40:54",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-19/Virtus-Bologna-at-Valencia-Basket/526900"
+  },
+  {
+   "detail": "Euroleague AX Armani Exchange Milan 78, Fenerbahce Beko 70",
+   "detected_at": "2026-11-20 04:40:48",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-19/Fenerbahce-Beko-at-AX-Armani-Exchange-Milan/526898"
+  },
+  {
+   "detail": "Euroleague Bayern Munich 100, Baskonia 81",
+   "detected_at": "2026-11-20 04:40:43",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-19/Baskonia-at-Bayern-Munich/526897"
+  },
+  {
+   "detail": "Euroleague Panathinaikos 87, Zalgiris 72",
+   "detected_at": "2026-11-20 04:40:38",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-19/Panathinaikos-at-Zalgiris/526895"
+  },
+  {
+   "detail": "Euroleague Dubai 80, Maccabi FOX Tel Aviv 74",
+   "detected_at": "2026-11-20 04:40:31",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-19/Dubai-at-Maccabi-FOX-Tel-Aviv/526896"
+  },
+  {
    "detail": "Awudu Abass  ~ team: Dubai Basketball -> Virtus Bologna",
    "detected_at": "2026-11-20 04:14:34",
    "source": "WIKI",
@@ -10347,41 +10382,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Metin_T%C3%BCren"
-  },
-  {
-   "detail": "Ceyhun Altay  ~ weight_lb: - -> 192",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Ceyhun_Altay"
-  },
-  {
-   "detail": "Ceyhun Altay  ~ nationality: Turkish -> -",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Ceyhun_Altay"
-  },
-  {
-   "detail": "Mahir Agva  ~ nationality: Turkish / German -> -",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Mahir_Agva"
-  },
-  {
-   "detail": "Josh Dollard  ~ nationality: American -> -",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Josh_Dollard"
-  },
-  {
-   "detail": "Canberk Kuş  ~ weight_lb: - -> 207",
-   "detected_at": "2026-11-15 06:54:10",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Canberk_Ku%C5%9F"
   }
  ],
  "feeds": {
@@ -10406,8 +10406,8 @@
    "last": "2026-11-19 06:10:08"
   },
   "SCORES": {
-   "count": 6027,
-   "last": "2026-11-20 03:39:28"
+   "count": 6032,
+   "last": "2026-11-20 04:40:54"
   },
   "SHEETS": {
    "count": 5291,
@@ -10426,6 +10426,6 @@
    "last": "2026-11-18 14:30:22"
   }
  },
- "generated_at": "2026-11-20T04:38:27",
- "total": 43232
+ "generated_at": "2026-11-20T04:41:17",
+ "total": 43237
 }
