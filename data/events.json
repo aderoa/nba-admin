@@ -1,6 +1,41 @@
 {
  "events": [
   {
+   "detail": "NCAA Liberty 71, Rhode Island 68",
+   "detected_at": "2026-11-20 17:53:58",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-20/Liberty-at-Rhode-Island/535241"
+  },
+  {
+   "detail": "NCAA Idaho State 86, South Dakota State 71",
+   "detected_at": "2026-11-20 17:53:54",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-20/South-Dakota-State-at-Idaho-State/541088"
+  },
+  {
+   "detail": "NCAA Virginia Tech 87, Northwestern 70",
+   "detected_at": "2026-11-20 17:53:50",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-20/Virginia-Tech-at-Northwestern/539738"
+  },
+  {
+   "detail": "NCAA Stephen F Austin 86, Indiana State 76",
+   "detected_at": "2026-11-20 17:53:46",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-20/Stephen-F-Austin-at-Indiana-State/535247"
+  },
+  {
+   "detail": "NCAA UAB 81, George Washington 76",
+   "detected_at": "2026-11-20 17:53:42",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-20/UAB-at-George-Washington/535240"
+  },
+  {
    "detail": "Leandro Bolmaro  ~ position: Guard / Small Forward -> Guard / small forward",
    "detected_at": "2026-11-20 17:15:33",
    "source": "WIKI",
@@ -10323,41 +10358,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Nakye_Sanders"
-  },
-  {
-   "detail": "Ajdin Penava  ~ weight_lb: - -> 220",
-   "detected_at": "2026-11-15 06:54:11",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Ajdin_Penava"
-  },
-  {
-   "detail": "Jordan Howard (basketball)  ~ weight_lb: - -> 180",
-   "detected_at": "2026-11-15 06:54:11",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jordan_Howard_(basketball)"
-  },
-  {
-   "detail": "Jordan Howard (basketball)  ~ nationality: Puerto Rican -> -",
-   "detected_at": "2026-11-15 06:54:11",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jordan_Howard_(basketball)"
-  },
-  {
-   "detail": "Max Heidegger  ~ weight_lb: - -> 180",
-   "detected_at": "2026-11-15 06:54:11",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Max_Heidegger"
-  },
-  {
-   "detail": "Max Heidegger  ~ nationality: American / Israeli -> -",
-   "detected_at": "2026-11-15 06:54:11",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Max_Heidegger"
   }
  ],
  "feeds": {
@@ -10382,8 +10382,8 @@
    "last": "2026-11-20 08:52:35"
   },
   "SCORES": {
-   "count": 6097,
-   "last": "2026-11-20 15:48:44"
+   "count": 6102,
+   "last": "2026-11-20 17:53:58"
   },
   "SHEETS": {
    "count": 5291,
@@ -10402,6 +10402,6 @@
    "last": "2026-11-18 14:30:22"
   }
  },
- "generated_at": "2026-11-20T17:51:20",
- "total": 43368
+ "generated_at": "2026-11-20T17:54:02",
+ "total": 43373
 }
