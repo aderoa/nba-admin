@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "DaRon Holmes II  ~ team: Denver Nuggets -> Grand Rapids Gold",
+   "detected_at": "2026-11-21 06:46:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/DaRon_Holmes_II"
+  },
+  {
+   "detail": "DaRon Holmes II  ~ league: NBA -> NBA G League",
+   "detected_at": "2026-11-21 06:46:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/DaRon_Holmes_II"
+  },
+  {
+   "detail": "DaRon Holmes II  ~ CAREER  + 2025–present →Grand Rapids Gold",
+   "detected_at": "2026-11-21 06:46:35",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/DaRon_Holmes_II"
+  },
+  {
    "detail": "2026-11-20  Waivers Cleared: Jemel Jones",
    "detected_at": "2026-11-21 06:16:19",
    "source": "GLEAGUE",
@@ -10330,27 +10351,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-11-14/Samobor-at-KK-Dinamo/539572"
-  },
-  {
-   "detail": "Croatian A-1 Liga + Juraj Pleadin → Samobor",
-   "detected_at": "2026-11-15 06:57:23",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Croatian A-1 Liga + Ivan Mucak → KK Dinamo",
-   "detected_at": "2026-11-15 06:57:23",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Bosnian BiH Liga Orlovik 82, Basket Zivinice 67",
-   "detected_at": "2026-11-15 06:57:20",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-14/Basket-Zivinice-at-Orlovik/540961"
   }
  ],
  "feeds": {
@@ -10387,14 +10387,14 @@
    "last": "2026-11-18 15:02:13"
   },
   "WIKI": {
-   "count": 10349,
-   "last": "2026-11-21 04:48:27"
+   "count": 10352,
+   "last": "2026-11-21 06:46:35"
   },
   "WIKIWATCH": {
    "count": 671,
    "last": "2026-11-18 14:30:22"
   }
  },
- "generated_at": "2026-11-21T06:37:19",
- "total": 43488
+ "generated_at": "2026-11-21T06:46:36",
+ "total": 43491
 }
