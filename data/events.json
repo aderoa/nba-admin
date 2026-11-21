@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "John Poulakidas  ~ number: 7 -> 25",
+   "detected_at": "2026-11-21 07:10:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/John_Poulakidas"
+  },
+  {
    "detail": "DaRon Holmes II  ~ team: Denver Nuggets -> Grand Rapids Gold",
    "detected_at": "2026-11-21 06:46:35",
    "source": "WIKI",
@@ -10344,13 +10351,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Croatian A-1 Liga KK Dinamo 83, Samobor 75",
-   "detected_at": "2026-11-15 06:57:24",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-14/Samobor-at-KK-Dinamo/539572"
   }
  ],
  "feeds": {
@@ -10387,14 +10387,14 @@
    "last": "2026-11-18 15:02:13"
   },
   "WIKI": {
-   "count": 10352,
-   "last": "2026-11-21 06:46:35"
+   "count": 10353,
+   "last": "2026-11-21 07:10:35"
   },
   "WIKIWATCH": {
    "count": 671,
    "last": "2026-11-18 14:30:22"
   }
  },
- "generated_at": "2026-11-21T07:00:40",
- "total": 43491
+ "generated_at": "2026-11-21T07:10:37",
+ "total": 43492
 }
