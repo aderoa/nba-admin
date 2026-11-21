@@ -1,6 +1,55 @@
 {
  "events": [
   {
+   "detail": "BNXT League CB Liege Mailleux 94, Kortrijk Spurs 93",
+   "detected_at": "2026-11-21 05:53:36",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-20/Kortrijk-Spurs-at-CB-Liege-Mailleux/527983"
+  },
+  {
+   "detail": "BNXT League + Timo Casteele → Kortrijk Spurs",
+   "detected_at": "2026-11-21 05:53:35",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Polish OBL Gornik Zamek Ksiaz Walbrzych 70, GTK Gliwice 52",
+   "detected_at": "2026-11-21 05:53:32",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-20/GTK-Gliwice-at-Gornik-Zamek-Ksiaz-Walbrzych/531901"
+  },
+  {
+   "detail": "Polish OBL + Maksymilian Karwik → Gornik Zamek Ksiaz Walbrzych",
+   "detected_at": "2026-11-21 05:53:30",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Polish OBL + Filip Drzazga → Gornik Zamek Ksiaz Walbrzych",
+   "detected_at": "2026-11-21 05:53:30",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Finnish Korisliiga Korihait 103, Tapiolan Honka 99",
+   "detected_at": "2026-11-21 05:53:28",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-20/Tapiolan-Honka-at-Korihait/537403"
+  },
+  {
+   "detail": "Finnish Korisliiga + Leevi Lehtonen → Korihait",
+   "detected_at": "2026-11-21 05:53:26",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
    "detail": "NCAA Niagara 103, Delaware State 101",
    "detected_at": "2026-11-21 04:52:12",
    "source": "SCORES",
@@ -10309,55 +10358,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-11-14/CB-Badajoz-at-Movistar-Estudiantes/527627"
-  },
-  {
-   "detail": "Spanish Segunda FEB + Joseba Querejeta Arenaza → CB Badajoz",
-   "detected_at": "2026-11-15 06:56:59",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Georgian Super Liga Orbi 87, Amra Gagra Akhaltsikhe 82",
-   "detected_at": "2026-11-15 06:56:56",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-14/Amra-Gagra-Akhaltsikhe-at-Orbi/544025"
-  },
-  {
-   "detail": "Lithuanian NKL Alytus Alytus 85, Mazeikiai 81",
-   "detected_at": "2026-11-15 06:56:52",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-14/Mazeikiai-at-Alytus-Alytus/546124"
-  },
-  {
-   "detail": "Lithuanian NKL Vytis Zanavykas Sakiai 82, Omega Tauras Kauno 75",
-   "detected_at": "2026-11-15 06:56:48",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-14/Vytis-Zanavykas-Sakiai-at-Omega-Tauras-Kauno/546127"
-  },
-  {
-   "detail": "Lithuanian NKL Neptuans Akvaservis Klaipeda 82, Jurbarko Jurbarkas Karys 67",
-   "detected_at": "2026-11-15 06:56:44",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-14/Jurbarko-Jurbarkas-Karys-at-Neptuans-Akvaservis-Klaipeda/546123"
-  },
-  {
-   "detail": "Belarusian BPL Grodno 93 87, Grondo GrGU 51",
-   "detected_at": "2026-11-15 06:56:39",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-14/Grondo-GrGU-at-Grodno-93/544906"
-  },
-  {
-   "detail": "Belarusian BPL + Alexey Ilyashenko → Grondo GrGU",
-   "detected_at": "2026-11-15 06:56:38",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10378,12 +10378,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 11767,
-   "last": "2026-11-21 04:49:49"
+   "count": 11771,
+   "last": "2026-11-21 05:53:35"
   },
   "SCORES": {
-   "count": 6179,
-   "last": "2026-11-21 04:52:12"
+   "count": 6182,
+   "last": "2026-11-21 05:53:36"
   },
   "SHEETS": {
    "count": 5291,
@@ -10402,6 +10402,6 @@
    "last": "2026-11-18 14:30:22"
   }
  },
- "generated_at": "2026-11-21T05:51:20",
- "total": 43474
+ "generated_at": "2026-11-21T05:53:58",
+ "total": 43481
 }
