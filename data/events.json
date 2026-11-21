@@ -1,6 +1,48 @@
 {
  "events": [
   {
+   "detail": "2026-11-20  Waivers Cleared: Jemel Jones",
+   "detected_at": "2026-11-21 06:16:19",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-20  Acquired from Player Pool: Jemel Jones (Skyforce)",
+   "detected_at": "2026-11-21 06:16:19",
+   "source": "GLEAGUE",
+   "type": "Acquired/Assigned"
+  },
+  {
+   "detail": "2026-11-20  Assigned: Bogoljub Markovic (Herd)",
+   "detected_at": "2026-11-21 06:16:19",
+   "source": "GLEAGUE",
+   "type": "Acquired/Assigned"
+  },
+  {
+   "detail": "2026-11-20  Acquired from Player Pool: Themus Fulks (Go Go)",
+   "detected_at": "2026-11-21 06:16:19",
+   "source": "GLEAGUE",
+   "type": "Acquired/Assigned"
+  },
+  {
+   "detail": "2026-11-21  Waived: Tj Bickerstaff (Raptors)",
+   "detected_at": "2026-11-21 06:16:19",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-21  Waivers Cleared: Tj Bickerstaff",
+   "detected_at": "2026-11-21 06:16:19",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-21  Acquired from Player Pool: Conor Enright (Cruise)",
+   "detected_at": "2026-11-21 06:16:19",
+   "source": "GLEAGUE",
+   "type": "Acquired/Assigned"
+  },
+  {
    "detail": "BNXT League CB Liege Mailleux 94, Kortrijk Spurs 93",
    "detected_at": "2026-11-21 05:53:36",
    "source": "SCORES",
@@ -10309,55 +10351,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-11-14/Basket-Zivinice-at-Orlovik/540961"
-  },
-  {
-   "detail": "Serbian KLS KK Sloboda Uzice 89, KK Metalac Valjevo 83",
-   "detected_at": "2026-11-15 06:57:17",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-14/KK-Metalac-Valjevo-at-KK-Sloboda-Uzice/545562"
-  },
-  {
-   "detail": "Serbian KLS ~ RETURN Vasilije Jovanovic → KK Sloboda Uzice (from SL Takovo Leotar)",
-   "detected_at": "2026-11-15 06:57:15",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "Serbian KLS KK Kolubara LA 2003 79, Borac Zemun 75",
-   "detected_at": "2026-11-15 06:57:13",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-14/KK-Kolubara-LA-2003-at-Borac-Zemun/545564"
-  },
-  {
-   "detail": "Spanish Primera FEB Palencia Baloncesto 86, Zamora Enamora 77",
-   "detected_at": "2026-11-15 06:57:09",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-14/Palencia-Baloncesto-at-Zamora-Enamora/532927"
-  },
-  {
-   "detail": "Spanish Primera FEB Basquet Menorca 75, Alimerka Oviedo Baloncesto 65",
-   "detected_at": "2026-11-15 06:57:04",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-14/Alimerka-Oviedo-Baloncesto-at-Basquet-Menorca/532928"
-  },
-  {
-   "detail": "Spanish Primera FEB + Thaddus McFadden → Basquet Menorca",
-   "detected_at": "2026-11-15 06:57:03",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish Segunda FEB Movistar Estudiantes 84, CB Badajoz 81",
-   "detected_at": "2026-11-15 06:57:00",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-14/CB-Badajoz-at-Movistar-Estudiantes/527627"
   }
  ],
  "feeds": {
@@ -10366,8 +10359,8 @@
    "last": "2026-11-20 14:01:36"
   },
   "GLEAGUE": {
-   "count": 1216,
-   "last": "2026-11-20 06:12:20"
+   "count": 1223,
+   "last": "2026-11-21 06:16:19"
   },
   "PLAYERS": {
    "count": 1938,
@@ -10402,6 +10395,6 @@
    "last": "2026-11-18 14:30:22"
   }
  },
- "generated_at": "2026-11-21T05:53:58",
- "total": 43481
+ "generated_at": "2026-11-21T06:23:37",
+ "total": 43488
 }
