@@ -1,6 +1,41 @@
 {
  "events": [
   {
+   "detail": "NCAA Canisius 91, Albany 81",
+   "detected_at": "2026-11-21 20:19:07",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-21/Albany-at-Canisius/542305"
+  },
+  {
+   "detail": "NCAA UNC Wilmington 89, Norfolk State 80",
+   "detected_at": "2026-11-21 20:19:03",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-21/UNC-Wilmington-at-Norfolk-State/543017"
+  },
+  {
+   "detail": "NCAA Texas San Antonio 90, Air Force 68",
+   "detected_at": "2026-11-21 20:19:00",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-21/Air-Force-at-Texas-San-Antonio/532503"
+  },
+  {
+   "detail": "NCAA Texas RGV 79, Austin Peay 73",
+   "detected_at": "2026-11-21 20:18:55",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-21/Texas-RGV-at-Austin-Peay/538511"
+  },
+  {
+   "detail": "NCAA James Madison 136, Virginia Lynchburg 45",
+   "detected_at": "2026-11-21 20:18:51",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-21/Virginia-Lynchburg-at-James-Madison/544619"
+  },
+  {
    "detail": "Marcus Garrett  ~ height_in: 5 -> 6",
    "detected_at": "2026-11-21 17:34:34",
    "source": "WIKI",
@@ -10316,41 +10351,6 @@
    "source": "WIKIWATCH",
    "type": "FIELD",
    "url": "3"
-  },
-  {
-   "detail": "Nate Reuvers  ~ 89433: (page changed) -> -",
-   "detected_at": "2026-11-15 07:22:09",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": ""
-  },
-  {
-   "detail": "Travis Trice  ~ 28741: team -> -",
-   "detected_at": "2026-11-15 07:22:07",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "Criollos de Caguas"
-  },
-  {
-   "detail": "Travis Trice  ~ 28741: league -> -",
-   "detected_at": "2026-11-15 07:22:07",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "BSN"
-  },
-  {
-   "detail": "Travis Trice  ~ 28741: position -> -",
-   "detected_at": "2026-11-15 07:22:07",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "Point guard"
-  },
-  {
-   "detail": "Travis Trice  ~ 28741: number -> -",
-   "detected_at": "2026-11-15 07:22:07",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "13"
   }
  ],
  "feeds": {
@@ -10375,8 +10375,8 @@
    "last": "2026-11-21 16:57:49"
   },
   "SCORES": {
-   "count": 6264,
-   "last": "2026-11-21 17:00:01"
+   "count": 6269,
+   "last": "2026-11-21 20:19:07"
   },
   "SHEETS": {
    "count": 5291,
@@ -10395,6 +10395,6 @@
    "last": "2026-11-18 14:30:22"
   }
  },
- "generated_at": "2026-11-21T20:10:22",
- "total": 43617
+ "generated_at": "2026-11-21T20:19:10",
+ "total": 43622
 }
