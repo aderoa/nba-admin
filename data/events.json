@@ -1,6 +1,34 @@
 {
  "events": [
   {
+   "detail": "Gabe Vincent  ~ number: - -> 7",
+   "detected_at": "2026-11-22 14:00:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Gabe_Vincent"
+  },
+  {
+   "detail": "Gabe Vincent  ~ CAREER  + Sacramento Kings",
+   "detected_at": "2026-11-22 14:00:35",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Gabe_Vincent"
+  },
+  {
+   "detail": "Ryan Arcidiacono  ~ CAREER  + 2016–2017 Austin Spurs G League",
+   "detected_at": "2026-11-22 14:00:35",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Ryan_Arcidiacono"
+  },
+  {
+   "detail": "Moses Wright  ~ position: Center -> Center / power forward",
+   "detected_at": "2026-11-22 14:00:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Moses_Wright"
+  },
+  {
    "detail": "Moses Wright  ~ 121418: position -> Center",
    "detected_at": "2026-11-22 13:41:30",
    "source": "WIKIWATCH",
@@ -10324,34 +10352,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Bursaspor-at-Besiktas-Icrypex/542225"
-  },
-  {
-   "detail": "Belarusian BPL Gomel Lynx Youth 107, Brest Region II 60",
-   "detected_at": "2026-11-16 06:15:42",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Gomel-Lynx-Youth-at-Brest-Region-II/544909"
-  },
-  {
-   "detail": "Belarusian BPL ~ RETURN Artem Pototsky → Gomel Lynx Youth (from GOCOR Soj Gomel)",
-   "detected_at": "2026-11-16 06:15:41",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL ~ RETURN Danil Kanishev → Gomel Lynx Youth (from GOCOR Soj Gomel)",
-   "detected_at": "2026-11-16 06:15:41",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL + Ivan Polyakov → Gomel Lynx Youth",
-   "detected_at": "2026-11-16 06:15:41",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10388,14 +10388,14 @@
    "last": "2026-11-18 15:02:13"
   },
   "WIKI": {
-   "count": 10378,
-   "last": "2026-11-22 12:50:35"
+   "count": 10382,
+   "last": "2026-11-22 14:00:35"
   },
   "WIKIWATCH": {
    "count": 672,
    "last": "2026-11-22 13:41:30"
   }
  },
- "generated_at": "2026-11-22T13:52:41",
- "total": 43775
+ "generated_at": "2026-11-22T14:00:36",
+ "total": 43779
 }
