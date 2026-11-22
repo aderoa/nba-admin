@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Kenneth Faried  ~ team: Baskonia -> Baskonia Vitoria-Gasteiz",
+   "detected_at": "2026-11-22 15:13:18",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kenneth_Faried"
+  },
+  {
+   "detail": "Kenneth Faried  ~ CAREER  + 2026–present Baskonia Vitoria-Gasteiz",
+   "detected_at": "2026-11-22 15:13:18",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Kenneth_Faried"
+  },
+  {
    "detail": "Chima Moneke  ~ CAREER  + 2023–2025 Baskonia",
    "detected_at": "2026-11-22 14:46:35",
    "source": "WIKI",
@@ -10338,20 +10352,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Anadolu-Efes-at-Fenerbahce-Beko/542222"
-  },
-  {
-   "detail": "Turkish BSL Merkezefendi Belediyesi Denizli Basket 101, Cayirova 98",
-   "detected_at": "2026-11-16 06:15:51",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Cayirova-at-Merkezefendi-Belediyesi-Denizli-Basket/542223"
-  },
-  {
-   "detail": "Turkish BSL ~ MOVED Isaiah Miles → Merkezefendi Belediyesi Denizli Basket (from Acqua San Bernardo Cantu)",
-   "detected_at": "2026-11-16 06:15:49",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10388,14 +10388,14 @@
    "last": "2026-11-18 15:02:13"
   },
   "WIKI": {
-   "count": 10383,
-   "last": "2026-11-22 14:46:35"
+   "count": 10385,
+   "last": "2026-11-22 15:13:18"
   },
   "WIKIWATCH": {
    "count": 672,
    "last": "2026-11-22 13:41:30"
   }
  },
- "generated_at": "2026-11-22T15:00:21",
- "total": 43780
+ "generated_at": "2026-11-22T15:13:20",
+ "total": 43782
 }
