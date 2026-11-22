@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Slovakian Extraliga Nitra Blue Wings 85, BK Inter Bratislava 75",
+   "detected_at": "2026-11-22 08:23:36",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-21/BK-Inter-Bratislava-at-Nitra-Blue-Wings/534281"
+  },
+  {
    "detail": "NCAA Incarnate Word 120, Central Baptist 71",
    "detected_at": "2026-11-22 07:23:06",
    "source": "SCORES",
@@ -10345,13 +10352,6 @@
    "source": "REALGM",
    "type": "RETURN",
    "url": ""
-  },
-  {
-   "detail": "Belarusian BPL ~ RETURN Matvey Yagutko → Tsmoki Minsk 2 (from Tsmoki Minsk III)",
-   "detected_at": "2026-11-16 06:15:36",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10376,8 +10376,8 @@
    "last": "2026-11-22 07:21:02"
   },
   "SCORES": {
-   "count": 6375,
-   "last": "2026-11-22 07:23:06"
+   "count": 6376,
+   "last": "2026-11-22 08:23:36"
   },
   "SHEETS": {
    "count": 5291,
@@ -10396,6 +10396,6 @@
    "last": "2026-11-18 14:30:22"
   }
  },
- "generated_at": "2026-11-22T08:14:41",
- "total": 43771
+ "generated_at": "2026-11-22T08:23:58",
+ "total": 43772
 }
