@@ -1,6 +1,48 @@
 {
  "events": [
   {
+   "detail": "Marcus Garrett  ~ height_in: 5 -> 6",
+   "detected_at": "2026-11-21 17:34:34",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Marcus_Garrett"
+  },
+  {
+   "detail": "Marcus Garrett  ~ weight_lb: 205 -> 196",
+   "detected_at": "2026-11-21 17:34:34",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Marcus_Garrett"
+  },
+  {
+   "detail": "Marvin Bagley III  ~ position: Power forward -> Power forward / center",
+   "detected_at": "2026-11-21 17:34:34",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Marvin_Bagley_III"
+  },
+  {
+   "detail": "Derrick Walton  ~ team: Free agent -> Ningbo Rockets",
+   "detected_at": "2026-11-21 17:34:34",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Derrick_Walton"
+  },
+  {
+   "detail": "Derrick Walton  ~ league: - -> CBA",
+   "detected_at": "2026-11-21 17:34:34",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Derrick_Walton"
+  },
+  {
+   "detail": "Derrick Walton  ~ CAREER  + 2026–present Ningbo Rockets",
+   "detected_at": "2026-11-21 17:34:34",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Derrick_Walton"
+  },
+  {
    "detail": "NCAA Northern Colorado 89, Justice 66",
    "detected_at": "2026-11-21 17:00:01",
    "source": "SCORES",
@@ -10309,48 +10351,6 @@
    "source": "WIKIWATCH",
    "type": "FIELD",
    "url": "13"
-  },
-  {
-   "detail": "Travis Trice  ~ 28741: (page changed) -> -",
-   "detected_at": "2026-11-15 07:22:07",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": ""
-  },
-  {
-   "detail": "NCAA Morehead State 79, IU Indy 75",
-   "detected_at": "2026-11-15 07:04:04",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-14/IU-Indy-at-Morehead-State/540036"
-  },
-  {
-   "detail": "NCAA Charleston Southern 92, West Georgia 68",
-   "detected_at": "2026-11-15 07:04:00",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-14/West-Georgia-at-Charleston-Southern/532491"
-  },
-  {
-   "detail": "NCAA Siena 79, Brown 74",
-   "detected_at": "2026-11-15 07:03:56",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-14/Brown-at-Siena/532490"
-  },
-  {
-   "detail": "NCAA New Orleans 98, Southern New Orleans 82",
-   "detected_at": "2026-11-15 07:03:52",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-14/Southern-New-Orleans-at-New-Orleans/542514"
-  },
-  {
-   "detail": "NCAA Campbell 93, USC Upstate 77",
-   "detected_at": "2026-11-15 07:03:48",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-14/USC-Upstate-at-Campbell/540039"
   }
  ],
  "feeds": {
@@ -10387,14 +10387,14 @@
    "last": "2026-11-18 15:02:13"
   },
   "WIKI": {
-   "count": 10359,
-   "last": "2026-11-21 15:22:35"
+   "count": 10365,
+   "last": "2026-11-21 17:34:34"
   },
   "WIKIWATCH": {
    "count": 671,
    "last": "2026-11-18 14:30:22"
   }
  },
- "generated_at": "2026-11-21T17:00:06",
- "total": 43611
+ "generated_at": "2026-11-21T17:34:36",
+ "total": 43617
 }
