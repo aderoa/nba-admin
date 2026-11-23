@@ -1,6 +1,48 @@
 {
  "events": [
   {
+   "detail": "NCAA UMBC 89, Lancaster Bible College 55",
+   "detected_at": "2026-11-22 22:26:55",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-22/Lancaster-Bible-College-at-UMBC/540094"
+  },
+  {
+   "detail": "German BBL MHP Riesen 96, Mitteldeutscher BC 87",
+   "detected_at": "2026-11-22 22:26:31",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-22/Mitteldeutscher-BC-at-MHP-Riesen/528693"
+  },
+  {
+   "detail": "German BBL + Oshane Drews → MHP Riesen",
+   "detected_at": "2026-11-22 22:26:30",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "German BBL ~ RETURN Julius Leander Baumer → MHP Riesen (from Porsche BBA)",
+   "detected_at": "2026-11-22 22:26:30",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "German BBL Telekom Baskets Bonn 89, Ratiopharm Ulm 72",
+   "detected_at": "2026-11-22 22:26:27",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-22/Ratiopharm-Ulm-at-Telekom-Baskets-Bonn/528692"
+  },
+  {
+   "detail": "German BBL ~ RETURN Chukwuemeka Justin Onyyejiaka → Telekom Baskets Bonn (from Dragons Rhoendorf)",
+   "detected_at": "2026-11-22 22:26:25",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
    "detail": "Raul Neto  ~ team: Free agent -> Illawarra Hawks",
    "detected_at": "2026-11-22 22:16:36",
    "source": "WIKI",
@@ -10310,48 +10352,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Kosovo FBK + Elber Kerek → KB Bashkimi Prizren",
-   "detected_at": "2026-11-16 06:18:50",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Israeli BSL Maccabi Ashdod 89, Elitzur Kiryat Ata 74",
-   "detected_at": "2026-11-16 06:18:48",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Maccabi-Ashdod-at-Elitzur-Kiryat-Ata/536930"
-  },
-  {
-   "detail": "Israeli BSL ~ MOVED Joirdon Nicholas → Maccabi Ashdod (from ASP Promitheas Patras)",
-   "detected_at": "2026-11-16 06:18:47",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
-  },
-  {
-   "detail": "Israeli BSL Ironi Nes Ziona 90, Ironi Ramat Gan 74",
-   "detected_at": "2026-11-16 06:18:44",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Ironi-Nes-Ziona-at-Ironi-Ramat-Gan/536932"
-  },
-  {
-   "detail": "Israeli BSL ~ RETURN Jacob Wiley → Ironi Nes Ziona (from Kedainiai Nevezis)",
-   "detected_at": "2026-11-16 06:18:43",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "Adriatic League Liga ABA KK Bosna 85, KK Mega Bemax 77",
-   "detected_at": "2026-11-16 06:18:40",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/KK-Mega-Bemax-at-KK-Bosna/537385"
   }
  ],
  "feeds": {
@@ -10372,12 +10372,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 11834,
-   "last": "2026-11-22 21:24:51"
+   "count": 11837,
+   "last": "2026-11-22 22:26:30"
   },
   "SCORES": {
-   "count": 6415,
-   "last": "2026-11-22 21:25:25"
+   "count": 6418,
+   "last": "2026-11-22 22:26:55"
   },
   "SHEETS": {
    "count": 5291,
@@ -10396,6 +10396,6 @@
    "last": "2026-11-22 13:41:30"
   }
  },
- "generated_at": "2026-11-22T22:24:39",
- "total": 43846
+ "generated_at": "2026-11-22T22:26:59",
+ "total": 43852
 }
