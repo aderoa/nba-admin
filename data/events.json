@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "Raul Neto  ~ team: Free agent -> Illawarra Hawks",
+   "detected_at": "2026-11-22 22:16:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Raul_Neto"
+  },
+  {
+   "detail": "Raul Neto  ~ league: - -> NBL",
+   "detected_at": "2026-11-22 22:16:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Raul_Neto"
+  },
+  {
+   "detail": "Raul Neto  ~ CAREER  + 2026-present Illawarra Hawks",
+   "detected_at": "2026-11-22 22:16:36",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Raul_Neto"
+  },
+  {
    "detail": "NCAA IU Indy 81, Maryland Eastern Shore 61",
    "detected_at": "2026-11-22 21:25:25",
    "source": "SCORES",
@@ -10331,27 +10352,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/KK-Mega-Bemax-at-KK-Bosna/537385"
-  },
-  {
-   "detail": "Adriatic League Liga ABA Dubai 93, KK Spartak Subotica 75",
-   "detected_at": "2026-11-16 06:18:36",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/KK-Spartak-Subotica-at-Dubai/537384"
-  },
-  {
-   "detail": "Spanish ACB Real Madrid 98, Baskonia 84",
-   "detected_at": "2026-11-16 06:18:32",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Real-Madrid-at-Baskonia/533481"
-  },
-  {
-   "detail": "Spanish ACB ~ MOVED Rolands Smits → Baskonia (from Ningbo Rockets)",
-   "detected_at": "2026-11-16 06:18:30",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10388,14 +10388,14 @@
    "last": "2026-11-18 15:02:13"
   },
   "WIKI": {
-   "count": 10398,
-   "last": "2026-11-22 19:35:36"
+   "count": 10401,
+   "last": "2026-11-22 22:16:36"
   },
   "WIKIWATCH": {
    "count": 672,
    "last": "2026-11-22 13:41:30"
   }
  },
- "generated_at": "2026-11-22T22:08:20",
- "total": 43843
+ "generated_at": "2026-11-22T22:16:37",
+ "total": 43846
 }
