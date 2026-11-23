@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Rolands Šmits  ~ team: Baskonia -> Baskonia Vitoria-Gasteiz",
+   "detected_at": "2026-11-22 18:26:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Rolands_%C5%A0mits"
+  },
+  {
+   "detail": "Rolands Šmits  ~ CAREER  + 2026–present Baskonia Vitoria-Gasteiz",
+   "detected_at": "2026-11-22 18:26:36",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Rolands_%C5%A0mits"
+  },
+  {
    "detail": "Chris Duarte (basketball)  ~ team: Saski Baskonia -> Baskonia Vitoria-Gasteiz",
    "detected_at": "2026-11-22 18:03:36",
    "source": "WIKI",
@@ -10338,20 +10352,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "Montenegrin Prva A Liga + Matija Spicanovic → Decic",
-   "detected_at": "2026-11-16 06:17:00",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Montenegrin Prva A Liga + Emanuel Ljucovic → Decic",
-   "detected_at": "2026-11-16 06:17:00",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10388,14 +10388,14 @@
    "last": "2026-11-18 15:02:13"
   },
   "WIKI": {
-   "count": 10393,
-   "last": "2026-11-22 18:03:36"
+   "count": 10395,
+   "last": "2026-11-22 18:26:36"
   },
   "WIKIWATCH": {
    "count": 672,
    "last": "2026-11-22 13:41:30"
   }
  },
- "generated_at": "2026-11-22T18:17:20",
- "total": 43805
+ "generated_at": "2026-11-22T18:26:37",
+ "total": 43807
 }
