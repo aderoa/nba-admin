@@ -1,6 +1,90 @@
 {
  "events": [
   {
+   "detail": "NCAA Middle Tennessee State 77, Southern Illinois 76",
+   "detected_at": "2026-11-23 14:49:37",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-23/Middle-Tennessee-State-at-Southern-Illinois/546620"
+  },
+  {
+   "detail": "NCAA Grambling State 126, Ecclesia College 45",
+   "detected_at": "2026-11-23 14:49:33",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-23/Ecclesia-College-at-Grambling-State/544359"
+  },
+  {
+   "detail": "NCAA Ole Miss 82, Clemson 62",
+   "detected_at": "2026-11-23 14:49:28",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-23/Clemson-at-Ole-Miss/535269"
+  },
+  {
+   "detail": "NCAA Oregon State 69, Tulsa 66",
+   "detected_at": "2026-11-23 14:49:24",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-23/Tulsa-at-Oregon-State/541095"
+  },
+  {
+   "detail": "NCAA Wright State 66, Akron 64",
+   "detected_at": "2026-11-23 14:49:19",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-23/Wright-State-at-Akron/544384"
+  },
+  {
+   "detail": "NCAA Charlotte 71, Florida Gulf Coast 58",
+   "detected_at": "2026-11-23 14:49:15",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-23/Florida-Gulf-Coast-at-Charlotte/535287"
+  },
+  {
+   "detail": "Bulgarian NBL Lokomotiv Plovdiv 85, Shumen 77",
+   "detected_at": "2026-11-23 14:48:51",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-22/Shumen-at-Lokomotiv-Plovdiv/539903"
+  },
+  {
+   "detail": "Bulgarian NBL + Efe Gaytanov → Shumen",
+   "detected_at": "2026-11-23 14:48:49",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Bulgarian NBL + Krastan Krastanov → Lokomotiv Plovdiv",
+   "detected_at": "2026-11-23 14:48:49",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL Final Spor Genclik 84, Mersin BSB 65",
+   "detected_at": "2026-11-23 14:48:46",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-22/Mersin-BSB-at-Final-Spor-Genclik/534815"
+  },
+  {
+   "detail": "Turkish TBL + Nihat Atalan → Mersin BSB",
+   "detected_at": "2026-11-23 14:48:43",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Turkish TBL + Basar Sener → Final Spor Genclik",
+   "detected_at": "2026-11-23 14:48:43",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
    "detail": "Chris Silva  ~ position: Center -> Power forward / center",
    "detected_at": "2026-11-23 12:28:35",
    "source": "WIKI",
@@ -10237,86 +10321,6 @@
    "detected_at": "2026-11-17 06:10:21",
    "source": "GLEAGUE",
    "type": "Waived/Buyout"
-  },
-  {
-   "detail": "2026-11-16  Waived: Tj Bickerstaff (Raptors)",
-   "detected_at": "2026-11-17 06:10:21",
-   "source": "GLEAGUE",
-   "type": "Waived/Buyout"
-  },
-  {
-   "detail": "2026-11-16  Waivers Cleared: Tj Bickerstaff",
-   "detected_at": "2026-11-17 06:10:21",
-   "source": "GLEAGUE",
-   "type": "Waived/Buyout"
-  },
-  {
-   "detail": "2026-11-16  Acquired from Player Pool: Yusuf Mohamed (Blue)",
-   "detected_at": "2026-11-17 06:10:21",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-11-16  Acquired: Jamal Bey (Knicks)",
-   "detected_at": "2026-11-17 06:10:21",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "Norchad Omier  ~ height_in: 5 -> 7",
-   "detected_at": "2026-11-17 05:45:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Norchad_Omier"
-  },
-  {
-   "detail": "Clifford Omoruyi  ~ team: PAOK Thessaloniki -> Free agent",
-   "detected_at": "2026-11-17 04:58:37",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Clifford_Omoruyi"
-  },
-  {
-   "detail": "Clifford Omoruyi  ~ league: Greek Basketball League EuroCup -> -",
-   "detected_at": "2026-11-17 04:58:37",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Clifford_Omoruyi"
-  },
-  {
-   "detail": "Clifford Omoruyi  ~ number: 11 -> -",
-   "detected_at": "2026-11-17 04:58:37",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Clifford_Omoruyi"
-  },
-  {
-   "detail": "Clifford Omoruyi  ~ CAREER  + 2026 PAOK Thessaloniki",
-   "detected_at": "2026-11-17 04:58:37",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Clifford_Omoruyi"
-  },
-  {
-   "detail": "Brazilian NBB Basquete Cearense 77, Cruzeiro 73",
-   "detected_at": "2026-11-17 04:10:11",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-16/Basquete-Cearense-at-Cruzeiro/545207"
-  },
-  {
-   "detail": "Brazilian NBB + Tulio Da Silva → Cruzeiro",
-   "detected_at": "2026-11-17 04:10:09",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Brazilian NBB Mogi das Cruzes 86, Sao Jose Unimed Vinac 66",
-   "detected_at": "2026-11-17 04:10:06",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-16/Mogi-das-Cruzes-at-Sao-Jose-Unimed-Vinac/545208"
   }
  ],
  "feeds": {
@@ -10337,12 +10341,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 11906,
-   "last": "2026-11-23 09:08:30"
+   "count": 11910,
+   "last": "2026-11-23 14:48:49"
   },
   "SCORES": {
-   "count": 6542,
-   "last": "2026-11-23 09:08:31"
+   "count": 6550,
+   "last": "2026-11-23 14:49:37"
   },
   "SHEETS": {
    "count": 5312,
@@ -10361,6 +10365,6 @@
    "last": "2026-11-23 07:56:10"
   }
  },
- "generated_at": "2026-11-23T14:03:09",
- "total": 44119
+ "generated_at": "2026-11-23T14:49:41",
+ "total": 44131
 }
