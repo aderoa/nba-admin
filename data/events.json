@@ -1,6 +1,90 @@
 {
  "events": [
   {
+   "detail": "SAC  + ADDED  Vincent, Gabe",
+   "detected_at": "2026-11-23 11:47:18",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "SAC  - REMOVED Baldwin Jr., Patrick #2",
+   "detected_at": "2026-11-23 11:47:18",
+   "source": "SHEETS",
+   "type": "REMOVED"
+  },
+  {
+   "detail": "SAC  CHANGED Baldwin Jr., Patrick  -  TEAM SALARY CAP REPORT\n       -  SACRAMENTO KINGS: 2 - REST OF SEASON -> 4 - CAP HOLD, col9: 2449421.0 -> 2185116",
+   "detected_at": "2026-11-23 11:47:18",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "SAC  CHANGED Crowder, Jae  -  col9: 2449421.0 -> 2449421",
+   "detected_at": "2026-11-23 11:47:18",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "SAC  CHANGED Hayes, Killian  -  col9: 2449421.0 -> 2449421",
+   "detected_at": "2026-11-23 11:47:18",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "SAC  CHANGED McDermott, Doug  -  col9: 2449421.0 -> 2449421",
+   "detected_at": "2026-11-23 11:47:18",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "SAC  CHANGED McGee, JaVale  -  col9: 2449421.0 -> 2449421",
+   "detected_at": "2026-11-23 11:47:18",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "SAC  CHANGED Westbrook, Russell  -  col9: 2185116.0 -> 2449421",
+   "detected_at": "2026-11-23 11:47:18",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "SAC  CHANGED Ford, Jordan  -  col9: 2185116.0 -> 2185116",
+   "detected_at": "2026-11-23 11:47:18",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "SAC  CHANGED Jones, Mason  -  col9: 2185116.0 -> 2185116",
+   "detected_at": "2026-11-23 11:47:18",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "SAC  CHANGED DeRozan, DeMar  -  col9: 10000000.0 -> 10000000",
+   "detected_at": "2026-11-23 11:47:18",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "SAC  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 217144050.3 -> 216929733.3, col9: 471964104.6 -> 471485482.6",
+   "detected_at": "2026-11-23 11:47:18",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "SAC  CHANGED Players Under Contract  -  col3: 195008264 -> 194793947",
+   "detected_at": "2026-11-23 11:47:18",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "SAC  CHANGED Rest of Season Contracts  -  col3: 4324840 -> 4110523",
+   "detected_at": "2026-11-23 11:47:18",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "SAC  + ADDED  Baldwin Jr., Patrick #2",
    "detected_at": "2026-11-23 11:44:39",
    "source": "SHEETS",
@@ -10233,104 +10317,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-11-16/Toyama-Grouses-at-Ryukyu-Golden-Kings/524864"
-  },
-  {
-   "detail": "Japanese B.League Gunma Crane Thunders 100, Shiga Lakestars 80",
-   "detected_at": "2026-11-17 04:09:33",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-16/Shiga-Lakestars-at-Gunma-Crane-Thunders/524859"
-  },
-  {
-   "detail": "Darío Brizuela  ~ position: Shooting guard -> Shooting guard / point guard",
-   "detected_at": "2026-11-17 03:59:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Dar%C3%ADo_Brizuela"
-  },
-  {
-   "detail": "NCAA Denver 101, Colorado Colorado Springs 63",
-   "detected_at": "2026-11-17 03:07:34",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-16/Colorado-Colorado-Springs-at-Denver/542993"
-  },
-  {
-   "detail": "NCAA Louisiana Monroe 118, Dallas Christian 81",
-   "detected_at": "2026-11-17 03:07:29",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-16/Dallas-Christian-at-Louisiana-Monroe-/538567"
-  },
-  {
-   "detail": "NCAA Southeast Missouri State 115, Midway 45",
-   "detected_at": "2026-11-17 03:07:25",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-16/Midway-at-Southeast-Missouri-State/542990"
-  },
-  {
-   "detail": "NCAA Stetson 91, Florida Memorial 56",
-   "detected_at": "2026-11-17 03:07:21",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-16/Florida-Memorial-at-Stetson/541073"
-  },
-  {
-   "detail": "NCAA UC San Diego 97, Texas Southern 92",
-   "detected_at": "2026-11-17 03:07:17",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-16/Texas-Southern-at-UC-San-Diego/539725"
-  },
-  {
-   "detail": "NCAA Saint Marys 94, Portland State 78",
-   "detected_at": "2026-11-17 03:07:13",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-16/Portland-State-at-Saint-Marys/537995"
-  },
-  {
-   "detail": "NCAA Oregon State 109, East Texas AM 71",
-   "detected_at": "2026-11-17 03:07:08",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-16/East-Texas-AM-at-Oregon-State/544448"
-  },
-  {
-   "detail": "NCAA South Dakota State 107, Mayville State 67",
-   "detected_at": "2026-11-17 03:07:04",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-16/Mayville-State-at-South-Dakota-State/544613"
-  },
-  {
-   "detail": "NCAA Valparaiso 106, Calumet 35",
-   "detected_at": "2026-11-17 03:07:00",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-16/Calumet-at-Valparaiso/544450"
-  },
-  {
-   "detail": "NCAA Columbia 75, Northwestern 53",
-   "detected_at": "2026-11-17 03:06:56",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-16/Columbia-at-Northwestern/540054"
-  },
-  {
-   "detail": "NCAA Oklahoma State 99, Central Arkansas 66",
-   "detected_at": "2026-11-17 03:06:51",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-16/Central-Arkansas-at-Oklahoma-State/538505"
-  },
-  {
-   "detail": "NCAA Missouri State 73, Abilene Christian 64",
-   "detected_at": "2026-11-17 03:06:47",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-16/Abilene-Christian-at-Missouri-State/538504"
   }
  ],
  "feeds": {
@@ -10359,8 +10345,8 @@
    "last": "2026-11-23 09:08:31"
   },
   "SHEETS": {
-   "count": 5298,
-   "last": "2026-11-23 11:44:39"
+   "count": 5312,
+   "last": "2026-11-23 11:47:18"
   },
   "TRANSACTIONS": {
    "count": 713,
@@ -10375,6 +10361,6 @@
    "last": "2026-11-23 07:56:10"
   }
  },
- "generated_at": "2026-11-23T11:44:42",
- "total": 44099
+ "generated_at": "2026-11-23T11:47:21",
+ "total": 44113
 }
