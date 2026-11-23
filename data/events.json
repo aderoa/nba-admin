@@ -1,6 +1,48 @@
 {
  "events": [
   {
+   "detail": "Chris Silva  ~ position: Center -> Power forward / center",
+   "detected_at": "2026-11-23 12:28:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Chris_Silva"
+  },
+  {
+   "detail": "Kyle Allman Jr.  ~ position: Shooting guard / point guard -> Point guard / shooting guard",
+   "detected_at": "2026-11-23 12:28:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kyle_Allman_Jr."
+  },
+  {
+   "detail": "Myles Cale  ~ team: ASVEL -> Free agent",
+   "detected_at": "2026-11-23 12:28:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Myles_Cale"
+  },
+  {
+   "detail": "Myles Cale  ~ league: LNB Élite EuroLeague -> -",
+   "detected_at": "2026-11-23 12:28:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Myles_Cale"
+  },
+  {
+   "detail": "Myles Cale  ~ number: 0 -> -",
+   "detected_at": "2026-11-23 12:28:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Myles_Cale"
+  },
+  {
+   "detail": "Myles Cale  ~ CAREER  + 2026 ASVEL",
+   "detected_at": "2026-11-23 12:28:35",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Myles_Cale"
+  },
+  {
    "detail": "SAC  + ADDED  Vincent, Gabe",
    "detected_at": "2026-11-23 11:47:18",
    "source": "SHEETS",
@@ -10275,48 +10317,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-11-16/Mogi-das-Cruzes-at-Sao-Jose-Unimed-Vinac/545208"
-  },
-  {
-   "detail": "Brazilian NBB + Gabriel Caldeira Oliveira → Mogi das Cruzes",
-   "detected_at": "2026-11-17 04:10:05",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Japanese B.League Sanen Neophoenix 110, Chiba Jets 104",
-   "detected_at": "2026-11-17 04:10:02",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-16/Sanen-Neophoenix-at-Chiba-Jets/524860"
-  },
-  {
-   "detail": "Japanese B.League Toyota Alvark 104, Kobe Storks 79",
-   "detected_at": "2026-11-17 04:09:56",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-16/Kobe-Storks-at-Toyota-Alvark/524861"
-  },
-  {
-   "detail": "Japanese B.League Kawasaki Brave Thunders 95, Yokohama B Corsairs 66",
-   "detected_at": "2026-11-17 04:09:52",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-16/Kawasaki-Brave-Thunders-at-Yokohama-B-Corsairs/524862"
-  },
-  {
-   "detail": "Japanese B.League Hiroshima Dragonflies 85, Altiri Chiba 63",
-   "detected_at": "2026-11-17 04:09:45",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-16/Altiri-Chiba-at-Hiroshima-Dragonflies/524863"
-  },
-  {
-   "detail": "Japanese B.League Ryukyu Golden Kings 102, Toyama Grouses 96",
-   "detected_at": "2026-11-17 04:09:38",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-16/Toyama-Grouses-at-Ryukyu-Golden-Kings/524864"
   }
  ],
  "feeds": {
@@ -10353,14 +10353,14 @@
    "last": "2026-11-23 11:21:14"
   },
   "WIKI": {
-   "count": 10430,
-   "last": "2026-11-23 11:41:36"
+   "count": 10436,
+   "last": "2026-11-23 12:28:35"
   },
   "WIKIWATCH": {
    "count": 674,
    "last": "2026-11-23 07:56:10"
   }
  },
- "generated_at": "2026-11-23T12:18:47",
- "total": 44113
+ "generated_at": "2026-11-23T12:29:05",
+ "total": 44119
 }
