@@ -1,6 +1,48 @@
 {
  "events": [
   {
+   "detail": "SAC  + ADDED  Baldwin Jr., Patrick #2",
+   "detected_at": "2026-11-23 11:44:39",
+   "source": "SHEETS",
+   "type": "ADDED"
+  },
+  {
+   "detail": "SAC  CHANGED Baldwin Jr., Patrick  -  TEAM SALARY CAP REPORT\n       -  SACRAMENTO KINGS: 4 - CAP HOLD -> 2 - REST OF SEASON",
+   "detected_at": "2026-11-23 11:44:39",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "SAC  CHANGED TEAM SALARY (Art, I §1 (nnn)):  -  col3: 214958934.3 -> 217144050.3, col9: 469514683.6 -> 471964104.6",
+   "detected_at": "2026-11-23 11:44:39",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "SAC  CHANGED Players Under Contract  -  col3: 192823148 -> 195008264",
+   "detected_at": "2026-11-23 11:44:39",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "SAC  CHANGED Rest of Season Contracts  -  col3: 2139724 -> 4324840",
+   "detected_at": "2026-11-23 11:44:39",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "SAC  CHANGED Avg, Salary (Mean) (ALL Compensation Obligations)  -  col6: 14 -> 15",
+   "detected_at": "2026-11-23 11:44:39",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
+   "detail": "SAC  CHANGED Avg, Salary (Mean) (No 10-Day K's)  -  col6: 1 -> 0",
+   "detected_at": "2026-11-23 11:44:39",
+   "source": "SHEETS",
+   "type": "CHANGED"
+  },
+  {
    "detail": "2026-27 Veteran Signings  - REMOVED Update 1.4 (10/20/26 - 11/17/26): M. Plumlee, O. Robinson, D. Terry, B. Wesley",
    "detected_at": "2026-11-23 11:43:16",
    "source": "DOCS",
@@ -10289,55 +10331,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-16/Abilene-Christian-at-Missouri-State/538504"
-  },
-  {
-   "detail": "NCAA Kansas State 86, Montana 45",
-   "detected_at": "2026-11-17 03:06:43",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-16/Montana-at-Kansas-State/530465"
-  },
-  {
-   "detail": "NCAA Tarleton State 83, Drake 79",
-   "detected_at": "2026-11-17 03:06:39",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-16/Tarleton-State-at-Drake/543845"
-  },
-  {
-   "detail": "NCAA Eastern Kentucky 65, Kent State 49",
-   "detected_at": "2026-11-17 03:06:34",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-16/Eastern-Kentucky-at-Kent-State/544449"
-  },
-  {
-   "detail": "NCAA North Carolina Central 117, Virginia Lynchburg 71",
-   "detected_at": "2026-11-17 03:06:30",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-16/Virginia-Lynchburg-at-North-Carolina-Central/543846"
-  },
-  {
-   "detail": "NCAA Tulsa 67, Western Kentucky 64",
-   "detected_at": "2026-11-17 03:06:26",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-16/Western-Kentucky-at-Tulsa/542991"
-  },
-  {
-   "detail": "NCAA St Thomas 79, Long Island 70",
-   "detected_at": "2026-11-17 03:06:22",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-16/St-Thomas-at-Long-Island/541713"
-  },
-  {
-   "detail": "NCAA Pennsylvania 75, DeSales 53",
-   "detected_at": "2026-11-17 03:06:18",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-16/DeSales-at-Pennsylvania-/540056"
   }
  ],
  "feeds": {
@@ -10366,8 +10359,8 @@
    "last": "2026-11-23 09:08:31"
   },
   "SHEETS": {
-   "count": 5291,
-   "last": "2026-11-18 09:14:20"
+   "count": 5298,
+   "last": "2026-11-23 11:44:39"
   },
   "TRANSACTIONS": {
    "count": 713,
@@ -10382,6 +10375,6 @@
    "last": "2026-11-23 07:56:10"
   }
  },
- "generated_at": "2026-11-23T11:43:23",
- "total": 44092
+ "generated_at": "2026-11-23T11:44:42",
+ "total": 44099
 }
