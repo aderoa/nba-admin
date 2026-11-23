@@ -1,6 +1,97 @@
 {
  "events": [
   {
+   "detail": "NCAA IU Indy 81, Maryland Eastern Shore 61",
+   "detected_at": "2026-11-22 21:25:25",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-22/Maryland-Eastern-Shore-at-IU-Indy/540093"
+  },
+  {
+   "detail": "NCAA Mercyhurst 78, Albany 75",
+   "detected_at": "2026-11-22 21:25:21",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-22/Mercyhurst-at-Albany/539326"
+  },
+  {
+   "detail": "NCAA Seattle 90, UC San Diego 64",
+   "detected_at": "2026-11-22 21:25:17",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-22/Seattle-at-UC-San-Diego/538005"
+  },
+  {
+   "detail": "NCAA Boston College 79, NJIT 59",
+   "detected_at": "2026-11-22 21:25:13",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-22/NJIT-at-Boston-College/530489"
+  },
+  {
+   "detail": "Bulgarian NBL BC Balkan 114, Polytechnica 75",
+   "detected_at": "2026-11-22 21:24:52",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-21/BC-Balkan-at-Polytechnica/539901"
+  },
+  {
+   "detail": "Bulgarian NBL + Borislav Stanoev → Polytechnica",
+   "detected_at": "2026-11-22 21:24:51",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Bulgarian NBL + Antonio Boyadjiev → Polytechnica",
+   "detected_at": "2026-11-22 21:24:51",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Bulgarian NBL Spartak Pleven 87, Akademik Bulteks 99 Plovdiv 75",
+   "detected_at": "2026-11-22 21:24:48",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-21/Akademik-Bulteks-99-Plovdiv-at-Spartak-Pleven/539900"
+  },
+  {
+   "detail": "French Jeep Elite Paris Basketball 113, BCM Gravelines 87",
+   "detected_at": "2026-11-22 21:24:42",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-22/BCM-Gravelines-at-Paris-Basketball/538631"
+  },
+  {
+   "detail": "French Jeep Elite JL Bourg en Bresse 101, ASVEL Basket 91",
+   "detected_at": "2026-11-22 21:24:38",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-22/JL-Bourg-en-Bresse-at-ASVEL-Basket/538633"
+  },
+  {
+   "detail": "French LNB Pro B Levallois Sport Club 74, Rouen Metropole Basket 68",
+   "detected_at": "2026-11-22 21:24:34",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-22/Rouen-Metropole-Basket-at-Levallois-Sport-Club/537909"
+  },
+  {
+   "detail": "Bulgarian NBL BC Rilski Sportist 84, Euroins Cherno More 79",
+   "detected_at": "2026-11-22 21:24:30",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-22/Euroins-Cherno-More-at-BC-Rilski-Sportist/539898"
+  },
+  {
+   "detail": "Australian NBL Brisbane 115, Sydney 104",
+   "detected_at": "2026-11-22 21:24:26",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-22/Sydney-at-Brisbane/524448"
+  },
+  {
    "detail": "NCAA California Baptist 79, Portland 71",
    "detected_at": "2026-11-22 20:22:34",
    "source": "SCORES",
@@ -10261,97 +10352,6 @@
    "source": "REALGM",
    "type": "MOVED",
    "url": ""
-  },
-  {
-   "detail": "Spanish ACB ~ MOVED Kenan Kamenjas → Baskonia (from Dubai)",
-   "detected_at": "2026-11-16 06:18:30",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
-  },
-  {
-   "detail": "Polish OBL Enea Abramczyk Astoria Bydgoszcz 91, Gornik Zamek Ksiaz Walbrzych 87",
-   "detected_at": "2026-11-16 06:18:28",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Gornik-Zamek-Ksiaz-Walbrzych-at-Enea-Abramczyk-Astoria-Bydgoszcz/531896"
-  },
-  {
-   "detail": "Polish OBL ~ MOVED Hugo Toom → Enea Abramczyk Astoria Bydgoszcz (from BC Kalev Cramo)",
-   "detected_at": "2026-11-16 06:18:26",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish ACB UCAM Murcia CB 84, Bilbao Basket 76",
-   "detected_at": "2026-11-16 06:18:24",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/UCAM-Murcia-CB-at-Bilbao-Basket/533480"
-  },
-  {
-   "detail": "Spanish ACB Barca 108, Monbus Obradoiro 83",
-   "detected_at": "2026-11-16 06:18:19",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Monbus-Obradoiro-at-Barca/533479"
-  },
-  {
-   "detail": "Spanish ACB ~ MOVED Abdrahamane Kone → Barca (from Barca Liga U)",
-   "detected_at": "2026-11-16 06:18:18",
-   "source": "REALGM",
-   "type": "MOVED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish ACB Unicaja 82, CB Girona 70",
-   "detected_at": "2026-11-16 06:18:15",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/CB-Girona-at-Unicaja/533478"
-  },
-  {
-   "detail": "Spanish ACB Valencia Basket 111, CB Coruna 97",
-   "detected_at": "2026-11-16 06:18:11",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/CB-Coruna-at-Valencia-Basket/533477"
-  },
-  {
-   "detail": "Spanish ACB + Eric del Castillo Lindo → CB Coruna",
-   "detected_at": "2026-11-16 06:18:10",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Spanish ACB BAXI Manresa 98, Forca Lleida CE 92",
-   "detected_at": "2026-11-16 06:18:07",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/BAXI-Manresa-at-Forca-Lleida-CE/533476"
-  },
-  {
-   "detail": "Swiss LNA BBC Lausanne 89, Union Neuchatel Basket 74",
-   "detected_at": "2026-11-16 06:18:03",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Union-Neuchatel-Basket-at-BBC-Lausanne/534221"
-  },
-  {
-   "detail": "Swiss LNA + Ryan Muhr → BBC Lausanne",
-   "detected_at": "2026-11-16 06:18:02",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Swiss LNA Lugano Tigers 77, Starwings Basket Regio Basel 69",
-   "detected_at": "2026-11-16 06:17:59",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-15/Starwings-Basket-Regio-Basel-at-Lugano-Tigers/534222"
   }
  ],
  "feeds": {
@@ -10372,12 +10372,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 11832,
-   "last": "2026-11-22 17:08:54"
+   "count": 11834,
+   "last": "2026-11-22 21:24:51"
   },
   "SCORES": {
-   "count": 6404,
-   "last": "2026-11-22 20:22:34"
+   "count": 6415,
+   "last": "2026-11-22 21:25:25"
   },
   "SHEETS": {
    "count": 5291,
@@ -10396,6 +10396,6 @@
    "last": "2026-11-22 13:41:30"
   }
  },
- "generated_at": "2026-11-22T21:22:20",
- "total": 43830
+ "generated_at": "2026-11-22T21:25:30",
+ "total": 43843
 }
