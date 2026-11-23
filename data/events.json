@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "2026-11-23  Sacramento Kings signed guard Gabe Vincent to a Rest-of-Season Contract.",
+   "detected_at": "2026-11-23 11:21:14",
+   "source": "TRANSACTIONS",
+   "type": "Signing"
+  },
+  {
    "detail": "Basketball Africa League - Qualification Dar City Basketball Team 96, Ferroviario de Beira 76",
    "detected_at": "2026-11-23 09:08:31",
    "source": "SCORES",
@@ -10338,13 +10344,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-16/Long-Beach-State-at-UCLA/542367"
-  },
-  {
-   "detail": "Argentinian Liga A Instituto Atletico Central Cordoba 82, San Lorenzo de Almagro 70",
-   "detected_at": "2026-11-17 03:05:24",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-16/San-Lorenzo-de-Almagro-at-Instituto-Atletico-Central-Cordoba/544953"
   }
  ],
  "feeds": {
@@ -10377,8 +10376,8 @@
    "last": "2026-11-18 09:14:20"
   },
   "TRANSACTIONS": {
-   "count": 712,
-   "last": "2026-11-18 15:02:13"
+   "count": 713,
+   "last": "2026-11-23 11:21:14"
   },
   "WIKI": {
    "count": 10429,
@@ -10389,6 +10388,6 @@
    "last": "2026-11-23 07:56:10"
   }
  },
- "generated_at": "2026-11-23T11:19:01",
- "total": 44084
+ "generated_at": "2026-11-23T11:21:24",
+ "total": 44085
 }
