@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "NCAA St Bonaventure 71, Appalachian State 65",
+   "detected_at": "2026-11-23 17:17:07",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-23/Appalachian-State-at-St-Bonaventure/543853"
+  },
+  {
+   "detail": "NCAA Davidson 79, Northern Iowa 48",
+   "detected_at": "2026-11-23 17:17:03",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-23/Davidson-at-Northern-Iowa/535286"
+  },
+  {
    "detail": "NCAA Middle Tennessee State 77, Southern Illinois 76",
    "detected_at": "2026-11-23 14:49:37",
    "source": "SCORES",
@@ -10309,18 +10323,6 @@
    "detected_at": "2026-11-17 06:10:21",
    "source": "GLEAGUE",
    "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-11-16  Waived: Brandon Muntu (Raptors)",
-   "detected_at": "2026-11-17 06:10:21",
-   "source": "GLEAGUE",
-   "type": "Waived/Buyout"
-  },
-  {
-   "detail": "2026-11-16  Waivers Cleared: Brandon Muntu",
-   "detected_at": "2026-11-17 06:10:21",
-   "source": "GLEAGUE",
-   "type": "Waived/Buyout"
   }
  ],
  "feeds": {
@@ -10345,8 +10347,8 @@
    "last": "2026-11-23 14:48:49"
   },
   "SCORES": {
-   "count": 6550,
-   "last": "2026-11-23 14:49:37"
+   "count": 6552,
+   "last": "2026-11-23 17:17:07"
   },
   "SHEETS": {
    "count": 5312,
@@ -10365,6 +10367,6 @@
    "last": "2026-11-23 07:56:10"
   }
  },
- "generated_at": "2026-11-23T16:46:39",
- "total": 44131
+ "generated_at": "2026-11-23T17:17:12",
+ "total": 44133
 }
