@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Tyler Dorsey  ~ team: Olympiacos -> P.A.O.K. BC",
+   "detected_at": "2026-11-24 08:26:39",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Tyler_Dorsey"
+  },
+  {
+   "detail": "Tyler Dorsey  ~ league: GBL EuroLeague -> GBL EuroCup",
+   "detected_at": "2026-11-24 08:26:39",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Tyler_Dorsey"
+  },
+  {
    "detail": "NCAA Idaho 88, Dickinson State 47",
    "detected_at": "2026-11-24 07:48:47",
    "source": "SCORES",
@@ -10361,18 +10375,6 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Dragan_Api%C4%87"
-  },
-  {
-   "detail": "2026-11-17  Utah Jazz signed center Jonas Aidoo to a Two-Way Contract.",
-   "detected_at": "2026-11-17 13:37:34",
-   "source": "TRANSACTIONS",
-   "type": "Signing"
-  },
-  {
-   "detail": "2026-11-16  Atlanta Hawks signed center Rafael Castro to a Two-Way Contract.",
-   "detected_at": "2026-11-17 13:37:34",
-   "source": "TRANSACTIONS",
-   "type": "Signing"
   }
  ],
  "feeds": {
@@ -10409,14 +10411,14 @@
    "last": "2026-11-23 11:21:14"
   },
   "WIKI": {
-   "count": 10454,
-   "last": "2026-11-24 07:46:49"
+   "count": 10456,
+   "last": "2026-11-24 08:26:39"
   },
   "WIKIWATCH": {
    "count": 674,
    "last": "2026-11-23 07:56:10"
   }
  },
- "generated_at": "2026-11-24T07:48:51",
- "total": 44211
+ "generated_at": "2026-11-24T08:26:40",
+ "total": 44213
 }
