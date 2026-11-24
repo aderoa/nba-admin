@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Gabe Vincent  ~ number: 7 -> 10",
+   "detected_at": "2026-11-23 21:38:41",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Gabe_Vincent"
+  },
+  {
+   "detail": "Raul Neto  ~ CAREER  + 2026–present Illawarra Hawks",
+   "detected_at": "2026-11-23 21:38:41",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Raul_Neto"
+  },
+  {
    "detail": "NCAA Le Moyne 68, Mansfield 58",
    "detected_at": "2026-11-23 20:56:07",
    "source": "SCORES",
@@ -10329,20 +10343,6 @@
    "source": "WIKI",
    "type": "CAREER",
    "url": "https://en.wikipedia.org/wiki/Isaiah_Pi%C3%B1eiro"
-  },
-  {
-   "detail": "Martynas Sajus  ~ team: Free Agent -> Bursaspor",
-   "detected_at": "2026-11-17 08:30:34",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Martynas_Sajus"
-  },
-  {
-   "detail": "Martynas Sajus  ~ league: - -> Basketbol Süper Ligi",
-   "detected_at": "2026-11-17 08:30:34",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Martynas_Sajus"
   }
  ],
  "feeds": {
@@ -10379,14 +10379,14 @@
    "last": "2026-11-23 11:21:14"
   },
   "WIKI": {
-   "count": 10444,
-   "last": "2026-11-23 20:54:40"
+   "count": 10446,
+   "last": "2026-11-23 21:38:41"
   },
   "WIKIWATCH": {
    "count": 674,
    "last": "2026-11-23 07:56:10"
   }
  },
- "generated_at": "2026-11-23T20:56:12",
- "total": 44158
+ "generated_at": "2026-11-23T21:38:44",
+ "total": 44160
 }
