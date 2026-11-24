@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "2026-11-24  Chicago Bulls waived center Orlando Robinson.",
+   "detected_at": "2026-11-24 14:35:15",
+   "source": "TRANSACTIONS",
+   "type": "Waive"
+  },
+  {
    "detail": "NCAA Ohio 69, New Mexico State 68",
    "detected_at": "2026-11-24 14:09:12",
    "source": "SCORES",
@@ -10368,13 +10374,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Josh_Hart"
-  },
-  {
-   "detail": "Joseph Jones (basketball)  ~ team: UTSA Roadrunners -> UTEP Miners",
-   "detected_at": "2026-11-18 05:28:13",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Joseph_Jones_(basketball)"
   }
  ],
  "feeds": {
@@ -10407,8 +10406,8 @@
    "last": "2026-11-23 11:47:18"
   },
   "TRANSACTIONS": {
-   "count": 713,
-   "last": "2026-11-23 11:21:14"
+   "count": 714,
+   "last": "2026-11-24 14:35:15"
   },
   "WIKI": {
    "count": 10465,
@@ -10419,6 +10418,6 @@
    "last": "2026-11-24 13:59:46"
   }
  },
- "generated_at": "2026-11-24T14:09:16",
- "total": 44243
+ "generated_at": "2026-11-24T14:42:40",
+ "total": 44244
 }
