@@ -1,6 +1,139 @@
 {
  "events": [
   {
+   "detail": "Basketball Africa League - Qualification Nairobi City Thunder 83, Urunani 81",
+   "detected_at": "2026-11-24 09:05:54",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-23/Urunani-at-Nairobi-City-Thunder/546473"
+  },
+  {
+   "detail": "Basketball Africa League - Qualification ~ MOVED Teafale Lenard, Jr. → Urunani (from RSSB Tigers)",
+   "detected_at": "2026-11-24 09:05:52",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Basketball Africa League - Qualification + Albert-Philippe Ntungicimpaye → Urunani",
+   "detected_at": "2026-11-24 09:05:52",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Basketball Africa League - Qualification + Tylor Ongwae → Nairobi City Thunder",
+   "detected_at": "2026-11-24 09:05:52",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Basketball Africa League - Qualification + Chad Bowie → Nairobi City Thunder",
+   "detected_at": "2026-11-24 09:05:52",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Basketball Africa League - Qualification + Flo Thamba → Nairobi City Thunder",
+   "detected_at": "2026-11-24 09:05:52",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Basketball Africa League - Qualification ~ MOVED Buay Tuach → Nairobi City Thunder (from Otago Nuggets)",
+   "detected_at": "2026-11-24 09:05:52",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Basketball Africa League - Qualification + Garang Diing Akol Diing → Nairobi City Thunder",
+   "detected_at": "2026-11-24 09:05:52",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Basketball Africa League - Qualification + Joel Awich → Nairobi City Thunder",
+   "detected_at": "2026-11-24 09:05:52",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Basketball Africa League - Qualification + Bush Wamukota → Nairobi City Thunder",
+   "detected_at": "2026-11-24 09:05:52",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Basketball Africa League - Qualification + Deng Adel → Nairobi City Thunder",
+   "detected_at": "2026-11-24 09:05:52",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Basketball Africa League - Qualification + Eugene Adera → Nairobi City Thunder",
+   "detected_at": "2026-11-24 09:05:52",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Basketball Africa League - Qualification Dar City Basketball Team 91, Namuwongo Blazers 79",
+   "detected_at": "2026-11-24 09:05:48",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-24/Dar-City-Basketball-Team-at-Namuwongo-Blazers/546475"
+  },
+  {
+   "detail": "Basketball Africa League - Qualification Ferroviario de Beira 94, Dolphins BC 62",
+   "detected_at": "2026-11-24 09:05:44",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-24/Dolphins-BC-at-Ferroviario-de-Beira/546474"
+  },
+  {
+   "detail": "Tyler Dorsey  ~ team: P.A.O.K. BC -> PAOK",
+   "detected_at": "2026-11-24 09:05:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Tyler_Dorsey"
+  },
+  {
+   "detail": "Tyler Dorsey  ~ CAREER  + 2024–2026 Olympiacos",
+   "detected_at": "2026-11-24 09:05:38",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Tyler_Dorsey"
+  },
+  {
+   "detail": "Tyler Dorsey  ~ CAREER  + 2026-present PAOK Thessaloniki",
+   "detected_at": "2026-11-24 09:05:38",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Tyler_Dorsey"
+  },
+  {
+   "detail": "Tyler Dorsey  ~ 41957: team -> Olympiacos",
+   "detected_at": "2026-11-24 08:56:41",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "PAOK"
+  },
+  {
+   "detail": "Tyler Dorsey  ~ 41957: league -> GBL EuroLeague",
+   "detected_at": "2026-11-24 08:56:41",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "GBL EuroCup"
+  },
+  {
    "detail": "Tyler Dorsey  ~ team: Olympiacos -> P.A.O.K. BC",
    "detected_at": "2026-11-24 08:26:39",
    "source": "WIKI",
@@ -10242,139 +10375,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-17/Lipscomb-at-Purdue/540061"
-  },
-  {
-   "detail": "NCAA Liberty 87, Southern Illinois 78",
-   "detected_at": "2026-11-17 18:20:50",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-17/Liberty-at-Southern-Illinois/540064"
-  },
-  {
-   "detail": "NCAA Marist 73, Army West Point 68",
-   "detected_at": "2026-11-17 18:20:47",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-17/Marist-at-Army-West-Point/533625"
-  },
-  {
-   "detail": "NCAA Southern 100, Louisiana Christian 58",
-   "detected_at": "2026-11-17 17:18:53",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-17/Louisiana-Christian-at-Southern/544336"
-  },
-  {
-   "detail": "NCAA Houston 85, Rutgers 73",
-   "detected_at": "2026-11-17 17:18:49",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-17/Rutgers-at-Houston/535209"
-  },
-  {
-   "detail": "NCAA Florida 86, Notre Dame 78",
-   "detected_at": "2026-11-17 17:18:45",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-17/Notre-Dame-at-Florida/535208"
-  },
-  {
-   "detail": "OG Anunoby  ~ position: Small forward / shooting guard -> Small Forward / Power Forward",
-   "detected_at": "2026-11-17 17:08:34",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/OG_Anunoby"
-  },
-  {
-   "detail": "NCAA Murray State 82, Hofstra 66",
-   "detected_at": "2026-11-17 16:18:03",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-17/Murray-State-at-Hofstra/543848"
-  },
-  {
-   "detail": "NCAA Delaware 93, Wilson College 47",
-   "detected_at": "2026-11-17 16:17:59",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-17/Wilson-College-at-Delaware/540062"
-  },
-  {
-   "detail": "Lahaou Konaté  ~ team: ESSM Le Portel -> Metropolitans",
-   "detected_at": "2026-11-17 16:17:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Lahaou_Konat%C3%A9"
-  },
-  {
-   "detail": "Lahaou Konaté  ~ league: LNB Pro A -> Élite 2",
-   "detected_at": "2026-11-17 16:17:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Lahaou_Konat%C3%A9"
-  },
-  {
-   "detail": "Lahaou Konaté  ~ position: Shooting guard / small forward -> Small forward / shooting guard",
-   "detected_at": "2026-11-17 16:17:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Lahaou_Konat%C3%A9"
-  },
-  {
-   "detail": "Lahaou Konaté  ~ number: 5 -> 55",
-   "detected_at": "2026-11-17 16:17:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Lahaou_Konat%C3%A9"
-  },
-  {
-   "detail": "Lahaou Konaté  ~ CAREER  + 2024–2026 ESSM Le Portel",
-   "detected_at": "2026-11-17 16:17:35",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Lahaou_Konat%C3%A9"
-  },
-  {
-   "detail": "Lahaou Konaté  ~ CAREER  + 2026–present Metropolitans Levallois",
-   "detected_at": "2026-11-17 16:17:35",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Lahaou_Konat%C3%A9"
-  },
-  {
-   "detail": "Isaiah Canaan  ~ team: Free Agent -> Free agent",
-   "detected_at": "2026-11-17 15:32:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Isaiah_Canaan"
-  },
-  {
-   "detail": "Isaiah Canaan  ~ position: Shooting guard -> Point guard",
-   "detected_at": "2026-11-17 15:32:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Isaiah_Canaan"
-  },
-  {
-   "detail": "Terry Taylor (basketball)  ~ CAREER  + 2026 Iowa Wolves",
-   "detected_at": "2026-11-17 15:32:35",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Terry_Taylor_(basketball)"
-  },
-  {
-   "detail": "Dragan Apić  ~ CAREER  + 2021–2022 Zielona Góra",
-   "detected_at": "2026-11-17 13:44:35",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Dragan_Api%C4%87"
-  },
-  {
-   "detail": "Dragan Apić  ~ CAREER  + 2024–2026 Breogán",
-   "detected_at": "2026-11-17 13:44:35",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Dragan_Api%C4%87"
   }
  ],
  "feeds": {
@@ -10395,12 +10395,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 11913,
-   "last": "2026-11-24 07:47:19"
+   "count": 11924,
+   "last": "2026-11-24 09:05:52"
   },
   "SCORES": {
-   "count": 6601,
-   "last": "2026-11-24 07:48:47"
+   "count": 6604,
+   "last": "2026-11-24 09:05:54"
   },
   "SHEETS": {
    "count": 5312,
@@ -10411,14 +10411,14 @@
    "last": "2026-11-23 11:21:14"
   },
   "WIKI": {
-   "count": 10456,
-   "last": "2026-11-24 08:26:39"
+   "count": 10459,
+   "last": "2026-11-24 09:05:38"
   },
   "WIKIWATCH": {
-   "count": 674,
-   "last": "2026-11-23 07:56:10"
+   "count": 676,
+   "last": "2026-11-24 08:56:41"
   }
  },
- "generated_at": "2026-11-24T08:32:22",
- "total": 44213
+ "generated_at": "2026-11-24T09:06:19",
+ "total": 44232
 }
