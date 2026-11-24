@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Basketball Africa League - Qualification Patriots BBC 109, Urunani 108",
+   "detected_at": "2026-11-24 11:17:44",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-24/Patriots-BBC-at-Urunani/546476"
+  },
+  {
+   "detail": "Basketball Africa League - Qualification + Chris Dushime → Urunani",
+   "detected_at": "2026-11-24 11:17:42",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
    "detail": "Charis Giannopoulos  ~ career_end: - -> 2026",
    "detected_at": "2026-11-24 10:54:38",
    "source": "WIKI",
@@ -10361,20 +10375,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-17/Lehigh-at-Mount-St-Marys/540065"
-  },
-  {
-   "detail": "NCAA Georgia Tech 93, Norfolk State 79",
-   "detected_at": "2026-11-17 18:21:06",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-17/Norfolk-State-at-Georgia-Tech/539727"
-  },
-  {
-   "detail": "NCAA South Florida 98, Tennessee State 71",
-   "detected_at": "2026-11-17 18:21:02",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-17/Tennessee-State-at-South-Florida/539087"
   }
  ],
  "feeds": {
@@ -10395,12 +10395,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 11924,
-   "last": "2026-11-24 09:05:52"
+   "count": 11925,
+   "last": "2026-11-24 11:17:42"
   },
   "SCORES": {
-   "count": 6604,
-   "last": "2026-11-24 09:05:54"
+   "count": 6605,
+   "last": "2026-11-24 11:17:44"
   },
   "SHEETS": {
    "count": 5312,
@@ -10419,6 +10419,6 @@
    "last": "2026-11-24 08:56:41"
   }
  },
- "generated_at": "2026-11-24T11:08:39",
- "total": 44234
+ "generated_at": "2026-11-24T11:18:07",
+ "total": 44236
 }
