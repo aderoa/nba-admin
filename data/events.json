@@ -1,6 +1,20 @@
 {
  "events": [
   {
+   "detail": "Charis Giannopoulos  ~ career_end: - -> 2026",
+   "detected_at": "2026-11-24 10:54:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Charis_Giannopoulos"
+  },
+  {
+   "detail": "Charis Giannopoulos  ~ CAREER  + 2023–2026 Maroussi",
+   "detected_at": "2026-11-24 10:54:38",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Charis_Giannopoulos"
+  },
+  {
    "detail": "Basketball Africa League - Qualification Nairobi City Thunder 83, Urunani 81",
    "detected_at": "2026-11-24 09:05:54",
    "source": "SCORES",
@@ -10361,20 +10375,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-17/Tennessee-State-at-South-Florida/539087"
-  },
-  {
-   "detail": "NCAA Stony Brook 104, SUNY Potsdam 47",
-   "detected_at": "2026-11-17 18:20:58",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-17/SUNY-Potsdam-at-Stony-Brook/543779"
-  },
-  {
-   "detail": "NCAA Purdue 95, Lipscomb 78",
-   "detected_at": "2026-11-17 18:20:54",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-17/Lipscomb-at-Purdue/540061"
   }
  ],
  "feeds": {
@@ -10411,14 +10411,14 @@
    "last": "2026-11-23 11:21:14"
   },
   "WIKI": {
-   "count": 10459,
-   "last": "2026-11-24 09:05:38"
+   "count": 10461,
+   "last": "2026-11-24 10:54:38"
   },
   "WIKIWATCH": {
    "count": 676,
    "last": "2026-11-24 08:56:41"
   }
  },
- "generated_at": "2026-11-24T10:25:20",
- "total": 44232
+ "generated_at": "2026-11-24T10:54:39",
+ "total": 44234
 }
