@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Gabe Vincent  ~ league: - -> NBA",
+   "detected_at": "2026-11-23 17:48:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Gabe_Vincent"
+  },
+  {
    "detail": "NCAA St Bonaventure 71, Appalachian State 65",
    "detected_at": "2026-11-23 17:17:07",
    "source": "SCORES",
@@ -10317,12 +10324,6 @@
    "detected_at": "2026-11-17 06:10:21",
    "source": "GLEAGUE",
    "type": "Waived/Buyout"
-  },
-  {
-   "detail": "2026-11-16  Acquired from Player Pool: Jordan Derkack (Wolves)",
-   "detected_at": "2026-11-17 06:10:21",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
   }
  ],
  "feeds": {
@@ -10359,14 +10360,14 @@
    "last": "2026-11-23 11:21:14"
   },
   "WIKI": {
-   "count": 10436,
-   "last": "2026-11-23 12:28:35"
+   "count": 10437,
+   "last": "2026-11-23 17:48:38"
   },
   "WIKIWATCH": {
    "count": 674,
    "last": "2026-11-23 07:56:10"
   }
  },
- "generated_at": "2026-11-23T17:17:12",
- "total": 44133
+ "generated_at": "2026-11-23T17:48:40",
+ "total": 44134
 }
