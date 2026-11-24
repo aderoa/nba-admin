@@ -1,6 +1,48 @@
 {
  "events": [
   {
+   "detail": "NCAA Eastern Illinois 83, IU South Bend 66",
+   "detected_at": "2026-11-23 18:21:12",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-23/IU-South-Bend-at-Eastern-Illinois/543313"
+  },
+  {
+   "detail": "NCAA Florida International 79, Long Beach State 75",
+   "detected_at": "2026-11-23 18:21:07",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-23/Long-Beach-State-at-Florida-International/542368"
+  },
+  {
+   "detail": "NCAA Indiana State 77, East Carolina 76",
+   "detected_at": "2026-11-23 18:21:03",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-23/Indiana-State-at-East-Carolina/546619"
+  },
+  {
+   "detail": "Cliff Hammonds  ~ team: Free Agent -> -",
+   "detected_at": "2026-11-23 18:20:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Cliff_Hammonds"
+  },
+  {
+   "detail": "Cliff Hammonds  ~ position: Point guard -> -",
+   "detected_at": "2026-11-23 18:20:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Cliff_Hammonds"
+  },
+  {
+   "detail": "Cliff Hammonds  ~ career_end: - -> 2025",
+   "detected_at": "2026-11-23 18:20:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Cliff_Hammonds"
+  },
+  {
    "detail": "Gabe Vincent  ~ league: - -> NBA",
    "detected_at": "2026-11-23 17:48:38",
    "source": "WIKI",
@@ -10288,42 +10330,6 @@
    "detected_at": "2026-11-17 06:10:21",
    "source": "GLEAGUE",
    "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-11-16  Acquired from Player Pool: Don Mchenry (Skyforce)",
-   "detected_at": "2026-11-17 06:10:21",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-11-16  Acquired from Player Pool: Trey Fort (Skyforce)",
-   "detected_at": "2026-11-17 06:10:21",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-11-16  Acquired from Player Pool: Esteban Ezequiel Roacho Amador (Capitanes)",
-   "detected_at": "2026-11-17 06:10:21",
-   "source": "GLEAGUE",
-   "type": "Acquired/Assigned"
-  },
-  {
-   "detail": "2026-11-16  Waived: Shawn Jones, Jr (Squadron)",
-   "detected_at": "2026-11-17 06:10:21",
-   "source": "GLEAGUE",
-   "type": "Waived/Buyout"
-  },
-  {
-   "detail": "2026-11-16  Waived: Jordan Derkack (Go Go)",
-   "detected_at": "2026-11-17 06:10:21",
-   "source": "GLEAGUE",
-   "type": "Waived/Buyout"
-  },
-  {
-   "detail": "2026-11-16  Waivers Cleared: Jordan Derkack",
-   "detected_at": "2026-11-17 06:10:21",
-   "source": "GLEAGUE",
-   "type": "Waived/Buyout"
   }
  ],
  "feeds": {
@@ -10348,8 +10354,8 @@
    "last": "2026-11-23 14:48:49"
   },
   "SCORES": {
-   "count": 6552,
-   "last": "2026-11-23 17:17:07"
+   "count": 6555,
+   "last": "2026-11-23 18:21:12"
   },
   "SHEETS": {
    "count": 5312,
@@ -10360,14 +10366,14 @@
    "last": "2026-11-23 11:21:14"
   },
   "WIKI": {
-   "count": 10437,
-   "last": "2026-11-23 17:48:38"
+   "count": 10440,
+   "last": "2026-11-23 18:20:38"
   },
   "WIKIWATCH": {
    "count": 674,
    "last": "2026-11-23 07:56:10"
   }
  },
- "generated_at": "2026-11-23T17:48:40",
- "total": 44134
+ "generated_at": "2026-11-23T18:21:15",
+ "total": 44140
 }
