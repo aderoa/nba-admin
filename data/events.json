@@ -1,6 +1,41 @@
 {
  "events": [
   {
+   "detail": "NCAA Ohio 69, New Mexico State 68",
+   "detected_at": "2026-11-24 14:09:12",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-24/New-Mexico-State-at-Ohio/542822"
+  },
+  {
+   "detail": "NCAA St Bonaventure 72, Wright State 70",
+   "detected_at": "2026-11-24 14:09:07",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-24/St-Bonaventure-at-Wright-State/543855"
+  },
+  {
+   "detail": "Chris Silva  ~ position: Center -> Center / power forward",
+   "detected_at": "2026-11-24 14:08:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Chris_Silva"
+  },
+  {
+   "detail": "Chris Silva  ~ height_in: 9 -> 8",
+   "detected_at": "2026-11-24 14:08:38",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Chris_Silva"
+  },
+  {
+   "detail": "Ethan Thompson  ~ 88903: position -> Shooting guard",
+   "detected_at": "2026-11-24 13:59:46",
+   "source": "WIKIWATCH",
+   "type": "FIELD",
+   "url": "Shooting guard / small forward"
+  },
+  {
    "detail": "David Lighty  ~ position: Small forward / power forward -> Small forward",
    "detected_at": "2026-11-24 12:44:39",
    "source": "WIKI",
@@ -10340,41 +10375,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Joseph_Jones_(basketball)"
-  },
-  {
-   "detail": "Joseph Jones (basketball)  ~ league: American Athletic Conference -> Mountain West Conference",
-   "detected_at": "2026-11-18 05:28:13",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Joseph_Jones_(basketball)"
-  },
-  {
-   "detail": "Noam Dovrat  ~ CAREER  + 2025 Maccabi Ironi Ramat Gan",
-   "detected_at": "2026-11-18 05:28:13",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Noam_Dovrat"
-  },
-  {
-   "detail": "Noam Dovrat  ~ CAREER  + 2026-present Ironi Ness Ziona",
-   "detected_at": "2026-11-18 05:28:13",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Noam_Dovrat"
-  },
-  {
-   "detail": "Grant Williams (basketball)  ~ position: Power forward -> Power Forward/Small Forward",
-   "detected_at": "2026-11-18 05:28:12",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Grant_Williams_(basketball)"
-  },
-  {
-   "detail": "NCAA Dartmouth 117, Maine Augusta 67",
-   "detected_at": "2026-11-17 18:21:17",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-17/Maine--Augusta-at-Dartmouth/539729"
   }
  ],
  "feeds": {
@@ -10399,8 +10399,8 @@
    "last": "2026-11-24 11:17:42"
   },
   "SCORES": {
-   "count": 6605,
-   "last": "2026-11-24 11:17:44"
+   "count": 6607,
+   "last": "2026-11-24 14:09:12"
   },
   "SHEETS": {
    "count": 5312,
@@ -10411,14 +10411,14 @@
    "last": "2026-11-23 11:21:14"
   },
   "WIKI": {
-   "count": 10463,
-   "last": "2026-11-24 12:44:39"
+   "count": 10465,
+   "last": "2026-11-24 14:08:38"
   },
   "WIKIWATCH": {
-   "count": 676,
-   "last": "2026-11-24 08:56:41"
+   "count": 677,
+   "last": "2026-11-24 13:59:46"
   }
  },
- "generated_at": "2026-11-24T13:39:30",
- "total": 44238
+ "generated_at": "2026-11-24T14:09:16",
+ "total": 44243
 }
