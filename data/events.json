@@ -1,6 +1,34 @@
 {
  "events": [
   {
+   "detail": "NCAA Fordham 104, Mercy College 56",
+   "detected_at": "2026-11-25 10:44:14",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-25/Mercy-College-at-Fordham/532349"
+  },
+  {
+   "detail": "NCAA Rice 82, Ohio 74",
+   "detected_at": "2026-11-25 10:44:10",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-25/Ohio-at-Rice/542824"
+  },
+  {
+   "detail": "NCAA Charlotte 85, Northern Iowa 72",
+   "detected_at": "2026-11-25 10:44:06",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-25/Charlotte-at-Northern-Iowa/535289"
+  },
+  {
+   "detail": "NCAA St Bonaventure 71, Belmont 68",
+   "detected_at": "2026-11-25 10:44:01",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-25/Belmont-at-St-Bonaventure/543856"
+  },
+  {
    "detail": "Felipe dos Anjos  ~ team: Monbus Obradoiro -> Obradoiro CAB",
    "detected_at": "2026-11-25 09:18:38",
    "source": "WIKI",
@@ -10349,34 +10377,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Marcus_Sasser"
-  },
-  {
-   "detail": "Dwight Powell  ~ position: Power forward / centre -> Centre / power forward",
-   "detected_at": "2026-11-18 11:26:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Dwight_Powell"
-  },
-  {
-   "detail": "Onuralp Bitim  ~ position: Small forward -> Shooting guard / small forward",
-   "detected_at": "2026-11-18 11:26:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Onuralp_Bitim"
-  },
-  {
-   "detail": "Talen Horton-Tucker  ~ position: Shooting guard -> Guard / small forward",
-   "detected_at": "2026-11-18 11:26:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Talen_Horton-Tucker"
-  },
-  {
-   "detail": "Nicolò Melli  ~ position: Power forward -> Power forward / centre",
-   "detected_at": "2026-11-18 11:26:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Nicol%C3%B2_Melli"
   }
  ],
  "feeds": {
@@ -10401,8 +10401,8 @@
    "last": "2026-11-25 07:45:48"
   },
   "SCORES": {
-   "count": 6708,
-   "last": "2026-11-25 07:47:22"
+   "count": 6712,
+   "last": "2026-11-25 10:44:14"
   },
   "SHEETS": {
    "count": 5312,
@@ -10421,6 +10421,6 @@
    "last": "2026-11-25 09:08:58"
   }
  },
- "generated_at": "2026-11-25T10:13:30",
- "total": 44407
+ "generated_at": "2026-11-25T10:44:20",
+ "total": 44411
 }
