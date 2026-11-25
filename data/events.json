@@ -1,6 +1,62 @@
 {
  "events": [
   {
+   "detail": "NCAA Northern Colorado 93, Detroit Mercy 83",
+   "detected_at": "2026-11-25 13:06:18",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-25/Detroit-Mercy-at-Northern-Colorado/537574"
+  },
+  {
+   "detail": "NCAA Stony Brook 69, Lindenwood 63",
+   "detected_at": "2026-11-25 13:06:14",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-25/Lindenwood-at-Stony-Brook/543738"
+  },
+  {
+   "detail": "NCAA Long Beach State 65, Southern Utah 64",
+   "detected_at": "2026-11-25 13:06:10",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-25/Long-Beach-State-at-Southern-Utah/542370"
+  },
+  {
+   "detail": "NCAA Rhode Island 98, American International 89",
+   "detected_at": "2026-11-25 13:06:06",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-25/American-International-at-Rhode-Island/539747"
+  },
+  {
+   "detail": "NCAA Miami OH 85, Eastern Kentucky 72",
+   "detected_at": "2026-11-25 13:06:02",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-25/Eastern-Kentucky-at-Miami-OH/531996"
+  },
+  {
+   "detail": "NCAA Yale 72, Wright State 70",
+   "detected_at": "2026-11-25 13:05:58",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-25/Wright-State-at-Yale/544380"
+  },
+  {
+   "detail": "NCAA Saint Josephs 104, Penn State Abington 48",
+   "detected_at": "2026-11-25 13:05:53",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-25/Penn-State-Abington-at-Saint-Josephs/539749"
+  },
+  {
+   "detail": "NCAA Fairleigh Dickinson 123, Vermont State Randolph 48",
+   "detected_at": "2026-11-25 13:05:49",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-25/Vermont-State--Randolph-at-Fairleigh-Dickinson/539335"
+  },
+  {
    "detail": "NCAA Fordham 104, Mercy College 56",
    "detected_at": "2026-11-25 10:44:14",
    "source": "SCORES",
@@ -10321,62 +10377,6 @@
    "detected_at": "2026-11-18 14:32:22",
    "source": "DOCS",
    "type": "ADDED"
-  },
-  {
-   "detail": "Ethan Thompson  ~ 88903: position -> Shooting guard",
-   "detected_at": "2026-11-18 14:30:22",
-   "source": "WIKIWATCH",
-   "type": "FIELD",
-   "url": "Shooting guard / small forward"
-  },
-  {
-   "detail": "Bobi Klintman  ~ position: Power forward / small forward -> Power forward / center",
-   "detected_at": "2026-11-18 12:43:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Bobi_Klintman"
-  },
-  {
-   "detail": "Marcus Sasser  ~ position: Point guard -> Shooting guard / point guard",
-   "detected_at": "2026-11-18 12:43:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Marcus_Sasser"
-  },
-  {
-   "detail": "Stefan Pot  ~ team: Slovan Bratislava -> -",
-   "detected_at": "2026-11-18 12:43:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Stefan_Pot"
-  },
-  {
-   "detail": "Stefan Pot  ~ league: SBL ABA League -> -",
-   "detected_at": "2026-11-18 12:43:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Stefan_Pot"
-  },
-  {
-   "detail": "Stefan Pot  ~ number: 11 -> -",
-   "detected_at": "2026-11-18 12:43:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Stefan_Pot"
-  },
-  {
-   "detail": "Stefan Pot  ~ CAREER  + 2026 Slovan Bratislava",
-   "detected_at": "2026-11-18 12:43:35",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Stefan_Pot"
-  },
-  {
-   "detail": "Marcus Sasser  ~ position: Shooting guard / point guard -> Point guard",
-   "detected_at": "2026-11-18 12:00:36",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Marcus_Sasser"
   }
  ],
  "feeds": {
@@ -10401,8 +10401,8 @@
    "last": "2026-11-25 07:45:48"
   },
   "SCORES": {
-   "count": 6712,
-   "last": "2026-11-25 10:44:14"
+   "count": 6720,
+   "last": "2026-11-25 13:06:18"
   },
   "SHEETS": {
    "count": 5312,
@@ -10421,6 +10421,6 @@
    "last": "2026-11-25 09:08:58"
   }
  },
- "generated_at": "2026-11-25T12:29:01",
- "total": 44411
+ "generated_at": "2026-11-25T13:06:23",
+ "total": 44419
 }
