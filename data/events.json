@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "Youssou Ndoye  ~ number: - -> 50",
+   "detected_at": "2026-11-24 22:16:40",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Youssou_Ndoye"
+  },
+  {
    "detail": "NCAA North Alabama 77, Alabama AM 74",
    "detected_at": "2026-11-24 20:58:38",
    "source": "SCORES",
@@ -10367,13 +10374,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-17/Auburn-at-West-Virginia/535211"
-  },
-  {
-   "detail": "NCAA Washington 96, Simon Fraser 59",
-   "detected_at": "2026-11-18 05:34:14",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-17/Simon-Fraser-at-Washington/546463"
   }
  ],
  "feeds": {
@@ -10410,14 +10410,14 @@
    "last": "2026-11-24 14:35:15"
   },
   "WIKI": {
-   "count": 10469,
-   "last": "2026-11-24 18:22:39"
+   "count": 10470,
+   "last": "2026-11-24 22:16:40"
   },
   "WIKIWATCH": {
    "count": 677,
    "last": "2026-11-24 13:59:46"
   }
  },
- "generated_at": "2026-11-24T21:43:25",
- "total": 44324
+ "generated_at": "2026-11-24T22:17:10",
+ "total": 44325
 }
