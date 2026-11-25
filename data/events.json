@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "NCAA Oklahoma State 93, Jackson State 58",
+   "detected_at": "2026-11-25 15:17:46",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-25/Jackson-State-at-Oklahoma-State/539097"
+  },
+  {
    "detail": "Markelle Fultz  ~ team: Free agent -> Raptors 905",
    "detected_at": "2026-11-25 15:12:37",
    "source": "WIKI",
@@ -10372,13 +10379,6 @@
    "source": "REALGM",
    "type": "SIGNED",
    "url": ""
-  },
-  {
-   "detail": "French NM1 Les Sables Vendee Basket 101, Toulouse Basket Club 73",
-   "detected_at": "2026-11-18 14:40:47",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-17/Toulouse-Basket-Club-at-Les-Sables-Vendee-Basket/535742"
   }
  ],
  "feeds": {
@@ -10403,8 +10403,8 @@
    "last": "2026-11-25 07:45:48"
   },
   "SCORES": {
-   "count": 6734,
-   "last": "2026-11-25 14:13:04"
+   "count": 6735,
+   "last": "2026-11-25 15:17:46"
   },
   "SHEETS": {
    "count": 5312,
@@ -10423,6 +10423,6 @@
    "last": "2026-11-25 09:08:58"
   }
  },
- "generated_at": "2026-11-25T15:12:38",
- "total": 44445
+ "generated_at": "2026-11-25T15:17:50",
+ "total": 44446
 }
