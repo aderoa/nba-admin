@@ -1,6 +1,34 @@
 {
  "events": [
   {
+   "detail": "NCAA UTEP 72, Eastern Michigan 54",
+   "detected_at": "2026-11-25 21:02:22",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-25/UTEP-at-Eastern-Michigan/535300"
+  },
+  {
+   "detail": "NCAA Grambling State 81, New Orleans 80",
+   "detected_at": "2026-11-25 21:02:18",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-25/Grambling-State-at-New-Orleans/542540"
+  },
+  {
+   "detail": "NCAA Arkansas State 92, Florida International 88",
+   "detected_at": "2026-11-25 21:02:14",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-25/Arkansas-State-at-Florida-International/544341"
+  },
+  {
+   "detail": "NCAA Xavier 88, Texas AM 83",
+   "detected_at": "2026-11-25 21:02:01",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-25/Xavier-at-Texas-AM/540120"
+  },
+  {
    "detail": "NCAA Northern Illinois 68, SIU Edwardsville 65",
    "detected_at": "2026-11-25 19:31:01",
    "source": "SCORES",
@@ -10352,34 +10380,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-11-18/Gence-BC-at-Kolossos-Rodou-BC/545032"
-  },
-  {
-   "detail": "FIBA Europe Cup + Donovan Donaldson → Gence BC",
-   "detected_at": "2026-11-18 19:18:27",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "FIBA Europe Cup BC Prievidza 97, Landau Lions 93",
-   "detected_at": "2026-11-18 19:18:24",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-18/BC-Prievidza-at-Landau-Lions/545030"
-  },
-  {
-   "detail": "V. J. Edgecombe  ~ team: Philadelphia 76ers -> Philadelphia 67ers",
-   "detected_at": "2026-11-18 19:08:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/V._J._Edgecombe"
-  },
-  {
-   "detail": "V. J. Edgecombe  ~ number: 77 -> 67",
-   "detected_at": "2026-11-18 19:08:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/V._J._Edgecombe"
   }
  ],
  "feeds": {
@@ -10404,8 +10404,8 @@
    "last": "2026-11-25 19:29:45"
   },
   "SCORES": {
-   "count": 6765,
-   "last": "2026-11-25 19:31:01"
+   "count": 6769,
+   "last": "2026-11-25 21:02:22"
   },
   "SHEETS": {
    "count": 5312,
@@ -10424,6 +10424,6 @@
    "last": "2026-11-25 09:08:58"
   }
  },
- "generated_at": "2026-11-25T20:15:11",
- "total": 44484
+ "generated_at": "2026-11-25T21:02:27",
+ "total": 44488
 }
