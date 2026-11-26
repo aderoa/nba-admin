@@ -1,6 +1,69 @@
 {
  "events": [
   {
+   "detail": "NCAA Portland State 72, UC Riverside 65",
+   "detected_at": "2026-11-25 16:42:33",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-25/Portland-State-at-UC-Riverside/543034"
+  },
+  {
+   "detail": "NCAA Utah Tech 124, Bethesda University 54",
+   "detected_at": "2026-11-25 16:42:28",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-25/Bethesda-University-at-Utah-Tech/543033"
+  },
+  {
+   "detail": "NCAA Holy Cross 67, Dartmouth 65",
+   "detected_at": "2026-11-25 16:42:24",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-25/Holy-Cross-at-Dartmouth/539750"
+  },
+  {
+   "detail": "NCAA Princeton 79, Liberty 72",
+   "detected_at": "2026-11-25 16:42:19",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-25/Liberty-at-Princeton/542542"
+  },
+  {
+   "detail": "NCAA Marshall 64, Prairie View AM 58",
+   "detected_at": "2026-11-25 16:42:15",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-25/Prairie-View-AM-at-Marshall/540118"
+  },
+  {
+   "detail": "NCAA Florida Gulf Coast 77, Georgia State 72",
+   "detected_at": "2026-11-25 16:42:11",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-25/Georgia-State-at-Florida-Gulf-Coast/535291"
+  },
+  {
+   "detail": "NCAA Texas State 97, Alcorn State 70",
+   "detected_at": "2026-11-25 16:42:07",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-25/Alcorn-State-at-Texas-State/543036"
+  },
+  {
+   "detail": "NCAA Nebraska 101, Southern 72",
+   "detected_at": "2026-11-25 16:42:02",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-25/Southern-at-Nebraska/543032"
+  },
+  {
+   "detail": "NCAA USC 71, South Carolina 69",
+   "detected_at": "2026-11-25 16:41:57",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-25/USC-at-South-Carolina/541105"
+  },
+  {
    "detail": "NCAA Oklahoma State 93, Jackson State 58",
    "detected_at": "2026-11-25 15:17:46",
    "source": "SCORES",
@@ -10317,68 +10380,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-18/Houston-at-Florida/535212"
-  },
-  {
-   "detail": "Ethan Thompson  ~ height_in: 5 -> 4",
-   "detected_at": "2026-11-18 16:32:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Ethan_Thompson"
-  },
-  {
-   "detail": "Carlik Jones  ~ height_in: 0 -> 1",
-   "detected_at": "2026-11-18 15:09:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Carlik_Jones"
-  },
-  {
-   "detail": "Carlik Jones  ~ weight_lb: 178 -> 174",
-   "detected_at": "2026-11-18 15:09:38",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Carlik_Jones"
-  },
-  {
-   "detail": "2026-11-18  Cleveland Cavaliers waived forward Riley Minix.",
-   "detected_at": "2026-11-18 15:02:13",
-   "source": "TRANSACTIONS",
-   "type": "Waive"
-  },
-  {
-   "detail": "Mexican LNBP Soles 76, Astros de Jalisco 75",
-   "detected_at": "2026-11-18 14:41:03",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-17/Soles-at-Astros-de-Jalisco/546398"
-  },
-  {
-   "detail": "French NM1 Union Basket Chartres Masculin 89, Laval US 76",
-   "detected_at": "2026-11-18 14:40:59",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-17/Laval-US-at-Union-Basket-Chartres-Masculin/535746"
-  },
-  {
-   "detail": "French NM1 Saint Vallier 85, Val De Seine 71",
-   "detected_at": "2026-11-18 14:40:55",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-17/Saint-Vallier-at-Val-De-Seine/535738"
-  },
-  {
-   "detail": "French NM1 Etoile Charleville Mezieres 92, SO Maritime Boulogne 85",
-   "detected_at": "2026-11-18 14:40:51",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-17/Etoile-Charleville-Mezieres-at-SO-Maritime-Boulogne/535739"
-  },
-  {
-   "detail": "French NM1 + Lucas Depaix → Etoile Charleville Mezieres",
-   "detected_at": "2026-11-18 14:40:50",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10403,8 +10404,8 @@
    "last": "2026-11-25 07:45:48"
   },
   "SCORES": {
-   "count": 6735,
-   "last": "2026-11-25 15:17:46"
+   "count": 6744,
+   "last": "2026-11-25 16:42:33"
   },
   "SHEETS": {
    "count": 5312,
@@ -10423,6 +10424,6 @@
    "last": "2026-11-25 09:08:58"
   }
  },
- "generated_at": "2026-11-25T16:02:47",
- "total": 44446
+ "generated_at": "2026-11-25T16:42:39",
+ "total": 44455
 }
