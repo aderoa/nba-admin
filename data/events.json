@@ -1,6 +1,430 @@
 {
  "events": [
   {
+   "detail": "NCAA Montana State 110, Northwest Indian 43",
+   "detected_at": "2026-11-26 07:10:18",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-25/Northwest-Indian-at-Montana-State/543035"
+  },
+  {
+   "detail": "NCAA Loyola Marymount 81, Eastern Washington 72",
+   "detected_at": "2026-11-26 07:10:13",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-25/Eastern-Washington-at-Loyola-Marymount/538009"
+  },
+  {
+   "detail": "NCAA Colorado State 77, Clemson 75",
+   "detected_at": "2026-11-26 07:10:09",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-25/Clemson-at-Colorado-State/535280"
+  },
+  {
+   "detail": "NCAA Saint Louis 66, Stanford 64",
+   "detected_at": "2026-11-26 07:10:05",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-25/Stanford-at-Saint-Louis/546639"
+  },
+  {
+   "detail": "NCAA Hawaii 83, Incarnate Word 81",
+   "detected_at": "2026-11-26 07:10:00",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-25/Incarnate-Word-at-Hawaii/544469"
+  },
+  {
+   "detail": "NCAA Jacksonville State 83, Pacific 76",
+   "detected_at": "2026-11-26 07:09:55",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-25/Pacific-at-Jacksonville-State/538008"
+  },
+  {
+   "detail": "NCAA VCU 80, Washington 78",
+   "detected_at": "2026-11-26 07:09:51",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-25/VCU-at-Washington/535279"
+  },
+  {
+   "detail": "NCAA Grand Canyon 79, Colorado 73",
+   "detected_at": "2026-11-26 07:09:47",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-25/Grand-Canyon-at-Colorado/546638"
+  },
+  {
+   "detail": "NCAA New Mexico 100, Mississippi Valley State 77",
+   "detected_at": "2026-11-26 07:09:43",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-25/Mississippi-Valley-State-at-New-Mexico/542541"
+  },
+  {
+   "detail": "NCAA Wake Forest 78, Mississippi State 71",
+   "detected_at": "2026-11-26 07:09:39",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-25/Mississippi-State-at-Wake-Forest/543786"
+  },
+  {
+   "detail": "NCAA Appalachian State 76, Akron 66",
+   "detected_at": "2026-11-26 07:09:35",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-25/Appalachian-State-at-Akron/544385"
+  },
+  {
+   "detail": "Euroleague Real Madrid 108, Zalgiris 93",
+   "detected_at": "2026-11-26 07:09:13",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-25/Zalgiris-at-Real-Madrid/526914"
+  },
+  {
+   "detail": "Euroleague Baskonia 86, Anadolu Efes 81",
+   "detected_at": "2026-11-26 07:09:08",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-25/Anadolu-Efes-at-Baskonia/526913"
+  },
+  {
+   "detail": "Euroleague ~ MOVED Zacharie Perrin → Baskonia (from Forca Lleida CE)",
+   "detected_at": "2026-11-26 07:09:07",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Euroleague Olympiacos 104, Hapoel Tel Aviv 79",
+   "detected_at": "2026-11-26 07:09:04",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-25/Hapoel-Tel-Aviv-at-Olympiacos/526912"
+  },
+  {
+   "detail": "Belarusian BPL Tsmoki Minsk 2 92, Rubon 2 69",
+   "detected_at": "2026-11-26 07:08:59",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-25/Rubon-2-at-Tsmoki-Minsk-2/544919"
+  },
+  {
+   "detail": "Belarusian BPL ~ RETURN Matvey Yagutko → Tsmoki Minsk 2 (from Tsmoki Minsk III)",
+   "detected_at": "2026-11-26 07:08:58",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "Belarusian BPL ~ RETURN Oleg Saley → Tsmoki Minsk 2 (from Tsmoki Minsk III)",
+   "detected_at": "2026-11-26 07:08:58",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "Belarusian BPL ~ RETURN Artem Smargun → Tsmoki Minsk 2 (from Tsmoki Minsk III)",
+   "detected_at": "2026-11-26 07:08:58",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "Belarusian BPL ~ RETURN Mark Shulyak → Tsmoki Minsk 2 (from Tsmoki Minsk III)",
+   "detected_at": "2026-11-26 07:08:58",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "Belarusian BPL ~ RETURN Artem Zhebrovsky → Tsmoki Minsk 2 (from Tsmoki Minsk III)",
+   "detected_at": "2026-11-26 07:08:58",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "Belarusian BPL ~ RETURN Egor Batvenkov → Tsmoki Minsk 2 (from Tsmoki Minsk III)",
+   "detected_at": "2026-11-26 07:08:58",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "Belarusian BPL ~ RETURN Nikita Leoshin → Tsmoki Minsk 2 (from Tsmoki Minsk III)",
+   "detected_at": "2026-11-26 07:08:58",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "Belarusian BPL ~ RETURN Zakhar Barbashinsky → Tsmoki Minsk 2 (from Tsmoki Minsk III)",
+   "detected_at": "2026-11-26 07:08:58",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "Belarusian BPL ~ RETURN Anton Poznyak → Tsmoki Minsk 2 (from Tsmoki Minsk III)",
+   "detected_at": "2026-11-26 07:08:58",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "Belarusian BPL ~ RETURN Nazar Zhdanyuk → Tsmoki Minsk 2 (from Tsmoki Minsk III)",
+   "detected_at": "2026-11-26 07:08:58",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "Belarusian BPL ~ RETURN Stanislav Kozel → Tsmoki Minsk 2 (from Tsmoki Minsk III)",
+   "detected_at": "2026-11-26 07:08:58",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "Belarusian BPL Gomel Lynx Youth 85, RGUOR Minsk 66",
+   "detected_at": "2026-11-26 07:08:55",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-25/RGUOR-Minsk-at-Gomel-Lynx-Youth/544918"
+  },
+  {
+   "detail": "Belarusian BPL + Gleb Zuyenok → RGUOR Minsk",
+   "detected_at": "2026-11-26 07:08:53",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Euroleague KK Partizan 84, Dubai 71",
+   "detected_at": "2026-11-26 07:08:51",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-25/KK-Partizan-at-Dubai/526911"
+  },
+  {
+   "detail": "Tyler Cook  ~ team: Free agent -> Neptūnas Klaipėda",
+   "detected_at": "2026-11-26 07:08:44",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Tyler_Cook"
+  },
+  {
+   "detail": "Tyler Cook  ~ league: - -> LKL EuroCup",
+   "detected_at": "2026-11-26 07:08:44",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Tyler_Cook"
+  },
+  {
+   "detail": "Tyler Cook  ~ CAREER  + 2026–present Neptūnas Klaipėda",
+   "detected_at": "2026-11-26 07:08:44",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Tyler_Cook"
+  },
+  {
+   "detail": "Kevin Porter Jr.  ~ position: Point guard / small forward -> Shooting guard / point guard",
+   "detected_at": "2026-11-26 07:08:44",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kevin_Porter_Jr."
+  },
+  {
+   "detail": "Kevin Porter Jr.  ~ number: - -> 7",
+   "detected_at": "2026-11-26 07:08:44",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Kevin_Porter_Jr."
+  },
+  {
+   "detail": "AJ Johnson (basketball)  ~ CAREER  + 2026 →Laketown Squadron",
+   "detected_at": "2026-11-26 07:08:44",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/AJ_Johnson_(basketball)"
+  },
+  {
+   "detail": "Khalifa Diop  ~ CAREER  + 2026 →Cleveland Charge",
+   "detected_at": "2026-11-26 07:08:44",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Khalifa_Diop"
+  },
+  {
+   "detail": "Shannon Evans  ~ CAREER  + 2025 →Satria Muda Pertamina",
+   "detected_at": "2026-11-26 07:08:44",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Shannon_Evans"
+  },
+  {
+   "detail": "Juhann Begarin  ~ team: Free agent -> ASVEL",
+   "detected_at": "2026-11-26 07:08:44",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Juhann_Begarin"
+  },
+  {
+   "detail": "Juhann Begarin  ~ league: - -> LNB Élite EuroLeague",
+   "detected_at": "2026-11-26 07:08:44",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Juhann_Begarin"
+  },
+  {
+   "detail": "Juhann Begarin  ~ number: - -> 97",
+   "detected_at": "2026-11-26 07:08:44",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Juhann_Begarin"
+  },
+  {
+   "detail": "Juhann Begarin  ~ CAREER  + 2026–present ASVEL",
+   "detected_at": "2026-11-26 07:08:44",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Juhann_Begarin"
+  },
+  {
+   "detail": "Fatts Russell  ~ team: Anadolu Efes -> Free Agent",
+   "detected_at": "2026-11-26 07:08:44",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Fatts_Russell"
+  },
+  {
+   "detail": "Fatts Russell  ~ league: BSL EuroLeague -> -",
+   "detected_at": "2026-11-26 07:08:44",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Fatts_Russell"
+  },
+  {
+   "detail": "Fatts Russell  ~ number: 11 -> -",
+   "detected_at": "2026-11-26 07:08:44",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Fatts_Russell"
+  },
+  {
+   "detail": "Fatts Russell  ~ CAREER  + 2026 Anadolu Efes",
+   "detected_at": "2026-11-26 07:08:44",
+   "source": "WIKI",
+   "type": "CAREER",
+   "url": "https://en.wikipedia.org/wiki/Fatts_Russell"
+  },
+  {
+   "detail": "2026-11-25  Assigned: Chaz Lanier (Cruise)",
+   "detected_at": "2026-11-26 07:01:11",
+   "source": "GLEAGUE",
+   "type": "Acquired/Assigned"
+  },
+  {
+   "detail": "2026-11-25  Assigned: Maxime Raynaud (Kings)",
+   "detected_at": "2026-11-26 07:01:11",
+   "source": "GLEAGUE",
+   "type": "Acquired/Assigned"
+  },
+  {
+   "detail": "2026-11-25  Assigned: Tolu Smith (Cruise)",
+   "detected_at": "2026-11-26 07:01:11",
+   "source": "GLEAGUE",
+   "type": "Acquired/Assigned"
+  },
+  {
+   "detail": "2026-11-25  Waivers Cleared: Jeremiah Burke",
+   "detected_at": "2026-11-26 07:01:11",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-25  Waivers Cleared: Jestin Porter",
+   "detected_at": "2026-11-26 07:01:11",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-25  Waived: Caleb Stone Carrawell (Raptors)",
+   "detected_at": "2026-11-26 07:01:11",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-25  Traded: Isaiah Todd (Remix)",
+   "detected_at": "2026-11-26 07:01:11",
+   "source": "GLEAGUE",
+   "type": "Trade"
+  },
+  {
+   "detail": "2026-11-25  Traded: Kalib Boone (Remix)",
+   "detected_at": "2026-11-26 07:01:11",
+   "source": "GLEAGUE",
+   "type": "Trade"
+  },
+  {
+   "detail": "2026-11-25  Traded: Keylan Boone (Vipers)",
+   "detected_at": "2026-11-26 07:01:11",
+   "source": "GLEAGUE",
+   "type": "Trade"
+  },
+  {
+   "detail": "2026-11-25  Waived: Malik Whitaker (Vipers)",
+   "detected_at": "2026-11-26 07:01:11",
+   "source": "GLEAGUE",
+   "type": "Waived/Buyout"
+  },
+  {
+   "detail": "2026-11-25  Assigned: Jalen Duren (Cruise)",
+   "detected_at": "2026-11-26 07:01:11",
+   "source": "GLEAGUE",
+   "type": "Acquired/Assigned"
+  },
+  {
+   "detail": "2026-11-25  Recalled: Jalen Duren (Cruise)",
+   "detected_at": "2026-11-26 07:01:11",
+   "source": "GLEAGUE",
+   "type": "Call-Up/Recall"
+  },
+  {
+   "detail": "2026-11-25  Recalled: Chaz Lanier (Cruise)",
+   "detected_at": "2026-11-26 07:01:11",
+   "source": "GLEAGUE",
+   "type": "Call-Up/Recall"
+  },
+  {
+   "detail": "2026-11-25  Recalled: Tolu Smith (Cruise)",
+   "detected_at": "2026-11-26 07:01:11",
+   "source": "GLEAGUE",
+   "type": "Call-Up/Recall"
+  },
+  {
+   "detail": "2026-11-25  Recalled: Maxime Raynaud (Kings)",
+   "detected_at": "2026-11-26 07:01:11",
+   "source": "GLEAGUE",
+   "type": "Call-Up/Recall"
+  },
+  {
+   "detail": "2026-11-26  Recalled: Aj Johnson (Squadron)",
+   "detected_at": "2026-11-26 07:01:11",
+   "source": "GLEAGUE",
+   "type": "Call-Up/Recall"
+  },
+  {
+   "detail": "2026-11-26  Recalled: Ben Saraf (Nets)",
+   "detected_at": "2026-11-26 07:01:11",
+   "source": "GLEAGUE",
+   "type": "Call-Up/Recall"
+  },
+  {
    "detail": "NCAA UTEP 72, Eastern Michigan 54",
    "detected_at": "2026-11-25 21:02:22",
    "source": "SCORES",
@@ -9939,447 +10363,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-18/UConn-at-Arizona/530475"
-  },
-  {
-   "detail": "French NM1 Aurore de Vitre 90, Vendee Challans Basket 82",
-   "detected_at": "2026-11-18 21:23:56",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-17/Aurore-de-Vitre-at-Vendee-Challans-Basket/535747"
-  },
-  {
-   "detail": "French NM1 Saint Chamond NM1 84, Pays Salonais 68",
-   "detected_at": "2026-11-18 21:23:52",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-17/Saint-Chamond-NM1-at-Pays-Salonais/535736"
-  },
-  {
-   "detail": "French NM1 ~ RETURN Pape Moustapha Diop → Saint Chamond NM1 (from Saint Chamond Pro B)",
-   "detected_at": "2026-11-18 21:23:50",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "French NM1 + Erwan Merlin → Pays Salonais",
-   "detected_at": "2026-11-18 21:23:50",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French NM1 Pays de Fougeres 71, Union Tours Metropole Basket 70",
-   "detected_at": "2026-11-18 21:23:48",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-17/Union-Tours-Metropole-Basket-at-Pays-de-Fougeres/535745"
-  },
-  {
-   "detail": "French NM1 + Jack Doumbia, Jr → Union Tours Metropole Basket",
-   "detected_at": "2026-11-18 21:23:46",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "French NM1 + Melvyn Ebonkoli → Union Tours Metropole Basket",
-   "detected_at": "2026-11-18 21:23:46",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Mikal Bridges  ~ position: Shooting Guard / Small Forward -> Shooting guard / small forward",
-   "detected_at": "2026-11-18 20:50:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Mikal_Bridges"
-  },
-  {
-   "detail": "Josh Hart  ~ position: Shooting Guard / Small Foward -> Shooting guard / small forward",
-   "detected_at": "2026-11-18 20:50:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Josh_Hart"
-  },
-  {
-   "detail": "NCAA Texas San Antonio 98, Florida AM 78",
-   "detected_at": "2026-11-18 20:22:38",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-18/Florida-AM-at-Texas-San-Antonio/544615"
-  },
-  {
-   "detail": "NCAA Colorado State 71, North Dakota State 64",
-   "detected_at": "2026-11-18 20:22:33",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-18/North-Dakota-State-at-Colorado-State/544452"
-  },
-  {
-   "detail": "NCAA Missouri 102, Alcorn State 41",
-   "detected_at": "2026-11-18 20:22:29",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-18/Alcorn-State-at-Missouri/541081"
-  },
-  {
-   "detail": "NCAA Abilene Christian 103, McMurry 41",
-   "detected_at": "2026-11-18 20:22:25",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-18/McMurry-at-Abilene-Christian/538508"
-  },
-  {
-   "detail": "NCAA San Jose State 92, Fresno State 86",
-   "detected_at": "2026-11-18 20:22:22",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-18/Fresno-State-at-San-Jose-State/532499"
-  },
-  {
-   "detail": "NCAA Creighton 88, Bethune Cookman 65",
-   "detected_at": "2026-11-18 20:22:18",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-18/Bethune-Cookman-at-Creighton/530479"
-  },
-  {
-   "detail": "NCAA Portland 77, Colorado 74",
-   "detected_at": "2026-11-18 20:22:13",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-18/Portland-at-Colorado/530474"
-  },
-  {
-   "detail": "NCAA Arkansas State 100, Arkansas Pine Bluff 69",
-   "detected_at": "2026-11-18 20:22:09",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-18/Arkansas-Pine-Bluff--at-Arkansas-State/544357"
-  },
-  {
-   "detail": "NCAA Syracuse 91, Cornell 82",
-   "detected_at": "2026-11-18 20:22:05",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-18/Cornell-at-Syracuse/542525"
-  },
-  {
-   "detail": "NCAA Wichita State 79, Loyola IL 75",
-   "detected_at": "2026-11-18 20:22:01",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-18/Wichita-State-at-Loyola-IL/542302"
-  },
-  {
-   "detail": "NCAA UNC Greensboro 78, Gardner Webb 72",
-   "detected_at": "2026-11-18 20:21:57",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-18/UNC-Greensboro-at-Gardner-Webb/532497"
-  },
-  {
-   "detail": "NCAA Boston College 74, Harvard 69",
-   "detected_at": "2026-11-18 20:21:53",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-18/Boston-College-at-Harvard/530476"
-  },
-  {
-   "detail": "NCAA Utah State 101, Weber State 71",
-   "detected_at": "2026-11-18 20:21:49",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-18/Weber-State-at-Utah-State/542999"
-  },
-  {
-   "detail": "NCAA Nebraska 73, South Dakota 47",
-   "detected_at": "2026-11-18 20:21:45",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-18/South-Dakota-at-Nebraska/542998"
-  },
-  {
-   "detail": "V. J. Edgecombe  ~ team: Philadelphia 67ers -> Philadelphia 76ers",
-   "detected_at": "2026-11-18 19:46:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/V._J._Edgecombe"
-  },
-  {
-   "detail": "V. J. Edgecombe  ~ number: 67 -> 77",
-   "detected_at": "2026-11-18 19:46:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/V._J._Edgecombe"
-  },
-  {
-   "detail": "V. J. Edgecombe  ~ height_ft: 3 -> 6",
-   "detected_at": "2026-11-18 19:46:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/V._J._Edgecombe"
-  },
-  {
-   "detail": "V. J. Edgecombe  ~ height_in: 1 -> 5",
-   "detected_at": "2026-11-18 19:46:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/V._J._Edgecombe"
-  },
-  {
-   "detail": "V. J. Edgecombe  ~ weight_lb: 136 -> 190",
-   "detected_at": "2026-11-18 19:46:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/V._J._Edgecombe"
-  },
-  {
-   "detail": "NCAA Southern Indiana 87, Lindsey Wilson 81",
-   "detected_at": "2026-11-18 19:20:53",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-18/Lindsey-Wilson-at-Southern-Indiana/542155"
-  },
-  {
-   "detail": "NCAA New Hampshire 90, Stonehill 70",
-   "detected_at": "2026-11-18 19:20:49",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-18/New-Hampshire-at-Stonehill/539325"
-  },
-  {
-   "detail": "NCAA New Haven 96, UMass Liberal Arts 50",
-   "detected_at": "2026-11-18 19:20:45",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-18/UMass-Liberal-Arts-at-New-Haven/544557"
-  },
-  {
-   "detail": "NCAA Fairfield 93, St Josephs Brooklyn 62",
-   "detected_at": "2026-11-18 19:20:41",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-18/St-Josephs--Brooklyn-at-Fairfield/542524"
-  },
-  {
-   "detail": "NCAA Illinois Chicago 60, Chicago State 52",
-   "detected_at": "2026-11-18 19:20:37",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-18/Chicago-State-at-Illinois-Chicago/539324"
-  },
-  {
-   "detail": "NCAA Texas State 84, Incarnate Word 51",
-   "detected_at": "2026-11-18 19:20:33",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-18/Incarnate-Word-at-Texas-State/544451"
-  },
-  {
-   "detail": "NCAA Fort Wayne 78, Bradley 73",
-   "detected_at": "2026-11-18 19:20:30",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-18/Fort-Wayne-at-Bradley/543850"
-  },
-  {
-   "detail": "NCAA Oklahoma 87, Campbell 78",
-   "detected_at": "2026-11-18 19:20:26",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-18/Campbell-at-Oklahoma/528973"
-  },
-  {
-   "detail": "NCAA Marquette 79, Northern Illinois 65",
-   "detected_at": "2026-11-18 19:20:22",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-18/Northern-Illinois-at-Marquette/530477"
-  },
-  {
-   "detail": "NCAA La Salle 88, Coppin State 61",
-   "detected_at": "2026-11-18 19:20:18",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-18/Coppin-State-at-La-Salle/543001"
-  },
-  {
-   "detail": "NCAA Duquesne 74, Howard 68",
-   "detected_at": "2026-11-18 19:20:14",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-18/Howard-at-Duquesne/543000"
-  },
-  {
-   "detail": "NCAA Long Island 115, UNC Wilmington 114",
-   "detected_at": "2026-11-18 19:20:10",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-18/UNC-Wilmington-at-Long-Island/541714"
-  },
-  {
-   "detail": "NCAA Longwood 82, Virginia Military 76",
-   "detected_at": "2026-11-18 19:20:07",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-18/Virginia-Military-at-Longwood/541519"
-  },
-  {
-   "detail": "NCAA Furman 78, Radford 71",
-   "detected_at": "2026-11-18 19:20:03",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-18/Furman-at-Radford/541517"
-  },
-  {
-   "detail": "NCAA Yale 76, Vermont 74",
-   "detected_at": "2026-11-18 19:19:59",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-18/Vermont-at-Yale/540073"
-  },
-  {
-   "detail": "NCAA Ohio 91, Morehead State 77",
-   "detected_at": "2026-11-18 19:19:55",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-18/Morehead-State-at-Ohio/540070"
-  },
-  {
-   "detail": "NCAA Fairleigh Dickinson 78, NJIT 66",
-   "detected_at": "2026-11-18 19:19:51",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-18/NJIT-at-Fairleigh-Dickinson/539323"
-  },
-  {
-   "detail": "NCAA Lafayette 80, Binghamton 65",
-   "detected_at": "2026-11-18 19:19:47",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-18/Binghamton-at-Lafayette/532337"
-  },
-  {
-   "detail": "NCAA LSU 79, Louisiana Monroe 67",
-   "detected_at": "2026-11-18 19:19:43",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-18/Louisiana-Monroe--at-LSU/538507"
-  },
-  {
-   "detail": "Basketball Champions League Europe Salon Vilpas 104, Port of Antwerp Giants 95",
-   "detected_at": "2026-11-18 19:19:21",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-17/Salon-Vilpas-at-Port-of-Antwerp-Giants/534098"
-  },
-  {
-   "detail": "Basketball Champions League Europe Grissin Bon Reggio Emilia 102, Juventus 95",
-   "detected_at": "2026-11-18 19:19:17",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-17/Grissin-Bon-Reggio-Emilia-at-Juventus/534097"
-  },
-  {
-   "detail": "Basketball Champions League Europe Joventut Badalona 74, FC Porto Ferpinta 70",
-   "detected_at": "2026-11-18 19:19:13",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-17/FC-Porto-Ferpinta-at-Joventut-Badalona/534096"
-  },
-  {
-   "detail": "Basketball Champions League Europe + Ante Tomic → Joventut Badalona",
-   "detected_at": "2026-11-18 19:19:12",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Champions League Europe Telekom Baskets Bonn 85, Bnei Herzelia 79",
-   "detected_at": "2026-11-18 19:19:09",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-17/Telekom-Baskets-Bonn-at-Bnei-Herzelia/534095"
-  },
-  {
-   "detail": "FIBA Europe Cup Gladiators Trier 102, ASP Promitheas Patras 89",
-   "detected_at": "2026-11-18 19:19:04",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-18/ASP-Promitheas-Patras-at-Gladiators-Trier/545044"
-  },
-  {
-   "detail": "FIBA Europe Cup King Szczecin 95, BC Hallmann Vienna 76",
-   "detected_at": "2026-11-18 19:19:00",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-18/BC-Hallmann-Vienna-at-King-Szczecin/545038"
-  },
-  {
-   "detail": "FIBA Europe Cup BK Opava 104, Batumi RSU 62",
-   "detected_at": "2026-11-18 19:18:56",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-18/Batumi-RSU-at-BK-Opava/545035"
-  },
-  {
-   "detail": "FIBA Europe Cup NHSZ Szolnoki Olajbanyasz 104, CS Dinamo Bucuresti 73",
-   "detected_at": "2026-11-18 19:18:52",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-18/CS-Dinamo-Bucuresti-at-NHSZ-Szolnoki-Olajbanyasz/545029"
-  },
-  {
-   "detail": "Basketball Champions League Europe Galatasaray 88, Legia Warszawa 81",
-   "detected_at": "2026-11-18 19:18:48",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-18/Legia-Warszawa-at-Galatasaray/534100"
-  },
-  {
-   "detail": "Basketball Champions League Europe + Antonio Vrankovic → Legia Warszawa",
-   "detected_at": "2026-11-18 19:18:46",
-   "source": "REALGM",
-   "type": "SIGNED",
-   "url": ""
-  },
-  {
-   "detail": "Basketball Champions League Europe AEK Athens 90, Falco Vulcano Energia KC Szombathely 89",
-   "detected_at": "2026-11-18 19:18:44",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-18/Falco-Vulcano-Energia-KC-Szombathely-at-AEK-Athens/534099"
-  },
-  {
-   "detail": "FIBA Europe Cup Tartu Ulikool MaksMoorits 93, MZT Skopje Aerodrom 77",
-   "detected_at": "2026-11-18 19:18:40",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-18/MZT-Skopje-Aerodrom-at-Tartu-Ulikool-MaksMoorits/545039"
-  },
-  {
-   "detail": "FIBA Europe Cup Keravnos Strovolou 70, Nitra Blue Wings 53",
-   "detected_at": "2026-11-18 19:18:35",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-18/Nitra-Blue-Wings-at-Keravnos-Strovolou/545037"
-  },
-  {
-   "detail": "FIBA Europe Cup Esenler Erokspor 113, BC Rilski Sportist 62",
-   "detected_at": "2026-11-18 19:18:32",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-18/BC-Rilski-Sportist-at-Esenler-Erokspor/545034"
-  },
-  {
-   "detail": "FIBA Europe Cup Kolossos Rodou BC 79, Gence BC 78",
-   "detected_at": "2026-11-18 19:18:28",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-18/Gence-BC-at-Kolossos-Rodou-BC/545032"
   }
  ],
  "feeds": {
@@ -10388,8 +10371,8 @@
    "last": "2026-11-23 11:43:16"
   },
   "GLEAGUE": {
-   "count": 1269,
-   "last": "2026-11-25 07:37:22"
+   "count": 1286,
+   "last": "2026-11-26 07:01:11"
   },
   "PLAYERS": {
    "count": 1938,
@@ -10400,12 +10383,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 11944,
-   "last": "2026-11-25 19:29:45"
+   "count": 11957,
+   "last": "2026-11-26 07:09:07"
   },
   "SCORES": {
-   "count": 6769,
-   "last": "2026-11-25 21:02:22"
+   "count": 6786,
+   "last": "2026-11-26 07:10:18"
   },
   "SHEETS": {
    "count": 5312,
@@ -10416,14 +10399,14 @@
    "last": "2026-11-25 07:37:14"
   },
   "WIKI": {
-   "count": 10505,
-   "last": "2026-11-25 18:01:36"
+   "count": 10521,
+   "last": "2026-11-26 07:08:44"
   },
   "WIKIWATCH": {
    "count": 679,
    "last": "2026-11-25 09:08:58"
   }
  },
- "generated_at": "2026-11-25T22:54:37",
- "total": 44488
+ "generated_at": "2026-11-26T07:10:21",
+ "total": 44551
 }
