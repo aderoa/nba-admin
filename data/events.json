@@ -1,6 +1,83 @@
 {
  "events": [
   {
+   "detail": "NCAA The Citadel 72, USC Upstate 54",
+   "detected_at": "2026-11-25 18:03:01",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-25/USC-Upstate-at-The-Citadel/541523"
+  },
+  {
+   "detail": "NCAA Northwestern State 71, West Florida 57",
+   "detected_at": "2026-11-25 18:02:54",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-25/West-Florida-at-Northwestern-State/541102"
+  },
+  {
+   "detail": "NCAA Cleveland State 76, Case Western Reserve 46",
+   "detected_at": "2026-11-25 18:02:49",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-25/Case-Western-Reserve-at-Cleveland-State/540121"
+  },
+  {
+   "detail": "NCAA George Mason 93, Longwood 58",
+   "detected_at": "2026-11-25 18:02:45",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-25/Longwood-at-George-Mason/539746"
+  },
+  {
+   "detail": "NCAA Wisconsin 91, Northeastern 54",
+   "detected_at": "2026-11-25 18:02:40",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-25/Northeastern-at-Wisconsin/531997"
+  },
+  {
+   "detail": "NCAA Cal State Northridge 89, Weber State 67",
+   "detected_at": "2026-11-25 18:02:34",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-25/Cal-State-Northridge-at-Weber-State/539751"
+  },
+  {
+   "detail": "NCAA Charleston 91, Kennesaw State 77",
+   "detected_at": "2026-11-25 18:02:29",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-25/Charleston-at-Kennesaw-State/537573"
+  },
+  {
+   "detail": "NCAA Richmond 86, Bethune Cookman 79",
+   "detected_at": "2026-11-25 18:02:23",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-25/Bethune-Cookman-at-Richmond/532348"
+  },
+  {
+   "detail": "NCAA Syracuse 74, Albany 53",
+   "detected_at": "2026-11-25 18:02:17",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-25/Albany-at-Syracuse/530500"
+  },
+  {
+   "detail": "NCAA Brigham Young 85, Providence 82",
+   "detected_at": "2026-11-25 18:02:11",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-25/Providence-at-Brigham-Young/535276"
+  },
+  {
+   "detail": "Lucas Maniema  ~ nationality: Swiss -> -",
+   "detected_at": "2026-11-25 18:01:36",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/Lucas_Maniema"
+  },
+  {
    "detail": "Édgar Vicedo  ~ position: Small forward -> Small forward / power forward",
    "detected_at": "2026-11-25 17:22:38",
    "source": "WIKI",
@@ -10303,83 +10380,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-18/Siena-at-St-Johns/540074"
-  },
-  {
-   "detail": "FIBA Europe Cup Chalon Sur Saone 96, Korfez Mansia 65",
-   "detected_at": "2026-11-18 18:16:19",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-17/Korfez-Mansia-at-Chalon-Sur-Saone/545025"
-  },
-  {
-   "detail": "FIBA Europe Cup ~ RETURN Antoine Darsonville → Chalon Sur Saone (from Espoirs Chalon Saone)",
-   "detected_at": "2026-11-18 18:16:18",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "FIBA Europe Cup Telenet BC Oostende 88, CB Girona 80",
-   "detected_at": "2026-11-18 18:16:15",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-17/Telenet-BC-Oostende-at-CB-Girona/545026"
-  },
-  {
-   "detail": "FIBA Europe Cup Nancy Basket 100, Parnu Sadam 64",
-   "detected_at": "2026-11-18 18:16:10",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-17/Parnu-Sadam-at-Nancy-Basket/545027"
-  },
-  {
-   "detail": "FIBA Europe Cup ~ RETURN Kany N'Kouka → Nancy Basket (from Espoirs Nancy)",
-   "detected_at": "2026-11-18 18:16:09",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "FIBA Europe Cup ~ RETURN Erwan Djoni → Nancy Basket (from Espoirs Nancy)",
-   "detected_at": "2026-11-18 18:16:09",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "FIBA Europe Cup ~ RETURN Abdoul Ba → Nancy Basket (from Espoirs Nancy)",
-   "detected_at": "2026-11-18 18:16:09",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "FIBA Europe Cup BC Kalev Cramo 83, Valmiera Glass Via 81",
-   "detected_at": "2026-11-18 18:16:06",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-17/Valmiera-Glass-Via-at-BC-Kalev-Cramo/545024"
-  },
-  {
-   "detail": "FIBA Europe Cup Merkezefendi Belediyesi Denizli Basket 78, SL Benfica 70",
-   "detected_at": "2026-11-18 18:16:02",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-17/SL-Benfica-at-Merkezefendi-Belediyesi-Denizli-Basket/545022"
-  },
-  {
-   "detail": "FIBA Europe Cup Fribourg Olympic 71, Mykonos 66",
-   "detected_at": "2026-11-18 18:15:58",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-17/Fribourg-Olympic-at-Mykonos/545023"
-  },
-  {
-   "detail": "FIBA Europe Cup Iraklis BC 83, sOliver Baskets 73",
-   "detected_at": "2026-11-18 18:15:52",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-18/Iraklis-BC-at-sOliver-Baskets/545040"
   }
  ],
  "feeds": {
@@ -10404,8 +10404,8 @@
    "last": "2026-11-25 07:45:48"
   },
   "SCORES": {
-   "count": 6744,
-   "last": "2026-11-25 16:42:33"
+   "count": 6754,
+   "last": "2026-11-25 18:03:01"
   },
   "SHEETS": {
    "count": 5312,
@@ -10416,14 +10416,14 @@
    "last": "2026-11-25 07:37:14"
   },
   "WIKI": {
-   "count": 10504,
-   "last": "2026-11-25 17:22:38"
+   "count": 10505,
+   "last": "2026-11-25 18:01:36"
   },
   "WIKIWATCH": {
    "count": 679,
    "last": "2026-11-25 09:08:58"
   }
  },
- "generated_at": "2026-11-25T17:22:40",
- "total": 44459
+ "generated_at": "2026-11-25T18:03:07",
+ "total": 44470
 }
