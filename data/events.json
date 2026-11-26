@@ -1,6 +1,12 @@
 {
  "events": [
   {
+   "detail": "2026-11-25  Orlando Magic signed guard Kevin Porter Jr. to a Rest-of-Season Contract.",
+   "detected_at": "2026-11-26 08:19:15",
+   "source": "TRANSACTIONS",
+   "type": "Signing"
+  },
+  {
    "detail": "John Brown (basketball, born 1992)  ~ position: Power forward -> Power forward / center",
    "detected_at": "2026-11-26 07:49:35",
    "source": "WIKI",
@@ -10356,13 +10362,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-18/UC-Riverside-at-San-Diego/537998"
-  },
-  {
-   "detail": "NCAA Brigham Young 98, Northern Colorado 54",
-   "detected_at": "2026-11-18 21:24:22",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-18/Northern-Colorado-at-Brigham-Young/541082"
   }
  ],
  "feeds": {
@@ -10395,8 +10394,8 @@
    "last": "2026-11-23 11:47:18"
   },
   "TRANSACTIONS": {
-   "count": 715,
-   "last": "2026-11-25 07:37:14"
+   "count": 716,
+   "last": "2026-11-26 08:19:15"
   },
   "WIKI": {
    "count": 10522,
@@ -10407,6 +10406,6 @@
    "last": "2026-11-25 09:08:58"
   }
  },
- "generated_at": "2026-11-26T07:49:37",
- "total": 44552
+ "generated_at": "2026-11-26T08:26:59",
+ "total": 44553
 }
