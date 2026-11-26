@@ -1,6 +1,13 @@
 {
  "events": [
   {
+   "detail": "John Brown (basketball, born 1992)  ~ position: Power forward -> Power forward / center",
+   "detected_at": "2026-11-26 07:49:35",
+   "source": "WIKI",
+   "type": "CHANGED",
+   "url": "https://en.wikipedia.org/wiki/John_Brown_(basketball,_born_1992)"
+  },
+  {
    "detail": "NCAA Montana State 110, Northwest Indian 43",
    "detected_at": "2026-11-26 07:10:18",
    "source": "SCORES",
@@ -10356,13 +10363,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-18/Northern-Colorado-at-Brigham-Young/541082"
-  },
-  {
-   "detail": "NCAA Arizona 85, UConn 79",
-   "detected_at": "2026-11-18 21:24:18",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-18/UConn-at-Arizona/530475"
   }
  ],
  "feeds": {
@@ -10399,14 +10399,14 @@
    "last": "2026-11-25 07:37:14"
   },
   "WIKI": {
-   "count": 10521,
-   "last": "2026-11-26 07:08:44"
+   "count": 10522,
+   "last": "2026-11-26 07:49:35"
   },
   "WIKIWATCH": {
    "count": 679,
    "last": "2026-11-25 09:08:58"
   }
  },
- "generated_at": "2026-11-26T07:10:21",
- "total": 44551
+ "generated_at": "2026-11-26T07:49:37",
+ "total": 44552
 }
