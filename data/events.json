@@ -1,6 +1,41 @@
 {
  "events": [
   {
+   "detail": "NCAA Boston College 75, UCF 73",
+   "detected_at": "2026-11-26 20:55:49",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-26/UCF-at-Boston-College/544378"
+  },
+  {
+   "detail": "NCAA San Diego State 75, Maryland 71",
+   "detected_at": "2026-11-26 20:55:44",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-26/San-Diego-State-at-Maryland/546634"
+  },
+  {
+   "detail": "NCAA Oklahoma 70, Purdue 63",
+   "detected_at": "2026-11-26 20:55:39",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-26/Purdue-at-Oklahoma/535285"
+  },
+  {
+   "detail": "NCAA Army West Point 79, Texas San Antonio 61",
+   "detected_at": "2026-11-26 20:55:35",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-26/Army-West-Point-at-Texas-San-Antonio/533628"
+  },
+  {
+   "detail": "NCAA Cincinnati 83, Georgia 81",
+   "detected_at": "2026-11-26 20:55:30",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-26/Cincinnati-at-Georgia/544379"
+  },
+  {
    "detail": "2026-11-25  Orlando Magic signed guard Kevin Porter Jr. to a Rest-of-Season Contract.",
    "detected_at": "2026-11-26 08:19:15",
    "source": "TRANSACTIONS",
@@ -10327,41 +10362,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-18/Cal-State-Fullerton-at-UCLA/539731"
-  },
-  {
-   "detail": "NCAA Washington State 79, Hawaii 63",
-   "detected_at": "2026-11-18 21:24:42",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-18/Washington-State-at-Hawaii/544454"
-  },
-  {
-   "detail": "NCAA San Diego State 97, Texas Southern 51",
-   "detected_at": "2026-11-18 21:24:38",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-18/Texas-Southern-at-San-Diego-State/544453"
-  },
-  {
-   "detail": "NCAA San Francisco 77, Louisiana 56",
-   "detected_at": "2026-11-18 21:24:34",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-18/Louisiana-at-San-Francisco/540069"
-  },
-  {
-   "detail": "NCAA Nevada 91, Idaho 74",
-   "detected_at": "2026-11-18 21:24:30",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-18/Idaho-at-Nevada/537578"
-  },
-  {
-   "detail": "NCAA San Diego 71, UC Riverside 62",
-   "detected_at": "2026-11-18 21:24:26",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-18/UC-Riverside-at-San-Diego/537998"
   }
  ],
  "feeds": {
@@ -10386,8 +10386,8 @@
    "last": "2026-11-26 07:09:07"
   },
   "SCORES": {
-   "count": 6786,
-   "last": "2026-11-26 07:10:18"
+   "count": 6791,
+   "last": "2026-11-26 20:55:49"
   },
   "SHEETS": {
    "count": 5312,
@@ -10406,6 +10406,6 @@
    "last": "2026-11-25 09:08:58"
   }
  },
- "generated_at": "2026-11-26T09:26:23",
- "total": 44553
+ "generated_at": "2026-11-26T20:55:54",
+ "total": 44558
 }
