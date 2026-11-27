@@ -1,6 +1,41 @@
 {
  "events": [
   {
+   "detail": "NCAA Pacific 71, Omaha 62",
+   "detected_at": "2026-11-27 01:53:28",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-26/Pacific-at-Omaha/538010"
+  },
+  {
+   "detail": "NCAA UC Davis 68, Jacksonville State 63",
+   "detected_at": "2026-11-27 01:53:23",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-26/Jacksonville-State-at-UC-Davis/532512"
+  },
+  {
+   "detail": "NCAA Gonzaga 72, Baylor 64",
+   "detected_at": "2026-11-27 01:53:18",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-26/Baylor-at-Gonzaga/535226"
+  },
+  {
+   "detail": "NCAA Alabama 104, Kansas State 91",
+   "detected_at": "2026-11-27 01:53:14",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-26/Kansas-State-at-Alabama/546631"
+  },
+  {
+   "detail": "NCAA Texas Tech 62, Oregon 59",
+   "detected_at": "2026-11-27 01:53:06",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-26/Oregon-at-Texas-Tech/546636"
+  },
+  {
    "detail": "NCAA Creighton 95, TCU 87",
    "detected_at": "2026-11-27 00:30:42",
    "source": "SCORES",
@@ -10327,41 +10362,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Metecan_Birsen"
-  },
-  {
-   "detail": "Berk Uğurlu  ~ team: Beşiktaş -> Beşiktaş Fuzul",
-   "detected_at": "2026-11-19 06:07:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Berk_U%C4%9Furlu"
-  },
-  {
-   "detail": "Scottie Wilbekin  ~ team: Beşiktaş -> Beşiktaş Fuzul",
-   "detected_at": "2026-11-19 06:07:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Scottie_Wilbekin"
-  },
-  {
-   "detail": "David DeJulius  ~ team: Beşiktaş -> Beşiktaş Fuzul",
-   "detected_at": "2026-11-19 06:07:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/David_DeJulius"
-  },
-  {
-   "detail": "Lonnie Walker IV  ~ team: Beşiktaş -> Beşiktaş Fuzul",
-   "detected_at": "2026-11-19 06:07:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Lonnie_Walker_IV"
-  },
-  {
-   "detail": "Wenyen Gabriel  ~ team: Beşiktaş -> Beşiktaş Fuzul",
-   "detected_at": "2026-11-19 06:07:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Wenyen_Gabriel"
   }
  ],
  "feeds": {
@@ -10386,8 +10386,8 @@
    "last": "2026-11-26 07:09:07"
   },
   "SCORES": {
-   "count": 6801,
-   "last": "2026-11-27 00:30:42"
+   "count": 6806,
+   "last": "2026-11-27 01:53:28"
   },
   "SHEETS": {
    "count": 5312,
@@ -10406,6 +10406,6 @@
    "last": "2026-11-25 09:08:58"
   }
  },
- "generated_at": "2026-11-27T01:13:42",
- "total": 44568
+ "generated_at": "2026-11-27T01:53:32",
+ "total": 44573
 }
