@@ -1,6 +1,41 @@
 {
  "events": [
   {
+   "detail": "NCAA Louisville 93, St Johns 90",
+   "detected_at": "2026-11-27 03:00:07",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-26/Louisville-at-St-Johns/535225"
+  },
+  {
+   "detail": "Belarusian BPL Borisfen Mogilev Youth 96, Brest Region II 54",
+   "detected_at": "2026-11-27 02:59:45",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-26/Brest-Region-II-at-Borisfen-Mogilev-Youth/544920"
+  },
+  {
+   "detail": "Belarusian BPL ~ RETURN Alexander Oliferuk → Brest Region II (from Brest Region)",
+   "detected_at": "2026-11-27 02:59:44",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "Belarusian BPL + Ivan Romanov → Brest Region II",
+   "detected_at": "2026-11-27 02:59:44",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Lithuanian NKL Vilkaviskio Perlas 90, Alytus Alytus 85",
+   "detected_at": "2026-11-27 02:59:41",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-26/Alytus-Alytus-at-Vilkaviskio-Perlas/546454"
+  },
+  {
    "detail": "NCAA Pacific 71, Omaha 62",
    "detected_at": "2026-11-27 01:53:28",
    "source": "SCORES",
@@ -10327,41 +10362,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Jaylen_Nowell"
-  },
-  {
-   "detail": "Anthony Brown (basketball)  ~ team: Beşiktaş -> Beşiktaş Fuzul",
-   "detected_at": "2026-11-19 06:07:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Anthony_Brown_(basketball)"
-  },
-  {
-   "detail": "Furkan Korkmaz  ~ team: Beşiktaş -> Beşiktaş Fuzul",
-   "detected_at": "2026-11-19 06:07:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Furkan_Korkmaz"
-  },
-  {
-   "detail": "Conor Morgan  ~ team: Beşiktaş -> Beşiktaş Fuzul",
-   "detected_at": "2026-11-19 06:07:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Conor_Morgan"
-  },
-  {
-   "detail": "Mady Sissoko  ~ team: Beşiktaş -> Beşiktaş Fuzul",
-   "detected_at": "2026-11-19 06:07:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Mady_Sissoko"
-  },
-  {
-   "detail": "Metecan Birsen  ~ team: Beşiktaş -> Beşiktaş Fuzul",
-   "detected_at": "2026-11-19 06:07:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Metecan_Birsen"
   }
  ],
  "feeds": {
@@ -10382,12 +10382,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 11957,
-   "last": "2026-11-26 07:09:07"
+   "count": 11959,
+   "last": "2026-11-27 02:59:44"
   },
   "SCORES": {
-   "count": 6806,
-   "last": "2026-11-27 01:53:28"
+   "count": 6809,
+   "last": "2026-11-27 03:00:07"
   },
   "SHEETS": {
    "count": 5312,
@@ -10406,6 +10406,6 @@
    "last": "2026-11-25 09:08:58"
   }
  },
- "generated_at": "2026-11-27T02:30:27",
- "total": 44573
+ "generated_at": "2026-11-27T03:00:11",
+ "total": 44578
 }
