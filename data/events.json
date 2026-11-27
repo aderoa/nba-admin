@@ -1,6 +1,41 @@
 {
  "events": [
   {
+   "detail": "Spanish Liga U Girona Liga U 77, Casademont Zaragoza Liga U 69",
+   "detected_at": "2026-11-27 12:53:49",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-27/Girona-Liga-U-at-Casademont-Zaragoza-Liga-U/541980"
+  },
+  {
+   "detail": "Spanish Liga U + Guillermo Simon → Casademont Zaragoza Liga U",
+   "detected_at": "2026-11-27 12:53:47",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Spanish Liga U Barca Liga U 75, Burgos Liga U 64",
+   "detected_at": "2026-11-27 12:53:45",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-27/Burgos-Liga-U-at-Barca-Liga-U/541981"
+  },
+  {
+   "detail": "Spanish Liga U ~ RETURN Abdrahamane Kone → Barca Liga U (from Barca)",
+   "detected_at": "2026-11-27 12:53:43",
+   "source": "REALGM",
+   "type": "RETURN",
+   "url": ""
+  },
+  {
+   "detail": "Spanish Liga U Real Madrid Liga U 81, CB Canarias Liga U 65",
+   "detected_at": "2026-11-27 12:53:40",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-27/CB-Canarias-Liga-U-at-Real-Madrid-Liga-U/541982"
+  },
+  {
    "detail": "JaVale McGee  ~ team: Shanghai Sharks -> -",
    "detected_at": "2026-11-27 10:16:46",
    "source": "WIKI",
@@ -10321,41 +10356,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-11-18/Horsens-IC-at-Randers-Cimbria/531728"
-  },
-  {
-   "detail": "Bosnian BiH Liga OKK Sloboda Tuzla 90, BC Siroki 69",
-   "detected_at": "2026-11-19 06:09:39",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-18/OKK-Sloboda-Tuzla-at-BC-Siroki/540953"
-  },
-  {
-   "detail": "Belarusian BPL GOCOR Soj Gomel 90, Brest Region 65",
-   "detected_at": "2026-11-19 06:09:34",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-18/GOCOR-Soj-Gomel-at-Brest-Region/544910"
-  },
-  {
-   "detail": "Belarusian BPL ~ RETURN Kirill Shishlovsky → GOCOR Soj Gomel (from Gomel Lynx Youth)",
-   "detected_at": "2026-11-19 06:09:32",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL ~ RETURN Georgy Korolenok → GOCOR Soj Gomel (from Gomel Lynx Youth)",
-   "detected_at": "2026-11-19 06:09:32",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
-  },
-  {
-   "detail": "Belarusian BPL ~ RETURN Danil Kanishev → GOCOR Soj Gomel (from Gomel Lynx Youth)",
-   "detected_at": "2026-11-19 06:09:32",
-   "source": "REALGM",
-   "type": "RETURN",
-   "url": ""
   }
  ],
  "feeds": {
@@ -10376,12 +10376,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 11960,
-   "last": "2026-11-27 04:01:23"
+   "count": 11962,
+   "last": "2026-11-27 12:53:47"
   },
   "SCORES": {
-   "count": 6815,
-   "last": "2026-11-27 05:03:28"
+   "count": 6818,
+   "last": "2026-11-27 12:53:49"
   },
   "SHEETS": {
    "count": 5312,
@@ -10400,6 +10400,6 @@
    "last": "2026-11-25 09:08:58"
   }
  },
- "generated_at": "2026-11-27T12:00:42",
- "total": 44608
+ "generated_at": "2026-11-27T12:54:15",
+ "total": 44613
 }
