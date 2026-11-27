@@ -1,6 +1,41 @@
 {
  "events": [
   {
+   "detail": "Lithuanian NKL Mazeikiai 98, Omega Tauras Kauno 80",
+   "detected_at": "2026-11-27 04:01:37",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-26/Omega-Tauras-Kauno-at-Mazeikiai/546455"
+  },
+  {
+   "detail": "Lithuanian NKL Telsiai 97, Olimpas Palangos 91",
+   "detected_at": "2026-11-27 04:01:33",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-26/Olimpas-Palangos-at-Telsiai/546456"
+  },
+  {
+   "detail": "Lithuanian NKL Silute 91, Lietuvos Rytas II 82",
+   "detected_at": "2026-11-27 04:01:29",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-26/Lietuvos-Rytas-II-at-Silute/546457"
+  },
+  {
+   "detail": "Lithuanian NKL Kedainiu SC 83, Kretingos Kretinga 66",
+   "detected_at": "2026-11-27 04:01:25",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-26/Kretingos-Kretinga-at-Kedainiu-SC/546459"
+  },
+  {
+   "detail": "Lithuanian NKL + Tadas Kymantas → Kretingos Kretinga",
+   "detected_at": "2026-11-27 04:01:23",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
    "detail": "NCAA Louisville 93, St Johns 90",
    "detected_at": "2026-11-27 03:00:07",
    "source": "SCORES",
@@ -10327,41 +10362,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/international/boxscore/2026-11-18/Toyota-Alvark-at-Hitachi-Sun-Rockers/524870"
-  },
-  {
-   "detail": "Japanese B.League Yokohama B Corsairs 97, Saga Ballooners 88",
-   "detected_at": "2026-11-19 06:08:15",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-18/Saga-Ballooners-at-Yokohama-B-Corsairs/524871"
-  },
-  {
-   "detail": "Japanese B.League Nagoya Diamond Dolphins 93, Ryukyu Golden Kings 76",
-   "detected_at": "2026-11-19 06:08:09",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-18/Ryukyu-Golden-Kings-at-Nagoya-Diamond-Dolphins/524872"
-  },
-  {
-   "detail": "Japanese B.League Hiroshima Dragonflies 92, Osaka Evessa 59",
-   "detected_at": "2026-11-19 06:08:05",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-18/Hiroshima-Dragonflies-at-Osaka-Evessa/524873"
-  },
-  {
-   "detail": "Japanese B.League Kawasaki Brave Thunders 84, Kobe Storks 77",
-   "detected_at": "2026-11-19 06:08:00",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-18/Kawasaki-Brave-Thunders-at-Kobe-Storks/524874"
-  },
-  {
-   "detail": "Jaylen Nowell  ~ team: Beşiktaş -> Beşiktaş Fuzul",
-   "detected_at": "2026-11-19 06:07:47",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Jaylen_Nowell"
   }
  ],
  "feeds": {
@@ -10382,12 +10382,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 11959,
-   "last": "2026-11-27 02:59:44"
+   "count": 11960,
+   "last": "2026-11-27 04:01:23"
   },
   "SCORES": {
-   "count": 6809,
-   "last": "2026-11-27 03:00:07"
+   "count": 6813,
+   "last": "2026-11-27 04:01:37"
   },
   "SHEETS": {
    "count": 5312,
@@ -10406,6 +10406,6 @@
    "last": "2026-11-25 09:08:58"
   }
  },
- "generated_at": "2026-11-27T03:59:21",
- "total": 44578
+ "generated_at": "2026-11-27T04:01:56",
+ "total": 44583
 }
