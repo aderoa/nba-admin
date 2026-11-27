@@ -1,6 +1,55 @@
 {
  "events": [
   {
+   "detail": "NCAA Creighton 95, TCU 87",
+   "detected_at": "2026-11-27 00:30:42",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-26/TCU-at-Creighton/535227"
+  },
+  {
+   "detail": "NCAA Pittsburgh 71, DePaul 64",
+   "detected_at": "2026-11-27 00:30:37",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-26/DePaul-at-Pittsburgh/535284"
+  },
+  {
+   "detail": "NCAA LSU 95, Southern Methodist 86",
+   "detected_at": "2026-11-27 00:30:31",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-26/LSU-at-Southern-Methodist/539100"
+  },
+  {
+   "detail": "NCAA Utah State 78, USC 74",
+   "detected_at": "2026-11-27 00:30:25",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-26/Utah-State-at-USC/541107"
+  },
+  {
+   "detail": "NCAA Michigan State 70, Arkansas 67",
+   "detected_at": "2026-11-27 00:30:18",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-26/Arkansas-at-Michigan-State/543038"
+  },
+  {
+   "detail": "NCAA Tennessee 75, Iowa State 64",
+   "detected_at": "2026-11-27 00:30:13",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-26/Iowa-State-at-Tennessee/535224"
+  },
+  {
+   "detail": "NCAA Saint Marys 85, UCLA 70",
+   "detected_at": "2026-11-27 00:30:07",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-26/Saint-Marys-at-UCLA/535326"
+  },
+  {
    "detail": "NCAA South Carolina 80, Arizona State 73",
    "detected_at": "2026-11-26 22:15:09",
    "source": "SCORES",
@@ -10313,55 +10362,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Wenyen_Gabriel"
-  },
-  {
-   "detail": "DaQuan Jeffries  ~ team: Beşiktaş -> Beşiktaş Fuzul",
-   "detected_at": "2026-11-19 06:07:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/DaQuan_Jeffries"
-  },
-  {
-   "detail": "Devon Dotson  ~ team: Beşiktaş -> Beşiktaş Fuzul",
-   "detected_at": "2026-11-19 06:07:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Devon_Dotson"
-  },
-  {
-   "detail": "Deng Adel  ~ team: Ottawa Blackjacks -> Free agent",
-   "detected_at": "2026-11-19 06:07:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Deng_Adel"
-  },
-  {
-   "detail": "Deng Adel  ~ league: CEBL -> -",
-   "detected_at": "2026-11-19 06:07:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Deng_Adel"
-  },
-  {
-   "detail": "Deng Adel  ~ number: 10 -> -",
-   "detected_at": "2026-11-19 06:07:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Deng_Adel"
-  },
-  {
-   "detail": "Deng Adel  ~ CAREER  + 2025–2026 Ottawa BlackJacks",
-   "detected_at": "2026-11-19 06:07:46",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Deng_Adel"
-  },
-  {
-   "detail": "Ante Žižić  ~ team: Beşiktaş -> Beşiktaş Fuzul",
-   "detected_at": "2026-11-19 06:07:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Ante_%C5%BDi%C5%BEi%C4%87"
   }
  ],
  "feeds": {
@@ -10386,8 +10386,8 @@
    "last": "2026-11-26 07:09:07"
   },
   "SCORES": {
-   "count": 6794,
-   "last": "2026-11-26 22:15:09"
+   "count": 6801,
+   "last": "2026-11-27 00:30:42"
   },
   "SHEETS": {
    "count": 5312,
@@ -10406,6 +10406,6 @@
    "last": "2026-11-25 09:08:58"
   }
  },
- "generated_at": "2026-11-26T22:51:24",
- "total": 44561
+ "generated_at": "2026-11-27T00:30:46",
+ "total": 44568
 }
