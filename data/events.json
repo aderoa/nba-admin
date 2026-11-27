@@ -1,6 +1,27 @@
 {
  "events": [
   {
+   "detail": "NCAA South Carolina 80, Arizona State 73",
+   "detected_at": "2026-11-26 22:15:09",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-26/South-Carolina-at-Arizona-State/541106"
+  },
+  {
+   "detail": "NCAA Miami FL 97, Michigan 70",
+   "detected_at": "2026-11-26 22:15:04",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-26/Michigan-at-Miami-FL/546629"
+  },
+  {
+   "detail": "NCAA Texas 92, Georgetown 83",
+   "detected_at": "2026-11-26 22:14:58",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-26/Texas-at-Georgetown/528985"
+  },
+  {
    "detail": "NCAA Boston College 75, UCF 73",
    "detected_at": "2026-11-26 20:55:49",
    "source": "SCORES",
@@ -10341,27 +10362,6 @@
    "source": "WIKI",
    "type": "CHANGED",
    "url": "https://en.wikipedia.org/wiki/Ante_%C5%BDi%C5%BEi%C4%87"
-  },
-  {
-   "detail": "Eugene Omoruyi  ~ team: Beşiktaş -> Beşiktaş Fuzul",
-   "detected_at": "2026-11-19 06:07:46",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Eugene_Omoruyi"
-  },
-  {
-   "detail": "NCAA Auburn 86, UNLV 71",
-   "detected_at": "2026-11-18 22:25:25",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-18/UNLV-at-Auburn/546465"
-  },
-  {
-   "detail": "NCAA UCLA 75, Cal State Fullerton 71",
-   "detected_at": "2026-11-18 22:25:19",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-18/Cal-State-Fullerton-at-UCLA/539731"
   }
  ],
  "feeds": {
@@ -10386,8 +10386,8 @@
    "last": "2026-11-26 07:09:07"
   },
   "SCORES": {
-   "count": 6791,
-   "last": "2026-11-26 20:55:49"
+   "count": 6794,
+   "last": "2026-11-26 22:15:09"
   },
   "SHEETS": {
    "count": 5312,
@@ -10406,6 +10406,6 @@
    "last": "2026-11-25 09:08:58"
   }
  },
- "generated_at": "2026-11-26T21:42:53",
- "total": 44558
+ "generated_at": "2026-11-26T22:15:15",
+ "total": 44561
 }
