@@ -1,6 +1,230 @@
 {
  "events": [
   {
+   "detail": "NCAA USC Upstate 87, Southern Wesleyan 78",
+   "detected_at": "2026-11-27 18:08:40",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-27/Southern-Wesleyan-at-USC-Upstate/546377"
+  },
+  {
+   "detail": "NCAA UC Santa Barbara 75, Lehigh 43",
+   "detected_at": "2026-11-27 18:08:35",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-27/Lehigh-at-UC-Santa-Barbara/543780"
+  },
+  {
+   "detail": "NCAA Towson 72, Pennsylvania 61",
+   "detected_at": "2026-11-27 18:08:30",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-27/Towson-at-Pennsylvania-/535330"
+  },
+  {
+   "detail": "NCAA Boise State 88, Drake 71",
+   "detected_at": "2026-11-27 18:08:26",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-27/Drake-at-Boise-State/543857"
+  },
+  {
+   "detail": "NCAA Michigan 98, Kansas State 69",
+   "detected_at": "2026-11-27 18:08:21",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-27/Kansas-State-at-Michigan/546630"
+  },
+  {
+   "detail": "NCAA Indiana 93, Bowling Green 57",
+   "detected_at": "2026-11-27 18:08:16",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-27/Bowling-Green-at-Indiana/531998"
+  },
+  {
+   "detail": "NCAA Texas 76, Saint Marys 73",
+   "detected_at": "2026-11-27 18:08:12",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-27/Texas-at-Saint-Marys/535327"
+  },
+  {
+   "detail": "NCAA Illinois 116, Western Kentucky 76",
+   "detected_at": "2026-11-27 18:08:07",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-27/Western-Kentucky-at-Illinois/534516"
+  },
+  {
+   "detail": "Italian Serie A2 Basket RivieraBanca Rimini 91, Carpegna Prosciutto Basket Pesaro 71",
+   "detected_at": "2026-11-27 18:07:44",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-27/Carpegna-Prosciutto-Basket-Pesaro-at-RivieraBanca-Rimini/529899"
+  },
+  {
+   "detail": "Italian Serie A2 Basket + Mikk Jurkatamm → Carpegna Prosciutto Basket Pesaro",
+   "detected_at": "2026-11-27 18:07:42",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Vienna Pre Qualifier ANGT Veolia Towers Hamburg Youth 105, Neptuans Akvaservis Klaipeda 87",
+   "detected_at": "2026-11-27 18:07:40",
+   "source": "SCORES",
+   "type": "FINAL",
+   "url": "https://basketball.realgm.com/international/boxscore/2026-11-27/Veolia-Towers-Hamburg-Youth-at-Neptuans-Akvaservis-Klaipeda/545734"
+  },
+  {
+   "detail": "Vienna Pre Qualifier ANGT ~ MOVED Paul Mellenthin → Veolia Towers Hamburg Youth (from SC Rist Wedel)",
+   "detected_at": "2026-11-27 18:07:38",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Vienna Pre Qualifier ANGT ~ MOVED Danny Egbe → Veolia Towers Hamburg Youth (from SC Rist Wedel)",
+   "detected_at": "2026-11-27 18:07:38",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Vienna Pre Qualifier ANGT ~ MOVED Noah Eklou → Veolia Towers Hamburg Youth (from SG Braunschweig)",
+   "detected_at": "2026-11-27 18:07:38",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Vienna Pre Qualifier ANGT + Nino Neubert → Veolia Towers Hamburg Youth",
+   "detected_at": "2026-11-27 18:07:38",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Vienna Pre Qualifier ANGT ~ MOVED Johan Friedrich Meinberg → Veolia Towers Hamburg Youth (from SC Rist Wedel)",
+   "detected_at": "2026-11-27 18:07:38",
+   "source": "REALGM",
+   "type": "MOVED",
+   "url": ""
+  },
+  {
+   "detail": "Vienna Pre Qualifier ANGT + Bjarne Drewes → Veolia Towers Hamburg Youth",
+   "detected_at": "2026-11-27 18:07:38",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Vienna Pre Qualifier ANGT + Lino Luca Schenk → Veolia Towers Hamburg Youth",
+   "detected_at": "2026-11-27 18:07:38",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Vienna Pre Qualifier ANGT + Hagen Angerer → Veolia Towers Hamburg Youth",
+   "detected_at": "2026-11-27 18:07:38",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Vienna Pre Qualifier ANGT + Noah Lilie → Veolia Towers Hamburg Youth",
+   "detected_at": "2026-11-27 18:07:38",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Vienna Pre Qualifier ANGT + Maxwell Santos → Veolia Towers Hamburg Youth",
+   "detected_at": "2026-11-27 18:07:38",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Vienna Pre Qualifier ANGT + Arlo Kamzelas → Veolia Towers Hamburg Youth",
+   "detected_at": "2026-11-27 18:07:38",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Vienna Pre Qualifier ANGT + Conrad Rebner → Veolia Towers Hamburg Youth",
+   "detected_at": "2026-11-27 18:07:38",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Vienna Pre Qualifier ANGT + Arnas Erlickis → Neptuans Akvaservis Klaipeda",
+   "detected_at": "2026-11-27 18:07:38",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Vienna Pre Qualifier ANGT + Paulius Veliulis → Neptuans Akvaservis Klaipeda",
+   "detected_at": "2026-11-27 18:07:38",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Vienna Pre Qualifier ANGT + Arnas Ramanauskas → Neptuans Akvaservis Klaipeda",
+   "detected_at": "2026-11-27 18:07:38",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Vienna Pre Qualifier ANGT + Kipras Vanagas → Neptuans Akvaservis Klaipeda",
+   "detected_at": "2026-11-27 18:07:38",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Vienna Pre Qualifier ANGT + Justas Juskevicius → Neptuans Akvaservis Klaipeda",
+   "detected_at": "2026-11-27 18:07:38",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Vienna Pre Qualifier ANGT + Augustas Tickus → Neptuans Akvaservis Klaipeda",
+   "detected_at": "2026-11-27 18:07:38",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Vienna Pre Qualifier ANGT + Vilius Petreikis → Neptuans Akvaservis Klaipeda",
+   "detected_at": "2026-11-27 18:07:38",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Vienna Pre Qualifier ANGT + Povilaitis Emilis → Neptuans Akvaservis Klaipeda",
+   "detected_at": "2026-11-27 18:07:38",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
+   "detail": "Vienna Pre Qualifier ANGT + Tijus Rancas → Neptuans Akvaservis Klaipeda",
+   "detected_at": "2026-11-27 18:07:38",
+   "source": "REALGM",
+   "type": "SIGNED",
+   "url": ""
+  },
+  {
    "detail": "NCAA Virginia Tech 70, Old Dominion 61",
    "detected_at": "2026-11-27 16:45:18",
    "source": "SCORES",
@@ -10144,225 +10368,6 @@
    "source": "SCORES",
    "type": "FINAL",
    "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-19/Tulane-at-Louisiana-Tech/539090"
-  },
-  {
-   "detail": "NCAA Toledo 83, Robert Morris 76",
-   "detected_at": "2026-11-19 19:23:11",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-19/Robert-Morris-at-Toledo/544457"
-  },
-  {
-   "detail": "NCAA Little Rock 78, Jacksonville 72",
-   "detected_at": "2026-11-19 19:23:07",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-19/Little-Rock-at-Jacksonville/540079"
-  },
-  {
-   "detail": "NCAA Ohio State 101, UMBC 62",
-   "detected_at": "2026-11-19 19:23:03",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-19/UMBC-at-Ohio-State/537568"
-  },
-  {
-   "detail": "NCAA American University 82, Mary Baldwin 51",
-   "detected_at": "2026-11-19 19:22:59",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-19/Mary-Baldwin--at-American-University/533626"
-  },
-  {
-   "detail": "NCAA St Bonaventure 78, Buffalo 69",
-   "detected_at": "2026-11-19 19:22:55",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-19/Buffalo-at-St-Bonaventure/531990"
-  },
-  {
-   "detail": "NCAA Butler 84, Northeastern 77",
-   "detected_at": "2026-11-19 19:22:51",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-19/Northeastern-at-Butler/528975"
-  },
-  {
-   "detail": "NCAA NC State 93, Murray State 83",
-   "detected_at": "2026-11-19 19:22:48",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-19/NC-State-at-Murray-State/535232"
-  },
-  {
-   "detail": "NCAA High Point 85, Montana State 74",
-   "detected_at": "2026-11-19 19:22:44",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-19/Montana-State-at-High-Point/539734"
-  },
-  {
-   "detail": "Norman Powell  ~ position: Shooting guard -> Shooting guard / Small Forward",
-   "detected_at": "2026-11-19 19:18:36",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Norman_Powell"
-  },
-  {
-   "detail": "Norman Powell  ~ height_in: 4 -> 3",
-   "detected_at": "2026-11-19 19:18:36",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Norman_Powell"
-  },
-  {
-   "detail": "NCAA Notre Dame 78, Auburn 73",
-   "detected_at": "2026-11-19 17:19:02",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-19/Auburn-at-Notre-Dame/546468"
-  },
-  {
-   "detail": "NCAA Florida 85, West Virginia 72",
-   "detected_at": "2026-11-19 17:18:58",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/ncaa/boxscore/2026-11-19/West-Virginia-at-Florida/535215"
-  },
-  {
-   "detail": "Sebastián Herrera (basketball)  ~ position: Shooting guard -> Shooting guard / small forward",
-   "detected_at": "2026-11-19 15:00:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Sebasti%C3%A1n_Herrera_(basketball)"
-  },
-  {
-   "detail": "Mike Phelps  ~ CAREER  + 1988–1989 San Miguel Beermen",
-   "detected_at": "2026-11-19 14:07:35",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Mike_Phelps"
-  },
-  {
-   "detail": "Mike Phelps  ~ CAREER  + 1989-1990 Santa Barbara Islanders",
-   "detected_at": "2026-11-19 14:07:35",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Mike_Phelps"
-  },
-  {
-   "detail": "Mike Phelps  ~ CAREER  + 1990 San Miguel Beermen",
-   "detected_at": "2026-11-19 14:07:35",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Mike_Phelps"
-  },
-  {
-   "detail": "FIBA Europe Cup Zastal Zielona Gora 90, BK Levicki Patrioti Levice 88",
-   "detected_at": "2026-11-19 11:56:41",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-19/Zastal-Zielona-Gora-at-BK-Levicki-Patrioti-Levice/545028"
-  },
-  {
-   "detail": "2026-27 Two-Way Signings  - REMOVED 2 Years. Skill; Injury or Illness. Compensation protection for 2026-27 Season is none. Compensation protection for 2027-28 Season is none. Love of the Game. Physical Exam. Alt. 7(b).",
-   "detected_at": "2026-11-19 11:07:14",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Two-Way Signings  + ADDED  2 Years. Rest of Season. Skill; Injury or Illness. Compensation protection for 2026-27 Season is none. Compensation protection for 2027-28 Season is none. Love of the Game. Physical Exam. Alt. 7(b).",
-   "detected_at": "2026-11-19 11:07:14",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "2026-27 Two-Way Signings  - REMOVED 1 Year. Skill; Injury or Illness. Compensation protection for 2026-27 Season is none. Love of the game. Physical Exam. Alt. 7(b).",
-   "detected_at": "2026-11-19 11:07:14",
-   "source": "DOCS",
-   "type": "REMOVED"
-  },
-  {
-   "detail": "2026-27 Two-Way Signings  + ADDED  1 Year. Rest of Season Skill; Injury or Illness. Compensation protection for 2026-27 Season is none. Love of the game. Physical Exam. Alt. 7(b).",
-   "detected_at": "2026-11-19 11:07:14",
-   "source": "DOCS",
-   "type": "ADDED"
-  },
-  {
-   "detail": "Romanian Divizia A CS Rapid Bucuresti 89, CSM Corona Brasov 87",
-   "detected_at": "2026-11-19 10:36:46",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-19/CS-Rapid-Bucuresti-at-CSM-Corona-Brasov/539017"
-  },
-  {
-   "detail": "Australian NBL Illawarra 103, Adelaide 97",
-   "detected_at": "2026-11-19 10:36:42",
-   "source": "SCORES",
-   "type": "FINAL",
-   "url": "https://basketball.realgm.com/international/boxscore/2026-11-19/Adelaide-at-Illawarra/524443"
-  },
-  {
-   "detail": "Clifford Omoruyi  ~ team: Free agent -> SIG Strasbourg",
-   "detected_at": "2026-11-19 08:21:36",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Clifford_Omoruyi"
-  },
-  {
-   "detail": "Clifford Omoruyi  ~ league: - -> LNB Élite",
-   "detected_at": "2026-11-19 08:21:36",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Clifford_Omoruyi"
-  },
-  {
-   "detail": "Clifford Omoruyi  ~ number: - -> 7",
-   "detected_at": "2026-11-19 08:21:36",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Clifford_Omoruyi"
-  },
-  {
-   "detail": "Clifford Omoruyi  ~ CAREER  + 2026–present SIG Strasbourg",
-   "detected_at": "2026-11-19 08:21:36",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Clifford_Omoruyi"
-  },
-  {
-   "detail": "Nate Watson  ~ team: Bursaspor Basketbol -> Çayırova Belediyespor",
-   "detected_at": "2026-11-19 07:57:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Nate_Watson"
-  },
-  {
-   "detail": "Nate Watson  ~ number: 7 -> -",
-   "detected_at": "2026-11-19 07:57:35",
-   "source": "WIKI",
-   "type": "CHANGED",
-   "url": "https://en.wikipedia.org/wiki/Nate_Watson"
-  },
-  {
-   "detail": "Nate Watson  ~ CAREER  + 2026 Bursaspor Basketbol",
-   "detected_at": "2026-11-19 07:57:35",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Nate_Watson"
-  },
-  {
-   "detail": "Nate Watson  ~ CAREER  + 2026–present Çayırova Belediye",
-   "detected_at": "2026-11-19 07:57:35",
-   "source": "WIKI",
-   "type": "CAREER",
-   "url": "https://en.wikipedia.org/wiki/Nate_Watson"
-  },
-  {
-   "detail": "2026-11-18  Waivers Cleared: Shawn Jones, Jr",
-   "detected_at": "2026-11-19 06:42:31",
-   "source": "GLEAGUE",
-   "type": "Waived/Buyout"
   }
  ],
  "feeds": {
@@ -10383,12 +10388,12 @@
    "last": "2026-08-08 23:59:59"
   },
   "REALGM": {
-   "count": 11964,
-   "last": "2026-11-27 15:27:47"
+   "count": 11986,
+   "last": "2026-11-27 18:07:42"
   },
   "SCORES": {
-   "count": 6849,
-   "last": "2026-11-27 16:45:18"
+   "count": 6859,
+   "last": "2026-11-27 18:08:40"
   },
   "SHEETS": {
    "count": 5312,
@@ -10407,6 +10412,6 @@
    "last": "2026-11-25 09:08:58"
   }
  },
- "generated_at": "2026-11-27T17:29:36",
- "total": 44648
+ "generated_at": "2026-11-27T18:08:44",
+ "total": 44680
 }
